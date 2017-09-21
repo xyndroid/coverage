@@ -8,13 +8,13 @@ and generate coverage results.
 
 ###### 1.1 Add Clover open souce plugin under &lt;build&gt; &lt;pluginManagement&gt; &lt;plugins&gt; 
 
-`<build>
-    ...
-    <pluginManagement>
-        ...
-        <plugins>
-            ...
-            <plugin>
+`<build>  
+    ...  
+    <pluginManagement>  
+        ...  
+        <plugins>  
+            ...  
+            <plugin>  
                 <groupId> org.openclover</groupId>
                 <artifactId> clover-maven-plugin</artifactId>
                 <version> 4.2.0</version>
