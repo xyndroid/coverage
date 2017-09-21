@@ -1,100 +1,100 @@
 1. The configuration of Clover for a Maven project is the same for ALL Maven projects. Following steps allowed to implement Clover with Maven
-and generate coverage results. 
+and generate coverage results.
 
-1.1 Add Clover open souce plugin under <build><pluginManagement><plugins> 
+1.1 Add Clover open souce plugin under &lt;build&gt; &lt;pluginManagement&gt; &lt;plugins&gt; 
 
-<build>
+&lt;build&gt;
     ...
-    <pluginManagement>
+    &lt;pluginManagement&gt;
         ...
-        <plugins>
+        &lt;plugins&gt; 
             ...
-            <plugin> 
-                <groupId>org.openclover</groupId>
-                <artifactId>clover-maven-plugin</artifactId>
-                <version>4.2.0</version>
-            </plugin> 
-            ... 
-        </plugins>
+            &lt;plugin&gt; 
+                &lt;groupId&gt; org.openclover&lt;/groupId&gt; 
+                &lt;artifactId&gt; clover-maven-plugin&lt;/artifactId&gt; 
+                &lt;version&gt; 4.2.0&lt;/version&gt; 
+            &lt;/plugin&gt; 
+            ...
+        &lt;/plugins&gt; 
         ...
-    </pluginManagement>
-    <plugins>
+    &lt;/pluginManagement&gt; 
+    &lt;plugins&gt; 
         ...
-         <plugin> 
-            <groupId>org.openclover</groupId>
-            <artifactId>clover-maven-plugin</artifactId>
-            <version>4.2.0</version>
-        </plugin> 
+         &lt;plugin&gt; 
+            &lt;groupId&gt; org.openclover&lt;/groupId&gt; 
+            &lt;artifactId&gt; clover-maven-plugin&lt;/artifactId&gt; 
+            &lt;version&gt; 4.2.0&lt;/version&gt; 
+        &lt;/plugin&gt; 
         ...
-    </plugins>
+    &lt;/plugins&gt; 
     ...
-</build>
+&lt;/build&gt; 
 
 
-1.2 Add Clover open souce profile under <project><profiles>
+1.2 Add Clover open souce profile under &lt;project&gt; &lt;profiles&gt; 
 
-<project>
+&lt;project&gt; 
     ...
-    <profiles>
+    &lt;profiles&gt; 
         ...
-        <profile> 
-          <id>clover</id> 
-          <activation> 
-            <activeByDefault>true</activeByDefault> 
-            <property> 
-              <name>clover</name> 
-            </property> 
-          </activation> 
-          <properties> 
-            <cloverDatabase>${project.build.directory}/clover/coverage.db</cloverDatabase> 
-            cloverAlwaysReport>true</cloverAlwaysReport> 
-            <cloverGenHtml>true</cloverGenHtml> 
-            <cloverGenXml>true</cloverGenXml> 
-            <cloverGenHistorical>true</cloverGenHistorical> 
-            <myHistoryDir>target/clover</myHistoryDir> 
-          </properties> 
-          <build> 
-            <plugins> 
-              <plugin> 
-                <groupId>org.openclover</groupId> 
-                <artifactId>clover-maven-plugin</artifactId> 
-                <version>4.2.0</version> 
-                <configuration> 
-                  <includesAllSourceRoots>true</includesAllSourceRoots> 
-                  <includesTestSourceRoots>true</includesTestSourceRoots> 
-                  <cloverDatabase>${cloverDatabase}</cloverDatabase> 
-                  <targetPercentage>50%</targetPercentage> 
-                  <outputDirectory>target/clover</outputDirectory> 
-                  <alwaysReport>${cloverAlwaysReport}</alwaysReport> 
-                  <generateHtml>${cloverGenHtml}</generateHtml> 
-                  <generateXml>${cloverGenXml}</generateXml> 
-                  <generateHistorical>${cloverGenHistorical}</generateHistorical> 
-                  <historyDir>${myHistoryDir}</historyDir> 
-                </configuration> 
-                <executions> 
-                  <execution> 
-                    <id>clover-setup</id> 
-                    <phase>process-sources</phase> 
-                    <goals> 
-                      <goal>setup</goal> 
-                    </goals> 
-                  </execution> 
-                  <execution> 
-                    <id>clover</id> 
-                    <phase>test</phase> 
-                    <goals> 
-                      <goal>clover</goal> 
-                    </goals> 
-                  </execution> 
-                </executions> 
-              </plugin> 
-            </plugins> 
-          </build> 
-        </profile>        
-        ... 
-    </profiles>
+        &lt;profile&gt; 
+          &lt;id&gt; clover&lt;/id&gt; 
+          &lt;activation&gt; 
+            &lt;activeByDefault&gt; true&lt;/activeByDefault&gt; 
+            &lt;property&gt; 
+              &lt;name&gt; clover&lt;/name&gt; 
+            &lt;/property&gt; 
+          &lt;/activation&gt; 
+          &lt;properties&gt; 
+            &lt;cloverDatabase&gt; ${project.build.directory}/clover/coverage.db&lt;/cloverDatabase&gt; 
+            cloverAlwaysReport&gt; true&lt;/cloverAlwaysReport&gt; 
+            &lt;cloverGenHtml&gt; true&lt;/cloverGenHtml&gt; 
+            &lt;cloverGenXml&gt; true&lt;/cloverGenXml&gt; 
+            &lt;cloverGenHistorical&gt; true&lt;/cloverGenHistorical&gt; 
+            &lt;myHistoryDir&gt; target/clover&lt;/myHistoryDir&gt; 
+          &lt;/properties&gt; 
+          &lt;build&gt;
+            &lt;plugins&gt;
+              &lt;plugin&gt;
+                &lt;groupId&gt;org.openclover&lt;/groupId&gt;
+                &lt;artifactId&gt;clover-maven-plugin&lt;/artifactId&gt;
+                &lt;version&gt;4.2.0&lt;/version&gt;
+                &lt;configuration&gt;
+                  &lt;includesAllSourceRoots&gt;true&lt;/includesAllSourceRoots&gt;
+                  &lt;includesTestSourceRoots&gt;true&lt;/includesTestSourceRoots&gt;
+                  &lt;cloverDatabase&gt;${cloverDatabase}&lt;/cloverDatabase&gt;
+                  &lt;targetPercentage&gt;50%&lt;/targetPercentage&gt;
+                  &lt;outputDirectory&gt;target/clover&lt;/outputDirectory&gt;
+                  &lt;alwaysReport&gt;${cloverAlwaysReport}&lt;/alwaysReport&gt;
+                  &lt;generateHtml&gt;${cloverGenHtml}&lt;/generateHtml&gt;
+                  &lt;generateXml&gt;${cloverGenXml}&lt;/generateXml&gt;
+                  &lt;generateHistorical&gt;${cloverGenHistorical}&lt;/generateHistorical&gt;
+                  &lt;historyDir&gt;${myHistoryDir}&lt;/historyDir&gt;
+                &lt;/configuration&gt;
+                &lt;executions&gt;
+                  &lt;execution&gt;
+                    &lt;id&gt;clover-setup&lt;/id&gt;
+                    &lt;phase&gt;process-sources&lt;/phase&gt;
+                    &lt;goals&gt;
+                      &lt;goal&gt;setup&lt;/goal&gt;
+                    &lt;/goals&gt;
+                  &lt;/execution&gt;
+                  &lt;execution&gt;
+                    &lt;id&gt;clover&lt;/id&gt;
+                    &lt;phase&gt;test&lt;/phase&gt;
+                    &lt;goals&gt;
+                      &lt;goal&gt;clover&lt;/goal&gt;
+                    &lt;/goals&gt;
+                  &lt;/execution&gt;
+                &lt;/executions&gt;
+              &lt;/plugin&gt;
+            &lt;/plugins&gt;
+          &lt;/build&gt;
+        &lt;/profile&gt;
+        ...
+    &lt;/profiles&gt;
     ...
-</project>
+&lt;/project&gt;
 
 2. Once the setup is done. run following commands
 
