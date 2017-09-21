@@ -3,6 +3,14 @@ Andy Baljinnyam, a student at University of Kentuckyi, with collaboration with
 Dr. Tingting Yu, professor at University of Kentucky and 
 Dr. Lu Xiao, professor at Stevens Institude of Technology. 
 
+Projects tested:
+
+1. Apache Hadoop-2.5.0 https://archive.apache.org/dist/hadoop/common/
+2. Apache Hbase-1.2.6 http://mirror.cc.columbia.edu/pub/software/apache/hbase/
+3. Apache Mahout-0.12.2 http://archive.apache.org/dist/mahout/
+4. Apache OpenJPA-2.4.2 http://openjpa.apache.org/downloads.html
+5. Apache Camel-2.19.1 http://camel.apache.org/download-archives.html
+
 ##### 1. The configuration of Clover for a Maven project is the same for ALL Maven projects. Following steps allowed to implement Clover with Maven and generate coverage results.
 
 ###### 1.1 Add Clover open souce plugin under &lt;build&gt; &lt;pluginManagement&gt; &lt;plugins&gt;
