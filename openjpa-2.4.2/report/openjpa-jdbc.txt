@@ -1,0 +1,249 @@
+./openjpa-jdbc/target/clover/org/apache/openjpa
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/kernel/TestSQLStoreParamsSubstitution
+TestSQLStoreParamsSubstitution		0.9
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/kernel/TestSQLStoreParamsSubstitution_testParamSubstitute_i
+org.apache.openjpa.jdbc.kernel.SQLStoreQuery		0.6181818
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/kernel/TestUpdateManagerFlushException
+TestUpdateManagerFlushException		0.25
+TestUpdateManagerFlushException.TestUpdateManager		0.0
+TestUpdateManagerFlushException.TestOpenJPAStateManager		0.0
+TestUpdateManagerFlushException.TestConnection		0.0
+TestUpdateManagerFlushException.TestJDBCStore		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/kernel/TestUpdateManagerFlushException_testDummy_m
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/kernel/test-TestSQLStoreParamsSubstitution
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/kernel/test-TestUpdateManagerFlushException
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/kernel/test-TestUpdateManagerFlushException_TestConnection
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/kernel/test-TestUpdateManagerFlushException_TestJDBCStore
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/kernel/test-TestUpdateManagerFlushException_TestOpenJPAStateManager
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/kernel/test-TestUpdateManagerFlushException_TestUpdateManager
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/meta/TestMappingDefaultsImpl
+TestMappingDefaultsImpl		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/meta/TestMappingDefaultsImpl_testPopulateWithLongColumnNames_e
+org.apache.openjpa.jdbc.conf.FetchModeValue		1.0
+org.apache.openjpa.jdbc.identifier.ColumnDefIdentifierRule		1.0
+org.apache.openjpa.jdbc.identifier.DBIdentifierRule		1.0
+org.apache.openjpa.jdbc.sql.SQLErrorCodeReader		0.6125
+org.apache.openjpa.jdbc.conf.JDBCProductDerivation		0.56
+org.apache.openjpa.jdbc.schema.NameSet		0.3902439
+org.apache.openjpa.jdbc.identifier.QualifiedDBIdentifier		0.29441625
+org.apache.openjpa.jdbc.identifier.DBIdentifier		0.2750533
+org.apache.openjpa.jdbc.conf.JDBCConfigurationImpl		0.2530541
+org.apache.openjpa.jdbc.identifier.DefaultIdentifierConfiguration		0.15384616
+org.apache.openjpa.jdbc.identifier.Normalizer		0.1495327
+org.apache.openjpa.jdbc.identifier.DBIdentifierUtilImpl		0.14929578
+org.apache.openjpa.jdbc.sql.DBDictionaryFactory		0.07968128
+org.apache.openjpa.jdbc.sql.OracleDictionary		0.05901639
+org.apache.openjpa.jdbc.meta.MappingDefaultsImpl		0.050574712
+org.apache.openjpa.jdbc.schema.Column		0.035149384
+org.apache.openjpa.jdbc.meta.Version		0.02793296
+org.apache.openjpa.jdbc.schema.Table		0.027642276
+org.apache.openjpa.jdbc.sql.DBDictionary		0.026494147
+org.apache.openjpa.jdbc.meta.Discriminator		0.023923445
+org.apache.openjpa.jdbc.conf.MappingFactoryValue		0.022727273
+org.apache.openjpa.jdbc.meta.ClassMapping		0.016717326
+org.apache.openjpa.jdbc.meta.MappingRepository		0.016666668
+org.apache.openjpa.jdbc.meta.ClassMappingInfo		0.006289308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/meta/test-TestMappingDefaultsImpl
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/TestBooleanRepresentation
+TestBooleanRepresentation		0.8857143
+TestBooleanRepresentation.DummyPreparedStatement		0.875
+TestBooleanRepresentation.DummyTestBooleanRepresentation		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/TestBooleanRepresentation_testBooleanRepresentation_9
+org.apache.openjpa.jdbc.sql.BooleanRepresentationFactory.StringBooleanRepresentation		0.6
+org.apache.openjpa.jdbc.sql.BooleanRepresentationFactory		0.53571427
+org.apache.openjpa.jdbc.sql.BooleanRepresentationFactory.BooleanBooleanRepresentation		0.5
+org.apache.openjpa.jdbc.sql.BooleanRepresentationFactory.Int10BooleanRepresentation		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/TestDB2Dictionary
+TestDB2Dictionary		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/TestDB2Dictionary_testConnectedConfigurationOnlyUsesMetaData_k
+org.apache.openjpa.jdbc.identifier.ColumnDefIdentifierRule		1.0
+org.apache.openjpa.jdbc.identifier.DBIdentifierRule		1.0
+org.apache.openjpa.jdbc.sql.AbstractDB2Dictionary		0.42857143
+org.apache.openjpa.jdbc.sql.BooleanRepresentationFactory		0.32142857
+org.apache.openjpa.jdbc.sql.BooleanRepresentationFactory.StringBooleanRepresentation		0.2
+org.apache.openjpa.jdbc.sql.DB2Dictionary		0.07733333
+org.apache.openjpa.jdbc.sql.DBDictionary		0.019716574
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/TestDB2Dictionary_testGetDefaultSchemaNameDS1_l
+org.apache.openjpa.jdbc.identifier.ColumnDefIdentifierRule		1.0
+org.apache.openjpa.jdbc.identifier.DBIdentifierRule		1.0
+org.apache.openjpa.jdbc.sql.AbstractDB2Dictionary		0.42857143
+org.apache.openjpa.jdbc.sql.DB2Dictionary		0.09866667
+org.apache.openjpa.jdbc.sql.DBDictionary		0.0064695007
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/TestDB2Dictionary_testGetDefaultSchemaNameDS2_2
+org.apache.openjpa.jdbc.identifier.ColumnDefIdentifierRule		1.0
+org.apache.openjpa.jdbc.identifier.DBIdentifierRule		1.0
+org.apache.openjpa.jdbc.sql.AbstractDB2Dictionary		0.42857143
+org.apache.openjpa.jdbc.sql.DB2Dictionary		0.101333335
+org.apache.openjpa.jdbc.sql.DBDictionary		0.0064695007
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/TestDB2Dictionary_testGetDefaultSchemaNameNoDS_7
+org.apache.openjpa.jdbc.identifier.ColumnDefIdentifierRule		1.0
+org.apache.openjpa.jdbc.identifier.DBIdentifierRule		1.0
+org.apache.openjpa.jdbc.sql.AbstractDB2Dictionary		0.42857143
+org.apache.openjpa.jdbc.sql.DB2Dictionary		0.08533333
+org.apache.openjpa.jdbc.sql.DBDictionary		0.005853358
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/TestDB2Dictionary_testGetDefaultSchemaNameTrimmed_6
+org.apache.openjpa.jdbc.identifier.ColumnDefIdentifierRule		1.0
+org.apache.openjpa.jdbc.identifier.DBIdentifierRule		1.0
+org.apache.openjpa.jdbc.sql.AbstractDB2Dictionary		0.42857143
+org.apache.openjpa.jdbc.sql.DB2Dictionary		0.09866667
+org.apache.openjpa.jdbc.sql.DBDictionary		0.0064695007
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/TestDBDictionaryGeneratedSQL
+TestDBDictionaryGeneratedSQL		0.96703297
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/TestDBDictionaryGeneratedSQL_testCreateTableLongNameException_f
+org.apache.openjpa.jdbc.identifier.ColumnDefIdentifierRule		1.0
+org.apache.openjpa.jdbc.identifier.DBIdentifierRule		1.0
+org.apache.openjpa.jdbc.identifier.QualifiedDBIdentifier		0.24365482
+org.apache.openjpa.jdbc.identifier.DefaultIdentifierConfiguration		0.15384616
+org.apache.openjpa.jdbc.identifier.DBIdentifier		0.14498934
+org.apache.openjpa.jdbc.identifier.Normalizer		0.07476635
+org.apache.openjpa.jdbc.schema.Table		0.022764228
+org.apache.openjpa.jdbc.sql.DBDictionary		0.011706716
+org.apache.openjpa.jdbc.identifier.DBIdentifierUtilImpl		0.0028169013
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/TestDBDictionaryGeneratedSQL_testOverridePropertyShortName_8
+org.apache.openjpa.jdbc.identifier.ColumnDefIdentifierRule		1.0
+org.apache.openjpa.jdbc.identifier.DBIdentifierRule		1.0
+org.apache.openjpa.jdbc.identifier.QualifiedDBIdentifier		0.37563452
+org.apache.openjpa.jdbc.identifier.DBIdentifier		0.18550107
+org.apache.openjpa.jdbc.identifier.DefaultIdentifierConfiguration		0.15384616
+org.apache.openjpa.jdbc.identifier.Normalizer		0.093457945
+org.apache.openjpa.jdbc.schema.Table		0.06178862
+org.apache.openjpa.jdbc.sql.DBDictionary		0.017560074
+org.apache.openjpa.jdbc.identifier.DBIdentifierUtilImpl		0.0028169013
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/TestDBDictionaryGeneratedSQL_testOverrideProperty_a
+org.apache.openjpa.jdbc.identifier.ColumnDefIdentifierRule		1.0
+org.apache.openjpa.jdbc.identifier.DBIdentifierRule		1.0
+org.apache.openjpa.jdbc.identifier.QualifiedDBIdentifier		0.37563452
+org.apache.openjpa.jdbc.identifier.DBIdentifier		0.18550107
+org.apache.openjpa.jdbc.identifier.DefaultIdentifierConfiguration		0.15384616
+org.apache.openjpa.jdbc.identifier.Normalizer		0.093457945
+org.apache.openjpa.jdbc.schema.Table		0.037398376
+org.apache.openjpa.jdbc.sql.DBDictionary		0.011706716
+org.apache.openjpa.jdbc.identifier.DBIdentifierUtilImpl		0.0028169013
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/TestDBDictionaryGeneratedSQL_testSchemaNameIsNotConsidered_b
+org.apache.openjpa.jdbc.identifier.ColumnDefIdentifierRule		1.0
+org.apache.openjpa.jdbc.identifier.DBIdentifierRule		1.0
+org.apache.openjpa.jdbc.identifier.QualifiedDBIdentifier		0.42131978
+org.apache.openjpa.jdbc.identifier.DBIdentifier		0.18976545
+org.apache.openjpa.jdbc.identifier.DefaultIdentifierConfiguration		0.15384616
+org.apache.openjpa.jdbc.identifier.Normalizer		0.093457945
+org.apache.openjpa.jdbc.schema.Table		0.06178862
+org.apache.openjpa.jdbc.sql.DBDictionary		0.017560074
+org.apache.openjpa.jdbc.identifier.DBIdentifierUtilImpl		0.0028169013
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/TestDBDictionaryGeneratedSQL_testThrowsExceptionWithSchemaSet_3
+org.apache.openjpa.jdbc.identifier.ColumnDefIdentifierRule		1.0
+org.apache.openjpa.jdbc.identifier.DBIdentifierRule		1.0
+org.apache.openjpa.jdbc.identifier.QualifiedDBIdentifier		0.42131978
+org.apache.openjpa.jdbc.identifier.DBIdentifier		0.18976545
+org.apache.openjpa.jdbc.identifier.DefaultIdentifierConfiguration		0.15384616
+org.apache.openjpa.jdbc.identifier.Normalizer		0.093457945
+org.apache.openjpa.jdbc.schema.Table		0.037398376
+org.apache.openjpa.jdbc.sql.DBDictionary		0.011706716
+org.apache.openjpa.jdbc.identifier.DBIdentifierUtilImpl		0.0028169013
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/TestDictionaryFactory
+TestDictionaryFactory		0.8333333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/TestDictionaryFactory_testUrl2Dictionary_5
+org.apache.openjpa.jdbc.sql.DBDictionaryFactory		0.10358566
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/TestMySQLDictionary
+TestMySQLDictionary		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/TestMySQLDictionary_testDBDictionaryGetBatchFetchSize_1
+org.apache.openjpa.jdbc.sql.MySQLDictionary		0.13405797
+org.apache.openjpa.jdbc.sql.DBDictionary		0.0021565002
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/TestMySQLDictionary_testPreparedCallGetFetchBatchSize_c
+org.apache.openjpa.jdbc.sql.MySQLDictionary		0.13405797
+org.apache.openjpa.jdbc.sql.SQLBuffer		0.08723404
+org.apache.openjpa.jdbc.kernel.JDBCFetchConfigurationImpl		0.04761905
+org.apache.openjpa.jdbc.sql.DBDictionary		0.0021565002
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/TestMySQLDictionary_testPreparedStatementGetFetchBatchSize_4
+org.apache.openjpa.jdbc.sql.MySQLDictionary		0.13405797
+org.apache.openjpa.jdbc.sql.SQLBuffer		0.08723404
+org.apache.openjpa.jdbc.kernel.JDBCFetchConfigurationImpl		0.08571429
+org.apache.openjpa.jdbc.sql.DBDictionary		0.0021565002
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/identifier/TestDBIdentifiers
+TestDBIdentifiers		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/identifier/TestDBIdentifiers_testColumnOps_g
+testColumnOps
+org.apache.openjpa.jdbc.identifier.QualifiedDBIdentifier		0.42639595
+org.apache.openjpa.jdbc.identifier.DefaultIdentifierConfiguration		0.23076923
+org.apache.openjpa.jdbc.identifier.DBIdentifier		0.20255864
+org.apache.openjpa.jdbc.identifier.Normalizer		0.13084112
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/identifier/TestDBIdentifiers_testDBIdentifierOps_h
+testDBIdentifierOps
+org.apache.openjpa.jdbc.identifier.DBIdentifierRule		0.6
+org.apache.openjpa.jdbc.identifier.QualifiedDBIdentifier		0.45177665
+org.apache.openjpa.jdbc.identifier.DefaultIdentifierConfiguration		0.3846154
+org.apache.openjpa.jdbc.identifier.DBIdentifier		0.3304904
+org.apache.openjpa.jdbc.identifier.Normalizer		0.22429906
+org.apache.openjpa.jdbc.identifier.DBIdentifierUtilImpl		0.0056338026
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/identifier/TestDBIdentifiers_testPathOps_j
+testPathOps
+org.apache.openjpa.jdbc.identifier.QualifiedDBIdentifier		0.52284265
+org.apache.openjpa.jdbc.identifier.DBIdentifier		0.23880596
+org.apache.openjpa.jdbc.identifier.DefaultIdentifierConfiguration		0.23076923
+org.apache.openjpa.jdbc.identifier.Normalizer		0.1495327
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/identifier/TestDBIdentifiers_testSchemaOps_d
+testSchemaOps
+org.apache.openjpa.jdbc.identifier.QualifiedDBIdentifier		0.25888324
+org.apache.openjpa.jdbc.identifier.DefaultIdentifierConfiguration		0.23076923
+org.apache.openjpa.jdbc.identifier.DBIdentifier		0.19189766
+org.apache.openjpa.jdbc.identifier.Normalizer		0.13084112
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/identifier/TestDBIdentifiers_testTableOps_0
+testTableOps
+org.apache.openjpa.jdbc.identifier.QualifiedDBIdentifier		0.4720812
+org.apache.openjpa.jdbc.identifier.DBIdentifier		0.26439232
+org.apache.openjpa.jdbc.identifier.DefaultIdentifierConfiguration		0.23076923
+org.apache.openjpa.jdbc.identifier.Normalizer		0.1495327
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/identifier/test-TestDBIdentifiers
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/test-TestBooleanRepresentation
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/test-TestBooleanRepresentation_DummyPreparedStatement
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/test-TestBooleanRepresentation_DummyTestBooleanRepresentation
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/test-TestDB2Dictionary
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/test-TestDBDictionaryGeneratedSQL
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/test-TestDictionaryFactory
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jdbc/target/clover/org/apache/openjpa/jdbc/sql/test-TestMySQLDictionary
+-- -- -- -- -- -- -- -- -- -- -- -- --

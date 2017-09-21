@@ -1,0 +1,84 @@
+./components/camel-elsql/target/site/clover/org/apache/camel
+./components/camel-elsql/target/site/clover/org/apache/camel/component/elsql/ElSqlComponentTest
+ElSqlComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elsql/target/site/clover/org/apache/camel/component/elsql/ElSqlComponentTest_testSimpleBody_3
+org.apache.camel.component.elsql.ElsqlSqlMapSource		0.5294118
+org.apache.camel.component.elsql.ElsqlProducer		0.27857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elsql/target/site/clover/org/apache/camel/component/elsql/ElSqlConsumerDeleteTest
+ElSqlConsumerDeleteTest		0.94285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elsql/target/site/clover/org/apache/camel/component/elsql/ElSqlConsumerDeleteTest_testConsume_4
+org.apache.camel.component.elsql.ElsqlSqlMapSource		0.6764706
+org.apache.camel.component.elsql.ElsqlSqlPrepareStatementStrategy		0.4
+org.apache.camel.component.elsql.ElsqlSqlProcessingStrategy		0.34375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elsql/target/site/clover/org/apache/camel/component/elsql/ElSqlConsumerTest
+ElSqlConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elsql/target/site/clover/org/apache/camel/component/elsql/ElSqlConsumerTest_testConsume_8
+org.apache.camel.component.elsql.ElsqlSqlPrepareStatementStrategy		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elsql/target/site/clover/org/apache/camel/component/elsql/ElSqlDataSourceTest
+ElSqlDataSourceTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elsql/target/site/clover/org/apache/camel/component/elsql/ElSqlDataSourceTest_testSimpleBody_5
+org.apache.camel.component.elsql.ElsqlSqlMapSource		0.5294118
+org.apache.camel.component.elsql.ElsqlProducer		0.27857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elsql/target/site/clover/org/apache/camel/component/elsql/ElSqlProducerBatchTest
+ElSqlProducerBatchTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elsql/target/site/clover/org/apache/camel/component/elsql/ElSqlProducerBatchTest_testBatchMode_2
+org.apache.camel.component.elsql.ElsqlSqlMapSource		0.6764706
+org.apache.camel.component.elsql.ElsqlProducer		0.27142859
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elsql/target/site/clover/org/apache/camel/component/elsql/ElSqlProducerBodySimpleTest
+ElSqlProducerBodySimpleTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elsql/target/site/clover/org/apache/camel/component/elsql/ElSqlProducerBodySimpleTest_testBodyParameter_9
+org.apache.camel.component.elsql.ElsqlSqlMapSource		0.6764706
+org.apache.camel.component.elsql.ElsqlProducer		0.27857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elsql/target/site/clover/org/apache/camel/component/elsql/ElSqlProducerBodySimpleTest_testHeadersParameter_0
+org.apache.camel.component.elsql.ElsqlSqlMapSource		0.7352941
+org.apache.camel.component.elsql.ElsqlProducer		0.27857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elsql/target/site/clover/org/apache/camel/component/elsql/ElSqlProducerBodySimpleTest_testSimpleBody_7
+org.apache.camel.component.elsql.ElsqlSqlMapSource		0.64705884
+org.apache.camel.component.elsql.ElsqlProducer		0.27857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elsql/target/site/clover/org/apache/camel/component/elsql/ElSqlProducerBodySimpleTest_testUpdateHeader_6
+org.apache.camel.component.elsql.ElsqlSqlMapSource		0.7352941
+org.apache.camel.component.elsql.ElsqlProducer		0.19285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elsql/target/site/clover/org/apache/camel/component/elsql/ElSqlProducerStreamListTest
+ElSqlProducerStreamListTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elsql/target/site/clover/org/apache/camel/component/elsql/ElSqlProducerStreamListTest_testReturnAnIterator_a
+org.apache.camel.component.elsql.ElsqlProducer		0.27857143
+org.apache.camel.component.elsql.ElsqlSqlMapSource		0.23529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elsql/target/site/clover/org/apache/camel/component/elsql/ElSqlProducerStreamListTest_testSplitWithModel_b
+org.apache.camel.component.elsql.ElsqlProducer		0.27857143
+org.apache.camel.component.elsql.ElsqlSqlMapSource		0.23529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elsql/target/site/clover/org/apache/camel/component/elsql/ElSqlProducerStreamListTest_testSplit_1
+org.apache.camel.component.elsql.ElsqlProducer		0.27857143
+org.apache.camel.component.elsql.ElsqlSqlMapSource		0.23529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elsql/target/site/clover/org/apache/camel/component/elsql/test-ElSqlComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elsql/target/site/clover/org/apache/camel/component/elsql/test-ElSqlConsumerDeleteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elsql/target/site/clover/org/apache/camel/component/elsql/test-ElSqlConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elsql/target/site/clover/org/apache/camel/component/elsql/test-ElSqlDataSourceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elsql/target/site/clover/org/apache/camel/component/elsql/test-ElSqlProducerBatchTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elsql/target/site/clover/org/apache/camel/component/elsql/test-ElSqlProducerBodySimpleTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elsql/target/site/clover/org/apache/camel/component/elsql/test-ElSqlProducerStreamListTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

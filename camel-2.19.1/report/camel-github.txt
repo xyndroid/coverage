@@ -1,0 +1,150 @@
+./components/camel-github/target/site/clover/org/apache/camel
+./components/camel-github/target/site/clover/org/apache/camel/component/github/GitHubComponentTestBase
+GitHubComponentTestBase		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/consumer/CommitConsumerTest
+CommitConsumerTest		1.0
+CommitConsumerTest.GitHubCommitProcessor		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/consumer/CommitConsumerTest_commitConsumerTest_1
+commitConsumerTest
+org.apache.camel.component.github.consumer.CommitConsumer		0.5
+org.apache.camel.component.github.consumer.AbstractGitHubConsumer		0.08695652
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/consumer/CommitConsumerTest_emptyAtStartupTest_6
+emptyAtStartupTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/consumer/PullRequestCommentConsumerTest
+PullRequestCommentConsumerTest		1.0
+PullRequestCommentConsumerTest.PullRequestCommentProcessor		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/consumer/PullRequestCommentConsumerTest_emptyAtStartupTest_9
+emptyAtStartupTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/consumer/PullRequestCommentConsumerTest_pullRequestCommentTest_2
+pullRequestCommentTest
+org.apache.camel.component.github.consumer.PullRequestCommentConsumer		0.40350878
+org.apache.camel.component.github.consumer.AbstractGitHubConsumer		0.08695652
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/consumer/PullRequestConsumerTest
+PullRequestConsumerTest		1.0
+PullRequestConsumerTest.MockPullRequestProcessor		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/consumer/PullRequestConsumerTest_emptyAtStartupTest_c
+emptyAtStartupTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/consumer/PullRequestConsumerTest_pullRequestTest_a
+pullRequestTest
+org.apache.camel.component.github.consumer.PullRequestConsumer		0.4883721
+org.apache.camel.component.github.consumer.AbstractGitHubConsumer		0.08695652
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/consumer/TagConsumerTest
+TagConsumerTest		1.0
+TagConsumerTest.RepositoryTagProcessor		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/consumer/TagConsumerTest_emptyAtStartupTest_d
+emptyAtStartupTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/consumer/TagConsumerTest_tagConsumerTest_7
+tagConsumerTest
+org.apache.camel.component.github.consumer.TagConsumer		0.6956522
+org.apache.camel.component.github.consumer.AbstractGitHubConsumer		0.17391305
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/consumer/test-CommitConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/consumer/test-CommitConsumerTest_GitHubCommitProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/consumer/test-PullRequestCommentConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/consumer/test-PullRequestCommentConsumerTest_PullRequestCommentProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/consumer/test-PullRequestConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/consumer/test-PullRequestConsumerTest_MockPullRequestProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/consumer/test-TagConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/consumer/test-TagConsumerTest_RepositoryTagProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/producer/ClosePullRequestProducerTest
+ClosePullRequestProducerTest		0.95454544
+ClosePullRequestProducerTest.ClosePullRequestProducerProcessor		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/producer/ClosePullRequestProducerTest_emptyAtStartupTest_b
+emptyAtStartupTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/producer/ClosePullRequestProducerTest_testPullRequestCommentProducer_8
+testPullRequestCommentProducer
+org.apache.camel.component.github.producer.ClosePullRequestProducer		0.3809524
+org.apache.camel.component.github.producer.AbstractGitHubProducer		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/producer/CreateIssueProducerTest
+CreateIssueProducerTest		1.0
+CreateIssueProducerTest.MockIssueCreateProducerProcessor		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/producer/CreateIssueProducerTest_emptyAtStartupTest_f
+emptyAtStartupTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/producer/CreateIssueProducerTest_testCreateIssue_3
+testCreateIssue
+org.apache.camel.component.github.producer.CreateIssueProducer		0.45454547
+org.apache.camel.component.github.producer.AbstractGitHubProducer		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/producer/PullRequestCommentProducerTest
+PullRequestCommentProducerTest		1.0
+PullRequestCommentProducerTest.MockPullRequestCommentProducerProcessor		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/producer/PullRequestCommentProducerTest_emptyAtStartupTest_0
+emptyAtStartupTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/producer/PullRequestCommentProducerTest_testPullRequestCommentProducer_5
+testPullRequestCommentProducer
+org.apache.camel.component.github.producer.PullRequestCommentProducer		0.3030303
+org.apache.camel.component.github.producer.AbstractGitHubProducer		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/producer/PullRequestFilesProducerTest
+PullRequestFilesProducerTest		1.0
+PullRequestFilesProducerTest.MockPullFilesProducerProcessor		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/producer/PullRequestFilesProducerTest_emptyAtStartupTest_e
+emptyAtStartupTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/producer/PullRequestFilesProducerTest_testPullRequestFilesProducer_h
+testPullRequestFilesProducer
+org.apache.camel.component.github.producer.PullRequestFilesProducer		0.3125
+org.apache.camel.component.github.producer.AbstractGitHubProducer		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/producer/PullRequestStateProducerTest
+PullRequestStateProducerTest		0.8333333
+PullRequestStateProducerTest.MockPullRequestStateProducerProcessor		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/producer/PullRequestStateProducerTest_emptyAtStartupTest_4
+emptyAtStartupTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/producer/PullRequestStateProducerTest_testPullRequestStateProducer_g
+testPullRequestStateProducer
+org.apache.camel.component.github.producer.PullRequestStateProducer		0.46875
+org.apache.camel.component.github.producer.AbstractGitHubProducer		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/producer/test-ClosePullRequestProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/producer/test-ClosePullRequestProducerTest_ClosePullRequestProducerProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/producer/test-CreateIssueProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/producer/test-CreateIssueProducerTest_MockIssueCreateProducerProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/producer/test-PullRequestCommentProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/producer/test-PullRequestCommentProducerTest_MockPullRequestCommentProducerProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/producer/test-PullRequestFilesProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/producer/test-PullRequestFilesProducerTest_MockPullFilesProducerProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/producer/test-PullRequestStateProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/producer/test-PullRequestStateProducerTest_MockPullRequestStateProducerProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-github/target/site/clover/org/apache/camel/component/github/test-GitHubComponentTestBase
+-- -- -- -- -- -- -- -- -- -- -- -- --

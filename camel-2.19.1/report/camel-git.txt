@@ -1,0 +1,176 @@
+./components/camel-git/target/site/clover/org/apache/camel
+./components/camel-git/target/site/clover/org/apache/camel/component/git/GitTestSupport
+GitTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/consumer/GitConsumerTest
+GitConsumerTest		0.98876405
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/consumer/GitConsumerTest_branchConsumerTest_k
+branchConsumerTest
+org.apache.camel.component.git.consumer.GitBranchConsumer		0.8
+org.apache.camel.component.git.consumer.GitCommitConsumer		0.8
+org.apache.camel.component.git.consumer.GitTagConsumer		0.33333334
+org.apache.camel.component.git.consumer.AbstractGitConsumer		0.08695652
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/consumer/GitConsumerTest_commitConsumerTest_5
+commitConsumerTest
+org.apache.camel.component.git.consumer.GitCommitConsumer		0.73333335
+org.apache.camel.component.git.consumer.GitBranchConsumer		0.6
+org.apache.camel.component.git.consumer.GitTagConsumer		0.33333334
+org.apache.camel.component.git.consumer.AbstractGitConsumer		0.08695652
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/consumer/GitConsumerTest_tagConsumerTest_9
+tagConsumerTest
+org.apache.camel.component.git.consumer.GitCommitConsumer		0.8
+org.apache.camel.component.git.consumer.GitTagConsumer		0.8
+org.apache.camel.component.git.consumer.AbstractGitConsumer		0.08695652
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/consumer/test-GitConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/producer/GitProducerTest
+GitProducerTest		0.97987926
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/producer/GitProducerTest_addAndStatusAndCommitTest_f
+addAndStatusAndCommitTest
+org.apache.camel.component.git.producer.GitProducer		0.14555256
+org.apache.camel.component.git.GitEndpoint		0.13333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/producer/GitProducerTest_addTest_2
+addTest
+org.apache.camel.component.git.GitEndpoint		0.1
+org.apache.camel.component.git.producer.GitProducer		0.053908356
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/producer/GitProducerTest_cherryPickBranchToMasterTest_l
+cherryPickBranchToMasterTest
+org.apache.camel.component.git.GitEndpoint		0.1
+org.apache.camel.component.git.producer.GitProducer		0.08086254
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/producer/GitProducerTest_cherryPickTest_s
+cherryPickTest
+org.apache.camel.component.git.GitEndpoint		0.1
+org.apache.camel.component.git.producer.GitProducer		0.08086254
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/producer/GitProducerTest_cloneTest_i
+cloneTest
+org.apache.camel.component.git.GitEndpoint		0.13333334
+org.apache.camel.component.git.producer.GitProducer		0.06738544
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/producer/GitProducerTest_commitAllDifferentBranchTest_0
+commitAllDifferentBranchTest
+org.apache.camel.component.git.GitEndpoint		0.13333334
+org.apache.camel.component.git.producer.GitProducer		0.11590297
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/producer/GitProducerTest_commitAllTest_4
+commitAllTest
+org.apache.camel.component.git.GitEndpoint		0.13333334
+org.apache.camel.component.git.producer.GitProducer		0.07816712
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/producer/GitProducerTest_commitBranchTest_d
+commitBranchTest
+org.apache.camel.component.git.GitEndpoint		0.13333334
+org.apache.camel.component.git.producer.GitProducer		0.08086254
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/producer/GitProducerTest_commitTestAllowEmptyFalse_r
+commitTestAllowEmptyFalse
+org.apache.camel.component.git.GitEndpoint		0.13333334
+org.apache.camel.component.git.producer.GitProducer		0.08086254
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/producer/GitProducerTest_commitTestEmpty_g
+commitTestEmpty
+org.apache.camel.component.git.GitEndpoint		0.13333334
+org.apache.camel.component.git.producer.GitProducer		0.07816712
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/producer/GitProducerTest_commitTest_n
+commitTest
+org.apache.camel.component.git.GitEndpoint		0.13333334
+org.apache.camel.component.git.producer.GitProducer		0.07816712
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/producer/GitProducerTest_createBranchTest_m
+createBranchTest
+org.apache.camel.component.git.GitEndpoint		0.1
+org.apache.camel.component.git.producer.GitProducer		0.043126684
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/producer/GitProducerTest_createTagTest_j
+createTagTest
+org.apache.camel.component.git.GitEndpoint		0.1
+org.apache.camel.component.git.producer.GitProducer		0.043126684
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/producer/GitProducerTest_deleteBranchTest_b
+deleteBranchTest
+org.apache.camel.component.git.GitEndpoint		0.1
+org.apache.camel.component.git.producer.GitProducer		0.043126684
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/producer/GitProducerTest_deleteTagTest_a
+deleteTagTest
+org.apache.camel.component.git.GitEndpoint		0.1
+org.apache.camel.component.git.producer.GitProducer		0.043126684
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/producer/GitProducerTest_doubleCloneOperationTest_t
+doubleCloneOperationTest
+org.apache.camel.component.git.GitEndpoint		0.13333334
+org.apache.camel.component.git.producer.GitProducer		0.08086254
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/producer/GitProducerTest_initTest_1
+initTest
+org.apache.camel.component.git.GitEndpoint		0.06666667
+org.apache.camel.component.git.producer.GitProducer		0.053908356
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/producer/GitProducerTest_logBranchTest_o
+logBranchTest
+org.apache.camel.component.git.GitEndpoint		0.1
+org.apache.camel.component.git.producer.GitProducer		0.05929919
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/producer/GitProducerTest_logTest_7
+logTest
+org.apache.camel.component.git.GitEndpoint		0.1
+org.apache.camel.component.git.producer.GitProducer		0.056603774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/producer/GitProducerTest_pullTest_e
+pullTest
+org.apache.camel.component.git.GitEndpoint		0.2
+org.apache.camel.component.git.producer.GitProducer		0.11320755
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/producer/GitProducerTest_remoteAddTest_q
+remoteAddTest
+org.apache.camel.component.git.GitEndpoint		0.13333334
+org.apache.camel.component.git.producer.GitProducer		0.07008086
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/producer/GitProducerTest_remoteListTest_3
+remoteListTest
+org.apache.camel.component.git.GitEndpoint		0.06666667
+org.apache.camel.component.git.producer.GitProducer		0.051212937
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/producer/GitProducerTest_removeFileBranchTest_6
+removeFileBranchTest
+org.apache.camel.component.git.GitEndpoint		0.1
+org.apache.camel.component.git.producer.GitProducer		0.056603774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/producer/GitProducerTest_removeTest_p
+removeTest
+org.apache.camel.component.git.GitEndpoint		0.1
+org.apache.camel.component.git.producer.GitProducer		0.053908356
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/producer/GitProducerTest_showBranchesTest_8
+showBranchesTest
+org.apache.camel.component.git.GitEndpoint		0.06666667
+org.apache.camel.component.git.producer.GitProducer		0.051212937
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/producer/GitProducerTest_statusBranchTest_c
+statusBranchTest
+org.apache.camel.component.git.GitEndpoint		0.1
+org.apache.camel.component.git.producer.GitProducer		0.05929919
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/producer/GitProducerTest_statusTest_h
+statusTest
+org.apache.camel.component.git.GitEndpoint		0.1
+org.apache.camel.component.git.producer.GitProducer		0.056603774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/producer/GitRemoteProducerTest
+GitRemoteProducerTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/producer/test-GitProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/producer/test-GitRemoteProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-git/target/site/clover/org/apache/camel/component/git/test-GitTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --

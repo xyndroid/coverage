@@ -1,0 +1,150 @@
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/ElasticsearchBaseTest
+ElasticsearchBaseTest		0.94285715
+ElasticsearchBaseTest.PluginConfigurableNode		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/ElasticsearchBulkTest
+ElasticsearchBulkTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/ElasticsearchBulkTest_bulkIndexRequestBody_g
+org.apache.camel.component.elasticsearch5.ElasticsearchProducer		0.34254143
+org.apache.camel.component.elasticsearch5.ElasticsearchConfiguration		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/ElasticsearchBulkTest_bulkRequestBody_1
+org.apache.camel.component.elasticsearch5.ElasticsearchProducer		0.31491712
+org.apache.camel.component.elasticsearch5.ElasticsearchConfiguration		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/ElasticsearchBulkTest_testBulkIndex_2
+org.apache.camel.component.elasticsearch5.ElasticsearchProducer		0.4088398
+org.apache.camel.component.elasticsearch5.ElasticsearchConfiguration		0.2
+org.apache.camel.component.elasticsearch5.converter.ElasticsearchActionRequestConverter		0.12820514
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/ElasticsearchClusterBaseTest
+ElasticsearchClusterBaseTest		0.8292683
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/ElasticsearchClusterIndexTest
+ElasticsearchClusterIndexTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/ElasticsearchClusterIndexTest_indexWithIpAndPort_j
+org.apache.camel.component.elasticsearch5.ElasticsearchProducer		0.29834256
+org.apache.camel.component.elasticsearch5.converter.ElasticsearchActionRequestConverter		0.102564104
+org.apache.camel.component.elasticsearch5.ElasticsearchConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/ElasticsearchClusterIndexTest_indexWithIpAndTransportAddresses_l
+org.apache.camel.component.elasticsearch5.ElasticsearchProducer		0.29834256
+org.apache.camel.component.elasticsearch5.converter.ElasticsearchActionRequestConverter		0.102564104
+org.apache.camel.component.elasticsearch5.ElasticsearchConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/ElasticsearchClusterIndexTest_indexWithTransportAddresses_0
+org.apache.camel.component.elasticsearch5.ElasticsearchProducer		0.29834256
+org.apache.camel.component.elasticsearch5.converter.ElasticsearchActionRequestConverter		0.102564104
+org.apache.camel.component.elasticsearch5.ElasticsearchConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/ElasticsearchGetSearchDeleteExistsUpdateTest
+ElasticsearchGetSearchDeleteExistsUpdateTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/ElasticsearchGetSearchDeleteExistsUpdateTest_deleteRequestBody_a
+org.apache.camel.component.elasticsearch5.ElasticsearchProducer		0.3646409
+org.apache.camel.component.elasticsearch5.ElasticsearchConfiguration		0.15
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/ElasticsearchGetSearchDeleteExistsUpdateTest_getRequestBody_7
+org.apache.camel.component.elasticsearch5.ElasticsearchProducer		0.2762431
+org.apache.camel.component.elasticsearch5.ElasticsearchConfiguration		0.15
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/ElasticsearchGetSearchDeleteExistsUpdateTest_testDeleteWithHeaders_n
+org.apache.camel.component.elasticsearch5.ElasticsearchProducer		0.39779004
+org.apache.camel.component.elasticsearch5.converter.ElasticsearchActionRequestConverter		0.13675214
+org.apache.camel.component.elasticsearch5.ElasticsearchConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/ElasticsearchGetSearchDeleteExistsUpdateTest_testDelete_i
+org.apache.camel.component.elasticsearch5.ElasticsearchProducer		0.4364641
+org.apache.camel.component.elasticsearch5.ElasticsearchConfiguration		0.2
+org.apache.camel.component.elasticsearch5.converter.ElasticsearchActionRequestConverter		0.13675214
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/ElasticsearchGetSearchDeleteExistsUpdateTest_testExistsWithHeaders_k
+org.apache.camel.component.elasticsearch5.ElasticsearchProducer		0.40331492
+org.apache.camel.component.elasticsearch5.converter.ElasticsearchActionRequestConverter		0.102564104
+org.apache.camel.component.elasticsearch5.ElasticsearchConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/ElasticsearchGetSearchDeleteExistsUpdateTest_testGetWithHeaders_3
+org.apache.camel.component.elasticsearch5.ElasticsearchProducer		0.33701658
+org.apache.camel.component.elasticsearch5.converter.ElasticsearchActionRequestConverter		0.11965812
+org.apache.camel.component.elasticsearch5.ElasticsearchConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/ElasticsearchGetSearchDeleteExistsUpdateTest_testGet_f
+org.apache.camel.component.elasticsearch5.ElasticsearchProducer		0.3756906
+org.apache.camel.component.elasticsearch5.ElasticsearchConfiguration		0.2
+org.apache.camel.component.elasticsearch5.converter.ElasticsearchActionRequestConverter		0.11965812
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/ElasticsearchGetSearchDeleteExistsUpdateTest_testMultiGet_8
+org.apache.camel.component.elasticsearch5.ElasticsearchProducer		0.40331492
+org.apache.camel.component.elasticsearch5.converter.ElasticsearchActionRequestConverter		0.18803419
+org.apache.camel.component.elasticsearch5.ElasticsearchConfiguration		0.15
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/ElasticsearchGetSearchDeleteExistsUpdateTest_testMultiSearch_h
+org.apache.camel.component.elasticsearch5.ElasticsearchProducer		0.43093923
+org.apache.camel.component.elasticsearch5.ElasticsearchConfiguration		0.15
+org.apache.camel.component.elasticsearch5.converter.ElasticsearchActionRequestConverter		0.08547009
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/ElasticsearchGetSearchDeleteExistsUpdateTest_testNotExistsWithHeaders_c
+org.apache.camel.component.elasticsearch5.ElasticsearchProducer		0.40331492
+org.apache.camel.component.elasticsearch5.converter.ElasticsearchActionRequestConverter		0.102564104
+org.apache.camel.component.elasticsearch5.ElasticsearchConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/ElasticsearchGetSearchDeleteExistsUpdateTest_testSearchWithMapQuery_m
+org.apache.camel.component.elasticsearch5.ElasticsearchProducer		0.44198895
+org.apache.camel.component.elasticsearch5.converter.ElasticsearchActionRequestConverter		0.23931624
+org.apache.camel.component.elasticsearch5.ElasticsearchConfiguration		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/ElasticsearchGetSearchDeleteExistsUpdateTest_testSearchWithStringQuery_d
+org.apache.camel.component.elasticsearch5.ElasticsearchProducer		0.44198895
+org.apache.camel.component.elasticsearch5.converter.ElasticsearchActionRequestConverter		0.26495728
+org.apache.camel.component.elasticsearch5.ElasticsearchConfiguration		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/ElasticsearchGetSearchDeleteExistsUpdateTest_testUpdateWithIDInHeader_6
+org.apache.camel.component.elasticsearch5.ElasticsearchProducer		0.32596686
+org.apache.camel.component.elasticsearch5.converter.ElasticsearchActionRequestConverter		0.20512821
+org.apache.camel.component.elasticsearch5.ElasticsearchConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/ElasticsearchGetSearchDeleteExistsUpdateTest_testUpdate_b
+org.apache.camel.component.elasticsearch5.ElasticsearchProducer		0.3646409
+org.apache.camel.component.elasticsearch5.converter.ElasticsearchActionRequestConverter		0.20512821
+org.apache.camel.component.elasticsearch5.ElasticsearchConfiguration		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/ElasticsearchIndexTest
+ElasticsearchIndexTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/ElasticsearchIndexTest_testIndexWithHeaders_9
+org.apache.camel.component.elasticsearch5.ElasticsearchProducer		0.29834256
+org.apache.camel.component.elasticsearch5.converter.ElasticsearchActionRequestConverter		0.102564104
+org.apache.camel.component.elasticsearch5.ElasticsearchConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/ElasticsearchIndexTest_testIndexWithIDInHeader_4
+org.apache.camel.component.elasticsearch5.ElasticsearchProducer		0.29834256
+org.apache.camel.component.elasticsearch5.converter.ElasticsearchActionRequestConverter		0.102564104
+org.apache.camel.component.elasticsearch5.ElasticsearchConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/ElasticsearchIndexTest_testIndexWithReplication_5
+org.apache.camel.component.elasticsearch5.ElasticsearchProducer		0.33701658
+org.apache.camel.component.elasticsearch5.ElasticsearchConfiguration		0.2
+org.apache.camel.component.elasticsearch5.converter.ElasticsearchActionRequestConverter		0.102564104
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/ElasticsearchIndexTest_testIndex_e
+org.apache.camel.component.elasticsearch5.ElasticsearchProducer		0.33701658
+org.apache.camel.component.elasticsearch5.ElasticsearchConfiguration		0.2
+org.apache.camel.component.elasticsearch5.converter.ElasticsearchActionRequestConverter		0.102564104
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/test-ElasticsearchBaseTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/test-ElasticsearchBaseTest_PluginConfigurableNode
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/test-ElasticsearchBulkTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/test-ElasticsearchClusterBaseTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/test-ElasticsearchClusterIndexTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/test-ElasticsearchGetSearchDeleteExistsUpdateTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-elasticsearch5/target/site/clover/org/apache/camel/component/elasticsearch5/test-ElasticsearchIndexTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

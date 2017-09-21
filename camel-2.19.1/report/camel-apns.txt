@@ -1,0 +1,135 @@
+./components/camel-apns/target/site/clover/org/apache/camel
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/ApnsConsumerIdleMessageTest
+ApnsConsumerIdleMessageTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/ApnsConsumerTest
+ApnsConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/ApnsConsumerTest_testConsumer_b
+org.apache.camel.component.apns.model.InactiveDevice		0.6923077
+org.apache.camel.component.apns.ApnsConsumer		0.5609756
+org.apache.camel.component.apns.ApnsEndpoint		0.16666667
+org.apache.camel.component.apns.ApnsComponent		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/ApnsProducerTest
+ApnsProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/ApnsProducerTest_testProducerWithApnsNotification_6
+org.apache.camel.component.apns.ApnsProducer		0.19512194
+org.apache.camel.component.apns.ApnsEndpoint		0.16666667
+org.apache.camel.component.apns.ApnsComponent		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/ApnsProducerTest_testProducer_e
+org.apache.camel.component.apns.ApnsProducer		0.597561
+org.apache.camel.component.apns.util.StringUtils		0.26666668
+org.apache.camel.component.apns.ApnsEndpoint		0.16666667
+org.apache.camel.component.apns.ApnsComponent		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/ApnsProducerWithoutTokensHeaderTest
+ApnsProducerWithoutTokensHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/ApnsProducerWithoutTokensHeaderTest_testProducerWithoutTokenHeader_1
+org.apache.camel.component.apns.ApnsProducer		0.4390244
+org.apache.camel.component.apns.ApnsEndpoint		0.16666667
+org.apache.camel.component.apns.ApnsComponent		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/factory/ApnsServiceFactoryTest
+ApnsServiceFactoryTest		0.96428573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/factory/ApnsServiceFactoryTest_testApnsServiceFactoryAsPool0_a
+testApnsServiceFactoryAsPool0
+org.apache.camel.component.apns.util.AssertUtils		0.36363637
+org.apache.camel.component.apns.factory.ApnsServiceFactory		0.22962964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/factory/ApnsServiceFactoryTest_testApnsServiceFactoryAsPool1_0
+testApnsServiceFactoryAsPool1
+org.apache.camel.component.apns.factory.ApnsServiceFactory		0.6074074
+org.apache.camel.component.apns.util.StringUtils		0.4
+org.apache.camel.component.apns.util.AssertUtils		0.27272728
+org.apache.camel.component.apns.util.ParamUtils		0.27272728
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/factory/ApnsServiceFactoryTest_testApnsServiceFactoryWithFixedCertificates_2
+testApnsServiceFactoryWithFixedCertificates
+org.apache.camel.component.apns.factory.ApnsServiceFactory		0.52592593
+org.apache.camel.component.apns.util.StringUtils		0.4
+org.apache.camel.component.apns.util.ParamUtils		0.27272728
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/factory/ConfiguredApnsServiceFactoryTest
+ConfiguredApnsServiceFactoryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/factory/ConfiguredApnsServiceFactoryTest_shouldSetProxyOnDefaultServiceBuilder_c
+shouldSetProxyOnDefaultServiceBuilder
+org.apache.camel.component.apns.factory.ApnsServiceFactory		0.4
+org.apache.camel.component.apns.util.StringUtils		0.4
+org.apache.camel.component.apns.util.ParamUtils		0.27272728
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/factory/test-ApnsServiceFactoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/factory/test-ConfiguredApnsServiceFactoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/spring/SpringApnsConsumerTest
+SpringApnsConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/spring/SpringApnsConsumerTest_testConsumer_f
+testConsumer
+org.apache.camel.component.apns.model.InactiveDevice		0.6923077
+org.apache.camel.component.apns.ApnsConsumer		0.5609756
+org.apache.camel.component.apns.ApnsEndpoint		0.16666667
+org.apache.camel.component.apns.ApnsComponent		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/spring/test-SpringApnsConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/test-ApnsConsumerIdleMessageTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/test-ApnsConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/test-ApnsProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/test-ApnsProducerWithoutTokensHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/util/AssertUtilsTest
+AssertUtilsTest		0.85714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/util/AssertUtilsTest_testAssertIsTrueInvalid_5
+testAssertIsTrueInvalid
+org.apache.camel.component.apns.util.AssertUtils		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/util/AssertUtilsTest_testAssertIsTrueValid_3
+testAssertIsTrueValid
+org.apache.camel.component.apns.util.AssertUtils		0.27272728
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/util/AssertUtilsTest_testAssertNoNullValid_4
+testAssertNoNullValid
+org.apache.camel.component.apns.util.AssertUtils		0.27272728
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/util/AssertUtilsTest_testAssertNotNullInvalid_7
+testAssertNotNullInvalid
+org.apache.camel.component.apns.util.AssertUtils		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/util/StringUtilsTest
+StringUtilsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/util/StringUtilsTest_testIsEmpty_d
+testIsEmpty
+org.apache.camel.component.apns.util.StringUtils		0.53333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/util/StringUtilsTest_testIsNotEmpty_8
+testIsNotEmpty
+org.apache.camel.component.apns.util.StringUtils		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/util/StringUtilsTest_testTrim_9
+testTrim
+org.apache.camel.component.apns.util.StringUtils		0.4
+org.apache.camel.component.apns.ApnsConsumer		0.17073171
+org.apache.camel.component.apns.ApnsEndpoint		0.16666667
+org.apache.camel.component.apns.ApnsComponent		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/util/TestConstants
+TestConstants		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/util/test-AssertUtilsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/util/test-StringUtilsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-apns/target/site/clover/org/apache/camel/component/apns/util/test-TestConstants
+-- -- -- -- -- -- -- -- -- -- -- -- --

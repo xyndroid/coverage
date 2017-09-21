@@ -1,0 +1,799 @@
+./components/camel-zookeeper/target/site/clover/org/apache/camel
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/ConsumeChildrenTest
+ConsumeChildrenTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/ConsumeChildrenTest_shouldAwaitCreationAndGetDataNotification_z
+org.apache.camel.component.zookeeper.operations.ChildrenChangedOperation		0.9375
+org.apache.camel.component.zookeeper.operations.AnyOfOperations		0.8076923
+org.apache.camel.component.zookeeper.operations.ExistenceChangedOperation		0.8
+org.apache.camel.component.zookeeper.operations.ExistsOperation		0.72
+org.apache.camel.component.zookeeper.operations.GetChildrenOperation		0.5625
+org.apache.camel.component.zookeeper.operations.FutureEventDrivenOperation		0.5609756
+org.apache.camel.component.zookeeper.ZooKeeperConsumer.OperationsExecutor		0.55263156
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.53333336
+org.apache.camel.component.zookeeper.operations.OperationResult		0.44444445
+org.apache.camel.component.zookeeper.NaturalSortComparator		0.4107143
+org.apache.camel.component.zookeeper.ZooKeeperMessage		0.34615386
+org.apache.camel.component.zookeeper.ZooKeeperUtils		0.19148937
+org.apache.camel.component.zookeeper.ZooKeeperConsumer		0.11594203
+org.apache.camel.component.zookeeper.ConnectionHolder		0.11363637
+org.apache.camel.component.zookeeper.ZooKeeperConfiguration		0.03076923
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/ConsumeDataTest
+ConsumeDataTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/ConsumeDataTest_deletionOfAwaitedNodeCausesNoFailure_y
+org.apache.camel.component.zookeeper.operations.DataChangedOperation		0.82608694
+org.apache.camel.component.zookeeper.operations.AnyOfOperations		0.8076923
+org.apache.camel.component.zookeeper.operations.ExistenceChangedOperation		0.8
+org.apache.camel.component.zookeeper.operations.ExistsOperation		0.72
+org.apache.camel.component.zookeeper.ZooKeeperConsumer.OperationsExecutor		0.6052632
+org.apache.camel.component.zookeeper.operations.FutureEventDrivenOperation		0.5609756
+org.apache.camel.component.zookeeper.operations.GetDataOperation		0.53333336
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.53333336
+org.apache.camel.component.zookeeper.operations.OperationResult		0.44444445
+org.apache.camel.component.zookeeper.ZooKeeperMessage		0.34615386
+org.apache.camel.component.zookeeper.ZooKeeperUtils		0.19148937
+org.apache.camel.component.zookeeper.ZooKeeperConsumer		0.11594203
+org.apache.camel.component.zookeeper.ConnectionHolder		0.11363637
+org.apache.camel.component.zookeeper.ZooKeeperConfiguration		0.03076923
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/ConsumeDataTest_shouldAwaitCreationAndGetDataNotification_n
+org.apache.camel.component.zookeeper.operations.DataChangedOperation		0.82608694
+org.apache.camel.component.zookeeper.operations.AnyOfOperations		0.8076923
+org.apache.camel.component.zookeeper.operations.ExistenceChangedOperation		0.8
+org.apache.camel.component.zookeeper.operations.ExistsOperation		0.72
+org.apache.camel.component.zookeeper.ZooKeeperConsumer.OperationsExecutor		0.6052632
+org.apache.camel.component.zookeeper.ZooKeeperMessage		0.5769231
+org.apache.camel.component.zookeeper.operations.FutureEventDrivenOperation		0.5609756
+org.apache.camel.component.zookeeper.operations.GetDataOperation		0.53333336
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.53333336
+org.apache.camel.component.zookeeper.operations.OperationResult		0.44444445
+org.apache.camel.component.zookeeper.ZooKeeperUtils		0.19148937
+org.apache.camel.component.zookeeper.ZooKeeperConsumer		0.11594203
+org.apache.camel.component.zookeeper.ConnectionHolder		0.11363637
+org.apache.camel.component.zookeeper.ZooKeeperConfiguration		0.03076923
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/NaturalSortComparatorTest
+NaturalSortComparatorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/NaturalSortComparatorTest_testSortOrder_11
+org.apache.camel.component.zookeeper.NaturalSortComparator		0.875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/ZooKeeperEndpointTest
+ZooKeeperEndpointTest		0.5833333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/ZooKeeperEndpointTest_awaitExistenceOptionOnEndpoint_r
+org.apache.camel.component.zookeeper.ZooKeeperComponent		0.7
+org.apache.camel.component.zookeeper.ZooKeeperConnectionManager.DefaultZookeeperConnectionStrategy		0.44444445
+org.apache.camel.component.zookeeper.ZooKeeperConnectionManager		0.33333334
+org.apache.camel.component.zookeeper.ZooKeeperConfiguration		0.21538462
+org.apache.camel.component.zookeeper.ZooKeeperEndpoint		0.15873016
+org.apache.camel.component.zookeeper.ConnectionHolder		0.045454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/ZooKeeperManagedEndpointTest
+ZooKeeperManagedEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/ZooKeeperManagedEndpointTest_testEnpointConfigurationCanBeSetViaJMX_1b
+org.apache.camel.component.zookeeper.operations.ExistsOperation		0.52
+org.apache.camel.component.zookeeper.operations.ExistenceChangedOperation		0.33333334
+org.apache.camel.component.zookeeper.ZooKeeperEndpoint		0.2857143
+org.apache.camel.component.zookeeper.ZooKeeperConfiguration		0.2769231
+org.apache.camel.component.zookeeper.ZooKeeperConsumer.OperationsExecutor		0.2631579
+org.apache.camel.component.zookeeper.operations.AnyOfOperations		0.23076923
+org.apache.camel.component.zookeeper.operations.OperationResult		0.22222222
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.2
+org.apache.camel.component.zookeeper.operations.FutureEventDrivenOperation		0.09756097
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/ZooKeeperProducerTest
+ZooKeeperProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/ZooKeeperProducerTest_createWithOtherCreateMode_b
+org.apache.camel.component.zookeeper.ZooKeeperProducer.ProductionContext		1.0
+org.apache.camel.component.zookeeper.operations.CreateOperation		0.8333333
+org.apache.camel.component.zookeeper.operations.OperationResult		0.8148148
+org.apache.camel.component.zookeeper.ZooKeeperUtils		0.4680851
+org.apache.camel.component.zookeeper.operations.ZooKeeperHelper		0.45454547
+org.apache.camel.component.zookeeper.ZooKeeperProducer		0.35772356
+org.apache.camel.component.zookeeper.operations.SetDataOperation		0.34615386
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.33333334
+org.apache.camel.component.zookeeper.ZooKeeperMessage		0.30769232
+org.apache.camel.component.zookeeper.ZooKeeperConfiguration		0.12307692
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/ZooKeeperProducerTest_deleteNode_14
+org.apache.camel.component.zookeeper.ZooKeeperProducer.ProductionContext		1.0
+org.apache.camel.component.zookeeper.operations.ExistsOperation		0.52
+org.apache.camel.component.zookeeper.operations.DeleteOperation		0.47619048
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.4
+org.apache.camel.component.zookeeper.operations.OperationResult		0.37037036
+org.apache.camel.component.zookeeper.operations.ExistenceChangedOperation		0.33333334
+org.apache.camel.component.zookeeper.ZooKeeperMessage		0.30769232
+org.apache.camel.component.zookeeper.ZooKeeperConsumer.OperationsExecutor		0.2631579
+org.apache.camel.component.zookeeper.ZooKeeperUtils		0.25531915
+org.apache.camel.component.zookeeper.ZooKeeperProducer		0.23577236
+org.apache.camel.component.zookeeper.operations.AnyOfOperations		0.23076923
+org.apache.camel.component.zookeeper.operations.FutureEventDrivenOperation		0.09756097
+org.apache.camel.component.zookeeper.ZooKeeperConfiguration		0.06153846
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/ZooKeeperProducerTest_setAndGetListing_m
+org.apache.camel.component.zookeeper.ZooKeeperProducer.ProductionContext		1.0
+org.apache.camel.component.zookeeper.operations.CreateOperation		0.8333333
+org.apache.camel.component.zookeeper.operations.OperationResult		0.8148148
+org.apache.camel.component.zookeeper.operations.ZooKeeperHelper		0.6818182
+org.apache.camel.component.zookeeper.ZooKeeperConnectionManager		0.6666667
+org.apache.camel.component.zookeeper.ZooKeeperConnectionManager.DefaultZookeeperConnectionStrategy		0.6666667
+org.apache.camel.component.zookeeper.ZooKeeperUtils		0.65957445
+org.apache.camel.component.zookeeper.ZooKeeperComponent		0.56666666
+org.apache.camel.component.zookeeper.operations.GetChildrenOperation		0.5625
+org.apache.camel.component.zookeeper.operations.ExistsOperation		0.52
+org.apache.camel.component.zookeeper.ConnectionHolder		0.47727272
+org.apache.camel.component.zookeeper.ZooKeeperConfiguration		0.46153846
+org.apache.camel.component.zookeeper.ZooKeeperProducer		0.4390244
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.4
+org.apache.camel.component.zookeeper.operations.SetDataOperation		0.34615386
+org.apache.camel.component.zookeeper.operations.ExistenceChangedOperation		0.33333334
+org.apache.camel.component.zookeeper.ZooKeeperMessage		0.30769232
+org.apache.camel.component.zookeeper.ZooKeeperConsumer.OperationsExecutor		0.2631579
+org.apache.camel.component.zookeeper.operations.AnyOfOperations		0.23076923
+org.apache.camel.component.zookeeper.ZooKeeperEndpoint		0.1904762
+org.apache.camel.component.zookeeper.operations.FutureEventDrivenOperation		0.09756097
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/ZooKeeperProducerTest_setUsingCreateModeFromHeader_p
+org.apache.camel.component.zookeeper.ZooKeeperProducer.ProductionContext		1.0
+org.apache.camel.component.zookeeper.operations.CreateOperation		0.8333333
+org.apache.camel.component.zookeeper.operations.OperationResult		0.8148148
+org.apache.camel.component.zookeeper.operations.ZooKeeperHelper		0.6818182
+org.apache.camel.component.zookeeper.operations.GetChildrenOperation		0.5625
+org.apache.camel.component.zookeeper.operations.ExistsOperation		0.52
+org.apache.camel.component.zookeeper.ZooKeeperUtils		0.4893617
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.4
+org.apache.camel.component.zookeeper.ZooKeeperProducer		0.3495935
+org.apache.camel.component.zookeeper.operations.SetDataOperation		0.34615386
+org.apache.camel.component.zookeeper.operations.ExistenceChangedOperation		0.33333334
+org.apache.camel.component.zookeeper.ZooKeeperMessage		0.30769232
+org.apache.camel.component.zookeeper.ZooKeeperConsumer.OperationsExecutor		0.2631579
+org.apache.camel.component.zookeeper.operations.AnyOfOperations		0.23076923
+org.apache.camel.component.zookeeper.ZooKeeperConfiguration		0.12307692
+org.apache.camel.component.zookeeper.operations.FutureEventDrivenOperation		0.09756097
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/ZooKeeperProducerTest_testAsyncRoundtripOfDataToAndFromZnode_1g
+org.apache.camel.component.zookeeper.ZooKeeperProducer.ProductionContext		1.0
+org.apache.camel.component.zookeeper.operations.CreateOperation		0.8333333
+org.apache.camel.component.zookeeper.ZooKeeperUtils		0.82978725
+org.apache.camel.component.zookeeper.ZooKeeperProducer.AsyncSetDataCallback		0.6666667
+org.apache.camel.component.zookeeper.ZooKeeperConsumer.OperationsExecutor		0.5
+org.apache.camel.component.zookeeper.operations.FutureEventDrivenOperation		0.4878049
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.46666667
+org.apache.camel.component.zookeeper.operations.ZooKeeperHelper		0.45454547
+org.apache.camel.component.zookeeper.operations.OperationResult		0.44444445
+org.apache.camel.component.zookeeper.operations.GetDataOperation		0.4
+org.apache.camel.component.zookeeper.ZooKeeperMessage		0.34615386
+org.apache.camel.component.zookeeper.operations.ExistenceChangedOperation		0.33333334
+org.apache.camel.component.zookeeper.operations.AnyOfOperations		0.23076923
+org.apache.camel.component.zookeeper.ZooKeeperProducer		0.2195122
+org.apache.camel.component.zookeeper.operations.DataChangedOperation		0.13043478
+org.apache.camel.component.zookeeper.ZooKeeperConfiguration		0.12307692
+org.apache.camel.component.zookeeper.ZooKeeperConsumer		0.11594203
+org.apache.camel.component.zookeeper.ConnectionHolder		0.11363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/ZooKeeperProducerTest_testRoundtripOfDataToAndFromZnode_c
+org.apache.camel.component.zookeeper.ZooKeeperProducer.ProductionContext		1.0
+org.apache.camel.component.zookeeper.operations.CreateOperation		0.8333333
+org.apache.camel.component.zookeeper.ZooKeeperUtils		0.82978725
+org.apache.camel.component.zookeeper.operations.OperationResult		0.8148148
+org.apache.camel.component.zookeeper.ZooKeeperConsumer.OperationsExecutor		0.55263156
+org.apache.camel.component.zookeeper.operations.FutureEventDrivenOperation		0.4878049
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.46666667
+org.apache.camel.component.zookeeper.ZooKeeperMessage		0.46153846
+org.apache.camel.component.zookeeper.operations.ZooKeeperHelper		0.45454547
+org.apache.camel.component.zookeeper.operations.GetDataOperation		0.4
+org.apache.camel.component.zookeeper.operations.AnyOfOperations		0.3846154
+org.apache.camel.component.zookeeper.ZooKeeperProducer		0.3495935
+org.apache.camel.component.zookeeper.operations.SetDataOperation		0.34615386
+org.apache.camel.component.zookeeper.operations.ExistenceChangedOperation		0.33333334
+org.apache.camel.component.zookeeper.ZooKeeperConfiguration		0.15384616
+org.apache.camel.component.zookeeper.operations.DataChangedOperation		0.13043478
+org.apache.camel.component.zookeeper.operations.ExistsOperation		0.12
+org.apache.camel.component.zookeeper.ZooKeeperConsumer		0.11594203
+org.apache.camel.component.zookeeper.ConnectionHolder		0.11363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/ZooKeeperProducerTest_testZookeeperMessage_x
+org.apache.camel.component.zookeeper.ZooKeeperProducer.ProductionContext		1.0
+org.apache.camel.component.zookeeper.operations.CreateOperation		0.8333333
+org.apache.camel.component.zookeeper.ZooKeeperUtils		0.82978725
+org.apache.camel.component.zookeeper.ZooKeeperMessage		0.8076923
+org.apache.camel.component.zookeeper.ZooKeeperProducer.AsyncSetDataCallback		0.6666667
+org.apache.camel.component.zookeeper.operations.ExistenceChangedOperation		0.6666667
+org.apache.camel.component.zookeeper.ZooKeeperConsumer.OperationsExecutor		0.55263156
+org.apache.camel.component.zookeeper.operations.ExistsOperation		0.52
+org.apache.camel.component.zookeeper.operations.FutureEventDrivenOperation		0.4878049
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.46666667
+org.apache.camel.component.zookeeper.operations.ZooKeeperHelper		0.45454547
+org.apache.camel.component.zookeeper.operations.OperationResult		0.44444445
+org.apache.camel.component.zookeeper.operations.AnyOfOperations		0.42307693
+org.apache.camel.component.zookeeper.operations.GetDataOperation		0.4
+org.apache.camel.component.zookeeper.ZooKeeperProducer		0.2195122
+org.apache.camel.component.zookeeper.operations.DataChangedOperation		0.13043478
+org.apache.camel.component.zookeeper.ZooKeeperConfiguration		0.12307692
+org.apache.camel.component.zookeeper.ZooKeeperConsumer		0.11594203
+org.apache.camel.component.zookeeper.ConnectionHolder		0.11363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/ZooKeeperTestSupport
+ZooKeeperTestSupport		0.7416667
+ZooKeeperTestSupport.TestZookeeperServer		0.85714287
+ZooKeeperTestSupport.TestZookeeperClient		0.82
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/ZooKeeperUtilsTest
+ZooKeeperUtilsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/ZooKeeperUtilsTest_testCreateModeExtractionFromMessageHeader_0
+org.apache.camel.component.zookeeper.ZooKeeperUtils		0.40425533
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/ZooKeeperUtilsTest_testCreateModeExtraction_6
+org.apache.camel.component.zookeeper.ZooKeeperUtils		0.19148937
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/ZookeeperConnectionManagerTest
+ZookeeperConnectionManagerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/ZookeeperConnectionManagerTest_shouldWaitForConnection_15
+org.apache.camel.component.zookeeper.ZooKeeperConnectionManager		0.6666667
+org.apache.camel.component.zookeeper.ZooKeeperConnectionManager.DefaultZookeeperConnectionStrategy		0.6666667
+org.apache.camel.component.zookeeper.ConnectionHolder		0.47727272
+org.apache.camel.component.zookeeper.ZooKeeperConfiguration		0.2
+org.apache.camel.component.zookeeper.ZooKeeperComponent		0.16666667
+org.apache.camel.component.zookeeper.ZooKeeperEndpoint		0.0952381
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/AnyOfOperationTest
+AnyOfOperationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/AnyOfOperationTest_testExistsOrWaitsWhenNodeDoesNotExist_1f
+testExistsOrWaitsWhenNodeDoesNotExist
+org.apache.camel.component.zookeeper.operations.ExistsOperation		0.72
+org.apache.camel.component.zookeeper.operations.AnyOfOperations		0.42307693
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.33333334
+org.apache.camel.component.zookeeper.operations.OperationResult		0.2962963
+org.apache.camel.component.zookeeper.operations.ExistenceChangedOperation		0.13333334
+org.apache.camel.component.zookeeper.operations.FutureEventDrivenOperation		0.07317073
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/AnyOfOperationTest_testExistsOrWaitsWhenNodeExists_1a
+testExistsOrWaitsWhenNodeExists
+org.apache.camel.component.zookeeper.operations.ExistsOperation		0.72
+org.apache.camel.component.zookeeper.operations.AnyOfOperations		0.42307693
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.33333334
+org.apache.camel.component.zookeeper.operations.OperationResult		0.2962963
+org.apache.camel.component.zookeeper.operations.ExistenceChangedOperation		0.13333334
+org.apache.camel.component.zookeeper.operations.FutureEventDrivenOperation		0.07317073
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/ChildrenChangedOperationTest
+ChildrenChangedOperationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/ChildrenChangedOperationTest_getsListingWhenNodeIsCreated_4
+getsListingWhenNodeIsCreated
+org.apache.camel.component.zookeeper.operations.ChildrenChangedOperation		0.6875
+org.apache.camel.component.zookeeper.operations.GetChildrenOperation		0.5625
+org.apache.camel.component.zookeeper.operations.FutureEventDrivenOperation		0.4878049
+org.apache.camel.component.zookeeper.operations.OperationResult		0.2962963
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.26666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/ChildrenChangedOperationTest_getsNoListingWhenOnlyChangeIsRequired_h
+getsNoListingWhenOnlyChangeIsRequired
+org.apache.camel.component.zookeeper.operations.ChildrenChangedOperation		0.5
+org.apache.camel.component.zookeeper.operations.FutureEventDrivenOperation		0.4878049
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.26666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/ChildrenChangedOperationTest_getsNotifiedWhenNodeIsDeleted_a
+getsNotifiedWhenNodeIsDeleted
+org.apache.camel.component.zookeeper.operations.ChildrenChangedOperation		0.6875
+org.apache.camel.component.zookeeper.operations.GetChildrenOperation		0.5625
+org.apache.camel.component.zookeeper.operations.FutureEventDrivenOperation		0.4878049
+org.apache.camel.component.zookeeper.operations.OperationResult		0.2962963
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.26666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/CreateOperationTest
+CreateOperationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/CreateOperationTest_createBasicSubPathWithData_17
+createBasicSubPathWithData
+org.apache.camel.component.zookeeper.operations.ZooKeeperHelper		0.6818182
+org.apache.camel.component.zookeeper.operations.CreateOperation		0.6111111
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.33333334
+org.apache.camel.component.zookeeper.operations.OperationResult		0.2962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/CreateOperationTest_createBasicSubPath_16
+createBasicSubPath
+org.apache.camel.component.zookeeper.operations.ZooKeeperHelper		0.77272725
+org.apache.camel.component.zookeeper.operations.CreateOperation		0.5
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.33333334
+org.apache.camel.component.zookeeper.operations.OperationResult		0.2962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/CreateOperationTest_createBasicWithData_j
+createBasicWithData
+org.apache.camel.component.zookeeper.operations.CreateOperation		0.6111111
+org.apache.camel.component.zookeeper.operations.ZooKeeperHelper		0.45454547
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.33333334
+org.apache.camel.component.zookeeper.operations.OperationResult		0.2962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/CreateOperationTest_createBasic_19
+createBasic
+org.apache.camel.component.zookeeper.operations.CreateOperation		0.5
+org.apache.camel.component.zookeeper.operations.ZooKeeperHelper		0.45454547
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.33333334
+org.apache.camel.component.zookeeper.operations.OperationResult		0.2962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/CreateOperationTest_createNodeWithSpecificAccess_1c
+createNodeWithSpecificAccess
+org.apache.camel.component.zookeeper.operations.CreateOperation		0.7222222
+org.apache.camel.component.zookeeper.operations.ZooKeeperHelper		0.45454547
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.33333334
+org.apache.camel.component.zookeeper.operations.OperationResult		0.2962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/CreateOperationTest_createSequencedNodeToTestCreateMode_2
+createSequencedNodeToTestCreateMode
+org.apache.camel.component.zookeeper.operations.CreateOperation		0.7222222
+org.apache.camel.component.zookeeper.operations.ZooKeeperHelper		0.45454547
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.33333334
+org.apache.camel.component.zookeeper.operations.OperationResult		0.2962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/DataChangedOperationTest
+DataChangedOperationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/DataChangedOperationTest_getsDataWhenNodeChanges_t
+getsDataWhenNodeChanges
+org.apache.camel.component.zookeeper.operations.DataChangedOperation		0.73913044
+org.apache.camel.component.zookeeper.operations.FutureEventDrivenOperation		0.5609756
+org.apache.camel.component.zookeeper.operations.GetDataOperation		0.53333336
+org.apache.camel.component.zookeeper.operations.OperationResult		0.2962963
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.26666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/DataChangedOperationTest_getsNotifiedWhenNodeIsDeleted_e
+getsNotifiedWhenNodeIsDeleted
+org.apache.camel.component.zookeeper.operations.DataChangedOperation		0.73913044
+org.apache.camel.component.zookeeper.operations.GetDataOperation		0.6
+org.apache.camel.component.zookeeper.operations.FutureEventDrivenOperation		0.5609756
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.26666668
+org.apache.camel.component.zookeeper.operations.OperationResult		0.18518518
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/ExistenceChangedOperationTest
+ExistenceChangedOperationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/ExistenceChangedOperationTest_getStatsWhenNodeIsCreated_13
+getStatsWhenNodeIsCreated
+org.apache.camel.component.zookeeper.operations.ExistenceChangedOperation		0.8
+org.apache.camel.component.zookeeper.operations.FutureEventDrivenOperation		0.5121951
+org.apache.camel.component.zookeeper.operations.OperationResult		0.37037036
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.26666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/ExistenceChangedOperationTest_getsNotifiedWhenNodeIsDeleted_d
+getsNotifiedWhenNodeIsDeleted
+org.apache.camel.component.zookeeper.operations.ExistenceChangedOperation		0.8
+org.apache.camel.component.zookeeper.operations.FutureEventDrivenOperation		0.5121951
+org.apache.camel.component.zookeeper.operations.OperationResult		0.37037036
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.26666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/ExistenceOperationTest
+ExistenceOperationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/ExistenceOperationTest_notOkWhenNodeMustExistButDoesExist_10
+notOkWhenNodeMustExistButDoesExist
+org.apache.camel.component.zookeeper.operations.ExistsOperation		0.64
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.33333334
+org.apache.camel.component.zookeeper.operations.OperationResult		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/ExistenceOperationTest_notOkWhenNodeMustExistButDoesNotExist_i
+notOkWhenNodeMustExistButDoesNotExist
+org.apache.camel.component.zookeeper.operations.ExistsOperation		0.72
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.33333334
+org.apache.camel.component.zookeeper.operations.OperationResult		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/ExistenceOperationTest_okWhenNodeMustExistAndDoesExists_l
+okWhenNodeMustExistAndDoesExists
+org.apache.camel.component.zookeeper.operations.ExistsOperation		0.72
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.33333334
+org.apache.camel.component.zookeeper.operations.OperationResult		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/ExistenceOperationTest_okWhenNodeMustNotExistAndDoesNotExists_9
+okWhenNodeMustNotExistAndDoesNotExists
+org.apache.camel.component.zookeeper.operations.ExistsOperation		0.64
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.33333334
+org.apache.camel.component.zookeeper.operations.OperationResult		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/FutureEventDrivenOperationTest
+FutureEventDrivenOperationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/FutureEventDrivenOperationTest_shouldWaitForEvents_8
+shouldWaitForEvents
+org.apache.camel.component.zookeeper.operations.FutureEventDrivenOperation		0.4878049
+org.apache.camel.component.zookeeper.operations.OperationResult		0.37037036
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/SetDataOperationTest
+SetDataOperationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/SetDataOperationTest_setData_1h
+setData
+org.apache.camel.component.zookeeper.operations.SetDataOperation		0.34615386
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.33333334
+org.apache.camel.component.zookeeper.operations.OperationResult		0.2962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/SetDataOperationTest_setSpecificVersionOfData_k
+setSpecificVersionOfData
+org.apache.camel.component.zookeeper.operations.SetDataOperation		0.42307693
+org.apache.camel.component.zookeeper.operations.OperationResult		0.37037036
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/SetDataOperationTest_setWithNull_g
+setWithNull
+org.apache.camel.component.zookeeper.operations.SetDataOperation		0.42307693
+org.apache.camel.component.zookeeper.operations.OperationResult		0.37037036
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/test-AnyOfOperationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/test-ChildrenChangedOperationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/test-CreateOperationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/test-DataChangedOperationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/test-ExistenceChangedOperationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/test-ExistenceOperationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/test-FutureEventDrivenOperationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/operations/test-SetDataOperationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/FailoverCuratorLeaderRoutePolicyTest
+FailoverCuratorLeaderRoutePolicyTest		1.0
+FailoverCuratorLeaderRoutePolicyTest.ZookeeperPolicyEnforcedContext		0.8636364
+FailoverCuratorLeaderRoutePolicyTest.FailoverRoute		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/FailoverCuratorLeaderRoutePolicyTest_ensureRoutesDoNotStartBeforeElection_1d
+ensureRoutesDoNotStartBeforeElection
+org.apache.camel.component.zookeeper.policy.CuratorLeaderElection		0.6097561
+org.apache.camel.component.zookeeper.policy.CuratorLeaderRoutePolicy		0.43421054
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/FailoverCuratorLeaderRoutePolicyTest_masterSlaveScenarioContolledByPolicy_q
+masterSlaveScenarioContolledByPolicy
+org.apache.camel.component.zookeeper.policy.CuratorLeaderElection.CamelLeaderElectionListener		0.9285714
+org.apache.camel.component.zookeeper.policy.CuratorLeaderElection		0.8780488
+org.apache.camel.component.zookeeper.policy.CuratorLeaderRoutePolicy		0.65789473
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/FailoverRoutePolicyTest
+FailoverRoutePolicyTest		1.0
+FailoverRoutePolicyTest.ZookeeperPolicyEnforcedContext		0.8636364
+FailoverRoutePolicyTest.FailoverRoute		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/FailoverRoutePolicyTest_masterSlaveScenarioContolledByPolicy_7
+masterSlaveScenarioContolledByPolicy
+org.apache.camel.component.zookeeper.ZooKeeperConnectionManager		1.0
+org.apache.camel.component.zookeeper.ZooKeeperConnectionManager.DefaultZookeeperConnectionStrategy		1.0
+org.apache.camel.component.zookeeper.ZooKeeperProducer.ProductionContext		1.0
+org.apache.camel.component.zookeeper.operations.ChildrenChangedOperation		0.9375
+org.apache.camel.component.zookeeper.policy.ZooKeeperElection.ElectoralMonitorRoute		0.89285713
+org.apache.camel.component.zookeeper.operations.CreateOperation		0.8333333
+org.apache.camel.component.zookeeper.policy.ZooKeeperElection		0.8333333
+org.apache.camel.component.zookeeper.operations.OperationResult		0.8148148
+org.apache.camel.component.zookeeper.operations.AnyOfOperations		0.7692308
+org.apache.camel.component.zookeeper.NaturalSortComparator		0.76785713
+org.apache.camel.component.zookeeper.policy.ZooKeeperRoutePolicy		0.74358976
+org.apache.camel.component.zookeeper.ConnectionHolder		0.72727275
+org.apache.camel.component.zookeeper.operations.ExistsOperation		0.72
+org.apache.camel.component.zookeeper.operations.ZooKeeperHelper		0.6818182
+org.apache.camel.component.zookeeper.ZooKeeperUtils		0.68085104
+org.apache.camel.component.zookeeper.ZooKeeperComponent		0.6666667
+org.apache.camel.component.zookeeper.SequenceComparator		0.64705884
+org.apache.camel.component.zookeeper.ZooKeeperConsumer		0.6376812
+org.apache.camel.component.zookeeper.ZooKeeperConsumer.OperationsExecutor		0.6315789
+org.apache.camel.component.zookeeper.operations.GetChildrenOperation		0.5625
+org.apache.camel.component.zookeeper.ZooKeeperConfiguration		0.5538462
+org.apache.camel.component.zookeeper.operations.FutureEventDrivenOperation		0.5365854
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.53333336
+org.apache.camel.component.zookeeper.ZooKeeperMessage		0.46153846
+org.apache.camel.component.zookeeper.ZooKeeperProducer		0.41463414
+org.apache.camel.component.zookeeper.operations.SetDataOperation		0.34615386
+org.apache.camel.component.zookeeper.ZooKeeperEndpoint		0.31746033
+org.apache.camel.component.zookeeper.operations.ExistenceChangedOperation		0.13333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/MultiMasterCuratorLeaderRoutePolicyTest
+MultiMasterCuratorLeaderRoutePolicyTest		0.91150445
+MultiMasterCuratorLeaderRoutePolicyTest.MultiMasterZookeeperPolicyEnforcedContext		0.89285713
+MultiMasterCuratorLeaderRoutePolicyTest.FailoverRoute		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/MultiMasterCuratorLeaderRoutePolicyTest_ensureRoutesDoNotStartAutomatically_5
+ensureRoutesDoNotStartAutomatically
+org.apache.camel.component.zookeeper.policy.CuratorMultiMasterLeaderRoutePolicy		0.4318182
+org.apache.camel.component.zookeeper.policy.CuratorMultiMasterLeaderElection		0.39344263
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/MultiMasterCuratorLeaderRoutePolicyTest_oneMasterOneSlaveAndFlippedAgainScenarioContolledByPolicy_v
+oneMasterOneSlaveAndFlippedAgainScenarioContolledByPolicy
+org.apache.camel.component.zookeeper.policy.CuratorMultiMasterLeaderElection		0.6557377
+org.apache.camel.component.zookeeper.policy.CuratorMultiMasterLeaderRoutePolicy		0.64772725
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/MultiMasterCuratorLeaderRoutePolicyTest_oneMasterOneSlaveScenarioContolledByPolicy_1e
+oneMasterOneSlaveScenarioContolledByPolicy
+org.apache.camel.component.zookeeper.policy.CuratorMultiMasterLeaderElection		0.6557377
+org.apache.camel.component.zookeeper.policy.CuratorMultiMasterLeaderRoutePolicy		0.64772725
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/MultiMasterCuratorLeaderRoutePolicyTest_oneMasterTwoSlavesScenarioContolledByPolicy_18
+oneMasterTwoSlavesScenarioContolledByPolicy
+org.apache.camel.component.zookeeper.policy.CuratorMultiMasterLeaderElection		0.6721311
+org.apache.camel.component.zookeeper.policy.CuratorMultiMasterLeaderRoutePolicy		0.64772725
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/MultiMasterCuratorLeaderRoutePolicyTest_twoMasterOneSlavesScenarioContolledByPolicy_w
+twoMasterOneSlavesScenarioContolledByPolicy
+org.apache.camel.component.zookeeper.policy.CuratorMultiMasterLeaderElection		0.6557377
+org.apache.camel.component.zookeeper.policy.CuratorMultiMasterLeaderRoutePolicy		0.64772725
+org.apache.camel.component.zookeeper.operations.FutureEventDrivenOperation		0.24390244
+org.apache.camel.component.zookeeper.ConnectionHolder		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/ZookeeperDoubleRouteAndDoublePolicyTest
+ZookeeperDoubleRouteAndDoublePolicyTest		1.0
+ZookeeperDoubleRouteAndDoublePolicyTest.ZooKeeperPolicyEnforcedRoute		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/ZookeeperDoubleRouteAndDoublePolicyTest_routeDoublePoliciesAndTwoRoutes_1
+routeDoublePoliciesAndTwoRoutes
+org.apache.camel.component.zookeeper.ZooKeeperProducer.ProductionContext		1.0
+org.apache.camel.component.zookeeper.operations.CreateOperation		0.8333333
+org.apache.camel.component.zookeeper.policy.ZooKeeperElection		0.8333333
+org.apache.camel.component.zookeeper.policy.ZooKeeperElection.ElectoralMonitorRoute		0.8214286
+org.apache.camel.component.zookeeper.operations.OperationResult		0.8148148
+org.apache.camel.component.zookeeper.operations.AnyOfOperations		0.7692308
+org.apache.camel.component.zookeeper.operations.ExistsOperation		0.72
+org.apache.camel.component.zookeeper.ZooKeeperComponent		0.7
+org.apache.camel.component.zookeeper.operations.ZooKeeperHelper		0.6818182
+org.apache.camel.component.zookeeper.ZooKeeperUtils		0.68085104
+org.apache.camel.component.zookeeper.ZooKeeperConnectionManager		0.6666667
+org.apache.camel.component.zookeeper.ZooKeeperConnectionManager.DefaultZookeeperConnectionStrategy		0.6666667
+org.apache.camel.component.zookeeper.operations.GetChildrenOperation		0.5625
+org.apache.camel.component.zookeeper.ZooKeeperConfiguration		0.5538462
+org.apache.camel.component.zookeeper.ZooKeeperConsumer.OperationsExecutor		0.55263156
+org.apache.camel.component.zookeeper.ZooKeeperConsumer		0.5362319
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.53333336
+org.apache.camel.component.zookeeper.ConnectionHolder		0.52272725
+org.apache.camel.component.zookeeper.policy.ZooKeeperRoutePolicy		0.46153846
+org.apache.camel.component.zookeeper.ZooKeeperProducer		0.41463414
+org.apache.camel.component.zookeeper.ZooKeeperMessage		0.3846154
+org.apache.camel.component.zookeeper.operations.ChildrenChangedOperation		0.375
+org.apache.camel.component.zookeeper.operations.SetDataOperation		0.34615386
+org.apache.camel.component.zookeeper.ZooKeeperEndpoint		0.25396827
+org.apache.camel.component.zookeeper.operations.FutureEventDrivenOperation		0.17073171
+org.apache.camel.component.zookeeper.operations.ExistenceChangedOperation		0.13333334
+org.apache.camel.component.zookeeper.NaturalSortComparator		0.10714286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/ZookeeperElectionTest
+ZookeeperElectionTest		0.9710145
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/ZookeeperElectionTest_masterAndSlave_u
+masterAndSlave
+org.apache.camel.component.zookeeper.ZooKeeperProducer.ProductionContext		1.0
+org.apache.camel.component.zookeeper.operations.ChildrenChangedOperation		0.9375
+org.apache.camel.component.zookeeper.policy.ZooKeeperElection.ElectoralMonitorRoute		0.89285713
+org.apache.camel.component.zookeeper.operations.CreateOperation		0.8333333
+org.apache.camel.component.zookeeper.operations.OperationResult		0.8148148
+org.apache.camel.component.zookeeper.operations.AnyOfOperations		0.7692308
+org.apache.camel.component.zookeeper.NaturalSortComparator		0.76785713
+org.apache.camel.component.zookeeper.policy.ZooKeeperElection		0.74358976
+org.apache.camel.component.zookeeper.operations.ExistsOperation		0.72
+org.apache.camel.component.zookeeper.operations.ZooKeeperHelper		0.6818182
+org.apache.camel.component.zookeeper.ZooKeeperUtils		0.68085104
+org.apache.camel.component.zookeeper.ZooKeeperComponent		0.6666667
+org.apache.camel.component.zookeeper.ZooKeeperConnectionManager		0.6666667
+org.apache.camel.component.zookeeper.ZooKeeperConnectionManager.DefaultZookeeperConnectionStrategy		0.6666667
+org.apache.camel.component.zookeeper.SequenceComparator		0.64705884
+org.apache.camel.component.zookeeper.ZooKeeperConsumer.OperationsExecutor		0.6052632
+org.apache.camel.component.zookeeper.operations.GetChildrenOperation		0.5625
+org.apache.camel.component.zookeeper.ZooKeeperConfiguration		0.5538462
+org.apache.camel.component.zookeeper.operations.FutureEventDrivenOperation		0.5365854
+org.apache.camel.component.zookeeper.ZooKeeperConsumer		0.5362319
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.53333336
+org.apache.camel.component.zookeeper.ConnectionHolder		0.52272725
+org.apache.camel.component.zookeeper.ZooKeeperMessage		0.46153846
+org.apache.camel.component.zookeeper.ZooKeeperProducer		0.41463414
+org.apache.camel.component.zookeeper.operations.SetDataOperation		0.34615386
+org.apache.camel.component.zookeeper.ZooKeeperEndpoint		0.25396827
+org.apache.camel.component.zookeeper.operations.ExistenceChangedOperation		0.13333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/ZookeeperElectionTest_masterCanBeElected_12
+masterCanBeElected
+org.apache.camel.component.zookeeper.ZooKeeperProducer.ProductionContext		1.0
+org.apache.camel.component.zookeeper.operations.CreateOperation		0.8333333
+org.apache.camel.component.zookeeper.operations.OperationResult		0.8148148
+org.apache.camel.component.zookeeper.policy.ZooKeeperElection.ElectoralMonitorRoute		0.78571427
+org.apache.camel.component.zookeeper.operations.AnyOfOperations		0.7692308
+org.apache.camel.component.zookeeper.operations.ExistsOperation		0.72
+org.apache.camel.component.zookeeper.policy.ZooKeeperElection		0.71794873
+org.apache.camel.component.zookeeper.ZooKeeperComponent		0.7
+org.apache.camel.component.zookeeper.operations.ZooKeeperHelper		0.6818182
+org.apache.camel.component.zookeeper.ZooKeeperUtils		0.68085104
+org.apache.camel.component.zookeeper.ZooKeeperConnectionManager		0.6666667
+org.apache.camel.component.zookeeper.ZooKeeperConnectionManager.DefaultZookeeperConnectionStrategy		0.6666667
+org.apache.camel.component.zookeeper.operations.GetChildrenOperation		0.5625
+org.apache.camel.component.zookeeper.ZooKeeperConfiguration		0.5538462
+org.apache.camel.component.zookeeper.ZooKeeperConsumer		0.5362319
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.53333336
+org.apache.camel.component.zookeeper.ZooKeeperConsumer.OperationsExecutor		0.5263158
+org.apache.camel.component.zookeeper.ConnectionHolder		0.52272725
+org.apache.camel.component.zookeeper.ZooKeeperProducer		0.41463414
+org.apache.camel.component.zookeeper.ZooKeeperMessage		0.3846154
+org.apache.camel.component.zookeeper.operations.SetDataOperation		0.34615386
+org.apache.camel.component.zookeeper.ZooKeeperEndpoint		0.25396827
+org.apache.camel.component.zookeeper.operations.ChildrenChangedOperation		0.1875
+org.apache.camel.component.zookeeper.operations.ExistenceChangedOperation		0.13333334
+org.apache.camel.component.zookeeper.NaturalSortComparator		0.10714286
+org.apache.camel.component.zookeeper.operations.FutureEventDrivenOperation		0.07317073
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/ZookeeperElectionTest_testDualMaster_s
+testDualMaster
+org.apache.camel.component.zookeeper.ZooKeeperProducer.ProductionContext		1.0
+org.apache.camel.component.zookeeper.operations.ChildrenChangedOperation		0.9375
+org.apache.camel.component.zookeeper.policy.ZooKeeperElection.ElectoralMonitorRoute		0.85714287
+org.apache.camel.component.zookeeper.operations.CreateOperation		0.8333333
+org.apache.camel.component.zookeeper.operations.OperationResult		0.8148148
+org.apache.camel.component.zookeeper.operations.AnyOfOperations		0.7692308
+org.apache.camel.component.zookeeper.NaturalSortComparator		0.76785713
+org.apache.camel.component.zookeeper.policy.ZooKeeperElection		0.75641024
+org.apache.camel.component.zookeeper.operations.ExistsOperation		0.72
+org.apache.camel.component.zookeeper.operations.ZooKeeperHelper		0.6818182
+org.apache.camel.component.zookeeper.ZooKeeperUtils		0.68085104
+org.apache.camel.component.zookeeper.ZooKeeperComponent		0.6666667
+org.apache.camel.component.zookeeper.ZooKeeperConnectionManager		0.6666667
+org.apache.camel.component.zookeeper.ZooKeeperConnectionManager.DefaultZookeeperConnectionStrategy		0.6666667
+org.apache.camel.component.zookeeper.SequenceComparator		0.64705884
+org.apache.camel.component.zookeeper.ZooKeeperConsumer.OperationsExecutor		0.6052632
+org.apache.camel.component.zookeeper.operations.GetChildrenOperation		0.5625
+org.apache.camel.component.zookeeper.ZooKeeperConfiguration		0.5538462
+org.apache.camel.component.zookeeper.operations.FutureEventDrivenOperation		0.5365854
+org.apache.camel.component.zookeeper.ZooKeeperConsumer		0.5362319
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.53333336
+org.apache.camel.component.zookeeper.ConnectionHolder		0.52272725
+org.apache.camel.component.zookeeper.ZooKeeperMessage		0.46153846
+org.apache.camel.component.zookeeper.ZooKeeperProducer		0.41463414
+org.apache.camel.component.zookeeper.operations.SetDataOperation		0.34615386
+org.apache.camel.component.zookeeper.ZooKeeperEndpoint		0.25396827
+org.apache.camel.component.zookeeper.operations.ExistenceChangedOperation		0.13333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/ZookeeperElectionTest_testMasterGoesAway_o
+testMasterGoesAway
+org.apache.camel.component.zookeeper.ZooKeeperConnectionManager		1.0
+org.apache.camel.component.zookeeper.ZooKeeperConnectionManager.DefaultZookeeperConnectionStrategy		1.0
+org.apache.camel.component.zookeeper.ZooKeeperProducer.ProductionContext		1.0
+org.apache.camel.component.zookeeper.operations.ChildrenChangedOperation		0.9375
+org.apache.camel.component.zookeeper.policy.ZooKeeperElection.ElectoralMonitorRoute		0.89285713
+org.apache.camel.component.zookeeper.operations.CreateOperation		0.8333333
+org.apache.camel.component.zookeeper.operations.OperationResult		0.8148148
+org.apache.camel.component.zookeeper.operations.AnyOfOperations		0.7692308
+org.apache.camel.component.zookeeper.NaturalSortComparator		0.76785713
+org.apache.camel.component.zookeeper.policy.ZooKeeperElection		0.75641024
+org.apache.camel.component.zookeeper.ConnectionHolder		0.72727275
+org.apache.camel.component.zookeeper.operations.ExistsOperation		0.72
+org.apache.camel.component.zookeeper.operations.ZooKeeperHelper		0.6818182
+org.apache.camel.component.zookeeper.ZooKeeperUtils		0.68085104
+org.apache.camel.component.zookeeper.ZooKeeperComponent		0.6666667
+org.apache.camel.component.zookeeper.SequenceComparator		0.64705884
+org.apache.camel.component.zookeeper.ZooKeeperConsumer		0.6376812
+org.apache.camel.component.zookeeper.ZooKeeperConsumer.OperationsExecutor		0.6315789
+org.apache.camel.component.zookeeper.operations.GetChildrenOperation		0.5625
+org.apache.camel.component.zookeeper.ZooKeeperConfiguration		0.5538462
+org.apache.camel.component.zookeeper.operations.FutureEventDrivenOperation		0.5365854
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.53333336
+org.apache.camel.component.zookeeper.ZooKeeperMessage		0.46153846
+org.apache.camel.component.zookeeper.ZooKeeperProducer		0.41463414
+org.apache.camel.component.zookeeper.operations.SetDataOperation		0.34615386
+org.apache.camel.component.zookeeper.ZooKeeperEndpoint		0.31746033
+org.apache.camel.component.zookeeper.operations.ExistenceChangedOperation		0.13333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/ZookeeperElectionTest_testWatchersAreNotified_f
+testWatchersAreNotified
+org.apache.camel.component.zookeeper.ZooKeeperProducer.ProductionContext		1.0
+org.apache.camel.component.zookeeper.operations.ChildrenChangedOperation		0.9375
+org.apache.camel.component.zookeeper.policy.ZooKeeperElection.ElectoralMonitorRoute		0.85714287
+org.apache.camel.component.zookeeper.operations.CreateOperation		0.8333333
+org.apache.camel.component.zookeeper.operations.OperationResult		0.8148148
+org.apache.camel.component.zookeeper.policy.ZooKeeperElection		0.7948718
+org.apache.camel.component.zookeeper.operations.AnyOfOperations		0.7692308
+org.apache.camel.component.zookeeper.NaturalSortComparator		0.76785713
+org.apache.camel.component.zookeeper.operations.ExistsOperation		0.72
+org.apache.camel.component.zookeeper.operations.ZooKeeperHelper		0.6818182
+org.apache.camel.component.zookeeper.ZooKeeperUtils		0.68085104
+org.apache.camel.component.zookeeper.ZooKeeperComponent		0.6666667
+org.apache.camel.component.zookeeper.ZooKeeperConnectionManager		0.6666667
+org.apache.camel.component.zookeeper.ZooKeeperConnectionManager.DefaultZookeeperConnectionStrategy		0.6666667
+org.apache.camel.component.zookeeper.SequenceComparator		0.64705884
+org.apache.camel.component.zookeeper.ZooKeeperConsumer.OperationsExecutor		0.6052632
+org.apache.camel.component.zookeeper.operations.GetChildrenOperation		0.5625
+org.apache.camel.component.zookeeper.ZooKeeperConfiguration		0.5538462
+org.apache.camel.component.zookeeper.operations.FutureEventDrivenOperation		0.5365854
+org.apache.camel.component.zookeeper.ZooKeeperConsumer		0.5362319
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.53333336
+org.apache.camel.component.zookeeper.ConnectionHolder		0.52272725
+org.apache.camel.component.zookeeper.ZooKeeperMessage		0.46153846
+org.apache.camel.component.zookeeper.ZooKeeperProducer		0.41463414
+org.apache.camel.component.zookeeper.operations.SetDataOperation		0.34615386
+org.apache.camel.component.zookeeper.ZooKeeperEndpoint		0.25396827
+org.apache.camel.component.zookeeper.operations.ExistenceChangedOperation		0.13333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/ZookeeperRoutePolicyTest
+ZookeeperRoutePolicyTest		1.0
+ZookeeperRoutePolicyTest.ZooKeeperPolicyEnforcedRoute		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/ZookeeperRoutePolicyTest_routeCanBeControlledByPolicy_3
+routeCanBeControlledByPolicy
+org.apache.camel.component.zookeeper.ZooKeeperProducer.ProductionContext		1.0
+org.apache.camel.component.zookeeper.operations.CreateOperation		0.8333333
+org.apache.camel.component.zookeeper.operations.OperationResult		0.8148148
+org.apache.camel.component.zookeeper.policy.ZooKeeperElection.ElectoralMonitorRoute		0.78571427
+org.apache.camel.component.zookeeper.operations.AnyOfOperations		0.7692308
+org.apache.camel.component.zookeeper.policy.ZooKeeperElection		0.7692308
+org.apache.camel.component.zookeeper.operations.ExistsOperation		0.72
+org.apache.camel.component.zookeeper.ZooKeeperComponent		0.7
+org.apache.camel.component.zookeeper.operations.ZooKeeperHelper		0.6818182
+org.apache.camel.component.zookeeper.ZooKeeperUtils		0.68085104
+org.apache.camel.component.zookeeper.ZooKeeperConnectionManager		0.6666667
+org.apache.camel.component.zookeeper.ZooKeeperConnectionManager.DefaultZookeeperConnectionStrategy		0.6666667
+org.apache.camel.component.zookeeper.operations.GetChildrenOperation		0.5625
+org.apache.camel.component.zookeeper.ZooKeeperConfiguration		0.5538462
+org.apache.camel.component.zookeeper.ZooKeeperConsumer		0.5362319
+org.apache.camel.component.zookeeper.operations.ZooKeeperOperation		0.53333336
+org.apache.camel.component.zookeeper.ZooKeeperConsumer.OperationsExecutor		0.5263158
+org.apache.camel.component.zookeeper.ConnectionHolder		0.52272725
+org.apache.camel.component.zookeeper.ZooKeeperProducer		0.41463414
+org.apache.camel.component.zookeeper.ZooKeeperMessage		0.3846154
+org.apache.camel.component.zookeeper.operations.SetDataOperation		0.34615386
+org.apache.camel.component.zookeeper.policy.ZooKeeperRoutePolicy		0.33333334
+org.apache.camel.component.zookeeper.ZooKeeperEndpoint		0.25396827
+org.apache.camel.component.zookeeper.operations.ChildrenChangedOperation		0.1875
+org.apache.camel.component.zookeeper.operations.ExistenceChangedOperation		0.13333334
+org.apache.camel.component.zookeeper.NaturalSortComparator		0.10714286
+org.apache.camel.component.zookeeper.operations.FutureEventDrivenOperation		0.07317073
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/test-FailoverCuratorLeaderRoutePolicyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/test-FailoverCuratorLeaderRoutePolicyTest_FailoverRoute
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/test-FailoverCuratorLeaderRoutePolicyTest_ZookeeperPolicyEnforcedContext
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/test-FailoverRoutePolicyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/test-FailoverRoutePolicyTest_FailoverRoute
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/test-FailoverRoutePolicyTest_ZookeeperPolicyEnforcedContext
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/test-MultiMasterCuratorLeaderRoutePolicyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/test-MultiMasterCuratorLeaderRoutePolicyTest_FailoverRoute
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/test-MultiMasterCuratorLeaderRoutePolicyTest_MultiMasterZookeeperPolicyEnforcedContext
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/test-ZookeeperDoubleRouteAndDoublePolicyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/test-ZookeeperDoubleRouteAndDoublePolicyTest_ZooKeeperPolicyEnforcedRoute
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/test-ZookeeperElectionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/test-ZookeeperRoutePolicyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/policy/test-ZookeeperRoutePolicyTest_ZooKeeperPolicyEnforcedRoute
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/test-ConsumeChildrenTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/test-ConsumeDataTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/test-NaturalSortComparatorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/test-ZooKeeperEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/test-ZooKeeperManagedEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/test-ZooKeeperProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/test-ZooKeeperTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/test-ZooKeeperTestSupport_TestZookeeperClient
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/test-ZooKeeperTestSupport_TestZookeeperServer
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/test-ZooKeeperUtilsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper/target/site/clover/org/apache/camel/component/zookeeper/test-ZookeeperConnectionManagerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

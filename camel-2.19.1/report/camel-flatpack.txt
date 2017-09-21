@@ -1,0 +1,290 @@
+./components/camel-flatpack/target/site/clover/org/apache/camel
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/CharsetTest
+CharsetTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/CharsetTest_testCamel_a
+org.apache.camel.component.flatpack.FlatpackProducer		0.52380955
+org.apache.camel.component.flatpack.FlatpackEndpoint		0.34313726
+org.apache.camel.component.flatpack.FlatpackConverter		0.23809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/DelimitedAllowLongTest
+DelimitedAllowLongTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/DelimitedAllowLongTest_testCamel_i
+org.apache.camel.component.flatpack.FlatpackProducer		0.52380955
+org.apache.camel.component.flatpack.FlatpackEndpoint		0.3627451
+org.apache.camel.component.flatpack.FlatpackConverter		0.23809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/DelimitedAllowLongTest_testFlatpackDataFormatXML_v
+org.apache.camel.component.flatpack.FlatpackConverter		0.23809524
+org.apache.camel.dataformat.flatpack.FlatpackDataFormat		0.22764228
+org.apache.camel.component.flatpack.DataSetList		0.12222222
+org.apache.camel.component.flatpack.FlatpackProducer		0.04761905
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/DelimitedAllowLongTest_testFlatpackDataFormat_7
+org.apache.camel.component.flatpack.FlatpackConverter		0.23809524
+org.apache.camel.component.flatpack.DataSetList		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/DelimitedAllowShortAndLongTest
+DelimitedAllowShortAndLongTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/DelimitedAllowShortAndLongTest_testCamel_u
+org.apache.camel.component.flatpack.FlatpackProducer		0.52380955
+org.apache.camel.component.flatpack.FlatpackEndpoint		0.38235295
+org.apache.camel.component.flatpack.FlatpackConverter		0.23809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/DelimitedAllowShortAndLongTest_testFlatpackDataFormatXML_1
+org.apache.camel.dataformat.flatpack.FlatpackDataFormat		0.24390244
+org.apache.camel.component.flatpack.FlatpackConverter		0.23809524
+org.apache.camel.component.flatpack.DataSetList		0.12222222
+org.apache.camel.component.flatpack.FlatpackProducer		0.04761905
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/DelimitedAllowShortAndLongTest_testFlatpackDataFormat_r
+org.apache.camel.component.flatpack.FlatpackConverter		0.23809524
+org.apache.camel.component.flatpack.DataSetList		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/DelimitedAllowShortTest
+DelimitedAllowShortTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/DelimitedAllowShortTest_testCamel_w
+org.apache.camel.component.flatpack.FlatpackProducer		0.52380955
+org.apache.camel.component.flatpack.FlatpackEndpoint		0.3627451
+org.apache.camel.component.flatpack.FlatpackConverter		0.23809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/DelimitedAllowShortTest_testFlatpackDataFormatXML_y
+org.apache.camel.component.flatpack.FlatpackConverter		0.23809524
+org.apache.camel.dataformat.flatpack.FlatpackDataFormat		0.22764228
+org.apache.camel.component.flatpack.DataSetList		0.12222222
+org.apache.camel.component.flatpack.FlatpackProducer		0.04761905
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/DelimitedAllowShortTest_testFlatpackDataFormat_o
+org.apache.camel.component.flatpack.FlatpackConverter		0.23809524
+org.apache.camel.component.flatpack.DataSetList		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/DelimitedErrorWithUnmarshalTest
+DelimitedErrorWithUnmarshalTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/DelimitedErrorWithUnmarshalTest_testCamel_x
+org.apache.camel.component.flatpack.FlatpackConverter		0.23809524
+org.apache.camel.dataformat.flatpack.FlatpackDataFormat		0.21138212
+org.apache.camel.component.flatpack.DataSetList		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/DelimitedTest
+DelimitedTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/DelimitedTest_testCamel_n
+org.apache.camel.component.flatpack.FlatpackProducer		0.52380955
+org.apache.camel.component.flatpack.FlatpackEndpoint		0.34313726
+org.apache.camel.component.flatpack.FlatpackConverter		0.23809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/DelimitedWithNoDescriptorTest
+DelimitedWithNoDescriptorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/DelimitedWithNoDescriptorTest_testCamel_l
+org.apache.camel.component.flatpack.FlatpackProducer		0.52380955
+org.apache.camel.component.flatpack.FlatpackEndpoint		0.32352942
+org.apache.camel.component.flatpack.FlatpackConverter		0.23809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/DelimitedWithUnmarshalTest
+DelimitedWithUnmarshalTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/DelimitedWithUnmarshalTest_testCamel_f
+org.apache.camel.component.flatpack.FlatpackConverter		0.23809524
+org.apache.camel.dataformat.flatpack.FlatpackDataFormat		0.21138212
+org.apache.camel.component.flatpack.DataSetList		0.12222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/FixedLengthAllowLongTest
+FixedLengthAllowLongTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/FixedLengthAllowLongTest_testCamel_10
+org.apache.camel.component.flatpack.FlatpackProducer		0.52380955
+org.apache.camel.component.flatpack.FlatpackEndpoint		0.30392158
+org.apache.camel.component.flatpack.FlatpackConverter		0.23809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/FixedLengthAllowLongTest_testFlatpackDataFormatXML_6
+org.apache.camel.component.flatpack.FlatpackConverter		0.23809524
+org.apache.camel.dataformat.flatpack.FlatpackDataFormat		0.21138212
+org.apache.camel.component.flatpack.DataSetList		0.12222222
+org.apache.camel.component.flatpack.FlatpackProducer		0.04761905
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/FixedLengthAllowLongTest_testFlatpackDataFormat_4
+org.apache.camel.component.flatpack.FlatpackConverter		0.23809524
+org.apache.camel.component.flatpack.DataSetList		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/FixedLengthAllowShortAndLongTest
+FixedLengthAllowShortAndLongTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/FixedLengthAllowShortAndLongTest_testFlatpackDataFormatXML_8
+org.apache.camel.component.flatpack.FlatpackConverter		0.23809524
+org.apache.camel.dataformat.flatpack.FlatpackDataFormat		0.22764228
+org.apache.camel.component.flatpack.DataSetList		0.12222222
+org.apache.camel.component.flatpack.FlatpackProducer		0.04761905
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/FixedLengthAllowShortAndLongTest_testFlatpackDataFormat_g
+org.apache.camel.component.flatpack.FlatpackConverter		0.23809524
+org.apache.camel.component.flatpack.DataSetList		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/FixedLengthAllowShortAndLongTest_testFlatpack_m
+org.apache.camel.component.flatpack.FlatpackProducer		0.52380955
+org.apache.camel.component.flatpack.FlatpackEndpoint		0.32352942
+org.apache.camel.component.flatpack.FlatpackConverter		0.23809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/FixedLengthAllowShortTest
+FixedLengthAllowShortTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/FixedLengthAllowShortTest_testCamel_z
+org.apache.camel.component.flatpack.FlatpackProducer		0.52380955
+org.apache.camel.component.flatpack.FlatpackEndpoint		0.30392158
+org.apache.camel.component.flatpack.FlatpackConverter		0.23809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/FixedLengthAllowShortTest_testFlatpackDataFormatXML_5
+org.apache.camel.component.flatpack.FlatpackConverter		0.23809524
+org.apache.camel.dataformat.flatpack.FlatpackDataFormat		0.21138212
+org.apache.camel.component.flatpack.DataSetList		0.12222222
+org.apache.camel.component.flatpack.FlatpackProducer		0.04761905
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/FixedLengthAllowShortTest_testFlatpackDataFormat_t
+org.apache.camel.component.flatpack.FlatpackConverter		0.23809524
+org.apache.camel.component.flatpack.DataSetList		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/FixedLengthTest
+FixedLengthTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/FixedLengthTest_testCamel_q
+org.apache.camel.component.flatpack.FlatpackProducer		0.52380955
+org.apache.camel.component.flatpack.FlatpackEndpoint		0.28431374
+org.apache.camel.component.flatpack.FlatpackConverter		0.23809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/FixedLengthWithUnmarshalTest
+FixedLengthWithUnmarshalTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/FixedLengthWithUnmarshalTest_testCamel_3
+org.apache.camel.component.flatpack.FlatpackConverter		0.23809524
+org.apache.camel.dataformat.flatpack.FlatpackDataFormat		0.19512194
+org.apache.camel.component.flatpack.DataSetList		0.12222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/FlatpackDelimitedDataFormatTest
+FlatpackDelimitedDataFormatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/FlatpackDelimitedDataFormatTest_testMarshalNoDefinition_0
+org.apache.camel.dataformat.flatpack.FlatpackDataFormat		0.28455284
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/FlatpackDelimitedDataFormatTest_testMarshalWithDefinition_c
+org.apache.camel.dataformat.flatpack.FlatpackDataFormat		0.28455284
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/FlatpackDelimitedDataFormatTest_testUnmarshal_2
+org.apache.camel.component.flatpack.FlatpackConverter		0.23809524
+org.apache.camel.dataformat.flatpack.FlatpackDataFormat		0.21138212
+org.apache.camel.component.flatpack.DataSetList		0.07777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/FlatpackFixedLengthDataFormatTest
+FlatpackFixedLengthDataFormatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/FlatpackFixedLengthDataFormatTest_testMarshalWithDefinition_b
+org.apache.camel.dataformat.flatpack.FlatpackDataFormat		0.24390244
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/FlatpackFixedLengthDataFormatTest_testUnmarshal_j
+org.apache.camel.component.flatpack.FlatpackConverter		0.23809524
+org.apache.camel.dataformat.flatpack.FlatpackDataFormat		0.19512194
+org.apache.camel.component.flatpack.DataSetList		0.07777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/FlatpackFixedLengthWithHeaderAndTrailerDataFormatTest
+FlatpackFixedLengthWithHeaderAndTrailerDataFormatTest		0.96428573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/FlatpackFixedLengthWithHeaderAndTrailerDataFormatTest_testUnmarshal_e
+org.apache.camel.component.flatpack.FlatpackConverter		0.3015873
+org.apache.camel.dataformat.flatpack.FlatpackDataFormat		0.19512194
+org.apache.camel.component.flatpack.DataSetList		0.07777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/HeaderAndTrailerTest
+HeaderAndTrailerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/HeaderAndTrailerTest_testHeaderAndTrailer_9
+org.apache.camel.component.flatpack.FlatpackProducer		0.5714286
+org.apache.camel.component.flatpack.FlatpackConverter		0.3015873
+org.apache.camel.component.flatpack.FlatpackEndpoint		0.28431374
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/InvalidFixedLengthTest
+InvalidFixedLengthTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/InvalidFixedLengthTest_testCamel_p
+org.apache.camel.component.flatpack.FlatpackException		0.8125
+org.apache.camel.component.flatpack.FlatpackProducer		0.3809524
+org.apache.camel.component.flatpack.FlatpackEndpoint		0.20588236
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/NoSplitRowsTest
+NoSplitRowsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/NoSplitRowsTest_testHeaderAndTrailer_d
+org.apache.camel.component.flatpack.FlatpackConverter		0.3968254
+org.apache.camel.component.flatpack.FlatpackProducer		0.3809524
+org.apache.camel.component.flatpack.FlatpackEndpoint		0.28431374
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/StreamedSplitTest
+StreamedSplitTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/StreamedSplitTest_testCamel_k
+org.apache.camel.component.flatpack.FlatpackConverter		0.23809524
+org.apache.camel.dataformat.flatpack.FlatpackDataFormat		0.15447155
+org.apache.camel.component.flatpack.DataSetList		0.12222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/XMLNoSplitRowsTest
+XMLNoSplitRowsTest		0.9285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/XMLNoSplitRowsTest_testHeaderAndTrailer_s
+org.apache.camel.component.flatpack.FlatpackConverter		0.6507937
+org.apache.camel.component.flatpack.FlatpackProducer		0.3809524
+org.apache.camel.component.flatpack.FlatpackEndpoint		0.28431374
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/XMLSplitRowsTest
+XMLSplitRowsTest		0.9230769
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/XMLSplitRowsTest_testHeaderAndTrailer_h
+org.apache.camel.component.flatpack.FlatpackConverter		0.5555556
+org.apache.camel.component.flatpack.FlatpackProducer		0.52380955
+org.apache.camel.component.flatpack.FlatpackEndpoint		0.28431374
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/test-CharsetTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/test-DelimitedAllowLongTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/test-DelimitedAllowShortAndLongTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/test-DelimitedAllowShortTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/test-DelimitedErrorWithUnmarshalTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/test-DelimitedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/test-DelimitedWithNoDescriptorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/test-DelimitedWithUnmarshalTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/test-FixedLengthAllowLongTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/test-FixedLengthAllowShortAndLongTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/test-FixedLengthAllowShortTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/test-FixedLengthTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/test-FixedLengthWithUnmarshalTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/test-FlatpackDelimitedDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/test-FlatpackFixedLengthDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/test-FlatpackFixedLengthWithHeaderAndTrailerDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/test-HeaderAndTrailerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/test-InvalidFixedLengthTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/test-NoSplitRowsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/test-StreamedSplitTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/test-XMLNoSplitRowsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flatpack/target/site/clover/org/apache/camel/component/flatpack/test-XMLSplitRowsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

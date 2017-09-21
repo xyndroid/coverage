@@ -1,0 +1,40 @@
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-distributedshell/target/clover/org/apache/hadoop
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-distributedshell/target/clover/org/apache/hadoop/yarn/applications/distributedshell/TestDSFailedAppMaster
+TestDSFailedAppMaster		0.74285716
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-distributedshell/target/clover/org/apache/hadoop/yarn/applications/distributedshell/TestDistributedShell
+TestDistributedShell		0.68501526
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-distributedshell/target/clover/org/apache/hadoop/yarn/applications/distributedshell/TestDistributedShell_testContainerLaunchFailureHandling_1
+testContainerLaunchFailureHandling
+org.apache.hadoop.yarn.applications.distributedshell.Client		0.6047904
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-distributedshell/target/clover/org/apache/hadoop/yarn/applications/distributedshell/TestDistributedShell_testDSRestartWithPreviousRunningContainers_0
+testDSRestartWithPreviousRunningContainers
+org.apache.hadoop.yarn.applications.distributedshell.Client		0.61077845
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-distributedshell/target/clover/org/apache/hadoop/yarn/applications/distributedshell/TestDistributedShell_testDSShellWithCustomLogPropertyFile_2
+testDSShellWithCustomLogPropertyFile
+org.apache.hadoop.yarn.applications.distributedshell.Log4jPropertyHelper		1.0
+org.apache.hadoop.yarn.applications.distributedshell.Client		0.6347305
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-distributedshell/target/clover/org/apache/hadoop/yarn/applications/distributedshell/TestDistributedShell_testDSShellWithInvalidArgs_7
+testDSShellWithInvalidArgs
+org.apache.hadoop.yarn.applications.distributedshell.Client		0.23952095
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-distributedshell/target/clover/org/apache/hadoop/yarn/applications/distributedshell/TestDistributedShell_testDSShellWithMultipleArgs_6
+testDSShellWithMultipleArgs
+org.apache.hadoop.yarn.applications.distributedshell.Client		0.6227545
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-distributedshell/target/clover/org/apache/hadoop/yarn/applications/distributedshell/TestDistributedShell_testDSShellWithShellScript_3
+testDSShellWithShellScript
+org.apache.hadoop.yarn.applications.distributedshell.Client		0.61976045
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-distributedshell/target/clover/org/apache/hadoop/yarn/applications/distributedshell/TestDistributedShell_testDSShell_5
+testDSShell
+org.apache.hadoop.yarn.applications.distributedshell.Client		0.6017964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-distributedshell/target/clover/org/apache/hadoop/yarn/applications/distributedshell/TestDistributedShell_testDebugFlag_4
+testDebugFlag
+org.apache.hadoop.yarn.applications.distributedshell.Client		0.6227545
+-- -- -- -- -- -- -- -- -- -- -- -- --

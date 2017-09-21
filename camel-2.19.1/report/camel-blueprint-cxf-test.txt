@@ -1,0 +1,39 @@
+./tests/camel-blueprint-cxf-test/target/site/clover/org/apache/camel
+./tests/camel-blueprint-cxf-test/target/site/clover/org/apache/camel/component/cxf/CXFTestSupport
+CXFTestSupport		0.56
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-blueprint-cxf-test/target/site/clover/org/apache/camel/component/cxf/test-CXFTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-blueprint-cxf-test/target/site/clover/org/apache/camel/test/cxf/blueprint/CxfConsumerSoap12Test
+CxfConsumerSoap12Test		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-blueprint-cxf-test/target/site/clover/org/apache/camel/test/cxf/blueprint/CxfConsumerWSRMTest
+CxfConsumerWSRMTest		0.3809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-blueprint-cxf-test/target/site/clover/org/apache/camel/test/cxf/blueprint/CxfEndpointBeansTest
+CxfEndpointBeansTest		0.19607843
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-blueprint-cxf-test/target/site/clover/org/apache/camel/test/cxf/blueprint/CxfPayloadProviderRouterTest
+CxfPayloadProviderRouterTest		0.0
+CxfPayloadProviderRouterTest.VerifyInboundInterceptor		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-blueprint-cxf-test/target/site/clover/org/apache/camel/test/cxf/blueprint/CxfRsEndpointBeansTest
+CxfRsEndpointBeansTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-blueprint-cxf-test/target/site/clover/org/apache/camel/test/cxf/blueprint/CxfTransportBlueprintTest
+CxfTransportBlueprintTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-blueprint-cxf-test/target/site/clover/org/apache/camel/test/cxf/blueprint/test-CxfConsumerSoap12Test
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-blueprint-cxf-test/target/site/clover/org/apache/camel/test/cxf/blueprint/test-CxfConsumerWSRMTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-blueprint-cxf-test/target/site/clover/org/apache/camel/test/cxf/blueprint/test-CxfEndpointBeansTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-blueprint-cxf-test/target/site/clover/org/apache/camel/test/cxf/blueprint/test-CxfPayloadProviderRouterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-blueprint-cxf-test/target/site/clover/org/apache/camel/test/cxf/blueprint/test-CxfPayloadProviderRouterTest_VerifyInboundInterceptor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-blueprint-cxf-test/target/site/clover/org/apache/camel/test/cxf/blueprint/test-CxfRsEndpointBeansTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-blueprint-cxf-test/target/site/clover/org/apache/camel/test/cxf/blueprint/test-CxfTransportBlueprintTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

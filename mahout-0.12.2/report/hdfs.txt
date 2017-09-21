@@ -1,0 +1,1298 @@
+./hdfs/target/clover/org/apache/mahout
+./hdfs/target/clover/org/apache/mahout/math/MatrixWritableTest
+MatrixWritableTest		0.978022
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/MatrixWritableTest_testDenseMatrixWritable_6j
+org.apache.mahout.math.MatrixWritable		0.6830986
+org.apache.mahout.math.VectorWritable		0.26815644
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/MatrixWritableTest_testDenseMatrixWritable_8c
+org.apache.mahout.math.MatrixWritable		0.6830986
+org.apache.mahout.math.VectorWritable		0.26815644
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/MatrixWritableTest_testDenseMatrixWritable_g
+org.apache.mahout.math.MatrixWritable		0.6830986
+org.apache.mahout.math.VectorWritable		0.26815644
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/MatrixWritableTest_testSparseMatrixWritable_7
+org.apache.mahout.math.MatrixWritable		0.7394366
+org.apache.mahout.math.VectorWritable		0.3519553
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/MatrixWritableTest_testSparseMatrixWritable_8n
+org.apache.mahout.math.MatrixWritable		0.7394366
+org.apache.mahout.math.VectorWritable		0.3519553
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/MatrixWritableTest_testSparseMatrixWritable_d
+org.apache.mahout.math.MatrixWritable		0.7394366
+org.apache.mahout.math.VectorWritable		0.3519553
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/MatrixWritableTest_testSparseRowMatrixWritable_2l
+org.apache.mahout.math.MatrixWritable		0.6971831
+org.apache.mahout.math.VectorWritable		0.3519553
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/MatrixWritableTest_testSparseRowMatrixWritable_56
+org.apache.mahout.math.MatrixWritable		0.6971831
+org.apache.mahout.math.VectorWritable		0.3519553
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/MatrixWritableTest_testSparseRowMatrixWritable_6l
+org.apache.mahout.math.MatrixWritable		0.6971831
+org.apache.mahout.math.VectorWritable		0.3519553
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VarintTest
+VarintTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VarintTest_testSignedNegativeInt_17
+org.apache.mahout.math.Varint		0.4489796
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VarintTest_testSignedNegativeInt_1a
+org.apache.mahout.math.Varint		0.4489796
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VarintTest_testSignedNegativeInt_1u
+org.apache.mahout.math.Varint		0.4489796
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VarintTest_testSignedNegativeLong_10
+org.apache.mahout.math.Varint		0.4489796
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VarintTest_testSignedNegativeLong_73
+org.apache.mahout.math.Varint		0.4489796
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VarintTest_testSignedNegativeLong_l
+org.apache.mahout.math.Varint		0.4489796
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VarintTest_testSignedPositiveInt_2x
+org.apache.mahout.math.Varint		0.63265306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VarintTest_testSignedPositiveInt_7f
+org.apache.mahout.math.Varint		0.63265306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VarintTest_testSignedPositiveInt_k
+org.apache.mahout.math.Varint		0.63265306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VarintTest_testSignedPositiveLong_1l
+org.apache.mahout.math.Varint		0.4489796
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VarintTest_testSignedPositiveLong_2m
+org.apache.mahout.math.Varint		0.4489796
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VarintTest_testSignedPositiveLong_o
+org.apache.mahout.math.Varint		0.4489796
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VarintTest_testSignedSize_3
+org.apache.mahout.math.Varint		0.18367347
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VarintTest_testSignedSize_6
+org.apache.mahout.math.Varint		0.18367347
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VarintTest_testSignedSize_ak
+org.apache.mahout.math.Varint		0.18367347
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VarintTest_testUnsignedInt_ar
+org.apache.mahout.math.Varint		0.40816328
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VarintTest_testUnsignedInt_e
+org.apache.mahout.math.Varint		0.40816328
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VarintTest_testUnsignedInt_k
+org.apache.mahout.math.Varint		0.40816328
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VarintTest_testUnsignedLong_1i
+org.apache.mahout.math.Varint		0.3265306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VarintTest_testUnsignedLong_4r
+org.apache.mahout.math.Varint		0.3265306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VarintTest_testUnsignedLong_a8
+org.apache.mahout.math.Varint		0.3265306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VarintTest_testUnsignedSize_1u
+org.apache.mahout.math.Varint		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VarintTest_testUnsignedSize_2r
+org.apache.mahout.math.Varint		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VarintTest_testUnsignedSize_30
+org.apache.mahout.math.Varint		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest
+VectorWritableTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_0
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_15
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_1e
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_1g
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_1m
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_1v
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_1w
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_1y
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_1z
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_2
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_22
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_27
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_2a
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_2c
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_2e
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_2f
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_2o
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_2p
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_2t
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_2u
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_2v
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_2z
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_39
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_3a
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_3h
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_3t
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_41
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_4l
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_4s
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_51
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_54
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_5b
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_5d
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_5k
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_5l
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_5p
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_5q
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_63
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_75
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_77
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_7c
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_7i
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_8
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_92
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_9h
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_9i
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_9p
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_9s
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_9u
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_9x
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_a
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_as
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_b
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_e
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_f
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_h
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_m
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_o
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_s
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testDenseVectorWritable_z
+org.apache.mahout.math.VectorWritable		0.32960895
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_14
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_15
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_18
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_1b
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_1c
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_1o
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_1p
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_1r
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_21
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_25
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_27
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_29
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_2d
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_2k
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_2l
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_2n
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_2q
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_2t
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_2w
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_2x
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_31
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_3u
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_3y
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_3z
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_44
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_45
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_46
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_4v
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_4y
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_4z
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_5
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_5a
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_5s
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_5x
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_6c
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_6s
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_6x
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_7l
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_7p
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_81
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_8v
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_9
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_91
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_93
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_94
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_9b
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_9c
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_9y
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_a
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_a3
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_aa
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_ab
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_ae
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_f
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_i
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_n
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_p
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_r
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testNamedVectorWritable_v
+org.apache.mahout.math.VectorWritable		0.3575419
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_12
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_1e
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_1i
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_1k
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_1o
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_1p
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_1q
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_1x
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_2
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_24
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_29
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_2f
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_2g
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_2h
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_2m
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_2q
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_2s
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_2y
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_30
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_31
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_32
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_38
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_3b
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_3s
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_3w
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_3x
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_48
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_4c
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_4f
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_4i
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_4n
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_4u
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_59
+org.apache.mahout.math.VectorWritable		0.34078214
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_5o
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_5t
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_5w
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_5y
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_60
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_64
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_6h
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_6i
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_6o
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_6r
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_83
+org.apache.mahout.math.VectorWritable		0.34078214
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_8b
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_8q
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_9j
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_9l
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_a5
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_a9
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_ah
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_c
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_d
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_g
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_i
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_j
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_l
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_t
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testRandomAccessSparseVectorWritable_u
+org.apache.mahout.math.VectorWritable		0.41340783
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_12
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_14
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_16
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_1d
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_1f
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_1h
+org.apache.mahout.math.VectorWritable		0.37988827
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_1j
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_1m
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_1n
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_1s
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_1t
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_20
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_21
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_22
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_23
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_26
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_28
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_2a
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_2b
+org.apache.mahout.math.VectorWritable		0.37988827
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_2e
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_2g
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_2h
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_2o
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_2w
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_35
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_3p
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_40
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_4g
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_4o
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_5g
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_5n
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_6
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_6b
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_6k
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_7d
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_7h
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_7v
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_82
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_86
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_8f
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_8k
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_8l
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_8p
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_8r
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_8s
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_8t
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_8y
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_97
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_9g
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_9r
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_a7
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_an
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_b
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_m
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_q
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testSequentialAccessSparseVectorWritable_w
+org.apache.mahout.math.VectorWritable		0.45810056
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_1
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_11
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_13
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_18
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_19
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_1a
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_1b
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_1c
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_1d
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_1g
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_1h
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_1j
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_1k
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_1w
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_1z
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_23
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_25
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_2i
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_2j
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_2r
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_32
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_36
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_3r
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_4
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_4b
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_4j
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_52
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_5j
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_5r
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_5z
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_6d
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_6e
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_6m
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_71
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_76
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_7b
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_7m
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_7q
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_7u
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_8
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_80
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_88
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_8j
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_8o
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_9
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_99
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_9n
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_h
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_j
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_n
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_p
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_q
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_r
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_v
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_w
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_x
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_y
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/VectorWritableTest_testViewSequentialAccessSparseVectorWritable_z
+org.apache.mahout.math.VectorWritable		0.44692737
+org.apache.mahout.math.Varint		0.20408164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/test-MatrixWritableTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/test-VarintTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hdfs/target/clover/org/apache/mahout/math/test-VectorWritableTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,1193 @@
+./components/camel-cdi/target/site/clover/org/apache/camel
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/AdvisedMockEndpointProducerTest
+AdvisedMockEndpointProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/AdvisedMockEndpointProducerTest_sendMessageToInbound_4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/AdvisedMockEndpointProducerTest_startCamelContext_1q
+org.apache.camel.cdi.BeanManagerHelper		0.44444445
+org.apache.camel.cdi.CdiCamelRegistry		0.3448276
+org.apache.camel.cdi.CdiCamelInjector		0.2857143
+org.apache.camel.cdi.BeanDelegate		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/AdvisedRouteTest
+AdvisedRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/AdvisedRouteTest_adviseCamelContext_2o
+org.apache.camel.cdi.CdiCamelRegistry		0.13793103
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/AdvisedRouteTest_sendMessageToInbound_2u
+org.apache.camel.cdi.BeanManagerHelper		0.44444445
+org.apache.camel.cdi.CdiCamelInjector		0.2857143
+org.apache.camel.cdi.CdiCamelRegistry		0.20689656
+org.apache.camel.cdi.BeanDelegate		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/AmbiguousCamelContextTest
+AmbiguousCamelContextTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/AmbiguousCamelContextTest_test_g
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/BeanInjectTest
+BeanInjectTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/BeanInjectTest_beanInjectField_3w
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/BeanInjectTest_beanInjectMethod_3j
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/BeanInjectTest_beanInjectNamed_3a
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/Camel9973Test
+Camel9973Test		1.0
+PrimitiveInjectionPoint		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/Camel9973Test_verifyDeployment_c
+org.apache.camel.cdi.BeanDelegate		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/CamelContextAwareTest
+CamelContextAwareTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/CamelContextAwareTest_camelContextAware_2q
+org.apache.camel.cdi.CamelBeanInjectionTarget		0.5
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.BeanManagerHelper		0.44444445
+org.apache.camel.cdi.CdiCamelBeanPostProcessor		0.36363637
+org.apache.camel.cdi.DelegateInjectionTarget		0.33333334
+org.apache.camel.cdi.DelegateProducer		0.2
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/CamelContextProducerFieldTest
+CamelContextProducerFieldTest		1.0
+CamelContextProducerFieldTest.NamedBeanRoute		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/CamelContextProducerFieldTest_sendMessageToInbound_2t
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/CamelContextProducerFieldTest_verifyProducedCamelContext_2x
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/CamelContextProducerMethodTest
+CamelContextProducerMethodTest		1.0
+CamelContextProducerMethodTest.NamedBeanRoute		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/CamelContextProducerMethodTest_sendMessageToInbound_4i
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/CamelContextProducerMethodTest_verifyProducedCamelContext_4h
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/CamelEventEndpointTest
+CamelEventEndpointTest		1.0
+CamelEventRoute		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/CamelEventEndpointTest_camelAllEvents_2p
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/CamelEventEndpointTest_camelStartedEvent_d
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/CamelEventNotifierTest
+CamelEventNotifierTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/CamelEventNotifierTest_sendMessageToInbound_1d
+org.apache.camel.cdi.CdiEventNotifier		0.48387095
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.CdiCamelFactory		0.24742268
+org.apache.camel.cdi.BeanDelegate		0.20689656
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.17307693
+org.apache.camel.cdi.SyntheticBean		0.071428575
+org.apache.camel.cdi.CdiCamelExtension		0.010928961
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/CamelEventNotifierTest_startedCamelContext_6
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/CamelEventNotifierTest_stopCamelContext_2k
+org.apache.camel.cdi.NamedLiteral		1.0
+org.apache.camel.cdi.CdiEventNotifier		0.7741935
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.BeanManagerHelper		0.44444445
+org.apache.camel.cdi.CdiCamelRegistry		0.3448276
+org.apache.camel.cdi.CdiCamelInjector		0.2857143
+org.apache.camel.cdi.CdiCamelFactory		0.24742268
+org.apache.camel.cdi.BeanDelegate		0.20689656
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.17307693
+org.apache.camel.cdi.SyntheticBean		0.071428575
+org.apache.camel.cdi.CdiCamelExtension		0.010928961
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/CamelRouteEventNotifierTest
+CamelRouteEventNotifierTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/CamelRouteEventNotifierTest_startedCamelContext_1x
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/CamelRouteEventNotifierTest_stopCamelContext_32
+org.apache.camel.cdi.NamedLiteral		1.0
+org.apache.camel.cdi.CdiEventNotifier		0.7741935
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.17307693
+org.apache.camel.cdi.SyntheticBean		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/CdiCamelConfigurationTest
+CdiCamelConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/CdiCamelConfigurationTest_checkThatConfigMethodHasBeenCalled_2d
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/CdiCamelConfigurationTest_checkThatNoRouteBuildersAddedToContext_s
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.17307693
+org.apache.camel.cdi.SyntheticBean		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/ConsumeMethodTest
+ConsumeMethodTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/ConsumeMethodTest_consumeAnnotation_i
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/ConsumerTemplateTest
+ConsumerTemplateTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/ConsumerTemplateTest_sendThenReceiveBody_30
+org.apache.camel.cdi.BeanManagerHelper		0.44444445
+org.apache.camel.cdi.CdiCamelRegistry		0.3448276
+org.apache.camel.cdi.CdiCamelInjector		0.2857143
+org.apache.camel.cdi.SyntheticBeanAttributes		0.11764706
+org.apache.camel.cdi.SyntheticAnnotated		0.1
+org.apache.camel.cdi.BeanDelegate		0.06896552
+org.apache.camel.cdi.CdiSpiHelper		0.028846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/ContextComponentTest
+ContextComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/ContextComponentTest_addRouteToMainContext_r
+org.apache.camel.cdi.BeanManagerHelper		0.6666667
+org.apache.camel.cdi.CdiCamelRegistry		0.3448276
+org.apache.camel.cdi.CdiCamelInjector		0.2857143
+org.apache.camel.cdi.BeanDelegate		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/ContextComponentTest_sendMessageToInbound_2m
+org.apache.camel.cdi.BeanManagerHelper		0.44444445
+org.apache.camel.cdi.CdiCamelInjector		0.2857143
+org.apache.camel.cdi.CdiCamelRegistry		0.20689656
+org.apache.camel.cdi.BeanDelegate		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/CustomCamelContextTest
+CustomCamelContextTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/CustomCamelContextTest_sendMessageToInbound_31
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/CustomCamelContextTest_verifyCamelContext_3k
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/DefaultCamelContextTest
+DefaultCamelContextTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/DefaultCamelContextTest_sendMessageToInbound_2g
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/DefaultProducerTemplateTest
+DefaultProducerTemplateTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/DefaultProducerTemplateTest_sendMessageToInbound_3v
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/DeploymentDescriptorTest
+DeploymentDescriptorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/DeploymentDescriptorTest_sendMessageToInbound_2z
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/EndpointInjectTest
+EndpointInjectTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/EndpointInjectTest_sendMessageToInbound_4b
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/EventComponentTest
+EventComponentTest		0.9
+EventComponentTest.CdiEventComponentRoute		1.0
+EventComponentTest.NotStartedCamelContext		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/EventComponentTest_createEventEndpointByUri_28
+org.apache.camel.cdi.CdiEventComponent		1.0
+org.apache.camel.cdi.BeanManagerHelper		0.6666667
+org.apache.camel.cdi.CamelBeanInjectionTarget		0.5
+org.apache.camel.cdi.CdiCamelBeanPostProcessor		0.36363637
+org.apache.camel.cdi.CdiCamelRegistry		0.3448276
+org.apache.camel.cdi.DelegateInjectionTarget		0.33333334
+org.apache.camel.cdi.DelegateProducer		0.2
+org.apache.camel.cdi.BeanDelegate		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/EventEndpointCdi12Test
+EventEndpointCdi12Test		0.0
+EventEndpointCdi12Test.EventObserver		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/EventEndpointTest
+EventEndpointTest		1.0
+EventEndpointTest.EventObserver		0.9444444
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/EventEndpointTest_sendEventsToConsumers_1w
+org.apache.camel.cdi.ForwardingObserverMethod		0.42857143
+org.apache.camel.cdi.CdiEventConsumer		0.41666666
+org.apache.camel.cdi.CdiEventEndpoint		0.12962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/EventEndpointTest_sendMessagesToProducers_v
+org.apache.camel.cdi.CdiEventProducer		0.5
+org.apache.camel.cdi.ForwardingObserverMethod		0.42857143
+org.apache.camel.cdi.CdiEventConsumer		0.41666666
+org.apache.camel.cdi.CdiEventEndpoint		0.12962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/FluentProduceTemplateTest
+FluentProduceTemplateTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/FluentProduceTemplateTest_configureCamelContext_a
+org.apache.camel.cdi.BeanManagerHelper		0.6666667
+org.apache.camel.cdi.CdiCamelBeanPostProcessor		0.59090906
+org.apache.camel.cdi.CdiCamelRegistry		0.51724136
+org.apache.camel.cdi.CamelBeanInjectionTarget		0.5
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.DelegateInjectionTarget		0.33333334
+org.apache.camel.cdi.CdiCamelInjector		0.2857143
+org.apache.camel.cdi.DelegateProducer		0.2
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.17307693
+org.apache.camel.cdi.SyntheticBean		0.071428575
+org.apache.camel.cdi.BeanDelegate		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/FluentProduceTemplateTest_sendMessageToInbound_4g
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/InjectedEndpointTest
+InjectedEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/InjectedEndpointTest_sendMessageToInbound_1l
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/InjectedTypeConverterTest
+InjectedTypeConverterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/InjectedTypeConverterTest_convertWithTypeConverter_j
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.17307693
+org.apache.camel.cdi.SyntheticBean		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/InjectedTypeConverterTest_sendMessageToInbound_1a
+org.apache.camel.cdi.SyntheticBeanAttributes		0.5882353
+org.apache.camel.cdi.BeanManagerHelper		0.44444445
+org.apache.camel.cdi.CdiCamelInjector		0.2857143
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.17307693
+org.apache.camel.cdi.SyntheticBean		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/ManualCamelContextTest
+ManualCamelContextTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/ManualCamelContextTest_addManualRoute_3h
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.17307693
+org.apache.camel.cdi.CdiCamelRegistry		0.13793103
+org.apache.camel.cdi.SyntheticBean		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/ManualCamelContextTest_sendMessageToInbound_1p
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/ManualCamelContextTest_sendMessageToManual_2w
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/ManualCamelContextTest_verifyContext_3i
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.17307693
+org.apache.camel.cdi.SyntheticBean		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MockEndpointTest
+MockEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MockEndpointTest_sendMessageToInbound_3f
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MockEndpointTest_verifyCamelContext_19
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiCamelContextProducerTest
+MultiCamelContextProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiCamelContextProducerTest_configureCamelContexts_3s
+org.apache.camel.cdi.BeanManagerHelper		0.44444445
+org.apache.camel.cdi.CdiCamelRegistry		0.3448276
+org.apache.camel.cdi.CdiCamelInjector		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiCamelContextProducerTest_sendMessageToDefaultCamelContextInbound_14
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiCamelContextProducerTest_sendMessageToFirstCamelContextInbound_45
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiCamelContextProducerTest_sendMessageToSecondCamelContextInbound_5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiCamelContextProducerTest_verifyCamelContexts_3y
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiCamelContextReusedRouteCdi20Test
+MultiCamelContextReusedRouteCdi20Test		0.0
+MultiCamelContextReusedRouteCdi20Test.ReusedRouteBuilder		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiCamelContextTest
+MultiCamelContextTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiCamelContextTest_configureCamelContexts_3o
+org.apache.camel.cdi.BeanManagerHelper		0.44444445
+org.apache.camel.cdi.CdiCamelRegistry		0.3448276
+org.apache.camel.cdi.CdiCamelInjector		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiCamelContextTest_sendMessageToDefaultCamelContextInbound_l
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiCamelContextTest_sendMessageToFirstCamelContextInbound_4d
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiCamelContextTest_sendMessageToSecondCamelContextInbound_4f
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiCamelContextTest_verifyCamelContexts_2j
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextConsumerTemplateTest
+MultiContextConsumerTemplateTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextConsumerTemplateTest_configureCamelContexts_48
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextConsumerTemplateTest_receiveBodyFromDefaultCamelContext_17
+org.apache.camel.cdi.BeanManagerHelper		0.44444445
+org.apache.camel.cdi.CdiCamelRegistry		0.3448276
+org.apache.camel.cdi.CdiCamelInjector		0.2857143
+org.apache.camel.cdi.BeanDelegate		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextConsumerTemplateTest_receiveBodyFromFirstCamelContext_1v
+org.apache.camel.cdi.BeanManagerHelper		0.44444445
+org.apache.camel.cdi.CdiCamelRegistry		0.3448276
+org.apache.camel.cdi.CdiCamelInjector		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextConsumerTemplateTest_receiveBodyFromSecondCamelContext_3x
+org.apache.camel.cdi.BeanManagerHelper		0.44444445
+org.apache.camel.cdi.CdiCamelRegistry		0.3448276
+org.apache.camel.cdi.CdiCamelInjector		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextEndpointInjectTest
+MultiContextEndpointInjectTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextEndpointInjectTest_configureCamelContexts_1b
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextEndpointInjectTest_sendMessageToDefaultCamelContextInbound_20
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextEndpointInjectTest_sendMessageToFirstCamelContextInbound_3m
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextEndpointInjectTest_sendMessageToSecondCamelContextInbound_w
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextEventEndpointTest
+MultiContextEventEndpointTest		1.0
+MultiContextEventEndpointTest.EventObserver		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextEventEndpointTest_configureCamelContexts_3b
+org.apache.camel.cdi.CdiEventConsumer		0.125
+org.apache.camel.cdi.CdiEventEndpoint		0.055555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextEventEndpointTest_sendEventsToConsumers_q
+org.apache.camel.cdi.ContextName.Literal		1.0
+org.apache.camel.cdi.ForwardingObserverMethod		0.42857143
+org.apache.camel.cdi.CdiEventConsumer		0.41666666
+org.apache.camel.cdi.CdiEventEndpoint		0.12962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextEventEndpointTest_sendMessagesToProducers_2
+org.apache.camel.cdi.CdiEventProducer		0.5
+org.apache.camel.cdi.ForwardingObserverMethod		0.42857143
+org.apache.camel.cdi.CdiEventConsumer		0.41666666
+org.apache.camel.cdi.CdiEventEndpoint		0.12962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextEventNotifierTest
+MultiContextEventNotifierTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextEventNotifierTest_configureCamelContexts_2l
+org.apache.camel.cdi.NamedLiteral		1.0
+org.apache.camel.cdi.CdiEventNotifier		0.5483871
+org.apache.camel.cdi.BeanManagerHelper		0.44444445
+org.apache.camel.cdi.CdiCamelRegistry		0.3448276
+org.apache.camel.cdi.CdiCamelInjector		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextEventNotifierTest_sendMessageToDefaultCamelContextInbound_1j
+org.apache.camel.cdi.CdiEventNotifier		0.48387095
+org.apache.camel.cdi.CdiCamelFactory		0.26804122
+org.apache.camel.cdi.BeanDelegate		0.20689656
+org.apache.camel.cdi.CdiSpiHelper		0.028846154
+org.apache.camel.cdi.CdiCamelExtension		0.010928961
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextEventNotifierTest_sendMessageToFirstCamelContextInbound_8
+org.apache.camel.cdi.CdiEventNotifier		0.48387095
+org.apache.camel.cdi.CdiCamelFactory		0.26804122
+org.apache.camel.cdi.BeanDelegate		0.20689656
+org.apache.camel.cdi.CdiSpiHelper		0.028846154
+org.apache.camel.cdi.CdiCamelExtension		0.010928961
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextEventNotifierTest_sendMessageToSecondCamelContextInbound_t
+org.apache.camel.cdi.CdiEventNotifier		0.48387095
+org.apache.camel.cdi.CdiCamelFactory		0.26804122
+org.apache.camel.cdi.BeanDelegate		0.20689656
+org.apache.camel.cdi.CdiSpiHelper		0.028846154
+org.apache.camel.cdi.CdiCamelExtension		0.010928961
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextEventNotifierTest_stopCamelContexts_e
+org.apache.camel.cdi.NamedLiteral		1.0
+org.apache.camel.cdi.CdiEventNotifier		0.7741935
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextProduceTemplateTest
+MultiContextProduceTemplateTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextProduceTemplateTest_configureCamelContexts_2y
+org.apache.camel.cdi.ContextName.Literal		1.0
+org.apache.camel.cdi.BeanManagerHelper		0.6666667
+org.apache.camel.cdi.CdiCamelBeanPostProcessor		0.6136364
+org.apache.camel.cdi.CdiCamelRegistry		0.51724136
+org.apache.camel.cdi.CamelBeanInjectionTarget		0.5
+org.apache.camel.cdi.DelegateInjectionTarget		0.33333334
+org.apache.camel.cdi.CdiCamelInjector		0.2857143
+org.apache.camel.cdi.DelegateProducer		0.2
+org.apache.camel.cdi.BeanDelegate		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextProduceTemplateTest_sendMessageToDefaultCamelContextInbound_3p
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextProduceTemplateTest_sendMessageToFirstCamelContextInbound_h
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextProduceTemplateTest_sendMessageToSecondCamelContextInbound_2c
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextProducerTemplateTest
+MultiContextProducerTemplateTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextProducerTemplateTest_configureCamelContexts_1t
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextProducerTemplateTest_sendMessageToDefaultCamelContextInbound_m
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextProducerTemplateTest_sendMessageToFirstCamelContextInbound_49
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextProducerTemplateTest_sendMessageToSecondCamelContextInbound_3r
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextPropertyInjectTest
+MultiContextPropertyInjectTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextPropertyInjectTest_configureCamelContexts_12
+org.apache.camel.cdi.ContextName.Literal		1.0
+org.apache.camel.cdi.BeanManagerHelper		0.6666667
+org.apache.camel.cdi.CdiCamelBeanPostProcessor		0.6136364
+org.apache.camel.cdi.CdiCamelRegistry		0.51724136
+org.apache.camel.cdi.CamelBeanInjectionTarget		0.5
+org.apache.camel.cdi.DelegateInjectionTarget		0.33333334
+org.apache.camel.cdi.CdiCamelInjector		0.2857143
+org.apache.camel.cdi.DelegateProducer		0.2
+org.apache.camel.cdi.BeanDelegate		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextPropertyInjectTest_retrieveReferenceFromDefaultCamelContext_47
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextPropertyInjectTest_retrieveReferenceFromFirstCamelContext_2s
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextPropertyInjectTest_retrieveReferenceFromSecondCamelContext_1o
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextPropertyInjectTest_sendMessageToDefaultCamelContextInbound_41
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextPropertyInjectTest_sendMessageToFirstCamelContextInbound_4c
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/MultiContextPropertyInjectTest_sendMessageToSecondCamelContextInbound_o
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/NamedCamelBeanTest
+NamedCamelBeanTest		1.0
+NamedCamelBeanTest.TestRoute		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/NamedCamelBeanTest_sendMessageToInbound_42
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/NamedCamelContextTest
+NamedCamelContextTest		1.0
+NamedCamelContextTest.EmptyNamedBeanContext		1.0
+NamedCamelContextTest.NamedBeanContext		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/NamedCamelContextTest_verifyCamelContexts_1m
+org.apache.camel.cdi.BeanDelegate		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/NoCamelContextTest
+NoCamelContextTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/NoCamelContextTest_verifyDeployment_29
+org.apache.camel.cdi.BeanDelegate		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/ProduceTemplateTest
+ProduceTemplateTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/ProduceTemplateTest_configureCamelContext_1y
+org.apache.camel.cdi.BeanManagerHelper		0.6666667
+org.apache.camel.cdi.CdiCamelBeanPostProcessor		0.59090906
+org.apache.camel.cdi.CdiCamelRegistry		0.51724136
+org.apache.camel.cdi.CamelBeanInjectionTarget		0.5
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.DelegateInjectionTarget		0.33333334
+org.apache.camel.cdi.CdiCamelInjector		0.2857143
+org.apache.camel.cdi.DelegateProducer		0.2
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.17307693
+org.apache.camel.cdi.SyntheticBean		0.071428575
+org.apache.camel.cdi.BeanDelegate		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/ProduceTemplateTest_sendMessageToInbound_1i
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/ProgrammaticLookupTest
+ProgrammaticLookupTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/ProgrammaticLookupTest_sendMessageToInbound_1f
+org.apache.camel.cdi.Uri.Literal		1.0
+org.apache.camel.cdi.SyntheticBeanAttributes		0.5882353
+org.apache.camel.cdi.BeanDelegate		0.3448276
+org.apache.camel.cdi.CdiCamelFactory		0.24742268
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.17307693
+org.apache.camel.cdi.SyntheticBean		0.071428575
+org.apache.camel.cdi.CdiCamelExtension		0.010928961
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/ProgrammaticLookupTest_verifyCamelContext_2i
+org.apache.camel.cdi.SyntheticBeanAttributes		0.5882353
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.17307693
+org.apache.camel.cdi.SyntheticBean		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/PropertiesLocationTest
+PropertiesLocationTest		1.0
+SingleLocation		1.0
+MultipleLocations		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/PropertiesLocationTest_resolvePropertyFromLocation_21
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.17307693
+org.apache.camel.cdi.SyntheticBean		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/PropertiesMultipleLocationTest
+PropertiesMultipleLocationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/PropertiesMultipleLocationTest_resolvePropertyFromLocations_15
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.17307693
+org.apache.camel.cdi.SyntheticBean		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/PropertyEndpointTest
+PropertyEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/PropertyEndpointTest_sendMessageToInbound_37
+org.apache.camel.cdi.BeanManagerHelper		0.44444445
+org.apache.camel.cdi.CdiCamelInjector		0.2857143
+org.apache.camel.cdi.CdiCamelRegistry		0.20689656
+org.apache.camel.cdi.BeanDelegate		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/PropertyInjectTest
+PropertyInjectTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/PropertyInjectTest_configureCamelContext_1h
+org.apache.camel.cdi.BeanManagerHelper		0.6666667
+org.apache.camel.cdi.CdiCamelBeanPostProcessor		0.59090906
+org.apache.camel.cdi.CdiCamelRegistry		0.51724136
+org.apache.camel.cdi.CamelBeanInjectionTarget		0.5
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.DelegateInjectionTarget		0.33333334
+org.apache.camel.cdi.CdiCamelInjector		0.2857143
+org.apache.camel.cdi.DelegateProducer		0.2
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.17307693
+org.apache.camel.cdi.SyntheticBean		0.071428575
+org.apache.camel.cdi.BeanDelegate		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/PropertyInjectTest_retrieveContextualReference_9
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/PropertyInjectTest_sendMessageToInbound_2n
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/QualifiedCamelContextTest
+QualifiedCamelContextTest		1.0
+QualifiedCamelContextTest.CamelRoute		1.0
+QualifiedCamelContext		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/QualifiedCamelContextTest_sendMessageToInbound_13
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/QualifiedMultiCamelContextTest
+QualifiedMultiCamelContextTest		1.0
+FooCamelContext		1.0
+BarCamelContext		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/QualifiedMultiCamelContextTest_configureCamelContexts_p
+org.apache.camel.cdi.BeanManagerHelper		0.44444445
+org.apache.camel.cdi.CdiCamelRegistry		0.3448276
+org.apache.camel.cdi.CdiCamelInjector		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/QualifiedMultiCamelContextTest_sendMessageToDefaultCamelContextInbound_3l
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/QualifiedMultiCamelContextTest_sendMessageToFirstCamelContextInbound_2b
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/QualifiedMultiCamelContextTest_sendMessageToSecondCamelContextInbound_2v
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/QualifiedMultiCamelContextTest_verifyCamelContexts_1e
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/RawEventEndpointCdi12Test
+RawEventEndpointCdi12Test		0.0
+RawEventRoute		0.0
+RawEventObserver		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/RecipientListMethodTest
+RecipientListMethodTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/RecipientListMethodTest_consumeAnnotation_1s
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.17307693
+org.apache.camel.cdi.SyntheticBean		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/RouteBuilderWithContextNameTest
+RouteBuilderWithContextNameTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/RouteBuilderWithContextNameTest_sendMessageToInbound_44
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/RouteBuilderWithContextNameTest_verifyCamelContexts_3g
+org.apache.camel.cdi.SyntheticBeanAttributes		0.5882353
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.1923077
+org.apache.camel.cdi.SyntheticBean		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/RouteBuilderWithContextNameTest_verifyDefaultCamelContext_24
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.1923077
+org.apache.camel.cdi.SyntheticBean		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/RouteBuilderWithContextNameTest_verifyNamedCamelContext_z
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.1923077
+org.apache.camel.cdi.SyntheticBean		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/RouteBuildersWithContextNamesTest
+RouteBuildersWithContextNamesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/RouteBuildersWithContextNamesTest_sendMessageToFirstInbound_2f
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/RouteBuildersWithContextNamesTest_sendMessageToSecondInbound_3u
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/RouteBuildersWithContextNamesTest_verifyCamelContexts_1
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.1923077
+org.apache.camel.cdi.SyntheticBean		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/RouteBuildersWithContextNamesTest_verifyFirstCamelContext_k
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.1923077
+org.apache.camel.cdi.SyntheticBean		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/RouteBuildersWithContextNamesTest_verifySecondCamelContext_1u
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.1923077
+org.apache.camel.cdi.SyntheticBean		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/RouteBuildersWithSameContextNameTest
+RouteBuildersWithSameContextNameTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/RouteBuildersWithSameContextNameTest_sendMessageToInbound_2h
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/RouteBuildersWithSameContextNameTest_verifyCamelContext_11
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.1923077
+org.apache.camel.cdi.SyntheticBean		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/RouteBuildersWithSameContextNameTest_verifyCamelContexts_27
+org.apache.camel.cdi.SyntheticBeanAttributes		0.5882353
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.1923077
+org.apache.camel.cdi.SyntheticBean		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/RouteDefinitionsFromXmlTest
+RouteDefinitionsFromXmlTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/RouteDefinitionsFromXmlTest_sendMessageToInbound_23
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/UndefinedPropertyTest
+UndefinedPropertyTest		0.9375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/UndefinedPropertyTest_lookupDefinedProperty_10
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.17307693
+org.apache.camel.cdi.SyntheticBean		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/UndefinedPropertyTest_lookupUndefinedProperty_16
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.17307693
+org.apache.camel.cdi.SyntheticBean		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/UnsatisfiedContextForEndpointInjectTest
+UnsatisfiedContextForEndpointInjectTest		0.6666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/UnstoppedCamelContextBeanTest
+UnstoppedCamelContextBeanTest		1.0
+UnstoppedCamelContext		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/UnstoppedCamelContextBeanTest_sendMessageToInbound_x
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/UnstoppedCamelContextProducerFieldTest
+UnstoppedCamelContextProducerFieldTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/UnstoppedCamelContextProducerFieldTest_sendMessageToInbound_3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/UnstoppedCamelContextProducerMethodTest
+UnstoppedCamelContextProducerMethodTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/UnstoppedCamelContextProducerMethodTest_sendMessageToInbound_35
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/UriEndpointTest
+UriEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/UriEndpointTest_sendMessageToInbound_7
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/UriQualifierWithContextTest
+UriQualifierWithContextTest		1.0
+UriWithContextRoute		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/UriQualifierWithContextTest_sendMessageToInbound_46
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/UriWithWrongContextTest
+UriWithWrongContextTest		0.6666667
+UriWithWrongContextRoute		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlBeansTest
+XmlBeansTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlBeansTest_sendMessageToInbound_2r
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.NamedLiteral		0.33333334
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.1923077
+org.apache.camel.cdi.SyntheticBean		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlConsumerTemplateTest
+XmlConsumerTemplateTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlConsumerTemplateTest_sendMessageToInbound_1r
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.XmlFactoryBeanInjectionTarget		0.46153846
+org.apache.camel.cdi.ContextName.Literal		0.33333334
+org.apache.camel.cdi.NamedLiteral		0.33333334
+org.apache.camel.cdi.SyntheticBean		0.2857143
+org.apache.camel.cdi.SyntheticInjectionTarget		0.2777778
+org.apache.camel.cdi.BeanManagerHelper		0.22222222
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.1923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlConsumerTemplateTest_verifyConsumerTemplate_y
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.ContextName.Literal		0.33333334
+org.apache.camel.cdi.NamedLiteral		0.33333334
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.1923077
+org.apache.camel.cdi.SyntheticBean		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlEndpointTest
+XmlEndpointTest		0.64285713
+MyBlockingQueue		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlEndpointTest_sendMessageToInbound_3z
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlErrorHandlerLoggingTest
+XmlErrorHandlerLoggingTest		0.9411765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlErrorHandlerLoggingTest_sendExceptionToInbound_26
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlErrorHandlerLoggingTest_sendMessageToInbound_b
+org.apache.camel.cdi.BeanManagerHelper		0.44444445
+org.apache.camel.cdi.NamedLiteral		0.33333334
+org.apache.camel.cdi.CdiCamelInjector		0.2857143
+org.apache.camel.cdi.CdiCamelRegistry		0.20689656
+org.apache.camel.cdi.SyntheticBeanAttributes		0.11764706
+org.apache.camel.cdi.SyntheticAnnotated		0.1
+org.apache.camel.cdi.BeanDelegate		0.06896552
+org.apache.camel.cdi.CdiSpiHelper		0.028846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlErrorHandlerPolicyTest
+XmlErrorHandlerPolicyTest		0.9411765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlErrorHandlerPolicyTest_sendExceptionToInbound_3t
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.NamedLiteral		0.33333334
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.1923077
+org.apache.camel.cdi.SyntheticBean		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlErrorHandlerPolicyTest_sendMessageToInbound_3n
+org.apache.camel.cdi.BeanManagerHelper		0.44444445
+org.apache.camel.cdi.NamedLiteral		0.33333334
+org.apache.camel.cdi.CdiCamelInjector		0.2857143
+org.apache.camel.cdi.CdiCamelRegistry		0.20689656
+org.apache.camel.cdi.SyntheticBeanAttributes		0.11764706
+org.apache.camel.cdi.SyntheticAnnotated		0.1
+org.apache.camel.cdi.BeanDelegate		0.06896552
+org.apache.camel.cdi.CdiSpiHelper		0.028846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlErrorHandlerTest
+XmlErrorHandlerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlErrorHandlerTest_sendExceptionToInbound_43
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlErrorHandlerTest_sendMessageToInbound_u
+org.apache.camel.cdi.BeanManagerHelper		0.44444445
+org.apache.camel.cdi.NamedLiteral		0.33333334
+org.apache.camel.cdi.CdiCamelInjector		0.2857143
+org.apache.camel.cdi.CdiCamelRegistry		0.20689656
+org.apache.camel.cdi.SyntheticBeanAttributes		0.11764706
+org.apache.camel.cdi.SyntheticAnnotated		0.1
+org.apache.camel.cdi.BeanDelegate		0.06896552
+org.apache.camel.cdi.CdiSpiHelper		0.028846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlMultiContextsTest
+XmlMultiContextsTest		1.0
+XmlMultiContextsTest.TestRoute		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlMultiContextsTest_sendMessageToFirstCamelContextInbound_25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlMultiContextsTest_sendMessageToSecondCamelContextInbound_4e
+org.apache.camel.cdi.BeanManagerHelper		0.44444445
+org.apache.camel.cdi.NamedLiteral		0.33333334
+org.apache.camel.cdi.CdiCamelInjector		0.2857143
+org.apache.camel.cdi.CdiCamelRegistry		0.20689656
+org.apache.camel.cdi.SyntheticBeanAttributes		0.11764706
+org.apache.camel.cdi.SyntheticAnnotated		0.1
+org.apache.camel.cdi.BeanDelegate		0.06896552
+org.apache.camel.cdi.CdiSpiHelper		0.028846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlMultiContextsTest_verifyCamelContexts_39
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.ContextName.Literal		0.33333334
+org.apache.camel.cdi.NamedLiteral		0.33333334
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.1923077
+org.apache.camel.cdi.SyntheticBean		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlProducerTemplateTest
+XmlProducerTemplateTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlProducerTemplateTest_sendMessageToInbound_n
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.ContextName.Literal		0.33333334
+org.apache.camel.cdi.NamedLiteral		0.33333334
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.1923077
+org.apache.camel.cdi.SyntheticBean		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlProducerTemplateTest_verifyProducerTemplate_22
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.XmlFactoryBeanInjectionTarget		0.46153846
+org.apache.camel.cdi.ContextName.Literal		0.33333334
+org.apache.camel.cdi.NamedLiteral		0.33333334
+org.apache.camel.cdi.SyntheticBean		0.2857143
+org.apache.camel.cdi.SyntheticInjectionTarget		0.2777778
+org.apache.camel.cdi.BeanManagerHelper		0.22222222
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.1923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlPropertyPlaceholderTest
+XmlPropertyPlaceholderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlPropertyPlaceholderTest_resolvePropertyFromLocation_3q
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.ContextName.Literal		0.33333334
+org.apache.camel.cdi.NamedLiteral		0.33333334
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.1923077
+org.apache.camel.cdi.SyntheticBean		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlProxyFactoryTest
+XmlProxyFactoryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlProxyFactoryTest_sendMessageToProxy_1n
+org.apache.camel.cdi.BeanManagerHelper		0.6666667
+org.apache.camel.cdi.CdiCamelRegistry		0.51724136
+org.apache.camel.cdi.XmlProxyFactoryBean		0.5135135
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.ContextName.Literal		0.33333334
+org.apache.camel.cdi.NamedLiteral		0.33333334
+org.apache.camel.cdi.CdiCamelInjector		0.2857143
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.1923077
+org.apache.camel.cdi.SyntheticBean		0.071428575
+org.apache.camel.cdi.BeanDelegate		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlRestContextTest
+XmlRestContextTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlRestContextTest_sendMessageToInbound_1k
+org.apache.camel.cdi.BeanManagerHelper		0.44444445
+org.apache.camel.cdi.NamedLiteral		0.33333334
+org.apache.camel.cdi.CdiCamelInjector		0.2857143
+org.apache.camel.cdi.CdiCamelRegistry		0.20689656
+org.apache.camel.cdi.SyntheticBeanAttributes		0.11764706
+org.apache.camel.cdi.SyntheticAnnotated		0.1
+org.apache.camel.cdi.BeanDelegate		0.06896552
+org.apache.camel.cdi.CdiSpiHelper		0.028846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlRestContextTest_verifyRestContext_4a
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlRouteContextImportTest
+XmlRouteContextImportTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlRouteContextImportTest_sendMessageToInbound_34
+org.apache.camel.cdi.BeanManagerHelper		0.44444445
+org.apache.camel.cdi.NamedLiteral		0.33333334
+org.apache.camel.cdi.CdiCamelInjector		0.2857143
+org.apache.camel.cdi.CdiCamelRegistry		0.20689656
+org.apache.camel.cdi.SyntheticBeanAttributes		0.11764706
+org.apache.camel.cdi.SyntheticAnnotated		0.1
+org.apache.camel.cdi.BeanDelegate		0.06896552
+org.apache.camel.cdi.CdiSpiHelper		0.028846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlRouteContextImportTest_verifyRouteContext_2e
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlRouteContextResourceTest
+XmlRouteContextResourceTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlRouteContextResourceTest_sendMessageToInbound_3e
+org.apache.camel.cdi.BeanManagerHelper		0.44444445
+org.apache.camel.cdi.NamedLiteral		0.33333334
+org.apache.camel.cdi.CdiCamelInjector		0.2857143
+org.apache.camel.cdi.CdiCamelRegistry		0.20689656
+org.apache.camel.cdi.SyntheticBeanAttributes		0.11764706
+org.apache.camel.cdi.SyntheticAnnotated		0.1
+org.apache.camel.cdi.BeanDelegate		0.06896552
+org.apache.camel.cdi.CdiSpiHelper		0.028846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlRoutesDefinitionTest
+XmlRoutesDefinitionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlRoutesDefinitionTest_sendMessageToInbound_38
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlServiceCallConfigurationTest
+XmlServiceCallConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlServiceCallConfigurationTest_testServiceDiscoveryConfiguration_2a
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.ContextName.Literal		0.33333334
+org.apache.camel.cdi.NamedLiteral		0.33333334
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.1923077
+org.apache.camel.cdi.SyntheticBean		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlServiceExporterTest
+XmlServiceExporterTest		1.0
+XmlServiceExporterTest.TestService		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlServiceExporterTest_invokeService_1z
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.NamedLiteral		0.33333334
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.1923077
+org.apache.camel.cdi.SyntheticBean		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlServiceExporterTest_sendMessageToService_3c
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlThreadPoolProfileTest
+XmlThreadPoolProfileTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlThreadPoolProfileTest_sendMessageToInbound_1g
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlThreadPoolProfileTest_verifyThreadProfile_0
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.ContextName.Literal		0.33333334
+org.apache.camel.cdi.NamedLiteral		0.33333334
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.1923077
+org.apache.camel.cdi.SyntheticBean		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlThreadPoolTest
+XmlThreadPoolTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlThreadPoolTest_sendMessageToInbound_f
+org.apache.camel.cdi.SyntheticBeanAttributes		0.47058824
+org.apache.camel.cdi.XmlFactoryBeanInjectionTarget		0.46153846
+org.apache.camel.cdi.ContextName.Literal		0.33333334
+org.apache.camel.cdi.NamedLiteral		0.33333334
+org.apache.camel.cdi.SyntheticBean		0.2857143
+org.apache.camel.cdi.SyntheticInjectionTarget		0.2777778
+org.apache.camel.cdi.BeanManagerHelper		0.22222222
+org.apache.camel.cdi.SyntheticAnnotated		0.2
+org.apache.camel.cdi.CdiSpiHelper		0.1923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/XmlThreadPoolTest_verifyThreadPool_36
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-AdvisedMockEndpointProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-AdvisedRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-AmbiguousCamelContextTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-BeanInjectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-Camel9973Test
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-CamelContextAwareTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-CamelContextProducerFieldTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-CamelContextProducerFieldTest_NamedBeanRoute
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-CamelContextProducerMethodTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-CamelContextProducerMethodTest_NamedBeanRoute
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-CamelEventEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-CamelEventNotifierTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-CamelRouteEventNotifierTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-CdiCamelConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-ConsumeMethodTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-ConsumerTemplateTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-ContextComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-CustomCamelContextTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-DefaultCamelContextTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-DefaultProducerTemplateTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-DeploymentDescriptorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-EndpointInjectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-EventComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-EventComponentTest_CdiEventComponentRoute
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-EventComponentTest_NotStartedCamelContext
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-EventEndpointCdi12Test
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-EventEndpointCdi12Test_EventObserver
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-EventEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-EventEndpointTest_EventObserver
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-FluentProduceTemplateTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-InjectedEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-InjectedTypeConverterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-ManualCamelContextTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-MockEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-MultiCamelContextProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-MultiCamelContextReusedRouteCdi20Test
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-MultiCamelContextReusedRouteCdi20Test_ReusedRouteBuilder
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-MultiCamelContextTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-MultiContextConsumerTemplateTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-MultiContextEndpointInjectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-MultiContextEventEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-MultiContextEventEndpointTest_EventObserver
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-MultiContextEventNotifierTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-MultiContextProduceTemplateTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-MultiContextProducerTemplateTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-MultiContextPropertyInjectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-NamedCamelBeanTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-NamedCamelBeanTest_TestRoute
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-NamedCamelContextTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-NamedCamelContextTest_EmptyNamedBeanContext
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-NamedCamelContextTest_NamedBeanContext
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-NoCamelContextTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-ProduceTemplateTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-ProgrammaticLookupTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-PropertiesLocationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-PropertiesMultipleLocationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-PropertyEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-PropertyInjectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-QualifiedCamelContextTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-QualifiedCamelContextTest_CamelRoute
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-QualifiedMultiCamelContextTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-RawEventEndpointCdi12Test
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-RecipientListMethodTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-RouteBuilderWithContextNameTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-RouteBuildersWithContextNamesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-RouteBuildersWithSameContextNameTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-RouteDefinitionsFromXmlTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-UndefinedPropertyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-UnsatisfiedContextForEndpointInjectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-UnstoppedCamelContextBeanTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-UnstoppedCamelContextProducerFieldTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-UnstoppedCamelContextProducerMethodTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-UriEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-UriQualifierWithContextTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-UriWithWrongContextTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-XmlBeansTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-XmlConsumerTemplateTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-XmlEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-XmlErrorHandlerLoggingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-XmlErrorHandlerPolicyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-XmlErrorHandlerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-XmlMultiContextsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-XmlMultiContextsTest_TestRoute
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-XmlProducerTemplateTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-XmlPropertyPlaceholderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-XmlProxyFactoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-XmlRestContextTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-XmlRouteContextImportTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-XmlRouteContextResourceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-XmlRoutesDefinitionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-XmlServiceCallConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-XmlServiceExporterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-XmlServiceExporterTest_TestService
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-XmlThreadPoolProfileTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cdi/target/site/clover/org/apache/camel/cdi/test/test-XmlThreadPoolTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

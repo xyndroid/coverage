@@ -1,0 +1,51 @@
+./components/camel-jsch/target/site/clover/org/apache/camel
+./components/camel-jsch/target/site/clover/org/apache/camel/component/scp/ScpServerTestSupport
+ScpServerTestSupport		0.76829267
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsch/target/site/clover/org/apache/camel/component/scp/ScpSimpleProduceTest
+ScpSimpleProduceTest		0.85365856
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsch/target/site/clover/org/apache/camel/component/scp/ScpSimpleProduceTest_testScpProduceChmod_1
+org.apache.camel.component.scp.ScpProducer		1.0
+org.apache.camel.component.scp.ScpEndpoint		0.7368421
+org.apache.camel.component.scp.ScpComponent		0.61702126
+org.apache.camel.component.scp.ScpOperations.SessionUserInfo		0.5217391
+org.apache.camel.component.scp.ScpConfiguration		0.5208333
+org.apache.camel.component.scp.ScpOperations		0.515748
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsch/target/site/clover/org/apache/camel/component/scp/ScpSimpleProduceTest_testScpSimpleProduceTwoTimes_2
+org.apache.camel.component.scp.ScpProducer		1.0
+org.apache.camel.component.scp.ScpEndpoint		0.7368421
+org.apache.camel.component.scp.ScpComponent		0.61702126
+org.apache.camel.component.scp.ScpOperations		0.52362204
+org.apache.camel.component.scp.ScpOperations.SessionUserInfo		0.5217391
+org.apache.camel.component.scp.ScpConfiguration		0.375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsch/target/site/clover/org/apache/camel/component/scp/ScpSimpleProduceTest_testScpSimpleProduce_0
+org.apache.camel.component.scp.ScpProducer		1.0
+org.apache.camel.component.scp.ScpEndpoint		0.7368421
+org.apache.camel.component.scp.ScpComponent		0.61702126
+org.apache.camel.component.scp.ScpOperations.SessionUserInfo		0.5217391
+org.apache.camel.component.scp.ScpOperations		0.515748
+org.apache.camel.component.scp.ScpConfiguration		0.375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsch/target/site/clover/org/apache/camel/component/scp/ScpSimpleProduceTest_testScpSimpleSubPathProduce_3
+org.apache.camel.component.scp.ScpProducer		1.0
+org.apache.camel.component.scp.ScpEndpoint		0.7368421
+org.apache.camel.component.scp.ScpComponent		0.61702126
+org.apache.camel.component.scp.ScpOperations		0.5748032
+org.apache.camel.component.scp.ScpOperations.SessionUserInfo		0.5217391
+org.apache.camel.component.scp.ScpConfiguration		0.375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsch/target/site/clover/org/apache/camel/component/scp/ScpSimpleProduceTest_testScpSimpleTwoSubPathProduce_4
+org.apache.camel.component.scp.ScpProducer		1.0
+org.apache.camel.component.scp.ScpEndpoint		0.7368421
+org.apache.camel.component.scp.ScpComponent		0.61702126
+org.apache.camel.component.scp.ScpOperations		0.5748032
+org.apache.camel.component.scp.ScpOperations.SessionUserInfo		0.5217391
+org.apache.camel.component.scp.ScpConfiguration		0.375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsch/target/site/clover/org/apache/camel/component/scp/test-ScpServerTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsch/target/site/clover/org/apache/camel/component/scp/test-ScpSimpleProduceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

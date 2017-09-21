@@ -1,0 +1,93 @@
+./components/camel-spring-javaconfig/target/site/clover/org/apache/camel
+./components/camel-spring-javaconfig/target/site/clover/org/apache/camel/spring/javaconfig/BeanJavaConfigTest
+BeanJavaConfigTest		0.0
+BeanJavaConfigTest.SomeBean		0.0
+BeanJavaConfigTest.ContextConfig		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-javaconfig/target/site/clover/org/apache/camel/spring/javaconfig/MainTest
+MainTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-javaconfig/target/site/clover/org/apache/camel/spring/javaconfig/MainTest_testOptionBP_2
+org.apache.camel.spring.javaconfig.Main		0.44615385
+org.apache.camel.spring.javaconfig.CamelConfiguration		0.18055555
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-javaconfig/target/site/clover/org/apache/camel/spring/javaconfig/MainTest_testOptionBP_4
+org.apache.camel.spring.javaconfig.Main		0.44615385
+org.apache.camel.spring.javaconfig.CamelConfiguration		0.18055555
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-javaconfig/target/site/clover/org/apache/camel/spring/javaconfig/MainTest_testOptionBP_5
+org.apache.camel.spring.javaconfig.Main		0.44615385
+org.apache.camel.spring.javaconfig.CamelConfiguration		0.18055555
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-javaconfig/target/site/clover/org/apache/camel/spring/javaconfig/MainTest_testOptions_0
+org.apache.camel.spring.javaconfig.Main		0.5846154
+org.apache.camel.spring.javaconfig.CamelConfiguration		0.18055555
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-javaconfig/target/site/clover/org/apache/camel/spring/javaconfig/MainTest_testOptions_1
+org.apache.camel.spring.javaconfig.Main		0.5846154
+org.apache.camel.spring.javaconfig.CamelConfiguration		0.18055555
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-javaconfig/target/site/clover/org/apache/camel/spring/javaconfig/MainTest_testOptions_6
+org.apache.camel.spring.javaconfig.Main		0.5846154
+org.apache.camel.spring.javaconfig.CamelConfiguration		0.18055555
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-javaconfig/target/site/clover/org/apache/camel/spring/javaconfig/autowire/AutodetectNoRoutesConfigTest
+AutodetectNoRoutesConfigTest		0.0
+NoRoutesConfig		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-javaconfig/target/site/clover/org/apache/camel/spring/javaconfig/autowire/AutodetectingConfigTest
+AutodetectingConfigTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-javaconfig/target/site/clover/org/apache/camel/spring/javaconfig/autowire/LoadingRawCamelConfigurationTest
+LoadingRawCamelConfigurationTest		0.0
+AdditionalRouteConfiguration		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-javaconfig/target/site/clover/org/apache/camel/spring/javaconfig/autowire/test-AutodetectNoRoutesConfigTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-javaconfig/target/site/clover/org/apache/camel/spring/javaconfig/autowire/test-AutodetectingConfigTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-javaconfig/target/site/clover/org/apache/camel/spring/javaconfig/autowire/test-LoadingRawCamelConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-javaconfig/target/site/clover/org/apache/camel/spring/javaconfig/patterns/FilterTest
+FilterTest		0.0
+FilterTest.ContextConfig		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-javaconfig/target/site/clover/org/apache/camel/spring/javaconfig/patterns/test-FilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-javaconfig/target/site/clover/org/apache/camel/spring/javaconfig/patterns/test-FilterTest_ContextConfig
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-javaconfig/target/site/clover/org/apache/camel/spring/javaconfig/test/CamelSpringDelegatingTestContextLoaderTest
+CamelSpringDelegatingTestContextLoaderTest		0.0
+CamelSpringDelegatingTestContextLoaderTest.TestConfig		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-javaconfig/target/site/clover/org/apache/camel/spring/javaconfig/test/JavaConfigWithNestedConfigClassTest
+JavaConfigWithNestedConfigClassTest		1.0
+JavaConfigWithNestedConfigClassTest.ContextConfig		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-javaconfig/target/site/clover/org/apache/camel/spring/javaconfig/test/JavaConfigWithNestedConfigClassTest_testPostProcessorInjectsMe_7
+testPostProcessorInjectsMe
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-javaconfig/target/site/clover/org/apache/camel/spring/javaconfig/test/JavaConfigWithPostProcessorTest
+JavaConfigWithPostProcessorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-javaconfig/target/site/clover/org/apache/camel/spring/javaconfig/test/JavaConfigWithPostProcessorTest_testPostProcessorInjectsMe_3
+testPostProcessorInjectsMe
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-javaconfig/target/site/clover/org/apache/camel/spring/javaconfig/test/test-CamelSpringDelegatingTestContextLoaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-javaconfig/target/site/clover/org/apache/camel/spring/javaconfig/test/test-CamelSpringDelegatingTestContextLoaderTest_TestConfig
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-javaconfig/target/site/clover/org/apache/camel/spring/javaconfig/test/test-JavaConfigWithNestedConfigClassTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-javaconfig/target/site/clover/org/apache/camel/spring/javaconfig/test/test-JavaConfigWithNestedConfigClassTest_ContextConfig
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-javaconfig/target/site/clover/org/apache/camel/spring/javaconfig/test/test-JavaConfigWithPostProcessorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-javaconfig/target/site/clover/org/apache/camel/spring/javaconfig/test-BeanJavaConfigTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-javaconfig/target/site/clover/org/apache/camel/spring/javaconfig/test-BeanJavaConfigTest_ContextConfig
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-javaconfig/target/site/clover/org/apache/camel/spring/javaconfig/test-BeanJavaConfigTest_SomeBean
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-javaconfig/target/site/clover/org/apache/camel/spring/javaconfig/test-MainTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

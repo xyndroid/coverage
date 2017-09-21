@@ -1,0 +1,12 @@
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-unmanaged-am-launcher/target/clover/org/apache/hadoop
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-unmanaged-am-launcher/target/clover/org/apache/hadoop/yarn/applications/unmanagedamlauncher/TestUnmanagedAMLauncher
+TestUnmanagedAMLauncher		0.8659794
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-unmanaged-am-launcher/target/clover/org/apache/hadoop/yarn/applications/unmanagedamlauncher/TestUnmanagedAMLauncher_testUMALauncherError_0
+testUMALauncherError
+org.apache.hadoop.yarn.applications.unmanagedamlauncher.UnmanagedAMLauncher		0.6851064
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-unmanaged-am-launcher/target/clover/org/apache/hadoop/yarn/applications/unmanagedamlauncher/TestUnmanagedAMLauncher_testUMALauncher_1
+testUMALauncher
+org.apache.hadoop.yarn.applications.unmanagedamlauncher.UnmanagedAMLauncher		0.6851064
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,318 @@
+./components/camel-telegram/target/site/clover/org/apache/camel
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramChatBotTest
+TelegramChatBotTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramChatBotTest_testChatBotResult_1
+org.apache.camel.component.telegram.TelegramConsumer		0.75
+org.apache.camel.component.telegram.model.OutgoingTextMessage		0.72727275
+org.apache.camel.component.telegram.model.Update		0.6666667
+org.apache.camel.component.telegram.TelegramProducer		0.6666667
+org.apache.camel.component.telegram.model.OutgoingMessage		0.6
+org.apache.camel.component.telegram.TelegramMediaType		0.5
+org.apache.camel.component.telegram.TelegramServiceProvider		0.5
+org.apache.camel.component.telegram.model.Chat		0.45
+org.apache.camel.component.telegram.TelegramEndpoint		0.42307693
+org.apache.camel.component.telegram.model.IncomingMessage		0.34
+org.apache.camel.component.telegram.model.User		0.32
+org.apache.camel.component.telegram.util.TelegramConverter		0.2962963
+org.apache.camel.component.telegram.model.UpdateResult		0.26666668
+org.apache.camel.component.telegram.TelegramConfiguration		0.115384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramComponentParametersTest
+TelegramComponentParametersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramComponentParametersTest_testDefaultsAndOverrides_i
+org.apache.camel.component.telegram.TelegramComponent		0.8333333
+org.apache.camel.component.telegram.TelegramConfiguration		0.44230768
+org.apache.camel.component.telegram.TelegramEndpoint		0.1923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramComponentParametersTest_testNonDefaultConfig_3
+org.apache.camel.component.telegram.TelegramComponent		0.6666667
+org.apache.camel.component.telegram.TelegramConfiguration		0.26923078
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramComponentParametersTest_testWrongURI1_5
+org.apache.camel.component.telegram.TelegramComponent		0.6666667
+org.apache.camel.component.telegram.TelegramConfiguration		0.28846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramComponentParametersTest_testWrongURI2_6
+org.apache.camel.component.telegram.TelegramComponent		0.6666667
+org.apache.camel.component.telegram.TelegramConfiguration		0.115384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramConfigurationTest
+TelegramConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramConfigurationTest_testChatBotResult_m
+org.apache.camel.component.telegram.TelegramConfiguration		0.1923077
+org.apache.camel.component.telegram.TelegramEndpoint		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramConsumerEmptyResponseTest
+TelegramConsumerEmptyResponseTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramConsumerEmptyResponseTest_testBehaviourWithEmptyUpdates_e
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramConsumerFallbackConversionTest
+TelegramConsumerFallbackConversionTest		1.0
+TelegramConsumerFallbackConversionTest.BrandNewType		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramConsumerFallbackConversionTest_testEverythingOk_d
+org.apache.camel.component.telegram.TelegramProducer		0.6904762
+org.apache.camel.component.telegram.model.OutgoingTextMessage		0.6363636
+org.apache.camel.component.telegram.model.OutgoingMessage		0.6
+org.apache.camel.component.telegram.TelegramServiceProvider		0.5
+org.apache.camel.component.telegram.util.TelegramConverter		0.2962963
+org.apache.camel.component.telegram.TelegramConfiguration		0.07692308
+org.apache.camel.component.telegram.TelegramEndpoint		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramConsumerMappingTest
+TelegramConsumerMappingTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramConsumerMappingTest_testMessageMapping_h
+org.apache.camel.component.telegram.model.Chat		0.65
+org.apache.camel.component.telegram.model.User		0.56
+org.apache.camel.component.telegram.model.Update		0.53333336
+org.apache.camel.component.telegram.TelegramConsumer		0.525
+org.apache.camel.component.telegram.model.IncomingMessage		0.46
+org.apache.camel.component.telegram.TelegramEndpoint		0.42307693
+org.apache.camel.component.telegram.TelegramServiceProvider		0.375
+org.apache.camel.component.telegram.model.UpdateResult		0.26666668
+org.apache.camel.component.telegram.TelegramConfiguration		0.115384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramConsumerMediaDocumentTest
+TelegramConsumerMediaDocumentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramConsumerMediaDocumentTest_testReceptionOfMessageWithADocument_8
+org.apache.camel.component.telegram.model.IncomingPhotoSize		0.64
+org.apache.camel.component.telegram.model.IncomingDocument		0.6333333
+org.apache.camel.component.telegram.model.Update		0.53333336
+org.apache.camel.component.telegram.TelegramConsumer		0.525
+org.apache.camel.component.telegram.model.Chat		0.45
+org.apache.camel.component.telegram.TelegramEndpoint		0.42307693
+org.apache.camel.component.telegram.TelegramServiceProvider		0.375
+org.apache.camel.component.telegram.model.IncomingMessage		0.34
+org.apache.camel.component.telegram.model.User		0.32
+org.apache.camel.component.telegram.model.UpdateResult		0.26666668
+org.apache.camel.component.telegram.TelegramConfiguration		0.115384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramConsumerMediaPhotoTest
+TelegramConsumerMediaPhotoTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramConsumerMediaPhotoTest_testReceptionOfTwoMessagesOneWithMedia_f
+org.apache.camel.component.telegram.model.Update		0.53333336
+org.apache.camel.component.telegram.TelegramConsumer		0.525
+org.apache.camel.component.telegram.model.Chat		0.45
+org.apache.camel.component.telegram.TelegramEndpoint		0.42307693
+org.apache.camel.component.telegram.model.IncomingPhotoSize		0.4
+org.apache.camel.component.telegram.TelegramServiceProvider		0.375
+org.apache.camel.component.telegram.model.IncomingMessage		0.34
+org.apache.camel.component.telegram.model.User		0.32
+org.apache.camel.component.telegram.model.UpdateResult		0.26666668
+org.apache.camel.component.telegram.TelegramConfiguration		0.115384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramConsumerMediaVideoTest
+TelegramConsumerMediaVideoTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramConsumerMediaVideoTest_testReceptionOfAMessageWithAVideo_o
+org.apache.camel.component.telegram.model.IncomingVideo		0.575
+org.apache.camel.component.telegram.model.Update		0.53333336
+org.apache.camel.component.telegram.TelegramConsumer		0.525
+org.apache.camel.component.telegram.model.Chat		0.45
+org.apache.camel.component.telegram.TelegramEndpoint		0.42307693
+org.apache.camel.component.telegram.TelegramServiceProvider		0.375
+org.apache.camel.component.telegram.model.IncomingMessage		0.34
+org.apache.camel.component.telegram.model.IncomingPhotoSize		0.32
+org.apache.camel.component.telegram.model.User		0.32
+org.apache.camel.component.telegram.model.UpdateResult		0.26666668
+org.apache.camel.component.telegram.TelegramConfiguration		0.115384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramConsumerMultipleTest
+TelegramConsumerMultipleTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramConsumerMultipleTest_testReceptionOfThreeMessagesFromTwoUpdates_a
+org.apache.camel.component.telegram.TelegramConsumer		0.75
+org.apache.camel.component.telegram.model.Update		0.6666667
+org.apache.camel.component.telegram.model.Chat		0.45
+org.apache.camel.component.telegram.TelegramEndpoint		0.42307693
+org.apache.camel.component.telegram.TelegramServiceProvider		0.375
+org.apache.camel.component.telegram.model.IncomingMessage		0.34
+org.apache.camel.component.telegram.model.User		0.32
+org.apache.camel.component.telegram.model.UpdateResult		0.26666668
+org.apache.camel.component.telegram.TelegramConfiguration		0.115384616
+org.apache.camel.component.telegram.util.TelegramConverter		0.027777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramConsumerServiceErrorTest
+TelegramConsumerServiceErrorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramConsumerServiceErrorTest_testConsumerRecovery_j
+org.apache.camel.component.telegram.TelegramConsumer		0.775
+org.apache.camel.component.telegram.model.Update		0.6666667
+org.apache.camel.component.telegram.model.UpdateResult		0.6666667
+org.apache.camel.component.telegram.model.Chat		0.45
+org.apache.camel.component.telegram.TelegramEndpoint		0.42307693
+org.apache.camel.component.telegram.TelegramServiceProvider		0.375
+org.apache.camel.component.telegram.model.IncomingMessage		0.34
+org.apache.camel.component.telegram.model.User		0.32
+org.apache.camel.component.telegram.TelegramConfiguration		0.115384616
+org.apache.camel.component.telegram.util.TelegramConverter		0.027777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramConsumerSingleTest
+TelegramConsumerSingleTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramConsumerSingleTest_testReceptionOfTwoMessages_4
+org.apache.camel.component.telegram.TelegramConsumer		0.75
+org.apache.camel.component.telegram.model.Update		0.6666667
+org.apache.camel.component.telegram.model.Chat		0.45
+org.apache.camel.component.telegram.TelegramEndpoint		0.42307693
+org.apache.camel.component.telegram.TelegramServiceProvider		0.375
+org.apache.camel.component.telegram.model.IncomingMessage		0.34
+org.apache.camel.component.telegram.model.User		0.32
+org.apache.camel.component.telegram.model.UpdateResult		0.26666668
+org.apache.camel.component.telegram.TelegramConfiguration		0.115384616
+org.apache.camel.component.telegram.util.TelegramConverter		0.027777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramProducerChatIdResolutionTest
+TelegramProducerChatIdResolutionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramProducerChatIdResolutionTest_testRouteWithFixedChatId_k
+org.apache.camel.component.telegram.model.OutgoingTextMessage		0.72727275
+org.apache.camel.component.telegram.TelegramProducer		0.6904762
+org.apache.camel.component.telegram.model.OutgoingMessage		0.6
+org.apache.camel.component.telegram.TelegramServiceProvider		0.5
+org.apache.camel.component.telegram.util.TelegramConverter		0.2685185
+org.apache.camel.component.telegram.TelegramConfiguration		0.07692308
+org.apache.camel.component.telegram.TelegramEndpoint		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramProducerChatIdResolutionTest_testRouteWithOverridenChatId_c
+org.apache.camel.component.telegram.model.OutgoingTextMessage		0.72727275
+org.apache.camel.component.telegram.TelegramProducer		0.6666667
+org.apache.camel.component.telegram.model.OutgoingMessage		0.6
+org.apache.camel.component.telegram.TelegramServiceProvider		0.5
+org.apache.camel.component.telegram.util.TelegramConverter		0.2685185
+org.apache.camel.component.telegram.TelegramEndpoint		0.07692308
+org.apache.camel.component.telegram.TelegramConfiguration		0.03846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramProducerMediaTest
+TelegramProducerMediaTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramProducerMediaTest_testRouteWithAudio_7
+org.apache.camel.component.telegram.model.OutgoingAudioMessage		0.7352941
+org.apache.camel.component.telegram.TelegramProducer		0.6904762
+org.apache.camel.component.telegram.model.OutgoingMessage		0.6
+org.apache.camel.component.telegram.TelegramMediaType		0.5
+org.apache.camel.component.telegram.TelegramServiceProvider		0.5
+org.apache.camel.component.telegram.util.TelegramConverter		0.2037037
+org.apache.camel.component.telegram.TelegramConfiguration		0.07692308
+org.apache.camel.component.telegram.TelegramEndpoint		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramProducerMediaTest_testRouteWithDocument_0
+org.apache.camel.component.telegram.model.OutgoingDocumentMessage		0.9583333
+org.apache.camel.component.telegram.TelegramProducer		0.6904762
+org.apache.camel.component.telegram.model.OutgoingMessage		0.6
+org.apache.camel.component.telegram.TelegramServiceProvider		0.5
+org.apache.camel.component.telegram.util.TelegramConverter		0.19444445
+org.apache.camel.component.telegram.TelegramConfiguration		0.07692308
+org.apache.camel.component.telegram.TelegramEndpoint		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramProducerMediaTest_testRouteWithJpgImage_g
+org.apache.camel.component.telegram.model.OutgoingPhotoMessage		0.9583333
+org.apache.camel.component.telegram.TelegramProducer		0.6904762
+org.apache.camel.component.telegram.model.OutgoingMessage		0.6
+org.apache.camel.component.telegram.TelegramMediaType		0.5
+org.apache.camel.component.telegram.TelegramServiceProvider		0.5
+org.apache.camel.component.telegram.util.TelegramConverter		0.2037037
+org.apache.camel.component.telegram.TelegramConfiguration		0.07692308
+org.apache.camel.component.telegram.TelegramEndpoint		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramProducerMediaTest_testRouteWithPngImage_2
+org.apache.camel.component.telegram.model.OutgoingPhotoMessage		0.9583333
+org.apache.camel.component.telegram.TelegramProducer		0.6904762
+org.apache.camel.component.telegram.model.OutgoingMessage		0.6
+org.apache.camel.component.telegram.TelegramMediaType		0.5
+org.apache.camel.component.telegram.TelegramServiceProvider		0.5
+org.apache.camel.component.telegram.util.TelegramConverter		0.2037037
+org.apache.camel.component.telegram.TelegramConfiguration		0.07692308
+org.apache.camel.component.telegram.TelegramEndpoint		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramProducerMediaTest_testRouteWithTextHtml_b
+org.apache.camel.component.telegram.model.OutgoingTextMessage		0.8181818
+org.apache.camel.component.telegram.TelegramProducer		0.6904762
+org.apache.camel.component.telegram.model.OutgoingMessage		0.6
+org.apache.camel.component.telegram.TelegramParseMode		0.5
+org.apache.camel.component.telegram.TelegramServiceProvider		0.5
+org.apache.camel.component.telegram.util.TelegramConverter		0.2685185
+org.apache.camel.component.telegram.TelegramConfiguration		0.07692308
+org.apache.camel.component.telegram.TelegramEndpoint		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramProducerMediaTest_testRouteWithTextMarkdown_9
+org.apache.camel.component.telegram.TelegramParseMode		1.0
+org.apache.camel.component.telegram.model.OutgoingTextMessage		0.8181818
+org.apache.camel.component.telegram.TelegramProducer		0.6904762
+org.apache.camel.component.telegram.model.OutgoingMessage		0.6
+org.apache.camel.component.telegram.TelegramServiceProvider		0.5
+org.apache.camel.component.telegram.util.TelegramConverter		0.2685185
+org.apache.camel.component.telegram.TelegramConfiguration		0.07692308
+org.apache.camel.component.telegram.TelegramEndpoint		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramProducerMediaTest_testRouteWithText_n
+org.apache.camel.component.telegram.model.OutgoingTextMessage		0.72727275
+org.apache.camel.component.telegram.TelegramProducer		0.6904762
+org.apache.camel.component.telegram.model.OutgoingMessage		0.6
+org.apache.camel.component.telegram.TelegramServiceProvider		0.5
+org.apache.camel.component.telegram.util.TelegramConverter		0.25925925
+org.apache.camel.component.telegram.TelegramConfiguration		0.07692308
+org.apache.camel.component.telegram.TelegramEndpoint		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/TelegramProducerMediaTest_testRouteWithVideo_l
+org.apache.camel.component.telegram.TelegramProducer		0.6904762
+org.apache.camel.component.telegram.model.OutgoingVideoMessage		0.6666667
+org.apache.camel.component.telegram.model.OutgoingMessage		0.6
+org.apache.camel.component.telegram.TelegramMediaType		0.5
+org.apache.camel.component.telegram.TelegramServiceProvider		0.5
+org.apache.camel.component.telegram.util.TelegramConverter		0.2037037
+org.apache.camel.component.telegram.TelegramConfiguration		0.07692308
+org.apache.camel.component.telegram.TelegramEndpoint		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/integration/TelegramServiceTest
+TelegramServiceTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/integration/test-TelegramServiceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/test-TelegramChatBotTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/test-TelegramComponentParametersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/test-TelegramConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/test-TelegramConsumerEmptyResponseTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/test-TelegramConsumerFallbackConversionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/test-TelegramConsumerFallbackConversionTest_BrandNewType
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/test-TelegramConsumerMappingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/test-TelegramConsumerMediaDocumentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/test-TelegramConsumerMediaPhotoTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/test-TelegramConsumerMediaVideoTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/test-TelegramConsumerMultipleTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/test-TelegramConsumerServiceErrorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/test-TelegramConsumerSingleTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/test-TelegramProducerChatIdResolutionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/test-TelegramProducerMediaTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/util/TelegramTestSupport
+TelegramTestSupport		0.95
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/util/TelegramTestUtil
+TelegramTestUtil		0.8636364
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/util/test-TelegramTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-telegram/target/site/clover/org/apache/camel/component/telegram/util/test-TelegramTestUtil
+-- -- -- -- -- -- -- -- -- -- -- -- --

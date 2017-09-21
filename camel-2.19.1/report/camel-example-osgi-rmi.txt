@@ -1,0 +1,9 @@
+./examples/camel-example-osgi-rmi/target/site/clover/org/apache/camel
+./examples/camel-example-osgi-rmi/target/site/clover/org/apache/camel/example/osgi/RmiTest
+RmiTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-osgi-rmi/target/site/clover/org/apache/camel/example/osgi/RmiTest_testRmi_0
+org.apache.camel.example.osgi.HelloServiceImpl		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-osgi-rmi/target/site/clover/org/apache/camel/example/osgi/test-RmiTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

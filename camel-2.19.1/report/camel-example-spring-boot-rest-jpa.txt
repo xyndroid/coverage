@@ -1,0 +1,27 @@
+./examples/camel-example-spring-boot-rest-jpa/target/site/clover/org/apache/camel
+./examples/camel-example-spring-boot-rest-jpa/target/site/clover/org/apache/camel/example/spring/boot/rest/jpa/ApplicationTest
+ApplicationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-spring-boot-rest-jpa/target/site/clover/org/apache/camel/example/spring/boot/rest/jpa/ApplicationTest_booksTest_2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-spring-boot-rest-jpa/target/site/clover/org/apache/camel/example/spring/boot/rest/jpa/ApplicationTest_booksTest_4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-spring-boot-rest-jpa/target/site/clover/org/apache/camel/example/spring/boot/rest/jpa/ApplicationTest_booksTest_5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-spring-boot-rest-jpa/target/site/clover/org/apache/camel/example/spring/boot/rest/jpa/ApplicationTest_newOrderTest_0
+org.apache.camel.example.spring.boot.rest.jpa.OrderService		1.0
+org.apache.camel.example.spring.boot.rest.jpa.Order		0.6666667
+org.apache.camel.example.spring.boot.rest.jpa.Book		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-spring-boot-rest-jpa/target/site/clover/org/apache/camel/example/spring/boot/rest/jpa/ApplicationTest_newOrderTest_1
+org.apache.camel.example.spring.boot.rest.jpa.OrderService		1.0
+org.apache.camel.example.spring.boot.rest.jpa.Order		0.6666667
+org.apache.camel.example.spring.boot.rest.jpa.Book		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-spring-boot-rest-jpa/target/site/clover/org/apache/camel/example/spring/boot/rest/jpa/ApplicationTest_newOrderTest_3
+org.apache.camel.example.spring.boot.rest.jpa.OrderService		1.0
+org.apache.camel.example.spring.boot.rest.jpa.Order		0.6666667
+org.apache.camel.example.spring.boot.rest.jpa.Book		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-spring-boot-rest-jpa/target/site/clover/org/apache/camel/example/spring/boot/rest/jpa/test-ApplicationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

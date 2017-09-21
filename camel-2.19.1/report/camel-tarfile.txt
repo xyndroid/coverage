@@ -1,0 +1,145 @@
+./components/camel-tarfile/target/site/clover/org/apache/camel
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/SpringTarFileDataFormatTest
+SpringTarFileDataFormatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/SpringTarFileDataFormatTest_testDslTar_9
+org.apache.camel.dataformat.tarfile.TarFileDataFormat		0.36065573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/SpringTarFileDataFormatTest_testDslUntar_b
+org.apache.camel.dataformat.tarfile.TarFileDataFormat		0.27868852
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/SpringTarFileDataFormatTest_testTarAndUntar_8
+org.apache.camel.dataformat.tarfile.TarFileDataFormat		0.6393443
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/SpringTarFileDataFormatTest_testTarToFileWithFileName_l
+org.apache.camel.dataformat.tarfile.TarFileDataFormat		0.36065573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/SpringTarFileDataFormatTest_testTarToFileWithoutFileName_6
+org.apache.camel.dataformat.tarfile.TarFileDataFormat		0.36065573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/SpringTarFileDataFormatTest_testTarToFileWithoutFileName_q
+org.apache.camel.dataformat.tarfile.TarFileDataFormat		0.36065573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/SpringTarFileDataFormatTest_testTarWithFileName_k
+org.apache.camel.dataformat.tarfile.TarFileDataFormat		0.36065573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/SpringTarFileDataFormatTest_testTarWithoutFileName_d
+org.apache.camel.dataformat.tarfile.TarFileDataFormat		0.36065573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/SpringTarFileDataFormatTest_testUntar_2
+org.apache.camel.dataformat.tarfile.TarFileDataFormat		0.27868852
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/SpringTarSplitterRouteTest
+SpringTarSplitterRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/SpringTarSplitterRouteTest_testSplitter_e
+org.apache.camel.dataformat.tarfile.TarSplitter		0.85714287
+org.apache.camel.dataformat.tarfile.TarElementInputStreamWrapper		0.8
+org.apache.camel.dataformat.tarfile.TarIterator		0.6086956
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/TarFileDataFormatTest
+TarFileDataFormatTest		0.9508197
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/TarFileDataFormatTest_testDslTar_n
+org.apache.camel.dataformat.tarfile.TarFileDataFormat		0.36065573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/TarFileDataFormatTest_testDslUntar_4
+org.apache.camel.dataformat.tarfile.TarFileDataFormat		0.27868852
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/TarFileDataFormatTest_testTarAndUntar_a
+org.apache.camel.dataformat.tarfile.TarFileDataFormat		0.6393443
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/TarFileDataFormatTest_testTarToFileWithFileName_g
+org.apache.camel.dataformat.tarfile.TarFileDataFormat		0.36065573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/TarFileDataFormatTest_testTarToFileWithoutFileName_f
+org.apache.camel.dataformat.tarfile.TarFileDataFormat		0.36065573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/TarFileDataFormatTest_testTarWithFileName_o
+org.apache.camel.dataformat.tarfile.TarFileDataFormat		0.36065573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/TarFileDataFormatTest_testTarWithoutFileName_1
+org.apache.camel.dataformat.tarfile.TarFileDataFormat		0.36065573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/TarFileDataFormatTest_testUntarWithEmptyDirectorySupported_i
+org.apache.camel.dataformat.tarfile.TarIterator		0.8152174
+org.apache.camel.dataformat.tarfile.TarElementInputStreamWrapper		0.2
+org.apache.camel.dataformat.tarfile.TarFileDataFormat		0.16393442
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/TarFileDataFormatTest_testUntarWithEmptyDirectoryUnsupported_5
+org.apache.camel.dataformat.tarfile.TarIterator		0.7826087
+org.apache.camel.dataformat.tarfile.TarElementInputStreamWrapper		0.2
+org.apache.camel.dataformat.tarfile.TarFileDataFormat		0.16393442
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/TarFileDataFormatTest_testUntar_h
+org.apache.camel.dataformat.tarfile.TarFileDataFormat		0.27868852
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/TarFileMultipleFilesSplitterTest
+TarFileMultipleFilesSplitterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/TarFileMultipleFilesSplitterTest_testSplitter_j
+org.apache.camel.dataformat.tarfile.TarElementInputStreamWrapper		0.8
+org.apache.camel.dataformat.tarfile.TarIterator		0.73913044
+org.apache.camel.dataformat.tarfile.TarFileDataFormat		0.09836066
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/TarSplitterRouteIssueTest
+TarSplitterRouteIssueTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/TarSplitterRouteIssueTest_testSplitterWithWrongFile_3
+org.apache.camel.dataformat.tarfile.TarSplitter		0.71428573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/TarSplitterRouteIssueTest_testSplitter_7
+org.apache.camel.dataformat.tarfile.TarSplitter		0.85714287
+org.apache.camel.dataformat.tarfile.TarIterator		0.7282609
+org.apache.camel.dataformat.tarfile.TarElementInputStreamWrapper		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/TarSplitterRouteTest
+TarSplitterRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/TarSplitterRouteTest_testSplitter_0
+org.apache.camel.dataformat.tarfile.TarSplitter		0.85714287
+org.apache.camel.dataformat.tarfile.TarElementInputStreamWrapper		0.8
+org.apache.camel.dataformat.tarfile.TarIterator		0.6086956
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/test-SpringTarFileDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/test-SpringTarSplitterRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/test-TarFileDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/test-TarFileMultipleFilesSplitterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/test-TarSplitterRouteIssueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/dataformat/tarfile/test-TarSplitterRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/processor/aggregate/tarfile/AggregationStrategyWithFilenameHeaderTest
+AggregationStrategyWithFilenameHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/processor/aggregate/tarfile/AggregationStrategyWithFilenameHeaderTest_testSplitter_p
+testSplitter
+org.apache.camel.processor.aggregate.tarfile.TarAggregationStrategy.DeleteTarFileOnCompletion		0.8333333
+org.apache.camel.processor.aggregate.tarfile.TarAggregationStrategy		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/processor/aggregate/tarfile/AggregationStrategyWithPreservationTest
+AggregationStrategyWithPreservationTest		0.9411765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/processor/aggregate/tarfile/AggregationStrategyWithPreservationTest_testSplitter_c
+testSplitter
+org.apache.camel.processor.aggregate.tarfile.TarAggregationStrategy.DeleteTarFileOnCompletion		0.8333333
+org.apache.camel.processor.aggregate.tarfile.TarAggregationStrategy		0.43076923
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/processor/aggregate/tarfile/TarAggregationStrategyTest
+TarAggregationStrategyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/processor/aggregate/tarfile/TarAggregationStrategyTest_testSplitter_m
+testSplitter
+org.apache.camel.processor.aggregate.tarfile.TarAggregationStrategy.DeleteTarFileOnCompletion		0.8333333
+org.apache.camel.processor.aggregate.tarfile.TarAggregationStrategy		0.43076923
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/processor/aggregate/tarfile/test-AggregationStrategyWithFilenameHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/processor/aggregate/tarfile/test-AggregationStrategyWithPreservationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tarfile/target/site/clover/org/apache/camel/processor/aggregate/tarfile/test-TarAggregationStrategyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

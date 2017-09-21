@@ -1,0 +1,495 @@
+./components/camel-hdfs2/target/site/clover/org/apache/camel
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/FromFileToHdfsTest
+FromFileToHdfsTest		0.8367347
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/FromFileToHdfsTest_testFileToHdfs_8
+org.apache.camel.component.hdfs2.HdfsInfoFactory		0.8333333
+org.apache.camel.component.hdfs2.HdfsInfo		0.8
+org.apache.camel.component.hdfs2.HdfsOutputStream		0.55172414
+org.apache.camel.component.hdfs2.HdfsComponent		0.4
+org.apache.camel.component.hdfs2.HdfsProducer		0.3138686
+org.apache.camel.component.hdfs2.HdfsFileType		0.121212125
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/FromFileToHdfsTest_testTwoFilesToHdfs_n
+org.apache.camel.component.hdfs2.HdfsInfoFactory		0.8333333
+org.apache.camel.component.hdfs2.HdfsInfo		0.8
+org.apache.camel.component.hdfs2.HdfsOutputStream		0.55172414
+org.apache.camel.component.hdfs2.HdfsComponent		0.4
+org.apache.camel.component.hdfs2.HdfsProducer		0.3211679
+org.apache.camel.component.hdfs2.HdfsFileType		0.121212125
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsConsumerTest
+HdfsConsumerTest		0.9
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsConsumerTest_testConcurrentConsumers_j
+org.apache.camel.component.hdfs2.HdfsConsumer.ExcludePathFilter		1.0
+org.apache.camel.component.hdfs2.HdfsInfoFactory		0.8333333
+org.apache.camel.component.hdfs2.HdfsEndpoint		0.8125
+org.apache.camel.component.hdfs2.HdfsInfo		0.8
+org.apache.camel.component.hdfs2.HdfsInputStream		0.7755102
+org.apache.camel.component.hdfs2.HdfsComponent		0.76666665
+org.apache.camel.component.hdfs2.HdfsConsumer		0.6869565
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.525
+org.apache.camel.component.hdfs2.HdfsFileSystemType		0.33333334
+org.apache.camel.component.hdfs2.Holder		0.33333334
+org.apache.camel.component.hdfs2.HdfsFileType		0.08712121
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsConsumerTest_testReadBoolean_h
+org.apache.camel.component.hdfs2.HdfsInfo		1.0
+org.apache.camel.component.hdfs2.HdfsInfoFactory		0.8333333
+org.apache.camel.component.hdfs2.HdfsEndpoint		0.8125
+org.apache.camel.component.hdfs2.HdfsComponent		0.76666665
+org.apache.camel.component.hdfs2.HdfsConsumer		0.62608695
+org.apache.camel.component.hdfs2.HdfsInputStream		0.5510204
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsNullWritableFactory		0.5
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.49166667
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsBooleanWritableFactory		0.375
+org.apache.camel.component.hdfs2.HdfsFileSystemType		0.33333334
+org.apache.camel.component.hdfs2.Holder		0.33333334
+org.apache.camel.component.hdfs2.HdfsFileType		0.09469697
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsConsumerTest_testReadByte_5
+org.apache.camel.component.hdfs2.HdfsInfo		1.0
+org.apache.camel.component.hdfs2.HdfsInfoFactory		0.8333333
+org.apache.camel.component.hdfs2.HdfsEndpoint		0.8125
+org.apache.camel.component.hdfs2.HdfsComponent		0.76666665
+org.apache.camel.component.hdfs2.HdfsConsumer		0.62608695
+org.apache.camel.component.hdfs2.HdfsInputStream		0.5510204
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsNullWritableFactory		0.5
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.49166667
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsByteWritableFactory		0.375
+org.apache.camel.component.hdfs2.HdfsFileSystemType		0.33333334
+org.apache.camel.component.hdfs2.Holder		0.33333334
+org.apache.camel.component.hdfs2.HdfsFileType		0.09469697
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsConsumerTest_testReadBytes_d
+org.apache.camel.component.hdfs2.HdfsInfo		1.0
+org.apache.camel.component.hdfs2.HdfsInfoFactory		0.8333333
+org.apache.camel.component.hdfs2.HdfsEndpoint		0.8125
+org.apache.camel.component.hdfs2.HdfsComponent		0.76666665
+org.apache.camel.component.hdfs2.HdfsConsumer		0.62608695
+org.apache.camel.component.hdfs2.HdfsInputStream		0.5510204
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsNullWritableFactory		0.5
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.49166667
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsBytesWritableFactory		0.45454547
+org.apache.camel.component.hdfs2.HdfsFileSystemType		0.33333334
+org.apache.camel.component.hdfs2.Holder		0.33333334
+org.apache.camel.component.hdfs2.HdfsFileType		0.09469697
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsConsumerTest_testReadDouble_9
+org.apache.camel.component.hdfs2.HdfsInfo		1.0
+org.apache.camel.component.hdfs2.HdfsFileType.WritableCache		0.95238096
+org.apache.camel.component.hdfs2.HdfsInfoFactory		0.8333333
+org.apache.camel.component.hdfs2.HdfsEndpoint		0.8125
+org.apache.camel.component.hdfs2.HdfsComponent		0.76666665
+org.apache.camel.component.hdfs2.HdfsConsumer		0.62608695
+org.apache.camel.component.hdfs2.HdfsInputStream		0.5510204
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsNullWritableFactory		0.5
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.49166667
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsDoubleWritableFactory		0.375
+org.apache.camel.component.hdfs2.HdfsFileSystemType		0.33333334
+org.apache.camel.component.hdfs2.Holder		0.33333334
+org.apache.camel.component.hdfs2.HdfsFileType		0.09469697
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsConsumerTest_testReadFloat_x
+org.apache.camel.component.hdfs2.HdfsInfo		1.0
+org.apache.camel.component.hdfs2.HdfsInfoFactory		0.8333333
+org.apache.camel.component.hdfs2.HdfsEndpoint		0.8125
+org.apache.camel.component.hdfs2.HdfsComponent		0.76666665
+org.apache.camel.component.hdfs2.HdfsConsumer		0.62608695
+org.apache.camel.component.hdfs2.HdfsInputStream		0.5510204
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsNullWritableFactory		0.5
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.49166667
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsFloatWritableFactory		0.375
+org.apache.camel.component.hdfs2.HdfsFileSystemType		0.33333334
+org.apache.camel.component.hdfs2.Holder		0.33333334
+org.apache.camel.component.hdfs2.HdfsFileType		0.09469697
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsConsumerTest_testReadInt_o
+org.apache.camel.component.hdfs2.HdfsInfo		1.0
+org.apache.camel.component.hdfs2.HdfsInfoFactory		0.8333333
+org.apache.camel.component.hdfs2.HdfsEndpoint		0.8125
+org.apache.camel.component.hdfs2.HdfsComponent		0.76666665
+org.apache.camel.component.hdfs2.HdfsConsumer		0.62608695
+org.apache.camel.component.hdfs2.HdfsInputStream		0.5510204
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsNullWritableFactory		0.5
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.49166667
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsIntWritableFactory		0.375
+org.apache.camel.component.hdfs2.HdfsFileSystemType		0.33333334
+org.apache.camel.component.hdfs2.Holder		0.33333334
+org.apache.camel.component.hdfs2.HdfsFileType		0.09469697
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsConsumerTest_testReadLong_f
+org.apache.camel.component.hdfs2.HdfsInfo		1.0
+org.apache.camel.component.hdfs2.HdfsInfoFactory		0.8333333
+org.apache.camel.component.hdfs2.HdfsEndpoint		0.8125
+org.apache.camel.component.hdfs2.HdfsComponent		0.76666665
+org.apache.camel.component.hdfs2.HdfsConsumer		0.62608695
+org.apache.camel.component.hdfs2.HdfsInputStream		0.5510204
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsNullWritableFactory		0.5
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.49166667
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsLongWritableFactory		0.375
+org.apache.camel.component.hdfs2.HdfsFileSystemType		0.33333334
+org.apache.camel.component.hdfs2.Holder		0.33333334
+org.apache.camel.component.hdfs2.HdfsFileType		0.09469697
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsConsumerTest_testReadStringArrayFile_m
+org.apache.camel.component.hdfs2.HdfsConsumer.ExcludePathFilter		1.0
+org.apache.camel.component.hdfs2.HdfsInfo		1.0
+org.apache.camel.component.hdfs2.HdfsInfoFactory		0.8333333
+org.apache.camel.component.hdfs2.HdfsEndpoint		0.8125
+org.apache.camel.component.hdfs2.HdfsComponent		0.76666665
+org.apache.camel.component.hdfs2.HdfsConsumer		0.6347826
+org.apache.camel.component.hdfs2.HdfsInputStream		0.5510204
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.5
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsTextWritableFactory		0.375
+org.apache.camel.component.hdfs2.HdfsFileSystemType		0.33333334
+org.apache.camel.component.hdfs2.Holder		0.33333334
+org.apache.camel.component.hdfs2.HdfsFileType		0.083333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsConsumerTest_testReadString_s
+org.apache.camel.component.hdfs2.HdfsInfo		1.0
+org.apache.camel.component.hdfs2.HdfsInfoFactory		0.8333333
+org.apache.camel.component.hdfs2.HdfsEndpoint		0.8125
+org.apache.camel.component.hdfs2.HdfsComponent		0.76666665
+org.apache.camel.component.hdfs2.HdfsConsumer		0.62608695
+org.apache.camel.component.hdfs2.HdfsInputStream		0.5510204
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsNullWritableFactory		0.5
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.49166667
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsTextWritableFactory		0.375
+org.apache.camel.component.hdfs2.HdfsFileSystemType		0.33333334
+org.apache.camel.component.hdfs2.Holder		0.33333334
+org.apache.camel.component.hdfs2.HdfsFileType		0.09469697
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsConsumerTest_testReadWithReadSuffix_t
+org.apache.camel.component.hdfs2.HdfsConsumer.ExcludePathFilter		1.0
+org.apache.camel.component.hdfs2.HdfsInfo		1.0
+org.apache.camel.component.hdfs2.HdfsInfoFactory		0.8333333
+org.apache.camel.component.hdfs2.HdfsEndpoint		0.8125
+org.apache.camel.component.hdfs2.HdfsComponent		0.76666665
+org.apache.camel.component.hdfs2.HdfsInputStream		0.7346939
+org.apache.camel.component.hdfs2.HdfsConsumer		0.6956522
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.525
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsNullWritableFactory		0.5
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsBooleanWritableFactory		0.375
+org.apache.camel.component.hdfs2.HdfsFileSystemType		0.33333334
+org.apache.camel.component.hdfs2.Holder		0.33333334
+org.apache.camel.component.hdfs2.HdfsFileType		0.10227273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsConsumerTest_testSimpleConsumerFileWithSizeEqualToNChunks_l
+org.apache.camel.component.hdfs2.HdfsInfoFactory		0.8333333
+org.apache.camel.component.hdfs2.HdfsEndpoint		0.8125
+org.apache.camel.component.hdfs2.HdfsInfo		0.8
+org.apache.camel.component.hdfs2.HdfsComponent		0.76666665
+org.apache.camel.component.hdfs2.HdfsConsumer		0.65217394
+org.apache.camel.component.hdfs2.HdfsInputStream		0.59183675
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.5
+org.apache.camel.component.hdfs2.HdfsFileSystemType		0.33333334
+org.apache.camel.component.hdfs2.Holder		0.33333334
+org.apache.camel.component.hdfs2.HdfsFileType		0.071969695
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsConsumerTest_testSimpleConsumerWithEmptyFile_u
+org.apache.camel.component.hdfs2.HdfsInfoFactory		0.8333333
+org.apache.camel.component.hdfs2.HdfsEndpoint		0.8125
+org.apache.camel.component.hdfs2.HdfsInfo		0.8
+org.apache.camel.component.hdfs2.HdfsInputStream		0.7755102
+org.apache.camel.component.hdfs2.HdfsComponent		0.76666665
+org.apache.camel.component.hdfs2.HdfsConsumer		0.71304345
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.5083333
+org.apache.camel.component.hdfs2.HdfsFileSystemType		0.33333334
+org.apache.camel.component.hdfs2.Holder		0.33333334
+org.apache.camel.component.hdfs2.HdfsFileType		0.06818182
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsConsumerTest_testSimpleConsumerWithEmptySequenceFile_4
+org.apache.camel.component.hdfs2.HdfsInfoFactory		0.8333333
+org.apache.camel.component.hdfs2.HdfsEndpoint		0.8125
+org.apache.camel.component.hdfs2.HdfsComponent		0.76666665
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.46666667
+org.apache.camel.component.hdfs2.HdfsInfo		0.4
+org.apache.camel.component.hdfs2.HdfsFileSystemType		0.33333334
+org.apache.camel.component.hdfs2.HdfsConsumer		0.20869565
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsConsumerTest_testSimpleConsumer_7
+org.apache.camel.component.hdfs2.HdfsInfoFactory		0.8333333
+org.apache.camel.component.hdfs2.HdfsEndpoint		0.8125
+org.apache.camel.component.hdfs2.HdfsInfo		0.8
+org.apache.camel.component.hdfs2.HdfsComponent		0.76666665
+org.apache.camel.component.hdfs2.HdfsConsumer		0.65217394
+org.apache.camel.component.hdfs2.HdfsInputStream		0.59183675
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.5
+org.apache.camel.component.hdfs2.HdfsFileSystemType		0.33333334
+org.apache.camel.component.hdfs2.Holder		0.33333334
+org.apache.camel.component.hdfs2.HdfsFileType		0.071969695
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsProducerConsumerTest
+HdfsProducerConsumerTest		0.85714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsProducerConsumerTest_testSimpleSplitWriteRead_z
+org.apache.camel.component.hdfs2.HdfsConsumer.ExcludePathFilter		1.0
+org.apache.camel.component.hdfs2.HdfsEndpoint		1.0
+org.apache.camel.component.hdfs2.HdfsInfoFactory		0.8333333
+org.apache.camel.component.hdfs2.HdfsInfo		0.8
+org.apache.camel.component.hdfs2.HdfsInputStream		0.7755102
+org.apache.camel.component.hdfs2.HdfsComponent		0.76666665
+org.apache.camel.component.hdfs2.HdfsProducer.IdleCheck		0.7647059
+org.apache.camel.component.hdfs2.HdfsProducer.SplitStrategy		0.71428573
+org.apache.camel.component.hdfs2.HdfsConsumer		0.6956522
+org.apache.camel.component.hdfs2.HdfsProducer.SplitStrategyType		0.6666667
+org.apache.camel.component.hdfs2.HdfsOutputStream		0.6551724
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.6375
+org.apache.camel.component.hdfs2.HdfsProducer		0.5839416
+org.apache.camel.component.hdfs2.HdfsFileSystemType		0.42857143
+org.apache.camel.component.hdfs2.Holder		0.33333334
+org.apache.camel.component.hdfs2.HdfsFileType		0.20833333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsProducerSplitTest
+HdfsProducerSplitTest		0.8857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsProducerSplitTest_testSimpleWriteFileWithBytesIdleSplit_g
+org.apache.camel.component.hdfs2.HdfsInfoFactory		0.8333333
+org.apache.camel.component.hdfs2.HdfsInfo		0.8
+org.apache.camel.component.hdfs2.HdfsProducer.SplitStrategyType		0.6666667
+org.apache.camel.component.hdfs2.HdfsOutputStream		0.5862069
+org.apache.camel.component.hdfs2.HdfsComponent		0.4
+org.apache.camel.component.hdfs2.HdfsProducer		0.37956205
+org.apache.camel.component.hdfs2.HdfsProducer.SplitStrategy		0.2857143
+org.apache.camel.component.hdfs2.HdfsEndpoint		0.125
+org.apache.camel.component.hdfs2.HdfsFileType		0.121212125
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsProducerSplitTest_testSimpleWriteFileWithBytesSplit_2
+org.apache.camel.component.hdfs2.HdfsInfoFactory		0.8333333
+org.apache.camel.component.hdfs2.HdfsInfo		0.8
+org.apache.camel.component.hdfs2.HdfsOutputStream		0.5862069
+org.apache.camel.component.hdfs2.HdfsProducer		0.5109489
+org.apache.camel.component.hdfs2.HdfsComponent		0.4
+org.apache.camel.component.hdfs2.HdfsProducer.SplitStrategyType		0.33333334
+org.apache.camel.component.hdfs2.HdfsProducer.SplitStrategy		0.2857143
+org.apache.camel.component.hdfs2.HdfsEndpoint		0.125
+org.apache.camel.component.hdfs2.HdfsFileType		0.121212125
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsProducerSplitTest_testSimpleWriteFileWithIdleSplit_r
+org.apache.camel.component.hdfs2.HdfsInfoFactory		0.8333333
+org.apache.camel.component.hdfs2.HdfsInfo		0.8
+org.apache.camel.component.hdfs2.HdfsProducer.IdleCheck		0.64705884
+org.apache.camel.component.hdfs2.HdfsOutputStream		0.63793105
+org.apache.camel.component.hdfs2.HdfsComponent		0.4
+org.apache.camel.component.hdfs2.HdfsProducer		0.37956205
+org.apache.camel.component.hdfs2.HdfsProducer.SplitStrategyType		0.33333334
+org.apache.camel.component.hdfs2.HdfsProducer.SplitStrategy		0.2857143
+org.apache.camel.component.hdfs2.HdfsEndpoint		0.125
+org.apache.camel.component.hdfs2.HdfsFileType		0.121212125
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsProducerSplitTest_testSimpleWriteFileWithMessageIdleSplit_11
+org.apache.camel.component.hdfs2.HdfsInfoFactory		0.8333333
+org.apache.camel.component.hdfs2.HdfsInfo		0.8
+org.apache.camel.component.hdfs2.HdfsProducer.SplitStrategyType		0.6666667
+org.apache.camel.component.hdfs2.HdfsOutputStream		0.5862069
+org.apache.camel.component.hdfs2.HdfsComponent		0.4
+org.apache.camel.component.hdfs2.HdfsProducer		0.37956205
+org.apache.camel.component.hdfs2.HdfsProducer.SplitStrategy		0.2857143
+org.apache.camel.component.hdfs2.HdfsEndpoint		0.125
+org.apache.camel.component.hdfs2.HdfsFileType		0.121212125
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsProducerSplitTest_testSimpleWriteFileWithMessageSplit_0
+org.apache.camel.component.hdfs2.HdfsInfoFactory		0.8333333
+org.apache.camel.component.hdfs2.HdfsInfo		0.8
+org.apache.camel.component.hdfs2.HdfsOutputStream		0.5862069
+org.apache.camel.component.hdfs2.HdfsProducer		0.5109489
+org.apache.camel.component.hdfs2.HdfsComponent		0.4
+org.apache.camel.component.hdfs2.HdfsProducer.SplitStrategyType		0.33333334
+org.apache.camel.component.hdfs2.HdfsProducer.SplitStrategy		0.2857143
+org.apache.camel.component.hdfs2.HdfsEndpoint		0.125
+org.apache.camel.component.hdfs2.HdfsFileType		0.121212125
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsProducerTest
+HdfsProducerTest		0.8807018
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsProducerTest_testArrayWriteText_q
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsTextWritableFactory		0.625
+org.apache.camel.component.hdfs2.HdfsComponent		0.4
+org.apache.camel.component.hdfs2.Holder		0.33333334
+org.apache.camel.component.hdfs2.HdfsOutputStream		0.31034482
+org.apache.camel.component.hdfs2.HdfsProducer		0.23357664
+org.apache.camel.component.hdfs2.HdfsInfo		0.2
+org.apache.camel.component.hdfs2.HdfsFileType		0.049242426
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.008333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsProducerTest_testBloomMapWriteText_e
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsTextWritableFactory		0.625
+org.apache.camel.component.hdfs2.HdfsComponent		0.4
+org.apache.camel.component.hdfs2.Holder		0.33333334
+org.apache.camel.component.hdfs2.HdfsOutputStream		0.31034482
+org.apache.camel.component.hdfs2.HdfsProducer		0.23357664
+org.apache.camel.component.hdfs2.HdfsInfo		0.2
+org.apache.camel.component.hdfs2.HdfsFileType		0.056818184
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.008333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsProducerTest_testMapWriteTextWithKey_a
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsTextWritableFactory		0.625
+org.apache.camel.component.hdfs2.HdfsComponent		0.4
+org.apache.camel.component.hdfs2.Holder		0.33333334
+org.apache.camel.component.hdfs2.HdfsOutputStream		0.31034482
+org.apache.camel.component.hdfs2.HdfsProducer		0.23357664
+org.apache.camel.component.hdfs2.HdfsInfo		0.2
+org.apache.camel.component.hdfs2.HdfsFileType		0.056818184
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.008333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsProducerTest_testProducerClose_3
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsTextWritableFactory		0.625
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsNullWritableFactory		0.5
+org.apache.camel.component.hdfs2.HdfsComponent		0.4
+org.apache.camel.component.hdfs2.Holder		0.33333334
+org.apache.camel.component.hdfs2.HdfsOutputStream		0.31034482
+org.apache.camel.component.hdfs2.HdfsProducer		0.24817519
+org.apache.camel.component.hdfs2.HdfsInfo		0.2
+org.apache.camel.component.hdfs2.HdfsFileType		0.06818182
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.008333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsProducerTest_testProducer_1
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsTextWritableFactory		0.625
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsNullWritableFactory		0.5
+org.apache.camel.component.hdfs2.HdfsComponent		0.4
+org.apache.camel.component.hdfs2.Holder		0.33333334
+org.apache.camel.component.hdfs2.HdfsOutputStream		0.31034482
+org.apache.camel.component.hdfs2.HdfsProducer		0.23357664
+org.apache.camel.component.hdfs2.HdfsInfo		0.2
+org.apache.camel.component.hdfs2.HdfsFileType		0.06818182
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.008333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsProducerTest_testWriteBoolean_p
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsBooleanWritableFactory		0.625
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsNullWritableFactory		0.5
+org.apache.camel.component.hdfs2.HdfsComponent		0.4
+org.apache.camel.component.hdfs2.Holder		0.33333334
+org.apache.camel.component.hdfs2.HdfsOutputStream		0.31034482
+org.apache.camel.component.hdfs2.HdfsProducer		0.23357664
+org.apache.camel.component.hdfs2.HdfsInfo		0.2
+org.apache.camel.component.hdfs2.HdfsFileType		0.06818182
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.008333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsProducerTest_testWriteByte_i
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsByteWritableFactory		0.625
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsNullWritableFactory		0.5
+org.apache.camel.component.hdfs2.HdfsComponent		0.4
+org.apache.camel.component.hdfs2.Holder		0.33333334
+org.apache.camel.component.hdfs2.HdfsOutputStream		0.31034482
+org.apache.camel.component.hdfs2.HdfsProducer		0.23357664
+org.apache.camel.component.hdfs2.HdfsInfo		0.2
+org.apache.camel.component.hdfs2.HdfsFileType		0.06818182
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.008333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsProducerTest_testWriteDouble_c
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsDoubleWritableFactory		0.625
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsNullWritableFactory		0.5
+org.apache.camel.component.hdfs2.HdfsComponent		0.4
+org.apache.camel.component.hdfs2.Holder		0.33333334
+org.apache.camel.component.hdfs2.HdfsOutputStream		0.31034482
+org.apache.camel.component.hdfs2.HdfsProducer		0.23357664
+org.apache.camel.component.hdfs2.HdfsInfo		0.2
+org.apache.camel.component.hdfs2.HdfsFileType		0.06818182
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.008333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsProducerTest_testWriteFloat_v
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsFloatWritableFactory		0.625
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsNullWritableFactory		0.5
+org.apache.camel.component.hdfs2.HdfsComponent		0.4
+org.apache.camel.component.hdfs2.Holder		0.33333334
+org.apache.camel.component.hdfs2.HdfsOutputStream		0.31034482
+org.apache.camel.component.hdfs2.HdfsProducer		0.23357664
+org.apache.camel.component.hdfs2.HdfsInfo		0.2
+org.apache.camel.component.hdfs2.HdfsFileType		0.06818182
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.008333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsProducerTest_testWriteInt_b
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsIntWritableFactory		0.625
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsNullWritableFactory		0.5
+org.apache.camel.component.hdfs2.HdfsComponent		0.4
+org.apache.camel.component.hdfs2.Holder		0.33333334
+org.apache.camel.component.hdfs2.HdfsOutputStream		0.31034482
+org.apache.camel.component.hdfs2.HdfsProducer		0.23357664
+org.apache.camel.component.hdfs2.HdfsInfo		0.2
+org.apache.camel.component.hdfs2.HdfsFileType		0.06818182
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.008333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsProducerTest_testWriteLong_6
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsLongWritableFactory		0.625
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsNullWritableFactory		0.5
+org.apache.camel.component.hdfs2.HdfsComponent		0.4
+org.apache.camel.component.hdfs2.Holder		0.33333334
+org.apache.camel.component.hdfs2.HdfsOutputStream		0.31034482
+org.apache.camel.component.hdfs2.HdfsProducer		0.23357664
+org.apache.camel.component.hdfs2.HdfsInfo		0.2
+org.apache.camel.component.hdfs2.HdfsFileType		0.06818182
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.008333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsProducerTest_testWriteTextWithDynamicFilenameExpression_10
+org.apache.camel.component.hdfs2.HdfsInfoFactory		0.8333333
+org.apache.camel.component.hdfs2.HdfsInfo		0.8
+org.apache.camel.component.hdfs2.HdfsOutputStream		0.55172414
+org.apache.camel.component.hdfs2.HdfsComponent		0.4
+org.apache.camel.component.hdfs2.HdfsProducer		0.33576643
+org.apache.camel.component.hdfs2.HdfsFileType		0.121212125
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsProducerTest_testWriteTextWithDynamicFilename_k
+org.apache.camel.component.hdfs2.HdfsInfoFactory		0.8333333
+org.apache.camel.component.hdfs2.HdfsInfo		0.8
+org.apache.camel.component.hdfs2.HdfsOutputStream		0.55172414
+org.apache.camel.component.hdfs2.HdfsComponent		0.4
+org.apache.camel.component.hdfs2.HdfsProducer		0.3211679
+org.apache.camel.component.hdfs2.HdfsFileType		0.121212125
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsProducerTest_testWriteTextWithKey_w
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsTextWritableFactory		0.625
+org.apache.camel.component.hdfs2.HdfsComponent		0.4
+org.apache.camel.component.hdfs2.Holder		0.33333334
+org.apache.camel.component.hdfs2.HdfsOutputStream		0.31034482
+org.apache.camel.component.hdfs2.HdfsProducer		0.23357664
+org.apache.camel.component.hdfs2.HdfsInfo		0.2
+org.apache.camel.component.hdfs2.HdfsFileType		0.06439394
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.008333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsProducerTest_testWriteText_y
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsTextWritableFactory		0.625
+org.apache.camel.component.hdfs2.HdfsWritableFactories.HdfsNullWritableFactory		0.5
+org.apache.camel.component.hdfs2.HdfsComponent		0.4
+org.apache.camel.component.hdfs2.Holder		0.33333334
+org.apache.camel.component.hdfs2.HdfsOutputStream		0.31034482
+org.apache.camel.component.hdfs2.HdfsProducer		0.23357664
+org.apache.camel.component.hdfs2.HdfsInfo		0.2
+org.apache.camel.component.hdfs2.HdfsFileType		0.06818182
+org.apache.camel.component.hdfs2.HdfsConfiguration		0.008333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/HdfsTestSupport
+HdfsTestSupport		0.6
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/integration/HdfsAppendTest
+HdfsAppendTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/integration/HdfsProducerConsumerIntegrationTest
+HdfsProducerConsumerIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/integration/test-HdfsAppendTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/integration/test-HdfsProducerConsumerIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/test-FromFileToHdfsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/test-HdfsConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/test-HdfsProducerConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/test-HdfsProducerSplitTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/test-HdfsProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hdfs2/target/site/clover/org/apache/camel/component/hdfs2/test-HdfsTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --

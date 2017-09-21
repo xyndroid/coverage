@@ -1,0 +1,53 @@
+./examples/target/clover/org/apache/mahout
+./examples/target/clover/org/apache/mahout/classifier/sgd/LogisticModelParametersTest
+LogisticModelParametersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/target/clover/org/apache/mahout/classifier/sgd/LogisticModelParametersTest_serializationWithoutCsv_0
+org.apache.mahout.classifier.sgd.LogisticModelParameters		0.47826087
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/target/clover/org/apache/mahout/classifier/sgd/ModelDissectorTest
+ModelDissectorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/target/clover/org/apache/mahout/classifier/sgd/ModelDissectorTest_testCategoryOrdering_2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/target/clover/org/apache/mahout/classifier/sgd/TestASFEmail
+TestASFEmail		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/target/clover/org/apache/mahout/classifier/sgd/TestNewsGroups
+TestNewsGroups		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/target/clover/org/apache/mahout/classifier/sgd/TrainLogisticTest
+TrainLogisticTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/target/clover/org/apache/mahout/classifier/sgd/TrainLogisticTest_example131_1
+org.apache.mahout.classifier.sgd.LogisticModelParameters		0.9217391
+org.apache.mahout.classifier.sgd.TrainLogistic		0.91366905
+org.apache.mahout.classifier.sgd.RunLogistic		0.8076923
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/target/clover/org/apache/mahout/classifier/sgd/TrainLogisticTest_example132_4
+org.apache.mahout.classifier.sgd.LogisticModelParameters		0.9217391
+org.apache.mahout.classifier.sgd.TrainLogistic		0.8848921
+org.apache.mahout.classifier.sgd.RunLogistic		0.8076923
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/target/clover/org/apache/mahout/classifier/sgd/test-LogisticModelParametersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/target/clover/org/apache/mahout/classifier/sgd/test-ModelDissectorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/target/clover/org/apache/mahout/classifier/sgd/test-TrainLogisticTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/target/clover/org/apache/mahout/clustering/display/ClustersFilterTest
+ClustersFilterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/target/clover/org/apache/mahout/clustering/display/ClustersFilterTest_testAcceptFinalPath_5
+org.apache.mahout.clustering.display.ClustersFilter		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/target/clover/org/apache/mahout/clustering/display/ClustersFilterTest_testAcceptNotFinal_3
+org.apache.mahout.clustering.display.ClustersFilter		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/target/clover/org/apache/mahout/clustering/display/test-ClustersFilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/target/clover/org/apache/mahout/examples/MahoutTestCase
+MahoutTestCase		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/target/clover/org/apache/mahout/examples/test-MahoutTestCase
+-- -- -- -- -- -- -- -- -- -- -- -- --

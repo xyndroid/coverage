@@ -1,0 +1,298 @@
+./components/camel-kafka/target/site/clover/org/apache/camel
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/BaseEmbeddedKafkaTest
+BaseEmbeddedKafkaTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaComponentTest
+KafkaComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaComponentTest_testAllProducerConfigProperty_v
+org.apache.camel.component.kafka.KafkaComponent		0.4509804
+org.apache.camel.component.kafka.KafkaConfiguration		0.36308315
+org.apache.camel.component.kafka.KafkaEndpoint		0.047058824
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaComponentTest_testAllProducerKeys_x
+org.apache.camel.component.kafka.KafkaComponent		0.4509804
+org.apache.camel.component.kafka.KafkaConfiguration		0.3346856
+org.apache.camel.component.kafka.KafkaEndpoint		0.047058824
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaComponentTest_testBrokersOnComponent_4
+org.apache.camel.component.kafka.KafkaComponent		0.64705884
+org.apache.camel.component.kafka.KafkaEndpoint		0.09411765
+org.apache.camel.component.kafka.KafkaConfiguration		0.05070994
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaComponentTest_testPropertiesSet_16
+org.apache.camel.component.kafka.KafkaComponent		0.4509804
+org.apache.camel.component.kafka.KafkaEndpoint		0.047058824
+org.apache.camel.component.kafka.KafkaConfiguration		0.042596348
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaConsumerBatchSizeTest
+KafkaConsumerBatchSizeTest		0.96875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaConsumerBatchSizeTest_kafkaMessagesIsConsumedByCamel_c
+org.apache.camel.component.kafka.KafkaConsumer.KafkaFetchRecords		0.35849056
+org.apache.camel.component.kafka.KafkaEndpoint		0.15294118
+org.apache.camel.component.kafka.KafkaConfiguration		0.014198783
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaConsumerFullTest
+KafkaConsumerFullTest		0.37704918
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaConsumerFullTest_kafkaMessageIsConsumedByCamel_m
+org.apache.camel.component.kafka.KafkaConsumer.KafkaFetchRecords		0.2389937
+org.apache.camel.component.kafka.KafkaEndpoint		0.15294118
+org.apache.camel.component.kafka.KafkaConfiguration		0.006085193
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaConsumerLastRecordHeaderTest
+KafkaConsumerLastRecordHeaderTest		0.962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaConsumerLastRecordHeaderTest_shouldStartFromBeginningWithEmptyOffsetRepository_1
+org.apache.camel.component.kafka.KafkaEndpoint		0.15294118
+org.apache.camel.component.kafka.KafkaConsumer.KafkaFetchRecords		0.12578617
+org.apache.camel.component.kafka.KafkaConfiguration		0.006085193
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaConsumerOffsetRepositoryEmptyTest
+KafkaConsumerOffsetRepositoryEmptyTest		0.7586207
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaConsumerOffsetRepositoryEmptyTest_shouldStartFromBeginningWithEmptyOffsetRepository_5
+org.apache.camel.component.kafka.KafkaConsumer.KafkaFetchRecords		0.4465409
+org.apache.camel.component.kafka.KafkaEndpoint		0.15294118
+org.apache.camel.component.kafka.KafkaConsumer		0.06349207
+org.apache.camel.component.kafka.KafkaConfiguration		0.010141988
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaConsumerOffsetRepositoryEmptyTest_shouldStartFromBeginningWithEmptyOffsetRepository_a
+org.apache.camel.component.kafka.KafkaConsumer.KafkaFetchRecords		0.4465409
+org.apache.camel.component.kafka.KafkaEndpoint		0.15294118
+org.apache.camel.component.kafka.KafkaConsumer		0.06349207
+org.apache.camel.component.kafka.KafkaConfiguration		0.010141988
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaConsumerOffsetRepositoryEmptyTest_shouldStartFromBeginningWithEmptyOffsetRepository_i
+org.apache.camel.component.kafka.KafkaConsumer.KafkaFetchRecords		0.4465409
+org.apache.camel.component.kafka.KafkaEndpoint		0.15294118
+org.apache.camel.component.kafka.KafkaConsumer		0.06349207
+org.apache.camel.component.kafka.KafkaConfiguration		0.010141988
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaConsumerOffsetRepositoryResumeTest
+KafkaConsumerOffsetRepositoryResumeTest		0.9677419
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaConsumerOffsetRepositoryResumeTest_shouldResumeFromAnyParticularOffset_p
+org.apache.camel.component.kafka.KafkaConsumer.KafkaFetchRecords		0.42138365
+org.apache.camel.component.kafka.KafkaEndpoint		0.15294118
+org.apache.camel.component.kafka.KafkaConsumer		0.0952381
+org.apache.camel.component.kafka.KafkaConfiguration		0.010141988
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaConsumerOffsetRepositoryResumeTest_shouldResumeFromAnyParticularOffset_r
+org.apache.camel.component.kafka.KafkaConsumer.KafkaFetchRecords		0.42138365
+org.apache.camel.component.kafka.KafkaEndpoint		0.15294118
+org.apache.camel.component.kafka.KafkaConsumer		0.0952381
+org.apache.camel.component.kafka.KafkaConfiguration		0.010141988
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaConsumerOffsetRepositoryResumeTest_shouldResumeFromAnyParticularOffset_w
+org.apache.camel.component.kafka.KafkaConsumer.KafkaFetchRecords		0.42138365
+org.apache.camel.component.kafka.KafkaEndpoint		0.15294118
+org.apache.camel.component.kafka.KafkaConsumer		0.0952381
+org.apache.camel.component.kafka.KafkaConfiguration		0.010141988
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaConsumerTest
+KafkaConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaConsumerTest_consumerOnlyRequiresBootstrapServersAndGroupId_2
+org.apache.camel.component.kafka.KafkaConsumer		0.1904762
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaConsumerTest_consumerRequiresBootstrapServers_t
+org.apache.camel.component.kafka.KafkaConsumer		0.1904762
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaConsumerTest_consumerRequiresGroupId_10
+org.apache.camel.component.kafka.KafkaConsumer		0.20634921
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaEndpointTest
+KafkaEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaEndpointTest_assertSingleton_8
+org.apache.camel.component.kafka.KafkaEndpoint		0.07058824
+org.apache.camel.component.kafka.KafkaComponent		0.039215688
+org.apache.camel.component.kafka.KafkaConfiguration		0.006085193
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaEndpointTest_testCreatingKafkaExchangeSetsHeaders_k
+org.apache.camel.component.kafka.KafkaEndpoint		0.15294118
+org.apache.camel.component.kafka.KafkaComponent		0.039215688
+org.apache.camel.component.kafka.KafkaConfiguration		0.0020283975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaProducerFullTest
+KafkaProducerFullTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaProducerFullTest_producedBytesMessageIsReceivedByKafka_6
+org.apache.camel.component.kafka.KafkaProducer.KafkaProducerCallBack		0.7058824
+org.apache.camel.component.kafka.KafkaProducer		0.32820514
+org.apache.camel.component.kafka.KafkaConfiguration		0.028397566
+org.apache.camel.component.kafka.KafkaEndpoint		0.023529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaProducerFullTest_producedString2MessageIsReceivedByKafka_o
+org.apache.camel.component.kafka.KafkaProducer.KafkaProducerCallBack		0.7058824
+org.apache.camel.component.kafka.KafkaProducer		0.31794873
+org.apache.camel.component.kafka.KafkaConfiguration		0.028397566
+org.apache.camel.component.kafka.KafkaEndpoint		0.023529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaProducerFullTest_producedStringCollectionMessageIsReceivedByKafka_d
+org.apache.camel.component.kafka.KafkaProducer.KafkaProducerCallBack		0.7352941
+org.apache.camel.component.kafka.KafkaProducer		0.33846155
+org.apache.camel.component.kafka.KafkaConfiguration		0.028397566
+org.apache.camel.component.kafka.KafkaEndpoint		0.023529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaProducerFullTest_producedStringMessageIsIntercepted_l
+org.apache.camel.component.kafka.KafkaProducer.KafkaProducerCallBack		0.7058824
+org.apache.camel.component.kafka.KafkaProducer		0.31794873
+org.apache.camel.component.kafka.KafkaConfiguration		0.028397566
+org.apache.camel.component.kafka.KafkaEndpoint		0.023529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaProducerFullTest_producedStringMessageIsReceivedByKafka_s
+org.apache.camel.component.kafka.KafkaProducer.KafkaProducerCallBack		0.7058824
+org.apache.camel.component.kafka.KafkaProducer		0.31794873
+org.apache.camel.component.kafka.KafkaConfiguration		0.028397566
+org.apache.camel.component.kafka.KafkaEndpoint		0.023529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaProducerTest
+KafkaProducerTest		0.9880952
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaProducerTest_processAsyncSendsMessageWithException_u
+org.apache.camel.component.kafka.KafkaProducer.KafkaProducerCallBack		0.47058824
+org.apache.camel.component.kafka.KafkaProducer		0.3025641
+org.apache.camel.component.kafka.KafkaConfiguration		0.028397566
+org.apache.camel.component.kafka.KafkaEndpoint		0.023529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaProducerTest_processAsyncSendsMessage_e
+org.apache.camel.component.kafka.KafkaProducer.KafkaProducerCallBack		0.61764705
+org.apache.camel.component.kafka.KafkaProducer		0.2974359
+org.apache.camel.component.kafka.KafkaConfiguration		0.028397566
+org.apache.camel.component.kafka.KafkaEndpoint		0.023529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaProducerTest_processDoesNotRequirePartitionHeader_3
+org.apache.camel.component.kafka.KafkaProducer		0.31282052
+org.apache.camel.component.kafka.KafkaConfiguration		0.028397566
+org.apache.camel.component.kafka.KafkaEndpoint		0.023529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaProducerTest_processRequiresTopicInEndpointOrInHeader_z
+org.apache.camel.component.kafka.KafkaProducer		0.07692308
+org.apache.camel.component.kafka.KafkaEndpoint		0.023529412
+org.apache.camel.component.kafka.KafkaConfiguration		0.012170386
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaProducerTest_processSendMessageWithBridgeEndpoint_15
+org.apache.camel.component.kafka.KafkaProducer		0.2820513
+org.apache.camel.component.kafka.KafkaConfiguration		0.036511157
+org.apache.camel.component.kafka.KafkaEndpoint		0.023529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaProducerTest_processSendMessageWithCircularDetected_b
+org.apache.camel.component.kafka.KafkaProducer		0.36410257
+org.apache.camel.component.kafka.KafkaConfiguration		0.040567953
+org.apache.camel.component.kafka.KafkaEndpoint		0.023529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaProducerTest_processSendMessageWithNoCircularDetected_18
+org.apache.camel.component.kafka.KafkaProducer		0.32820514
+org.apache.camel.component.kafka.KafkaConfiguration		0.040567953
+org.apache.camel.component.kafka.KafkaEndpoint		0.023529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaProducerTest_processSendsMessageWithException_7
+org.apache.camel.component.kafka.KafkaProducer		0.30769232
+org.apache.camel.component.kafka.KafkaConfiguration		0.028397566
+org.apache.camel.component.kafka.KafkaEndpoint		0.023529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaProducerTest_processSendsMessageWithMessageKeyHeader_q
+org.apache.camel.component.kafka.KafkaProducer		0.32307693
+org.apache.camel.component.kafka.KafkaConfiguration		0.03245436
+org.apache.camel.component.kafka.KafkaEndpoint		0.023529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaProducerTest_processSendsMessageWithMessageTopicName_19
+org.apache.camel.component.kafka.KafkaProducer		0.32307693
+org.apache.camel.component.kafka.KafkaConfiguration		0.028397566
+org.apache.camel.component.kafka.KafkaEndpoint		0.023529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaProducerTest_processSendsMessageWithPartitionKeyHeader_y
+org.apache.camel.component.kafka.KafkaProducer		0.31282052
+org.apache.camel.component.kafka.KafkaConfiguration		0.03245436
+org.apache.camel.component.kafka.KafkaEndpoint		0.023529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaProducerTest_processSendsMessageWithTopicHeaderAndEndPoint_12
+org.apache.camel.component.kafka.KafkaProducer		0.33333334
+org.apache.camel.component.kafka.KafkaConfiguration		0.036511157
+org.apache.camel.component.kafka.KafkaEndpoint		0.023529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaProducerTest_processSendsMessageWithTopicHeaderAndNoTopicInEndPoint_11
+org.apache.camel.component.kafka.KafkaProducer		0.34358975
+org.apache.camel.component.kafka.KafkaConfiguration		0.03245436
+org.apache.camel.component.kafka.KafkaEndpoint		0.023529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaProducerTest_processSendsMessage_n
+org.apache.camel.component.kafka.KafkaProducer		0.32307693
+org.apache.camel.component.kafka.KafkaConfiguration		0.028397566
+org.apache.camel.component.kafka.KafkaEndpoint		0.023529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/KafkaProducerTest_testPropertyBuilder_13
+org.apache.camel.component.kafka.KafkaEndpoint		0.42352942
+org.apache.camel.component.kafka.KafkaConfiguration		0.3204868
+org.apache.camel.component.kafka.KafkaProducer		0.041025642
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/embedded/TestUtils
+TestUtils		0.6
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/embedded/test-TestUtils
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/test-BaseEmbeddedKafkaTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/test-KafkaComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/test-KafkaConsumerBatchSizeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/test-KafkaConsumerFullTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/test-KafkaConsumerLastRecordHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/test-KafkaConsumerOffsetRepositoryEmptyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/test-KafkaConsumerOffsetRepositoryResumeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/test-KafkaConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/test-KafkaEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/test-KafkaProducerFullTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/component/kafka/test-KafkaProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/processor/idempotent/kafka/KafkaIdempotentRepositoryEagerTest
+KafkaIdempotentRepositoryEagerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/processor/idempotent/kafka/KafkaIdempotentRepositoryEagerTest_testClear_9
+testClear
+org.apache.camel.processor.idempotent.kafka.KafkaIdempotentRepository.TopicPoller		0.41379312
+org.apache.camel.processor.idempotent.kafka.KafkaIdempotentRepository		0.12878788
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/processor/idempotent/kafka/KafkaIdempotentRepositoryEagerTest_testClear_g
+testClear
+org.apache.camel.processor.idempotent.kafka.KafkaIdempotentRepository.TopicPoller		0.3448276
+org.apache.camel.processor.idempotent.kafka.KafkaIdempotentRepository		0.10606061
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/processor/idempotent/kafka/KafkaIdempotentRepositoryEagerTest_testRemovesDuplicates_h
+testRemovesDuplicates
+org.apache.camel.processor.idempotent.kafka.KafkaIdempotentRepository.TopicPoller		0.2413793
+org.apache.camel.processor.idempotent.kafka.KafkaIdempotentRepository		0.12878788
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/processor/idempotent/kafka/KafkaIdempotentRepositoryEagerTest_testRollsBackOnException_0
+testRollsBackOnException
+org.apache.camel.processor.idempotent.kafka.KafkaIdempotentRepository.TopicPoller		0.3275862
+org.apache.camel.processor.idempotent.kafka.KafkaIdempotentRepository		0.1590909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/processor/idempotent/kafka/KafkaIdempotentRepositoryNonEagerTest
+KafkaIdempotentRepositoryNonEagerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/processor/idempotent/kafka/KafkaIdempotentRepositoryNonEagerTest_testRemovesDuplicates_14
+testRemovesDuplicates
+org.apache.camel.processor.idempotent.kafka.KafkaIdempotentRepository.TopicPoller		0.2413793
+org.apache.camel.processor.idempotent.kafka.KafkaIdempotentRepository		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/processor/idempotent/kafka/KafkaIdempotentRepositoryNonEagerTest_testRollsBackOnException_f
+testRollsBackOnException
+org.apache.camel.processor.idempotent.kafka.KafkaIdempotentRepository.TopicPoller		0.3275862
+org.apache.camel.processor.idempotent.kafka.KafkaIdempotentRepository		0.1969697
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/processor/idempotent/kafka/test-KafkaIdempotentRepositoryEagerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kafka/target/site/clover/org/apache/camel/processor/idempotent/kafka/test-KafkaIdempotentRepositoryNonEagerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

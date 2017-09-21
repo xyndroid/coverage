@@ -1,0 +1,290 @@
+./components/camel-xstream/target/site/clover/org/apache/camel
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/MarshalDomainObjectJSONTest
+MarshalDomainObjectJSONTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/MarshalDomainObjectJSONTest_testMarshalAndUnmarshalWithPrettyPrint_s
+org.apache.camel.dataformat.xstream.JsonDataFormat		0.57894737
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.38613862
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/MarshalDomainObjectJSONTest_testMarshalAndUnmarshal_y
+org.apache.camel.dataformat.xstream.JsonDataFormat		0.55263156
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.38613862
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/MarshalDomainObjectJSONTest_testMarshalDomainObjectTwice_g
+org.apache.camel.dataformat.xstream.JsonDataFormat		0.5
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.33663365
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/MarshalDomainObjectJSONTest_testMarshalDomainObject_9
+org.apache.camel.dataformat.xstream.JsonDataFormat		0.5
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.33168316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/MarshalDomainObjectTest
+MarshalDomainObjectTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/MarshalDomainObjectTest_testMarshalAndUnmarshal_1
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.44230768
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.4059406
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/MarshalDomainObjectTest_testMarshalDomainObjectTwice_1c
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.3910891
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.30769232
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/MarshalDomainObjectTest_testMarshalDomainObject_v
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.38118812
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.30769232
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/MarshalListTest
+MarshalListTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/MarshalListTest_testMarshalListWithMap_10
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.35643566
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.30769232
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/MarshalListTest_testMarshalList_j
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.35643566
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.30769232
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/MarshalListTest_testSetEncodingOnXstream_18
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.35643566
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.32692307
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/SpringMarshalDomainObjectJSONTest
+SpringMarshalDomainObjectJSONTest		0.7777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/SpringMarshalDomainObjectJSONTest_testMarshalAndUnmarshalWithPrettyPrint_5
+org.apache.camel.dataformat.xstream.JsonDataFormat		0.57894737
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.3910891
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/SpringMarshalDomainObjectJSONTest_testMarshalAndUnmarshal_p
+org.apache.camel.dataformat.xstream.JsonDataFormat		0.55263156
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.3910891
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/SpringMarshalDomainObjectJSONTest_testMarshalDomainObjectTwice_2
+org.apache.camel.dataformat.xstream.JsonDataFormat		0.5
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.36633664
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/SpringMarshalDomainObjectJSONTest_testMarshalDomainObject_1a
+org.apache.camel.dataformat.xstream.JsonDataFormat		0.5
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.36138615
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/SpringMarshalListTest
+SpringMarshalListTest		0.7777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/SpringMarshalListTest_testMarshalListWithMap_1d
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.36633664
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.30769232
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/SpringMarshalListTest_testMarshalList_l
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.36633664
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.30769232
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/SpringMarshalListTest_testSetEncodingOnXstream_u
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.36633664
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.32692307
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/SpringMarshalOmitFieldsTest
+SpringMarshalOmitFieldsTest		0.7777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/SpringMarshalOmitFieldsTest_testOmitPrice_a
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.38118812
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.30769232
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/SpringXStreamConfigurationTest
+SpringXStreamConfigurationTest		0.7777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/SpringXStreamConfigurationTest_testCustomMarshalDomainObjectJson_15
+org.apache.camel.dataformat.xstream.JsonDataFormat		0.55263156
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.46039605
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/SpringXStreamConfigurationTest_testCustomMarshalDomainObjectWithImplicit_11
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.5346535
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.42307693
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/SpringXStreamConfigurationTest_testCustomMarshalDomainObject_3
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.5346535
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.42307693
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/SpringXStreamConfigurationTest_testCustomXStreamDriverMarshal_14
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.34158415
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.28846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/UnmarshalThenMarshalJSONTest
+UnmarshalThenMarshalJSONTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/UnmarshalThenMarshalJSONTest_testSendXmlAndUnmarshal_r
+org.apache.camel.dataformat.xstream.JsonDataFormat		0.55263156
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.38118812
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/UnmarshalThenMarshalTest
+UnmarshalThenMarshalTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/UnmarshalThenMarshalTest_testSendXmlAndUnmarshal_i
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.42307693
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.4059406
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamConcurrencyTest
+XStreamConcurrencyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamConcurrencyTest_testConcurrentProducers_b
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.42307693
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.41584158
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamConcurrencyTest_testNoConcurrentProducers_8
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.42307693
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.4059406
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamConfigurationTest
+XStreamConfigurationTest		0.96590906
+XStreamConfigurationTest.PurchaseOrderConverter		1.0
+XStreamConfigurationTest.CheckConstructorInjection		0.54545456
+XStreamConfigurationTest.CheckMethodInjection		0.5833333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamConfigurationTest_testCustomMarshalDomainObjectJson_k
+org.apache.camel.dataformat.xstream.JsonDataFormat		0.55263156
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.46039605
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamConfigurationTest_testCustomMarshalDomainObjectWithImplicit_z
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.52970296
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.42307693
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamConfigurationTest_testCustomMarshalDomainObject_t
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.52970296
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.42307693
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamConfigurationTest_testCustomXStreamDriverMarshal_6
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.34653464
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.28846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamDataFormatDriverConfigTest
+XStreamDataFormatDriverConfigTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamDataFormatDriverConfigTest_testJson_n
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.27722773
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.01923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamDataFormatOmitFieldsTest
+XStreamDataFormatOmitFieldsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamDataFormatOmitFieldsTest_testOmitPrice_13
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.37128714
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.30769232
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamDataFormatPermissionsSystemPropertyTest
+XStreamDataFormatPermissionsSystemPropertyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamDataFormatPermissionsSystemPropertyTest_testAllowAndDeny_d
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.28217822
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.01923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamDataFormatPermissionsSystemPropertyTest_testAllowAnyAndDeny_17
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.27227724
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.01923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamDataFormatPermissionsSystemPropertyTest_testAllowAny_7
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.24752475
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.01923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamDataFormatPermissionsSystemPropertyTest_testAllow_x
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.23762377
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.01923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamDataFormatPermissionsSystemPropertyTest_testDenyAndAllowDeny_q
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.28217822
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.01923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamDataFormatPermissionsSystemPropertyTest_testDenyAnyAndAllow_16
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.27227724
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.01923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamDataFormatPermissionsSystemPropertyTest_testDenyAny_e
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.27227724
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.01923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamDataFormatPermissionsSystemPropertyTest_testDeny_1b
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.26237625
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.01923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamDataFormatPermissionsSystemPropertyTest_testNone_12
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.22277227
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.01923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamDataFormatPermissionsTest
+XStreamDataFormatPermissionsTest		0.9104478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamDataFormatPermissionsTest_testAllowAndDeny_w
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.2920792
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.01923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamDataFormatPermissionsTest_testAllowAnyAndDeny_4
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.2920792
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.01923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamDataFormatPermissionsTest_testAllowAny_c
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.28217822
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.01923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamDataFormatPermissionsTest_testAllow_19
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.2920792
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.01923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamDataFormatPermissionsTest_testDenyAndAllowDeny_0
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.2920792
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.01923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamDataFormatPermissionsTest_testDenyAnyAndAllow_m
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.2920792
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.01923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamDataFormatPermissionsTest_testDenyAny_h
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.28217822
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.01923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamDataFormatPermissionsTest_testDeny_o
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.2920792
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.01923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamDataFormatPermissionsTest_testNone_f
+org.apache.camel.dataformat.xstream.AbstractXStreamWrapper		0.26732674
+org.apache.camel.dataformat.xstream.XStreamDataFormat		0.01923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/XStreamTestUtils
+XStreamTestUtils		0.64285713
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/test-MarshalDomainObjectJSONTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/test-MarshalDomainObjectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/test-MarshalListTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/test-SpringMarshalDomainObjectJSONTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/test-SpringMarshalListTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/test-SpringMarshalOmitFieldsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/test-SpringXStreamConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/test-UnmarshalThenMarshalJSONTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/test-UnmarshalThenMarshalTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/test-XStreamConcurrencyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/test-XStreamConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/test-XStreamConfigurationTest_CheckConstructorInjection
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/test-XStreamConfigurationTest_CheckMethodInjection
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/test-XStreamConfigurationTest_PurchaseOrderConverter
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/test-XStreamDataFormatDriverConfigTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/test-XStreamDataFormatOmitFieldsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/test-XStreamDataFormatPermissionsSystemPropertyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/test-XStreamDataFormatPermissionsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xstream/target/site/clover/org/apache/camel/dataformat/xstream/test-XStreamTestUtils
+-- -- -- -- -- -- -- -- -- -- -- -- --

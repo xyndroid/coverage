@@ -1,0 +1,57 @@
+./examples/camel-example-cxf/target/site/clover/org/apache/camel
+./examples/camel-example-cxf/target/site/clover/org/apache/camel/example/camel/transport/CamelTransportClientServerTest
+CamelTransportClientServerTest		0.8787879
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cxf/target/site/clover/org/apache/camel/example/camel/transport/CamelTransportClientServerTest_testClientInvocation_1
+testClientInvocation
+org.apache.camel.example.camel.transport.GreeterImpl		0.8695652
+org.apache.camel.example.camel.transport.Client		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cxf/target/site/clover/org/apache/camel/example/camel/transport/test-CamelTransportClientServerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cxf/target/site/clover/org/apache/camel/example/cxf/httptojms/CxfHttpJmsClientServerTest
+CxfHttpJmsClientServerTest		0.9444444
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cxf/target/site/clover/org/apache/camel/example/cxf/httptojms/CxfHttpJmsClientServerTest_testClientInvocation_4
+testClientInvocation
+org.apache.camel.example.cxf.httptojms.GreeterImpl		1.0
+org.apache.camel.example.cxf.httptojms.Client		0.30952382
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cxf/target/site/clover/org/apache/camel/example/cxf/httptojms/test-CxfHttpJmsClientServerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cxf/target/site/clover/org/apache/camel/example/cxf/jaxrs/JAXRSClientServerTest
+JAXRSClientServerTest		0.9310345
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cxf/target/site/clover/org/apache/camel/example/cxf/jaxrs/JAXRSClientServerTest_testJAXRSClient_3
+testJAXRSClient
+org.apache.camel.example.cxf.jaxrs.resources.BookNotFoundDetails		1.0
+org.apache.camel.example.cxf.jaxrs.JAXRSClient		1.0
+org.apache.camel.example.cxf.jaxrs.resources.Book		0.85714287
+org.apache.camel.example.cxf.jaxrs.resources.BookStoreImpl		0.8076923
+org.apache.camel.example.cxf.jaxrs.CamelRouterBuilder.MappingProcessor		0.7826087
+org.apache.camel.example.cxf.jaxrs.JAXRSClient.TestResponseExceptionMapper		0.75
+org.apache.camel.example.cxf.jaxrs.resources.BookNotFoundFault		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cxf/target/site/clover/org/apache/camel/example/cxf/jaxrs/JAXRSClientServerTest_testJAXWSClient_0
+testJAXWSClient
+org.apache.camel.example.cxf.jaxrs.resources.Book		1.0
+org.apache.camel.example.cxf.jaxrs.resources.BookNotFoundDetails		1.0
+org.apache.camel.example.cxf.jaxrs.JAXWSClient		1.0
+org.apache.camel.example.cxf.jaxrs.CamelRouterBuilder.MappingProcessor		0.7826087
+org.apache.camel.example.cxf.jaxrs.resources.BookNotFoundFault		0.71428573
+org.apache.camel.example.cxf.jaxrs.resources.BookStoreImpl		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cxf/target/site/clover/org/apache/camel/example/cxf/jaxrs/test-JAXRSClientServerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cxf/target/site/clover/org/apache/camel/example/cxf/provider/TesterBean
+TesterBean		0.7407407
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cxf/target/site/clover/org/apache/camel/example/provider/ProviderClientServerTest
+ProviderClientServerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cxf/target/site/clover/org/apache/camel/example/provider/ProviderClientServerTest_testClientInvocation_2
+org.apache.camel.example.cxf.provider.Client		0.8888889
+org.apache.camel.example.cxf.provider.TesterBean		0.7407407
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cxf/target/site/clover/org/apache/camel/example/provider/test-ProviderClientServerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

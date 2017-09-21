@@ -1,0 +1,70 @@
+./components/camel-solr/target/site/clover/org/apache/camel
+./components/camel-solr/target/site/clover/org/apache/camel/component/solr/InitSolrEndpointTest
+InitSolrEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-solr/target/site/clover/org/apache/camel/component/solr/InitSolrEndpointTest_endpointCreatedCorrectlyWithAllOptions_0
+org.apache.camel.component.solr.SolrEndpoint		0.2519685
+org.apache.camel.component.solr.SolrComponent		0.13043478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-solr/target/site/clover/org/apache/camel/component/solr/InitSolrEndpointTest_streamingEndpointCreatedCorrectly_3
+org.apache.camel.component.solr.SolrComponent		0.13043478
+org.apache.camel.component.solr.SolrEndpoint		0.09448819
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-solr/target/site/clover/org/apache/camel/component/solr/InitSolrEndpointTest_wrongURLFormatFailsEndpointCreation_1
+org.apache.camel.component.solr.SolrComponent		0.08695652
+org.apache.camel.component.solr.SolrEndpoint		0.03937008
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-solr/target/site/clover/org/apache/camel/component/solr/SolrAddBeanTest
+SolrAddBeanTest		0.0
+SolrAddBeanTest.Item		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-solr/target/site/clover/org/apache/camel/component/solr/SolrAddBeansTest
+SolrAddBeansTest		0.0
+SolrAddBeansTest.Item		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-solr/target/site/clover/org/apache/camel/component/solr/SolrComponentTestSupport
+SolrComponentTestSupport		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-solr/target/site/clover/org/apache/camel/component/solr/SolrDeleteTest
+SolrDeleteTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-solr/target/site/clover/org/apache/camel/component/solr/SolrServerMissingTest
+SolrServerMissingTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-solr/target/site/clover/org/apache/camel/component/solr/SolrServerMissingTest_indexSingleDocumentToNonexistentServer_2
+org.apache.camel.component.solr.SolrProducer		0.31325302
+org.apache.camel.component.solr.SolrEndpoint		0.015748031
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-solr/target/site/clover/org/apache/camel/component/solr/SolrTestSupport
+SolrTestSupport		0.71428573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-solr/target/site/clover/org/apache/camel/component/solr/SolrTransactionsTest
+SolrTransactionsTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-solr/target/site/clover/org/apache/camel/component/solr/SolrUpdateTest
+SolrUpdateTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-solr/target/site/clover/org/apache/camel/component/solr/test-InitSolrEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-solr/target/site/clover/org/apache/camel/component/solr/test-SolrAddBeanTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-solr/target/site/clover/org/apache/camel/component/solr/test-SolrAddBeanTest_Item
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-solr/target/site/clover/org/apache/camel/component/solr/test-SolrAddBeansTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-solr/target/site/clover/org/apache/camel/component/solr/test-SolrAddBeansTest_Item
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-solr/target/site/clover/org/apache/camel/component/solr/test-SolrComponentTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-solr/target/site/clover/org/apache/camel/component/solr/test-SolrDeleteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-solr/target/site/clover/org/apache/camel/component/solr/test-SolrFixtures_TestServerType
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-solr/target/site/clover/org/apache/camel/component/solr/test-SolrServerMissingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-solr/target/site/clover/org/apache/camel/component/solr/test-SolrTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-solr/target/site/clover/org/apache/camel/component/solr/test-SolrTransactionsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-solr/target/site/clover/org/apache/camel/component/solr/test-SolrUpdateTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,22 @@
+./platforms/spring-boot/components-starter/camel-kubernetes-starter/target/site/clover/org/apache/camel
+./platforms/spring-boot/components-starter/camel-kubernetes-starter/target/site/clover/org/apache/camel/component/kubernetes/springboot/cloud/KubernetesServiceDiscoveryDisabledTest
+KubernetesServiceDiscoveryDisabledTest		1.0
+KubernetesServiceDiscoveryDisabledTest.TestConfiguration		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-kubernetes-starter/target/site/clover/org/apache/camel/component/kubernetes/springboot/cloud/KubernetesServiceDiscoveryDisabledTest_testConfiguration_0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-kubernetes-starter/target/site/clover/org/apache/camel/component/kubernetes/springboot/cloud/KubernetesServiceDiscoveryEnabledTest
+KubernetesServiceDiscoveryEnabledTest		1.0
+KubernetesServiceDiscoveryEnabledTest.TestConfiguration		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-kubernetes-starter/target/site/clover/org/apache/camel/component/kubernetes/springboot/cloud/KubernetesServiceDiscoveryEnabledTest_testConfiguration_1
+org.apache.camel.component.kubernetes.springboot.cloud.KubernetesCloudAutoConfiguration		0.23529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-kubernetes-starter/target/site/clover/org/apache/camel/component/kubernetes/springboot/cloud/test-KubernetesServiceDiscoveryDisabledTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-kubernetes-starter/target/site/clover/org/apache/camel/component/kubernetes/springboot/cloud/test-KubernetesServiceDiscoveryDisabledTest_TestConfiguration
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-kubernetes-starter/target/site/clover/org/apache/camel/component/kubernetes/springboot/cloud/test-KubernetesServiceDiscoveryEnabledTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-kubernetes-starter/target/site/clover/org/apache/camel/component/kubernetes/springboot/cloud/test-KubernetesServiceDiscoveryEnabledTest_TestConfiguration
+-- -- -- -- -- -- -- -- -- -- -- -- --

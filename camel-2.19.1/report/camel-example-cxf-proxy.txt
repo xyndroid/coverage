@@ -1,0 +1,11 @@
+./examples/camel-example-cxf-proxy/target/site/clover/org/apache/camel
+./examples/camel-example-cxf-proxy/target/site/clover/org/apache/camel/example/reportincident/ReportIncidentRoutesTest
+ReportIncidentRoutesTest		0.9361702
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cxf-proxy/target/site/clover/org/apache/camel/example/reportincident/ReportIncidentRoutesTest_testReportIncident_0
+org.apache.camel.example.cxf.proxy.EnrichBean		1.0
+org.apache.camel.example.cxf.proxy.ReportIncidentEndpointService		1.0
+org.apache.camel.example.cxf.proxy.RealWebServiceBean		0.8
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cxf-proxy/target/site/clover/org/apache/camel/example/reportincident/test-ReportIncidentRoutesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,375 @@
+./components/camel-hawtdb/target/site/clover/org/apache/camel
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateBufferSizeTest
+HawtDBAggregateBufferSizeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateBufferSizeTest_testHawtDBAggregate_2
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.8108108
+org.apache.camel.component.hawtdb.HawtDBFile		0.4631579
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.24210526
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateConcurrentDifferentGroupsTest
+HawtDBAggregateConcurrentDifferentGroupsTest		1.0
+HawtDBAggregateConcurrentDifferentGroupsTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateConcurrentDifferentGroupsTest_testConcurrentProducers_w
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.8108108
+org.apache.camel.component.hawtdb.HawtDBFile		0.4631579
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.29122806
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateConcurrentDifferentGroupsTest_testMoreConcurrentProducers_m
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.8108108
+org.apache.camel.component.hawtdb.HawtDBFile		0.4631579
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.29122806
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateConcurrentDifferentGroupsTest_testNoConcurrentProducers_k
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.8108108
+org.apache.camel.component.hawtdb.HawtDBFile		0.4631579
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.27017543
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateConcurrentSameGroupTest
+HawtDBAggregateConcurrentSameGroupTest		1.0
+HawtDBAggregateConcurrentSameGroupTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateConcurrentSameGroupTest_testConcurrentProducers_a
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.8108108
+org.apache.camel.component.hawtdb.HawtDBFile		0.4631579
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.25614035
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateConcurrentSameGroupTest_testMoreConcurrentProducers_y
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.8108108
+org.apache.camel.component.hawtdb.HawtDBFile		0.4631579
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.25614035
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateConcurrentSameGroupTest_testNoConcurrentProducers_9
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.8108108
+org.apache.camel.component.hawtdb.HawtDBFile		0.4631579
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.23508772
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateDiscardOnTimeoutTest
+HawtDBAggregateDiscardOnTimeoutTest		1.0
+HawtDBAggregateDiscardOnTimeoutTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateDiscardOnTimeoutTest_testAggregateDiscardOnTimeout_s
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.8108108
+org.apache.camel.component.hawtdb.HawtDBFile		0.4631579
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.29122806
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateForceCompletionHeaderTest
+HawtDBAggregateForceCompletionHeaderTest		1.0
+HawtDBAggregateForceCompletionHeaderTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateForceCompletionHeaderTest_testForceCompletionTrueExclusive_h
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.9189189
+org.apache.camel.component.hawtdb.HawtDBFile		0.4631579
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.3263158
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateForceCompletionHeaderTest_testForceCompletionTrueInclusive_t
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.9189189
+org.apache.camel.component.hawtdb.HawtDBFile		0.4631579
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.3263158
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateLoadAndRecoverTest
+HawtDBAggregateLoadAndRecoverTest		0.9574468
+HawtDBAggregateLoadAndRecoverTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateLoadAndRecoverTest_testLoadAndRecoverHawtDBAggregate_u
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.9189189
+org.apache.camel.component.hawtdb.HawtDBFile		0.5263158
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.41403508
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateLoadConcurrentTest
+HawtDBAggregateLoadConcurrentTest		0.0
+HawtDBAggregateLoadConcurrentTest.MyAggregationStrategy		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateLoadTest
+HawtDBAggregateLoadTest		0.0
+HawtDBAggregateLoadTest.MyAggregationStrategy		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateNotLostRemovedWhenConfirmedTest
+HawtDBAggregateNotLostRemovedWhenConfirmedTest		1.0
+HawtDBAggregateNotLostRemovedWhenConfirmedTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateNotLostRemovedWhenConfirmedTest_testHawtDBAggregateNotLostRemovedWhenConfirmed_n
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.8108108
+org.apache.camel.component.hawtdb.HawtDBFile		0.4631579
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.30877194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateNotLostTest
+HawtDBAggregateNotLostTest		1.0
+HawtDBAggregateNotLostTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateNotLostTest_testHawtDBAggregateNotLost_d
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.9189189
+org.apache.camel.component.hawtdb.HawtDBFile		0.4631579
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.37192982
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateRecoverDeadLetterChannelFailedTest
+HawtDBAggregateRecoverDeadLetterChannelFailedTest		1.0
+HawtDBAggregateRecoverDeadLetterChannelFailedTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateRecoverDeadLetterChannelFailedTest_testHawtDBAggregateRecoverDeadLetterChannelFailed_4
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.9189189
+org.apache.camel.component.hawtdb.HawtDBFile		0.4631579
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.37192982
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateRecoverDeadLetterChannelTest
+HawtDBAggregateRecoverDeadLetterChannelTest		1.0
+HawtDBAggregateRecoverDeadLetterChannelTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateRecoverDeadLetterChannelTest_testHawtDBAggregateRecoverDeadLetterChannel_e
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.9189189
+org.apache.camel.component.hawtdb.HawtDBFile		0.4631579
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.37192982
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateRecoverTest
+HawtDBAggregateRecoverTest		1.0
+HawtDBAggregateRecoverTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateRecoverTest_testHawtDBAggregateRecover_j
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.9189189
+org.apache.camel.component.hawtdb.HawtDBFile		0.4631579
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.36491227
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateRecoverWithRedeliveryPolicyTest
+HawtDBAggregateRecoverWithRedeliveryPolicyTest		1.0
+HawtDBAggregateRecoverWithRedeliveryPolicyTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateRecoverWithRedeliveryPolicyTest_testHawtDBAggregateRecover_b
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.9189189
+org.apache.camel.component.hawtdb.HawtDBFile		0.4631579
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.36491227
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateRecoverWithSedaTest
+HawtDBAggregateRecoverWithSedaTest		1.0
+HawtDBAggregateRecoverWithSedaTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateRecoverWithSedaTest_testHawtDBAggregateRecoverWithSeda_8
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.9189189
+org.apache.camel.component.hawtdb.HawtDBFile		0.4631579
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateSerializedHeadersTest
+HawtDBAggregateSerializedHeadersTest		1.0
+HawtDBAggregateSerializedHeadersTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateSerializedHeadersTest_testHawtDBAggregate_p
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.8108108
+org.apache.camel.component.hawtdb.HawtDBFile		0.4631579
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.24210526
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateTest
+HawtDBAggregateTest		1.0
+HawtDBAggregateTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateTest_testHawtDBAggregate_f
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.8108108
+org.apache.camel.component.hawtdb.HawtDBFile		0.4631579
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.24210526
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregateTimeoutCompletionRestartTest
+HawtDBAggregateTimeoutCompletionRestartTest		0.0
+HawtDBAggregateTimeoutCompletionRestartTest.MyAggregationStrategy		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregationRepositoryAlotDataTest
+HawtDBAggregationRepositoryAlotDataTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregationRepositoryAlotDataTest_testWithAlotOfDataSameKey_6
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.6756757
+org.apache.camel.component.hawtdb.HawtDBFile		0.4526316
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.15438597
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregationRepositoryAlotDataTest_testWithAlotOfDataTwoKesy_0
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.6756757
+org.apache.camel.component.hawtdb.HawtDBFile		0.4526316
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.15438597
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregationRepositoryAlotDataTest_testWithAlotOfDataWithDifferentKesy_c
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.6756757
+org.apache.camel.component.hawtdb.HawtDBFile		0.4526316
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.13333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregationRepositoryLoadExistingTest
+HawtDBAggregationRepositoryLoadExistingTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregationRepositoryLoadExistingTest_testExisting_l
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.6756757
+org.apache.camel.component.hawtdb.HawtDBFile		0.6631579
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.1614035
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregationRepositoryMultipleRepoTest
+HawtDBAggregationRepositoryMultipleRepoTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregationRepositoryMultipleRepoTest_testMultipeRepoSameKeyDifferentContent_q
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.6756757
+org.apache.camel.component.hawtdb.HawtDBFile		0.4526316
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.13333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregationRepositoryMultipleRepoTest_testMultipeRepo_g
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.6756757
+org.apache.camel.component.hawtdb.HawtDBFile		0.4631579
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.17192982
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregationRepositoryRecoverExistingTest
+HawtDBAggregationRepositoryRecoverExistingTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregationRepositoryRecoverExistingTest_testExisting_x
+org.apache.camel.component.hawtdb.HawtDBFile		0.70526314
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.6756757
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.35789475
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregationRepositoryTest
+HawtDBAggregationRepositoryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBAggregationRepositoryTest_testOperations_r
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.6756757
+org.apache.camel.component.hawtdb.HawtDBFile		0.4631579
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.23157895
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBBigPayloadTest
+HawtDBBigPayloadTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBExchangeSerializationTest
+HawtDBExchangeSerializationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBExchangeSerializationTest_testExchangeSerialization_5
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.6756757
+org.apache.camel.component.hawtdb.HawtDBFile		0.4526316
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.15438597
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBGetNotFoundTest
+HawtDBGetNotFoundTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBGetNotFoundTest_testGetNotFound_i
+org.apache.camel.component.hawtdb.HawtDBFile		0.36842105
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.10810811
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.06666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBGetNotFoundTest_testPutAndGetNotFound_3
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.6756757
+org.apache.camel.component.hawtdb.HawtDBFile		0.4526316
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.1368421
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBGrowIssueTest
+HawtDBGrowIssueTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBGrowIssueTest_testGrowIssue_o
+org.apache.camel.component.hawtdb.HawtDBFile		0.4526316
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.21621622
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBSpringAggregateRecoverWithRedeliveryPolicyTest
+HawtDBSpringAggregateRecoverWithRedeliveryPolicyTest		1.0
+HawtDBSpringAggregateRecoverWithRedeliveryPolicyTest.MyFailProcessor		1.0
+HawtDBSpringAggregateRecoverWithRedeliveryPolicyTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBSpringAggregateRecoverWithRedeliveryPolicyTest_testHawtDBAggregateRecover_v
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.9189189
+org.apache.camel.component.hawtdb.HawtDBFile		0.4631579
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.36491227
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBSpringAggregateTest
+HawtDBSpringAggregateTest		1.0
+HawtDBSpringAggregateTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/HawtDBSpringAggregateTest_testHawtDBAggregate_7
+org.apache.camel.component.hawtdb.HawtDBCamelCodec		0.8108108
+org.apache.camel.component.hawtdb.HawtDBFile		0.4631579
+org.apache.camel.component.hawtdb.HawtDBAggregationRepository		0.24210526
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateBufferSizeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateConcurrentDifferentGroupsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateConcurrentDifferentGroupsTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateConcurrentSameGroupTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateConcurrentSameGroupTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateDiscardOnTimeoutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateDiscardOnTimeoutTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateForceCompletionHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateForceCompletionHeaderTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateLoadAndRecoverTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateLoadAndRecoverTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateLoadConcurrentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateLoadConcurrentTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateLoadTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateLoadTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateNotLostRemovedWhenConfirmedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateNotLostRemovedWhenConfirmedTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateNotLostTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateNotLostTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateRecoverDeadLetterChannelFailedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateRecoverDeadLetterChannelFailedTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateRecoverDeadLetterChannelTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateRecoverDeadLetterChannelTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateRecoverTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateRecoverTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateRecoverWithRedeliveryPolicyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateRecoverWithRedeliveryPolicyTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateRecoverWithSedaTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateRecoverWithSedaTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateSerializedHeadersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateSerializedHeadersTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateTimeoutCompletionRestartTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregateTimeoutCompletionRestartTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregationRepositoryAlotDataTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregationRepositoryLoadExistingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregationRepositoryMultipleRepoTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregationRepositoryRecoverExistingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBAggregationRepositoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBBigPayloadTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBExchangeSerializationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBGetNotFoundTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBGrowIssueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBSpringAggregateRecoverWithRedeliveryPolicyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBSpringAggregateRecoverWithRedeliveryPolicyTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBSpringAggregateRecoverWithRedeliveryPolicyTest_MyFailProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBSpringAggregateTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hawtdb/target/site/clover/org/apache/camel/component/hawtdb/test-HawtDBSpringAggregateTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --

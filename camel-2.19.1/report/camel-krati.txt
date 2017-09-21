@@ -1,0 +1,126 @@
+./components/camel-krati/target/site/clover/org/apache/camel
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/KratiConsumerMaxMessagesPerPollTest
+KratiConsumerMaxMessagesPerPollTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/KratiConsumerMaxMessagesPerPollTest_testPutAndConsume_a
+org.apache.camel.component.krati.KratiConsumer		0.8367347
+org.apache.camel.component.krati.serializer.KratiDefaultSerializer		0.6857143
+org.apache.camel.component.krati.KratiProducer		0.47058824
+org.apache.camel.component.krati.KratiEndpoint		0.08421053
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/KratiConsumerSpringTest
+KratiConsumerSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/KratiConsumerSpringTest_testPutAndConsume_7
+org.apache.camel.component.krati.KratiProducer		0.47058824
+org.apache.camel.component.krati.serializer.KratiDefaultSerializer		0.34285715
+org.apache.camel.component.krati.KratiEndpoint		0.08421053
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/KratiConsumerTest
+KratiConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/KratiConsumerTest_testPutAndConsume_4
+org.apache.camel.component.krati.KratiConsumer		0.75510204
+org.apache.camel.component.krati.serializer.KratiDefaultSerializer		0.6857143
+org.apache.camel.component.krati.KratiProducer		0.47058824
+org.apache.camel.component.krati.KratiEndpoint		0.08421053
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/KratiEndpointTest
+KratiEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/KratiEndpointTest_testCreateEndpointWithAbsolutePath_c
+org.apache.camel.component.krati.KratiComponent		0.33333334
+org.apache.camel.component.krati.KratiEndpoint		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/KratiEndpointTest_testCreateEndpointWithRelativePath_0
+org.apache.camel.component.krati.KratiComponent		0.33333334
+org.apache.camel.component.krati.KratiEndpoint		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/KratiProducerSpringTest
+KratiProducerSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/KratiProducerSpringTest_testPutAndGet_d
+org.apache.camel.component.krati.serializer.KratiDefaultSerializer		0.6857143
+org.apache.camel.component.krati.KratiProducer		0.5294118
+org.apache.camel.component.krati.KratiEndpoint		0.08421053
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/KratiProducerSpringTest_testPutDeleteAllAndGet_1
+org.apache.camel.component.krati.KratiProducer		0.61764705
+org.apache.camel.component.krati.serializer.KratiDefaultSerializer		0.34285715
+org.apache.camel.component.krati.KratiEndpoint		0.08421053
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/KratiProducerSpringTest_testPutDeleteAndGet_6
+org.apache.camel.component.krati.KratiProducer		0.6764706
+org.apache.camel.component.krati.serializer.KratiDefaultSerializer		0.34285715
+org.apache.camel.component.krati.KratiEndpoint		0.08421053
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/KratiProducerSpringTest_testPut_g
+org.apache.camel.component.krati.KratiProducer		0.47058824
+org.apache.camel.component.krati.serializer.KratiDefaultSerializer		0.34285715
+org.apache.camel.component.krati.KratiEndpoint		0.08421053
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/KratiProducerTest
+KratiProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/KratiProducerTest_testPutAndGetPreserveHeaders_f
+org.apache.camel.component.krati.serializer.KratiDefaultSerializer		0.7714286
+org.apache.camel.component.krati.KratiProducer		0.5588235
+org.apache.camel.component.krati.KratiEndpoint		0.08421053
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/KratiProducerTest_testPutAndGet_8
+org.apache.camel.component.krati.serializer.KratiDefaultSerializer		0.7714286
+org.apache.camel.component.krati.KratiProducer		0.5588235
+org.apache.camel.component.krati.KratiEndpoint		0.08421053
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/KratiProducerTest_testPutDeleteAllAndGet_2
+org.apache.camel.component.krati.KratiProducer		0.64705884
+org.apache.camel.component.krati.serializer.KratiDefaultSerializer		0.34285715
+org.apache.camel.component.krati.KratiEndpoint		0.08421053
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/KratiProducerTest_testPutDeleteAndGet_i
+org.apache.camel.component.krati.KratiProducer		0.7058824
+org.apache.camel.component.krati.serializer.KratiDefaultSerializer		0.34285715
+org.apache.camel.component.krati.KratiEndpoint		0.08421053
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/KratiProducerTest_testPut_9
+org.apache.camel.component.krati.KratiProducer		0.47058824
+org.apache.camel.component.krati.serializer.KratiDefaultSerializer		0.34285715
+org.apache.camel.component.krati.KratiEndpoint		0.08421053
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/processor/idempotent/KratiIdempotentRepositoryTest
+KratiIdempotentRepositoryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/processor/idempotent/KratiIdempotentRepositoryTest_testAdd_e
+org.apache.camel.component.krati.serializer.KratiDefaultSerializer		0.34285715
+org.apache.camel.component.krati.processor.idempotent.KratiIdempotentRepository		0.06557377
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/processor/idempotent/KratiIdempotentRepositoryTest_testClear_5
+org.apache.camel.component.krati.serializer.KratiDefaultSerializer		0.34285715
+org.apache.camel.component.krati.processor.idempotent.KratiIdempotentRepository		0.22950819
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/processor/idempotent/KratiIdempotentRepositoryTest_testContains_h
+org.apache.camel.component.krati.serializer.KratiDefaultSerializer		0.34285715
+org.apache.camel.component.krati.processor.idempotent.KratiIdempotentRepository		0.18032786
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/processor/idempotent/KratiIdempotentRepositoryTest_testRemove_b
+org.apache.camel.component.krati.serializer.KratiDefaultSerializer		0.34285715
+org.apache.camel.component.krati.processor.idempotent.KratiIdempotentRepository		0.18032786
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/processor/idempotent/KratiIdempotentRepositoryTest_testRepositoryInRoute_3
+org.apache.camel.component.krati.serializer.KratiDefaultSerializer		0.34285715
+org.apache.camel.component.krati.processor.idempotent.KratiIdempotentRepository		0.18032786
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/processor/idempotent/test-KratiIdempotentRepositoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/test-KratiConsumerMaxMessagesPerPollTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/test-KratiConsumerSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/test-KratiConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/test-KratiEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/test-KratiProducerSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-krati/target/site/clover/org/apache/camel/component/krati/test-KratiProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

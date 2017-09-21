@@ -1,0 +1,41 @@
+./components/camel-ejb/target/site/clover/org/apache/camel
+./components/camel-ejb/target/site/clover/org/apache/camel/component/ejb/GreaterCamelBeanTest
+GreaterCamelBeanTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ejb/target/site/clover/org/apache/camel/component/ejb/GreaterCamelBeanTest_testGreaterViaCamelBean_5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ejb/target/site/clover/org/apache/camel/component/ejb/GreaterCamelEjbPropertiesTest
+GreaterCamelEjbPropertiesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ejb/target/site/clover/org/apache/camel/component/ejb/GreaterCamelEjbPropertiesTest_testGreaterViaCamelEjb_1
+org.apache.camel.component.ejb.EjbRegistryBean		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ejb/target/site/clover/org/apache/camel/component/ejb/GreaterCamelEjbTest
+GreaterCamelEjbTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ejb/target/site/clover/org/apache/camel/component/ejb/GreaterCamelEjbTest_testGreaterViaCamelEjb_0
+org.apache.camel.component.ejb.EjbRegistryBean		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ejb/target/site/clover/org/apache/camel/component/ejb/GreaterTest
+GreaterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ejb/target/site/clover/org/apache/camel/component/ejb/GreaterTest_testGreaterViaLocalInterface_3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ejb/target/site/clover/org/apache/camel/component/ejb/SpringGreaterCamelEjbTest
+SpringGreaterCamelEjbTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ejb/target/site/clover/org/apache/camel/component/ejb/SpringGreaterCamelEjbTest_testGreaterViaCamelEjb_2
+org.apache.camel.component.ejb.EjbRegistryBean		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ejb/target/site/clover/org/apache/camel/component/ejb/SpringGreaterCamelEjbTest_testLocateOtherBeans_4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ejb/target/site/clover/org/apache/camel/component/ejb/test-GreaterCamelBeanTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ejb/target/site/clover/org/apache/camel/component/ejb/test-GreaterCamelEjbPropertiesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ejb/target/site/clover/org/apache/camel/component/ejb/test-GreaterCamelEjbTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ejb/target/site/clover/org/apache/camel/component/ejb/test-GreaterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ejb/target/site/clover/org/apache/camel/component/ejb/test-SpringGreaterCamelEjbTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

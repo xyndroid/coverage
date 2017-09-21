@@ -1,0 +1,30 @@
+./hadoop-tools/hadoop-rumen/target/clover/org/apache/hadoop
+./hadoop-tools/hadoop-rumen/target/clover/org/apache/hadoop/tools/rumen/TestHistograms
+TestHistograms		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-rumen/target/clover/org/apache/hadoop/tools/rumen/TestPiecewiseLinearInterpolation
+TestPiecewiseLinearInterpolation		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-rumen/target/clover/org/apache/hadoop/tools/rumen/TestPiecewiseLinearInterpolation_testOneRun_1
+org.apache.hadoop.tools.rumen.CDFRandomGenerator		0.9310345
+org.apache.hadoop.tools.rumen.CDFPiecewiseLinearRandomGenerator		0.85714287
+org.apache.hadoop.tools.rumen.Histogram		0.671875
+org.apache.hadoop.tools.rumen.LoggedSingleRelativeRanking		0.25
+org.apache.hadoop.tools.rumen.LoggedDiscreteCDF		0.23333333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-rumen/target/clover/org/apache/hadoop/tools/rumen/TestPiecewiseLinearInterpolation_testOneRun_7
+org.apache.hadoop.tools.rumen.CDFRandomGenerator		0.9310345
+org.apache.hadoop.tools.rumen.CDFPiecewiseLinearRandomGenerator		0.85714287
+org.apache.hadoop.tools.rumen.Histogram		0.671875
+org.apache.hadoop.tools.rumen.LoggedSingleRelativeRanking		0.25
+org.apache.hadoop.tools.rumen.LoggedDiscreteCDF		0.23333333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-rumen/target/clover/org/apache/hadoop/tools/rumen/TestRandomSeedGenerator
+TestRandomSeedGenerator		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-rumen/target/clover/org/apache/hadoop/tools/rumen/TestRandomSeedGenerator_testSeedGeneration_0
+org.apache.hadoop.tools.rumen.RandomSeedGenerator		0.9411765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-rumen/target/clover/org/apache/hadoop/tools/rumen/TestRandomSeedGenerator_testSeedGeneration_6
+org.apache.hadoop.tools.rumen.RandomSeedGenerator		0.9411765
+-- -- -- -- -- -- -- -- -- -- -- -- --

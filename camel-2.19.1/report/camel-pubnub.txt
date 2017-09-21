@@ -1,0 +1,113 @@
+./components/camel-pubnub/target/site/clover/org/apache/camel
+./components/camel-pubnub/target/site/clover/org/apache/camel/component/pubnub/PubNubConfigurationTest
+PubNubConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pubnub/target/site/clover/org/apache/camel/component/pubnub/PubNubConfigurationTest_createEndpointWithIllegalArguments_d
+org.apache.camel.component.pubnub.PubNubComponent		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pubnub/target/site/clover/org/apache/camel/component/pubnub/PubNubConfigurationTest_createEndpointWithMaximalConfiguration_5
+org.apache.camel.component.pubnub.PubNubComponent		0.8333333
+org.apache.camel.component.pubnub.PubNubConfiguration		0.8
+org.apache.camel.component.pubnub.PubNubEndpoint		0.11904762
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pubnub/target/site/clover/org/apache/camel/component/pubnub/PubNubConfigurationTest_createEndpointWithMinimalConfiguration_b
+org.apache.camel.component.pubnub.PubNubComponent		0.8333333
+org.apache.camel.component.pubnub.PubNubConfiguration		0.25
+org.apache.camel.component.pubnub.PubNubEndpoint		0.11904762
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pubnub/target/site/clover/org/apache/camel/component/pubnub/PubNubFireTest
+PubNubFireTest		1.0
+PubNubFireTest.Hello		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pubnub/target/site/clover/org/apache/camel/component/pubnub/PubNubFireTest_testFire_a
+org.apache.camel.component.pubnub.PubNubProducer		0.28148147
+org.apache.camel.component.pubnub.PubNubConfiguration		0.1
+org.apache.camel.component.pubnub.PubNubEndpoint		0.04761905
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pubnub/target/site/clover/org/apache/camel/component/pubnub/PubNubOperationsTest
+PubNubOperationsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pubnub/target/site/clover/org/apache/camel/component/pubnub/PubNubOperationsTest_testGetHistory_7
+org.apache.camel.component.pubnub.PubNubProducer		0.23703703
+org.apache.camel.component.pubnub.PubNubConfiguration		0.05
+org.apache.camel.component.pubnub.PubNubEndpoint		0.04761905
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pubnub/target/site/clover/org/apache/camel/component/pubnub/PubNubOperationsTest_testGetState_8
+org.apache.camel.component.pubnub.PubNubProducer		0.26666668
+org.apache.camel.component.pubnub.PubNubConfiguration		0.1
+org.apache.camel.component.pubnub.PubNubEndpoint		0.04761905
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pubnub/target/site/clover/org/apache/camel/component/pubnub/PubNubOperationsTest_testHereNow_9
+org.apache.camel.component.pubnub.PubNubProducer		0.23703703
+org.apache.camel.component.pubnub.PubNubConfiguration		0.05
+org.apache.camel.component.pubnub.PubNubEndpoint		0.04761905
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pubnub/target/site/clover/org/apache/camel/component/pubnub/PubNubOperationsTest_testSetState_4
+org.apache.camel.component.pubnub.PubNubProducer		0.2962963
+org.apache.camel.component.pubnub.PubNubConfiguration		0.1
+org.apache.camel.component.pubnub.PubNubEndpoint		0.04761905
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pubnub/target/site/clover/org/apache/camel/component/pubnub/PubNubOperationsTest_testWhereNow_0
+org.apache.camel.component.pubnub.PubNubProducer		0.23703703
+org.apache.camel.component.pubnub.PubNubEndpoint		0.04761905
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pubnub/target/site/clover/org/apache/camel/component/pubnub/PubNubPresensTest
+PubNubPresensTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pubnub/target/site/clover/org/apache/camel/component/pubnub/PubNubPresensTest_testPresens_c
+org.apache.camel.component.pubnub.PubNubConsumer.PubNubCallback		0.46153846
+org.apache.camel.component.pubnub.PubNubConsumer		0.30769232
+org.apache.camel.component.pubnub.PubNubConfiguration		0.1
+org.apache.camel.component.pubnub.PubNubEndpoint		0.04761905
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pubnub/target/site/clover/org/apache/camel/component/pubnub/PubNubPublishTest
+PubNubPublishTest		1.0
+PubNubPublishTest.Hello		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pubnub/target/site/clover/org/apache/camel/component/pubnub/PubNubPublishTest_testFireWithOperationHeader_2
+org.apache.camel.component.pubnub.PubNubProducer		0.27407408
+org.apache.camel.component.pubnub.PubNubConfiguration		0.05
+org.apache.camel.component.pubnub.PubNubEndpoint		0.04761905
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pubnub/target/site/clover/org/apache/camel/component/pubnub/PubNubPublishTest_testPubNub_6
+org.apache.camel.component.pubnub.PubNubProducer		0.28148147
+org.apache.camel.component.pubnub.PubNubConfiguration		0.1
+org.apache.camel.component.pubnub.PubNubEndpoint		0.04761905
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pubnub/target/site/clover/org/apache/camel/component/pubnub/PubNubPublishTest_testPublishEmptyBody_1
+org.apache.camel.component.pubnub.PubNubProducer		0.16296296
+org.apache.camel.component.pubnub.PubNubConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pubnub/target/site/clover/org/apache/camel/component/pubnub/PubNubSubscriberTest
+PubNubSubscriberTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pubnub/target/site/clover/org/apache/camel/component/pubnub/PubNubSubscriberTest_testPubSubMessageSubscribe_3
+org.apache.camel.component.pubnub.PubNubConsumer.PubNubCallback		0.46153846
+org.apache.camel.component.pubnub.PubNubConsumer		0.30769232
+org.apache.camel.component.pubnub.PubNubConfiguration		0.1
+org.apache.camel.component.pubnub.PubNubEndpoint		0.04761905
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pubnub/target/site/clover/org/apache/camel/component/pubnub/PubNubTestBase
+PubNubTestBase		1.0
+PubNubTestBase.MockedTimePubNub		0.6
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pubnub/target/site/clover/org/apache/camel/component/pubnub/test-PubNubConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pubnub/target/site/clover/org/apache/camel/component/pubnub/test-PubNubFireTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pubnub/target/site/clover/org/apache/camel/component/pubnub/test-PubNubFireTest_Hello
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pubnub/target/site/clover/org/apache/camel/component/pubnub/test-PubNubOperationsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pubnub/target/site/clover/org/apache/camel/component/pubnub/test-PubNubPresensTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pubnub/target/site/clover/org/apache/camel/component/pubnub/test-PubNubPublishTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pubnub/target/site/clover/org/apache/camel/component/pubnub/test-PubNubPublishTest_Hello
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pubnub/target/site/clover/org/apache/camel/component/pubnub/test-PubNubSubscriberTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pubnub/target/site/clover/org/apache/camel/component/pubnub/test-PubNubTestBase
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pubnub/target/site/clover/org/apache/camel/component/pubnub/test-PubNubTestBase_MockedTimePubNub
+-- -- -- -- -- -- -- -- -- -- -- -- --

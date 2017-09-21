@@ -1,0 +1,185 @@
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/TestResourceTrackerPBClientImpl
+TestResourceTrackerPBClientImpl		0.9
+TestResourceTrackerPBClientImpl.ResourceTrackerTestImpl		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/TestResourceTrackerPBClientImpl_testNodeHeartbeat_94
+org.apache.hadoop.yarn.server.api.impl.pb.service.ResourceTrackerPBServiceImpl		0.375
+org.apache.hadoop.yarn.server.api.protocolrecords.impl.pb.NodeHeartbeatRequestPBImpl		0.25409836
+org.apache.hadoop.yarn.server.api.impl.pb.client.ResourceTrackerPBClientImpl		0.25
+org.apache.hadoop.yarn.server.api.protocolrecords.impl.pb.NodeHeartbeatResponsePBImpl		0.11353712
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/TestResourceTrackerPBClientImpl_testNodeHeartbeat_b
+org.apache.hadoop.yarn.server.api.impl.pb.service.ResourceTrackerPBServiceImpl		0.375
+org.apache.hadoop.yarn.server.api.protocolrecords.impl.pb.NodeHeartbeatRequestPBImpl		0.25409836
+org.apache.hadoop.yarn.server.api.impl.pb.client.ResourceTrackerPBClientImpl		0.25
+org.apache.hadoop.yarn.server.api.protocolrecords.impl.pb.NodeHeartbeatResponsePBImpl		0.11353712
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/TestResourceTrackerPBClientImpl_testResourceTrackerPBClientImpl_6z
+org.apache.hadoop.yarn.server.api.impl.pb.service.ResourceTrackerPBServiceImpl		0.375
+org.apache.hadoop.yarn.server.api.impl.pb.client.ResourceTrackerPBClientImpl		0.25
+org.apache.hadoop.yarn.server.api.protocolrecords.impl.pb.RegisterNodeManagerRequestPBImpl		0.1609756
+org.apache.hadoop.yarn.server.api.protocolrecords.impl.pb.RegisterNodeManagerResponsePBImpl		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/TestResourceTrackerPBClientImpl_testResourceTrackerPBClientImpl_g
+org.apache.hadoop.yarn.server.api.impl.pb.service.ResourceTrackerPBServiceImpl		0.375
+org.apache.hadoop.yarn.server.api.impl.pb.client.ResourceTrackerPBClientImpl		0.25
+org.apache.hadoop.yarn.server.api.protocolrecords.impl.pb.RegisterNodeManagerRequestPBImpl		0.1609756
+org.apache.hadoop.yarn.server.api.protocolrecords.impl.pb.RegisterNodeManagerResponsePBImpl		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/TestYSCRPCFactories
+TestYSCRPCFactories		0.8181818
+TestYSCRPCFactories.ResourceTrackerTestImpl		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/TestYSCRPCFactories_test_8s
+org.apache.hadoop.yarn.server.api.impl.pb.client.ResourceTrackerPBClientImpl		0.15
+org.apache.hadoop.yarn.server.api.impl.pb.service.ResourceTrackerPBServiceImpl		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/TestYSCRPCFactories_test_9
+org.apache.hadoop.yarn.server.api.impl.pb.client.ResourceTrackerPBClientImpl		0.15
+org.apache.hadoop.yarn.server.api.impl.pb.service.ResourceTrackerPBServiceImpl		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/TestYSCRecordFactory
+TestYSCRecordFactory		0.71428573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/TestYSCRecordFactory_testPbRecordFactory_3c
+org.apache.hadoop.yarn.server.api.protocolrecords.impl.pb.NodeHeartbeatRequestPBImpl		0.016393442
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/TestYSCRecordFactory_testPbRecordFactory_e
+org.apache.hadoop.yarn.server.api.protocolrecords.impl.pb.NodeHeartbeatRequestPBImpl		0.016393442
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/TestYarnServerApiClasses
+TestYarnServerApiClasses		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/TestYarnServerApiClasses_testMasterKeyPBImpl_8
+org.apache.hadoop.yarn.server.api.records.impl.pb.MasterKeyPBImpl		0.7592593
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/TestYarnServerApiClasses_testMasterKeyPBImpl_aw
+org.apache.hadoop.yarn.server.api.records.impl.pb.MasterKeyPBImpl		0.7592593
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/TestYarnServerApiClasses_testNodeHeartbeatRequestPBImpl_3a
+org.apache.hadoop.yarn.server.api.protocolrecords.impl.pb.NodeHeartbeatRequestPBImpl		0.6639344
+org.apache.hadoop.yarn.server.api.records.impl.pb.NodeStatusPBImpl		0.46700507
+org.apache.hadoop.yarn.server.api.records.impl.pb.MasterKeyPBImpl		0.44444445
+org.apache.hadoop.yarn.server.api.records.impl.pb.NodeHealthStatusPBImpl		0.3888889
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/TestYarnServerApiClasses_testNodeHeartbeatRequestPBImpl_c
+org.apache.hadoop.yarn.server.api.protocolrecords.impl.pb.NodeHeartbeatRequestPBImpl		0.6639344
+org.apache.hadoop.yarn.server.api.records.impl.pb.NodeStatusPBImpl		0.46700507
+org.apache.hadoop.yarn.server.api.records.impl.pb.MasterKeyPBImpl		0.44444445
+org.apache.hadoop.yarn.server.api.records.impl.pb.NodeHealthStatusPBImpl		0.3888889
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/TestYarnServerApiClasses_testNodeHeartbeatResponsePBImpl_2r
+org.apache.hadoop.yarn.server.api.protocolrecords.impl.pb.NodeHeartbeatResponsePBImpl		0.45414847
+org.apache.hadoop.yarn.server.api.records.impl.pb.MasterKeyPBImpl		0.44444445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/TestYarnServerApiClasses_testNodeHeartbeatResponsePBImpl_d
+org.apache.hadoop.yarn.server.api.protocolrecords.impl.pb.NodeHeartbeatResponsePBImpl		0.45414847
+org.apache.hadoop.yarn.server.api.records.impl.pb.MasterKeyPBImpl		0.44444445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/TestYarnServerApiClasses_testNodeStatusPBImpl_6
+org.apache.hadoop.yarn.server.api.records.impl.pb.NodeStatusPBImpl		0.7258883
+org.apache.hadoop.yarn.server.api.records.impl.pb.NodeHealthStatusPBImpl		0.4861111
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/TestYarnServerApiClasses_testNodeStatusPBImpl_jj
+org.apache.hadoop.yarn.server.api.records.impl.pb.NodeStatusPBImpl		0.7258883
+org.apache.hadoop.yarn.server.api.records.impl.pb.NodeHealthStatusPBImpl		0.4861111
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/TestYarnServerApiClasses_testRegisterNodeManagerRequestPBImpl_3b
+org.apache.hadoop.yarn.server.api.protocolrecords.impl.pb.RegisterNodeManagerRequestPBImpl		0.38536584
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/TestYarnServerApiClasses_testRegisterNodeManagerRequestPBImpl_f
+org.apache.hadoop.yarn.server.api.protocolrecords.impl.pb.RegisterNodeManagerRequestPBImpl		0.38536584
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/TestYarnServerApiClasses_testRegisterNodeManagerResponsePBImpl_3k
+org.apache.hadoop.yarn.server.api.protocolrecords.impl.pb.RegisterNodeManagerResponsePBImpl		0.61333334
+org.apache.hadoop.yarn.server.api.records.impl.pb.MasterKeyPBImpl		0.44444445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/TestYarnServerApiClasses_testRegisterNodeManagerResponsePBImpl_h
+org.apache.hadoop.yarn.server.api.protocolrecords.impl.pb.RegisterNodeManagerResponsePBImpl		0.61333334
+org.apache.hadoop.yarn.server.api.records.impl.pb.MasterKeyPBImpl		0.44444445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/TestYarnServerApiClasses_testSerializedExceptionPBImpl_2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/TestYarnServerApiClasses_testSerializedExceptionPBImpl_i3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/lib/TestZKClient
+TestZKClient		0.7741935
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/lib/TestZKClient_testzkClient_4
+org.apache.hadoop.yarn.lib.ZKClient.ZKWatcher		1.0
+org.apache.hadoop.yarn.lib.ZKClient		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/lib/TestZKClient_testzkClient_cv
+org.apache.hadoop.yarn.lib.ZKClient.ZKWatcher		1.0
+org.apache.hadoop.yarn.lib.ZKClient		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/server/api/protocolrecords/TestProtocolRecords
+TestProtocolRecords		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/server/api/protocolrecords/TestProtocolRecords_testNMContainerStatus_5
+org.apache.hadoop.yarn.server.api.protocolrecords.NMContainerStatus		1.0
+org.apache.hadoop.yarn.server.api.protocolrecords.impl.pb.NMContainerStatusPBImpl		0.6868132
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/server/api/protocolrecords/TestProtocolRecords_testNMContainerStatus_5r
+org.apache.hadoop.yarn.server.api.protocolrecords.NMContainerStatus		1.0
+org.apache.hadoop.yarn.server.api.protocolrecords.impl.pb.NMContainerStatusPBImpl		0.6868132
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/server/api/protocolrecords/TestProtocolRecords_testRegisterNodeManagerRequest_a
+org.apache.hadoop.yarn.server.api.protocolrecords.NMContainerStatus		1.0
+org.apache.hadoop.yarn.server.api.protocolrecords.RegisterNodeManagerRequest		1.0
+org.apache.hadoop.yarn.server.api.protocolrecords.impl.pb.RegisterNodeManagerRequestPBImpl		0.7512195
+org.apache.hadoop.yarn.server.api.protocolrecords.impl.pb.NMContainerStatusPBImpl		0.45604396
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/server/api/protocolrecords/TestProtocolRecords_testRegisterNodeManagerRequest_e
+org.apache.hadoop.yarn.server.api.protocolrecords.NMContainerStatus		1.0
+org.apache.hadoop.yarn.server.api.protocolrecords.RegisterNodeManagerRequest		1.0
+org.apache.hadoop.yarn.server.api.protocolrecords.impl.pb.RegisterNodeManagerRequestPBImpl		0.7512195
+org.apache.hadoop.yarn.server.api.protocolrecords.impl.pb.NMContainerStatusPBImpl		0.45604396
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/server/api/protocolrecords/TestRegisterNodeManagerRequest
+TestRegisterNodeManagerRequest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/server/api/protocolrecords/TestRegisterNodeManagerRequest_testRegisterNodeManagerRequestWithNullArrays_1g
+org.apache.hadoop.yarn.server.api.protocolrecords.RegisterNodeManagerRequest		1.0
+org.apache.hadoop.yarn.server.api.protocolrecords.impl.pb.RegisterNodeManagerRequestPBImpl		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/server/api/protocolrecords/TestRegisterNodeManagerRequest_testRegisterNodeManagerRequestWithNullArrays_7
+org.apache.hadoop.yarn.server.api.protocolrecords.RegisterNodeManagerRequest		1.0
+org.apache.hadoop.yarn.server.api.protocolrecords.impl.pb.RegisterNodeManagerRequestPBImpl		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/server/api/protocolrecords/TestRegisterNodeManagerRequest_testRegisterNodeManagerRequest_0
+org.apache.hadoop.yarn.server.api.protocolrecords.NMContainerStatus		1.0
+org.apache.hadoop.yarn.server.api.protocolrecords.RegisterNodeManagerRequest		1.0
+org.apache.hadoop.yarn.server.api.protocolrecords.impl.pb.RegisterNodeManagerRequestPBImpl		0.595122
+org.apache.hadoop.yarn.server.api.protocolrecords.impl.pb.NMContainerStatusPBImpl		0.45604396
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/server/api/protocolrecords/TestRegisterNodeManagerRequest_testRegisterNodeManagerRequest_fx
+org.apache.hadoop.yarn.server.api.protocolrecords.NMContainerStatus		1.0
+org.apache.hadoop.yarn.server.api.protocolrecords.RegisterNodeManagerRequest		1.0
+org.apache.hadoop.yarn.server.api.protocolrecords.impl.pb.RegisterNodeManagerRequestPBImpl		0.595122
+org.apache.hadoop.yarn.server.api.protocolrecords.impl.pb.NMContainerStatusPBImpl		0.45604396
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/server/api/protocolrecords/TestRegisterNodeManagerResponse
+TestRegisterNodeManagerResponse		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/server/api/protocolrecords/TestRegisterNodeManagerResponse_testRoundTrip_1
+org.apache.hadoop.yarn.server.api.protocolrecords.impl.pb.RegisterNodeManagerResponsePBImpl		0.58666664
+org.apache.hadoop.yarn.server.api.records.impl.pb.MasterKeyPBImpl		0.5555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/server/api/protocolrecords/TestRegisterNodeManagerResponse_testRoundTrip_6n
+org.apache.hadoop.yarn.server.api.protocolrecords.impl.pb.RegisterNodeManagerResponsePBImpl		0.58666664
+org.apache.hadoop.yarn.server.api.records.impl.pb.MasterKeyPBImpl		0.5555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/server/utils/TestLeveldbIterator
+TestLeveldbIterator		0.8888889
+TestLeveldbIterator.CallInfo		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/server/utils/TestLeveldbIterator_testExceptionHandling_3
+testExceptionHandling
+org.apache.hadoop.yarn.server.utils.LeveldbIterator		0.76666665
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/clover/org/apache/hadoop/yarn/server/utils/TestLeveldbIterator_testExceptionHandling_9m
+testExceptionHandling
+org.apache.hadoop.yarn.server.utils.LeveldbIterator		0.76666665
+-- -- -- -- -- -- -- -- -- -- -- -- --

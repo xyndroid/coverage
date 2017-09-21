@@ -1,0 +1,697 @@
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsExports
+TestNfsExports		0.94520545
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsExports_testCidrLongRO_1b
+org.apache.hadoop.nfs.NfsExports.Match		1.0
+org.apache.hadoop.nfs.NfsExports.CIDRMatch		0.68421054
+org.apache.hadoop.nfs.NfsExports.AccessCacheEntry		0.48
+org.apache.hadoop.nfs.NfsExports		0.40707964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsExports_testCidrLongRO_1m
+org.apache.hadoop.nfs.NfsExports.Match		1.0
+org.apache.hadoop.nfs.NfsExports.CIDRMatch		0.68421054
+org.apache.hadoop.nfs.NfsExports.AccessCacheEntry		0.48
+org.apache.hadoop.nfs.NfsExports		0.40707964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsExports_testCidrLongRW_1c
+org.apache.hadoop.nfs.NfsExports.Match		1.0
+org.apache.hadoop.nfs.NfsExports.CIDRMatch		0.68421054
+org.apache.hadoop.nfs.NfsExports.AccessCacheEntry		0.48
+org.apache.hadoop.nfs.NfsExports		0.45132744
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsExports_testCidrLongRW_1n
+org.apache.hadoop.nfs.NfsExports.Match		1.0
+org.apache.hadoop.nfs.NfsExports.CIDRMatch		0.68421054
+org.apache.hadoop.nfs.NfsExports.AccessCacheEntry		0.48
+org.apache.hadoop.nfs.NfsExports		0.45132744
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsExports_testCidrShortRO_10
+org.apache.hadoop.nfs.NfsExports.Match		1.0
+org.apache.hadoop.nfs.NfsExports.CIDRMatch		0.68421054
+org.apache.hadoop.nfs.NfsExports.AccessCacheEntry		0.48
+org.apache.hadoop.nfs.NfsExports		0.38053098
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsExports_testCidrShortRO_t
+org.apache.hadoop.nfs.NfsExports.Match		1.0
+org.apache.hadoop.nfs.NfsExports.CIDRMatch		0.68421054
+org.apache.hadoop.nfs.NfsExports.AccessCacheEntry		0.48
+org.apache.hadoop.nfs.NfsExports		0.38053098
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsExports_testCidrShortRW_1f
+org.apache.hadoop.nfs.NfsExports.Match		1.0
+org.apache.hadoop.nfs.NfsExports.CIDRMatch		0.68421054
+org.apache.hadoop.nfs.NfsExports.AccessCacheEntry		0.48
+org.apache.hadoop.nfs.NfsExports		0.42477876
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsExports_testCidrShortRW_1s
+org.apache.hadoop.nfs.NfsExports.Match		1.0
+org.apache.hadoop.nfs.NfsExports.CIDRMatch		0.68421054
+org.apache.hadoop.nfs.NfsExports.AccessCacheEntry		0.48
+org.apache.hadoop.nfs.NfsExports		0.42477876
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsExports_testExactAddressRO_11
+org.apache.hadoop.nfs.NfsExports.Match		1.0
+org.apache.hadoop.nfs.NfsExports.ExactMatch		0.68421054
+org.apache.hadoop.nfs.NfsExports.AccessCacheEntry		0.48
+org.apache.hadoop.nfs.NfsExports		0.4159292
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsExports_testExactAddressRO_1b
+org.apache.hadoop.nfs.NfsExports.Match		1.0
+org.apache.hadoop.nfs.NfsExports.ExactMatch		0.68421054
+org.apache.hadoop.nfs.NfsExports.AccessCacheEntry		0.48
+org.apache.hadoop.nfs.NfsExports		0.4159292
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsExports_testExactAddressRW_1e
+org.apache.hadoop.nfs.NfsExports.Match		1.0
+org.apache.hadoop.nfs.NfsExports.ExactMatch		0.68421054
+org.apache.hadoop.nfs.NfsExports.AccessCacheEntry		0.48
+org.apache.hadoop.nfs.NfsExports		0.460177
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsExports_testExactAddressRW_1r
+org.apache.hadoop.nfs.NfsExports.Match		1.0
+org.apache.hadoop.nfs.NfsExports.ExactMatch		0.68421054
+org.apache.hadoop.nfs.NfsExports.AccessCacheEntry		0.48
+org.apache.hadoop.nfs.NfsExports		0.460177
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsExports_testExactHostRO_15
+org.apache.hadoop.nfs.NfsExports.Match		1.0
+org.apache.hadoop.nfs.NfsExports.ExactMatch		0.47368422
+org.apache.hadoop.nfs.NfsExports		0.40707964
+org.apache.hadoop.nfs.NfsExports.AccessCacheEntry		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsExports_testExactHostRO_1f
+org.apache.hadoop.nfs.NfsExports.Match		1.0
+org.apache.hadoop.nfs.NfsExports.ExactMatch		0.47368422
+org.apache.hadoop.nfs.NfsExports		0.40707964
+org.apache.hadoop.nfs.NfsExports.AccessCacheEntry		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsExports_testExactHostRW_13
+org.apache.hadoop.nfs.NfsExports.Match		1.0
+org.apache.hadoop.nfs.NfsExports.ExactMatch		0.47368422
+org.apache.hadoop.nfs.NfsExports		0.45132744
+org.apache.hadoop.nfs.NfsExports.AccessCacheEntry		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsExports_testExactHostRW_1d
+org.apache.hadoop.nfs.NfsExports.Match		1.0
+org.apache.hadoop.nfs.NfsExports.ExactMatch		0.47368422
+org.apache.hadoop.nfs.NfsExports		0.45132744
+org.apache.hadoop.nfs.NfsExports.AccessCacheEntry		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsExports_testMultiMatchers_q
+org.apache.hadoop.nfs.NfsExports.Match		1.0
+org.apache.hadoop.nfs.NfsExports.AccessCacheEntry		0.92
+org.apache.hadoop.nfs.NfsExports.RegexMatch		0.68421054
+org.apache.hadoop.nfs.NfsExports		0.53097343
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsExports_testMultiMatchers_x
+org.apache.hadoop.nfs.NfsExports.Match		1.0
+org.apache.hadoop.nfs.NfsExports.AccessCacheEntry		0.92
+org.apache.hadoop.nfs.NfsExports.RegexMatch		0.68421054
+org.apache.hadoop.nfs.NfsExports		0.53097343
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsExports_testRegexHostRO_17
+org.apache.hadoop.nfs.NfsExports.Match		1.0
+org.apache.hadoop.nfs.NfsExports.AccessCacheEntry		0.68
+org.apache.hadoop.nfs.NfsExports.RegexMatch		0.47368422
+org.apache.hadoop.nfs.NfsExports		0.42477876
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsExports_testRegexHostRO_1i
+org.apache.hadoop.nfs.NfsExports.Match		1.0
+org.apache.hadoop.nfs.NfsExports.AccessCacheEntry		0.68
+org.apache.hadoop.nfs.NfsExports.RegexMatch		0.47368422
+org.apache.hadoop.nfs.NfsExports		0.42477876
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsExports_testRegexHostRW_18
+org.apache.hadoop.nfs.NfsExports.Match		1.0
+org.apache.hadoop.nfs.NfsExports.AccessCacheEntry		0.68
+org.apache.hadoop.nfs.NfsExports.RegexMatch		0.47368422
+org.apache.hadoop.nfs.NfsExports		0.46902654
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsExports_testRegexHostRW_z
+org.apache.hadoop.nfs.NfsExports.Match		1.0
+org.apache.hadoop.nfs.NfsExports.AccessCacheEntry		0.68
+org.apache.hadoop.nfs.NfsExports.RegexMatch		0.47368422
+org.apache.hadoop.nfs.NfsExports		0.46902654
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsExports_testRegexIPRO_7
+org.apache.hadoop.nfs.NfsExports.Match		1.0
+org.apache.hadoop.nfs.NfsExports.RegexMatch		0.68421054
+org.apache.hadoop.nfs.NfsExports.AccessCacheEntry		0.48
+org.apache.hadoop.nfs.NfsExports		0.4159292
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsExports_testRegexIPRO_9
+org.apache.hadoop.nfs.NfsExports.Match		1.0
+org.apache.hadoop.nfs.NfsExports.RegexMatch		0.68421054
+org.apache.hadoop.nfs.NfsExports.AccessCacheEntry		0.48
+org.apache.hadoop.nfs.NfsExports		0.4159292
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsExports_testRegexIPRW_1
+org.apache.hadoop.nfs.NfsExports.Match		1.0
+org.apache.hadoop.nfs.NfsExports.RegexMatch		0.68421054
+org.apache.hadoop.nfs.NfsExports.AccessCacheEntry		0.48
+org.apache.hadoop.nfs.NfsExports		0.460177
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsExports_testRegexIPRW_2
+org.apache.hadoop.nfs.NfsExports.Match		1.0
+org.apache.hadoop.nfs.NfsExports.RegexMatch		0.68421054
+org.apache.hadoop.nfs.NfsExports.AccessCacheEntry		0.48
+org.apache.hadoop.nfs.NfsExports		0.460177
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsExports_testWildcardRO_m
+org.apache.hadoop.nfs.NfsExports.Match		1.0
+org.apache.hadoop.nfs.NfsExports.AnonymousMatch		0.6666667
+org.apache.hadoop.nfs.NfsExports.AccessCacheEntry		0.4
+org.apache.hadoop.nfs.NfsExports		0.38053098
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsExports_testWildcardRO_s
+org.apache.hadoop.nfs.NfsExports.Match		1.0
+org.apache.hadoop.nfs.NfsExports.AnonymousMatch		0.6666667
+org.apache.hadoop.nfs.NfsExports.AccessCacheEntry		0.4
+org.apache.hadoop.nfs.NfsExports		0.38053098
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsExports_testWildcardRW_19
+org.apache.hadoop.nfs.NfsExports.Match		1.0
+org.apache.hadoop.nfs.NfsExports.AnonymousMatch		0.6666667
+org.apache.hadoop.nfs.NfsExports.AccessCacheEntry		0.4
+org.apache.hadoop.nfs.NfsExports		0.39823008
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsExports_testWildcardRW_1k
+org.apache.hadoop.nfs.NfsExports.Match		1.0
+org.apache.hadoop.nfs.NfsExports.AnonymousMatch		0.6666667
+org.apache.hadoop.nfs.NfsExports.AccessCacheEntry		0.4
+org.apache.hadoop.nfs.NfsExports		0.39823008
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsTime
+TestNfsTime		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsTime_testConstructor_14
+org.apache.hadoop.nfs.NfsTime		0.23333333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsTime_testConstructor_v
+org.apache.hadoop.nfs.NfsTime		0.23333333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsTime_testSerializeDeserialize_14
+org.apache.hadoop.nfs.NfsTime		0.7
+org.apache.hadoop.oncrpc.XDR		0.17910448
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/TestNfsTime_testSerializeDeserialize_1e
+org.apache.hadoop.nfs.NfsTime		0.7
+org.apache.hadoop.oncrpc.XDR		0.17910448
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/nfs3/TestFileHandle
+TestFileHandle		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/nfs3/TestFileHandle_testConstructor_s
+org.apache.hadoop.nfs.nfs3.FileHandle		0.4318182
+org.apache.hadoop.oncrpc.XDR		0.38059703
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/nfs3/TestFileHandle_testConstructor_z
+org.apache.hadoop.nfs.nfs3.FileHandle		0.4318182
+org.apache.hadoop.oncrpc.XDR		0.38059703
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/nfs3/TestIdUserGroup
+TestIdUserGroup		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/nfs3/TestIdUserGroup_testDuplicates_15
+org.apache.hadoop.nfs.nfs3.IdUserGroup.PassThroughMap		0.33333334
+org.apache.hadoop.nfs.nfs3.IdUserGroup		0.2215909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/nfs3/TestIdUserGroup_testDuplicates_w
+org.apache.hadoop.nfs.nfs3.IdUserGroup.PassThroughMap		0.33333334
+org.apache.hadoop.nfs.nfs3.IdUserGroup		0.2215909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/nfs3/TestIdUserGroup_testIdOutOfIntegerRange_a
+org.apache.hadoop.nfs.nfs3.IdUserGroup.PassThroughMap		0.33333334
+org.apache.hadoop.nfs.nfs3.IdUserGroup		0.1534091
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/nfs3/TestIdUserGroup_testIdOutOfIntegerRange_c
+org.apache.hadoop.nfs.nfs3.IdUserGroup.PassThroughMap		0.33333334
+org.apache.hadoop.nfs.nfs3.IdUserGroup		0.1534091
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/nfs3/TestIdUserGroup_testStaticMapParsing_i
+org.apache.hadoop.nfs.nfs3.IdUserGroup.StaticMapping		1.0
+org.apache.hadoop.nfs.nfs3.IdUserGroup.PassThroughMap		0.8333333
+org.apache.hadoop.nfs.nfs3.IdUserGroup		0.13636364
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/nfs3/TestIdUserGroup_testStaticMapParsing_n
+org.apache.hadoop.nfs.nfs3.IdUserGroup.StaticMapping		1.0
+org.apache.hadoop.nfs.nfs3.IdUserGroup.PassThroughMap		0.8333333
+org.apache.hadoop.nfs.nfs3.IdUserGroup		0.13636364
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/nfs3/TestIdUserGroup_testStaticMapping_k
+org.apache.hadoop.nfs.nfs3.IdUserGroup.PassThroughMap		0.9166667
+org.apache.hadoop.nfs.nfs3.IdUserGroup		0.1534091
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/nfs3/TestIdUserGroup_testStaticMapping_p
+org.apache.hadoop.nfs.nfs3.IdUserGroup.PassThroughMap		0.9166667
+org.apache.hadoop.nfs.nfs3.IdUserGroup		0.1534091
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/nfs3/TestIdUserGroup_testUserUpdateSetting_16
+org.apache.hadoop.nfs.nfs3.IdUserGroup.StaticMapping		1.0
+org.apache.hadoop.nfs.nfs3.IdUserGroup.PassThroughMap		0.5833333
+org.apache.hadoop.nfs.nfs3.IdUserGroup		0.3181818
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/nfs/nfs3/TestIdUserGroup_testUserUpdateSetting_x
+org.apache.hadoop.nfs.nfs3.IdUserGroup.StaticMapping		1.0
+org.apache.hadoop.nfs.nfs3.IdUserGroup.PassThroughMap		0.5833333
+org.apache.hadoop.nfs.nfs3.IdUserGroup		0.3181818
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestFrameDecoder
+TestFrameDecoder		0.95098037
+TestFrameDecoder.TestRpcProgram		0.9130435
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestFrameDecoder_testFrames_18
+org.apache.hadoop.oncrpc.security.CredentialsNone		1.0
+org.apache.hadoop.oncrpc.security.VerifierNone		1.0
+org.apache.hadoop.oncrpc.RpcUtil.RpcTcpResponseStage		1.0
+org.apache.hadoop.oncrpc.SimpleTcpClient		0.875
+org.apache.hadoop.oncrpc.RpcUtil.RpcMessageParserStage		0.85714287
+org.apache.hadoop.oncrpc.RpcInfo		0.84615386
+org.apache.hadoop.oncrpc.SimpleTcpServer		0.82608694
+org.apache.hadoop.oncrpc.RpcUtil.RpcFrameDecoder		0.78571427
+org.apache.hadoop.oncrpc.RpcCall		0.75510204
+org.apache.hadoop.oncrpc.RpcMessage.Type		0.75
+org.apache.hadoop.oncrpc.RpcResponse		0.71428573
+org.apache.hadoop.oncrpc.RpcAcceptedReply		0.7
+org.apache.hadoop.oncrpc.RpcUtil		0.6666667
+org.apache.hadoop.oncrpc.SimpleTcpClientHandler		0.64285713
+org.apache.hadoop.oncrpc.security.RpcAuthInfo.AuthFlavor		0.6363636
+org.apache.hadoop.oncrpc.XDR		0.5895522
+org.apache.hadoop.oncrpc.security.Verifier		0.5555556
+org.apache.hadoop.oncrpc.RpcAcceptedReply.AcceptState		0.5
+org.apache.hadoop.oncrpc.RpcMessage		0.5
+org.apache.hadoop.oncrpc.RpcReply.ReplyState		0.5
+org.apache.hadoop.oncrpc.security.Credentials		0.42857143
+org.apache.hadoop.oncrpc.security.RpcAuthInfo		0.33333334
+org.apache.hadoop.oncrpc.RpcProgram		0.27272728
+org.apache.hadoop.oncrpc.RpcReply		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestFrameDecoder_testFrames_1j
+org.apache.hadoop.oncrpc.security.CredentialsNone		1.0
+org.apache.hadoop.oncrpc.security.VerifierNone		1.0
+org.apache.hadoop.oncrpc.RpcUtil.RpcTcpResponseStage		1.0
+org.apache.hadoop.oncrpc.SimpleTcpClient		0.875
+org.apache.hadoop.oncrpc.RpcUtil.RpcMessageParserStage		0.85714287
+org.apache.hadoop.oncrpc.RpcInfo		0.84615386
+org.apache.hadoop.oncrpc.SimpleTcpServer		0.82608694
+org.apache.hadoop.oncrpc.RpcUtil.RpcFrameDecoder		0.78571427
+org.apache.hadoop.oncrpc.RpcCall		0.75510204
+org.apache.hadoop.oncrpc.RpcMessage.Type		0.75
+org.apache.hadoop.oncrpc.RpcResponse		0.71428573
+org.apache.hadoop.oncrpc.RpcAcceptedReply		0.7
+org.apache.hadoop.oncrpc.RpcUtil		0.6666667
+org.apache.hadoop.oncrpc.SimpleTcpClientHandler		0.64285713
+org.apache.hadoop.oncrpc.security.RpcAuthInfo.AuthFlavor		0.6363636
+org.apache.hadoop.oncrpc.XDR		0.5895522
+org.apache.hadoop.oncrpc.security.Verifier		0.5555556
+org.apache.hadoop.oncrpc.RpcAcceptedReply.AcceptState		0.5
+org.apache.hadoop.oncrpc.RpcMessage		0.5
+org.apache.hadoop.oncrpc.RpcReply.ReplyState		0.5
+org.apache.hadoop.oncrpc.security.Credentials		0.42857143
+org.apache.hadoop.oncrpc.security.RpcAuthInfo		0.33333334
+org.apache.hadoop.oncrpc.RpcProgram		0.27272728
+org.apache.hadoop.oncrpc.RpcReply		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestFrameDecoder_testMultipleFrames_4
+org.apache.hadoop.oncrpc.RpcUtil.RpcFrameDecoder		0.8214286
+org.apache.hadoop.oncrpc.XDR		0.05970149
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestFrameDecoder_testMultipleFrames_6
+org.apache.hadoop.oncrpc.RpcUtil.RpcFrameDecoder		0.8214286
+org.apache.hadoop.oncrpc.XDR		0.05970149
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestFrameDecoder_testSingleFrame_12
+org.apache.hadoop.oncrpc.RpcUtil.RpcFrameDecoder		0.5
+org.apache.hadoop.oncrpc.XDR		0.05970149
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestFrameDecoder_testSingleFrame_u
+org.apache.hadoop.oncrpc.RpcUtil.RpcFrameDecoder		0.5
+org.apache.hadoop.oncrpc.XDR		0.05970149
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestFrameDecoder_testUnprivilegedPort_17
+org.apache.hadoop.oncrpc.security.CredentialsNone		1.0
+org.apache.hadoop.oncrpc.security.VerifierNone		1.0
+org.apache.hadoop.oncrpc.RpcUtil.RpcTcpResponseStage		1.0
+org.apache.hadoop.oncrpc.SimpleTcpClient		0.875
+org.apache.hadoop.oncrpc.RpcUtil.RpcMessageParserStage		0.85714287
+org.apache.hadoop.oncrpc.RpcInfo		0.84615386
+org.apache.hadoop.oncrpc.SimpleTcpServer		0.82608694
+org.apache.hadoop.oncrpc.security.RpcAuthInfo.AuthFlavor		0.8181818
+org.apache.hadoop.oncrpc.RpcUtil.RpcFrameDecoder		0.78571427
+org.apache.hadoop.oncrpc.RpcCall		0.75510204
+org.apache.hadoop.oncrpc.RpcMessage.Type		0.75
+org.apache.hadoop.oncrpc.RpcResponse		0.71428573
+org.apache.hadoop.oncrpc.RpcAcceptedReply		0.7
+org.apache.hadoop.oncrpc.RpcUtil		0.6666667
+org.apache.hadoop.oncrpc.SimpleTcpClientHandler		0.64285713
+org.apache.hadoop.oncrpc.RpcMessage		0.625
+org.apache.hadoop.oncrpc.XDR		0.5895522
+org.apache.hadoop.oncrpc.security.Verifier		0.5555556
+org.apache.hadoop.oncrpc.RpcDeniedReply		0.5555556
+org.apache.hadoop.oncrpc.RpcAcceptedReply.AcceptState		0.5
+org.apache.hadoop.oncrpc.RpcDeniedReply.RejectState		0.5
+org.apache.hadoop.oncrpc.RpcReply.ReplyState		0.5
+org.apache.hadoop.oncrpc.security.Credentials		0.42857143
+org.apache.hadoop.oncrpc.RpcProgram		0.4181818
+org.apache.hadoop.oncrpc.security.RpcAuthInfo		0.33333334
+org.apache.hadoop.oncrpc.RpcReply		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestFrameDecoder_testUnprivilegedPort_y
+org.apache.hadoop.oncrpc.security.CredentialsNone		1.0
+org.apache.hadoop.oncrpc.security.VerifierNone		1.0
+org.apache.hadoop.oncrpc.RpcUtil.RpcTcpResponseStage		1.0
+org.apache.hadoop.oncrpc.SimpleTcpClient		0.875
+org.apache.hadoop.oncrpc.RpcUtil.RpcMessageParserStage		0.85714287
+org.apache.hadoop.oncrpc.RpcInfo		0.84615386
+org.apache.hadoop.oncrpc.SimpleTcpServer		0.82608694
+org.apache.hadoop.oncrpc.security.RpcAuthInfo.AuthFlavor		0.8181818
+org.apache.hadoop.oncrpc.RpcUtil.RpcFrameDecoder		0.78571427
+org.apache.hadoop.oncrpc.RpcCall		0.75510204
+org.apache.hadoop.oncrpc.RpcMessage.Type		0.75
+org.apache.hadoop.oncrpc.RpcResponse		0.71428573
+org.apache.hadoop.oncrpc.RpcAcceptedReply		0.7
+org.apache.hadoop.oncrpc.RpcUtil		0.6666667
+org.apache.hadoop.oncrpc.SimpleTcpClientHandler		0.64285713
+org.apache.hadoop.oncrpc.RpcMessage		0.625
+org.apache.hadoop.oncrpc.XDR		0.5895522
+org.apache.hadoop.oncrpc.security.Verifier		0.5555556
+org.apache.hadoop.oncrpc.RpcDeniedReply		0.5555556
+org.apache.hadoop.oncrpc.RpcAcceptedReply.AcceptState		0.5
+org.apache.hadoop.oncrpc.RpcDeniedReply.RejectState		0.5
+org.apache.hadoop.oncrpc.RpcReply.ReplyState		0.5
+org.apache.hadoop.oncrpc.security.Credentials		0.42857143
+org.apache.hadoop.oncrpc.RpcProgram		0.4181818
+org.apache.hadoop.oncrpc.security.RpcAuthInfo		0.33333334
+org.apache.hadoop.oncrpc.RpcReply		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcAcceptedReply
+TestRpcAcceptedReply		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcAcceptedReply_testAcceptStateFromInvalidValue_1h
+org.apache.hadoop.oncrpc.RpcAcceptedReply.AcceptState		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcAcceptedReply_testAcceptStateFromInvalidValue_1v
+org.apache.hadoop.oncrpc.RpcAcceptedReply.AcceptState		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcAcceptedReply_testAcceptState_12
+org.apache.hadoop.oncrpc.RpcAcceptedReply.AcceptState		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcAcceptedReply_testAcceptState_1c
+org.apache.hadoop.oncrpc.RpcAcceptedReply.AcceptState		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcAcceptedReply_testConstructor_6
+org.apache.hadoop.oncrpc.RpcMessage		0.5625
+org.apache.hadoop.oncrpc.RpcReply		0.42105263
+org.apache.hadoop.oncrpc.security.RpcAuthInfo		0.33333334
+org.apache.hadoop.oncrpc.security.VerifierNone		0.2857143
+org.apache.hadoop.oncrpc.RpcAcceptedReply		0.25
+org.apache.hadoop.oncrpc.security.RpcAuthInfo.AuthFlavor		0.18181819
+org.apache.hadoop.oncrpc.security.Verifier		0.074074075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcAcceptedReply_testConstructor_8
+org.apache.hadoop.oncrpc.RpcMessage		0.5625
+org.apache.hadoop.oncrpc.RpcReply		0.42105263
+org.apache.hadoop.oncrpc.security.RpcAuthInfo		0.33333334
+org.apache.hadoop.oncrpc.security.VerifierNone		0.2857143
+org.apache.hadoop.oncrpc.RpcAcceptedReply		0.25
+org.apache.hadoop.oncrpc.security.RpcAuthInfo.AuthFlavor		0.18181819
+org.apache.hadoop.oncrpc.security.Verifier		0.074074075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcCall
+TestRpcCall		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcCallCache
+TestRpcCallCache		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcCallCache_testAddRemoveEntries_10
+org.apache.hadoop.oncrpc.RpcCallCache		0.8064516
+org.apache.hadoop.oncrpc.RpcCallCache.CacheEntry		0.8
+org.apache.hadoop.oncrpc.RpcCallCache.ClientRequest		0.6666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcCallCache_testAddRemoveEntries_19
+org.apache.hadoop.oncrpc.RpcCallCache		0.8064516
+org.apache.hadoop.oncrpc.RpcCallCache.CacheEntry		0.8
+org.apache.hadoop.oncrpc.RpcCallCache.ClientRequest		0.6666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcCallCache_testCacheEntry_n
+org.apache.hadoop.oncrpc.RpcCallCache.CacheEntry		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcCallCache_testCacheEntry_u
+org.apache.hadoop.oncrpc.RpcCallCache.CacheEntry		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcCallCache_testCacheFunctionality_16
+org.apache.hadoop.oncrpc.RpcCallCache.ClientRequest		0.7777778
+org.apache.hadoop.oncrpc.RpcCallCache		0.67741936
+org.apache.hadoop.oncrpc.RpcCallCache.CacheEntry		0.6
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcCallCache_testCacheFunctionality_1h
+org.apache.hadoop.oncrpc.RpcCallCache.ClientRequest		0.7777778
+org.apache.hadoop.oncrpc.RpcCallCache		0.67741936
+org.apache.hadoop.oncrpc.RpcCallCache.CacheEntry		0.6
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcCallCache_testRpcCallCacheConstructorIllegalArgument0_o
+org.apache.hadoop.oncrpc.RpcCallCache		0.12903225
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcCallCache_testRpcCallCacheConstructorIllegalArgument0_v
+org.apache.hadoop.oncrpc.RpcCallCache		0.12903225
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcCallCache_testRpcCallCacheConstructorIllegalArgumentNegative_p
+org.apache.hadoop.oncrpc.RpcCallCache		0.12903225
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcCallCache_testRpcCallCacheConstructorIllegalArgumentNegative_w
+org.apache.hadoop.oncrpc.RpcCallCache		0.12903225
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcCallCache_testRpcCallCacheConstructor_d
+org.apache.hadoop.oncrpc.RpcCallCache		0.22580644
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcCallCache_testRpcCallCacheConstructor_i
+org.apache.hadoop.oncrpc.RpcCallCache		0.22580644
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcCall_testConstructor_e
+org.apache.hadoop.oncrpc.RpcMessage		0.75
+org.apache.hadoop.oncrpc.RpcCall		0.59183675
+org.apache.hadoop.oncrpc.security.CredentialsNone		0.33333334
+org.apache.hadoop.oncrpc.security.RpcAuthInfo		0.33333334
+org.apache.hadoop.oncrpc.security.VerifierNone		0.2857143
+org.apache.hadoop.oncrpc.security.RpcAuthInfo.AuthFlavor		0.18181819
+org.apache.hadoop.oncrpc.security.Verifier		0.074074075
+org.apache.hadoop.oncrpc.security.Credentials		0.057142857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcCall_testConstructor_j
+org.apache.hadoop.oncrpc.RpcMessage		0.75
+org.apache.hadoop.oncrpc.RpcCall		0.59183675
+org.apache.hadoop.oncrpc.security.CredentialsNone		0.33333334
+org.apache.hadoop.oncrpc.security.RpcAuthInfo		0.33333334
+org.apache.hadoop.oncrpc.security.VerifierNone		0.2857143
+org.apache.hadoop.oncrpc.security.RpcAuthInfo.AuthFlavor		0.18181819
+org.apache.hadoop.oncrpc.security.Verifier		0.074074075
+org.apache.hadoop.oncrpc.security.Credentials		0.057142857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcCall_testInvalidRpcMessageType_2
+org.apache.hadoop.oncrpc.RpcMessage		0.5625
+org.apache.hadoop.oncrpc.RpcCall		0.26530612
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcCall_testInvalidRpcMessageType_4
+org.apache.hadoop.oncrpc.RpcMessage		0.5625
+org.apache.hadoop.oncrpc.RpcCall		0.26530612
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcCall_testInvalidRpcVersion_h
+org.apache.hadoop.oncrpc.RpcMessage		0.5
+org.apache.hadoop.oncrpc.RpcCall		0.36734694
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcCall_testInvalidRpcVersion_m
+org.apache.hadoop.oncrpc.RpcMessage		0.5
+org.apache.hadoop.oncrpc.RpcCall		0.36734694
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcDeniedReply
+TestRpcDeniedReply		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcDeniedReply_testConstructor_r
+org.apache.hadoop.oncrpc.RpcMessage		0.5625
+org.apache.hadoop.oncrpc.security.RpcAuthInfo		0.33333334
+org.apache.hadoop.oncrpc.RpcReply		0.31578946
+org.apache.hadoop.oncrpc.security.VerifierNone		0.2857143
+org.apache.hadoop.oncrpc.RpcDeniedReply		0.2777778
+org.apache.hadoop.oncrpc.security.RpcAuthInfo.AuthFlavor		0.18181819
+org.apache.hadoop.oncrpc.security.Verifier		0.074074075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcDeniedReply_testConstructor_y
+org.apache.hadoop.oncrpc.RpcMessage		0.5625
+org.apache.hadoop.oncrpc.security.RpcAuthInfo		0.33333334
+org.apache.hadoop.oncrpc.RpcReply		0.31578946
+org.apache.hadoop.oncrpc.security.VerifierNone		0.2857143
+org.apache.hadoop.oncrpc.RpcDeniedReply		0.2777778
+org.apache.hadoop.oncrpc.security.RpcAuthInfo.AuthFlavor		0.18181819
+org.apache.hadoop.oncrpc.security.Verifier		0.074074075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcDeniedReply_testRejectStateFromInvalidValue1_b
+org.apache.hadoop.oncrpc.RpcDeniedReply.RejectState		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcDeniedReply_testRejectStateFromInvalidValue1_g
+org.apache.hadoop.oncrpc.RpcDeniedReply.RejectState		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcDeniedReply_testRejectStateFromValue_3
+org.apache.hadoop.oncrpc.RpcDeniedReply.RejectState		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcDeniedReply_testRejectStateFromValue_5
+org.apache.hadoop.oncrpc.RpcDeniedReply.RejectState		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcMessage
+TestRpcMessage		0.85714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcMessage_testRpcMessage_8
+org.apache.hadoop.oncrpc.RpcMessage		0.5625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcMessage_testRpcMessage_a
+org.apache.hadoop.oncrpc.RpcMessage		0.5625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcMessage_testValidateMessageException_5
+org.apache.hadoop.oncrpc.RpcMessage		0.5625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcMessage_testValidateMessageException_7
+org.apache.hadoop.oncrpc.RpcMessage		0.5625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcMessage_testValidateMessage_1a
+org.apache.hadoop.oncrpc.RpcMessage		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcMessage_testValidateMessage_1l
+org.apache.hadoop.oncrpc.RpcMessage		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcReply
+TestRpcReply		0.8333333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcReply_testReplyStateFromInvalidValue1_j
+org.apache.hadoop.oncrpc.RpcReply.ReplyState		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcReply_testReplyStateFromInvalidValue1_o
+org.apache.hadoop.oncrpc.RpcReply.ReplyState		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcReply_testReplyStateFromValue_c
+org.apache.hadoop.oncrpc.RpcReply.ReplyState		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcReply_testReplyStateFromValue_h
+org.apache.hadoop.oncrpc.RpcReply.ReplyState		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcReply_testRpcReply_1g
+org.apache.hadoop.oncrpc.RpcMessage		0.5625
+org.apache.hadoop.oncrpc.security.RpcAuthInfo		0.33333334
+org.apache.hadoop.oncrpc.RpcReply		0.31578946
+org.apache.hadoop.oncrpc.security.VerifierNone		0.2857143
+org.apache.hadoop.oncrpc.security.RpcAuthInfo.AuthFlavor		0.18181819
+org.apache.hadoop.oncrpc.security.Verifier		0.074074075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestRpcReply_testRpcReply_1t
+org.apache.hadoop.oncrpc.RpcMessage		0.5625
+org.apache.hadoop.oncrpc.security.RpcAuthInfo		0.33333334
+org.apache.hadoop.oncrpc.RpcReply		0.31578946
+org.apache.hadoop.oncrpc.security.VerifierNone		0.2857143
+org.apache.hadoop.oncrpc.security.RpcAuthInfo.AuthFlavor		0.18181819
+org.apache.hadoop.oncrpc.security.Verifier		0.074074075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestXDR
+TestXDR		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestXDR_testPerformance_9
+org.apache.hadoop.oncrpc.XDR		0.29104477
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/TestXDR_testPerformance_b
+org.apache.hadoop.oncrpc.XDR		0.29104477
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/security/TestCredentialsSys
+TestCredentialsSys		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/security/TestCredentialsSys_testReadWrite_l
+org.apache.hadoop.oncrpc.security.CredentialsSys		0.6896552
+org.apache.hadoop.oncrpc.XDR		0.4552239
+org.apache.hadoop.oncrpc.security.RpcAuthInfo		0.33333334
+org.apache.hadoop.oncrpc.security.RpcAuthInfo.AuthFlavor		0.18181819
+org.apache.hadoop.oncrpc.security.Credentials		0.057142857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/security/TestCredentialsSys_testReadWrite_r
+org.apache.hadoop.oncrpc.security.CredentialsSys		0.6896552
+org.apache.hadoop.oncrpc.XDR		0.4552239
+org.apache.hadoop.oncrpc.security.RpcAuthInfo		0.33333334
+org.apache.hadoop.oncrpc.security.RpcAuthInfo.AuthFlavor		0.18181819
+org.apache.hadoop.oncrpc.security.Credentials		0.057142857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/security/TestRpcAuthInfo
+TestRpcAuthInfo		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/security/TestRpcAuthInfo_testAuthFlavor_0
+org.apache.hadoop.oncrpc.security.RpcAuthInfo.AuthFlavor		0.72727275
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/security/TestRpcAuthInfo_testAuthFlavor_1
+org.apache.hadoop.oncrpc.security.RpcAuthInfo.AuthFlavor		0.72727275
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/security/TestRpcAuthInfo_testInvalidAuthFlavor_g
+org.apache.hadoop.oncrpc.security.RpcAuthInfo.AuthFlavor		0.45454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/oncrpc/security/TestRpcAuthInfo_testInvalidAuthFlavor_l
+org.apache.hadoop.oncrpc.security.RpcAuthInfo.AuthFlavor		0.45454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/portmap/TestPortmap
+TestPortmap		0.9230769
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/portmap/TestPortmap_testIdle_1d
+org.apache.hadoop.oncrpc.RpcUtil		0.33333334
+org.apache.hadoop.portmap.Portmap		0.12903225
+org.apache.hadoop.portmap.RpcProgramPortmap		0.06315789
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/portmap/TestPortmap_testIdle_1o
+org.apache.hadoop.oncrpc.RpcUtil		0.33333334
+org.apache.hadoop.portmap.Portmap		0.12903225
+org.apache.hadoop.portmap.RpcProgramPortmap		0.06315789
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/portmap/TestPortmap_testRegistration_f
+org.apache.hadoop.oncrpc.security.CredentialsNone		1.0
+org.apache.hadoop.oncrpc.security.VerifierNone		1.0
+org.apache.hadoop.oncrpc.RpcResponse		1.0
+org.apache.hadoop.oncrpc.RpcUtil.RpcUdpResponseStage		1.0
+org.apache.hadoop.portmap.PortmapMapping		0.8947368
+org.apache.hadoop.oncrpc.RpcUtil.RpcMessageParserStage		0.85714287
+org.apache.hadoop.oncrpc.RpcInfo		0.84615386
+org.apache.hadoop.oncrpc.security.RpcAuthInfo.AuthFlavor		0.8181818
+org.apache.hadoop.oncrpc.RpcMessage.Type		0.75
+org.apache.hadoop.oncrpc.RpcAcceptedReply		0.7
+org.apache.hadoop.oncrpc.RpcCall		0.67346936
+org.apache.hadoop.oncrpc.RpcMessage		0.625
+org.apache.hadoop.oncrpc.security.Verifier		0.5555556
+org.apache.hadoop.oncrpc.RpcAcceptedReply.AcceptState		0.5
+org.apache.hadoop.oncrpc.RpcReply.ReplyState		0.5
+org.apache.hadoop.oncrpc.security.Credentials		0.42857143
+org.apache.hadoop.oncrpc.security.RpcAuthInfo		0.33333334
+org.apache.hadoop.oncrpc.RpcUtil		0.33333334
+org.apache.hadoop.portmap.RpcProgramPortmap		0.23157895
+org.apache.hadoop.oncrpc.XDR		0.23134328
+org.apache.hadoop.portmap.PortmapResponse		0.22222222
+org.apache.hadoop.oncrpc.RpcReply		0.21052632
+org.apache.hadoop.portmap.PortmapRequest		0.2
+org.apache.hadoop.portmap.Portmap		0.12903225
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-nfs/target/clover/org/apache/hadoop/portmap/TestPortmap_testRegistration_k
+org.apache.hadoop.oncrpc.security.CredentialsNone		1.0
+org.apache.hadoop.oncrpc.security.VerifierNone		1.0
+org.apache.hadoop.oncrpc.RpcResponse		1.0
+org.apache.hadoop.oncrpc.RpcUtil.RpcUdpResponseStage		1.0
+org.apache.hadoop.portmap.PortmapMapping		0.8947368
+org.apache.hadoop.oncrpc.RpcUtil.RpcMessageParserStage		0.85714287
+org.apache.hadoop.oncrpc.RpcInfo		0.84615386
+org.apache.hadoop.oncrpc.security.RpcAuthInfo.AuthFlavor		0.8181818
+org.apache.hadoop.oncrpc.RpcMessage.Type		0.75
+org.apache.hadoop.oncrpc.RpcAcceptedReply		0.7
+org.apache.hadoop.oncrpc.RpcCall		0.67346936
+org.apache.hadoop.oncrpc.RpcMessage		0.625
+org.apache.hadoop.oncrpc.security.Verifier		0.5555556
+org.apache.hadoop.oncrpc.RpcAcceptedReply.AcceptState		0.5
+org.apache.hadoop.oncrpc.RpcReply.ReplyState		0.5
+org.apache.hadoop.oncrpc.security.Credentials		0.42857143
+org.apache.hadoop.oncrpc.security.RpcAuthInfo		0.33333334
+org.apache.hadoop.oncrpc.RpcUtil		0.33333334
+org.apache.hadoop.portmap.RpcProgramPortmap		0.23157895
+org.apache.hadoop.oncrpc.XDR		0.23134328
+org.apache.hadoop.portmap.PortmapResponse		0.22222222
+org.apache.hadoop.oncrpc.RpcReply		0.21052632
+org.apache.hadoop.portmap.PortmapRequest		0.2
+org.apache.hadoop.portmap.Portmap		0.12903225
+-- -- -- -- -- -- -- -- -- -- -- -- --

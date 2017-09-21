@@ -1,0 +1,101 @@
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/ClientTests
+ClientTests		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/CoprocessorTests
+CoprocessorTests		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/FilterTests
+FilterTests		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/FlakeyTests
+FlakeyTests		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/IOTests
+IOTests		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/IntegrationTests
+IntegrationTests		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/LargeTests
+LargeTests		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/MapReduceTests
+MapReduceTests		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/MasterTests
+MasterTests		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/MediumTests
+MediumTests		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/MetricsTests
+MetricsTests		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/MiscTests
+MiscTests		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/RPCTests
+RPCTests		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/RegionServerTests
+RegionServerTests		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/ReplicationTests
+ReplicationTests		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/RestTests
+RestTests		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/SecurityTests
+SecurityTests		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/SmallTests
+SmallTests		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/VerySlowMapReduceTests
+VerySlowMapReduceTests		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/VerySlowRegionServerTests
+VerySlowRegionServerTests		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/test-ClientTests
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/test-CoprocessorTests
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/test-FilterTests
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/test-FlakeyTests
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/test-IOTests
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/test-IntegrationTests
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/test-LargeTests
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/test-MapReduceTests
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/test-MasterTests
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/test-MediumTests
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/test-MetricsTests
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/test-MiscTests
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/test-RPCTests
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/test-RegionServerTests
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/test-ReplicationTests
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/test-RestTests
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/test-SecurityTests
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/test-SmallTests
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/test-VerySlowMapReduceTests
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-annotations/target/site/clover/org/apache/hadoop/hbase/testclassification/test-VerySlowRegionServerTests
+-- -- -- -- -- -- -- -- -- -- -- -- --

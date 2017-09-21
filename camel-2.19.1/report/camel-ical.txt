@@ -1,0 +1,12 @@
+./components/camel-ical/target/site/clover/org/apache/camel
+./components/camel-ical/target/site/clover/org/apache/camel/component/ical/ICalDataFormatTest
+ICalDataFormatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ical/target/site/clover/org/apache/camel/component/ical/ICalDataFormatTest_testMarshal_0
+org.apache.camel.component.ical.ICalDataFormat		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ical/target/site/clover/org/apache/camel/component/ical/ICalDataFormatTest_testUnmarshal_1
+org.apache.camel.component.ical.ICalDataFormat		0.0952381
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ical/target/site/clover/org/apache/camel/component/ical/test-ICalDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

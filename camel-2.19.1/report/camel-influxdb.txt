@@ -1,0 +1,67 @@
+./components/camel-influxdb/target/site/clover/org/apache/camel
+./components/camel-influxdb/target/site/clover/org/apache/camel/component/influxdb/AbstractInfluxDbTest
+AbstractInfluxDbTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-influxdb/target/site/clover/org/apache/camel/component/influxdb/InfluxDbProducerBatchTest
+InfluxDbProducerBatchTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-influxdb/target/site/clover/org/apache/camel/component/influxdb/InfluxDbProducerBatchTest_writeBatchPoints_6
+org.apache.camel.component.influxdb.InfluxDbProducer		0.36923078
+org.apache.camel.component.influxdb.InfluxDbEndpoint		0.1904762
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-influxdb/target/site/clover/org/apache/camel/component/influxdb/InfluxDbProducerQueryTest
+InfluxDbProducerQueryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-influxdb/target/site/clover/org/apache/camel/component/influxdb/InfluxDbProducerQueryTest_writePointFromMapAndStaticDbName_8
+org.apache.camel.component.influxdb.converters.CamelInfluxDbConverters		0.71428573
+org.apache.camel.component.influxdb.InfluxDbProducer		0.5692308
+org.apache.camel.component.influxdb.InfluxDbEndpoint		0.1904762
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-influxdb/target/site/clover/org/apache/camel/component/influxdb/InfluxDbProducerTest
+InfluxDbProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-influxdb/target/site/clover/org/apache/camel/component/influxdb/InfluxDbProducerTest_missingMeassurementNameFails_5
+org.apache.camel.component.influxdb.converters.CamelInfluxDbConverters		0.42857143
+org.apache.camel.component.influxdb.CamelInfluxDbException		0.33333334
+org.apache.camel.component.influxdb.InfluxDbProducer		0.30769232
+org.apache.camel.component.influxdb.InfluxDbEndpoint		0.1904762
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-influxdb/target/site/clover/org/apache/camel/component/influxdb/InfluxDbProducerTest_writePointFromMapAndDynamicDbName_3
+org.apache.camel.component.influxdb.converters.CamelInfluxDbConverters		0.71428573
+org.apache.camel.component.influxdb.InfluxDbProducer		0.36923078
+org.apache.camel.component.influxdb.InfluxDbEndpoint		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-influxdb/target/site/clover/org/apache/camel/component/influxdb/InfluxDbProducerTest_writePointFromMapAndStaticDbName_7
+org.apache.camel.component.influxdb.converters.CamelInfluxDbConverters		0.71428573
+org.apache.camel.component.influxdb.InfluxDbProducer		0.36923078
+org.apache.camel.component.influxdb.InfluxDbEndpoint		0.1904762
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-influxdb/target/site/clover/org/apache/camel/component/influxdb/converters/CamelInfluxDbConverterTest
+CamelInfluxDbConverterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-influxdb/target/site/clover/org/apache/camel/component/influxdb/converters/CamelInfluxDbConverterTest_canAddByte_4
+canAddByte
+org.apache.camel.component.influxdb.converters.CamelInfluxDbConverters		0.71428573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-influxdb/target/site/clover/org/apache/camel/component/influxdb/converters/CamelInfluxDbConverterTest_canAddDouble_0
+canAddDouble
+org.apache.camel.component.influxdb.converters.CamelInfluxDbConverters		0.71428573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-influxdb/target/site/clover/org/apache/camel/component/influxdb/converters/CamelInfluxDbConverterTest_canAddInt_2
+canAddInt
+org.apache.camel.component.influxdb.converters.CamelInfluxDbConverters		0.71428573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-influxdb/target/site/clover/org/apache/camel/component/influxdb/converters/CamelInfluxDbConverterTest_doesNotAddCamelHeaders_1
+doesNotAddCamelHeaders
+org.apache.camel.component.influxdb.converters.CamelInfluxDbConverters		0.71428573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-influxdb/target/site/clover/org/apache/camel/component/influxdb/converters/test-CamelInfluxDbConverterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-influxdb/target/site/clover/org/apache/camel/component/influxdb/test-AbstractInfluxDbTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-influxdb/target/site/clover/org/apache/camel/component/influxdb/test-InfluxDbProducerBatchTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-influxdb/target/site/clover/org/apache/camel/component/influxdb/test-InfluxDbProducerQueryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-influxdb/target/site/clover/org/apache/camel/component/influxdb/test-InfluxDbProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

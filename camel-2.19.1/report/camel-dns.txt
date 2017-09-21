@@ -1,0 +1,96 @@
+./components/camel-dns/target/site/clover/org/apache/camel
+./components/camel-dns/target/site/clover/org/apache/camel/component/dns/DnsDigEndpointSpringTest
+DnsDigEndpointSpringTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dns/target/site/clover/org/apache/camel/component/dns/DnsDigEndpointTest
+DnsDigEndpointTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dns/target/site/clover/org/apache/camel/component/dns/DnsIpEndpointSpringTest
+DnsIpEndpointSpringTest		0.6666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dns/target/site/clover/org/apache/camel/component/dns/DnsIpEndpointSpringTest_testEmptyIPRequests_1
+org.apache.camel.component.dns.DnsIpProducer		0.71428573
+org.apache.camel.component.dns.DnsEndpoint		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dns/target/site/clover/org/apache/camel/component/dns/DnsIpEndpointSpringTest_testNullIPRequests_2
+org.apache.camel.component.dns.DnsIpProducer		0.71428573
+org.apache.camel.component.dns.DnsEndpoint		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dns/target/site/clover/org/apache/camel/component/dns/DnsIpEndpointTest
+DnsIpEndpointTest		0.6956522
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dns/target/site/clover/org/apache/camel/component/dns/DnsIpEndpointTest_testEmptyIPRequests_9
+org.apache.camel.component.dns.DnsIpProducer		0.71428573
+org.apache.camel.component.dns.DnsEndpoint		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dns/target/site/clover/org/apache/camel/component/dns/DnsIpEndpointTest_testNullIPRequests_8
+org.apache.camel.component.dns.DnsIpProducer		0.71428573
+org.apache.camel.component.dns.DnsEndpoint		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dns/target/site/clover/org/apache/camel/component/dns/DnsIpHeaderTransferTest
+DnsIpHeaderTransferTest		0.6666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dns/target/site/clover/org/apache/camel/component/dns/DnsIpHeaderTransferTest_testEmptyIPRequests_b
+org.apache.camel.component.dns.DnsIpProducer		0.71428573
+org.apache.camel.component.dns.DnsEndpoint		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dns/target/site/clover/org/apache/camel/component/dns/DnsIpHeaderTransferTest_testNullIPRequests_3
+org.apache.camel.component.dns.DnsIpProducer		0.71428573
+org.apache.camel.component.dns.DnsEndpoint		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dns/target/site/clover/org/apache/camel/component/dns/DnsLookupEndpointSpringTest
+DnsLookupEndpointSpringTest		0.3783784
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dns/target/site/clover/org/apache/camel/component/dns/DnsLookupEndpointSpringTest_testDNSWithEmptyNameHeader_0
+org.apache.camel.component.dns.DnsEndpoint		0.35714287
+org.apache.camel.component.dns.DnsLookupProducer		0.17857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dns/target/site/clover/org/apache/camel/component/dns/DnsLookupEndpointSpringTest_testDNSWithNoHeaders_4
+org.apache.camel.component.dns.DnsEndpoint		0.35714287
+org.apache.camel.component.dns.DnsLookupProducer		0.17857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dns/target/site/clover/org/apache/camel/component/dns/DnsLookupEndpointTest
+DnsLookupEndpointTest		0.41025642
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dns/target/site/clover/org/apache/camel/component/dns/DnsLookupEndpointTest_testDNSWithEmptyNameHeader_6
+org.apache.camel.component.dns.DnsEndpoint		0.35714287
+org.apache.camel.component.dns.DnsLookupProducer		0.17857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dns/target/site/clover/org/apache/camel/component/dns/DnsLookupEndpointTest_testDNSWithNoHeaders_7
+org.apache.camel.component.dns.DnsEndpoint		0.35714287
+org.apache.camel.component.dns.DnsLookupProducer		0.17857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dns/target/site/clover/org/apache/camel/component/dns/WikipediaEndpointSpringTest
+WikipediaEndpointSpringTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dns/target/site/clover/org/apache/camel/component/dns/WikipediaEndpointTest
+WikipediaEndpointTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dns/target/site/clover/org/apache/camel/component/dns/cloud/DnsServiceDiscoveryTest
+DnsServiceDiscoveryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dns/target/site/clover/org/apache/camel/component/dns/cloud/DnsServiceDiscoveryTest_testServiceDiscovery_a
+testServiceDiscovery
+org.apache.camel.component.dns.DnsConfiguration		1.0
+org.apache.camel.component.dns.cloud.DnsServiceDiscovery		0.88461536
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dns/target/site/clover/org/apache/camel/component/dns/cloud/test-DnsServiceDiscoveryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dns/target/site/clover/org/apache/camel/component/dns/test-DnsDigEndpointSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dns/target/site/clover/org/apache/camel/component/dns/test-DnsDigEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dns/target/site/clover/org/apache/camel/component/dns/test-DnsIpEndpointSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dns/target/site/clover/org/apache/camel/component/dns/test-DnsIpEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dns/target/site/clover/org/apache/camel/component/dns/test-DnsIpHeaderTransferTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dns/target/site/clover/org/apache/camel/component/dns/test-DnsLookupEndpointSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dns/target/site/clover/org/apache/camel/component/dns/test-DnsLookupEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dns/target/site/clover/org/apache/camel/component/dns/test-WikipediaEndpointSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dns/target/site/clover/org/apache/camel/component/dns/test-WikipediaEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

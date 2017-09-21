@@ -1,0 +1,21 @@
+./components/camel-digitalocean/target/site/clover/org/apache/camel
+./components/camel-digitalocean/target/site/clover/org/apache/camel/component/digitalocean/DigitalOceanComponentTest
+DigitalOceanComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-digitalocean/target/site/clover/org/apache/camel/component/digitalocean/DigitalOceanComponentTest_testGetAccountInfo_0
+org.apache.camel.component.digitalocean.producer.DigitalOceanAccountProducer		0.6666667
+org.apache.camel.component.digitalocean.producer.DigitalOceanProducer		0.18181819
+org.apache.camel.component.digitalocean.DigitalOceanEndpoint		0.035714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-digitalocean/target/site/clover/org/apache/camel/component/digitalocean/integration/DigitalOceanComponentIntegrationTest
+DigitalOceanComponentIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-digitalocean/target/site/clover/org/apache/camel/component/digitalocean/integration/DigitalOceanTestSupport
+DigitalOceanTestSupport		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-digitalocean/target/site/clover/org/apache/camel/component/digitalocean/integration/test-DigitalOceanComponentIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-digitalocean/target/site/clover/org/apache/camel/component/digitalocean/integration/test-DigitalOceanTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-digitalocean/target/site/clover/org/apache/camel/component/digitalocean/test-DigitalOceanComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

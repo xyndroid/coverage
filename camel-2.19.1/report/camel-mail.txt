@@ -1,0 +1,2006 @@
+./components/camel-mail/target/site/clover/org/apache/camel
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/AdditionalMailPropertiesTest
+AdditionalMailPropertiesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/AdditionalMailPropertiesTest_testAdditionalMailProperties_3g
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.MailComponent		0.5441176
+org.apache.camel.component.mail.MailConfiguration		0.19620253
+org.apache.camel.component.mail.MailEndpoint		0.13265306
+org.apache.camel.component.mail.MailUtils		0.10071942
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/AdditionalMailPropertiesTest_testConsumeWithAdditionalProperties_17
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.DefaultJavaMailSender		0.82758623
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailComponent		0.5441176
+org.apache.camel.component.mail.MailConfiguration		0.46518987
+org.apache.camel.component.mail.MailEndpoint		0.40816328
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailConsumer		0.37301588
+org.apache.camel.component.mail.MailBinding		0.3436214
+org.apache.camel.component.mail.MailUtils		0.30215827
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/DetermineContentTypeIssueTest
+DetermineContentTypeIssueTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/DetermineContentTypeIssueTest_testDetermineContentTypeCharSetFromExchange_3y
+org.apache.camel.component.mail.MailUtils		0.3381295
+org.apache.camel.component.mail.MailBinding		0.059670784
+org.apache.camel.component.mail.MailConfiguration		0.00949367
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/DetermineContentTypeIssueTest_testDetermineContentTypeFallbackCharSetFromExchange_r
+org.apache.camel.component.mail.MailUtils		0.37410071
+org.apache.camel.component.mail.MailBinding		0.07613169
+org.apache.camel.component.mail.MailConfiguration		0.00949367
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/DetermineContentTypeIssueTest_testDetermineContentTypeIgnoreUnsupportedExchangeAsFallback_5y
+org.apache.camel.component.mail.MailUtils		0.33093524
+org.apache.camel.component.mail.MailBinding		0.086419754
+org.apache.camel.component.mail.MailConfiguration		0.022151899
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/DetermineContentTypeIssueTest_testDetermineContentTypeInvalidCharset_34
+org.apache.camel.component.mail.MailUtils		0.37410071
+org.apache.camel.component.mail.MailBinding		0.08024691
+org.apache.camel.component.mail.MailConfiguration		0.015822785
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/DetermineContentTypeIssueTest_testDetermineContentTypeNoChange_a
+org.apache.camel.component.mail.MailUtils		0.30215827
+org.apache.camel.component.mail.MailBinding		0.059670784
+org.apache.camel.component.mail.MailConfiguration		0.00949367
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/DetermineContentTypeIssueTest_testDetermineContentTypeWithCharsetInMiddle_58
+org.apache.camel.component.mail.MailUtils		0.37410071
+org.apache.camel.component.mail.MailBinding		0.07613169
+org.apache.camel.component.mail.MailConfiguration		0.00949367
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/FromFileSendMailTest
+FromFileSendMailTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/FromFileSendMailTest_testSendFileAsMail_u
+org.apache.camel.component.mail.DefaultJavaMailSender		0.86206895
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailBinding		0.2942387
+org.apache.camel.component.mail.MailConfiguration		0.2278481
+org.apache.camel.component.mail.MailEndpoint		0.1734694
+org.apache.camel.component.mail.MailUtils		0.17266187
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/InvalidConfigurationTest
+InvalidConfigurationTest		0.8333333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/InvalidConfigurationTest_testSMTPCanNotBeUsedForConsumingMails_29
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailConfiguration		0.18354431
+org.apache.camel.component.mail.MailEndpoint		0.1734694
+org.apache.camel.component.mail.MailUtils		0.1294964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/InvalidConfigurationTest_testSMTPSCanNotBeUsedForConsumingMails_43
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailConfiguration		0.18354431
+org.apache.camel.component.mail.MailEndpoint		0.1734694
+org.apache.camel.component.mail.MailUtils		0.1438849
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailAttachmentDuplicateNamesTest
+MailAttachmentDuplicateNamesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailAttachmentDuplicateNamesTest_testSendAndRecieveMailWithAttachmentsWithDuplicateNames_2w
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.DefaultJavaMailSender		0.86206895
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.68421054
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailConsumer		0.521164
+org.apache.camel.component.mail.MailConfiguration		0.51265824
+org.apache.camel.component.mail.MailBinding		0.4547325
+org.apache.camel.component.mail.MailEndpoint		0.42857143
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailUtils		0.30215827
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConverters		0.055555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailAttachmentRedeliveryTest
+MailAttachmentRedeliveryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailAttachmentRedeliveryTest_testSendAndReceiveMailWithAttachmentsRedelivery_1k
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.DefaultJavaMailSender		0.86206895
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.68421054
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailConsumer		0.521164
+org.apache.camel.component.mail.MailConfiguration		0.51265824
+org.apache.camel.component.mail.MailBinding		0.4547325
+org.apache.camel.component.mail.MailEndpoint		0.42857143
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailUtils		0.30215827
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConverters		0.055555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailAttachmentTest
+MailAttachmentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailAttachmentTest_testSendAndReceiveMailWithAttachments_18
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.DefaultJavaMailSender		0.86206895
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.68421054
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailConsumer		0.521164
+org.apache.camel.component.mail.MailConfiguration		0.51265824
+org.apache.camel.component.mail.MailBinding		0.46090534
+org.apache.camel.component.mail.MailEndpoint		0.42857143
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailUtils		0.30215827
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConverters		0.055555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailAttachmentsUmlautIssueTest
+MailAttachmentsUmlautIssueTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailBatchConsumerTest
+MailBatchConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailBatchConsumerTest_testBatchConsumer_44
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.MailConsumer		0.46825397
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailEndpoint		0.2244898
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConfiguration		0.07594936
+org.apache.camel.component.mail.MailBinding		0.07201646
+org.apache.camel.component.mail.DefaultJavaMailSender		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailCollectionHeaderTest
+MailCollectionHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailCollectionHeaderTest_testMailHeaderWithCollection_69
+org.apache.camel.component.mail.DefaultJavaMailSender		0.82758623
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailConsumer		0.51058203
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailBinding		0.35185185
+org.apache.camel.component.mail.MailEndpoint		0.33673468
+org.apache.camel.component.mail.MailConfiguration		0.31329113
+org.apache.camel.component.mail.MailUtils		0.17266187
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailCommitOnCompletionTest
+MailCommitOnCompletionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailCommitOnCompletionTest_testCommitOnCompletion_51
+org.apache.camel.component.mail.MailMessage		0.68421054
+org.apache.camel.component.mail.MailConsumer		0.5132275
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailEndpoint		0.24489796
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConfiguration		0.088607594
+org.apache.camel.component.mail.MailBinding		0.07201646
+org.apache.camel.component.mail.DefaultJavaMailSender		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailComponentRecipientSetTest
+MailComponentRecipientSetTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailComponentRecipientSetTest_testMultipleEndpoints_36
+org.apache.camel.component.mail.DefaultJavaMailSender		0.86206895
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailBinding		0.28806585
+org.apache.camel.component.mail.MailConfiguration		0.24050634
+org.apache.camel.component.mail.MailEndpoint		0.1734694
+org.apache.camel.component.mail.MailUtils		0.17266187
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailComponentTest
+MailComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailComponentTest_testConnectionTimeout_4i
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailConfiguration		0.21518987
+org.apache.camel.component.mail.MailEndpoint		0.13265306
+org.apache.camel.component.mail.MailUtils		0.1294964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailComponentTest_testDebugMode_e
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailConfiguration		0.21518987
+org.apache.camel.component.mail.MailEndpoint		0.13265306
+org.apache.camel.component.mail.MailUtils		0.1294964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailComponentTest_testDefaultIMAPConfiguration_4p
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailConfiguration		0.2658228
+org.apache.camel.component.mail.MailEndpoint		0.13265306
+org.apache.camel.component.mail.MailUtils		0.05755396
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailComponentTest_testDefaultPOP3Configuration_50
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailConfiguration		0.2658228
+org.apache.camel.component.mail.MailEndpoint		0.13265306
+org.apache.camel.component.mail.MailUtils		0.10071942
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailComponentTest_testDefaultSMTPConfiguration_33
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailConfiguration		0.2943038
+org.apache.camel.component.mail.MailEndpoint		0.13265306
+org.apache.camel.component.mail.MailUtils		0.1294964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailComponentTest_testDefaultSMTPSConfiguration_2b
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailConfiguration		0.30063292
+org.apache.camel.component.mail.MailUtils		0.1438849
+org.apache.camel.component.mail.MailEndpoint		0.13265306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailComponentTest_testDummyTrustManagerSecure_1j
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailConfiguration		0.24367088
+org.apache.camel.component.mail.MailUtils		0.1438849
+org.apache.camel.component.mail.MailEndpoint		0.13265306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailComponentTest_testDummyTrustManager_3f
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailConfiguration		0.221519
+org.apache.camel.component.mail.MailEndpoint		0.13265306
+org.apache.camel.component.mail.MailUtils		0.1294964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailComponentTest_testMailComponentCtrCamelContext_1e
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailConfiguration		0.18354431
+org.apache.camel.component.mail.MailEndpoint		0.1122449
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailComponentTest_testMailComponentCtrConfig_4o
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.MailComponent		0.5294118
+org.apache.camel.component.mail.MailConfiguration		0.19936709
+org.apache.camel.component.mail.MailUtils		0.1294964
+org.apache.camel.component.mail.MailEndpoint		0.1122449
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailComponentTest_testMailComponentCtr_48
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailConfiguration		0.18354431
+org.apache.camel.component.mail.MailEndpoint		0.1122449
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailComponentTest_testMailComponentWithQuartzScheduler_4f
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.MailComponent		0.5588235
+org.apache.camel.component.mail.MailConfiguration		0.19936709
+org.apache.camel.component.mail.MailEndpoint		0.1122449
+org.apache.camel.component.mail.MailUtils		0.05755396
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailComponentTest_testMailEndpointsAreConfiguredProperlyWhenUsingImap_1a
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.MailComponent		0.5441176
+org.apache.camel.component.mail.MailConfiguration		0.21518987
+org.apache.camel.component.mail.MailEndpoint		0.13265306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailComponentTest_testMailEndpointsAreConfiguredProperlyWhenUsingPop_3j
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.MailComponent		0.5441176
+org.apache.camel.component.mail.MailConfiguration		0.21518987
+org.apache.camel.component.mail.MailEndpoint		0.13265306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailComponentTest_testMailEndpointsAreConfiguredProperlyWhenUsingSmtp_z
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.MailComponent		0.5441176
+org.apache.camel.component.mail.MailConfiguration		0.21518987
+org.apache.camel.component.mail.MailEndpoint		0.13265306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailComponentTest_testMailEndpointsWithFetchSize_2n
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailConfiguration		0.23417722
+org.apache.camel.component.mail.MailEndpoint		0.13265306
+org.apache.camel.component.mail.MailUtils		0.10071942
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailComponentTest_testManyConfigurations_4w
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailConfiguration		0.29113925
+org.apache.camel.component.mail.MailEndpoint		0.13265306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailComponentTest_testNoUserInfoButUsername_k
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailConfiguration		0.23417722
+org.apache.camel.component.mail.MailEndpoint		0.13265306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailComponentTest_testSMTPEndpointWithSubjectOption_5k
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailConfiguration		0.15822785
+org.apache.camel.component.mail.MailEndpoint		0.13265306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailComponentTest_testTo_5m
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailConfiguration		0.25316456
+org.apache.camel.component.mail.MailEndpoint		0.13265306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailConsumerIdleMessageTest
+MailConsumerIdleMessageTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailConsumerIdleMessageTest_testConsumeIdleMessages_25
+org.apache.camel.component.mail.MailConsumer		0.16666667
+org.apache.camel.component.mail.DefaultJavaMailSender		0.06896552
+org.apache.camel.component.mail.MailConfiguration		0.056962024
+org.apache.camel.component.mail.MailEndpoint		0.020408163
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailConsumerUnsupportedCharsetTest
+MailConsumerUnsupportedCharsetTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailConsumerUnsupportedCharsetTest_testConsumeUnsupportedCharset_10
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.6585366
+org.apache.camel.component.mail.MailConsumer		0.37301588
+org.apache.camel.component.mail.MailEndpoint		0.21428572
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.DefaultJavaMailSender		0.06896552
+org.apache.camel.component.mail.MailConfiguration		0.06329114
+org.apache.camel.component.mail.MailBinding		0.059670784
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailContentTypeResolverTest
+MailContentTypeResolverTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailContentTypeResolverTest_testCustomContentTypeResolver_40
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.DefaultJavaMailSender		0.86206895
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.68421054
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailConsumer		0.521164
+org.apache.camel.component.mail.MailConfiguration		0.5063291
+org.apache.camel.component.mail.MailComponent		0.4852941
+org.apache.camel.component.mail.MailBinding		0.4691358
+org.apache.camel.component.mail.MailEndpoint		0.42857143
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailUtils		0.30215827
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConverters		0.055555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailContentTypeTest
+MailContentTypeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailContentTypeTest_testSendHtmlMail_12
+org.apache.camel.component.mail.DefaultJavaMailSender		0.82758623
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailBinding		0.27160493
+org.apache.camel.component.mail.MailConfiguration		0.23734178
+org.apache.camel.component.mail.MailEndpoint		0.1734694
+org.apache.camel.component.mail.MailUtils		0.17266187
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailContentTypeTest_testSendMultipartMail_1i
+org.apache.camel.component.mail.DefaultJavaMailSender		0.82758623
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailBinding		0.30246913
+org.apache.camel.component.mail.MailConfiguration		0.23734178
+org.apache.camel.component.mail.MailEndpoint		0.1734694
+org.apache.camel.component.mail.MailUtils		0.17266187
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailContentTypeTest_testSendPlainMail_16
+org.apache.camel.component.mail.DefaultJavaMailSender		0.82758623
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailBinding		0.27160493
+org.apache.camel.component.mail.MailConfiguration		0.23734178
+org.apache.camel.component.mail.MailEndpoint		0.1734694
+org.apache.camel.component.mail.MailUtils		0.17266187
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailConvertersTest
+MailConvertersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailConvertersTest_testMailMessageToInputStream_2s
+org.apache.camel.component.mail.DefaultJavaMailSender		0.82758623
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailConsumer		0.51058203
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailBinding		0.3436214
+org.apache.camel.component.mail.MailEndpoint		0.33673468
+org.apache.camel.component.mail.MailConfiguration		0.31329113
+org.apache.camel.component.mail.MailUtils		0.17266187
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConverters		0.030303031
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailConvertersTest_testMailMessageToString_4h
+org.apache.camel.component.mail.DefaultJavaMailSender		0.82758623
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailConsumer		0.51058203
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailBinding		0.3436214
+org.apache.camel.component.mail.MailEndpoint		0.33673468
+org.apache.camel.component.mail.MailConfiguration		0.31329113
+org.apache.camel.component.mail.MailUtils		0.17266187
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConverters		0.055555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailConvertersTest_testMultipartToByteArray_22
+org.apache.camel.component.mail.DefaultJavaMailSender		0.82758623
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailConsumer		0.51058203
+org.apache.camel.component.mail.MailBinding		0.4218107
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailEndpoint		0.33673468
+org.apache.camel.component.mail.MailConfiguration		0.31329113
+org.apache.camel.component.mail.MailUtils		0.17266187
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConverters		0.116161615
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailConvertersTest_testMultipartToInputStream_5f
+org.apache.camel.component.mail.DefaultJavaMailSender		0.82758623
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailConsumer		0.51058203
+org.apache.camel.component.mail.MailBinding		0.4218107
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailEndpoint		0.33673468
+org.apache.camel.component.mail.MailConfiguration		0.31329113
+org.apache.camel.component.mail.MailUtils		0.17266187
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConverters		0.116161615
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailConvertersTest_testMultipartToString_62
+org.apache.camel.component.mail.DefaultJavaMailSender		0.82758623
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailBinding		0.4218107
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailConsumer		0.37301588
+org.apache.camel.component.mail.MailEndpoint		0.31632653
+org.apache.camel.component.mail.MailConfiguration		0.2879747
+org.apache.camel.component.mail.MailUtils		0.17266187
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConverters		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailCopyToTest
+MailCopyToTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailCopyToTest_testCopyTo_6d
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.MailConsumer		0.49470899
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailEndpoint		0.24489796
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConfiguration		0.088607594
+org.apache.camel.component.mail.MailBinding		0.07201646
+org.apache.camel.component.mail.DefaultJavaMailSender		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailCustomContentTypeTest
+MailCustomContentTypeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailCustomContentTypeTest_testNullBody_2j
+org.apache.camel.component.mail.DefaultJavaMailSender		0.82758623
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailUtils		0.35971224
+org.apache.camel.component.mail.MailBinding		0.28806585
+org.apache.camel.component.mail.MailConfiguration		0.23734178
+org.apache.camel.component.mail.MailEndpoint		0.1734694
+org.apache.camel.component.mail.MailConverters		0.02020202
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailCustomContentTypeTest_testSendHtmlMailIso88591_3w
+org.apache.camel.component.mail.DefaultJavaMailSender		0.82758623
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailUtils		0.35971224
+org.apache.camel.component.mail.MailBinding		0.29012346
+org.apache.camel.component.mail.MailConfiguration		0.23734178
+org.apache.camel.component.mail.MailEndpoint		0.1734694
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailCustomContentTypeTest_testSendHtmlMail_11
+org.apache.camel.component.mail.DefaultJavaMailSender		0.82758623
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailUtils		0.35971224
+org.apache.camel.component.mail.MailBinding		0.29012346
+org.apache.camel.component.mail.MailConfiguration		0.23734178
+org.apache.camel.component.mail.MailEndpoint		0.1734694
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailCustomContentTypeTest_testSendPlainMailContentTypeInHeader2_q
+org.apache.camel.component.mail.DefaultJavaMailSender		0.82758623
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailUtils		0.35971224
+org.apache.camel.component.mail.MailBinding		0.2942387
+org.apache.camel.component.mail.MailConfiguration		0.23734178
+org.apache.camel.component.mail.MailEndpoint		0.1734694
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailCustomContentTypeTest_testSendPlainMailContentTypeInHeader_2m
+org.apache.camel.component.mail.DefaultJavaMailSender		0.82758623
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailUtils		0.35971224
+org.apache.camel.component.mail.MailBinding		0.28600824
+org.apache.camel.component.mail.MailConfiguration		0.23734178
+org.apache.camel.component.mail.MailEndpoint		0.1734694
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailCustomContentTypeTest_testSendPlainMailContentTypeTinyTypeInHeader_l
+org.apache.camel.component.mail.DefaultJavaMailSender		0.82758623
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailUtils		0.35971224
+org.apache.camel.component.mail.MailBinding		0.28600824
+org.apache.camel.component.mail.MailConfiguration		0.23734178
+org.apache.camel.component.mail.MailEndpoint		0.1734694
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailCustomMailSenderTest
+MailCustomMailSenderTest		1.0
+MailCustomMailSenderTest.MySender		0.17391305
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailCustomMailSenderTest_testSendWithCustomMailSender_2e
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailUtils		0.30215827
+org.apache.camel.component.mail.MailBinding		0.27160493
+org.apache.camel.component.mail.MailEndpoint		0.25510204
+org.apache.camel.component.mail.MailConfiguration		0.24050634
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailDefaultDelayForMailConsumeTest
+MailDefaultDelayForMailConsumeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailDefaultDelayForMailConsumeTest_testConsuming_1b
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.DefaultJavaMailSender		0.82758623
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailComponent		0.5441176
+org.apache.camel.component.mail.MailConsumer		0.52380955
+org.apache.camel.component.mail.MailConfiguration		0.49050632
+org.apache.camel.component.mail.MailEndpoint		0.4387755
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailBinding		0.33744857
+org.apache.camel.component.mail.MailUtils		0.30215827
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailDisconnectTest
+MailDisconnectTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailDisconnectTest_testDisconnect_1r
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.DefaultJavaMailSender		0.82758623
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailComponent		0.5441176
+org.apache.camel.component.mail.MailConsumer		0.52910054
+org.apache.camel.component.mail.MailConfiguration		0.49050632
+org.apache.camel.component.mail.MailEndpoint		0.4387755
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailBinding		0.3436214
+org.apache.camel.component.mail.MailUtils		0.30215827
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailDoNotDeleteIfProcessFailsTest
+MailDoNotDeleteIfProcessFailsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailDoNotDeleteIfProcessFailsTest_testRoolbackIfProcessFails_3i
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.MailConsumer		0.45502645
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailEndpoint		0.24489796
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConfiguration		0.07594936
+org.apache.camel.component.mail.MailBinding		0.07201646
+org.apache.camel.component.mail.DefaultJavaMailSender		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailEndpointTest
+MailEndpointTest		1.0
+MailEndpointTest.MyMailBinding		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailEndpointTest_testMailEndpointCtrEndpointConfig_5x
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.MailEndpoint		0.21428572
+org.apache.camel.component.mail.MailConfiguration		0.07278481
+org.apache.camel.component.mail.MailComponent		0.04411765
+org.apache.camel.component.mail.MailBinding		0.010288066
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailEndpointTest_testMailEndpointCtrEndpoint_b
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.MailEndpoint		0.23469388
+org.apache.camel.component.mail.MailConfiguration		0.07278481
+org.apache.camel.component.mail.MailBinding		0.0061728396
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailEndpointTest_testMailEndpointCtr_3e
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.MailEndpoint		0.18367347
+org.apache.camel.component.mail.MailConfiguration		0.07278481
+org.apache.camel.component.mail.MailBinding		0.0061728396
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailEndpointTlsTest
+MailEndpointTlsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailEndpointTlsTest_testMailEndpointNoTslConfig_1x
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.DefaultJavaMailSender		0.31034482
+org.apache.camel.component.mail.MailConfiguration		0.2943038
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailEndpointTlsTest_testMailEndpointNoTslConfig_3h
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailConfiguration		0.31329113
+org.apache.camel.component.mail.DefaultJavaMailSender		0.31034482
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailEndpointTlsTest_testMailEndpointNoTslConfig_4d
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.DefaultJavaMailSender		0.31034482
+org.apache.camel.component.mail.MailConfiguration		0.2943038
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailEndpointTlsTest_testMailEndpointNoTslConfig_4v
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailConfiguration		0.31329113
+org.apache.camel.component.mail.DefaultJavaMailSender		0.31034482
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailEndpointTlsTest_testMailEndpointNoTslConfig_4x
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.DefaultJavaMailSender		0.31034482
+org.apache.camel.component.mail.MailConfiguration		0.2943038
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailEndpointTlsTest_testMailEndpointNoTslConfig_64
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailConfiguration		0.31329113
+org.apache.camel.component.mail.DefaultJavaMailSender		0.31034482
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailEndpointTlsTest_testMailEndpointTslConfig_1p
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.DefaultJavaMailSender		0.31034482
+org.apache.camel.component.mail.MailConfiguration		0.29113925
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailEndpointTlsTest_testMailEndpointTslConfig_1w
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.DefaultJavaMailSender		0.31034482
+org.apache.camel.component.mail.MailConfiguration		0.29113925
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailEndpointTlsTest_testMailEndpointTslConfig_2r
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.DefaultJavaMailSender		0.31034482
+org.apache.camel.component.mail.MailConfiguration		0.29113925
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailEndpointTlsTest_testMailEndpointTslConfig_4y
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.DefaultJavaMailSender		0.31034482
+org.apache.camel.component.mail.MailConfiguration		0.29113925
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailEndpointTlsTest_testMailEndpointTslConfig_5g
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.DefaultJavaMailSender		0.31034482
+org.apache.camel.component.mail.MailConfiguration		0.29113925
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailEndpointTlsTest_testMailEndpointTslConfig_h
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.DefaultJavaMailSender		0.31034482
+org.apache.camel.component.mail.MailConfiguration		0.29113925
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailEndpointTlsTest_testMailEndpointTslDummyTrustManagerConfig_2k
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.DefaultJavaMailSender		0.31034482
+org.apache.camel.component.mail.MailConfiguration		0.31012657
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailEndpointTlsTest_testMailEndpointTslDummyTrustManagerConfig_2t
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailConfiguration		0.31962025
+org.apache.camel.component.mail.DefaultJavaMailSender		0.31034482
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailEndpointTlsTest_testMailEndpointTslDummyTrustManagerConfig_38
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.DefaultJavaMailSender		0.31034482
+org.apache.camel.component.mail.MailConfiguration		0.31012657
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailEndpointTlsTest_testMailEndpointTslDummyTrustManagerConfig_3c
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.DefaultJavaMailSender		0.31034482
+org.apache.camel.component.mail.MailConfiguration		0.31012657
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailEndpointTlsTest_testMailEndpointTslDummyTrustManagerConfig_5p
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailConfiguration		0.31962025
+org.apache.camel.component.mail.DefaultJavaMailSender		0.31034482
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailEndpointTlsTest_testMailEndpointTslDummyTrustManagerConfig_7
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailConfiguration		0.31962025
+org.apache.camel.component.mail.DefaultJavaMailSender		0.31034482
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailEndpointTlsTest_testMailEndpointTslSslContextParametersConfig_1
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailConfiguration		0.32911393
+org.apache.camel.component.mail.DefaultJavaMailSender		0.31034482
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailEndpointTlsTest_testMailEndpointTslSslContextParametersConfig_19
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailConfiguration		0.31962025
+org.apache.camel.component.mail.DefaultJavaMailSender		0.31034482
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailEndpointTlsTest_testMailEndpointTslSslContextParametersConfig_2q
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailConfiguration		0.32911393
+org.apache.camel.component.mail.DefaultJavaMailSender		0.31034482
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailEndpointTlsTest_testMailEndpointTslSslContextParametersConfig_3p
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailConfiguration		0.32911393
+org.apache.camel.component.mail.DefaultJavaMailSender		0.31034482
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailEndpointTlsTest_testMailEndpointTslSslContextParametersConfig_4l
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailConfiguration		0.31962025
+org.apache.camel.component.mail.DefaultJavaMailSender		0.31034482
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailEndpointTlsTest_testMailEndpointTslSslContextParametersConfig_56
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailConfiguration		0.31962025
+org.apache.camel.component.mail.DefaultJavaMailSender		0.31034482
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailFetchSizeTest
+MailFetchSizeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailFetchSizeTest_testFetchSize_1o
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.MailConsumer		0.52380955
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailEndpoint		0.24489796
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConfiguration		0.088607594
+org.apache.camel.component.mail.MailBinding		0.07201646
+org.apache.camel.component.mail.DefaultJavaMailSender		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailFetchSizeZeroTest
+MailFetchSizeZeroTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailFetchSizeZeroTest_testFetchSize_1n
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailHeaderOverrulePreConfigurationRecipientsTest
+MailHeaderOverrulePreConfigurationRecipientsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailHeaderOverrulePreConfigurationRecipientsTest_testSendWithRecipientsInHeaders_2x
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.DefaultJavaMailSender		0.82758623
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailComponent		0.5441176
+org.apache.camel.component.mail.MailConfiguration		0.46518987
+org.apache.camel.component.mail.MailEndpoint		0.40816328
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailConsumer		0.37301588
+org.apache.camel.component.mail.MailBinding		0.37242797
+org.apache.camel.component.mail.MailUtils		0.30215827
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailHtmlAttachmentTest
+MailHtmlAttachmentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailHtmlAttachmentTest_testSendAndRecieveMailWithAttachments_6a
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.DefaultJavaMailSender		0.86206895
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.68421054
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailConsumer		0.521164
+org.apache.camel.component.mail.MailConfiguration		0.51898736
+org.apache.camel.component.mail.MailBinding		0.4547325
+org.apache.camel.component.mail.MailEndpoint		0.42857143
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailUtils		0.30215827
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConverters		0.055555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailIdempotentRepositoryDuplicateNotRemoveTest
+MailIdempotentRepositoryDuplicateNotRemoveTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailIdempotentRepositoryDuplicateNotRemoveTest_testIdempotent_59
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.MailConsumer		0.5185185
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailEndpoint		0.26530612
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConfiguration		0.088607594
+org.apache.camel.component.mail.MailBinding		0.07201646
+org.apache.camel.component.mail.DefaultJavaMailSender		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailIdempotentRepositoryDuplicateTest
+MailIdempotentRepositoryDuplicateTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailIdempotentRepositoryDuplicateTest_testIdempotent_4k
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.MailConsumer		0.5185185
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailEndpoint		0.26530612
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConfiguration		0.088607594
+org.apache.camel.component.mail.MailBinding		0.07201646
+org.apache.camel.component.mail.DefaultJavaMailSender		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailIdempotentRepositoryTest
+MailIdempotentRepositoryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailIdempotentRepositoryTest_testIdempotent_52
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.MailConsumer		0.50793654
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailEndpoint		0.26530612
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConfiguration		0.088607594
+org.apache.camel.component.mail.MailBinding		0.07201646
+org.apache.camel.component.mail.DefaultJavaMailSender		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailMaxMessagesPerPollTest
+MailMaxMessagesPerPollTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailMaxMessagesPerPollTest_testBatchConsumer_v
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.MailConsumer		0.53174603
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailEndpoint		0.24489796
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConfiguration		0.088607594
+org.apache.camel.component.mail.MailBinding		0.07201646
+org.apache.camel.component.mail.DefaultJavaMailSender		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailMessageTest
+MailMessageTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailMessageTest_testMailMessageHandlesMultipleHeaders_2u
+org.apache.camel.component.mail.MailMessage		0.25
+org.apache.camel.component.mail.MailEndpoint		0.12244898
+org.apache.camel.component.mail.MailBinding		0.053497944
+org.apache.camel.component.mail.MailConfiguration		0.006329114
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailMessageTest_testMailMessageHandlesSingleHeader_5t
+org.apache.camel.component.mail.MailMessage		0.25
+org.apache.camel.component.mail.MailEndpoint		0.12244898
+org.apache.camel.component.mail.MailBinding		0.053497944
+org.apache.camel.component.mail.MailConfiguration		0.006329114
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailMultipleRecipientsTest
+MailMultipleRecipientsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailMultipleRecipientsTest_testSendWithMultipleRecipientsInHeader_2f
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.DefaultJavaMailSender		0.79310346
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailComponent		0.5441176
+org.apache.camel.component.mail.MailConsumer		0.51058203
+org.apache.camel.component.mail.MailEndpoint		0.42857143
+org.apache.camel.component.mail.MailConfiguration		0.42405063
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailBinding		0.3621399
+org.apache.camel.component.mail.MailUtils		0.30215827
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailMultipleRecipientsTest_testSendWithMultipleRecipientsPreConfigured_5s
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.DefaultJavaMailSender		0.79310346
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailConsumer		0.51058203
+org.apache.camel.component.mail.MailConfiguration		0.44936708
+org.apache.camel.component.mail.MailEndpoint		0.42857143
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailBinding		0.34773663
+org.apache.camel.component.mail.MailUtils		0.30215827
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailMultipleRecipientsUsingHeadersTest
+MailMultipleRecipientsUsingHeadersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailMultipleRecipientsUsingHeadersTest_testMailMultipleRecipientUsingHeaders_3k
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.DefaultJavaMailSender		0.82758623
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailComponent		0.5441176
+org.apache.camel.component.mail.MailConfiguration		0.42088607
+org.apache.camel.component.mail.MailBinding		0.30246913
+org.apache.camel.component.mail.MailUtils		0.30215827
+org.apache.camel.component.mail.MailEndpoint		0.26530612
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailNameAndEmailInRecipientTest
+MailNameAndEmailInRecipientTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailNameAndEmailInRecipientTest_testSendWithNameAndEmailInRecipient_4t
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.DefaultJavaMailSender		0.79310346
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailComponent		0.5441176
+org.apache.camel.component.mail.MailConsumer		0.51058203
+org.apache.camel.component.mail.MailEndpoint		0.42857143
+org.apache.camel.component.mail.MailConfiguration		0.42405063
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailBinding		0.3621399
+org.apache.camel.component.mail.MailUtils		0.30215827
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailNoRecipientsTest
+MailNoRecipientsTest		0.9
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailNoRecipientsTest_testMailNoRecipients_1c
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailProducer		0.6
+org.apache.camel.component.mail.DefaultJavaMailSender		0.31034482
+org.apache.camel.component.mail.MailConfiguration		0.20253165
+org.apache.camel.component.mail.MailEndpoint		0.1734694
+org.apache.camel.component.mail.MailBinding		0.07613169
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailPollEnrichNoMailTest
+MailPollEnrichNoMailTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailPollEnrichNoMailTest_testPollEnrichNullBody_21
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailConfiguration		0.4113924
+org.apache.camel.component.mail.DefaultJavaMailSender		0.37931034
+org.apache.camel.component.mail.MailEndpoint		0.2755102
+org.apache.camel.component.mail.MailUtils		0.10071942
+org.apache.camel.component.mail.MailConsumer		0.08730159
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailPollEnrichNoMailTest_testPollEnrich_26
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailConfiguration		0.443038
+org.apache.camel.component.mail.DefaultJavaMailSender		0.37931034
+org.apache.camel.component.mail.MailEndpoint		0.2755102
+org.apache.camel.component.mail.MailConsumer		0.1904762
+org.apache.camel.component.mail.MailUtils		0.10071942
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailPollEnrichTest
+MailPollEnrichTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailPollEnrichTest_testPollEnrichNullBody_5r
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailConsumer		0.5
+org.apache.camel.component.mail.MailEndpoint		0.47959185
+org.apache.camel.component.mail.MailConfiguration		0.4620253
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailMessage		0.38157895
+org.apache.camel.component.mail.DefaultJavaMailSender		0.37931034
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailUtils		0.10071942
+org.apache.camel.component.mail.MailBinding		0.07201646
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailPollEnrichTest_testPollEnrich_3s
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailConsumer		0.5
+org.apache.camel.component.mail.MailEndpoint		0.47959185
+org.apache.camel.component.mail.MailConfiguration		0.4620253
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailMessage		0.38157895
+org.apache.camel.component.mail.DefaultJavaMailSender		0.37931034
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailUtils		0.10071942
+org.apache.camel.component.mail.MailBinding		0.07201646
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailPostProcessActionTest
+MailPostProcessActionTest		0.9777778
+MailPostProcessActionTest.TestPostProcessAction		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailPostProcessActionTest_testActionCalled_3l
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.MailConsumer		0.5132275
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailEndpoint		0.23469388
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConfiguration		0.088607594
+org.apache.camel.component.mail.MailBinding		0.07201646
+org.apache.camel.component.mail.DefaultJavaMailSender		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailProcessOnlyUnseenMessagesTest
+MailProcessOnlyUnseenMessagesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailProcessOnlyUnseenMessagesTest_testProcessOnlyUnseenMessages_49
+org.apache.camel.component.mail.DefaultJavaMailSender		0.82758623
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailConsumer		0.489418
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailEndpoint		0.3469388
+org.apache.camel.component.mail.MailBinding		0.33744857
+org.apache.camel.component.mail.MailConfiguration		0.31329113
+org.apache.camel.component.mail.MailUtils		0.17266187
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailProducerConcurrentTest
+MailProducerConcurrentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailProducerConcurrentTest_testConcurrentProducers_57
+org.apache.camel.component.mail.DefaultJavaMailSender		0.82758623
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailBinding		0.28395063
+org.apache.camel.component.mail.MailConfiguration		0.23101266
+org.apache.camel.component.mail.MailEndpoint		0.18367347
+org.apache.camel.component.mail.MailUtils		0.17266187
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailProducerConcurrentTest_testNoConcurrentProducers_13
+org.apache.camel.component.mail.DefaultJavaMailSender		0.82758623
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailBinding		0.28395063
+org.apache.camel.component.mail.MailConfiguration		0.23101266
+org.apache.camel.component.mail.MailEndpoint		0.1734694
+org.apache.camel.component.mail.MailUtils		0.17266187
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailProducerTest
+MailProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailProducerTest_testProducerBodyIsMimeMessage_4
+org.apache.camel.component.mail.DefaultJavaMailSender		0.82758623
+org.apache.camel.component.mail.MailProducer		0.7
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailConfiguration		0.19936709
+org.apache.camel.component.mail.MailEndpoint		0.10204082
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailProducerTest_testProduer_3q
+org.apache.camel.component.mail.DefaultJavaMailSender		0.82758623
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailBinding		0.28395063
+org.apache.camel.component.mail.MailConfiguration		0.23101266
+org.apache.camel.component.mail.MailEndpoint		0.1734694
+org.apache.camel.component.mail.MailUtils		0.17266187
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailProducerUnsupportedCharsetTest
+MailProducerUnsupportedCharsetTest		0.9756098
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailProducerUnsupportedCharsetTest_testSencUnsupportedCharsetDisabledOption_1u
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.DefaultJavaMailSender		0.86206895
+org.apache.camel.component.mail.MailProducer		0.76666665
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailEndpoint		0.5714286
+org.apache.camel.component.mail.MailConsumer		0.54497355
+org.apache.camel.component.mail.MailConfiguration		0.54113925
+org.apache.camel.component.mail.MailUtils		0.51079136
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailBinding		0.38271606
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailProducerUnsupportedCharsetTest_testSencUnsupportedCharset_i
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.DefaultJavaMailSender		0.86206895
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailEndpoint		0.5816327
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailConsumer		0.54761904
+org.apache.camel.component.mail.MailConfiguration		0.54113925
+org.apache.camel.component.mail.MailUtils		0.4676259
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailBinding		0.3888889
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailRecipientsPipeIssueTest
+MailRecipientsPipeIssueTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailRecipientsPipeIssueTest_testMultiRecipients_5l
+org.apache.camel.component.mail.DefaultJavaMailSender		0.86206895
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailBinding		0.27160493
+org.apache.camel.component.mail.MailConfiguration		0.24050634
+org.apache.camel.component.mail.MailEndpoint		0.1734694
+org.apache.camel.component.mail.MailUtils		0.17266187
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailRecipientsTest
+MailRecipientsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailRecipientsTest_testMultiRecipients_n
+org.apache.camel.component.mail.DefaultJavaMailSender		0.86206895
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailBinding		0.29218107
+org.apache.camel.component.mail.MailConfiguration		0.24050634
+org.apache.camel.component.mail.MailEndpoint		0.1734694
+org.apache.camel.component.mail.MailUtils		0.17266187
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailReplyToTest
+MailReplyToTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailReplyToTest_testMailReplyTo2_14
+org.apache.camel.component.mail.DefaultJavaMailSender		0.82758623
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailConsumer		0.51058203
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailBinding		0.34773663
+org.apache.camel.component.mail.MailEndpoint		0.33673468
+org.apache.camel.component.mail.MailConfiguration		0.31329113
+org.apache.camel.component.mail.MailUtils		0.17266187
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailReplyToTest_testMailReplyTo_4n
+org.apache.camel.component.mail.DefaultJavaMailSender		0.82758623
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailConsumer		0.51058203
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailBinding		0.34567901
+org.apache.camel.component.mail.MailEndpoint		0.33673468
+org.apache.camel.component.mail.MailConfiguration		0.306962
+org.apache.camel.component.mail.MailUtils		0.17266187
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailRouteTest
+MailRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailRouteTest_testMailSubjectWithUnicode_1q
+org.apache.camel.component.mail.DefaultJavaMailSender		0.79310346
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailConsumer		0.41269842
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailMessage		0.38157895
+org.apache.camel.component.mail.MailBinding		0.35596707
+org.apache.camel.component.mail.MailEndpoint		0.31632653
+org.apache.camel.component.mail.MailConfiguration		0.28481013
+org.apache.camel.component.mail.MailUtils		0.2086331
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailRouteTest_testSendAndReceiveMails_54
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.DefaultJavaMailSender		0.87931037
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailConsumer		0.52910054
+org.apache.camel.component.mail.MailConfiguration		0.48734176
+org.apache.camel.component.mail.MailComponent		0.45588234
+org.apache.camel.component.mail.MailEndpoint		0.42857143
+org.apache.camel.component.mail.MailBinding		0.39711934
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailMessage		0.38157895
+org.apache.camel.component.mail.MailUtils		0.30215827
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailSearchTermNotSpamTest
+MailSearchTermNotSpamTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailSearchTermNotSpamTest_testSearchTerm_67
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.MailConsumer		0.46296296
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailEndpoint		0.2244898
+org.apache.camel.component.mail.MailBinding		0.07201646
+org.apache.camel.component.mail.MailConfiguration		0.06962025
+org.apache.camel.component.mail.DefaultJavaMailSender		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailSearchTermTest
+MailSearchTermTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailSearchTermTest_testSearchTerm_2a
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.MailConsumer		0.50793654
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailEndpoint		0.24489796
+org.apache.camel.component.mail.MailConfiguration		0.08227848
+org.apache.camel.component.mail.MailBinding		0.07201646
+org.apache.camel.component.mail.DefaultJavaMailSender		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailSearchTermUriConfigBeanTest
+MailSearchTermUriConfigBeanTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailSearchTermUriConfigBeanTest_testSearchTerm_3x
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.MailConsumer		0.46031746
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailEndpoint		0.2244898
+org.apache.camel.component.mail.MailBinding		0.07201646
+org.apache.camel.component.mail.MailConfiguration		0.06962025
+org.apache.camel.component.mail.DefaultJavaMailSender		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailSearchTermUriConfigLast24HoursTest
+MailSearchTermUriConfigLast24HoursTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailSearchTermUriConfigLast24HoursTest_testSearchTerm_t
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.MailConsumer		0.46296296
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.NowSearchTerm		0.27586207
+org.apache.camel.component.mail.MailEndpoint		0.2244898
+org.apache.camel.component.mail.MailBinding		0.07201646
+org.apache.camel.component.mail.MailConfiguration		0.06962025
+org.apache.camel.component.mail.DefaultJavaMailSender		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailSearchTermUriConfigTest
+MailSearchTermUriConfigTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailSearchTermUriConfigTest_testSearchTerm_2
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.MailConsumer		0.46031746
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailEndpoint		0.2244898
+org.apache.camel.component.mail.MailBinding		0.07201646
+org.apache.camel.component.mail.MailConfiguration		0.06962025
+org.apache.camel.component.mail.DefaultJavaMailSender		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailShutdownCompleteAllTasksTest
+MailShutdownCompleteAllTasksTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailShutdownCompleteAllTasksTest_testShutdownCompleteAllTasks_39
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailConsumer		0.56878304
+org.apache.camel.component.mail.MailEndpoint		0.5
+org.apache.camel.component.mail.MailConfiguration		0.47468355
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.DefaultJavaMailSender		0.37931034
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailUtils		0.10071942
+org.apache.camel.component.mail.MailBinding		0.07201646
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailShutdownCompleteCurrentTaskOnlyTest
+MailShutdownCompleteCurrentTaskOnlyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailShutdownCompleteCurrentTaskOnlyTest_testShutdownCompleteCurrentTaskOnly_2d
+org.apache.camel.component.mail.MailConsumer		0.53968257
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailMessage		0.38157895
+org.apache.camel.component.mail.MailEndpoint		0.24489796
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConfiguration		0.088607594
+org.apache.camel.component.mail.MailBinding		0.07201646
+org.apache.camel.component.mail.DefaultJavaMailSender		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailSortTermTest
+MailSortTermTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailSortTermTest_testSortTerm_1m
+org.apache.camel.component.mail.MailSorter.SortTermWithDescending		1.0
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.MailConsumer		0.47883597
+org.apache.camel.component.mail.MailSorter		0.46835443
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailEndpoint		0.2244898
+org.apache.camel.component.mail.MailBinding		0.07201646
+org.apache.camel.component.mail.MailConfiguration		0.06962025
+org.apache.camel.component.mail.DefaultJavaMailSender		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailSortTermThreeTest
+MailSortTermThreeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailSortTermThreeTest_testSortTerm_1f
+org.apache.camel.component.mail.MailSorter.SortTermWithDescending		1.0
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.MailSorter		0.5316456
+org.apache.camel.component.mail.MailConsumer		0.45238096
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailEndpoint		0.2244898
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConfiguration		0.07594936
+org.apache.camel.component.mail.MailBinding		0.07201646
+org.apache.camel.component.mail.DefaultJavaMailSender		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailSortTermThreeUriConfigTest
+MailSortTermThreeUriConfigTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailSortTermThreeUriConfigTest_testSortTerm_30
+org.apache.camel.component.mail.MailSorter.SortTermWithDescending		1.0
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.MailSorter		0.5316456
+org.apache.camel.component.mail.MailConsumer		0.48677248
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailEndpoint		0.2244898
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConfiguration		0.07594936
+org.apache.camel.component.mail.MailBinding		0.07201646
+org.apache.camel.component.mail.DefaultJavaMailSender		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailSortTermTwoTest
+MailSortTermTwoTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailSortTermTwoTest_testSortTerm_f
+org.apache.camel.component.mail.MailSorter.SortTermWithDescending		1.0
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.MailSorter		0.5316456
+org.apache.camel.component.mail.MailConsumer		0.48677248
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailEndpoint		0.2244898
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConfiguration		0.07594936
+org.apache.camel.component.mail.MailBinding		0.07201646
+org.apache.camel.component.mail.DefaultJavaMailSender		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailSortTermTwoUriConfigTest
+MailSortTermTwoUriConfigTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailSortTermTwoUriConfigTest_testSortTerm_m
+org.apache.camel.component.mail.MailSorter.SortTermWithDescending		1.0
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.MailSorter		0.5316456
+org.apache.camel.component.mail.MailConsumer		0.48677248
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailEndpoint		0.2244898
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConfiguration		0.07594936
+org.apache.camel.component.mail.MailBinding		0.07201646
+org.apache.camel.component.mail.DefaultJavaMailSender		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailSortTermUriConfigTest
+MailSortTermUriConfigTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailSortTermUriConfigTest_testSortTerm_2p
+org.apache.camel.component.mail.MailSorter.SortTermWithDescending		1.0
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.MailConsumer		0.47883597
+org.apache.camel.component.mail.MailSorter		0.46835443
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailEndpoint		0.2244898
+org.apache.camel.component.mail.MailBinding		0.07201646
+org.apache.camel.component.mail.MailConfiguration		0.06962025
+org.apache.camel.component.mail.DefaultJavaMailSender		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailSorterTest
+MailSorterTest		0.9259259
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailSorterTest_testSortMessagesMulti_1z
+org.apache.camel.component.mail.MailSorter.SortTermWithDescending		1.0
+org.apache.camel.component.mail.MailSorter		0.87341774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailSorterTest_testSortMessagesReverse_4j
+org.apache.camel.component.mail.MailSorter.SortTermWithDescending		1.0
+org.apache.camel.component.mail.MailSorter		0.886076
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailSorterTest_testSortMessagesWithTie_c
+org.apache.camel.component.mail.MailSorter.SortTermWithDescending		1.0
+org.apache.camel.component.mail.MailSorter		0.9113924
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailSorterTest_testSortMessages_5c
+org.apache.camel.component.mail.MailSorter.SortTermWithDescending		1.0
+org.apache.camel.component.mail.MailSorter		0.8227848
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailSplitAttachmentsTest
+MailSplitAttachmentsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailSplitAttachmentsTest_testExtractAttachments_32
+org.apache.camel.component.mail.DefaultJavaMailSender		0.86206895
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.68421054
+org.apache.camel.component.mail.SplitAttachmentsExpression		0.6296296
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailConsumer		0.521164
+org.apache.camel.component.mail.MailBinding		0.4547325
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailEndpoint		0.33673468
+org.apache.camel.component.mail.MailConfiguration		0.32911393
+org.apache.camel.component.mail.MailUtils		0.17266187
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConverters		0.055555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailSplitAttachmentsTest_testSplitAttachments_45
+org.apache.camel.component.mail.DefaultJavaMailSender		0.86206895
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.68421054
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailConsumer		0.51058203
+org.apache.camel.component.mail.MailBinding		0.4547325
+org.apache.camel.component.mail.SplitAttachmentsExpression		0.4074074
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailEndpoint		0.33673468
+org.apache.camel.component.mail.MailConfiguration		0.32911393
+org.apache.camel.component.mail.MailUtils		0.17266187
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConverters		0.055555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailSubjectTest
+MailSubjectTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailSubjectTest_testMailSubject_5q
+org.apache.camel.component.mail.DefaultJavaMailSender		0.82758623
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailConsumer		0.37301588
+org.apache.camel.component.mail.MailBinding		0.3436214
+org.apache.camel.component.mail.MailEndpoint		0.31632653
+org.apache.camel.component.mail.MailConfiguration		0.2879747
+org.apache.camel.component.mail.MailUtils		0.17266187
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailTestHelper
+MailTestHelper		0.9285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailToMultipleEndpointsTest
+MailToMultipleEndpointsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailToMultipleEndpointsTest_testMultipleEndpoints_3
+org.apache.camel.component.mail.DefaultJavaMailSender		0.86206895
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailBinding		0.29012346
+org.apache.camel.component.mail.MailConfiguration		0.24050634
+org.apache.camel.component.mail.MailEndpoint		0.1734694
+org.apache.camel.component.mail.MailUtils		0.17266187
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailUsernameWithAtSignTest
+MailUsernameWithAtSignTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailUsernameWithAtSignTest_testMailUsingAtSignInUsername_37
+org.apache.camel.component.mail.DefaultJavaMailSender		0.82758623
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailConsumer		0.51058203
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailBinding		0.33744857
+org.apache.camel.component.mail.MailEndpoint		0.33673468
+org.apache.camel.component.mail.MailConfiguration		0.31329113
+org.apache.camel.component.mail.MailUtils		0.17266187
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailUsingCustomSessionTest
+MailUsingCustomSessionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailUsingCustomSessionTest_testEndpointConfigurationWithCustomSession_1d
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailConfiguration		0.20886075
+org.apache.camel.component.mail.MailEndpoint		0.13265306
+org.apache.camel.component.mail.MailUtils		0.1294964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailUsingCustomSessionTest_testSendAndReceiveMailsWithCustomSession_4a
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.DefaultJavaMailSender		0.7586207
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailConsumer		0.51058203
+org.apache.camel.component.mail.MailConfiguration		0.47468355
+org.apache.camel.component.mail.MailEndpoint		0.42857143
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailBinding		0.3436214
+org.apache.camel.component.mail.MailUtils		0.30215827
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailUsingHeadersTest
+MailUsingHeadersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailUsingHeadersTest_testMailUsingHeaders_8
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.DefaultJavaMailSender		0.82758623
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailComponent		0.5441176
+org.apache.camel.component.mail.MailConfiguration		0.42088607
+org.apache.camel.component.mail.MailUtils		0.30215827
+org.apache.camel.component.mail.MailBinding		0.2942387
+org.apache.camel.component.mail.MailEndpoint		0.26530612
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailUsingHeadersTest_testMailWithFromInEndpoint_6
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.DefaultJavaMailSender		0.82758623
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailConfiguration		0.4335443
+org.apache.camel.component.mail.MailUtils		0.30215827
+org.apache.camel.component.mail.MailBinding		0.2777778
+org.apache.camel.component.mail.MailEndpoint		0.26530612
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailUsingOwnComponentTest
+MailUsingOwnComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MailUsingOwnComponentTest_testUsingOwnMailComponent_5j
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.DefaultJavaMailSender		0.86206895
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailComponent		0.45588234
+org.apache.camel.component.mail.MailConfiguration		0.3386076
+org.apache.camel.component.mail.MailBinding		0.28395063
+org.apache.camel.component.mail.MailEndpoint		0.26530612
+org.apache.camel.component.mail.MailUtils		0.17266187
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MimeMessageConsumeTest
+MimeMessageConsumeTest		0.9818182
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MimeMessageConsumeTest_testSendAndReceiveMails_2i
+org.apache.camel.component.mail.DefaultJavaMailSender		0.8448276
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailBinding		0.56378603
+org.apache.camel.component.mail.MailConsumer		0.52910054
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailMessage		0.38157895
+org.apache.camel.component.mail.MailUtils		0.35971224
+org.apache.camel.component.mail.MailEndpoint		0.33673468
+org.apache.camel.component.mail.MailConfiguration		0.32594937
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConverters		0.08080808
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MimeMultipartAlternativeTest
+MimeMultipartAlternativeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MimeMultipartAlternativeTest_testMultipartEmailWithInlineAttachments_0
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.DefaultJavaMailSender		0.86206895
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.68421054
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailBinding		0.5349794
+org.apache.camel.component.mail.MailConfiguration		0.5253165
+org.apache.camel.component.mail.MailConsumer		0.51058203
+org.apache.camel.component.mail.MailEndpoint		0.42857143
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailUtils		0.30215827
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConverters		0.055555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MimeMultipartAlternativeTest_testMultipartEmailWithRegularAttachments_31
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.DefaultJavaMailSender		0.86206895
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.68421054
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailBinding		0.5493827
+org.apache.camel.component.mail.MailConfiguration		0.5
+org.apache.camel.component.mail.MailEndpoint		0.40816328
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailConsumer		0.37301588
+org.apache.camel.component.mail.MailUtils		0.30215827
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConverters		0.055555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MimeMultipartAlternativeWithContentTypeTest
+MimeMultipartAlternativeWithContentTypeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MimeMultipartAlternativeWithContentTypeTest_testMultipartEmailContentType_41
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.DefaultJavaMailSender		0.86206895
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailConfiguration		0.51265824
+org.apache.camel.component.mail.MailConsumer		0.51058203
+org.apache.camel.component.mail.MailUtils		0.48920864
+org.apache.camel.component.mail.MailBinding		0.44032922
+org.apache.camel.component.mail.MailEndpoint		0.42857143
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConverters		0.055555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MimeMultipartAlternativeWithLongerFilenameTest
+MimeMultipartAlternativeWithLongerFilenameTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MimeMultipartAlternativeWithLongerFilenameTest_testMultipartEmailWithInlineAttachments_27
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.DefaultJavaMailSender		0.86206895
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.68421054
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailBinding		0.5349794
+org.apache.camel.component.mail.MailConfiguration		0.5253165
+org.apache.camel.component.mail.MailConsumer		0.51058203
+org.apache.camel.component.mail.MailEndpoint		0.42857143
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailUtils		0.30215827
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConverters		0.055555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MimeMultipartAlternativeWithLongerFilenameTest_testMultipartEmailWithRegularAttachments_65
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.DefaultJavaMailSender		0.86206895
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.68421054
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailComponent		0.5735294
+org.apache.camel.component.mail.MailBinding		0.5493827
+org.apache.camel.component.mail.MailConfiguration		0.5253165
+org.apache.camel.component.mail.MailConsumer		0.51058203
+org.apache.camel.component.mail.MailEndpoint		0.42857143
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailUtils		0.30215827
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConverters		0.055555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MultipleDestinationConsumeTest
+MultipleDestinationConsumeTest		0.9787234
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/MultipleDestinationConsumeTest_testSendAndReceiveMails_1s
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailConsumer		0.37301588
+org.apache.camel.component.mail.MailEndpoint		0.21428572
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailBinding		0.07201646
+org.apache.camel.component.mail.DefaultJavaMailSender		0.06896552
+org.apache.camel.component.mail.MailConfiguration		0.06329114
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/NestedMimeMessageConsumeTest
+NestedMimeMessageConsumeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/NestedMimeMessageConsumeTest_testNestedMultipart_3d
+org.apache.camel.component.mail.DefaultJavaMailSender		0.8965517
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailBinding		0.5720165
+org.apache.camel.component.mail.MailConsumer		0.52910054
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailMessage		0.38157895
+org.apache.camel.component.mail.MailUtils		0.35971224
+org.apache.camel.component.mail.MailEndpoint		0.33673468
+org.apache.camel.component.mail.MailConfiguration		0.31962025
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConverters		0.08080808
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/RawMailMessageTest
+RawMailMessageTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/RawMailMessageTest_testGetRawJavaMailMessage_4r
+org.apache.camel.component.mail.MailHeaderFilterStrategy		1.0
+org.apache.camel.component.mail.DefaultJavaMailSender		0.82758623
+org.apache.camel.component.mail.MailProducer		0.73333335
+org.apache.camel.component.mail.MailMessage		0.67105263
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.MailComponent		0.5441176
+org.apache.camel.component.mail.MailConsumer		0.51058203
+org.apache.camel.component.mail.MailConfiguration		0.4841772
+org.apache.camel.component.mail.MailEndpoint		0.42857143
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailBinding		0.3580247
+org.apache.camel.component.mail.MailUtils		0.30215827
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/RawMailMessageTest_testNormalMessageConsumerImap_35
+org.apache.camel.component.mail.MailMessage		0.7368421
+org.apache.camel.component.mail.MailConsumer		0.52380955
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailEndpoint		0.23469388
+org.apache.camel.component.mail.MailBinding		0.1563786
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConfiguration		0.088607594
+org.apache.camel.component.mail.DefaultJavaMailSender		0.06896552
+org.apache.camel.component.mail.MailConverters		0.055555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/RawMailMessageTest_testNormalMessageConsumerPop3_4e
+org.apache.camel.component.mail.MailMessage		0.7368421
+org.apache.camel.component.mail.MailConsumer		0.53174603
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailEndpoint		0.23469388
+org.apache.camel.component.mail.MailBinding		0.1563786
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConfiguration		0.088607594
+org.apache.camel.component.mail.DefaultJavaMailSender		0.06896552
+org.apache.camel.component.mail.MailConverters		0.055555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/RawMailMessageTest_testRawMessageConsumerImap_1g
+org.apache.camel.component.mail.MailMessage		0.55263156
+org.apache.camel.component.mail.MailConsumer		0.5185185
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailEndpoint		0.23469388
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConfiguration		0.088607594
+org.apache.camel.component.mail.DefaultJavaMailSender		0.06896552
+org.apache.camel.component.mail.MailBinding		0.047325104
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/RawMailMessageTest_testRawMessageConsumerPop3_1v
+org.apache.camel.component.mail.MailMessage		0.55263156
+org.apache.camel.component.mail.MailConsumer		0.5185185
+org.apache.camel.component.mail.DefaultMailUidGenerator		0.3902439
+org.apache.camel.component.mail.MailEndpoint		0.23469388
+org.apache.camel.component.mail.SearchTermBuilder		0.13186814
+org.apache.camel.component.mail.MailConfiguration		0.088607594
+org.apache.camel.component.mail.DefaultJavaMailSender		0.06896552
+org.apache.camel.component.mail.MailBinding		0.047325104
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/SearchTermBuilderTest
+SearchTermBuilderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/SearchTermBuilderTest_testComparison_1y
+org.apache.camel.component.mail.SearchTermBuilder.Comparison		0.875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/SearchTermBuilderTest_testSearchTermBuilderFromAndSubject_1t
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.SearchTermBuilder		0.24175824
+org.apache.camel.component.mail.DefaultJavaMailSender		0.18965517
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/SearchTermBuilderTest_testSearchTermBuilderFromOrSubject_9
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.SearchTermBuilder		0.24175824
+org.apache.camel.component.mail.DefaultJavaMailSender		0.18965517
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/SearchTermBuilderTest_testSearchTermSentLast24Hours_1h
+org.apache.camel.component.mail.DefaultAuthenticator		0.6
+org.apache.camel.component.mail.NowSearchTerm		0.3448276
+org.apache.camel.component.mail.SearchTermBuilder.Comparison		0.25
+org.apache.camel.component.mail.SearchTermBuilder		0.24175824
+org.apache.camel.component.mail.DefaultJavaMailSender		0.18965517
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/security/SslContextParametersMailRouteTest
+SslContextParametersMailRouteTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/security/test-SslContextParametersMailRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-AdditionalMailPropertiesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-DetermineContentTypeIssueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-FromFileSendMailTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-InvalidConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailAttachmentDuplicateNamesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailAttachmentRedeliveryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailAttachmentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailAttachmentsUmlautIssueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailBatchConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailCollectionHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailCommitOnCompletionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailComponentRecipientSetTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailConsumerIdleMessageTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailConsumerUnsupportedCharsetTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailContentTypeResolverTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailContentTypeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailConvertersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailCopyToTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailCustomContentTypeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailCustomMailSenderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailCustomMailSenderTest_MySender
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailDefaultDelayForMailConsumeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailDisconnectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailDoNotDeleteIfProcessFailsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailEndpointTest_MyMailBinding
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailEndpointTlsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailFetchSizeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailFetchSizeZeroTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailHeaderOverrulePreConfigurationRecipientsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailHtmlAttachmentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailIdempotentRepositoryDuplicateNotRemoveTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailIdempotentRepositoryDuplicateTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailIdempotentRepositoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailMaxMessagesPerPollTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailMessageTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailMultipleRecipientsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailMultipleRecipientsUsingHeadersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailNameAndEmailInRecipientTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailNoRecipientsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailPollEnrichNoMailTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailPollEnrichTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailPostProcessActionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailPostProcessActionTest_TestPostProcessAction
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailProcessOnlyUnseenMessagesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailProducerConcurrentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailProducerUnsupportedCharsetTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailRecipientsPipeIssueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailRecipientsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailReplyToTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailSearchTermNotSpamTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailSearchTermTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailSearchTermUriConfigBeanTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailSearchTermUriConfigLast24HoursTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailSearchTermUriConfigTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailShutdownCompleteAllTasksTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailShutdownCompleteCurrentTaskOnlyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailSortTermTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailSortTermThreeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailSortTermThreeUriConfigTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailSortTermTwoTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailSortTermTwoUriConfigTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailSortTermUriConfigTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailSorterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailSplitAttachmentsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailSubjectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailTestHelper
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailToMultipleEndpointsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailUsernameWithAtSignTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailUsingCustomSessionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailUsingHeadersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MailUsingOwnComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MimeMessageConsumeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MimeMultipartAlternativeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MimeMultipartAlternativeWithContentTypeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MimeMultipartAlternativeWithLongerFilenameTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-MultipleDestinationConsumeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-NestedMimeMessageConsumeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-RawMailMessageTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/component/mail/test-SearchTermBuilderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/dataformat/mime/multipart/MimeMultipartDataFormatTest
+MimeMultipartDataFormatTest		0.9169675
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/dataformat/mime/multipart/MimeMultipartDataFormatTest_marhsalOnlyMixed_20
+marhsalOnlyMixed
+org.apache.camel.dataformat.mime.multipart.MimeMultipartDataFormat		0.30331755
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/dataformat/mime/multipart/MimeMultipartDataFormatTest_marhsalOnlyRelated_4s
+marhsalOnlyRelated
+org.apache.camel.dataformat.mime.multipart.MimeMultipartDataFormat		0.2890995
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/dataformat/mime/multipart/MimeMultipartDataFormatTest_marhsalUnmarshalInlineHeaders_5
+marhsalUnmarshalInlineHeaders
+org.apache.camel.dataformat.mime.multipart.MimeMultipartDataFormat		0.578199
+org.apache.camel.component.mail.MailConverters		0.02020202
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/dataformat/mime/multipart/MimeMultipartDataFormatTest_roundtripWithBinaryAttachmentsAndBinaryContent_3r
+roundtripWithBinaryAttachmentsAndBinaryContent
+org.apache.camel.dataformat.mime.multipart.MimeMultipartDataFormat		0.6255924
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/dataformat/mime/multipart/MimeMultipartDataFormatTest_roundtripWithBinaryAttachments_2v
+roundtripWithBinaryAttachments
+org.apache.camel.dataformat.mime.multipart.MimeMultipartDataFormat		0.62085307
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/dataformat/mime/multipart/MimeMultipartDataFormatTest_roundtripWithTextAttachmentsAndBinaryContent_3n
+roundtripWithTextAttachmentsAndBinaryContent
+org.apache.camel.dataformat.mime.multipart.MimeMultipartDataFormat		0.6350711
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/dataformat/mime/multipart/MimeMultipartDataFormatTest_roundtripWithTextAttachmentsHeadersInline_2y
+roundtripWithTextAttachmentsHeadersInline
+org.apache.camel.dataformat.mime.multipart.MimeMultipartDataFormat		0.521327
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/dataformat/mime/multipart/MimeMultipartDataFormatTest_roundtripWithTextAttachments_3b
+roundtripWithTextAttachments
+org.apache.camel.dataformat.mime.multipart.MimeMultipartDataFormat		0.6540284
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/dataformat/mime/multipart/MimeMultipartDataFormatTest_roundtripWithoutAttachmentsAndContentType_46
+roundtripWithoutAttachmentsAndContentType
+org.apache.camel.dataformat.mime.multipart.MimeMultipartDataFormat		0.09478673
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/dataformat/mime/multipart/MimeMultipartDataFormatTest_roundtripWithoutAttachmentsAndInvalidContentType_61
+roundtripWithoutAttachmentsAndInvalidContentType
+org.apache.camel.dataformat.mime.multipart.MimeMultipartDataFormat		0.0900474
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/dataformat/mime/multipart/MimeMultipartDataFormatTest_roundtripWithoutAttachmentsToMultipart_42
+roundtripWithoutAttachmentsToMultipart
+org.apache.camel.dataformat.mime.multipart.MimeMultipartDataFormat		0.47867298
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/dataformat/mime/multipart/MimeMultipartDataFormatTest_roundtripWithoutAttachments_j
+roundtripWithoutAttachments
+org.apache.camel.dataformat.mime.multipart.MimeMultipartDataFormat		0.07582939
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/dataformat/mime/multipart/MimeMultipartDataFormatTest_unmarshalInlineHeadersNonMimeBodyStream_y
+unmarshalInlineHeadersNonMimeBodyStream
+org.apache.camel.dataformat.mime.multipart.MimeMultipartDataFormat		0.1563981
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/dataformat/mime/multipart/MimeMultipartDataFormatTest_unmarshalInlineHeadersNonMimeBody_5u
+unmarshalInlineHeadersNonMimeBody
+org.apache.camel.dataformat.mime.multipart.MimeMultipartDataFormat		0.1563981
+org.apache.camel.component.mail.MailConverters		0.02020202
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/dataformat/mime/multipart/MimeMultipartDataFormatTest_unmarshalNonMimeBody_2l
+unmarshalNonMimeBody
+org.apache.camel.dataformat.mime.multipart.MimeMultipartDataFormat		0.0521327
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/dataformat/mime/multipart/MimeMultipartDataFormatTest_unmarshalRelated_w
+unmarshalRelated
+org.apache.camel.dataformat.mime.multipart.MimeMultipartDataFormat		0.2890995
+org.apache.camel.component.mail.MailConverters		0.02020202
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/dataformat/mime/multipart/MimeMultipartDataFormatTest_unmarshalWithoutId_1l
+unmarshalWithoutId
+org.apache.camel.dataformat.mime.multipart.MimeMultipartDataFormat		0.2890995
+org.apache.camel.component.mail.MailConverters		0.02020202
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mail/target/site/clover/org/apache/camel/dataformat/mime/multipart/test-MimeMultipartDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

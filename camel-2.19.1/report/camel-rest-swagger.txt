@@ -1,0 +1,187 @@
+./components/camel-rest-swagger/target/site/clover/org/apache/camel
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerComponentTest
+RestSwaggerComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerComponentTest_shouldBeAddingPets_15
+shouldBeAddingPets
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerComponentTest_shouldBeAddingPets_h
+shouldBeAddingPets
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerComponentTest_shouldBeAddingPets_q
+shouldBeAddingPets
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerComponentTest_shouldBeAddingPets_t
+shouldBeAddingPets
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerComponentTest_shouldBeAddingPets_v
+shouldBeAddingPets
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerComponentTest_shouldBeAddingPets_y
+shouldBeAddingPets
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerComponentTest_shouldBeGettingPetsById_10
+shouldBeGettingPetsById
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerComponentTest_shouldBeGettingPetsById_12
+shouldBeGettingPetsById
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerComponentTest_shouldBeGettingPetsById_13
+shouldBeGettingPetsById
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerComponentTest_shouldBeGettingPetsById_9
+shouldBeGettingPetsById
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerComponentTest_shouldBeGettingPetsById_c
+shouldBeGettingPetsById
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerComponentTest_shouldBeGettingPetsById_z
+shouldBeGettingPetsById
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerComponentTest_shouldBeGettingPetsByStatus_11
+shouldBeGettingPetsByStatus
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerComponentTest_shouldBeGettingPetsByStatus_14
+shouldBeGettingPetsByStatus
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerComponentTest_shouldBeGettingPetsByStatus_6
+shouldBeGettingPetsByStatus
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerComponentTest_shouldBeGettingPetsByStatus_f
+shouldBeGettingPetsByStatus
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerComponentTest_shouldBeGettingPetsByStatus_j
+shouldBeGettingPetsByStatus
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerComponentTest_shouldBeGettingPetsByStatus_x
+shouldBeGettingPetsByStatus
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerEndpointTest
+RestSwaggerEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerEndpointTest_shouldComplainForUnknownOperations_w
+shouldComplainForUnknownOperations
+org.apache.camel.component.rest.swagger.RestSwaggerComponent		0.12903225
+org.apache.camel.component.rest.swagger.RestSwaggerEndpoint		0.10358566
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerEndpointTest_shouldCreateProducers_i
+shouldCreateProducers
+org.apache.camel.component.rest.swagger.RestSwaggerHelper		0.54545456
+org.apache.camel.component.rest.swagger.RestSwaggerComponent		0.516129
+org.apache.camel.component.rest.swagger.RestSwaggerEndpoint		0.3625498
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerEndpointTest_shouldCreateQueryParameterExpressions_1
+shouldCreateQueryParameterExpressions
+org.apache.camel.component.rest.swagger.RestSwaggerEndpoint		0.05179283
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerEndpointTest_shouldDetermineBasePath_4
+shouldDetermineBasePath
+org.apache.camel.component.rest.swagger.RestSwaggerComponent		0.22580644
+org.apache.camel.component.rest.swagger.RestSwaggerEndpoint		0.14741036
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerEndpointTest_shouldDetermineEndpointParameters_5
+shouldDetermineEndpointParameters
+org.apache.camel.component.rest.swagger.RestSwaggerHelper		0.72727275
+org.apache.camel.component.rest.swagger.RestSwaggerComponent		0.48387095
+org.apache.camel.component.rest.swagger.RestSwaggerEndpoint		0.30677292
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerEndpointTest_shouldDetermineHostFromRestConfiguration_a
+shouldDetermineHostFromRestConfiguration
+org.apache.camel.component.rest.swagger.RestSwaggerEndpoint		0.07171315
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerEndpointTest_shouldDetermineHostFromSpecification_k
+shouldDetermineHostFromSpecification
+org.apache.camel.component.rest.swagger.RestSwaggerComponent		0.16129032
+org.apache.camel.component.rest.swagger.RestSwaggerEndpoint		0.119521916
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerEndpointTest_shouldDetermineOptions_o
+shouldDetermineOptions
+org.apache.camel.component.rest.swagger.RestSwaggerEndpoint		0.07171315
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerEndpointTest_shouldHonourComponentSpecificationPathProperty_u
+shouldHonourComponentSpecificationPathProperty
+org.apache.camel.component.rest.swagger.RestSwaggerComponent		0.16129032
+org.apache.camel.component.rest.swagger.RestSwaggerEndpoint		0.035856575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerEndpointTest_shouldHonourEndpointUriPathSpecificationPathProperty_g
+shouldHonourEndpointUriPathSpecificationPathProperty
+org.apache.camel.component.rest.swagger.RestSwaggerComponent		0.16129032
+org.apache.camel.component.rest.swagger.RestSwaggerEndpoint		0.035856575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerEndpointTest_shouldHonourHostPrecedence_n
+shouldHonourHostPrecedence
+org.apache.camel.component.rest.swagger.RestSwaggerHelper		0.54545456
+org.apache.camel.component.rest.swagger.RestSwaggerEndpoint		0.2988048
+org.apache.camel.component.rest.swagger.RestSwaggerComponent		0.22580644
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerEndpointTest_shouldLoadSwaggerSpecifications_p
+shouldLoadSwaggerSpecifications
+org.apache.camel.component.rest.swagger.RestSwaggerEndpoint		0.03187251
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerEndpointTest_shouldPickBestScheme_7
+shouldPickBestScheme
+org.apache.camel.component.rest.swagger.RestSwaggerEndpoint		0.06374502
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerEndpointTest_shouldRaiseExceptionsForMissingSpecifications_8
+shouldRaiseExceptionsForMissingSpecifications
+org.apache.camel.component.rest.swagger.RestSwaggerEndpoint		0.03984064
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerEndpointTest_shouldUseDefaultSpecificationUriEvenIfHashIsPresent_b
+shouldUseDefaultSpecificationUriEvenIfHashIsPresent
+org.apache.camel.component.rest.swagger.RestSwaggerComponent		0.09677419
+org.apache.camel.component.rest.swagger.RestSwaggerEndpoint		0.035856575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerEndpointTest_shouldUseDefaultSpecificationUri_e
+shouldUseDefaultSpecificationUri
+org.apache.camel.component.rest.swagger.RestSwaggerComponent		0.09677419
+org.apache.camel.component.rest.swagger.RestSwaggerEndpoint		0.035856575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerEndpointUriParsingTest
+RestSwaggerEndpointUriParsingTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerEndpointUriParsingTest_shouldParseEndpointUri_0
+shouldParseEndpointUri
+org.apache.camel.component.rest.swagger.RestSwaggerComponent		0.09677419
+org.apache.camel.component.rest.swagger.RestSwaggerEndpoint		0.043824703
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerEndpointUriParsingTest_shouldParseEndpointUri_d
+shouldParseEndpointUri
+org.apache.camel.component.rest.swagger.RestSwaggerComponent		0.09677419
+org.apache.camel.component.rest.swagger.RestSwaggerEndpoint		0.043824703
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerEndpointUriParsingTest_shouldParseEndpointUri_s
+shouldParseEndpointUri
+org.apache.camel.component.rest.swagger.RestSwaggerComponent		0.09677419
+org.apache.camel.component.rest.swagger.RestSwaggerEndpoint		0.043824703
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerHelperTest
+RestSwaggerHelperTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerHelperTest_emptyHostParamsAreNotAllowed_r
+emptyHostParamsAreNotAllowed
+org.apache.camel.component.rest.swagger.RestSwaggerHelper		0.18181819
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerHelperTest_nonUriHostParametersAreNotAllowed_2
+nonUriHostParametersAreNotAllowed
+org.apache.camel.component.rest.swagger.RestSwaggerHelper		0.54545456
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerHelperTest_nullHostParamsAreNotAllowed_m
+nullHostParamsAreNotAllowed
+org.apache.camel.component.rest.swagger.RestSwaggerHelper		0.18181819
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerHelperTest_shouldNiceify_3
+shouldNiceify
+org.apache.camel.component.rest.swagger.RestSwaggerHelper		0.54545456
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/RestSwaggerHelperTest_shouldReturnUriParameter_l
+shouldReturnUriParameter
+org.apache.camel.component.rest.swagger.RestSwaggerHelper		0.54545456
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/test-RestSwaggerComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/test-RestSwaggerEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/test-RestSwaggerEndpointUriParsingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rest-swagger/target/site/clover/org/apache/camel/component/rest/swagger/test-RestSwaggerHelperTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

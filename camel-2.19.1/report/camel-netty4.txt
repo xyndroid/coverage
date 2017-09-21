@@ -1,0 +1,2417 @@
+./components/camel-netty4/target/site/clover/org/apache/camel
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/BaseNettyTest
+BaseNettyTest		0.89830506
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/DatagramPacketByteArrayCodecTest
+DatagramPacketByteArrayCodecTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/DatagramPacketByteArrayCodecTest_testDecoder_1x
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		1.0
+org.apache.camel.component.netty4.codec.DelegateByteArrayDecoder		1.0
+org.apache.camel.component.netty4.codec.DatagramPacketByteArrayDecoder		0.875
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.06557377
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/DatagramPacketByteArrayCodecTest_testEncoder_1s
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		1.0
+org.apache.camel.component.netty4.codec.DelegateByteArrayEncoder		1.0
+org.apache.camel.component.netty4.codec.DatagramPacketByteArrayEncoder		0.875
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.06557377
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/LogCaptureTest
+LogCaptureTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/LogCaptureTest_testCapture_5k
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/MultipleCodecsSpringTest
+MultipleCodecsSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/MultipleCodecsSpringTest_canSupplyMultipleCodecsToEndpointPipeline_4
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyCamelState		0.42857143
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.NettyProducer		0.36477986
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.29411766
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.2792793
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.26
+org.apache.camel.component.netty4.NettyPayloadHelper		0.23529412
+org.apache.camel.component.netty4.NettyHelper		0.21276596
+org.apache.camel.component.netty4.NettyEndpoint		0.2
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyConfiguration		0.09090909
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.06472492
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.013513514
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/MultipleCodecsTest
+MultipleCodecsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/MultipleCodecsTest_canSupplyMultipleCodecsToEndpointPipeline_62
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyCamelState		0.42857143
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.NettyProducer		0.3710692
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.2792793
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.26
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.24509804
+org.apache.camel.component.netty4.NettyPayloadHelper		0.23529412
+org.apache.camel.component.netty4.NettyHelper		0.21276596
+org.apache.camel.component.netty4.NettyEndpoint		0.2
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyConfiguration		0.09090909
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.06472492
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.0472973
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/Netty2978IssueTest
+Netty2978IssueTest		0.0
+Netty2978IssueTest.CamelClient		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyBacklogTest
+NettyBacklogTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyBacklogTest_testTCPObjectInOutWithNettyConsumer_68
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.49019608
+org.apache.camel.component.netty4.NettyProducer		0.4528302
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyConfiguration		0.43356642
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.3783784
+org.apache.camel.component.netty4.NettyEndpoint		0.33333334
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyComponent		0.30666667
+org.apache.camel.component.netty4.NettyHelper		0.21276596
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.16393442
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.121212125
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.110032365
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyBacklogTest_testTCPStringInOutWithNettyConsumer2Times_39
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.6111111
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.57575756
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.5
+org.apache.camel.component.netty4.NettyProducer		0.4528302
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyConfiguration		0.43356642
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.39864865
+org.apache.camel.component.netty4.NettyEndpoint		0.33333334
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyComponent		0.30666667
+org.apache.camel.component.netty4.NettyHelper		0.21276596
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.16393442
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.110032365
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyBacklogTest_testTCPStringInOutWithNettyConsumer_3x
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.5
+org.apache.camel.component.netty4.NettyProducer		0.4528302
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyConfiguration		0.43356642
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.3783784
+org.apache.camel.component.netty4.NettyEndpoint		0.33333334
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyComponent		0.30666667
+org.apache.camel.component.netty4.NettyHelper		0.21276596
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.16393442
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.121212125
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.110032365
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyComponentWithConfigurationTest
+NettyComponentWithConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyComponentWithConfigurationTest_testNettyComponentUdpWithConfiguration_3v
+org.apache.camel.component.netty4.NettyComponent		0.5733333
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.NettyConfiguration		0.34615386
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.19672132
+org.apache.camel.component.netty4.codec.DatagramPacketObjectEncoder		0.18181819
+org.apache.camel.component.netty4.NettyEndpoint		0.06666667
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.03236246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyComponentWithConfigurationTest_testNettyComponentWithConfiguration_50
+org.apache.camel.component.netty4.NettyComponent		0.5733333
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.NettyConfiguration		0.3146853
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.13114753
+org.apache.camel.component.netty4.NettyEndpoint		0.06666667
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.058252428
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyConcurrentTest
+NettyConcurrentTest		0.9459459
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyConcurrentTest_testNoConcurrentProducers_26
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.57575756
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.5
+org.apache.camel.component.netty4.NettyProducer		0.4528302
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyConfiguration		0.42657343
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.39864865
+org.apache.camel.component.netty4.NettyEndpoint		0.33333334
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyComponent		0.30666667
+org.apache.camel.component.netty4.NettyHelper		0.21276596
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.16393442
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.110032365
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyConcurrentTest_testSmallConcurrentProducers_27
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.6111111
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.57575756
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.5
+org.apache.camel.component.netty4.NettyProducer		0.4528302
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyConfiguration		0.42657343
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.39864865
+org.apache.camel.component.netty4.NettyEndpoint		0.33333334
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyComponent		0.30666667
+org.apache.camel.component.netty4.NettyHelper		0.21276596
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.16393442
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.110032365
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyConsumerClientModeReconnectTest
+NettyConsumerClientModeReconnectTest		0.96666664
+NettyConsumerClientModeReconnectTest.MyServer		1.0
+NettyConsumerClientModeReconnectTest.ServerHandler		0.6666667
+NettyConsumerClientModeReconnectTest.ServerInitializer		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyConsumerClientModeReconnectTest_testNettyRouteServerNotStarted_5x
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		1.0
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.57575756
+org.apache.camel.component.netty4.ClientModeTCPNettyServerBootstrapFactory		0.5575221
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.50980395
+org.apache.camel.component.netty4.NettyConsumer		0.5
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.NettyHelper		0.44680852
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.4144144
+org.apache.camel.component.netty4.NettyEndpoint		0.2
+org.apache.camel.component.netty4.NettyPayloadHelper		0.19607843
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.103559874
+org.apache.camel.component.netty4.NettyConfiguration		0.09090909
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyConsumerClientModeTest
+NettyConsumerClientModeTest		0.95652175
+NettyConsumerClientModeTest.MyServer		1.0
+NettyConsumerClientModeTest.ServerHandler		0.33333334
+NettyConsumerClientModeTest.ServerInitializer		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyConsumerClientModeTest_testNettyRoute_3b
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		1.0
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.57575756
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.54901963
+org.apache.camel.component.netty4.NettyConsumer		0.5
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.NettyHelper		0.44680852
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.4144144
+org.apache.camel.component.netty4.ClientModeTCPNettyServerBootstrapFactory		0.39823008
+org.apache.camel.component.netty4.NettyConsumerExceptionHandler		0.375
+org.apache.camel.component.netty4.NettyEndpoint		0.2
+org.apache.camel.component.netty4.NettyPayloadHelper		0.19607843
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.097087376
+org.apache.camel.component.netty4.NettyConfiguration		0.09090909
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyConverterTest
+NettyConverterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyConverterTest_testConversionWithExchange_48
+org.apache.camel.component.netty4.NettyConverter		0.28846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyConverterTest_testConversionWithoutExchange_63
+org.apache.camel.component.netty4.NettyConverter		0.28846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyCustomCodecTest
+NettyCustomCodecTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyCustomCodecTest_testCustomCodec_r
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.6111111
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.NettyProducer		0.5031447
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.NettyHelper		0.34042552
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyEndpoint		0.26666668
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.24509804
+org.apache.camel.component.netty4.NettyPayloadHelper		0.23529412
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.18243243
+org.apache.camel.component.netty4.NettyConfiguration		0.13986014
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.0776699
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyCustomPipelineFactoryAsynchTest
+NettyCustomPipelineFactoryAsynchTest		1.0
+NettyCustomPipelineFactoryAsynchTest.TestClientChannelPipelineFactory		1.0
+NettyCustomPipelineFactoryAsynchTest.TestServerChannelPipelineFactory		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyCustomPipelineFactoryAsynchTest_testCustomClientPipelineFactory_24
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.5
+org.apache.camel.component.netty4.NettyProducer		0.46226415
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyHelper		0.44680852
+org.apache.camel.component.netty4.NettyConfiguration		0.44055945
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.38513514
+org.apache.camel.component.netty4.NettyEndpoint		0.30666667
+org.apache.camel.component.netty4.NettyComponent		0.28
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.22950819
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.121212125
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.110032365
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyCustomPipelineFactorySynchTest
+NettyCustomPipelineFactorySynchTest		1.0
+NettyCustomPipelineFactorySynchTest.TestClientChannelPipelineFactory		1.0
+NettyCustomPipelineFactorySynchTest.TestServerChannelPipelineFactory		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyCustomPipelineFactorySynchTest_testCustomClientPipelineFactory_4y
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.5
+org.apache.camel.component.netty4.NettyProducer		0.46226415
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyConfiguration		0.44755244
+org.apache.camel.component.netty4.NettyHelper		0.44680852
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.38513514
+org.apache.camel.component.netty4.NettyEndpoint		0.30666667
+org.apache.camel.component.netty4.NettyComponent		0.28
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.22950819
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.121212125
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.110032365
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyDisconnectTest
+NettyDisconnectTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyDisconnectTest_testCloseSessionWhenComplete_1t
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.6111111
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.5
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.49019608
+org.apache.camel.component.netty4.NettyProducer		0.4591195
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.NettyHelper		0.34042552
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyEndpoint		0.26666668
+org.apache.camel.component.netty4.NettyConfiguration		0.13986014
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.121212125
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.084142394
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyFileTcpTest
+NettyFileTcpTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyFileTcpTest_testMinaRoute_2w
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyHelper		0.44680852
+org.apache.camel.component.netty4.NettyCamelState		0.42857143
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.NettyProducer		0.37421384
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.33
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.29411766
+org.apache.camel.component.netty4.NettyPayloadHelper		0.23529412
+org.apache.camel.component.netty4.NettyEndpoint		0.2
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyConfiguration		0.10489511
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.06472492
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.0472973
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyGlobalSSLContextParametersTest
+NettyGlobalSSLContextParametersTest		0.9411765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyGlobalSSLContextParametersTest_testSSLInOutWithNettyConsumer_1l
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.NettyServerBossPoolBuilder		0.7307692
+org.apache.camel.component.netty4.NettyConsumer		0.64285713
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.57575756
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.56
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.5585586
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.5555556
+org.apache.camel.component.netty4.NettyEndpoint		0.53333336
+org.apache.camel.component.netty4.NettyComponent		0.52
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.5
+org.apache.camel.component.netty4.NettyProducer		0.4591195
+org.apache.camel.component.netty4.NettyConfiguration		0.45454547
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.39864865
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.39285713
+org.apache.camel.component.netty4.NettyHelper		0.21276596
+org.apache.camel.component.netty4.NettyConsumerExceptionHandler		0.1875
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.17475729
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.16393442
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyInOutCloseChannelWhenCompleteTest
+NettyInOutCloseChannelWhenCompleteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyInOutCloseChannelWhenCompleteTest_testCloseSessionWhenComplete_61
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.5555556
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.49019608
+org.apache.camel.component.netty4.NettyProducer		0.4528302
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.39864865
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyEndpoint		0.26666668
+org.apache.camel.component.netty4.NettyHelper		0.21276596
+org.apache.camel.component.netty4.NettyConfiguration		0.13986014
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.121212125
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.084142394
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyInOutFromSedaTest
+NettyInOutFromSedaTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyInOutFromSedaTest_testInOutIssue_6g
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.57575756
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.50980395
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyHelper		0.44680852
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.4054054
+org.apache.camel.component.netty4.NettyProducer		0.35220125
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.33
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyPayloadHelper		0.3137255
+org.apache.camel.component.netty4.NettyEndpoint		0.2
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyConfiguration		0.10489511
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.07119741
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyInOutWithForcedNoResponseTest
+NettyInOutWithForcedNoResponseTest		0.9166667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyInOutWithForcedNoResponseTest_testNoResponse_2r
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.6111111
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.47058824
+org.apache.camel.component.netty4.NettyProducer		0.4591195
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyPayloadHelper		0.3137255
+org.apache.camel.component.netty4.NettyHelper		0.29787233
+org.apache.camel.component.netty4.NettyEndpoint		0.26666668
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.2635135
+org.apache.camel.component.netty4.NettyConfiguration		0.14685315
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.084142394
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyInOutWithForcedNoResponseTest_testResponse_1v
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.57575756
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.5
+org.apache.camel.component.netty4.NettyProducer		0.4528302
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.39864865
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyEndpoint		0.26666668
+org.apache.camel.component.netty4.NettyHelper		0.21276596
+org.apache.camel.component.netty4.NettyConfiguration		0.13986014
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.084142394
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyManualEndpointTest
+NettyManualEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyManualEndpointTest_testNettyManaul_33
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.NettyProducer		0.4811321
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyCamelState		0.42857143
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyEndpoint		0.26666668
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.24509804
+org.apache.camel.component.netty4.NettyPayloadHelper		0.23529412
+org.apache.camel.component.netty4.NettyHelper		0.21276596
+org.apache.camel.component.netty4.NettyConfiguration		0.13986014
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.0776699
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.0472973
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyMultipleSimultaneousClientsTest
+NettyMultipleSimultaneousClientsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyMultipleSimultaneousClientsTest_testSimultaneousClients_4h
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.57575756
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.5555556
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.5
+org.apache.camel.component.netty4.NettyProducer		0.4528302
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.39864865
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyEndpoint		0.26666668
+org.apache.camel.component.netty4.NettyHelper		0.21276596
+org.apache.camel.component.netty4.NettyConfiguration		0.13986014
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.084142394
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyOptionTest
+NettyOptionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyOptionTest_testTCPObjectInOutWithNettyConsumer_2u
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.49019608
+org.apache.camel.component.netty4.NettyProducer		0.4528302
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyConfiguration		0.43356642
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.39864865
+org.apache.camel.component.netty4.NettyEndpoint		0.33333334
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyComponent		0.30666667
+org.apache.camel.component.netty4.NettyHelper		0.21276596
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.16393442
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.121212125
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.110032365
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyOptionTest_testTCPStringInOutWithNettyConsumer2Times_41
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.75
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.57575756
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.5
+org.apache.camel.component.netty4.NettyProducer		0.4528302
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyConfiguration		0.43356642
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.39864865
+org.apache.camel.component.netty4.NettyEndpoint		0.33333334
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyComponent		0.30666667
+org.apache.camel.component.netty4.NettyHelper		0.21276596
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.16393442
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.110032365
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyOptionTest_testTCPStringInOutWithNettyConsumer_3i
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.49019608
+org.apache.camel.component.netty4.NettyProducer		0.4528302
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyConfiguration		0.43356642
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.39864865
+org.apache.camel.component.netty4.NettyEndpoint		0.33333334
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyComponent		0.30666667
+org.apache.camel.component.netty4.NettyHelper		0.21276596
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.16393442
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.121212125
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.110032365
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyProducerAsyncEndpointTest
+NettyProducerAsyncEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyProducerAsyncEndpointTest_testAsyncEndpoint_43
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.5
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyHelper		0.44680852
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.38513514
+org.apache.camel.component.netty4.NettyProducer		0.35220125
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.33
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyEndpoint		0.2
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.121212125
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyConfiguration		0.10489511
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.07119741
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyProducerHangTest
+NettyProducerHangTest		0.9677419
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyProducerHangTest_nettyProducerHangsOnTheSecondRequestToTheSocketWhichIsClosed_h
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		1.0
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.8611111
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.5472973
+org.apache.camel.component.netty4.NettyComponent		0.5466667
+org.apache.camel.component.netty4.NettyProducer		0.4779874
+org.apache.camel.component.netty4.NettyConfiguration		0.4755245
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyHelper		0.44680852
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.26229507
+org.apache.camel.component.netty4.NettyPayloadHelper		0.25490198
+org.apache.camel.component.netty4.NettyEndpoint		0.16
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.110032365
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyProducerPoolDisabledTest
+NettyProducerPoolDisabledTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyProducerPoolDisabledTest_testProducerPoolDisabled_13
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.57575756
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.50980395
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyHelper		0.44680852
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.4054054
+org.apache.camel.component.netty4.NettyProducer		0.35220125
+org.apache.camel.component.netty4.SharedSingletonObjectPool		0.33333334
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.33
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyEndpoint		0.2
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.16666667
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyConfiguration		0.10489511
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.07119741
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyProxyTest
+NettyProxyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyProxyTest_testNettyProxy_2q
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.57575756
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.50980395
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.NettyHelper		0.4680851
+org.apache.camel.component.netty4.NettyProducer		0.46226415
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.4054054
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyEndpoint		0.26666668
+org.apache.camel.component.netty4.NettyConfiguration		0.15384616
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.084142394
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyRedeliveryTest
+NettyRedeliveryTest		0.9607843
+NettyRedeliveryTest.ClosingClientRunnable		0.8888889
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyRedeliveryTest_testExceptionHandler_2d
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.8055556
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.codec.ObjectDecoder		0.5
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyProducer		0.3490566
+org.apache.camel.component.netty4.NettyHelper		0.34042552
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.33
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.3243243
+org.apache.camel.component.netty4.NettyPayloadHelper		0.11764706
+org.apache.camel.component.netty4.NettyConfiguration		0.06993007
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.06472492
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyEndpoint		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyRequestTimeoutIssueTest
+NettyRequestTimeoutIssueTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyRequestTimeoutTest
+NettyRequestTimeoutTest		0.90909094
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyRequestTimeoutTest_testRequestTimeoutAndOk_14
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		1.0
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.6666667
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.6216216
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.NettyHelper		0.5744681
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.5
+org.apache.camel.component.netty4.NettyConfiguration		0.48251748
+org.apache.camel.component.netty4.NettyProducer		0.4779874
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.46
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyEndpoint		0.33333334
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyComponent		0.30666667
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.26229507
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.121212125
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.110032365
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyRequestTimeoutTest_testRequestTimeoutOK_4s
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		1.0
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.57575756
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.50980395
+org.apache.camel.component.netty4.NettyConfiguration		0.48251748
+org.apache.camel.component.netty4.NettyProducer		0.46226415
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.46
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyHelper		0.44680852
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.4189189
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.NettyEndpoint		0.33333334
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyComponent		0.30666667
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.26229507
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.110032365
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyRequestTimeoutTest_testRequestTimeoutViaHeader_5m
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.6111111
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.NettyHelper		0.5744681
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.NettyProducer		0.4811321
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.30405405
+org.apache.camel.component.netty4.NettyEndpoint		0.26666668
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.25490198
+org.apache.camel.component.netty4.NettyPayloadHelper		0.23529412
+org.apache.camel.component.netty4.NettyConfiguration		0.14685315
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.0776699
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyRequestTimeoutTest_testRequestTimeout_69
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		1.0
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.6111111
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.NettyHelper		0.5744681
+org.apache.camel.component.netty4.NettyConfiguration		0.4755245
+org.apache.camel.component.netty4.NettyProducer		0.46226415
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.46
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyEndpoint		0.33333334
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyComponent		0.30666667
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.30405405
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.26229507
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.25490198
+org.apache.camel.component.netty4.NettyPayloadHelper		0.23529412
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.103559874
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyReuseChannelTest
+NettyReuseChannelTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyReuseChannelTest_testReuse_3j
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.6111111
+org.apache.camel.component.netty4.NettyHelper		0.59574467
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.57575756
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.50980395
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyProducer		0.4119497
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.4054054
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.33
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyPayloadHelper		0.3137255
+org.apache.camel.component.netty4.NettyEndpoint		0.2
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyConfiguration		0.10489511
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.07119741
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyReuseConnectionTest
+NettyReuseConnectionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyReuseConnectionTest_testReuseConnection_1h
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.6111111
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.57575756
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.5
+org.apache.camel.component.netty4.NettyProducer		0.4528302
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.39864865
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyEndpoint		0.26666668
+org.apache.camel.component.netty4.NettyHelper		0.21276596
+org.apache.camel.component.netty4.NettyConfiguration		0.13986014
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.084142394
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettySSLClasspathTest
+NettySSLClasspathTest		0.8666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettySSLClasspathTest_testSSLInOutWithNettyConsumer_49
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.NettyServerBossPoolBuilder		0.7307692
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.67
+org.apache.camel.component.netty4.ssl.SSLEngineFactory		0.6666667
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.6576577
+org.apache.camel.component.netty4.NettyConsumer		0.64285713
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.5555556
+org.apache.camel.component.netty4.NettyComponent		0.5466667
+org.apache.camel.component.netty4.NettyEndpoint		0.53333336
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.5
+org.apache.camel.component.netty4.NettyProducer		0.4591195
+org.apache.camel.component.netty4.NettyConfiguration		0.45454547
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.39864865
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.39285713
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.22653721
+org.apache.camel.component.netty4.NettyHelper		0.21276596
+org.apache.camel.component.netty4.NettyConsumerExceptionHandler		0.1875
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.16393442
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.121212125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettySSLClientCertHeadersTest
+NettySSLClientCertHeadersTest		0.9130435
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettySSLClientCertHeadersTest_testSSLInOutWithNettyConsumer_3g
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.NettyEndpoint		0.81333333
+org.apache.camel.component.netty4.NettyServerBossPoolBuilder		0.7307692
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.67
+org.apache.camel.component.netty4.ssl.SSLEngineFactory		0.6666667
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.6576577
+org.apache.camel.component.netty4.NettyConsumer		0.64285713
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.57575756
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.5555556
+org.apache.camel.component.netty4.NettyComponent		0.5466667
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.5
+org.apache.camel.component.netty4.NettyProducer		0.4591195
+org.apache.camel.component.netty4.NettyConfiguration		0.45454547
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.39864865
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.39285713
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.22653721
+org.apache.camel.component.netty4.NettyHelper		0.21276596
+org.apache.camel.component.netty4.NettyConsumerExceptionHandler		0.1875
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.16393442
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettySSLConsumerClientModeTest
+NettySSLConsumerClientModeTest		0.96428573
+NettySSLConsumerClientModeTest.MyServer		1.0
+NettySSLConsumerClientModeTest.ServerHandler		0.5555556
+NettySSLConsumerClientModeTest.ServerInitializer		0.96153843
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettySSLConsumerClientModeTest_testNettyRoute_y
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		1.0
+org.apache.camel.component.netty4.ssl.SSLEngineFactory		0.6666667
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.6576577
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.50980395
+org.apache.camel.component.netty4.NettyConsumer		0.5
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.NettyHelper		0.44680852
+org.apache.camel.component.netty4.ClientModeTCPNettyServerBootstrapFactory		0.39823008
+org.apache.camel.component.netty4.NettyEndpoint		0.34666666
+org.apache.camel.component.netty4.NettyPayloadHelper		0.19607843
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.16181229
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.121212125
+org.apache.camel.component.netty4.NettyConfiguration		0.08391608
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettySSLContextParametersTest
+NettySSLContextParametersTest		0.93939394
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettySSLContextParametersTest_testSSLInOutWithNettyConsumer_o
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.NettyServerBossPoolBuilder		0.7307692
+org.apache.camel.component.netty4.NettyConsumer		0.64285713
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.56
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.5585586
+org.apache.camel.component.netty4.NettyComponent		0.53333336
+org.apache.camel.component.netty4.NettyEndpoint		0.53333336
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.5
+org.apache.camel.component.netty4.NettyProducer		0.4591195
+org.apache.camel.component.netty4.NettyConfiguration		0.45454547
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.39864865
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.39285713
+org.apache.camel.component.netty4.NettyHelper		0.21276596
+org.apache.camel.component.netty4.NettyConsumerExceptionHandler		0.1875
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.17475729
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.16393442
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.121212125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettySSLPassphaseBeanTest
+NettySSLPassphaseBeanTest		0.8947368
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettySSLPassphaseBeanTest_testPassphaseBean_47
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.NettyServerBossPoolBuilder		0.7307692
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.67
+org.apache.camel.component.netty4.ssl.SSLEngineFactory		0.6666667
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.6576577
+org.apache.camel.component.netty4.NettyConsumer		0.64285713
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.NettyComponent		0.5466667
+org.apache.camel.component.netty4.NettyEndpoint		0.53333336
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.5
+org.apache.camel.component.netty4.NettyProducer		0.4591195
+org.apache.camel.component.netty4.NettyConfiguration		0.45454547
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.39864865
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.39285713
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.22653721
+org.apache.camel.component.netty4.NettyHelper		0.21276596
+org.apache.camel.component.netty4.NettyConsumerExceptionHandler		0.1875
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.16393442
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.121212125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettySSLTest
+NettySSLTest		0.85714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettySSLTest_testSSLInOutWithNettyConsumer_5c
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.NettyServerBossPoolBuilder		0.7307692
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.67
+org.apache.camel.component.netty4.ssl.SSLEngineFactory		0.6666667
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.6576577
+org.apache.camel.component.netty4.NettyConsumer		0.64285713
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.57575756
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.5555556
+org.apache.camel.component.netty4.NettyComponent		0.5466667
+org.apache.camel.component.netty4.NettyEndpoint		0.53333336
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.5
+org.apache.camel.component.netty4.NettyProducer		0.4591195
+org.apache.camel.component.netty4.NettyConfiguration		0.45454547
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.39864865
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.39285713
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.22006473
+org.apache.camel.component.netty4.NettyHelper		0.21276596
+org.apache.camel.component.netty4.NettyConsumerExceptionHandler		0.1875
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.16393442
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettySingleCodecTest
+NettySingleCodecTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettySingleCodecTest_canSupplySingleCodecToEndpointPipeline_2h
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyCamelState		0.42857143
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.NettyProducer		0.3710692
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.26126125
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.26
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.24509804
+org.apache.camel.component.netty4.NettyPayloadHelper		0.23529412
+org.apache.camel.component.netty4.NettyHelper		0.21276596
+org.apache.camel.component.netty4.NettyEndpoint		0.2
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyConfiguration		0.09090909
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.06472492
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.0472973
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettySuspendResumeTest
+NettySuspendResumeTest		0.9375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettySuspendResumeTest_testSuspendResume_1w
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		1.0
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.85
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.6111111
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.57575756
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.54901963
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.5
+org.apache.camel.component.netty4.NettyProducer		0.46226415
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyConfiguration		0.44055945
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.NettyHelper		0.34042552
+org.apache.camel.component.netty4.NettyEndpoint		0.33333334
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyComponent		0.30666667
+org.apache.camel.component.netty4.NettyConsumer		0.21428572
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.19642857
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.16393442
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.116504855
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTCPAsyncTest
+NettyTCPAsyncTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTCPAsyncTest_testTCPInOnlyWithNettyConsumer_2p
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.NettyProducer		0.4811321
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyCamelState		0.42857143
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyEndpoint		0.26666668
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.24509804
+org.apache.camel.component.netty4.NettyPayloadHelper		0.23529412
+org.apache.camel.component.netty4.NettyHelper		0.21276596
+org.apache.camel.component.netty4.NettyConfiguration		0.13986014
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.0776699
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.0472973
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTCPChainedTest
+NettyTCPChainedTest		0.92
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTCPChainedTest_testTCPChainedConnectionFromCallbackThread_29
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.6111111
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyProducer		0.39308175
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.34313726
+org.apache.camel.component.netty4.NettyHelper		0.34042552
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.33
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyPayloadHelper		0.23529412
+org.apache.camel.component.netty4.NettyEndpoint		0.2
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.18243243
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyConfiguration		0.09090909
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.06472492
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.035714287
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTCPSyncNotLazyChannelTest
+NettyTCPSyncNotLazyChannelTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTCPSyncNotLazyChannelTest_testTCPObjectInOutWithNettyConsumer_4b
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.6111111
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.49019608
+org.apache.camel.component.netty4.NettyProducer		0.46226415
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyConfiguration		0.44055945
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.39864865
+org.apache.camel.component.netty4.NettyEndpoint		0.33333334
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyComponent		0.30666667
+org.apache.camel.component.netty4.NettyHelper		0.21276596
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.16393442
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.121212125
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.110032365
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTCPSyncNotLazyChannelTest_testTCPStringInOutWithNettyConsumer_30
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.6111111
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.49019608
+org.apache.camel.component.netty4.NettyProducer		0.46226415
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyConfiguration		0.44055945
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.3783784
+org.apache.camel.component.netty4.NettyEndpoint		0.33333334
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyComponent		0.30666667
+org.apache.camel.component.netty4.NettyHelper		0.21276596
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.16393442
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.121212125
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.110032365
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTCPSyncTest
+NettyTCPSyncTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTCPSyncTest_testTCPObjectInOutWithNettyConsumer_4w
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.5
+org.apache.camel.component.netty4.NettyProducer		0.4528302
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.3783784
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyEndpoint		0.26666668
+org.apache.camel.component.netty4.NettyHelper		0.21276596
+org.apache.camel.component.netty4.NettyConfiguration		0.13986014
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.121212125
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.084142394
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTCPSyncTest_testTCPStringInOutWithNettyConsumer2Times_5y
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.6111111
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.57575756
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.5
+org.apache.camel.component.netty4.NettyProducer		0.4528302
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.39864865
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyEndpoint		0.26666668
+org.apache.camel.component.netty4.NettyHelper		0.21276596
+org.apache.camel.component.netty4.NettyConfiguration		0.13986014
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.084142394
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTCPSyncTest_testTCPStringInOutWithNettyConsumer_1j
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.49019608
+org.apache.camel.component.netty4.NettyProducer		0.4528302
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.39864865
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyEndpoint		0.26666668
+org.apache.camel.component.netty4.NettyHelper		0.21276596
+org.apache.camel.component.netty4.NettyConfiguration		0.13986014
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.121212125
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.084142394
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTcpWithInOutUsingPlainSocketTest
+NettyTcpWithInOutUsingPlainSocketTest		0.9722222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTcpWithInOutUsingPlainSocketTest_testExchangeFailedOutShouldBeNull_7
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		1.0
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.48039216
+org.apache.camel.component.netty4.NettyHelper		0.38297874
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyEndpoint		0.2
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.121212125
+org.apache.camel.component.netty4.NettyPayloadHelper		0.11764706
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyConfiguration		0.07692308
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.012944984
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTcpWithInOutUsingPlainSocketTest_testReceiveNoResponseSinceOutBodyIsNullTwice_66
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		1.0
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.5294118
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyEndpoint		0.2
+org.apache.camel.component.netty4.NettyPayloadHelper		0.19607843
+org.apache.camel.component.netty4.NettyHelper		0.12765957
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyConfiguration		0.062937066
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.035714287
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.006472492
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTcpWithInOutUsingPlainSocketTest_testReceiveNoResponseSinceOutBodyIsNull_2z
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		1.0
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.48039216
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyEndpoint		0.2
+org.apache.camel.component.netty4.NettyPayloadHelper		0.19607843
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyHelper		0.08510638
+org.apache.camel.component.netty4.NettyConfiguration		0.062937066
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.006472492
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTcpWithInOutUsingPlainSocketTest_testSendAndReceiveOnce_6
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		1.0
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.5
+org.apache.camel.component.netty4.NettyHelper		0.38297874
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyEndpoint		0.2
+org.apache.camel.component.netty4.NettyPayloadHelper		0.19607843
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.121212125
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyConfiguration		0.07692308
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.012944984
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTcpWithInOutUsingPlainSocketTest_testSendAndReceiveTwice_4a
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		1.0
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.57575756
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.5588235
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.NettyHelper		0.44680852
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyEndpoint		0.2
+org.apache.camel.component.netty4.NettyPayloadHelper		0.19607843
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyConfiguration		0.08391608
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.035714287
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.012944984
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTextlineInOnlyNullDelimiterTest
+NettyTextlineInOnlyNullDelimiterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTextlineInOnlyNullDelimiterTest_testTextlineInOnlyNull_1y
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.NettyProducer		0.48427674
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyCamelState		0.42857143
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.NettyHelper		0.40425533
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyEndpoint		0.26666668
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.24509804
+org.apache.camel.component.netty4.NettyPayloadHelper		0.23529412
+org.apache.camel.component.netty4.NettyConfiguration		0.15384616
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.0776699
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.0472973
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTextlineInOnlyTest
+NettyTextlineInOnlyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTextlineInOnlyTest_testTextlineInOnlyAutoAppend_3c
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.NettyProducer		0.48427674
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyHelper		0.44680852
+org.apache.camel.component.netty4.NettyCamelState		0.42857143
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyEndpoint		0.26666668
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.24509804
+org.apache.camel.component.netty4.NettyPayloadHelper		0.23529412
+org.apache.camel.component.netty4.NettyConfiguration		0.15384616
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.0776699
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.0472973
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTextlineInOnlyTest_testTextlineInOnlyDual_b
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.NettyProducer		0.48427674
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyCamelState		0.42857143
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.NettyHelper		0.40425533
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.29411766
+org.apache.camel.component.netty4.NettyEndpoint		0.26666668
+org.apache.camel.component.netty4.NettyPayloadHelper		0.23529412
+org.apache.camel.component.netty4.NettyConfiguration		0.15384616
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.0776699
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.0472973
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTextlineInOnlyTest_testTextlineInOnly_4k
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.NettyProducer		0.48427674
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyCamelState		0.42857143
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.NettyHelper		0.40425533
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyEndpoint		0.26666668
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.24509804
+org.apache.camel.component.netty4.NettyPayloadHelper		0.23529412
+org.apache.camel.component.netty4.NettyConfiguration		0.15384616
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.0776699
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.0472973
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTextlineInOutNonBlockingTest
+NettyTextlineInOutNonBlockingTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTextlineInOutNonBlockingTest_testNonBlocking_5g
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.57575756
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.50980395
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyHelper		0.44680852
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.4054054
+org.apache.camel.component.netty4.NettyProducer		0.35220125
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.33
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyEndpoint		0.2
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyConfiguration		0.10489511
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.07119741
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTextlineInOutSynchronousFalseTest
+NettyTextlineInOutSynchronousFalseTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTextlineInOutSynchronousFalseTest_testSynchronous_1n
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.5
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyHelper		0.44680852
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.4054054
+org.apache.camel.component.netty4.NettyProducer		0.35220125
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.33
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyEndpoint		0.2
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.121212125
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyConfiguration		0.10489511
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.07119741
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTextlineInOutSynchronousTest
+NettyTextlineInOutSynchronousTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTextlineInOutSynchronousTest_testSynchronous_1e
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.49019608
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyHelper		0.44680852
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.4054054
+org.apache.camel.component.netty4.NettyProducer		0.35220125
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.33
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyEndpoint		0.2
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.121212125
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyConfiguration		0.10489511
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.07119741
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTextlineInOutTest
+NettyTextlineInOutTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTextlineInOutTest_testTextlineInOut_3u
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.5
+org.apache.camel.component.netty4.NettyProducer		0.46226415
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyHelper		0.44680852
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.4054054
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyEndpoint		0.26666668
+org.apache.camel.component.netty4.NettyConfiguration		0.15384616
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.121212125
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.084142394
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTransferExchangeOptionTest
+NettyTransferExchangeOptionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTransferExchangeOptionTest_testNettyTransferExchangeOptionWithException_4e
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.57575756
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.5277778
+org.apache.camel.component.netty4.NettyProducer		0.509434
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.5
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.47972974
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyEndpoint		0.26666668
+org.apache.camel.component.netty4.NettyPayloadHelper		0.23529412
+org.apache.camel.component.netty4.NettyHelper		0.21276596
+org.apache.camel.component.netty4.NettyConfiguration		0.13986014
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.090614885
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyTransferExchangeOptionTest_testNettyTransferExchangeOptionWithoutException_28
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.57575756
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.54901963
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.5277778
+org.apache.camel.component.netty4.NettyProducer		0.509434
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.47972974
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.3243243
+org.apache.camel.component.netty4.NettyEndpoint		0.26666668
+org.apache.camel.component.netty4.NettyPayloadHelper		0.23529412
+org.apache.camel.component.netty4.NettyHelper		0.21276596
+org.apache.camel.component.netty4.NettyConfiguration		0.13986014
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.090614885
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.035714287
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyUDPAsyncTest
+NettyUDPAsyncTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyUDPAsyncTest_testUDPInOnlyWithNettyConsumer_1f
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.codec.DatagramPacketObjectDecoder		0.9
+org.apache.camel.component.netty4.codec.DatagramPacketEncoder		0.85714287
+org.apache.camel.component.netty4.codec.DatagramPacketObjectEncoder		0.72727275
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.NettyProducer		0.48427674
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyCamelState		0.42857143
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.NettyPayloadHelper		0.33333334
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.2647059
+org.apache.camel.component.netty4.NettyEndpoint		0.24
+org.apache.camel.component.netty4.NettyHelper		0.23404256
+org.apache.camel.component.netty4.NettyConfiguration		0.13986014
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.0776699
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.SingleUDPNettyServerBootstrapFactory		0.020618556
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.013513514
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyUDPByteArrayConsumerTest
+NettyUDPByteArrayConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyUDPByteArrayConsumerTest_testSendingRawByteMessage_4v
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.DelegateByteArrayDecoder		1.0
+org.apache.camel.component.netty4.codec.DelegateByteArrayEncoder		1.0
+org.apache.camel.component.netty4.codec.DatagramPacketByteArrayDecoder		0.875
+org.apache.camel.component.netty4.codec.DatagramPacketByteArrayEncoder		0.875
+org.apache.camel.component.netty4.codec.DatagramPacketEncoder		0.85714287
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.NettyProducer		0.48427674
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyCamelState		0.42857143
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.NettyPayloadHelper		0.33333334
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.2647059
+org.apache.camel.component.netty4.NettyEndpoint		0.24
+org.apache.camel.component.netty4.NettyHelper		0.23404256
+org.apache.camel.component.netty4.NettyConfiguration		0.13986014
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.0776699
+org.apache.camel.component.netty4.SingleUDPNettyServerBootstrapFactory		0.020618556
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.013513514
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyUDPByteArrayConsumerTest_testUDPInOnlyWithNettyConsumer_2s
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.DelegateByteArrayDecoder		1.0
+org.apache.camel.component.netty4.codec.DelegateByteArrayEncoder		1.0
+org.apache.camel.component.netty4.codec.DatagramPacketByteArrayDecoder		0.875
+org.apache.camel.component.netty4.codec.DatagramPacketByteArrayEncoder		0.875
+org.apache.camel.component.netty4.codec.DatagramPacketEncoder		0.85714287
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.NettyProducer		0.48427674
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyCamelState		0.42857143
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.NettyPayloadHelper		0.33333334
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.2647059
+org.apache.camel.component.netty4.NettyEndpoint		0.24
+org.apache.camel.component.netty4.NettyHelper		0.23404256
+org.apache.camel.component.netty4.NettyConfiguration		0.13986014
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.0776699
+org.apache.camel.component.netty4.SingleUDPNettyServerBootstrapFactory		0.020618556
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.013513514
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyUDPByteArrayProviderTest
+NettyUDPByteArrayProviderTest		1.0
+NettyUDPByteArrayProviderTest.UdpHandler		1.0
+NettyUDPByteArrayProviderTest.ContentHandler		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyUDPByteArrayProviderTest_testSendingRawByteMessage_4d
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.DelegateByteArrayEncoder		1.0
+org.apache.camel.component.netty4.codec.DatagramPacketByteArrayEncoder		0.875
+org.apache.camel.component.netty4.codec.DatagramPacketEncoder		0.85714287
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.5277778
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyCamelState		0.42857143
+org.apache.camel.component.netty4.NettyProducer		0.38679245
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.33
+org.apache.camel.component.netty4.NettyHelper		0.23404256
+org.apache.camel.component.netty4.NettyPayloadHelper		0.11764706
+org.apache.camel.component.netty4.NettyConfiguration		0.08391608
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.06472492
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.0472973
+org.apache.camel.component.netty4.NettyEndpoint		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyUDPLargeMessageInOnlyTest
+NettyUDPLargeMessageInOnlyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyUDPLargeMessageInOnlyTest_testSend1024Message_56
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.codec.DatagramPacketObjectEncoder		0.90909094
+org.apache.camel.component.netty4.codec.DatagramPacketObjectDecoder		0.9
+org.apache.camel.component.netty4.codec.DatagramPacketEncoder		0.85714287
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.NettyProducer		0.48427674
+org.apache.camel.component.netty4.NettyConfiguration		0.45104894
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyCamelState		0.42857143
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.NettyPayloadHelper		0.33333334
+org.apache.camel.component.netty4.NettyEndpoint		0.30666667
+org.apache.camel.component.netty4.NettyComponent		0.28
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.2647059
+org.apache.camel.component.netty4.NettyHelper		0.23404256
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.22950819
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.103559874
+org.apache.camel.component.netty4.SingleUDPNettyServerBootstrapFactory		0.020618556
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.013513514
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyUDPLargeMessageInOnlyTest_testSend512Message_2a
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.codec.DatagramPacketObjectEncoder		0.90909094
+org.apache.camel.component.netty4.codec.DatagramPacketObjectDecoder		0.9
+org.apache.camel.component.netty4.codec.DatagramPacketEncoder		0.85714287
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.NettyProducer		0.48427674
+org.apache.camel.component.netty4.NettyConfiguration		0.45104894
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyCamelState		0.42857143
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.NettyPayloadHelper		0.33333334
+org.apache.camel.component.netty4.NettyEndpoint		0.30666667
+org.apache.camel.component.netty4.NettyComponent		0.28
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.2647059
+org.apache.camel.component.netty4.NettyHelper		0.23404256
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.22950819
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.103559874
+org.apache.camel.component.netty4.SingleUDPNettyServerBootstrapFactory		0.020618556
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.013513514
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyUDPLargeMessageInOnlyTest_testSend768Message_5p
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.codec.DatagramPacketObjectEncoder		0.90909094
+org.apache.camel.component.netty4.codec.DatagramPacketObjectDecoder		0.9
+org.apache.camel.component.netty4.codec.DatagramPacketEncoder		0.85714287
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.NettyProducer		0.48427674
+org.apache.camel.component.netty4.NettyConfiguration		0.45104894
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyCamelState		0.42857143
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.NettyPayloadHelper		0.33333334
+org.apache.camel.component.netty4.NettyEndpoint		0.30666667
+org.apache.camel.component.netty4.NettyComponent		0.28
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.2647059
+org.apache.camel.component.netty4.NettyHelper		0.23404256
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.22950819
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.103559874
+org.apache.camel.component.netty4.SingleUDPNettyServerBootstrapFactory		0.020618556
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.013513514
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyUDPMessageLargerThanDefaultBufferSizeTest
+NettyUDPMessageLargerThanDefaultBufferSizeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyUDPMessageLargerThanDefaultBufferSizeTest_testSend2048Message_p
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.codec.DatagramPacketObjectEncoder		0.90909094
+org.apache.camel.component.netty4.codec.DatagramPacketObjectDecoder		0.9
+org.apache.camel.component.netty4.codec.DatagramPacketEncoder		0.85714287
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.57575756
+org.apache.camel.component.netty4.NettyProducer		0.48427674
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.47058824
+org.apache.camel.component.netty4.NettyConfiguration		0.45104894
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyCamelState		0.42857143
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.NettyPayloadHelper		0.33333334
+org.apache.camel.component.netty4.NettyEndpoint		0.30666667
+org.apache.camel.component.netty4.NettyComponent		0.28
+org.apache.camel.component.netty4.NettyHelper		0.23404256
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.22950819
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.110032365
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.SingleUDPNettyServerBootstrapFactory		0.020618556
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.013513514
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyUDPMulticastAsyncTest
+NettyUDPMulticastAsyncTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyUDPObjectSyncTest
+NettyUDPObjectSyncTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyUDPObjectSyncTest_testUDPObjectInOutWithNettyConsumer_18
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.codec.DatagramPacketObjectDecoder		0.9
+org.apache.camel.component.netty4.codec.DatagramPacketEncoder		0.85714287
+org.apache.camel.component.netty4.codec.DatagramPacketObjectEncoder		0.72727275
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.NettyPayloadHelper		0.60784316
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.57575756
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.47058824
+org.apache.camel.component.netty4.NettyProducer		0.46226415
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.41666666
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.3783784
+org.apache.camel.component.netty4.NettyEndpoint		0.24
+org.apache.camel.component.netty4.NettyHelper		0.23404256
+org.apache.camel.component.netty4.NettyConfiguration		0.13986014
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.084142394
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.SingleUDPNettyServerBootstrapFactory		0.020618556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyUDPSyncTest
+NettyUDPSyncTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyUDPSyncTest_testUDPStringInOutWithNettyConsumer_3p
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.ObjectDecoder		1.0
+org.apache.camel.component.netty4.codec.ObjectEncoder		1.0
+org.apache.camel.component.netty4.codec.DatagramPacketObjectDecoder		0.9
+org.apache.camel.component.netty4.codec.DatagramPacketEncoder		0.85714287
+org.apache.camel.component.netty4.codec.DatagramPacketObjectEncoder		0.72727275
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.6111111
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.NettyPayloadHelper		0.60784316
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.57575756
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.47058824
+org.apache.camel.component.netty4.NettyProducer		0.46226415
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.39864865
+org.apache.camel.component.netty4.NettyEndpoint		0.24
+org.apache.camel.component.netty4.NettyHelper		0.23404256
+org.apache.camel.component.netty4.NettyConfiguration		0.13986014
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.084142394
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.SingleUDPNettyServerBootstrapFactory		0.020618556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyUdpConnectedSendTest
+NettyUdpConnectedSendTest		0.7352941
+NettyUdpConnectedSendTest.UdpHandler		1.0
+NettyUdpConnectedSendTest.ContentHandler		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyUdpConnectedSendTest_sendConnectedUdpWithServer_38
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.DatagramPacketEncoder		0.85714287
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.75
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		0.5
+org.apache.camel.component.netty4.NettyHelper		0.4680851
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyCamelState		0.42857143
+org.apache.camel.component.netty4.codec.DatagramPacketStringEncoder		0.42105263
+org.apache.camel.component.netty4.NettyProducer		0.3836478
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.33
+org.apache.camel.component.netty4.codec.DatagramPacketDelimiterDecoder		0.16666667
+org.apache.camel.component.netty4.NettyPayloadHelper		0.11764706
+org.apache.camel.component.netty4.NettyConfiguration		0.0979021
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.06472492
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.0472973
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyEndpoint		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyUdpConnectionlessSendTest
+NettyUdpConnectionlessSendTest		0.969697
+NettyUdpConnectionlessSendTest.UdpHandler		1.0
+NettyUdpConnectionlessSendTest.ContentHandler		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyUdpConnectionlessSendTest_sendConnectionlessUdp_4l
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.DatagramPacketEncoder		0.85714287
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.6666667
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		0.5
+org.apache.camel.component.netty4.NettyHelper		0.4680851
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyCamelState		0.42857143
+org.apache.camel.component.netty4.codec.DatagramPacketStringEncoder		0.42105263
+org.apache.camel.component.netty4.NettyProducer		0.3899371
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.33
+org.apache.camel.component.netty4.codec.DatagramPacketDelimiterDecoder		0.16666667
+org.apache.camel.component.netty4.NettyPayloadHelper		0.11764706
+org.apache.camel.component.netty4.NettyConfiguration		0.0979021
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.06472492
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.0472973
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyEndpoint		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyUdpConnectionlessSendTest_sendWithoutReceiver_3o
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.codec.DatagramPacketEncoder		0.85714287
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.5277778
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		0.5
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		0.5
+org.apache.camel.component.netty4.NettyHelper		0.4680851
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyCamelState		0.42857143
+org.apache.camel.component.netty4.codec.DatagramPacketStringEncoder		0.42105263
+org.apache.camel.component.netty4.NettyProducer		0.3836478
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.33
+org.apache.camel.component.netty4.codec.DatagramPacketDelimiterDecoder		0.16666667
+org.apache.camel.component.netty4.NettyPayloadHelper		0.11764706
+org.apache.camel.component.netty4.NettyConfiguration		0.0979021
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.06472492
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyEndpoint		0.026666667
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.013513514
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyUdpWithInOutUsingPlainSocketTest
+NettyUdpWithInOutUsingPlainSocketTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyUdpWithInOutUsingPlainSocketTest_testSendAndReceiveOnce_35
+org.apache.camel.component.netty4.codec.DatagramPacketEncoder		0.85714287
+org.apache.camel.component.netty4.codec.DatagramPacketDelimiterDecoder		0.5833333
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.57575756
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		0.5
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.48039216
+org.apache.camel.component.netty4.NettyHelper		0.4680851
+org.apache.camel.component.netty4.codec.DatagramPacketStringEncoder		0.42105263
+org.apache.camel.component.netty4.codec.DatagramPacketStringDecoder		0.4
+org.apache.camel.component.netty4.NettyPayloadHelper		0.29411766
+org.apache.camel.component.netty4.NettyEndpoint		0.17333333
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.1388889
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyConfiguration		0.055944055
+org.apache.camel.component.netty4.SingleUDPNettyServerBootstrapFactory		0.020618556
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.012944984
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyUseSharedWorkerThreadPoolManyRoutesTest
+NettyUseSharedWorkerThreadPoolManyRoutesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyUseSharedWorkerThreadPoolManyRoutesTest_testSharedThreadPool_16
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyUseSharedWorkerThreadPoolTest
+NettyUseSharedWorkerThreadPoolTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/NettyUseSharedWorkerThreadPoolTest_testSharedThreadPool_1z
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		1.0
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.6111111
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.57575756
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.5588235
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.4864865
+org.apache.camel.component.netty4.NettyConfiguration		0.4755245
+org.apache.camel.component.netty4.NettyProducer		0.46226415
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyHelper		0.44680852
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.NettyEndpoint		0.30666667
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.2972973
+org.apache.camel.component.netty4.NettyComponent		0.28
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.26229507
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.110032365
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.035714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/SpringNettyUseSharedWorkerThreadPoolTest
+SpringNettyUseSharedWorkerThreadPoolTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/SpringNettyUseSharedWorkerThreadPoolTest_testSharedThreadPool_5b
+org.apache.camel.component.netty4.NettyCamelState		1.0
+org.apache.camel.component.netty4.NettyProducer.NettyProducerCallback		1.0
+org.apache.camel.component.netty4.ShareableChannelHandlerFactory		1.0
+org.apache.camel.component.netty4.codec.DelimiterBasedFrameDecoder		1.0
+org.apache.camel.component.netty4.NettyProducer.BodyReleaseCallback		0.625
+org.apache.camel.component.netty4.NettyProducer.NettyProducerPoolableObjectFactory		0.6111111
+org.apache.camel.component.netty4.NettyWorkerPoolBuilder		0.6111111
+org.apache.camel.component.netty4.handlers.ServerResponseFutureListener		0.57575756
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.50980395
+org.apache.camel.component.netty4.NettyConfiguration		0.4755245
+org.apache.camel.component.netty4.NettyProducer		0.46226415
+org.apache.camel.component.netty4.NettyPayloadHelper		0.4509804
+org.apache.camel.component.netty4.NettyProducer.ChannelConnectedListener		0.45
+org.apache.camel.component.netty4.NettyHelper		0.44680852
+org.apache.camel.component.netty4.DefaultClientInitializerFactory		0.42
+org.apache.camel.component.netty4.handlers.ClientChannelHandler		0.4054054
+org.apache.camel.component.netty4.NettyEndpoint		0.30666667
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.2972973
+org.apache.camel.component.netty4.NettyComponent		0.28
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.26229507
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.110032365
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.017857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/UnsharableCodecsConflicts2Test
+UnsharableCodecsConflicts2Test		0.9268293
+UnsharableCodecsConflicts2Test.P		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/UnsharableCodecsConflicts2Test_unsharableCodecsConflictsTest_31
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.29411766
+org.apache.camel.component.netty4.NettyConverter		0.28846154
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.27027026
+org.apache.camel.component.netty4.NettyEndpoint		0.17333333
+org.apache.camel.component.netty4.NettyPayloadHelper		0.11764706
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyConfiguration		0.04895105
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.035714287
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.006472492
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/UnsharableCodecsConflictsTest
+UnsharableCodecsConflictsTest		0.90909094
+UnsharableCodecsConflictsTest.P		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/UnsharableCodecsConflictsTest_canSupplyMultipleCodecsToEndpointPipeline_2e
+org.apache.camel.component.netty4.handlers.ServerChannelHandler		0.29411766
+org.apache.camel.component.netty4.NettyConverter		0.28846154
+org.apache.camel.component.netty4.DefaultServerInitializerFactory		0.27027026
+org.apache.camel.component.netty4.NettyEndpoint		0.17333333
+org.apache.camel.component.netty4.NettyPayloadHelper		0.11764706
+org.apache.camel.component.netty4.NettyConsumer		0.10714286
+org.apache.camel.component.netty4.NettyConfiguration		0.04895105
+org.apache.camel.component.netty4.SingleTCPNettyServerBootstrapFactory		0.035714287
+org.apache.camel.component.netty4.ChannelHandlerFactories		0.032786883
+org.apache.camel.component.netty4.NettyComponent		0.026666667
+org.apache.camel.component.netty4.NettyServerBootstrapConfiguration		0.006472492
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-BaseNettyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-DatagramPacketByteArrayCodecTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-LogCaptureTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-MultipleCodecsSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-MultipleCodecsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-Netty2978IssueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-Netty2978IssueTest_CamelClient
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyBacklogTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyComponentWithConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyConcurrentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyConsumerClientModeReconnectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyConsumerClientModeReconnectTest_MyServer
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyConsumerClientModeReconnectTest_ServerHandler
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyConsumerClientModeReconnectTest_ServerInitializer
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyConsumerClientModeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyConsumerClientModeTest_MyServer
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyConsumerClientModeTest_ServerHandler
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyConsumerClientModeTest_ServerInitializer
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyConverterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyCustomCodecTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyCustomPipelineFactoryAsynchTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyCustomPipelineFactoryAsynchTest_TestClientChannelPipelineFactory
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyCustomPipelineFactoryAsynchTest_TestServerChannelPipelineFactory
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyCustomPipelineFactorySynchTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyCustomPipelineFactorySynchTest_TestClientChannelPipelineFactory
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyCustomPipelineFactorySynchTest_TestServerChannelPipelineFactory
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyDisconnectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyFileTcpTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyGlobalSSLContextParametersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyInOutCloseChannelWhenCompleteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyInOutFromSedaTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyInOutWithForcedNoResponseTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyManualEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyMultipleSimultaneousClientsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyOptionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyProducerAsyncEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyProducerHangTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyProducerPoolDisabledTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyProxyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyRedeliveryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyRedeliveryTest_ClosingClientRunnable
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyRequestTimeoutIssueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyRequestTimeoutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyReuseChannelTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyReuseConnectionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettySSLClasspathTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettySSLClientCertHeadersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettySSLConsumerClientModeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettySSLConsumerClientModeTest_MyServer
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettySSLConsumerClientModeTest_ServerHandler
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettySSLConsumerClientModeTest_ServerInitializer
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettySSLContextParametersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettySSLPassphaseBeanTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettySSLTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettySingleCodecTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettySuspendResumeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyTCPAsyncTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyTCPChainedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyTCPSyncNotLazyChannelTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyTCPSyncTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyTcpWithInOutUsingPlainSocketTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyTextlineInOnlyNullDelimiterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyTextlineInOnlyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyTextlineInOutNonBlockingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyTextlineInOutSynchronousFalseTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyTextlineInOutSynchronousTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyTextlineInOutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyTransferExchangeOptionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyUDPAsyncTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyUDPByteArrayConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyUDPByteArrayProviderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyUDPByteArrayProviderTest_ContentHandler
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyUDPByteArrayProviderTest_UdpHandler
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyUDPLargeMessageInOnlyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyUDPMessageLargerThanDefaultBufferSizeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyUDPMulticastAsyncTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyUDPObjectSyncTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyUDPSyncTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyUdpConnectedSendTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyUdpConnectedSendTest_ContentHandler
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyUdpConnectedSendTest_UdpHandler
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyUdpConnectionlessSendTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyUdpConnectionlessSendTest_ContentHandler
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyUdpConnectionlessSendTest_UdpHandler
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyUdpWithInOutUsingPlainSocketTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyUseSharedWorkerThreadPoolManyRoutesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-NettyUseSharedWorkerThreadPoolTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-SpringNettyUseSharedWorkerThreadPoolTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-UnsharableCodecsConflicts2Test
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-UnsharableCodecsConflicts2Test_P
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-UnsharableCodecsConflictsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-netty4/target/site/clover/org/apache/camel/component/netty4/test-UnsharableCodecsConflictsTest_P
+-- -- -- -- -- -- -- -- -- -- -- -- --

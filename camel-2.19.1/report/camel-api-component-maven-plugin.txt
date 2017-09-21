@@ -1,0 +1,149 @@
+./tooling/maven/camel-api-component-maven-plugin/target/site/clover/org/apache/camel
+./tooling/maven/camel-api-component-maven-plugin/target/site/clover/org/apache/camel/component/test/AbstractTestTestSupport
+AbstractTestTestSupport		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-api-component-maven-plugin/target/site/clover/org/apache/camel/component/test/TestConfiguration
+TestConfiguration		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-api-component-maven-plugin/target/site/clover/org/apache/camel/component/test/TestProxy
+TestProxy		0.0
+TestProxy.InnerChild		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-api-component-maven-plugin/target/site/clover/org/apache/camel/component/test/test-AbstractTestTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-api-component-maven-plugin/target/site/clover/org/apache/camel/component/test/test-TestConfiguration
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-api-component-maven-plugin/target/site/clover/org/apache/camel/component/test/test-TestProxy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-api-component-maven-plugin/target/site/clover/org/apache/camel/component/test/test-TestProxy_InnerChild
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-api-component-maven-plugin/target/site/clover/org/apache/camel/maven/AbstractGeneratorMojoTest
+AbstractGeneratorMojoTest		0.8545455
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-api-component-maven-plugin/target/site/clover/org/apache/camel/maven/ApiComponentGeneratorMojoTest
+ApiComponentGeneratorMojoTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-api-component-maven-plugin/target/site/clover/org/apache/camel/maven/ApiComponentGeneratorMojoTest_shouldAddCompilationRootsByConfiguration_0
+org.apache.camel.maven.AbstractSourceGeneratorMojo		1.0
+org.apache.camel.maven.ApiProxy		0.95555556
+org.apache.camel.maven.JavadocParser		0.8086957
+org.apache.camel.maven.JavadocApiMethodGeneratorMojo		0.8
+org.apache.camel.maven.ApiComponentGeneratorMojo		0.78313255
+org.apache.camel.maven.FileApiMethodGeneratorMojo		0.7777778
+org.apache.camel.maven.AbstractApiMethodGeneratorMojo		0.71770334
+org.apache.camel.maven.AbstractGeneratorMojo		0.7123288
+org.apache.camel.maven.FromJavadoc		0.7
+org.apache.camel.maven.Substitution		0.5925926
+org.apache.camel.maven.ApiMethodAlias		0.5833333
+org.apache.camel.maven.ExtraOption		0.5833333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-api-component-maven-plugin/target/site/clover/org/apache/camel/maven/ApiComponentGeneratorMojoTest_shouldAddCompilationRootsByDefault_5
+org.apache.camel.maven.ApiProxy		0.95555556
+org.apache.camel.maven.JavadocParser		0.8086957
+org.apache.camel.maven.JavadocApiMethodGeneratorMojo		0.8
+org.apache.camel.maven.ApiComponentGeneratorMojo		0.78313255
+org.apache.camel.maven.FileApiMethodGeneratorMojo		0.7777778
+org.apache.camel.maven.AbstractApiMethodGeneratorMojo		0.71770334
+org.apache.camel.maven.AbstractGeneratorMojo		0.7123288
+org.apache.camel.maven.FromJavadoc		0.7
+org.apache.camel.maven.Substitution		0.5925926
+org.apache.camel.maven.ApiMethodAlias		0.5833333
+org.apache.camel.maven.ExtraOption		0.5833333
+org.apache.camel.maven.AbstractSourceGeneratorMojo		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-api-component-maven-plugin/target/site/clover/org/apache/camel/maven/ApiComponentGeneratorMojoTest_testExecute_2
+org.apache.camel.maven.ApiProxy		0.95555556
+org.apache.camel.maven.AbstractApiMethodGeneratorMojo		0.93779904
+org.apache.camel.maven.AbstractGeneratorMojo		0.8356164
+org.apache.camel.maven.JavadocApiMethodGeneratorMojo		0.82222223
+org.apache.camel.maven.JavadocParser		0.8086957
+org.apache.camel.maven.ApiComponentGeneratorMojo		0.78313255
+org.apache.camel.maven.FileApiMethodGeneratorMojo		0.7777778
+org.apache.camel.maven.FromJavadoc		0.7
+org.apache.camel.maven.Substitution		0.5925926
+org.apache.camel.maven.ApiMethodAlias		0.5833333
+org.apache.camel.maven.ExtraOption		0.5833333
+org.apache.camel.maven.AbstractSourceGeneratorMojo		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-api-component-maven-plugin/target/site/clover/org/apache/camel/maven/DocumentGeneratorMojoTest
+DocumentGeneratorMojoTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-api-component-maven-plugin/target/site/clover/org/apache/camel/maven/DocumentGeneratorMojoTest_shouldAddCompilationRootsByConfiguration_6
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-api-component-maven-plugin/target/site/clover/org/apache/camel/maven/DocumentGeneratorMojoTest_shouldAddCompilationRootsByDefault_a
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-api-component-maven-plugin/target/site/clover/org/apache/camel/maven/FileApiMethodGeneratorMojoTest
+FileApiMethodGeneratorMojoTest		0.95454544
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-api-component-maven-plugin/target/site/clover/org/apache/camel/maven/FileApiMethodGeneratorMojoTest_shouldAddCompilationRootsByConfiguration_4
+org.apache.camel.maven.AbstractSourceGeneratorMojo		1.0
+org.apache.camel.maven.FileApiMethodGeneratorMojo		0.7777778
+org.apache.camel.maven.AbstractApiMethodGeneratorMojo		0.6985646
+org.apache.camel.maven.AbstractGeneratorMojo		0.6712329
+org.apache.camel.maven.Substitution		0.5925926
+org.apache.camel.maven.ExtraOption		0.5833333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-api-component-maven-plugin/target/site/clover/org/apache/camel/maven/FileApiMethodGeneratorMojoTest_shouldAddCompilationRootsByDefault_1
+org.apache.camel.maven.FileApiMethodGeneratorMojo		0.7777778
+org.apache.camel.maven.AbstractApiMethodGeneratorMojo		0.6985646
+org.apache.camel.maven.AbstractGeneratorMojo		0.6712329
+org.apache.camel.maven.Substitution		0.5925926
+org.apache.camel.maven.ExtraOption		0.5833333
+org.apache.camel.maven.AbstractSourceGeneratorMojo		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-api-component-maven-plugin/target/site/clover/org/apache/camel/maven/FileApiMethodGeneratorMojoTest_testExecute_b
+org.apache.camel.maven.FileApiMethodGeneratorMojo		0.7777778
+org.apache.camel.maven.AbstractApiMethodGeneratorMojo		0.6985646
+org.apache.camel.maven.AbstractGeneratorMojo		0.6712329
+org.apache.camel.maven.Substitution		0.5925926
+org.apache.camel.maven.ExtraOption		0.5833333
+org.apache.camel.maven.AbstractSourceGeneratorMojo		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-api-component-maven-plugin/target/site/clover/org/apache/camel/maven/JavadocApiMethodGeneratorMojoTest
+JavadocApiMethodGeneratorMojoTest		0.95238096
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-api-component-maven-plugin/target/site/clover/org/apache/camel/maven/JavadocApiMethodGeneratorMojoTest_shouldAddCompilationRootsByConfiguration_8
+org.apache.camel.maven.AbstractSourceGeneratorMojo		1.0
+org.apache.camel.maven.JavadocParser		0.8086957
+org.apache.camel.maven.JavadocApiMethodGeneratorMojo		0.8
+org.apache.camel.maven.AbstractApiMethodGeneratorMojo		0.68899524
+org.apache.camel.maven.AbstractGeneratorMojo		0.6712329
+org.apache.camel.maven.Substitution		0.5925926
+org.apache.camel.maven.ExtraOption		0.5833333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-api-component-maven-plugin/target/site/clover/org/apache/camel/maven/JavadocApiMethodGeneratorMojoTest_shouldAddCompilationRootsByDefault_3
+org.apache.camel.maven.JavadocParser		0.8086957
+org.apache.camel.maven.JavadocApiMethodGeneratorMojo		0.8
+org.apache.camel.maven.AbstractApiMethodGeneratorMojo		0.68899524
+org.apache.camel.maven.AbstractGeneratorMojo		0.6712329
+org.apache.camel.maven.Substitution		0.5925926
+org.apache.camel.maven.ExtraOption		0.5833333
+org.apache.camel.maven.AbstractSourceGeneratorMojo		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-api-component-maven-plugin/target/site/clover/org/apache/camel/maven/JavadocApiMethodGeneratorMojoTest_testExecute_9
+org.apache.camel.maven.JavadocParser		0.8086957
+org.apache.camel.maven.JavadocApiMethodGeneratorMojo		0.8
+org.apache.camel.maven.AbstractApiMethodGeneratorMojo		0.68899524
+org.apache.camel.maven.AbstractGeneratorMojo		0.6712329
+org.apache.camel.maven.Substitution		0.5925926
+org.apache.camel.maven.ExtraOption		0.5833333
+org.apache.camel.maven.AbstractSourceGeneratorMojo		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-api-component-maven-plugin/target/site/clover/org/apache/camel/maven/JavadocParserTest
+JavadocParserTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-api-component-maven-plugin/target/site/clover/org/apache/camel/maven/JavadocParserTest_testGetMethods_7
+org.apache.camel.maven.JavadocParser		0.9391304
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-api-component-maven-plugin/target/site/clover/org/apache/camel/maven/test-AbstractGeneratorMojoTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-api-component-maven-plugin/target/site/clover/org/apache/camel/maven/test-ApiComponentGeneratorMojoTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-api-component-maven-plugin/target/site/clover/org/apache/camel/maven/test-DocumentGeneratorMojoTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-api-component-maven-plugin/target/site/clover/org/apache/camel/maven/test-FileApiMethodGeneratorMojoTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-api-component-maven-plugin/target/site/clover/org/apache/camel/maven/test-JavadocApiMethodGeneratorMojoTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-api-component-maven-plugin/target/site/clover/org/apache/camel/maven/test-JavadocParserTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

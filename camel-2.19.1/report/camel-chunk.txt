@@ -1,0 +1,88 @@
+./components/camel-chunk/target/site/clover/org/apache/camel
+./components/camel-chunk/target/site/clover/org/apache/camel/component/chunk/ChunkComponentLayersTest
+ChunkComponentLayersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chunk/target/site/clover/org/apache/camel/component/chunk/ChunkComponentLayersTest_testChunkLayer_8
+org.apache.camel.component.chunk.ChunkEndpoint		0.3828125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chunk/target/site/clover/org/apache/camel/component/chunk/ChunkComponentNestedLayersTest
+ChunkComponentNestedLayersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chunk/target/site/clover/org/apache/camel/component/chunk/ChunkComponentNestedLayersTest_testChunkDoubleLayers_0
+org.apache.camel.component.chunk.ChunkEndpoint		0.3828125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chunk/target/site/clover/org/apache/camel/component/chunk/ChunkComponentNestedTest
+ChunkComponentNestedTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chunk/target/site/clover/org/apache/camel/component/chunk/ChunkComponentNestedTest_testChunkSubfolder_9
+org.apache.camel.component.chunk.ChunkEndpoint		0.3828125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chunk/target/site/clover/org/apache/camel/component/chunk/ChunkComponentTemplateTest
+ChunkComponentTemplateTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chunk/target/site/clover/org/apache/camel/component/chunk/ChunkComponentTemplateTest_testChunkWithTemplateHeader_7
+org.apache.camel.component.chunk.ChunkEndpoint		0.296875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chunk/target/site/clover/org/apache/camel/component/chunk/ChunkComponentTest
+ChunkComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chunk/target/site/clover/org/apache/camel/component/chunk/ChunkComponentTest_testChunkPerformance_5
+org.apache.camel.component.chunk.ChunkEndpoint		0.390625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chunk/target/site/clover/org/apache/camel/component/chunk/ChunkComponentTest_testChunkWithResourceUriHeader_a
+org.apache.camel.component.chunk.ChunkComponent		0.6666667
+org.apache.camel.component.chunk.ChunkEndpoint		0.5546875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chunk/target/site/clover/org/apache/camel/component/chunk/ChunkComponentTest_testChunk_b
+org.apache.camel.component.chunk.ChunkEndpoint		0.3828125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chunk/target/site/clover/org/apache/camel/component/chunk/ChunkDifferentThemeFolderAndSubfolderTest
+ChunkDifferentThemeFolderAndSubfolderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chunk/target/site/clover/org/apache/camel/component/chunk/ChunkDifferentThemeFolderAndSubfolderTest_testChunkSubfolder_4
+org.apache.camel.component.chunk.ChunkEndpoint		0.3828125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chunk/target/site/clover/org/apache/camel/component/chunk/ChunkDifferentThemeFolderSubfolderAndExtensionTest
+ChunkDifferentThemeFolderSubfolderAndExtensionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chunk/target/site/clover/org/apache/camel/component/chunk/ChunkDifferentThemeFolderSubfolderAndExtensionTest_testChunkSubfolder_3
+org.apache.camel.component.chunk.ChunkEndpoint		0.3828125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chunk/target/site/clover/org/apache/camel/component/chunk/ChunkDifferentThemeFolderSubfolderAndLayerTest
+ChunkDifferentThemeFolderSubfolderAndLayerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chunk/target/site/clover/org/apache/camel/component/chunk/ChunkDifferentThemeFolderSubfolderAndLayerTest_testChunkSubfolder_6
+org.apache.camel.component.chunk.ChunkEndpoint		0.3828125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chunk/target/site/clover/org/apache/camel/component/chunk/ChunkDifferentThemeFolderTest
+ChunkDifferentThemeFolderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chunk/target/site/clover/org/apache/camel/component/chunk/ChunkDifferentThemeFolderTest_testChunkSingleLayer_2
+org.apache.camel.component.chunk.ChunkEndpoint		0.3828125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chunk/target/site/clover/org/apache/camel/component/chunk/ChunkLetterTest
+ChunkLetterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chunk/target/site/clover/org/apache/camel/component/chunk/ChunkLetterTest_testChunkLetter_1
+org.apache.camel.component.chunk.ChunkEndpoint		0.3828125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chunk/target/site/clover/org/apache/camel/component/chunk/test-ChunkComponentLayersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chunk/target/site/clover/org/apache/camel/component/chunk/test-ChunkComponentNestedLayersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chunk/target/site/clover/org/apache/camel/component/chunk/test-ChunkComponentNestedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chunk/target/site/clover/org/apache/camel/component/chunk/test-ChunkComponentTemplateTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chunk/target/site/clover/org/apache/camel/component/chunk/test-ChunkComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chunk/target/site/clover/org/apache/camel/component/chunk/test-ChunkDifferentThemeFolderAndSubfolderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chunk/target/site/clover/org/apache/camel/component/chunk/test-ChunkDifferentThemeFolderSubfolderAndExtensionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chunk/target/site/clover/org/apache/camel/component/chunk/test-ChunkDifferentThemeFolderSubfolderAndLayerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chunk/target/site/clover/org/apache/camel/component/chunk/test-ChunkDifferentThemeFolderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chunk/target/site/clover/org/apache/camel/component/chunk/test-ChunkLetterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

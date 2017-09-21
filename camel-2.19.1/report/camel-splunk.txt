@@ -1,0 +1,164 @@
+./components/camel-splunk/target/site/clover/org/apache/camel
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/ConsumerStreamingTest
+ConsumerStreamingTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/ConsumerStreamingTest_testSearch_d
+org.apache.camel.component.splunk.support.SplunkDataReader		0.31465518
+org.apache.camel.component.splunk.SplunkConsumer		0.23188406
+org.apache.camel.component.splunk.SplunkEndpoint		0.13461539
+org.apache.camel.component.splunk.SplunkConfiguration		0.11965812
+org.apache.camel.component.splunk.event.SplunkEvent		0.031007752
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/ConsumerTest
+ConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/ConsumerTest_testSearch_2
+org.apache.camel.component.splunk.SplunkConsumer		0.42028984
+org.apache.camel.component.splunk.support.SplunkDataReader		0.3577586
+org.apache.camel.component.splunk.SplunkEndpoint		0.13461539
+org.apache.camel.component.splunk.SplunkConfiguration		0.11965812
+org.apache.camel.component.splunk.event.SplunkEvent		0.031007752
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/ProducerTest
+ProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/ProducerTest_testBodyWithoutRawOption_8
+org.apache.camel.component.splunk.support.TcpDataWriter		0.46666667
+org.apache.camel.component.splunk.SplunkEndpoint		0.23076923
+org.apache.camel.component.splunk.support.SplunkDataWriter		0.20689656
+org.apache.camel.component.splunk.SplunkProducer		0.17741935
+org.apache.camel.component.splunk.SplunkConfiguration		0.042735044
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/ProducerTest_testStreamWriter_a
+org.apache.camel.component.splunk.ProducerType		0.85714287
+org.apache.camel.component.splunk.support.StreamDataWriter		0.77272725
+org.apache.camel.component.splunk.support.SplunkDataWriter		0.5862069
+org.apache.camel.component.splunk.SplunkProducer		0.5
+org.apache.camel.component.splunk.SplunkEndpoint		0.32692307
+org.apache.camel.component.splunk.event.SplunkEvent		0.13178295
+org.apache.camel.component.splunk.SplunkConfiguration		0.11111111
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/ProducerTest_testSubmitWriter_6
+org.apache.camel.component.splunk.ProducerType		0.85714287
+org.apache.camel.component.splunk.support.SubmitDataWriter		0.7777778
+org.apache.camel.component.splunk.SplunkProducer		0.5
+org.apache.camel.component.splunk.support.SplunkDataWriter		0.37931034
+org.apache.camel.component.splunk.SplunkEndpoint		0.34615386
+org.apache.camel.component.splunk.event.SplunkEvent		0.13178295
+org.apache.camel.component.splunk.SplunkConfiguration		0.11111111
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/ProducerTest_testTcpWriter_4
+org.apache.camel.component.splunk.support.TcpDataWriter		0.73333335
+org.apache.camel.component.splunk.ProducerType		0.71428573
+org.apache.camel.component.splunk.support.SplunkDataWriter		0.5862069
+org.apache.camel.component.splunk.SplunkProducer		0.5
+org.apache.camel.component.splunk.SplunkEndpoint		0.32692307
+org.apache.camel.component.splunk.event.SplunkEvent		0.13178295
+org.apache.camel.component.splunk.SplunkConfiguration		0.11111111
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/RawProducerTest
+RawProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/RawProducerTest_testStreamWriter_7
+org.apache.camel.component.splunk.support.StreamDataWriter		0.59090906
+org.apache.camel.component.splunk.support.SplunkDataWriter		0.4827586
+org.apache.camel.component.splunk.SplunkEndpoint		0.13461539
+org.apache.camel.component.splunk.SplunkProducer		0.12903225
+org.apache.camel.component.splunk.SplunkConfiguration		0.042735044
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/RawProducerTest_testSubmitWriter_f
+org.apache.camel.component.splunk.support.SubmitDataWriter		0.5555556
+org.apache.camel.component.splunk.support.SplunkDataWriter		0.27586207
+org.apache.camel.component.splunk.SplunkEndpoint		0.15384616
+org.apache.camel.component.splunk.SplunkProducer		0.12903225
+org.apache.camel.component.splunk.SplunkConfiguration		0.042735044
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/RawProducerTest_testTcpWriter_1
+org.apache.camel.component.splunk.support.SplunkDataWriter		0.4827586
+org.apache.camel.component.splunk.support.TcpDataWriter		0.46666667
+org.apache.camel.component.splunk.SplunkEndpoint		0.13461539
+org.apache.camel.component.splunk.SplunkProducer		0.12903225
+org.apache.camel.component.splunk.SplunkConfiguration		0.042735044
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/SplunkComponentConfigurationTest
+SplunkComponentConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/SplunkComponentConfigurationTest_createConsumerEndpointWithMaximalConfiguration_3
+org.apache.camel.component.splunk.SplunkComponent		0.8181818
+org.apache.camel.component.splunk.DefaultSplunkConfigurationFactory		0.75
+org.apache.camel.component.splunk.SplunkConfiguration		0.37606838
+org.apache.camel.component.splunk.SplunkEndpoint		0.09615385
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/SplunkComponentConfigurationTest_createConsumerEndpointWithMinimalConfiguration_b
+org.apache.camel.component.splunk.SplunkComponent		0.8181818
+org.apache.camel.component.splunk.DefaultSplunkConfigurationFactory		0.75
+org.apache.camel.component.splunk.SplunkConfiguration		0.18803419
+org.apache.camel.component.splunk.SplunkEndpoint		0.09615385
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/SplunkComponentConfigurationTest_createProducerEndpointWithMaximalConfiguration_9
+org.apache.camel.component.splunk.SplunkComponent		0.8181818
+org.apache.camel.component.splunk.DefaultSplunkConfigurationFactory		0.75
+org.apache.camel.component.splunk.SplunkConfiguration		0.4957265
+org.apache.camel.component.splunk.SplunkEndpoint		0.09615385
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/SplunkComponentConfigurationTest_createProducerEndpointWithMinimalConfiguration_e
+org.apache.camel.component.splunk.SplunkComponent		0.8181818
+org.apache.camel.component.splunk.DefaultSplunkConfigurationFactory		0.75
+org.apache.camel.component.splunk.SplunkConfiguration		0.20512821
+org.apache.camel.component.splunk.SplunkEndpoint		0.09615385
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/SplunkComponentConfigurationTest_createProducerWithoutUserAndPassword_0
+org.apache.camel.component.splunk.DefaultSplunkConfigurationFactory		0.75
+org.apache.camel.component.splunk.SplunkComponent		0.54545456
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/SplunkEventTest
+SplunkEventTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/SplunkEventTest_testEventDataFromMap_5
+org.apache.camel.component.splunk.event.SplunkEvent		0.11627907
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/SplunkEventTest_testEventDataWithQuotedValues_c
+org.apache.camel.component.splunk.event.SplunkEvent		0.2015504
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/SplunkMockTestSupport
+SplunkMockTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/integration/NormalSearchTest
+NormalSearchTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/integration/RealtimeSearchTest
+RealtimeSearchTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/integration/SavedSearchTest
+SavedSearchTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/integration/SplunkProducerTest
+SplunkProducerTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/integration/SplunkTest
+SplunkTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/integration/test-NormalSearchTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/integration/test-RealtimeSearchTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/integration/test-SavedSearchTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/integration/test-SplunkProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/integration/test-SplunkTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/test-ConsumerStreamingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/test-ConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/test-ProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/test-RawProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/test-SplunkComponentConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/test-SplunkEventTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-splunk/target/site/clover/org/apache/camel/component/splunk/test-SplunkMockTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --

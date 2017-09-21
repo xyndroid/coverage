@@ -1,0 +1,79 @@
+./components/camel-braintree/target/site/clover/org/apache/camel
+./components/camel-braintree/target/site/clover/org/apache/camel/component/braintree/AbstractBraintreeTestSupport
+AbstractBraintreeTestSupport		0.0
+AbstractBraintreeTestSupport.BraintreeHeaderBuilder		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-braintree/target/site/clover/org/apache/camel/component/braintree/AddOnGatewayIntegrationTest
+AddOnGatewayIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-braintree/target/site/clover/org/apache/camel/component/braintree/AddressGatewayIntegrationTest
+AddressGatewayIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-braintree/target/site/clover/org/apache/camel/component/braintree/ClientTokenGatewayIntegrationTest
+ClientTokenGatewayIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-braintree/target/site/clover/org/apache/camel/component/braintree/CreditCardVerificationGatewayIntegrationTest
+CreditCardVerificationGatewayIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-braintree/target/site/clover/org/apache/camel/component/braintree/CustomerGatewayIntegrationTest
+CustomerGatewayIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-braintree/target/site/clover/org/apache/camel/component/braintree/DiscountGatewayIntegrationTest
+DiscountGatewayIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-braintree/target/site/clover/org/apache/camel/component/braintree/MerchantAccountGatewayIntegrationTest
+MerchantAccountGatewayIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-braintree/target/site/clover/org/apache/camel/component/braintree/PaymentMethodGatewayIntegrationTest
+PaymentMethodGatewayIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-braintree/target/site/clover/org/apache/camel/component/braintree/PaymentMethodNonceGatewayIntegrationTest
+PaymentMethodNonceGatewayIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-braintree/target/site/clover/org/apache/camel/component/braintree/PlanGatewayIntegrationTest
+PlanGatewayIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-braintree/target/site/clover/org/apache/camel/component/braintree/SettlementBatchSummaryGatewayIntegrationTest
+SettlementBatchSummaryGatewayIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-braintree/target/site/clover/org/apache/camel/component/braintree/SubscriptionGatewayIntegrationTest
+SubscriptionGatewayIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-braintree/target/site/clover/org/apache/camel/component/braintree/TransactionGatewayIntegrationTest
+TransactionGatewayIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-braintree/target/site/clover/org/apache/camel/component/braintree/WebhookNotificationGatewayIntegrationTest
+WebhookNotificationGatewayIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-braintree/target/site/clover/org/apache/camel/component/braintree/test-AbstractBraintreeTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-braintree/target/site/clover/org/apache/camel/component/braintree/test-AbstractBraintreeTestSupport_BraintreeHeaderBuilder
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-braintree/target/site/clover/org/apache/camel/component/braintree/test-AddOnGatewayIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-braintree/target/site/clover/org/apache/camel/component/braintree/test-AddressGatewayIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-braintree/target/site/clover/org/apache/camel/component/braintree/test-ClientTokenGatewayIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-braintree/target/site/clover/org/apache/camel/component/braintree/test-CreditCardVerificationGatewayIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-braintree/target/site/clover/org/apache/camel/component/braintree/test-CustomerGatewayIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-braintree/target/site/clover/org/apache/camel/component/braintree/test-DiscountGatewayIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-braintree/target/site/clover/org/apache/camel/component/braintree/test-MerchantAccountGatewayIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-braintree/target/site/clover/org/apache/camel/component/braintree/test-PaymentMethodGatewayIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-braintree/target/site/clover/org/apache/camel/component/braintree/test-PaymentMethodNonceGatewayIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-braintree/target/site/clover/org/apache/camel/component/braintree/test-PlanGatewayIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-braintree/target/site/clover/org/apache/camel/component/braintree/test-SettlementBatchSummaryGatewayIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-braintree/target/site/clover/org/apache/camel/component/braintree/test-SubscriptionGatewayIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-braintree/target/site/clover/org/apache/camel/component/braintree/test-TransactionGatewayIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-braintree/target/site/clover/org/apache/camel/component/braintree/test-WebhookNotificationGatewayIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

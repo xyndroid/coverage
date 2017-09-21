@@ -1,0 +1,124 @@
+./components/camel-atmosphere-websocket/target/site/clover/org/apache/camel
+./components/camel-atmosphere-websocket/target/site/clover/org/apache/camel/component/atmosphere/websocket/MemoryWebSocketStoreTest
+MemoryWebSocketStoreTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmosphere-websocket/target/site/clover/org/apache/camel/component/atmosphere/websocket/MemoryWebSocketStoreTest_testAddAndRemove_4
+testAddAndRemove
+org.apache.camel.component.atmosphere.websocket.MemoryWebSocketStore		0.7647059
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmosphere-websocket/target/site/clover/org/apache/camel/component/atmosphere/websocket/TestClient
+TestClient		0.6545454
+TestClient.TestWebSocketListener		0.71428573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmosphere-websocket/target/site/clover/org/apache/camel/component/atmosphere/websocket/WebsocketCamelRouterTestSupport
+WebsocketCamelRouterTestSupport		0.9
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmosphere-websocket/target/site/clover/org/apache/camel/component/atmosphere/websocket/WebsocketCamelRouterWithInitParamTestSupport
+WebsocketCamelRouterWithInitParamTestSupport		0.9047619
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmosphere-websocket/target/site/clover/org/apache/camel/component/atmosphere/websocket/WebsocketRouteTest
+WebsocketRouteTest		0.88235295
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmosphere-websocket/target/site/clover/org/apache/camel/component/atmosphere/websocket/WebsocketRouteTest_testWebsocketBroadcastClient_2
+testWebsocketBroadcastClient
+org.apache.camel.component.atmosphere.websocket.WebsocketHandler		0.4883721
+org.apache.camel.component.atmosphere.websocket.MemoryWebSocketStore		0.44117647
+org.apache.camel.component.atmosphere.websocket.CamelWebSocketServlet		0.36585367
+org.apache.camel.component.atmosphere.websocket.WebsocketProducer		0.3255814
+org.apache.camel.component.atmosphere.websocket.WebsocketConsumer		0.31343284
+org.apache.camel.component.atmosphere.websocket.WebsocketEndpoint		0.14814815
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmosphere-websocket/target/site/clover/org/apache/camel/component/atmosphere/websocket/WebsocketRouteTest_testWebsocketEventsResendingDisabled_7
+testWebsocketEventsResendingDisabled
+org.apache.camel.component.atmosphere.websocket.MemoryWebSocketStore		0.38235295
+org.apache.camel.component.atmosphere.websocket.CamelWebSocketServlet		0.36585367
+org.apache.camel.component.atmosphere.websocket.WebsocketHandler		0.3488372
+org.apache.camel.component.atmosphere.websocket.WebsocketConsumer		0.19402985
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmosphere-websocket/target/site/clover/org/apache/camel/component/atmosphere/websocket/WebsocketRouteTest_testWebsocketSingleClientForBytes_1
+testWebsocketSingleClientForBytes
+org.apache.camel.component.atmosphere.websocket.WebsocketProducer		0.55813956
+org.apache.camel.component.atmosphere.websocket.WebsocketHandler		0.53488374
+org.apache.camel.component.atmosphere.websocket.MemoryWebSocketStore		0.44117647
+org.apache.camel.component.atmosphere.websocket.CamelWebSocketServlet		0.36585367
+org.apache.camel.component.atmosphere.websocket.WebsocketConsumer		0.31343284
+org.apache.camel.component.atmosphere.websocket.WebsocketEndpoint		0.14814815
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmosphere-websocket/target/site/clover/org/apache/camel/component/atmosphere/websocket/WebsocketRouteTest_testWebsocketSingleClientForInputStream_5
+testWebsocketSingleClientForInputStream
+org.apache.camel.component.atmosphere.websocket.WebsocketProducer		0.55813956
+org.apache.camel.component.atmosphere.websocket.WebsocketStreamHandler		0.5
+org.apache.camel.component.atmosphere.websocket.MemoryWebSocketStore		0.44117647
+org.apache.camel.component.atmosphere.websocket.CamelWebSocketServlet		0.36585367
+org.apache.camel.component.atmosphere.websocket.WebsocketHandler		0.3488372
+org.apache.camel.component.atmosphere.websocket.WebsocketConsumer		0.31343284
+org.apache.camel.component.atmosphere.websocket.WebsocketEndpoint		0.14814815
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmosphere-websocket/target/site/clover/org/apache/camel/component/atmosphere/websocket/WebsocketRouteTest_testWebsocketSingleClientForReader_9
+testWebsocketSingleClientForReader
+org.apache.camel.component.atmosphere.websocket.WebsocketProducer		0.5232558
+org.apache.camel.component.atmosphere.websocket.WebsocketStreamHandler		0.5
+org.apache.camel.component.atmosphere.websocket.CamelWebSocketServlet		0.36585367
+org.apache.camel.component.atmosphere.websocket.WebsocketConsumer		0.31343284
+org.apache.camel.component.atmosphere.websocket.MemoryWebSocketStore		0.2647059
+org.apache.camel.component.atmosphere.websocket.WebsocketHandler		0.20930232
+org.apache.camel.component.atmosphere.websocket.WebsocketEndpoint		0.14814815
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmosphere-websocket/target/site/clover/org/apache/camel/component/atmosphere/websocket/WebsocketRouteTest_testWebsocketSingleClient_a
+testWebsocketSingleClient
+org.apache.camel.component.atmosphere.websocket.WebsocketProducer		0.53488374
+org.apache.camel.component.atmosphere.websocket.WebsocketHandler		0.4883721
+org.apache.camel.component.atmosphere.websocket.MemoryWebSocketStore		0.44117647
+org.apache.camel.component.atmosphere.websocket.CamelWebSocketServlet		0.36585367
+org.apache.camel.component.atmosphere.websocket.WebsocketConsumer		0.31343284
+org.apache.camel.component.atmosphere.websocket.WebsocketEndpoint		0.14814815
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmosphere-websocket/target/site/clover/org/apache/camel/component/atmosphere/websocket/WebsocketRouteWithInitParamTest
+WebsocketRouteWithInitParamTest		0.9640288
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmosphere-websocket/target/site/clover/org/apache/camel/component/atmosphere/websocket/WebsocketRouteWithInitParamTest_testPassParametersWebsocketOnOpen_6
+testPassParametersWebsocketOnOpen
+org.apache.camel.component.atmosphere.websocket.CamelWebSocketServlet		0.36585367
+org.apache.camel.component.atmosphere.websocket.WebsocketConsumer		0.35820895
+org.apache.camel.component.atmosphere.websocket.WebsocketHandler		0.20930232
+org.apache.camel.component.atmosphere.websocket.MemoryWebSocketStore		0.14705883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmosphere-websocket/target/site/clover/org/apache/camel/component/atmosphere/websocket/WebsocketRouteWithInitParamTest_testWebsocketEventsResendingEnabled_0
+testWebsocketEventsResendingEnabled
+org.apache.camel.component.atmosphere.websocket.MemoryWebSocketStore		0.38235295
+org.apache.camel.component.atmosphere.websocket.WebsocketHandler		0.37209302
+org.apache.camel.component.atmosphere.websocket.CamelWebSocketServlet		0.36585367
+org.apache.camel.component.atmosphere.websocket.WebsocketConsumer		0.3283582
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmosphere-websocket/target/site/clover/org/apache/camel/component/atmosphere/websocket/WebsocketRouteWithInitParamTest_testWebsocketSingleClientBroadcastMultipleClientsGuaranteeDelivery_8
+testWebsocketSingleClientBroadcastMultipleClientsGuaranteeDelivery
+org.apache.camel.component.atmosphere.websocket.WebsocketProducer		0.60465115
+org.apache.camel.component.atmosphere.websocket.WebsocketConsumer		0.58208954
+org.apache.camel.component.atmosphere.websocket.WebsocketHandler		0.5116279
+org.apache.camel.component.atmosphere.websocket.MemoryWebSocketStore		0.44117647
+org.apache.camel.component.atmosphere.websocket.CamelWebSocketServlet		0.36585367
+org.apache.camel.component.atmosphere.websocket.WebsocketEndpoint		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmosphere-websocket/target/site/clover/org/apache/camel/component/atmosphere/websocket/WebsocketRouteWithInitParamTest_testWebsocketSingleClientBroadcastMultipleClients_3
+testWebsocketSingleClientBroadcastMultipleClients
+org.apache.camel.component.atmosphere.websocket.WebsocketProducer		0.53488374
+org.apache.camel.component.atmosphere.websocket.WebsocketHandler		0.5116279
+org.apache.camel.component.atmosphere.websocket.WebsocketConsumer		0.4477612
+org.apache.camel.component.atmosphere.websocket.MemoryWebSocketStore		0.44117647
+org.apache.camel.component.atmosphere.websocket.CamelWebSocketServlet		0.36585367
+org.apache.camel.component.atmosphere.websocket.WebsocketEndpoint		0.14814815
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmosphere-websocket/target/site/clover/org/apache/camel/component/atmosphere/websocket/test-MemoryWebSocketStoreTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmosphere-websocket/target/site/clover/org/apache/camel/component/atmosphere/websocket/test-TestClient
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmosphere-websocket/target/site/clover/org/apache/camel/component/atmosphere/websocket/test-TestClient_TestWebSocketListener
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmosphere-websocket/target/site/clover/org/apache/camel/component/atmosphere/websocket/test-WebsocketCamelRouterTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmosphere-websocket/target/site/clover/org/apache/camel/component/atmosphere/websocket/test-WebsocketCamelRouterWithInitParamTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmosphere-websocket/target/site/clover/org/apache/camel/component/atmosphere/websocket/test-WebsocketRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmosphere-websocket/target/site/clover/org/apache/camel/component/atmosphere/websocket/test-WebsocketRouteWithInitParamTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,22 @@
+./platforms/spring-boot/components-starter/camel-etcd-starter/target/site/clover/org/apache/camel
+./platforms/spring-boot/components-starter/camel-etcd-starter/target/site/clover/org/apache/camel/component/etcd/springboot/cloud/EtcdServiceDiscoveryDisabledTest
+EtcdServiceDiscoveryDisabledTest		1.0
+EtcdServiceDiscoveryDisabledTest.TestConfiguration		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-etcd-starter/target/site/clover/org/apache/camel/component/etcd/springboot/cloud/EtcdServiceDiscoveryDisabledTest_testConfiguration_0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-etcd-starter/target/site/clover/org/apache/camel/component/etcd/springboot/cloud/EtcdServiceDiscoveryEnabledTest
+EtcdServiceDiscoveryEnabledTest		1.0
+EtcdServiceDiscoveryEnabledTest.TestConfiguration		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-etcd-starter/target/site/clover/org/apache/camel/component/etcd/springboot/cloud/EtcdServiceDiscoveryEnabledTest_testConfiguration_1
+org.apache.camel.component.etcd.springboot.cloud.EtcdCloudAutoConfiguration		0.23529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-etcd-starter/target/site/clover/org/apache/camel/component/etcd/springboot/cloud/test-EtcdServiceDiscoveryDisabledTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-etcd-starter/target/site/clover/org/apache/camel/component/etcd/springboot/cloud/test-EtcdServiceDiscoveryDisabledTest_TestConfiguration
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-etcd-starter/target/site/clover/org/apache/camel/component/etcd/springboot/cloud/test-EtcdServiceDiscoveryEnabledTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-etcd-starter/target/site/clover/org/apache/camel/component/etcd/springboot/cloud/test-EtcdServiceDiscoveryEnabledTest_TestConfiguration
+-- -- -- -- -- -- -- -- -- -- -- -- --

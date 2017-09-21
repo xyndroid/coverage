@@ -1,0 +1,1226 @@
+./components/camel-restlet/target/site/clover/org/apache/camel
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/AddQueryTest
+AddQueryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/AddQueryTest_testAddQuery_t
+org.apache.camel.component.restlet.RestletProducer		0.096618354
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RecipientListInflightExchangesTest
+RecipientListInflightExchangesTest		1.0
+RecipientListInflightExchangesTest.MyInflightCheckBean		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RecipientListInflightExchangesTest_testRecipientListWithBean_32
+org.apache.camel.component.restlet.RestletHeaderFilterStrategy		1.0
+org.apache.camel.component.restlet.RestletEndpoint		0.60305345
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.RestletProducer		0.3236715
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.26679105
+org.apache.camel.component.restlet.RestletComponent		0.07677902
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletApiTest
+RestRestletApiTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletApiTest_testApi_1i
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.30037314
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletBindingInJaxbOutStringWithXmlTest
+RestRestletBindingInJaxbOutStringWithXmlTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletBindingInJaxbOutStringWithXmlTest_testBindingMode_2n
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.22761194
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletBindingModeAutoWithJsonTest
+RestRestletBindingModeAutoWithJsonTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletBindingModeAutoWithJsonTest_testBindingMode_33
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.22761194
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletBindingModeAutoWithXmlTest
+RestRestletBindingModeAutoWithXmlTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletBindingModeAutoWithXmlTest_testBindingMode_2e
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.22761194
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletBindingModeJsonTest
+RestRestletBindingModeJsonTest		0.9583333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletBindingModeJsonTest_testBindingModeWrong_10
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.0858209
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletBindingModeJsonTest_testBindingMode_v
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.22761194
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletBindingModeJsonWithContractTest
+RestRestletBindingModeJsonWithContractTest		0.9310345
+RestRestletBindingModeJsonWithContractTest.MyTypeConverters		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletBindingModeJsonWithContractTest_testBindingModeJsonWithContract_3f
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.22761194
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletBindingModeOffWithContractTest
+RestRestletBindingModeOffWithContractTest		0.94285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletBindingModeOffWithContractTest_testBindingModeOffWithContract_1q
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.22761194
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletBindingModeXmlTest
+RestRestletBindingModeXmlTest		0.9583333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletBindingModeXmlTest_testBindingModeWrong_d
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.0858209
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletBindingModeXmlTest_testBindingMode_2b
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.22761194
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletComponentConfigurationTest
+RestRestletComponentConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletComponentConfigurationTest_testRestletPojoInOut_1w
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.22761194
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+org.apache.camel.component.restlet.RestletComponent		0.007490637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletCorsTest
+RestRestletCorsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletCorsTest_testCors_2p
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.27238807
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletCorsTest_testRestletProducerGet_1e
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.28917912
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletCustomDataFormatInvalidTest
+RestRestletCustomDataFormatInvalidTest		0.93333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletCustomDataFormatInvalidTest_testCustom_1f
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletCustomDataFormatTest
+RestRestletCustomDataFormatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletCustomDataFormatTest_testRestletPojoInOutError_3b
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.22947761
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletCustomDataFormatTest_testRestletPojoInOutOk_22
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.22761194
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletGetCorsTest
+RestRestletGetCorsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletGetCorsTest_testCors_24
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.3022388
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletGetTest
+RestRestletGetTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletGetTest_testRestletProducerGet_k
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.12686567
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletHttpOptionsTest
+RestRestletHttpOptionsTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletPojoInOutCustomErrorResponseTest
+RestRestletPojoInOutCustomErrorResponseTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletPojoInOutCustomErrorResponseTest_testRestletPojoInOutError_1a
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.22947761
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletPojoInOutCustomErrorResponseTest_testRestletPojoInOutOk_1b
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.22761194
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletPojoInOutTest
+RestRestletPojoInOutTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletPojoInOutTest_testRestletPojoInOut_m
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.22761194
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletPostJsonJaxbPojoTest
+RestRestletPostJsonJaxbPojoTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletPostJsonJaxbPojoTest_testRestletPostJaxbPojo_3d
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.22761194
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletPostJsonPojoListTest
+RestRestletPostJsonPojoListTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletPostJsonPojoListTest_testRestletPostPojoList_17
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.22761194
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletPostJsonPojoOnExceptionTest
+RestRestletPostJsonPojoOnExceptionTest		0.9411765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletPostJsonPojoOnExceptionTest_testRestletPostPojoError_3a
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.22014925
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletPostJsonPojoTest
+RestRestletPostJsonPojoTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletPostJsonPojoTest_testRestletPostPojo_x
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.22761194
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletPostXmlJaxbPojoTest
+RestRestletPostXmlJaxbPojoTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletPostXmlJaxbPojoTest_testRestletPostJaxbPojoNoContentType_1v
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.22761194
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletPostXmlJaxbPojoTest_testRestletPostJaxbPojo_28
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.22761194
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletProducerGetJettyServerTest
+RestRestletProducerGetJettyServerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletProducerGetJettyServerTest_testRestletProducerGet_2t
+org.apache.camel.component.restlet.RestletProducer		0.30917874
+org.apache.camel.component.restlet.DefaultRestletBinding		0.125
+org.apache.camel.component.restlet.RestletEndpoint		0.10687023
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletProducerGetTest
+RestRestletProducerGetTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletProducerGetTest_testRestletProducerGet_1t
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.RestletProducer		0.30917874
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.25559703
+org.apache.camel.component.restlet.RestletEndpoint		0.17557251
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletProducerGetUriParameterTest
+RestRestletProducerGetUriParameterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletProducerGetUriParameterTest_testRestletProducerGet_12
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.RestletProducer		0.33333334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.25746268
+org.apache.camel.component.restlet.RestletEndpoint		0.17557251
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletVerbTest
+RestRestletVerbTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletVerbTest_testDelete_25
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.19029851
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletVerbTest_testGetAll_2f
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.20895523
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletVerbTest_testGetOne_2h
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.20895523
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletVerbTest_testPost_q
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.2108209
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestRestletVerbTest_testPut_4
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.2108209
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletAddRouteTest
+RestletAddRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletAddRouteTest_testResetProducer_9
+org.apache.camel.component.restlet.RestletHeaderFilterStrategy		1.0
+org.apache.camel.component.restlet.RestletConsumer		0.7083333
+org.apache.camel.component.restlet.RestletEndpoint		0.6793893
+org.apache.camel.component.restlet.MethodBasedRouter		0.5652174
+org.apache.camel.component.restlet.RestletProducer		0.3768116
+org.apache.camel.component.restlet.DefaultRestletBinding		0.26679105
+org.apache.camel.component.restlet.RestletComponent		0.17041199
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletConfigurationTest
+RestletConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletConfigurationTest_testConfiguration_3g
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletContentTypeTest
+RestletContentTypeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletContentTypeTest_testPostXmlWithXmlTag_n
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.20522387
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletContentTypeTest_testPostXml_21
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.20522387
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletEndpointUpdateEndpointUriTest
+RestletEndpointUpdateEndpointUriTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletEndpointUpdateEndpointUriTest_testUpdateEndpointUri_2
+org.apache.camel.component.restlet.converter.RestletConverter		0.3478261
+org.apache.camel.component.restlet.RestletEndpoint		0.26717559
+org.apache.camel.component.restlet.RestletComponent		0.07865169
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletExceptionResponseTest
+RestletExceptionResponseTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletExceptionResponseTest_testExceptionResponse_38
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+org.apache.camel.component.restlet.DefaultRestletBinding		0.07835821
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletExceptionResponseTest_testRestletProducerGetExceptionResponse_3
+org.apache.camel.component.restlet.RestletOperationException		0.59090906
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.RestletProducer		0.44927537
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.RestletEndpoint		0.23664123
+org.apache.camel.component.restlet.DefaultRestletBinding		0.21268657
+org.apache.camel.component.restlet.RestletComponent		0.007490637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletExceptionResponseTest_testSendRequestDirectEndpoint_h
+org.apache.camel.component.restlet.RestletOperationException		0.59090906
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.RestletProducer		0.3768116
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.21268657
+org.apache.camel.component.restlet.RestletEndpoint		0.17557251
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletFaultTest
+RestletFaultTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletFaultTest_testFaultResponse_s
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.21641791
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletHttpEmptyQueryParameterTest
+RestletHttpEmptyQueryParameterTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletHttpsWithGlobalSSLContextParametersTest
+RestletHttpsWithGlobalSSLContextParametersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletHttpsWithGlobalSSLContextParametersTest_testPostXml_15
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.20522387
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletHttpsWithSSLContextParametersTest
+RestletHttpsWithSSLContextParametersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletHttpsWithSSLContextParametersTest_testPostXml_2z
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.20522387
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletMultiMethodsEndpointTest
+RestletMultiMethodsEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletMultiMethodsEndpointTest_testDeleteMethod_2u
+org.apache.camel.component.restlet.MethodBasedRouter		0.39130434
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletMultiMethodsEndpointTest_testGetMethod_2o
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.12686567
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletMultiMethodsEndpointTest_testPostMethod_1u
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.12686567
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletMultiMethodsEndpointTest_testPutMethod_1g
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.12686567
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletMultiRoutesEndpointTest
+RestletMultiRoutesEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletMultiRoutesEndpointTest_testGetMethod_6
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.12686567
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletMultiRoutesEndpointTest_testPostMethod_1n
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.12686567
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletMultiRoutesEndpointTest_testPutMethod_1k
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.12686567
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletMultiUriTemplatesEndpointTest
+RestletMultiUriTemplatesEndpointTest		0.96428573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletMultiUriTemplatesEndpointTest_testGetAtomUriPattern_8
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.12686567
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletMultiUriTemplatesEndpointTest_testPostUserUriPattern_20
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.12686567
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletPostContentTest
+RestletPostContentTest		1.0
+RestletPostContentTest.SetUserProcessor		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletPostContentTest_testPostBody_2j
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.21828358
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletPostFormTest
+RestletPostFormTest		1.0
+RestletPostFormTest.PostProcessor		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletPostFormTest_testPostBody_7
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.25
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletPostXmlRouteAndJSONAsReturnTest
+RestletPostXmlRouteAndJSONAsReturnTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletPostXmlRouteAndJSONAsReturnTest_testPostXmlWithXmlTag_14
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.DefaultRestletBinding		0.3619403
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.RestletProducer		0.26086956
+org.apache.camel.component.restlet.RestletEndpoint		0.17557251
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletPostXmlRouteAndJSONAsReturnTest_testPostXml_29
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.DefaultRestletBinding		0.3619403
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.RestletProducer		0.26086956
+org.apache.camel.component.restlet.RestletEndpoint		0.17557251
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletPostXmlRouteTest
+RestletPostXmlRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletPostXmlRouteTest_testPostXmlWithXmlTag_z
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.DefaultRestletBinding		0.3619403
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.RestletProducer		0.26086956
+org.apache.camel.component.restlet.RestletEndpoint		0.17557251
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletPostXmlRouteTest_testPostXml_1
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.DefaultRestletBinding		0.3619403
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.RestletProducer		0.26086956
+org.apache.camel.component.restlet.RestletEndpoint		0.17557251
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletPostXmlTest
+RestletPostXmlTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletPostXmlTest_testPostXmlWithXmlTag_1l
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.20522387
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletPostXmlTest_testPostXml_l
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.20522387
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletProducerAcceptContentTypeTest
+RestletProducerAcceptContentTypeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletProducerAcceptContentTypeTest_testPostXmlWithXmlTag_5
+org.apache.camel.component.restlet.converter.RestletConverter		0.5652174
+org.apache.camel.component.restlet.RestletProducer		0.26086956
+org.apache.camel.component.restlet.DefaultRestletBinding		0.16231343
+org.apache.camel.component.restlet.RestletEndpoint		0.10687023
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletProducerAcceptContentTypeTest_testPostXml_r
+org.apache.camel.component.restlet.converter.RestletConverter		0.5652174
+org.apache.camel.component.restlet.RestletProducer		0.26086956
+org.apache.camel.component.restlet.DefaultRestletBinding		0.16231343
+org.apache.camel.component.restlet.RestletEndpoint		0.10687023
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletProducerBinaryStreamTest
+RestletProducerBinaryStreamTest		0.96428573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletProducerBinaryStreamTest_shouldAutoClose_2v
+org.apache.camel.component.restlet.RestletHeaderFilterStrategy		1.0
+org.apache.camel.component.restlet.RestletOnCompletion		1.0
+org.apache.camel.component.restlet.RestletEndpoint		0.6335878
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.DefaultRestletBinding		0.34514925
+org.apache.camel.component.restlet.RestletProducer		0.33333334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.RestletComponent		0.07677902
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletProducerBinaryStreamTest_shouldHandleBinaryAudioMpeg_e
+org.apache.camel.component.restlet.RestletHeaderFilterStrategy		1.0
+org.apache.camel.component.restlet.RestletEndpoint		0.6183206
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.DefaultRestletBinding		0.3432836
+org.apache.camel.component.restlet.RestletProducer		0.33333334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.RestletComponent		0.07677902
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletProducerBinaryStreamTest_shouldHandleBinaryOctetStream_3e
+org.apache.camel.component.restlet.RestletHeaderFilterStrategy		1.0
+org.apache.camel.component.restlet.RestletEndpoint		0.6183206
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.DefaultRestletBinding		0.3432836
+org.apache.camel.component.restlet.RestletProducer		0.33333334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.RestletComponent		0.07677902
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletProducerConcurrentTest
+RestletProducerConcurrentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletProducerConcurrentTest_testConcurrentProducers_31
+org.apache.camel.component.restlet.RestletHeaderFilterStrategy		1.0
+org.apache.camel.component.restlet.RestletEndpoint		0.6183206
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.RestletProducer		0.33333334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.26679105
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletComponent		0.07677902
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletProducerConcurrentTest_testNoConcurrentProducers_35
+org.apache.camel.component.restlet.RestletHeaderFilterStrategy		1.0
+org.apache.camel.component.restlet.RestletEndpoint		0.6183206
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.RestletProducer		0.33333334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.26679105
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletComponent		0.07677902
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletProducerGet2Test
+RestletProducerGet2Test		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletProducerGet2Test_testRestletProducerGet2_13
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.RestletProducer		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.25559703
+org.apache.camel.component.restlet.RestletEndpoint		0.17557251
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletProducerGetResponseCodeTest
+RestletProducerGetResponseCodeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletProducerGetResponseCodeTest_testRestletProducerGet_u
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.RestletProducer		0.26086956
+org.apache.camel.component.restlet.DefaultRestletBinding		0.25559703
+org.apache.camel.component.restlet.RestletEndpoint		0.17557251
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletProducerPropagateHeadersTest
+RestletProducerPropagateHeadersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletProducerPropagateHeadersTest_testRestletProducerGet_p
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.RestletProducer		0.26086956
+org.apache.camel.component.restlet.DefaultRestletBinding		0.25559703
+org.apache.camel.component.restlet.RestletEndpoint		0.17557251
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletProducerSessionTest
+RestletProducerSessionTest		0.9767442
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletProducerSessionTest_testProducerExchangeSession_2w
+org.apache.camel.component.restlet.RestletProducer		0.34299517
+org.apache.camel.component.restlet.DefaultRestletBinding		0.1716418
+org.apache.camel.component.restlet.RestletEndpoint		0.10687023
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletProducerSessionTest_testProducerInstanceSession_f
+org.apache.camel.component.restlet.RestletProducer		0.34299517
+org.apache.camel.component.restlet.DefaultRestletBinding		0.1716418
+org.apache.camel.component.restlet.RestletEndpoint		0.10687023
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletProducerSessionTest_testProducerNoSession_2r
+org.apache.camel.component.restlet.RestletProducer		0.26086956
+org.apache.camel.component.restlet.DefaultRestletBinding		0.1716418
+org.apache.camel.component.restlet.RestletEndpoint		0.10687023
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletProducerSynchronouslyTest
+RestletProducerSynchronouslyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletProducerSynchronouslyTest_testRestletProducerDelete_1z
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.25559703
+org.apache.camel.component.restlet.RestletProducer		0.25120774
+org.apache.camel.component.restlet.RestletEndpoint		0.17557251
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletProducerSynchronouslyTest_testRestletProducerGet_j
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.25559703
+org.apache.camel.component.restlet.RestletProducer		0.25120774
+org.apache.camel.component.restlet.RestletEndpoint		0.17557251
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletProducerTest
+RestletProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletProducerTest_testRestletProducerDelete_26
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.RestletProducer		0.26086956
+org.apache.camel.component.restlet.DefaultRestletBinding		0.25559703
+org.apache.camel.component.restlet.RestletEndpoint		0.17557251
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletProducerTest_testRestletProducerGet_2a
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.RestletProducer		0.26086956
+org.apache.camel.component.restlet.DefaultRestletBinding		0.25559703
+org.apache.camel.component.restlet.RestletEndpoint		0.17557251
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletProducerTimeoutTest
+RestletProducerTimeoutTest		0.90909094
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletProducerTimeoutTest_testRestletProducerTimeout_1y
+org.apache.camel.component.restlet.RestletHeaderFilterStrategy		1.0
+org.apache.camel.component.restlet.RestletEndpoint		0.6183206
+org.apache.camel.component.restlet.RestletProducer		0.44444445
+org.apache.camel.component.restlet.RestletOperationException		0.4090909
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.RestletConsumer		0.27083334
+org.apache.camel.component.restlet.DefaultRestletBinding		0.14365672
+org.apache.camel.component.restlet.RestletComponent		0.07677902
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletQueryTest
+RestletQueryTest		1.0
+RestletQueryTest.SetUserProcessor		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletQueryTest_testGetBodyByRestletProducer_1d
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.RestletProducer		0.36714977
+org.apache.camel.component.restlet.DefaultRestletBinding		0.32089552
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.RestletEndpoint		0.17557251
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletQueryTest_testPostBody_2q
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.19216418
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletRecipientListTest
+RestletRecipientListTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletRecipientListTest_testRestlet_2i
+org.apache.camel.component.restlet.RestletHeaderFilterStrategy		1.0
+org.apache.camel.component.restlet.RestletEndpoint		0.6183206
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.DefaultRestletBinding		0.41791046
+org.apache.camel.component.restlet.RestletProducer		0.33333334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.converter.RestletConverter		0.17391305
+org.apache.camel.component.restlet.RestletComponent		0.07677902
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletRedirectTest
+RestletRedirectTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletRedirectTest_testRedirect_c
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.20522387
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletRequestAndResponseAPITest
+RestletRequestAndResponseAPITest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletRequestAndResponseAPITest_testRestletProducer2_2x
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.RestletProducer		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.24067163
+org.apache.camel.component.restlet.RestletEndpoint		0.17557251
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletRequestAndResponseAPITest_testRestletProducer_2l
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.RestletProducer		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.24067163
+org.apache.camel.component.restlet.RestletEndpoint		0.17557251
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletResponseTest
+RestletResponseTest		0.9705882
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletResponseTest_testCustomResponse_2y
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.23134328
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletResponseTest_testRestletProducer_2s
+org.apache.camel.component.restlet.RestletProducer		0.49275362
+org.apache.camel.component.restlet.RestletOperationException		0.4090909
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.DefaultRestletBinding		0.36567163
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.RestletEndpoint		0.23664123
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletComponent		0.007490637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletRestProducerPutTest
+RestletRestProducerPutTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletRestProducerPutTest_testRestletProducerPut_2m
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.DefaultRestletBinding		0.4067164
+org.apache.camel.component.restlet.RestletProducer		0.30917874
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.RestletEndpoint		0.17557251
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletRestartRouteTest
+RestletRestartRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletRestartRouteTest_testResetConsumer_23
+org.apache.camel.component.restlet.RestletConsumer		0.8333333
+org.apache.camel.component.restlet.MethodBasedRouter		0.82608694
+org.apache.camel.component.restlet.RestletProducer		0.3043478
+org.apache.camel.component.restlet.RestletEndpoint		0.28244275
+org.apache.camel.component.restlet.DefaultRestletBinding		0.25559703
+org.apache.camel.component.restlet.RestletComponent		0.14794007
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletRestartRouteTest_testResetProducer_18
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.RestletProducer		0.39130434
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.25559703
+org.apache.camel.component.restlet.RestletEndpoint		0.2519084
+org.apache.camel.component.restlet.RestletComponent		0.007490637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletRouteBuilderAuthTest
+RestletRouteBuilderAuthTest		0.8947368
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletRouteBuilderAuthTest_testBasicAuth_1r
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.29850745
+org.apache.camel.component.restlet.RestletProducer		0.26086956
+org.apache.camel.component.restlet.RestletEndpoint		0.17557251
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletRouteBuilderAuthTest_testhBasicAuthError_3c
+org.apache.camel.component.restlet.RestletOperationException		0.4090909
+org.apache.camel.component.restlet.RestletProducer		0.3768116
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.1119403
+org.apache.camel.component.restlet.RestletEndpoint		0.10687023
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletRouteBuilderTest
+RestletRouteBuilderTest		0.9710145
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletRouteBuilderTest_testConsumerWithSpaces_1p
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.12686567
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletRouteBuilderTest_testConsumer_37
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.12686567
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletRouteBuilderTest_testFormsProducerMapBody_y
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.RestletProducer		0.33333334
+org.apache.camel.component.restlet.DefaultRestletBinding		0.30597016
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.RestletEndpoint		0.23664123
+org.apache.camel.component.restlet.RestletComponent		0.007490637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletRouteBuilderTest_testFormsProducer_16
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.RestletProducer		0.33333334
+org.apache.camel.component.restlet.DefaultRestletBinding		0.30597016
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.RestletEndpoint		0.23664123
+org.apache.camel.component.restlet.RestletComponent		0.007490637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletRouteBuilderTest_testNotFound_o
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletRouteBuilderTest_testProducerJSONFailure_34
+org.apache.camel.component.restlet.RestletHeaderFilterStrategy		1.0
+org.apache.camel.component.restlet.RestletEndpoint		0.6183206
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.RestletProducer		0.33333334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.30410448
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletComponent		0.07865169
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletRouteBuilderTest_testProducerJSON_w
+org.apache.camel.component.restlet.RestletHeaderFilterStrategy		1.0
+org.apache.camel.component.restlet.RestletEndpoint		0.6183206
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.RestletProducer		0.33333334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.30410448
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletComponent		0.07865169
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletRouteBuilderTest_testProducer_2k
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.RestletProducer		0.33333334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.29291046
+org.apache.camel.component.restlet.RestletEndpoint		0.23664123
+org.apache.camel.component.restlet.RestletComponent		0.007490637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletRouteBuilderTest_testUnhandledConsumer_2d
+org.apache.camel.component.restlet.MethodBasedRouter		0.39130434
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletSetBodyTest
+RestletSetBodyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletSetBodyTest_consumerShouldReturnByteArray_b
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.21828358
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletSetBodyTest_consumerShouldReturnInputStream_1s
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.20895523
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletSetBodyTest_testGzipEntity_27
+org.apache.camel.component.restlet.RestletHeaderFilterStrategy		1.0
+org.apache.camel.component.restlet.RestletEndpoint		0.6183206
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.DefaultRestletBinding		0.33768657
+org.apache.camel.component.restlet.RestletProducer		0.33333334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletComponent		0.07677902
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletSetBodyTest_testSetBodyRepresentation_0
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.1977612
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletSetBodyTest_testSetBody_1c
+org.apache.camel.component.restlet.RestletHeaderFilterStrategy		1.0
+org.apache.camel.component.restlet.RestletEndpoint		0.6183206
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.DefaultRestletBinding		0.35261193
+org.apache.camel.component.restlet.RestletProducer		0.33333334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletComponent		0.07677902
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletTestSupport
+RestletTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletThrowExceptionOnFailureTest
+RestletThrowExceptionOnFailureTest		0.6666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletThrowExceptionOnFailureTest_testRestletProducerGet2_1x
+org.apache.camel.component.restlet.RestletProducer		0.42028984
+org.apache.camel.component.restlet.RestletOperationException		0.4090909
+org.apache.camel.component.restlet.RestletEndpoint		0.10687023
+org.apache.camel.component.restlet.DefaultRestletBinding		0.08208955
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletTwoEndpointsTest
+RestletTwoEndpointsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletTwoEndpointsTest_testRestletProducerGetMore_19
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.RestletProducer		0.26086956
+org.apache.camel.component.restlet.DefaultRestletBinding		0.25559703
+org.apache.camel.component.restlet.RestletEndpoint		0.17557251
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletTwoEndpointsTest_testRestletProducerGet_g
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.RestletProducer		0.26086956
+org.apache.camel.component.restlet.DefaultRestletBinding		0.25559703
+org.apache.camel.component.restlet.RestletEndpoint		0.17557251
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletValidUriQueryTest
+RestletValidUriQueryTest		1.0
+RestletValidUriQueryTest.SetUserProcessor		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletValidUriQueryTest_testGetBodyByRestletProducer_1o
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.RestletProducer		0.36714977
+org.apache.camel.component.restlet.DefaultRestletBinding		0.32089552
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.RestletEndpoint		0.17557251
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/RestletValidUriQueryTest_testPostBody_1j
+org.apache.camel.component.restlet.RestletConsumer		0.39583334
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.19216418
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/SpringRestRestletPojoInOutTest
+SpringRestRestletPojoInOutTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/SpringRestRestletPojoInOutTest_testRestletPojoInOut_2g
+org.apache.camel.component.restlet.RestletHelper		0.61538464
+org.apache.camel.component.restlet.RestletConsumer		0.47916666
+org.apache.camel.component.restlet.MethodBasedRouter		0.3043478
+org.apache.camel.component.restlet.DefaultRestletBinding		0.22761194
+org.apache.camel.component.restlet.converter.RestletConverter		0.08695652
+org.apache.camel.component.restlet.RestletEndpoint		0.08396947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/converter/RestletConverterTest
+RestletConverterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/converter/RestletConverterTest_shouldConvertMediaTypes_a
+shouldConvertMediaTypes
+org.apache.camel.component.restlet.converter.RestletConverter		0.5652174
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/converter/RestletConverterTest_shouldConvertNoMediaTypes_i
+shouldConvertNoMediaTypes
+org.apache.camel.component.restlet.converter.RestletConverter		0.5217391
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/converter/test-RestletConverterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/route/TestRouteBuilder
+TestRouteBuilder		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/route/test-TestRouteBuilder
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-AddQueryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RecipientListInflightExchangesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RecipientListInflightExchangesTest_MyInflightCheckBean
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestRestletApiTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestRestletBindingInJaxbOutStringWithXmlTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestRestletBindingModeAutoWithJsonTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestRestletBindingModeAutoWithXmlTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestRestletBindingModeJsonTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestRestletBindingModeJsonWithContractTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestRestletBindingModeJsonWithContractTest_MyTypeConverters
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestRestletBindingModeOffWithContractTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestRestletBindingModeXmlTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestRestletComponentConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestRestletCorsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestRestletCustomDataFormatInvalidTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestRestletCustomDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestRestletGetCorsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestRestletGetTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestRestletHttpOptionsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestRestletPojoInOutCustomErrorResponseTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestRestletPojoInOutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestRestletPostJsonJaxbPojoTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestRestletPostJsonPojoListTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestRestletPostJsonPojoOnExceptionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestRestletPostJsonPojoTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestRestletPostXmlJaxbPojoTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestRestletProducerGetJettyServerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestRestletProducerGetTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestRestletProducerGetUriParameterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestRestletVerbTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletAddRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletContentTypeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletEndpointUpdateEndpointUriTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletExceptionResponseTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletFaultTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletHttpEmptyQueryParameterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletHttpsWithGlobalSSLContextParametersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletHttpsWithSSLContextParametersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletMultiMethodsEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletMultiRoutesEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletMultiUriTemplatesEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletPostContentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletPostContentTest_SetUserProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletPostFormTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletPostFormTest_PostProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletPostXmlRouteAndJSONAsReturnTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletPostXmlRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletPostXmlTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletProducerAcceptContentTypeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletProducerBinaryStreamTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletProducerConcurrentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletProducerGet2Test
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletProducerGetResponseCodeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletProducerPropagateHeadersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletProducerSessionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletProducerSynchronouslyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletProducerTimeoutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletQueryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletQueryTest_SetUserProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletRecipientListTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletRedirectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletRequestAndResponseAPITest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletResponseTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletRestProducerPutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletRestartRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletRouteBuilderAuthTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletRouteBuilderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletSetBodyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletThrowExceptionOnFailureTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletTwoEndpointsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletValidUriQueryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-RestletValidUriQueryTest_SetUserProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-restlet/target/site/clover/org/apache/camel/component/restlet/test-SpringRestRestletPojoInOutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

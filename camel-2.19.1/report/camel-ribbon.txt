@@ -1,0 +1,111 @@
+./components/camel-ribbon/target/site/clover/org/apache/camel
+./components/camel-ribbon/target/site/clover/org/apache/camel/component/ribbon/cloud/RibbonServerListTest
+RibbonServerListTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ribbon/target/site/clover/org/apache/camel/component/ribbon/cloud/RibbonServerListTest_testFixedServerList_0
+testFixedServerList
+org.apache.camel.component.ribbon.cloud.RibbonServiceLoadBalancer.RibbonServerList		0.5151515
+org.apache.camel.component.ribbon.cloud.RibbonServiceDefinition		0.43333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ribbon/target/site/clover/org/apache/camel/component/ribbon/cloud/RibbonServiceCallRegistryRouteTest
+RibbonServiceCallRegistryRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ribbon/target/site/clover/org/apache/camel/component/ribbon/cloud/RibbonServiceCallRegistryRouteTest_testServiceCall_9
+testServiceCall
+org.apache.camel.component.ribbon.cloud.RibbonServiceDefinition		0.7
+org.apache.camel.component.ribbon.cloud.RibbonServiceLoadBalancer.RibbonServerList		0.6666667
+org.apache.camel.component.ribbon.cloud.RibbonServiceLoadBalancer		0.29411766
+org.apache.camel.component.ribbon.RibbonConfiguration		0.23809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ribbon/target/site/clover/org/apache/camel/component/ribbon/cloud/RibbonServiceCallRouteDslTest
+RibbonServiceCallRouteDslTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ribbon/target/site/clover/org/apache/camel/component/ribbon/cloud/RibbonServiceCallRouteDslTest_testServiceCall_5
+testServiceCall
+org.apache.camel.component.ribbon.cloud.RibbonServiceDefinition		0.7
+org.apache.camel.component.ribbon.cloud.RibbonServiceLoadBalancer.RibbonServerList		0.6666667
+org.apache.camel.component.ribbon.cloud.RibbonServiceLoadBalancer		0.30882353
+org.apache.camel.component.ribbon.RibbonConfiguration		0.23809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ribbon/target/site/clover/org/apache/camel/component/ribbon/cloud/RibbonServiceCallRouteTest
+RibbonServiceCallRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ribbon/target/site/clover/org/apache/camel/component/ribbon/cloud/RibbonServiceCallRouteTest_testServiceCall_2
+testServiceCall
+org.apache.camel.component.ribbon.cloud.RibbonServiceDefinition		0.7
+org.apache.camel.component.ribbon.cloud.RibbonServiceLoadBalancer.RibbonServerList		0.6666667
+org.apache.camel.component.ribbon.cloud.RibbonServiceLoadBalancer		0.29411766
+org.apache.camel.component.ribbon.RibbonConfiguration		0.23809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ribbon/target/site/clover/org/apache/camel/component/ribbon/cloud/RibbonServiceCallUpdateRouteTest
+RibbonServiceCallUpdateRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ribbon/target/site/clover/org/apache/camel/component/ribbon/cloud/RibbonServiceCallUpdateRouteTest_testServiceCall_7
+testServiceCall
+org.apache.camel.component.ribbon.cloud.RibbonServiceDefinition		0.7
+org.apache.camel.component.ribbon.cloud.RibbonServiceLoadBalancer.RibbonServerList		0.6666667
+org.apache.camel.component.ribbon.cloud.RibbonServiceLoadBalancer		0.36764705
+org.apache.camel.component.ribbon.RibbonConfiguration		0.23809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ribbon/target/site/clover/org/apache/camel/component/ribbon/cloud/SpringBeanServiceCallRouteTest
+SpringBeanServiceCallRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ribbon/target/site/clover/org/apache/camel/component/ribbon/cloud/SpringBeanServiceCallRouteTest_testServiceCallConfiguration_3
+testServiceCallConfiguration
+org.apache.camel.component.ribbon.cloud.RibbonServiceLoadBalancer		0.029411765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ribbon/target/site/clover/org/apache/camel/component/ribbon/cloud/SpringBeanServiceCallRouteTest_testServiceCall_a
+testServiceCall
+org.apache.camel.component.ribbon.cloud.RibbonServiceDefinition		0.7
+org.apache.camel.component.ribbon.cloud.RibbonServiceLoadBalancer.RibbonServerList		0.6666667
+org.apache.camel.component.ribbon.cloud.RibbonServiceLoadBalancer		0.29411766
+org.apache.camel.component.ribbon.RibbonConfiguration		0.23809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ribbon/target/site/clover/org/apache/camel/component/ribbon/cloud/SpringDslRibbonPropertiesServiceCallRouteTest
+SpringDslRibbonPropertiesServiceCallRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ribbon/target/site/clover/org/apache/camel/component/ribbon/cloud/SpringDslRibbonPropertiesServiceCallRouteTest_testServiceCallConfiguration_1
+testServiceCallConfiguration
+org.apache.camel.component.ribbon.cloud.RibbonServiceLoadBalancer		0.029411765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ribbon/target/site/clover/org/apache/camel/component/ribbon/cloud/SpringDslRibbonPropertiesServiceCallRouteTest_testServiceCall_b
+testServiceCall
+org.apache.camel.component.ribbon.cloud.RibbonServiceDefinition		0.7
+org.apache.camel.component.ribbon.cloud.RibbonServiceLoadBalancer		0.42647058
+org.apache.camel.component.ribbon.RibbonConfiguration		0.0952381
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ribbon/target/site/clover/org/apache/camel/component/ribbon/cloud/SpringDslRibbonServiceCallRouteTest
+SpringDslRibbonServiceCallRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ribbon/target/site/clover/org/apache/camel/component/ribbon/cloud/SpringDslRibbonServiceCallRouteTest_testServiceCallConfiguration_8
+testServiceCallConfiguration
+org.apache.camel.component.ribbon.cloud.RibbonServiceLoadBalancer		0.029411765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ribbon/target/site/clover/org/apache/camel/component/ribbon/cloud/SpringDslRibbonServiceCallRouteTest_testServiceCall_4
+testServiceCall
+org.apache.camel.component.ribbon.cloud.RibbonServiceDefinition		0.7
+org.apache.camel.component.ribbon.cloud.RibbonServiceLoadBalancer.RibbonServerList		0.6666667
+org.apache.camel.component.ribbon.cloud.RibbonServiceLoadBalancer		0.30882353
+org.apache.camel.component.ribbon.RibbonConfiguration		0.23809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ribbon/target/site/clover/org/apache/camel/component/ribbon/cloud/SpringRibbonServiceCallRouteTest
+SpringRibbonServiceCallRouteTest		0.9166667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ribbon/target/site/clover/org/apache/camel/component/ribbon/cloud/test-RibbonServerListTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ribbon/target/site/clover/org/apache/camel/component/ribbon/cloud/test-RibbonServiceCallRegistryRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ribbon/target/site/clover/org/apache/camel/component/ribbon/cloud/test-RibbonServiceCallRouteDslTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ribbon/target/site/clover/org/apache/camel/component/ribbon/cloud/test-RibbonServiceCallRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ribbon/target/site/clover/org/apache/camel/component/ribbon/cloud/test-RibbonServiceCallUpdateRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ribbon/target/site/clover/org/apache/camel/component/ribbon/cloud/test-SpringBeanServiceCallRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ribbon/target/site/clover/org/apache/camel/component/ribbon/cloud/test-SpringDslRibbonPropertiesServiceCallRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ribbon/target/site/clover/org/apache/camel/component/ribbon/cloud/test-SpringDslRibbonServiceCallRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ribbon/target/site/clover/org/apache/camel/component/ribbon/cloud/test-SpringRibbonServiceCallRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,250 @@
+./components/camel-test/target/site/clover/org/apache/camel
+./components/camel-test/target/site/clover/org/apache/camel/test/AvailablePortFinderTest
+AvailablePortFinderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/AvailablePortFinderTest_getMaxOutOfRangePort_a
+org.apache.camel.test.AvailablePortFinder		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/AvailablePortFinderTest_getMinOutOfRangePort_e
+org.apache.camel.test.AvailablePortFinder		0.25862068
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/AvailablePortFinderTest_getNextAvailablePort_d
+org.apache.camel.test.AvailablePortFinder		0.5344828
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/AvailablePortFinderTest_testGetNextAvailablePortInt_5
+org.apache.camel.test.AvailablePortFinder		0.46551725
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/AvailablePortFinderTest_testNotAvailablePort_1
+org.apache.camel.test.AvailablePortFinder		0.5344828
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/CamelTestSupportTest
+CamelTestSupportTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/CamelTestSupportTest_autoCreateNoneExisting_p
+org.apache.camel.test.junit4.TestSupport		0.018604651
+org.apache.camel.test.junit4.CamelTestSupport		0.014354067
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/CamelTestSupportTest_exceptionThrownWhenEndpointNotAMockEndpoint_h
+org.apache.camel.test.junit4.CamelTestSupport		0.016746411
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/CamelTestSupportTest_exceptionThrownWhenEndpointNotFoundAndNoCreate_3
+org.apache.camel.test.junit4.CamelTestSupport		0.016746411
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/CamelTestSupportTest_replacesFromEndpoint_g
+org.apache.camel.test.junit4.CamelTestSupport		0.023923445
+org.apache.camel.test.junit4.TestSupport		0.018604651
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/CamelTestSupportTest_testCreateRegistry_w
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/TestSupport
+TestSupport		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/TestSupportNodeIdFactory
+TestSupportNodeIdFactory		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/junit4/CamelTestSupport
+CamelTestSupport		0.7583732
+CamelTestSupport.DebugBreakpoint		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/junit4/CamelTestWatcher
+CamelTestWatcher		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/junit4/ExchangeTestSupport
+ExchangeTestSupport		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/junit4/LanguageTestSupport
+LanguageTestSupport		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/junit4/TestSupport
+TestSupport		0.060465116
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/AsyncSendMockTest
+AsyncSendMockTest		0.85714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/AsyncSendMockTest_testmakeAsyncApiCall_t
+org.apache.camel.test.junit4.CamelTestSupport		0.023923445
+org.apache.camel.test.junit4.TestSupport		0.018604651
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/DebugJUnit4Test
+DebugJUnit4Test		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/DebugJUnit4Test_testDebugger_z
+org.apache.camel.test.junit4.CamelTestSupport.DebugBreakpoint		1.0
+org.apache.camel.test.junit4.CamelTestSupport		0.02631579
+org.apache.camel.test.junit4.TestSupport		0.018604651
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/DebugJUnit4Test_testTwo_4
+org.apache.camel.test.junit4.CamelTestSupport.DebugBreakpoint		1.0
+org.apache.camel.test.junit4.CamelTestSupport		0.02631579
+org.apache.camel.test.junit4.TestSupport		0.018604651
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/DebugNoLazyTypeConverterTest
+DebugNoLazyTypeConverterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/DebugNoLazyTypeConverterTest_testDebugger_o
+org.apache.camel.test.junit4.CamelTestSupport.DebugBreakpoint		1.0
+org.apache.camel.test.junit4.CamelTestSupport		0.02631579
+org.apache.camel.test.junit4.TestSupport		0.018604651
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/DebugNoLazyTypeConverterTest_testTwo_k
+org.apache.camel.test.junit4.CamelTestSupport.DebugBreakpoint		1.0
+org.apache.camel.test.junit4.CamelTestSupport		0.02631579
+org.apache.camel.test.junit4.TestSupport		0.018604651
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/DebugTest
+DebugTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/FilterCreateCamelContextPerClassTest
+FilterCreateCamelContextPerClassTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/FilterCreateCamelContextPerClassTest_testSendMatchingMessage_7
+org.apache.camel.test.junit4.CamelTestSupport		0.023923445
+org.apache.camel.test.junit4.TestSupport		0.018604651
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/FilterCreateCamelContextPerClassTest_testSendNotMatchingMessage_u
+org.apache.camel.test.junit4.CamelTestSupport		0.023923445
+org.apache.camel.test.junit4.TestSupport		0.018604651
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/FilterFluentTemplateTest
+FilterFluentTemplateTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/FilterFluentTemplateTest_testSendMatchingMessage_q
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/FilterFluentTemplateTest_testSendNotMatchingMessage_14
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/FilterJUnit4Test
+FilterJUnit4Test		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/FilterJUnit4Test_testSendMatchingMessage_16
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/FilterJUnit4Test_testSendNotMatchingMessage_17
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/FilterTest
+FilterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/FilterTest_testSendMatchingMessage_x
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/FilterTest_testSendNotMatchingMessage_1b
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/IsMockEndpointsAndSkipJUnit4Test
+IsMockEndpointsAndSkipJUnit4Test		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/IsMockEndpointsAndSkipJUnit4Test_testMockEndpointAndSkip_9
+org.apache.camel.test.junit4.CamelTestSupport		0.023923445
+org.apache.camel.test.junit4.TestSupport		0.018604651
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/IsMockEndpointsFileTest
+IsMockEndpointsFileTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/IsMockEndpointsFileTest_testMockFileEndpoints_10
+org.apache.camel.test.junit4.CamelTestSupport		0.023923445
+org.apache.camel.test.junit4.TestSupport		0.018604651
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/IsMockEndpointsJUnit4Test
+IsMockEndpointsJUnit4Test		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/IsMockEndpointsJUnit4Test_testMockAllEndpoints_b
+org.apache.camel.test.junit4.CamelTestSupport		0.023923445
+org.apache.camel.test.junit4.TestSupport		0.018604651
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/IsMockEndpointsTest
+IsMockEndpointsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/IsMockEndpointsTest_testMockAllEndpoints_n
+org.apache.camel.test.junit4.CamelTestSupport		0.023923445
+org.apache.camel.test.junit4.TestSupport		0.018604651
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/ProduceBeanTest
+ProduceBeanTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/ProduceBeanTest_testProduceBean_8
+org.apache.camel.test.junit4.CamelTestSupport		0.023923445
+org.apache.camel.test.junit4.TestSupport		0.018604651
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/RouteBuilderConfigureExceptionTest
+RouteBuilderConfigureExceptionTest		0.8888889
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/RouteBuilderConfigureExceptionTest_testFoo_6
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/RouteProcessorDumpRouteCoverageTest
+RouteProcessorDumpRouteCoverageTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/RouteProcessorDumpRouteCoverageTest_testProcessor_13
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/SimpleMockEndpointsTest
+SimpleMockEndpointsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/SimpleMockEndpointsTest_testMockAndSkip_m
+org.apache.camel.test.junit4.CamelTestSupport		0.023923445
+org.apache.camel.test.junit4.TestSupport		0.018604651
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/SimpleMockTest
+SimpleMockTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/SimpleMockTest_testMock_y
+org.apache.camel.test.junit4.CamelTestSupport		0.023923445
+org.apache.camel.test.junit4.TestSupport		0.018604651
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/SimpleNotifyBuilderTest
+SimpleNotifyBuilderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/SimpleNotifyBuilderTest_testNotifyBuilder_j
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/SimpleWeaveAddMockLastTest
+SimpleWeaveAddMockLastTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/SimpleWeaveAddMockLastTest_testWeaveAddMockLast_l
+org.apache.camel.test.junit4.CamelTestSupport		0.023923445
+org.apache.camel.test.junit4.TestSupport		0.018604651
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/UseOverridePropertiesWithPropertiesComponentTest
+UseOverridePropertiesWithPropertiesComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/UseOverridePropertiesWithPropertiesComponentTest_testOverride_2
+org.apache.camel.test.junit4.CamelTestSupport		0.023923445
+org.apache.camel.test.junit4.TestSupport		0.018604651
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/test-AsyncSendMockTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/test-DebugJUnit4Test
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/test-DebugNoLazyTypeConverterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/test-DebugTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/test-FilterCreateCamelContextPerClassTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/test-FilterFluentTemplateTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/test-FilterJUnit4Test
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/test-FilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/test-IsMockEndpointsAndSkipJUnit4Test
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/test-IsMockEndpointsFileTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/test-IsMockEndpointsJUnit4Test
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/test-IsMockEndpointsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/test-ProduceBeanTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/test-RouteBuilderConfigureExceptionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/test-RouteProcessorDumpRouteCoverageTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/test-SimpleMockEndpointsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/test-SimpleMockTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/test-SimpleNotifyBuilderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/test-SimpleWeaveAddMockLastTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/patterns/test-UseOverridePropertiesWithPropertiesComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/test-AvailablePortFinderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test/target/site/clover/org/apache/camel/test/test-CamelTestSupportTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

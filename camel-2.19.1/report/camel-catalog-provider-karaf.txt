@@ -1,0 +1,23 @@
+./platforms/camel-catalog-provider-karaf/target/site/clover/org/apache/camel
+./platforms/camel-catalog-provider-karaf/target/site/clover/org/apache/camel/catalog/karaf/KarafRuntimeProviderTest
+KarafRuntimeProviderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-provider-karaf/target/site/clover/org/apache/camel/catalog/karaf/KarafRuntimeProviderTest_testFindComponentNames_4
+org.apache.camel.catalog.karaf.KarafRuntimeProvider		0.14814815
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-provider-karaf/target/site/clover/org/apache/camel/catalog/karaf/KarafRuntimeProviderTest_testFindDataFormatNames_5
+org.apache.camel.catalog.karaf.KarafRuntimeProvider		0.14814815
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-provider-karaf/target/site/clover/org/apache/camel/catalog/karaf/KarafRuntimeProviderTest_testFindLanguageNames_2
+org.apache.camel.catalog.karaf.KarafRuntimeProvider		0.14814815
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-provider-karaf/target/site/clover/org/apache/camel/catalog/karaf/KarafRuntimeProviderTest_testFindOtherNames_1
+org.apache.camel.catalog.karaf.KarafRuntimeProvider		0.14814815
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-provider-karaf/target/site/clover/org/apache/camel/catalog/karaf/KarafRuntimeProviderTest_testGetVersion_3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-provider-karaf/target/site/clover/org/apache/camel/catalog/karaf/KarafRuntimeProviderTest_testProviderName_0
+org.apache.camel.catalog.karaf.KarafRuntimeProvider		0.037037037
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-provider-karaf/target/site/clover/org/apache/camel/catalog/karaf/test-KarafRuntimeProviderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

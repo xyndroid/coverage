@@ -1,0 +1,74 @@
+./components/camel-spark/target/site/clover/org/apache/camel
+./components/camel-spark/target/site/clover/org/apache/camel/component/spark/SparkProducerTest
+SparkProducerTest		0.6969697
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark/target/site/clover/org/apache/camel/component/spark/SparkProducerTest_shouldCountFrame_4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark/target/site/clover/org/apache/camel/component/spark/SparkProducerTest_shouldExecuteAnnotatedCallbackWithConversions_2
+org.apache.camel.component.spark.annotations.AnnotatedRddCallbackProxy		0.73333335
+org.apache.camel.component.spark.SparkComponent		0.6923077
+org.apache.camel.component.spark.RddSparkProducer		0.5681818
+org.apache.camel.component.spark.SparkEndpoint		0.42105263
+org.apache.camel.component.spark.annotations.AnnotatedRddCallback		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark/target/site/clover/org/apache/camel/component/spark/SparkProducerTest_shouldExecuteAnnotatedCallbackWithParameters_a
+org.apache.camel.component.spark.SparkComponent		0.6923077
+org.apache.camel.component.spark.annotations.AnnotatedRddCallbackProxy		0.6666667
+org.apache.camel.component.spark.RddSparkProducer		0.5681818
+org.apache.camel.component.spark.SparkEndpoint		0.42105263
+org.apache.camel.component.spark.annotations.AnnotatedRddCallback		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark/target/site/clover/org/apache/camel/component/spark/SparkProducerTest_shouldExecuteAnnotatedCallback_c
+org.apache.camel.component.spark.annotations.AnnotatedRddCallbackProxy		0.7
+org.apache.camel.component.spark.SparkComponent		0.6923077
+org.apache.camel.component.spark.RddSparkProducer		0.5681818
+org.apache.camel.component.spark.SparkEndpoint		0.42105263
+org.apache.camel.component.spark.annotations.AnnotatedRddCallback		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark/target/site/clover/org/apache/camel/component/spark/SparkProducerTest_shouldExecuteAnnotatedVoidCallback_6
+org.apache.camel.component.spark.annotations.AnnotatedRddCallbackProxy		0.7
+org.apache.camel.component.spark.SparkComponent		0.6923077
+org.apache.camel.component.spark.RddSparkProducer		0.5681818
+org.apache.camel.component.spark.SparkEndpoint		0.42105263
+org.apache.camel.component.spark.annotations.AnnotatedRddCallback		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark/target/site/clover/org/apache/camel/component/spark/SparkProducerTest_shouldExecuteConditionalFrameCount_7
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark/target/site/clover/org/apache/camel/component/spark/SparkProducerTest_shouldExecuteHiveCountQuery_8
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark/target/site/clover/org/apache/camel/component/spark/SparkProducerTest_shouldExecuteHiveQuery_b
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark/target/site/clover/org/apache/camel/component/spark/SparkProducerTest_shouldExecuteRddCallbackWithPayloads_0
+org.apache.camel.component.spark.SparkComponent		0.6923077
+org.apache.camel.component.spark.RddSparkProducer		0.5681818
+org.apache.camel.component.spark.SparkEndpoint		0.42105263
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark/target/site/clover/org/apache/camel/component/spark/SparkProducerTest_shouldExecuteRddCallbackWithSinglePayload_1
+org.apache.camel.component.spark.SparkComponent		0.6923077
+org.apache.camel.component.spark.RddSparkProducer		0.5681818
+org.apache.camel.component.spark.SparkEndpoint		0.42105263
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark/target/site/clover/org/apache/camel/component/spark/SparkProducerTest_shouldExecuteRddCallbackWithTypedPayloads_5
+org.apache.camel.component.spark.ConvertingRddCallback		0.78571427
+org.apache.camel.component.spark.SparkComponent		0.6923077
+org.apache.camel.component.spark.RddSparkProducer		0.5681818
+org.apache.camel.component.spark.SparkEndpoint		0.42105263
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark/target/site/clover/org/apache/camel/component/spark/SparkProducerTest_shouldExecuteRddCallback_9
+org.apache.camel.component.spark.SparkComponent		0.6923077
+org.apache.camel.component.spark.RddSparkProducer		0.5681818
+org.apache.camel.component.spark.SparkEndpoint		0.42105263
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark/target/site/clover/org/apache/camel/component/spark/SparkProducerTest_shouldExecuteVoidCallback_3
+org.apache.camel.component.spark.VoidRddCallback		1.0
+org.apache.camel.component.spark.SparkComponent		0.6923077
+org.apache.camel.component.spark.RddSparkProducer		0.5681818
+org.apache.camel.component.spark.SparkEndpoint		0.42105263
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark/target/site/clover/org/apache/camel/component/spark/SparkProducerTest_shouldUseTransformationFromRegistry_d
+org.apache.camel.component.spark.SparkComponent		0.6923077
+org.apache.camel.component.spark.RddSparkProducer		0.6136364
+org.apache.camel.component.spark.SparkEndpoint		0.4385965
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark/target/site/clover/org/apache/camel/component/spark/test-SparkProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

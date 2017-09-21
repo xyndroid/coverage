@@ -1,0 +1,79 @@
+./tooling/swagger-rest-dsl-generator/target/site/clover/org/apache/camel
+./tooling/swagger-rest-dsl-generator/target/site/clover/org/apache/camel/generator/swagger/MethodBodySourceCodeEmitterTest
+MethodBodySourceCodeEmitterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/swagger-rest-dsl-generator/target/site/clover/org/apache/camel/generator/swagger/MethodBodySourceCodeEmitterTest_shouldGenerateSourceCode_9
+org.apache.camel.generator.swagger.MethodBodySourceCodeEmitter		0.8518519
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/swagger-rest-dsl-generator/target/site/clover/org/apache/camel/generator/swagger/RestDefinitionEmitterTest
+RestDefinitionEmitterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/swagger-rest-dsl-generator/target/site/clover/org/apache/camel/generator/swagger/RestDefinitionEmitterTest_shouldGenerateObjects_d
+org.apache.camel.generator.swagger.RestDefinitionEmitter		0.7
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/swagger-rest-dsl-generator/target/site/clover/org/apache/camel/generator/swagger/RestDslGeneratorTest
+RestDslGeneratorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/swagger-rest-dsl-generator/target/site/clover/org/apache/camel/generator/swagger/RestDslGeneratorTest_shouldCreateDefinitions_8
+org.apache.camel.generator.swagger.PathVisitor		1.0
+org.apache.camel.generator.swagger.RestDslDefinitionGenerator		1.0
+org.apache.camel.generator.swagger.OperationVisitor		0.921875
+org.apache.camel.generator.swagger.RestDefinitionEmitter		0.7
+org.apache.camel.generator.swagger.DirectToOperationId		0.5
+org.apache.camel.generator.swagger.RestDslGenerator		0.3529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/swagger-rest-dsl-generator/target/site/clover/org/apache/camel/generator/swagger/RestDslGeneratorTest_shouldGenerateSourceCodeWithDefaults_7
+org.apache.camel.generator.swagger.AppendableGenerator		1.0
+org.apache.camel.generator.swagger.PathVisitor		1.0
+org.apache.camel.generator.swagger.OperationVisitor		0.921875
+org.apache.camel.generator.swagger.MethodBodySourceCodeEmitter		0.8796296
+org.apache.camel.generator.swagger.RestDslSourceCodeGenerator		0.6125
+org.apache.camel.generator.swagger.DirectToOperationId		0.5
+org.apache.camel.generator.swagger.RestDslGenerator		0.3529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/swagger-rest-dsl-generator/target/site/clover/org/apache/camel/generator/swagger/RestDslGeneratorTest_shouldGenerateSourceCodeWithOptions_b
+org.apache.camel.generator.swagger.AppendableGenerator		1.0
+org.apache.camel.generator.swagger.PathVisitor		1.0
+org.apache.camel.generator.swagger.OperationVisitor		0.921875
+org.apache.camel.generator.swagger.MethodBodySourceCodeEmitter		0.8796296
+org.apache.camel.generator.swagger.RestDslGenerator		0.64705884
+org.apache.camel.generator.swagger.RestDslSourceCodeGenerator		0.4625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/swagger-rest-dsl-generator/target/site/clover/org/apache/camel/generator/swagger/RestDslSourceCodeGeneratorTest
+RestDslSourceCodeGeneratorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/swagger-rest-dsl-generator/target/site/clover/org/apache/camel/generator/swagger/RestDslSourceCodeGeneratorTest_shouldCreatePackageNamesFromHostnamesWithPorts_0
+org.apache.camel.generator.swagger.RestDslSourceCodeGenerator		0.225
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/swagger-rest-dsl-generator/target/site/clover/org/apache/camel/generator/swagger/RestDslSourceCodeGeneratorTest_shouldCreatePackageNamesFromHostnames_6
+org.apache.camel.generator.swagger.RestDslSourceCodeGenerator		0.225
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/swagger-rest-dsl-generator/target/site/clover/org/apache/camel/generator/swagger/RestDslSourceCodeGeneratorTest_shouldGenerateClassNameFromTitleWithNonValidJavaIdentifiers_3
+org.apache.camel.generator.swagger.RestDslSourceCodeGenerator		0.1375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/swagger-rest-dsl-generator/target/site/clover/org/apache/camel/generator/swagger/RestDslSourceCodeGeneratorTest_shouldGenerateClassNameFromTitle_5
+org.apache.camel.generator.swagger.RestDslSourceCodeGenerator		0.1375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/swagger-rest-dsl-generator/target/site/clover/org/apache/camel/generator/swagger/RestDslSourceCodeGeneratorTest_shouldUseDefaultClassNameIfInfoOrTitleIsNotPresent_a
+org.apache.camel.generator.swagger.RestDslSourceCodeGenerator		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/swagger-rest-dsl-generator/target/site/clover/org/apache/camel/generator/swagger/RestDslSourceCodeGeneratorTest_shouldUseDefaultClassNameIfTitleContainsOnlyNonValidJavaIdentifiers_c
+org.apache.camel.generator.swagger.RestDslSourceCodeGenerator		0.1375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/swagger-rest-dsl-generator/target/site/clover/org/apache/camel/generator/swagger/RestDslSourceCodeGeneratorTest_shouldUseDefaultPackageNameForLocalhostWithPort_4
+org.apache.camel.generator.swagger.RestDslSourceCodeGenerator		0.1125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/swagger-rest-dsl-generator/target/site/clover/org/apache/camel/generator/swagger/RestDslSourceCodeGeneratorTest_shouldUseDefaultPackageNameForLocalhost_2
+org.apache.camel.generator.swagger.RestDslSourceCodeGenerator		0.1125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/swagger-rest-dsl-generator/target/site/clover/org/apache/camel/generator/swagger/RestDslSourceCodeGeneratorTest_shouldUseDefaultPackageNameIfNoHostIsSpecified_1
+org.apache.camel.generator.swagger.RestDslSourceCodeGenerator		0.0625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/swagger-rest-dsl-generator/target/site/clover/org/apache/camel/generator/swagger/test-MethodBodySourceCodeEmitterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/swagger-rest-dsl-generator/target/site/clover/org/apache/camel/generator/swagger/test-RestDefinitionEmitterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/swagger-rest-dsl-generator/target/site/clover/org/apache/camel/generator/swagger/test-RestDslGeneratorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/swagger-rest-dsl-generator/target/site/clover/org/apache/camel/generator/swagger/test-RestDslSourceCodeGeneratorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

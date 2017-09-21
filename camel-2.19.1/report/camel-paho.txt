@@ -1,0 +1,46 @@
+./components/camel-paho/target/site/clover/org/apache/camel
+./components/camel-paho/target/site/clover/org/apache/camel/component/paho/PahoComponentTest
+PahoComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-paho/target/site/clover/org/apache/camel/component/paho/PahoComponentTest_checkOptions_1
+org.apache.camel.component.paho.PahoEndpoint		0.45054945
+org.apache.camel.component.paho.PahoComponent		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-paho/target/site/clover/org/apache/camel/component/paho/PahoComponentTest_shouldAutomaticallyUseConnectionOptionsFromRegistry_0
+org.apache.camel.component.paho.PahoComponent		0.33333334
+org.apache.camel.component.paho.PahoEndpoint		0.2967033
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-paho/target/site/clover/org/apache/camel/component/paho/PahoComponentTest_shouldKeepDefaultMessageInHeader_6
+org.apache.camel.component.paho.PahoProducer		0.85714287
+org.apache.camel.component.paho.PahoMessage		0.7777778
+org.apache.camel.component.paho.PahoConsumer		0.36
+org.apache.camel.component.paho.PahoEndpoint		0.17582418
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-paho/target/site/clover/org/apache/camel/component/paho/PahoComponentTest_shouldKeepOriginalMessageInHeader_2
+org.apache.camel.component.paho.PahoMessage		1.0
+org.apache.camel.component.paho.PahoProducer		0.85714287
+org.apache.camel.component.paho.PahoConsumer		0.36
+org.apache.camel.component.paho.PahoEndpoint		0.17582418
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-paho/target/site/clover/org/apache/camel/component/paho/PahoComponentTest_shouldNotReadMessageFromUnregisteredTopic_5
+org.apache.camel.component.paho.PahoProducer		1.0
+org.apache.camel.component.paho.PahoEndpoint		0.4065934
+org.apache.camel.component.paho.PahoComponent		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-paho/target/site/clover/org/apache/camel/component/paho/PahoComponentTest_shouldReadMessageFromCustomizedComponent_4
+org.apache.camel.component.paho.PahoProducer		0.85714287
+org.apache.camel.component.paho.PahoMessage		0.7777778
+org.apache.camel.component.paho.PahoConsumer		0.28
+org.apache.camel.component.paho.PahoEndpoint		0.17582418
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-paho/target/site/clover/org/apache/camel/component/paho/PahoComponentTest_shouldReadMessageFromMqtt_7
+org.apache.camel.component.paho.PahoProducer		0.85714287
+org.apache.camel.component.paho.PahoMessage		0.7777778
+org.apache.camel.component.paho.PahoConsumer		0.28
+org.apache.camel.component.paho.PahoEndpoint		0.17582418
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-paho/target/site/clover/org/apache/camel/component/paho/PahoComponentTest_shouldUseConnectionOptionsFromRegistry_3
+org.apache.camel.component.paho.PahoEndpoint		0.043956045
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-paho/target/site/clover/org/apache/camel/component/paho/test-PahoComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

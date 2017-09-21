@@ -1,0 +1,130 @@
+./components/camel-mqtt/target/site/clover/org/apache/camel
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/MQTTBaseTest
+MQTTBaseTest		0.9
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/MQTTBrigeTest
+MQTTBrigeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/MQTTBrigeTest_testMqttBridgeWorkAround_7
+org.apache.camel.component.mqtt.MQTTProducer		0.5084746
+org.apache.camel.component.mqtt.MQTTConsumer		0.3548387
+org.apache.camel.component.mqtt.MQTTEndpoint		0.21544716
+org.apache.camel.component.mqtt.MQTTConfiguration		0.115384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/MQTTBrigeTest_testMqttBridge_8
+org.apache.camel.component.mqtt.MQTTProducer		0.40677965
+org.apache.camel.component.mqtt.MQTTConsumer		0.38709676
+org.apache.camel.component.mqtt.MQTTEndpoint		0.1097561
+org.apache.camel.component.mqtt.MQTTConfiguration		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/MQTTConfigurationTest
+MQTTConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/MQTTConfigurationTest_testBasicConfiguration_6
+org.apache.camel.component.mqtt.MQTTComponent		0.64705884
+org.apache.camel.component.mqtt.MQTTConfiguration		0.1923077
+org.apache.camel.component.mqtt.MQTTEndpoint		0.06910569
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/MQTTConfigurationTest_testMultipleSubscribeTopicsConfiguration_e
+org.apache.camel.component.mqtt.MQTTComponent		0.64705884
+org.apache.camel.component.mqtt.MQTTConfiguration		0.1923077
+org.apache.camel.component.mqtt.MQTTEndpoint		0.06910569
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/MQTTConfigurationTest_testWildcardSubscribeTopicsConfiguration_b
+org.apache.camel.component.mqtt.MQTTComponent		0.64705884
+org.apache.camel.component.mqtt.MQTTConfiguration		0.1923077
+org.apache.camel.component.mqtt.MQTTEndpoint		0.06910569
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/MQTTConsumerMultipleTopicsTest
+MQTTConsumerMultipleTopicsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/MQTTConsumerMultipleTopicsTest_testConsumeMultipleTopics_d
+org.apache.camel.component.mqtt.MQTTConsumer		0.3548387
+org.apache.camel.component.mqtt.MQTTEndpoint		0.044715445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/MQTTConsumerTest
+MQTTConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/MQTTConsumerTest_testConsume_2
+org.apache.camel.component.mqtt.MQTTConsumer		0.3548387
+org.apache.camel.component.mqtt.MQTTEndpoint		0.044715445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/MQTTConsumerWildcardTopicsTest
+MQTTConsumerWildcardTopicsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/MQTTConsumerWildcardTopicsTest_testConsumeMultipleTopicsWithWildcards_c
+org.apache.camel.component.mqtt.MQTTConsumer		0.3548387
+org.apache.camel.component.mqtt.MQTTEndpoint		0.044715445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/MQTTDuplicatesTest
+MQTTDuplicatesTest		0.96875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/MQTTDuplicatesTest_testMqttDuplicatesAfterBrokerRestartWithClientID_5
+org.apache.camel.component.mqtt.MQTTProducer		0.5254237
+org.apache.camel.component.mqtt.MQTTConsumer		0.3548387
+org.apache.camel.component.mqtt.MQTTEndpoint		0.22357723
+org.apache.camel.component.mqtt.MQTTConfiguration		0.115384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/MQTTDuplicatesTest_testMqttDuplicatesAfterBrokerRestartWithoutClientID_1
+org.apache.camel.component.mqtt.MQTTProducer		0.5254237
+org.apache.camel.component.mqtt.MQTTConsumer		0.3548387
+org.apache.camel.component.mqtt.MQTTEndpoint		0.22357723
+org.apache.camel.component.mqtt.MQTTConfiguration		0.115384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/MQTTDuplicatesTest_testMqttDuplicates_a
+org.apache.camel.component.mqtt.MQTTProducer		0.5254237
+org.apache.camel.component.mqtt.MQTTConsumer		0.3548387
+org.apache.camel.component.mqtt.MQTTEndpoint		0.21544716
+org.apache.camel.component.mqtt.MQTTConfiguration		0.115384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/MQTTProducerReconnectTest
+MQTTProducerReconnectTest		0.95454544
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/MQTTProducerReconnectTest_testProduce_0
+org.apache.camel.component.mqtt.MQTTProducer		0.5254237
+org.apache.camel.component.mqtt.MQTTEndpoint		0.17886178
+org.apache.camel.component.mqtt.MQTTConfiguration		0.115384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/MQTTProducerReconnectTest_testProduce_9
+org.apache.camel.component.mqtt.MQTTProducer		0.5254237
+org.apache.camel.component.mqtt.MQTTEndpoint		0.17886178
+org.apache.camel.component.mqtt.MQTTConfiguration		0.115384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/MQTTProducerTest
+MQTTProducerTest		0.9411765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/MQTTProducerTest_testProduce_4
+org.apache.camel.component.mqtt.MQTTProducer		0.5254237
+org.apache.camel.component.mqtt.MQTTEndpoint		0.17073171
+org.apache.camel.component.mqtt.MQTTConfiguration		0.115384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/MQTTTestSupport
+MQTTTestSupport		0.72
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/SpringMQTTTest
+SpringMQTTTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/SpringMQTTTest_simpleTest_3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/test-MQTTBaseTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/test-MQTTBrigeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/test-MQTTConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/test-MQTTConsumerMultipleTopicsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/test-MQTTConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/test-MQTTConsumerWildcardTopicsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/test-MQTTDuplicatesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/test-MQTTProducerReconnectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/test-MQTTProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/test-MQTTTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mqtt/target/site/clover/org/apache/camel/component/mqtt/test-SpringMQTTTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

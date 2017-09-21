@@ -1,0 +1,121 @@
+./components/camel-barcode/target/site/clover/org/apache/camel
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/BarcodeDataFormatCamelTest
+BarcodeDataFormatCamelTest		0.9354839
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/BarcodeDataFormatCamelTest_testAZTECWidthModifiedSizeAndImageType_1
+org.apache.camel.dataformat.barcode.BarcodeParameters		0.36363637
+org.apache.camel.dataformat.barcode.BarcodeDataFormat		0.18085106
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/BarcodeDataFormatCamelTest_testDefaultQRCode_4
+org.apache.camel.dataformat.barcode.BarcodeParameters		0.36363637
+org.apache.camel.dataformat.barcode.BarcodeDataFormat		0.18085106
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/BarcodeDataFormatCamelTest_testPDF417CodeWidthModifiedSizeAndImageType_i
+org.apache.camel.dataformat.barcode.BarcodeParameters		0.36363637
+org.apache.camel.dataformat.barcode.BarcodeDataFormat		0.18085106
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/BarcodeDataFormatCamelTest_testQRCodeWithJPEGType_d
+org.apache.camel.dataformat.barcode.BarcodeParameters		0.36363637
+org.apache.camel.dataformat.barcode.BarcodeDataFormat		0.18085106
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/BarcodeDataFormatCamelTest_testQRCodeWithModifiedSize_9
+org.apache.camel.dataformat.barcode.BarcodeParameters		0.36363637
+org.apache.camel.dataformat.barcode.BarcodeDataFormat		0.18085106
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/BarcodeDataFormatSpringTest
+BarcodeDataFormatSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/BarcodeDataFormatSpringTest_testAZTECWidthModifiedSizeAndImageType_f
+org.apache.camel.dataformat.barcode.BarcodeParameters		0.36363637
+org.apache.camel.dataformat.barcode.BarcodeDataFormat		0.18085106
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/BarcodeDataFormatSpringTest_testDefaultQRCode_8
+org.apache.camel.dataformat.barcode.BarcodeParameters		0.36363637
+org.apache.camel.dataformat.barcode.BarcodeDataFormat		0.18085106
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/BarcodeDataFormatSpringTest_testPDF417CodeWidthModifiedSizeAndImageType_b
+org.apache.camel.dataformat.barcode.BarcodeParameters		0.36363637
+org.apache.camel.dataformat.barcode.BarcodeDataFormat		0.18085106
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/BarcodeDataFormatSpringTest_testQRCodeWithJPEGType_6
+org.apache.camel.dataformat.barcode.BarcodeParameters		0.36363637
+org.apache.camel.dataformat.barcode.BarcodeDataFormat		0.18085106
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/BarcodeDataFormatSpringTest_testQRCodeWithModifiedSize_g
+org.apache.camel.dataformat.barcode.BarcodeParameters		0.36363637
+org.apache.camel.dataformat.barcode.BarcodeDataFormat		0.18085106
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/BarcodeDataFormatTest
+BarcodeDataFormatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/BarcodeDataFormatTest_testAddToHintMapDecodeHintTypeObject_5
+org.apache.camel.dataformat.barcode.BarcodeDataFormat		0.20212767
+org.apache.camel.dataformat.barcode.BarcodeParameters		0.13636364
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/BarcodeDataFormatTest_testAddToHintMapEncodeHintTypeObject_c
+org.apache.camel.dataformat.barcode.BarcodeDataFormat		0.21276596
+org.apache.camel.dataformat.barcode.BarcodeParameters		0.13636364
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/BarcodeDataFormatTest_testConstructorWithAll_l
+org.apache.camel.dataformat.barcode.BarcodeParameters		0.77272725
+org.apache.camel.dataformat.barcode.BarcodeDataFormat		0.21276596
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/BarcodeDataFormatTest_testConstructorWithBarcodeFormat_3
+org.apache.camel.dataformat.barcode.BarcodeParameters		0.5
+org.apache.camel.dataformat.barcode.BarcodeDataFormat		0.18085106
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/BarcodeDataFormatTest_testConstructorWithImageType_0
+org.apache.camel.dataformat.barcode.BarcodeParameters		0.5
+org.apache.camel.dataformat.barcode.BarcodeDataFormat		0.19148937
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/BarcodeDataFormatTest_testConstructorWithSize_n
+org.apache.camel.dataformat.barcode.BarcodeParameters		0.59090906
+org.apache.camel.dataformat.barcode.BarcodeDataFormat		0.20212767
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/BarcodeDataFormatTest_testDefaultConstructor_2
+org.apache.camel.dataformat.barcode.BarcodeParameters		0.4090909
+org.apache.camel.dataformat.barcode.BarcodeDataFormat		0.18085106
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/BarcodeDataFormatTest_testGetParams_k
+org.apache.camel.dataformat.barcode.BarcodeDataFormat		0.18085106
+org.apache.camel.dataformat.barcode.BarcodeParameters		0.13636364
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/BarcodeDataFormatTest_testGetReaderHintMap_m
+org.apache.camel.dataformat.barcode.BarcodeDataFormat		0.18085106
+org.apache.camel.dataformat.barcode.BarcodeParameters		0.13636364
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/BarcodeDataFormatTest_testGetWriterHintMap_j
+org.apache.camel.dataformat.barcode.BarcodeDataFormat		0.18085106
+org.apache.camel.dataformat.barcode.BarcodeParameters		0.13636364
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/BarcodeDataFormatTest_testOptimizeHints_o
+org.apache.camel.dataformat.barcode.BarcodeDataFormat		0.20212767
+org.apache.camel.dataformat.barcode.BarcodeParameters		0.13636364
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/BarcodeDataFormatTest_testOptimizieHintsForDataMatrix_7
+org.apache.camel.dataformat.barcode.BarcodeParameters		0.22727273
+org.apache.camel.dataformat.barcode.BarcodeDataFormat		0.21276596
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/BarcodeDataFormatTest_testReOptimizeHints_h
+org.apache.camel.dataformat.barcode.BarcodeDataFormat		0.27659574
+org.apache.camel.dataformat.barcode.BarcodeParameters		0.22727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/BarcodeDataFormatTest_testRemoveFromHintMapDecodeHintType_e
+org.apache.camel.dataformat.barcode.BarcodeDataFormat		0.23404256
+org.apache.camel.dataformat.barcode.BarcodeParameters		0.13636364
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/BarcodeDataFormatTest_testRemoveFromHintMapEncodeHintType_a
+org.apache.camel.dataformat.barcode.BarcodeDataFormat		0.23404256
+org.apache.camel.dataformat.barcode.BarcodeParameters		0.13636364
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/BarcodeTestBase
+BarcodeTestBase		0.9677419
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/test-BarcodeDataFormatCamelTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/test-BarcodeDataFormatSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/test-BarcodeDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-barcode/target/site/clover/org/apache/camel/dataformat/barcode/test-BarcodeTestBase
+-- -- -- -- -- -- -- -- -- -- -- -- --

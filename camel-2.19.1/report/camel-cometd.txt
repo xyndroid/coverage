@@ -1,0 +1,163 @@
+./components/camel-cometd/target/site/clover/org/apache/camel
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/CometBindingTest
+CometBindingTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/CometBindingTest_testBindingHonorsFlagForSessionAttributtes_9
+org.apache.camel.component.cometd.CometdBinding		0.29850745
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/CometBindingTest_testBindingTransfersSessionAttributtes_7
+org.apache.camel.component.cometd.CometdBinding		0.49253732
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/CometBindingTest_testSubscriptionHeadersPassed_d
+org.apache.camel.component.cometd.CometdBinding		0.31343284
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/CometdConsumerTest
+CometdConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/CometdConsumerTest_testSessionHeadersAdded_g
+org.apache.camel.component.cometd.CometdConsumer.ConsumerService		0.76
+org.apache.camel.component.cometd.CometdConsumer		0.5263158
+org.apache.camel.component.cometd.CometdBinding		0.46268657
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/CometdConsumerTest_testStartDoesntCreateMultipleServices_3
+org.apache.camel.component.cometd.CometdConsumer		0.57894737
+org.apache.camel.component.cometd.CometdConsumer.ConsumerService		0.44
+org.apache.camel.component.cometd.CometdBinding		0.04477612
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/CometdCrossOriginConsumerTest
+CometdCrossOriginConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/CometdCrossOriginConsumerTest_testCrossOriginFilterAddedWhenOn_5
+org.apache.camel.component.cometd.CometdComponent		0.24725275
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/CometdCrossOriginConsumerTest_testCrossOriginFilterNotAddedWhenOff_e
+org.apache.camel.component.cometd.CometdComponent		0.21978022
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/CometdCrossOriginConsumerTest_testFilterArgumentsSetOnEndpoint_6
+org.apache.camel.component.cometd.CometdEndpoint		0.22222222
+org.apache.camel.component.cometd.CometdComponent		0.12087912
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/CometdProducerConsumerTest
+CometdProducerConsumerTest		0.87931037
+CometdProducerConsumerTest.Person		0.6363636
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/CometdProducerConsumerTest_testHeadersSupported_h
+org.apache.camel.component.cometd.CometdBinding		0.74626863
+org.apache.camel.component.cometd.CometdProducer.ProducerService		0.5925926
+org.apache.camel.component.cometd.CometdConsumer.ConsumerService		0.32
+org.apache.camel.component.cometd.CometdProducer		0.26086956
+org.apache.camel.component.cometd.CometdEndpoint		0.022222223
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/CometdProducerConsumerTest_testProducer_4
+org.apache.camel.component.cometd.CometdBinding		0.74626863
+org.apache.camel.component.cometd.CometdProducer.ProducerService		0.5925926
+org.apache.camel.component.cometd.CometdConsumer.ConsumerService		0.32
+org.apache.camel.component.cometd.CometdProducer		0.26086956
+org.apache.camel.component.cometd.CometdEndpoint		0.022222223
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/CometdProducerConsumerTest_testSessionHeaderArgumentSet_1
+org.apache.camel.component.cometd.CometdEndpoint		0.2888889
+org.apache.camel.component.cometd.CometdComponent		0.021978023
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/CometdProducerConsumerTest_testSessionInformationTransferred_b
+org.apache.camel.component.cometd.CometdBinding		0.74626863
+org.apache.camel.component.cometd.CometdProducer.ProducerService		0.5925926
+org.apache.camel.component.cometd.CometdConsumer.ConsumerService		0.32
+org.apache.camel.component.cometd.CometdProducer		0.26086956
+org.apache.camel.component.cometd.CometdEndpoint		0.022222223
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/CometdProducerTest
+CometdProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/CometdProducerTest_testStartDoesNotCreateNewProducerService_f
+org.apache.camel.component.cometd.CometdProducer		0.5652174
+org.apache.camel.component.cometd.CometdProducer.ProducerService		0.18518518
+org.apache.camel.component.cometd.CometdBinding		0.07462686
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/MultipCometdProducerConsumerTest
+MultipCometdProducerConsumerTest		1.0
+MultipCometdProducerConsumerTest.Person		0.27272728
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/MultipCometdProducerConsumerTest_testProducer_c
+org.apache.camel.component.cometd.CometdBinding		0.6268657
+org.apache.camel.component.cometd.CometdProducer.ProducerService		0.5925926
+org.apache.camel.component.cometd.CometdConsumer.ConsumerService		0.32
+org.apache.camel.component.cometd.CometdProducer		0.26086956
+org.apache.camel.component.cometd.CometdEndpoint		0.022222223
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/SslCometdProducerConsumerTest
+SslCometdProducerConsumerTest		1.0
+SslCometdProducerConsumerTest.Person		0.6363636
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/SslCometdProducerConsumerTest_testProducer_a
+org.apache.camel.component.cometd.CometdBinding		0.6268657
+org.apache.camel.component.cometd.CometdProducer.ProducerService		0.5925926
+org.apache.camel.component.cometd.CometdConsumer.ConsumerService		0.32
+org.apache.camel.component.cometd.CometdProducer		0.26086956
+org.apache.camel.component.cometd.CometdEndpoint		0.022222223
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/SslContextParametersCometdProducerConsumerTest
+SslContextParametersCometdProducerConsumerTest		1.0
+SslContextParametersCometdProducerConsumerTest.Person		0.6363636
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/SslContextParametersCometdProducerConsumerTest_testProducer_2
+org.apache.camel.component.cometd.CometdBinding		0.6268657
+org.apache.camel.component.cometd.CometdProducer.ProducerService		0.5925926
+org.apache.camel.component.cometd.CometdConsumer.ConsumerService		0.32
+org.apache.camel.component.cometd.CometdProducer		0.26086956
+org.apache.camel.component.cometd.CometdEndpoint		0.022222223
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/SslContextParametersInUriCometdProducerConsumerTest
+SslContextParametersInUriCometdProducerConsumerTest		1.0
+SslContextParametersInUriCometdProducerConsumerTest.Person		0.6363636
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/SslContextParametersInUriCometdProducerConsumerTest_testProducer_0
+org.apache.camel.component.cometd.CometdBinding		0.6268657
+org.apache.camel.component.cometd.CometdProducer.ProducerService		0.5925926
+org.apache.camel.component.cometd.CometdConsumer.ConsumerService		0.32
+org.apache.camel.component.cometd.CometdProducer		0.26086956
+org.apache.camel.component.cometd.CometdEndpoint		0.022222223
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/SslGlobalContextParametersCometdProducerConsumerTest
+SslGlobalContextParametersCometdProducerConsumerTest		1.0
+SslGlobalContextParametersCometdProducerConsumerTest.Person		0.6363636
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/SslGlobalContextParametersCometdProducerConsumerTest_testProducer_8
+org.apache.camel.component.cometd.CometdBinding		0.6268657
+org.apache.camel.component.cometd.CometdProducer.ProducerService		0.5925926
+org.apache.camel.component.cometd.CometdConsumer.ConsumerService		0.32
+org.apache.camel.component.cometd.CometdProducer		0.26086956
+org.apache.camel.component.cometd.CometdEndpoint		0.022222223
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/test-CometBindingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/test-CometdConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/test-CometdCrossOriginConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/test-CometdProducerConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/test-CometdProducerConsumerTest_Person
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/test-CometdProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/test-MultipCometdProducerConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/test-MultipCometdProducerConsumerTest_Person
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/test-SslCometdProducerConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/test-SslCometdProducerConsumerTest_Person
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/test-SslContextParametersCometdProducerConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/test-SslContextParametersCometdProducerConsumerTest_Person
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/test-SslContextParametersInUriCometdProducerConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/test-SslContextParametersInUriCometdProducerConsumerTest_Person
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/test-SslGlobalContextParametersCometdProducerConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cometd/target/site/clover/org/apache/camel/component/cometd/test-SslGlobalContextParametersCometdProducerConsumerTest_Person
+-- -- -- -- -- -- -- -- -- -- -- -- --

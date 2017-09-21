@@ -1,0 +1,370 @@
+./components/camel-leveldb/target/site/clover/org/apache/camel
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateConcurrentDifferentGroupsTest
+LevelDBAggregateConcurrentDifferentGroupsTest		1.0
+LevelDBAggregateConcurrentDifferentGroupsTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateConcurrentDifferentGroupsTest_testConcurrentProducers_8
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.7027027
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.31223628
+org.apache.camel.component.leveldb.LevelDBFile		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateConcurrentDifferentGroupsTest_testMoreConcurrentProducers_0
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.7027027
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.31223628
+org.apache.camel.component.leveldb.LevelDBFile		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateConcurrentDifferentGroupsTest_testNoConcurrentProducers_o
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.7027027
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.31223628
+org.apache.camel.component.leveldb.LevelDBFile		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateConcurrentSameGroupTest
+LevelDBAggregateConcurrentSameGroupTest		1.0
+LevelDBAggregateConcurrentSameGroupTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateConcurrentSameGroupTest_testConcurrentProducers_2
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.7027027
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.278481
+org.apache.camel.component.leveldb.LevelDBFile		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateConcurrentSameGroupTest_testMoreConcurrentProducers_f
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.7027027
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.278481
+org.apache.camel.component.leveldb.LevelDBFile		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateConcurrentSameGroupTest_testNoConcurrentProducers_6
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.7027027
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.278481
+org.apache.camel.component.leveldb.LevelDBFile		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateDiscardOnTimeoutTest
+LevelDBAggregateDiscardOnTimeoutTest		1.0
+LevelDBAggregateDiscardOnTimeoutTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateDiscardOnTimeoutTest_testAggregateDiscardOnTimeout_e
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.7027027
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.31223628
+org.apache.camel.component.leveldb.LevelDBFile		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateForceCompletionHeaderTest
+LevelDBAggregateForceCompletionHeaderTest		1.0
+LevelDBAggregateForceCompletionHeaderTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateForceCompletionHeaderTest_testForceCompletionTrueExclusive_y
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.7027027
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.33755276
+org.apache.camel.component.leveldb.LevelDBFile		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateForceCompletionHeaderTest_testForceCompletionTrueInclusive_g
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.7027027
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.33755276
+org.apache.camel.component.leveldb.LevelDBFile		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateLoadAndRecoverTest
+LevelDBAggregateLoadAndRecoverTest		0.9574468
+LevelDBAggregateLoadAndRecoverTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateLoadAndRecoverTest_testLoadAndRecoverLevelDBAggregate_4
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.7027027
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.39662448
+org.apache.camel.component.leveldb.LevelDBFile		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateLoadConcurrentTest
+LevelDBAggregateLoadConcurrentTest		1.0
+LevelDBAggregateLoadConcurrentTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateLoadConcurrentTest_testLoadTestLevelDBAggregate_9
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.7027027
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.24894515
+org.apache.camel.component.leveldb.LevelDBFile		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateLoadTest
+LevelDBAggregateLoadTest		1.0
+LevelDBAggregateLoadTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateLoadTest_testLoadTestLevelDBAggregate_7
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.7027027
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.21518987
+org.apache.camel.component.leveldb.LevelDBFile		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateNotLostRemovedWhenConfirmedTest
+LevelDBAggregateNotLostRemovedWhenConfirmedTest		1.0
+LevelDBAggregateNotLostRemovedWhenConfirmedTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateNotLostRemovedWhenConfirmedTest_testLevelDBAggregateNotLostRemovedWhenConfirmed_x
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.7027027
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.3206751
+org.apache.camel.component.leveldb.LevelDBFile		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateNotLostTest
+LevelDBAggregateNotLostTest		1.0
+LevelDBAggregateNotLostTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateNotLostTest_testLevelDBAggregateNotLost_i
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.7027027
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.37130803
+org.apache.camel.component.leveldb.LevelDBFile		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateRecoverDeadLetterChannelFailedTest
+LevelDBAggregateRecoverDeadLetterChannelFailedTest		1.0
+LevelDBAggregateRecoverDeadLetterChannelFailedTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateRecoverDeadLetterChannelFailedTest_testLevelDBAggregateRecoverDeadLetterChannelFailed_m
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.7027027
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.37130803
+org.apache.camel.component.leveldb.LevelDBFile		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateRecoverDeadLetterChannelTest
+LevelDBAggregateRecoverDeadLetterChannelTest		1.0
+LevelDBAggregateRecoverDeadLetterChannelTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateRecoverDeadLetterChannelTest_testLevelDBAggregateRecoverDeadLetterChannel_w
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.7027027
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.37130803
+org.apache.camel.component.leveldb.LevelDBFile		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateRecoverTest
+LevelDBAggregateRecoverTest		1.0
+LevelDBAggregateRecoverTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateRecoverTest_testLevelDBAggregateRecover_3
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.7027027
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.3628692
+org.apache.camel.component.leveldb.LevelDBFile		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateRecoverWithRedeliveryPolicyTest
+LevelDBAggregateRecoverWithRedeliveryPolicyTest		1.0
+LevelDBAggregateRecoverWithRedeliveryPolicyTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateRecoverWithRedeliveryPolicyTest_testLevelDBAggregateRecover_q
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.7027027
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.39662448
+org.apache.camel.component.leveldb.LevelDBFile		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateRecoverWithSedaTest
+LevelDBAggregateRecoverWithSedaTest		1.0
+LevelDBAggregateRecoverWithSedaTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateRecoverWithSedaTest_testLevelDBAggregateRecoverWithSeda_h
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.7027027
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.3628692
+org.apache.camel.component.leveldb.LevelDBFile		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateSerializedHeadersTest
+LevelDBAggregateSerializedHeadersTest		1.0
+LevelDBAggregateSerializedHeadersTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateSerializedHeadersTest_testLoadTestLevelDBAggregate_s
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.7027027
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.21518987
+org.apache.camel.component.leveldb.LevelDBFile		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateTest
+LevelDBAggregateTest		1.0
+LevelDBAggregateTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateTest_testLevelDBAggregate_j
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.7027027
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.24894515
+org.apache.camel.component.leveldb.LevelDBFile		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateTimeoutCompletionRestartTest
+LevelDBAggregateTimeoutCompletionRestartTest		1.0
+LevelDBAggregateTimeoutCompletionRestartTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregateTimeoutCompletionRestartTest_testLevelDBAggregateTimeoutCompletionRestart_l
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.7027027
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.5274262
+org.apache.camel.component.leveldb.LevelDBFile		0.35897437
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregationRepositoryAlotDataTest
+LevelDBAggregationRepositoryAlotDataTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregationRepositoryAlotDataTest_testWithAlotOfDataSameKey_n
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.5675676
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.14767933
+org.apache.camel.component.leveldb.LevelDBFile		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregationRepositoryAlotDataTest_testWithAlotOfDataTwoKesy_u
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.5675676
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.14767933
+org.apache.camel.component.leveldb.LevelDBFile		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregationRepositoryAlotDataTest_testWithAlotOfDataWithDifferentKesy_5
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.5675676
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.14767933
+org.apache.camel.component.leveldb.LevelDBFile		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregationRepositoryLoadExistingTest
+LevelDBAggregationRepositoryLoadExistingTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregationRepositoryLoadExistingTest_testExisting_k
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.5675676
+org.apache.camel.component.leveldb.LevelDBFile		0.35897437
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.17721519
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregationRepositoryMultipleRepoTest
+LevelDBAggregationRepositoryMultipleRepoTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregationRepositoryMultipleRepoTest_testMultipeRepoSameKeyDifferentContent_d
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.5675676
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.14767933
+org.apache.camel.component.leveldb.LevelDBFile		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregationRepositoryMultipleRepoTest_testMultipeRepo_c
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.5675676
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.1814346
+org.apache.camel.component.leveldb.LevelDBFile		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregationRepositoryRecoverExistingTest
+LevelDBAggregationRepositoryRecoverExistingTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregationRepositoryRecoverExistingTest_testExisting_t
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.5675676
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.443038
+org.apache.camel.component.leveldb.LevelDBFile		0.35897437
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregationRepositoryTest
+LevelDBAggregationRepositoryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBAggregationRepositoryTest_testOperations_p
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.5675676
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.2658228
+org.apache.camel.component.leveldb.LevelDBFile		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBBigPayloadTest
+LevelDBBigPayloadTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBExchangeSerializationTest
+LevelDBExchangeSerializationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBExchangeSerializationTest_testExchangeSerialization_b
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.5675676
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.14767933
+org.apache.camel.component.leveldb.LevelDBFile		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBGetNotFoundTest
+LevelDBGetNotFoundTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBGetNotFoundTest_testGetNotFound_a
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.07594936
+org.apache.camel.component.leveldb.LevelDBFile		0.025641026
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBGetNotFoundTest_testPutAndGetNotFound_1
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.5675676
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.15189873
+org.apache.camel.component.leveldb.LevelDBFile		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBSpringAggregateRecoverWithRedeliveryPolicyTest
+LevelDBSpringAggregateRecoverWithRedeliveryPolicyTest		1.0
+LevelDBSpringAggregateRecoverWithRedeliveryPolicyTest.MyFailProcessor		1.0
+LevelDBSpringAggregateRecoverWithRedeliveryPolicyTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBSpringAggregateRecoverWithRedeliveryPolicyTest_testLevelDBAggregateRecover_r
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.7027027
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.3628692
+org.apache.camel.component.leveldb.LevelDBFile		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBSpringAggregateTest
+LevelDBSpringAggregateTest		1.0
+LevelDBSpringAggregateTest.MyAggregationStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/LevelDBSpringAggregateTest_testLevelDBAggregate_v
+org.apache.camel.component.leveldb.LevelDBCamelCodec		0.7027027
+org.apache.camel.component.leveldb.LevelDBAggregationRepository		0.24894515
+org.apache.camel.component.leveldb.LevelDBFile		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateConcurrentDifferentGroupsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateConcurrentDifferentGroupsTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateConcurrentSameGroupTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateConcurrentSameGroupTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateDiscardOnTimeoutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateDiscardOnTimeoutTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateForceCompletionHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateForceCompletionHeaderTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateLoadAndRecoverTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateLoadAndRecoverTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateLoadConcurrentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateLoadConcurrentTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateLoadTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateLoadTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateNotLostRemovedWhenConfirmedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateNotLostRemovedWhenConfirmedTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateNotLostTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateNotLostTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateRecoverDeadLetterChannelFailedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateRecoverDeadLetterChannelFailedTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateRecoverDeadLetterChannelTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateRecoverDeadLetterChannelTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateRecoverTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateRecoverTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateRecoverWithRedeliveryPolicyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateRecoverWithRedeliveryPolicyTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateRecoverWithSedaTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateRecoverWithSedaTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateSerializedHeadersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateSerializedHeadersTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateTimeoutCompletionRestartTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregateTimeoutCompletionRestartTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregationRepositoryAlotDataTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregationRepositoryLoadExistingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregationRepositoryMultipleRepoTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregationRepositoryRecoverExistingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBAggregationRepositoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBBigPayloadTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBExchangeSerializationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBGetNotFoundTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBSpringAggregateRecoverWithRedeliveryPolicyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBSpringAggregateRecoverWithRedeliveryPolicyTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBSpringAggregateRecoverWithRedeliveryPolicyTest_MyFailProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBSpringAggregateTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-leveldb/target/site/clover/org/apache/camel/component/leveldb/test-LevelDBSpringAggregateTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --

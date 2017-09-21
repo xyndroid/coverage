@@ -1,0 +1,377 @@
+./components/camel-cm-sms/target/site/clover/org/apache/camel
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMConfigurationTest
+CMConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMConfigurationTest_testDefaultFromFieldMaxLength_a
+testDefaultFromFieldMaxLength
+org.apache.camel.component.cm.CMConfiguration		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMConfigurationTest_testDefaultFromFieldZeroLength_8
+testDefaultFromFieldZeroLength
+org.apache.camel.component.cm.CMConfiguration		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMConfigurationTest_testMaxNumberOfPartsZero_7
+testMaxNumberOfPartsZero
+org.apache.camel.component.cm.CMConfiguration		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMConfigurationTest_testMaxNumberOfParts_1c
+testMaxNumberOfParts
+org.apache.camel.component.cm.CMConfiguration		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMConfigurationTest_testNullDefaultFrom_9
+testNullDefaultFrom
+org.apache.camel.component.cm.CMConfiguration		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMConfigurationTest_testNullProductToken_5
+testNullProductToken
+org.apache.camel.component.cm.CMConfiguration		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMMessageTest
+CMMessageTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMMessageTest_testGSM338AndEQ2MAXGSMMESSAGELENGTH_3
+testGSM338AndEQ2MAXGSMMESSAGELENGTH
+org.apache.camel.component.cm.CMUtils		0.6666667
+org.apache.camel.component.cm.CMMessage		0.3283582
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMMessageTest_testGSM338AndEQ8MAXGSMMESSAGELENGTH_6
+testGSM338AndEQ8MAXGSMMESSAGELENGTH
+org.apache.camel.component.cm.CMUtils		0.6666667
+org.apache.camel.component.cm.CMMessage		0.3283582
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMMessageTest_testGSM338AndEQMAXGSMMESSAGELENGTH_o
+testGSM338AndEQMAXGSMMESSAGELENGTH
+org.apache.camel.component.cm.CMUtils		0.6666667
+org.apache.camel.component.cm.CMMessage		0.26865673
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMMessageTest_testGSM338AndGT2MAXGSMMESSAGELENGTH_15
+testGSM338AndGT2MAXGSMMESSAGELENGTH
+org.apache.camel.component.cm.CMUtils		0.6666667
+org.apache.camel.component.cm.CMMessage		0.3432836
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMMessageTest_testGSM338AndGT8MAXGSMMESSAGELENGTH_l
+testGSM338AndGT8MAXGSMMESSAGELENGTH
+org.apache.camel.component.cm.CMUtils		0.6666667
+org.apache.camel.component.cm.CMMessage		0.3432836
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMMessageTest_testGSM338AndGTMAXGSMMESSAGELENGTH_y
+testGSM338AndGTMAXGSMMESSAGELENGTH
+org.apache.camel.component.cm.CMUtils		0.6666667
+org.apache.camel.component.cm.CMMessage		0.3432836
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMMessageTest_testGSM338AndLT2MAXGSMMESSAGELENGTH_k
+testGSM338AndLT2MAXGSMMESSAGELENGTH
+org.apache.camel.component.cm.CMUtils		0.6666667
+org.apache.camel.component.cm.CMMessage		0.3432836
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMMessageTest_testGSM338AndLTMAXGSMMESSAGELENGTH_c
+testGSM338AndLTMAXGSMMESSAGELENGTH
+org.apache.camel.component.cm.CMUtils		0.6666667
+org.apache.camel.component.cm.CMMessage		0.26865673
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMMessageTest_testUnicodeAndEQ2MAXGSMMESSAGELENGTH_s
+testUnicodeAndEQ2MAXGSMMESSAGELENGTH
+org.apache.camel.component.cm.CMUtils		0.6666667
+org.apache.camel.component.cm.CMMessage		0.37313432
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMMessageTest_testUnicodeAndEQ8MAXGSMMESSAGELENGTH_17
+testUnicodeAndEQ8MAXGSMMESSAGELENGTH
+org.apache.camel.component.cm.CMUtils		0.6666667
+org.apache.camel.component.cm.CMMessage		0.37313432
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMMessageTest_testUnicodeAndEQMAXGSMMESSAGELENGTH_4
+testUnicodeAndEQMAXGSMMESSAGELENGTH
+org.apache.camel.component.cm.CMUtils		0.6666667
+org.apache.camel.component.cm.CMMessage		0.31343284
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMMessageTest_testUnicodeAndGT2MAXGSMMESSAGELENGTH_t
+testUnicodeAndGT2MAXGSMMESSAGELENGTH
+org.apache.camel.component.cm.CMUtils		0.6666667
+org.apache.camel.component.cm.CMMessage		0.3880597
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMMessageTest_testUnicodeAndGT8MAXGSMMESSAGELENGTH_g
+testUnicodeAndGT8MAXGSMMESSAGELENGTH
+org.apache.camel.component.cm.CMUtils		0.6666667
+org.apache.camel.component.cm.CMMessage		0.3880597
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMMessageTest_testUnicodeAndGTMAXGSMMESSAGELENGTH_10
+testUnicodeAndGTMAXGSMMESSAGELENGTH
+org.apache.camel.component.cm.CMUtils		0.6666667
+org.apache.camel.component.cm.CMMessage		0.3880597
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMMessageTest_testUnicodeAndLT2MAXGSMMESSAGELENGTH_v
+testUnicodeAndLT2MAXGSMMESSAGELENGTH
+org.apache.camel.component.cm.CMUtils		0.6666667
+org.apache.camel.component.cm.CMMessage		0.3880597
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMMessageTest_testUnicodeAndLTMAXGSMMESSAGELENGTH_1b
+testUnicodeAndLTMAXGSMMESSAGELENGTH
+org.apache.camel.component.cm.CMUtils		0.6666667
+org.apache.camel.component.cm.CMMessage		0.31343284
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMTest
+CMTest		0.99130434
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMTest_testAsPartOfARoute_1f
+testAsPartOfARoute
+org.apache.camel.component.cm.exceptions.cmresponse.NoAccountFoundForProductTokenException		1.0
+org.apache.camel.component.cm.client.SMSMessage		0.7586207
+org.apache.camel.component.cm.CMSenderOneMessageImpl		0.7033898
+org.apache.camel.component.cm.CMUtils		0.6666667
+org.apache.camel.component.cm.validation.constraints.E164Validator		0.5714286
+org.apache.camel.component.cm.CMMessage		0.5671642
+org.apache.camel.component.cm.CMProducer		0.47272727
+org.apache.camel.component.cm.CMConfiguration		0.25
+org.apache.camel.component.cm.CMEndpoint		0.16
+org.apache.camel.component.cm.CMComponent		0.14814815
+org.apache.camel.component.cm.exceptions.CMDirectException		0.11111111
+org.apache.camel.component.cm.exceptions.cmresponse.CMResponseException		0.11111111
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMTest_testCMEndpointGetHost_13
+testCMEndpointGetHost
+org.apache.camel.component.cm.CMEndpoint		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMTest_testCMEndpointIsForProducing_1d
+testCMEndpointIsForProducing
+org.apache.camel.component.cm.CMEndpoint		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMTest_testCMResponseException_e
+testCMResponseException
+org.apache.camel.component.cm.client.SMSMessage		0.7586207
+org.apache.camel.component.cm.CMUtils		0.6666667
+org.apache.camel.component.cm.validation.constraints.E164Validator		0.5714286
+org.apache.camel.component.cm.CMProducer		0.56363636
+org.apache.camel.component.cm.CMEndpoint		0.48
+org.apache.camel.component.cm.CMMessage		0.3880597
+org.apache.camel.component.cm.CMConfiguration		0.375
+org.apache.camel.component.cm.CMComponent		0.14814815
+org.apache.camel.component.cm.exceptions.CMDirectException		0.11111111
+org.apache.camel.component.cm.exceptions.cmresponse.CMResponseException		0.11111111
+org.apache.camel.component.cm.CMSenderOneMessageImpl		0.025423728
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMTest_testHostUnavailableException_m
+testHostUnavailableException
+org.apache.camel.component.cm.CMEndpoint		0.76
+org.apache.camel.component.cm.CMConfiguration		0.75
+org.apache.camel.component.cm.CMComponent		0.5555556
+org.apache.camel.component.cm.CMProducer		0.29090908
+org.apache.camel.component.cm.exceptions.CMDirectException		0.22222222
+org.apache.camel.component.cm.exceptions.HostUnavailableException		0.22222222
+org.apache.camel.component.cm.CMSenderOneMessageImpl		0.025423728
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMTest_testInsufficientBalanceException_z
+testInsufficientBalanceException
+org.apache.camel.component.cm.exceptions.cmresponse.InsufficientBalanceException		1.0
+org.apache.camel.component.cm.client.SMSMessage		0.7586207
+org.apache.camel.component.cm.CMUtils		0.6666667
+org.apache.camel.component.cm.validation.constraints.E164Validator		0.5714286
+org.apache.camel.component.cm.CMProducer		0.56363636
+org.apache.camel.component.cm.CMEndpoint		0.48
+org.apache.camel.component.cm.CMConfiguration		0.375
+org.apache.camel.component.cm.CMMessage		0.3432836
+org.apache.camel.component.cm.CMComponent		0.14814815
+org.apache.camel.component.cm.exceptions.CMDirectException		0.11111111
+org.apache.camel.component.cm.exceptions.cmresponse.CMResponseException		0.11111111
+org.apache.camel.component.cm.CMSenderOneMessageImpl		0.025423728
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMTest_testInvalidHostDuplicateScheme_d
+testInvalidHostDuplicateScheme
+org.apache.camel.component.cm.CMComponent		0.5555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMTest_testInvalidMSISDNException_b
+testInvalidMSISDNException
+org.apache.camel.component.cm.exceptions.cmresponse.InvalidMSISDNException		1.0
+org.apache.camel.component.cm.client.SMSMessage		0.7586207
+org.apache.camel.component.cm.CMUtils		0.6666667
+org.apache.camel.component.cm.validation.constraints.E164Validator		0.5714286
+org.apache.camel.component.cm.CMProducer		0.56363636
+org.apache.camel.component.cm.CMEndpoint		0.48
+org.apache.camel.component.cm.CMMessage		0.3880597
+org.apache.camel.component.cm.CMConfiguration		0.375
+org.apache.camel.component.cm.CMComponent		0.14814815
+org.apache.camel.component.cm.exceptions.CMDirectException		0.11111111
+org.apache.camel.component.cm.exceptions.cmresponse.CMResponseException		0.11111111
+org.apache.camel.component.cm.CMSenderOneMessageImpl		0.025423728
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMTest_testInvalidProductTokenException_12
+testInvalidProductTokenException
+org.apache.camel.component.cm.exceptions.cmresponse.InvalidProductTokenException		1.0
+org.apache.camel.component.cm.client.SMSMessage		0.7586207
+org.apache.camel.component.cm.CMUtils		0.6666667
+org.apache.camel.component.cm.validation.constraints.E164Validator		0.64285713
+org.apache.camel.component.cm.CMProducer		0.56363636
+org.apache.camel.component.cm.CMEndpoint		0.48
+org.apache.camel.component.cm.CMMessage		0.3880597
+org.apache.camel.component.cm.CMConfiguration		0.375
+org.apache.camel.component.cm.CMComponent		0.14814815
+org.apache.camel.component.cm.exceptions.CMDirectException		0.11111111
+org.apache.camel.component.cm.exceptions.cmresponse.CMResponseException		0.11111111
+org.apache.camel.component.cm.CMSenderOneMessageImpl		0.025423728
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMTest_testNoAccountFoundForProductTokenException_r
+testNoAccountFoundForProductTokenException
+org.apache.camel.component.cm.exceptions.cmresponse.NoAccountFoundForProductTokenException		1.0
+org.apache.camel.component.cm.client.SMSMessage		0.7586207
+org.apache.camel.component.cm.CMUtils		0.6666667
+org.apache.camel.component.cm.validation.constraints.E164Validator		0.5714286
+org.apache.camel.component.cm.CMProducer		0.56363636
+org.apache.camel.component.cm.CMEndpoint		0.48
+org.apache.camel.component.cm.CMConfiguration		0.375
+org.apache.camel.component.cm.CMMessage		0.3432836
+org.apache.camel.component.cm.CMComponent		0.14814815
+org.apache.camel.component.cm.exceptions.CMDirectException		0.11111111
+org.apache.camel.component.cm.exceptions.cmresponse.CMResponseException		0.11111111
+org.apache.camel.component.cm.CMSenderOneMessageImpl		0.025423728
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMTest_testNoMessageException_h
+testNoMessageException
+org.apache.camel.component.cm.exceptions.cmresponse.NoMessageException		1.0
+org.apache.camel.component.cm.client.SMSMessage		0.7586207
+org.apache.camel.component.cm.CMUtils		0.6666667
+org.apache.camel.component.cm.validation.constraints.E164Validator		0.5714286
+org.apache.camel.component.cm.CMProducer		0.56363636
+org.apache.camel.component.cm.CMEndpoint		0.48
+org.apache.camel.component.cm.CMConfiguration		0.375
+org.apache.camel.component.cm.CMMessage		0.3283582
+org.apache.camel.component.cm.CMComponent		0.14814815
+org.apache.camel.component.cm.exceptions.CMDirectException		0.11111111
+org.apache.camel.component.cm.exceptions.cmresponse.CMResponseException		0.11111111
+org.apache.camel.component.cm.CMSenderOneMessageImpl		0.025423728
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMTest_testNotPhoneNumberFoundException_0
+testNotPhoneNumberFoundException
+org.apache.camel.component.cm.exceptions.cmresponse.NotPhoneNumberFoundException		1.0
+org.apache.camel.component.cm.client.SMSMessage		0.7586207
+org.apache.camel.component.cm.CMUtils		0.6666667
+org.apache.camel.component.cm.validation.constraints.E164Validator		0.5714286
+org.apache.camel.component.cm.CMProducer		0.56363636
+org.apache.camel.component.cm.CMEndpoint		0.48
+org.apache.camel.component.cm.CMMessage		0.3880597
+org.apache.camel.component.cm.CMConfiguration		0.375
+org.apache.camel.component.cm.CMComponent		0.14814815
+org.apache.camel.component.cm.exceptions.CMDirectException		0.11111111
+org.apache.camel.component.cm.exceptions.cmresponse.CMResponseException		0.11111111
+org.apache.camel.component.cm.CMSenderOneMessageImpl		0.025423728
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMTest_testNotRequiredDefaultFrom_2
+testNotRequiredDefaultFrom
+org.apache.camel.component.cm.CMComponent		0.5555556
+org.apache.camel.component.cm.CMConfiguration		0.375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMTest_testNotRequiredProductToken_i
+testNotRequiredProductToken
+org.apache.camel.component.cm.CMComponent		0.5555556
+org.apache.camel.component.cm.CMConfiguration		0.375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMTest_testNullPayload_1a
+testNullPayload
+org.apache.camel.component.cm.CMProducer		0.036363635
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMTest_testSendInvalidPayload_n
+testSendInvalidPayload
+org.apache.camel.component.cm.client.SMSMessage		0.4827586
+org.apache.camel.component.cm.CMProducer		0.3272727
+org.apache.camel.component.cm.validation.constraints.E164Validator		0.2857143
+org.apache.camel.component.cm.CMComponent		0.14814815
+org.apache.camel.component.cm.CMEndpoint		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMTest_testUnknownErrorException_u
+testUnknownErrorException
+org.apache.camel.component.cm.exceptions.cmresponse.UnknownErrorException		1.0
+org.apache.camel.component.cm.client.SMSMessage		0.7586207
+org.apache.camel.component.cm.CMUtils		0.6666667
+org.apache.camel.component.cm.validation.constraints.E164Validator		0.5714286
+org.apache.camel.component.cm.CMProducer		0.56363636
+org.apache.camel.component.cm.CMEndpoint		0.48
+org.apache.camel.component.cm.CMConfiguration		0.375
+org.apache.camel.component.cm.CMMessage		0.3432836
+org.apache.camel.component.cm.CMComponent		0.14814815
+org.apache.camel.component.cm.exceptions.CMDirectException		0.11111111
+org.apache.camel.component.cm.exceptions.cmresponse.CMResponseException		0.11111111
+org.apache.camel.component.cm.CMSenderOneMessageImpl		0.025423728
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CMTest_testUnroutableMessageException_p
+testUnroutableMessageException
+org.apache.camel.component.cm.exceptions.cmresponse.UnroutableMessageException		1.0
+org.apache.camel.component.cm.client.SMSMessage		0.7586207
+org.apache.camel.component.cm.CMUtils		0.6666667
+org.apache.camel.component.cm.validation.constraints.E164Validator		0.5714286
+org.apache.camel.component.cm.CMProducer		0.56363636
+org.apache.camel.component.cm.CMEndpoint		0.48
+org.apache.camel.component.cm.CMMessage		0.3880597
+org.apache.camel.component.cm.CMConfiguration		0.375
+org.apache.camel.component.cm.CMComponent		0.14814815
+org.apache.camel.component.cm.exceptions.CMDirectException		0.11111111
+org.apache.camel.component.cm.exceptions.cmresponse.CMResponseException		0.11111111
+org.apache.camel.component.cm.CMSenderOneMessageImpl		0.025423728
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/CamelTestConfiguration
+CamelTestConfiguration		0.9354839
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/SMSMessageTest
+SMSMessageTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/SMSMessageTest_testDynamicFromFieldMaxLength_w
+testDynamicFromFieldMaxLength
+org.apache.camel.component.cm.client.SMSMessage		0.1724138
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/SMSMessageTest_testDynamicFromFieldZeroLength_16
+testDynamicFromFieldZeroLength
+org.apache.camel.component.cm.client.SMSMessage		0.1724138
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/SMSMessageTest_testE164IsValid_18
+testE164IsValid
+org.apache.camel.component.cm.validation.constraints.E164Validator		0.64285713
+org.apache.camel.component.cm.client.SMSMessage		0.2413793
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/SMSMessageTest_testE164NoPlusSignedNumberBut00IsInvalid_1
+testE164NoPlusSignedNumberBut00IsInvalid
+org.apache.camel.component.cm.validation.constraints.E164Validator		0.42857143
+org.apache.camel.component.cm.client.SMSMessage		0.2413793
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/SMSMessageTest_testE164NoPlusSignedNumberIsInvalid_1e
+testE164NoPlusSignedNumberIsInvalid
+org.apache.camel.component.cm.validation.constraints.E164Validator		0.42857143
+org.apache.camel.component.cm.client.SMSMessage		0.2413793
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/SMSMessageTest_testE164NullNumberIsInValid_11
+testE164NullNumberIsInValid
+org.apache.camel.component.cm.validation.constraints.E164Validator		0.2857143
+org.apache.camel.component.cm.client.SMSMessage		0.2413793
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/SMSMessageTest_testE164NumberWithPlusSignIsInvalid_19
+testE164NumberWithPlusSignIsInvalid
+org.apache.camel.component.cm.validation.constraints.E164Validator		0.5714286
+org.apache.camel.component.cm.client.SMSMessage		0.2413793
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/SMSMessageTest_testIdAsStringFieldZeroLength_14
+testIdAsStringFieldZeroLength
+org.apache.camel.component.cm.client.SMSMessage		0.1724138
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/SMSMessageTest_testIdAsStringMaxLength_x
+testIdAsStringMaxLength
+org.apache.camel.component.cm.client.SMSMessage		0.1724138
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/SMSMessageTest_testNullMessageField_f
+testNullMessageField
+org.apache.camel.component.cm.client.SMSMessage		0.2413793
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/SMSMessageTest_testNullPhoneNumber_q
+testNullPhoneNumber
+org.apache.camel.component.cm.validation.constraints.E164Validator		0.2857143
+org.apache.camel.component.cm.client.SMSMessage		0.2413793
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/SMSMessageTest_testSMSMessageConstructor_j
+testSMSMessageConstructor
+org.apache.camel.component.cm.client.SMSMessage		0.51724136
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/test-CMConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/test-CMMessageTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/test-CMTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/test-CamelTestConfiguration
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cm-sms/target/site/clover/org/apache/camel/component/cm/test/test-SMSMessageTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

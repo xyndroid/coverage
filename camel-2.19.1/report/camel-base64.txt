@@ -1,0 +1,93 @@
+./components/camel-base64/target/site/clover/org/apache/camel
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/Base64DataFormatDSLDefaultsTest
+Base64DataFormatDSLDefaultsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/Base64DataFormatDSLDefaultsTest_testDecode_7
+org.apache.camel.dataformat.base64.Base64DataFormat		0.055555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/Base64DataFormatDSLDefaultsTest_testEncode_9
+org.apache.camel.dataformat.base64.Base64DataFormat		0.2777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/Base64DataFormatDefaultsTest
+Base64DataFormatDefaultsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/Base64DataFormatDefaultsTest_testDecode_1
+org.apache.camel.dataformat.base64.Base64DataFormat		0.055555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/Base64DataFormatDefaultsTest_testEncode_c
+org.apache.camel.dataformat.base64.Base64DataFormat		0.2777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/Base64DataFormatLineEndingsTest
+Base64DataFormatLineEndingsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/Base64DataFormatLineEndingsTest_testDecode_3
+org.apache.camel.dataformat.base64.Base64DataFormat		0.055555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/Base64DataFormatLineEndingsTest_testEncode_5
+org.apache.camel.dataformat.base64.Base64DataFormat		0.2777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/Base64DataFormatLineLengthTest
+Base64DataFormatLineLengthTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/Base64DataFormatLineLengthTest_testDecode_4
+org.apache.camel.dataformat.base64.Base64DataFormat		0.055555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/Base64DataFormatLineLengthTest_testEncode_0
+org.apache.camel.dataformat.base64.Base64DataFormat		0.2777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/Base64DataFormatTestBase
+Base64DataFormatTestBase		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/Base64TestConstants
+Base64TestConstants		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/SpringBase64DataFormatDefaultsTest
+SpringBase64DataFormatDefaultsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/SpringBase64DataFormatDefaultsTest_testDecode_b
+org.apache.camel.dataformat.base64.Base64DataFormat		0.055555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/SpringBase64DataFormatDefaultsTest_testEncode_2
+org.apache.camel.dataformat.base64.Base64DataFormat		0.2777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/SpringBase64DataFormatLineEndingsTest
+SpringBase64DataFormatLineEndingsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/SpringBase64DataFormatLineEndingsTest_testDecode_6
+org.apache.camel.dataformat.base64.Base64DataFormat		0.055555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/SpringBase64DataFormatLineEndingsTest_testEncode_8
+org.apache.camel.dataformat.base64.Base64DataFormat		0.2777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/SpringBase64DataFormatLineLengthTest
+SpringBase64DataFormatLineLengthTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/SpringBase64DataFormatLineLengthTest_testDecode_d
+org.apache.camel.dataformat.base64.Base64DataFormat		0.055555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/SpringBase64DataFormatLineLengthTest_testEncode_a
+org.apache.camel.dataformat.base64.Base64DataFormat		0.2777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/SpringBase64DataFormatTestBase
+SpringBase64DataFormatTestBase		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/test-Base64DataFormatDSLDefaultsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/test-Base64DataFormatDefaultsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/test-Base64DataFormatLineEndingsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/test-Base64DataFormatLineLengthTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/test-Base64DataFormatTestBase
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/test-Base64TestConstants
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/test-SpringBase64DataFormatDefaultsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/test-SpringBase64DataFormatLineEndingsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/test-SpringBase64DataFormatLineLengthTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-base64/target/site/clover/org/apache/camel/dataformat/base64/test-SpringBase64DataFormatTestBase
+-- -- -- -- -- -- -- -- -- -- -- -- --

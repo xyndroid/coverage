@@ -1,0 +1,24 @@
+./examples/camel-example-transformer-demo/target/site/clover/org/apache/camel
+./examples/camel-example-transformer-demo/target/site/clover/org/apache/camel/example/transformer/OrderRouteSpringTest
+OrderRouteSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-transformer-demo/target/site/clover/org/apache/camel/example/transformer/OrderRouteSpringTest_testJSON_1
+org.apache.camel.example.transformer.demo.OrderProcessor		1.0
+org.apache.camel.example.transformer.demo.OrderResponse		1.0
+org.apache.camel.example.transformer.demo.OrderResponseValidator		0.6666667
+org.apache.camel.example.transformer.demo.Order		0.3529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-transformer-demo/target/site/clover/org/apache/camel/example/transformer/OrderRouteSpringTest_testJava_2
+org.apache.camel.example.transformer.demo.OrderProcessor		1.0
+org.apache.camel.example.transformer.demo.OrderResponse		1.0
+org.apache.camel.example.transformer.demo.Order		0.88235295
+org.apache.camel.example.transformer.demo.OrderResponseValidator		0.6666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-transformer-demo/target/site/clover/org/apache/camel/example/transformer/OrderRouteSpringTest_testXML_0
+org.apache.camel.example.transformer.demo.OrderProcessor		1.0
+org.apache.camel.example.transformer.demo.OrderResponse		0.7647059
+org.apache.camel.example.transformer.demo.OrderResponseValidator		0.6666667
+org.apache.camel.example.transformer.demo.Order		0.3529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-transformer-demo/target/site/clover/org/apache/camel/example/transformer/test-OrderRouteSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,7 @@
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs-plugins/target/clover/org/apache/hadoop
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs-plugins/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestMapReduceTrackingUriPlugin
+TestMapReduceTrackingUriPlugin		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs-plugins/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestMapReduceTrackingUriPlugin_testProducesHistoryServerUriForAppId_0
+org.apache.hadoop.mapreduce.v2.hs.webapp.MapReduceTrackingUriPlugin		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --

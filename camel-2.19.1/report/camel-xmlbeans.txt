@@ -1,0 +1,66 @@
+./components/camel-xmlbeans/target/site/clover/org/apache/camel
+./components/camel-xmlbeans/target/site/clover/org/apache/camel/converter/xmlbeans/MarshalTest
+MarshalTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlbeans/target/site/clover/org/apache/camel/converter/xmlbeans/MarshalTest_marshalConcurrent_9
+org.apache.camel.converter.xmlbeans.XmlBeansDataFormat		0.42307693
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlbeans/target/site/clover/org/apache/camel/converter/xmlbeans/MarshalTest_marshal_c
+org.apache.camel.converter.xmlbeans.XmlBeansDataFormat		0.42307693
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlbeans/target/site/clover/org/apache/camel/converter/xmlbeans/UnmarshalTest
+UnmarshalTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlbeans/target/site/clover/org/apache/camel/converter/xmlbeans/UnmarshalTest_unmarshalConcurrent_4
+org.apache.camel.converter.xmlbeans.XmlBeansDataFormat		0.15384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlbeans/target/site/clover/org/apache/camel/converter/xmlbeans/UnmarshalTest_unmarshal_d
+org.apache.camel.converter.xmlbeans.XmlBeansDataFormat		0.15384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlbeans/target/site/clover/org/apache/camel/converter/xmlbeans/XmlBeansConverterTest
+XmlBeansConverterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlbeans/target/site/clover/org/apache/camel/converter/xmlbeans/XmlBeansConverterTest_testConvertToXmlObject_0
+org.apache.camel.converter.xmlbeans.XmlBeansConverter		0.1875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlbeans/target/site/clover/org/apache/camel/converter/xmlbeans/XmlBeansConverterTest_toXmlObjectFromByteArray_a
+org.apache.camel.converter.xmlbeans.XmlBeansConverter		0.1875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlbeans/target/site/clover/org/apache/camel/converter/xmlbeans/XmlBeansConverterTest_toXmlObjectFromByteBuffer_3
+org.apache.camel.converter.xmlbeans.XmlBeansConverter		0.1875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlbeans/target/site/clover/org/apache/camel/converter/xmlbeans/XmlBeansConverterTest_toXmlObjectFromFile_b
+org.apache.camel.converter.xmlbeans.XmlBeansConverter		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlbeans/target/site/clover/org/apache/camel/converter/xmlbeans/XmlBeansConverterTest_toXmlObjectFromInputStream_7
+org.apache.camel.converter.xmlbeans.XmlBeansConverter		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlbeans/target/site/clover/org/apache/camel/converter/xmlbeans/XmlBeansConverterTest_toXmlObjectFromNode_5
+org.apache.camel.converter.xmlbeans.XmlBeansConverter		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlbeans/target/site/clover/org/apache/camel/converter/xmlbeans/XmlBeansConverterTest_toXmlObjectFromReader_8
+org.apache.camel.converter.xmlbeans.XmlBeansConverter		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlbeans/target/site/clover/org/apache/camel/converter/xmlbeans/XmlBeansConverterTest_toXmlObjectFromSource_1
+org.apache.camel.converter.xmlbeans.XmlBeansConverter		0.15625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlbeans/target/site/clover/org/apache/camel/converter/xmlbeans/XmlBeansConverterTest_toXmlObjectFromString_e
+org.apache.camel.converter.xmlbeans.XmlBeansConverter		0.1875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlbeans/target/site/clover/org/apache/camel/converter/xmlbeans/XmlBeansConverterTest_toXmlObjectFromXMLStreamReader_6
+org.apache.camel.converter.xmlbeans.XmlBeansConverter		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlbeans/target/site/clover/org/apache/camel/converter/xmlbeans/XmlBeansDslTest
+XmlBeansDslTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlbeans/target/site/clover/org/apache/camel/converter/xmlbeans/XmlBeansDslTest_testSendXmlAndUnmarshal_2
+org.apache.camel.converter.xmlbeans.XmlBeansDataFormat		0.5769231
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlbeans/target/site/clover/org/apache/camel/converter/xmlbeans/test-MarshalTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlbeans/target/site/clover/org/apache/camel/converter/xmlbeans/test-UnmarshalTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlbeans/target/site/clover/org/apache/camel/converter/xmlbeans/test-XmlBeansConverterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlbeans/target/site/clover/org/apache/camel/converter/xmlbeans/test-XmlBeansDslTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

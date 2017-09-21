@@ -1,0 +1,41 @@
+./components/camel-spring-security/target/site/clover/org/apache/camel
+./components/camel-spring-security/target/site/clover/org/apache/camel/component/spring/security/SpringSecurityAuthorizationPolicyTest
+SpringSecurityAuthorizationPolicyTest		0.9583333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-security/target/site/clover/org/apache/camel/component/spring/security/SpringSecurityAuthorizationPolicyTest_testAuthenticationFailed_8
+testAuthenticationFailed
+org.apache.camel.component.spring.security.DefaultAuthenticationAdapter		0.53846157
+org.apache.camel.component.spring.security.SpringSecurityAccessPolicy		0.4
+org.apache.camel.component.spring.security.SpringSecurityAuthorizationPolicy.AuthorizeDelegateProcess		0.4
+org.apache.camel.component.spring.security.SpringSecurityAuthorizationPolicy		0.3483146
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-security/target/site/clover/org/apache/camel/component/spring/security/SpringSecurityAuthorizationPolicyTest_testAuthorizationFailed_3
+testAuthorizationFailed
+org.apache.camel.component.spring.security.DefaultAuthenticationAdapter		0.53846157
+org.apache.camel.component.spring.security.SpringSecurityAuthorizationPolicy		0.47191012
+org.apache.camel.component.spring.security.SpringSecurityAccessPolicy		0.4
+org.apache.camel.component.spring.security.SpringSecurityAuthorizationPolicy.AuthorizeDelegateProcess		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-security/target/site/clover/org/apache/camel/component/spring/security/SpringSecurityAuthorizationPolicyTest_testAuthorizationPassed_1
+testAuthorizationPassed
+org.apache.camel.component.spring.security.SpringSecurityAuthorizationPolicy.AuthorizeDelegateProcess		0.6
+org.apache.camel.component.spring.security.DefaultAuthenticationAdapter		0.53846157
+org.apache.camel.component.spring.security.SpringSecurityAuthorizationPolicy		0.40449437
+org.apache.camel.component.spring.security.SpringSecurityAccessPolicy		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-security/target/site/clover/org/apache/camel/component/spring/security/SpringSecurityAuthorizationPolicyTest_testGetAuthorizationTokenFromSecurityContextHolder_6
+testGetAuthorizationTokenFromSecurityContextHolder
+org.apache.camel.component.spring.security.SpringSecurityAuthorizationPolicy.AuthorizeDelegateProcess		0.6
+org.apache.camel.component.spring.security.SpringSecurityAccessPolicy		0.4
+org.apache.camel.component.spring.security.SpringSecurityAuthorizationPolicy		0.3258427
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-security/target/site/clover/org/apache/camel/component/spring/security/config/SpringSecurityAuthorizationPolicyConfigTest
+SpringSecurityAuthorizationPolicyConfigTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-security/target/site/clover/org/apache/camel/component/spring/security/config/SpringSecurityAuthorizationPolicyConfigTest_testAuthorizationPolicy_0
+org.apache.camel.component.spring.security.SpringSecurityAuthorizationPolicy		0.06741573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-security/target/site/clover/org/apache/camel/component/spring/security/config/test-SpringSecurityAuthorizationPolicyConfigTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-security/target/site/clover/org/apache/camel/component/spring/security/test-SpringSecurityAuthorizationPolicyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,2119 @@
+./components/camel-aws/target/site/clover/org/apache/camel
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/common/AwsExchangeUtilTest
+AwsExchangeUtilTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/common/AwsExchangeUtilTest_getMessageForResponse_6t
+getMessageForResponse
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.8888889
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/common/test-AwsExchangeUtilTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/cw/CwComponentConfigurationTest
+CwComponentConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/cw/CwComponentConfigurationTest_createEndpointWithAllOptions_15
+createEndpointWithAllOptions
+org.apache.camel.component.aws.cw.CwComponent		0.6666667
+org.apache.camel.component.aws.cw.CwConfiguration		0.5217391
+org.apache.camel.component.aws.cw.CwEndpoint		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/cw/CwComponentConfigurationTest_createEndpointWithoutAccessKeyConfiguration_3
+createEndpointWithoutAccessKeyConfiguration
+org.apache.camel.component.aws.cw.CwComponent		0.6111111
+org.apache.camel.component.aws.cw.CwConfiguration		0.13043478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/cw/CwComponentConfigurationTest_createEndpointWithoutSecretKeyAndAccessKeyConfiguration_21
+createEndpointWithoutSecretKeyAndAccessKeyConfiguration
+org.apache.camel.component.aws.cw.CwComponent		0.6666667
+org.apache.camel.component.aws.cw.CwConfiguration		0.17391305
+org.apache.camel.component.aws.cw.CwEndpoint		0.054545455
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/cw/CwComponentConfigurationTest_createEndpointWithoutSecretKeyConfiguration_20
+createEndpointWithoutSecretKeyConfiguration
+org.apache.camel.component.aws.cw.CwComponent		0.6111111
+org.apache.camel.component.aws.cw.CwConfiguration		0.13043478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/cw/CwComponentTest
+CwComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/cw/CwComponentTest_sendManuallyCreatedMetric_4w
+sendManuallyCreatedMetric
+org.apache.camel.component.aws.cw.CwProducer		0.25882354
+org.apache.camel.component.aws.cw.CwEndpoint		0.07272727
+org.apache.camel.component.aws.cw.CwConfiguration		0.04347826
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/cw/CwComponentTest_sendMetricFromHeaderValues_3n
+sendMetricFromHeaderValues
+org.apache.camel.component.aws.cw.CwProducer		0.6
+org.apache.camel.component.aws.cw.CwEndpoint		0.036363635
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/cw/CwComponentTest_setsMeticDimensions_6a
+setsMeticDimensions
+org.apache.camel.component.aws.cw.CwProducer		0.7294118
+org.apache.camel.component.aws.cw.CwConfiguration		0.17391305
+org.apache.camel.component.aws.cw.CwEndpoint		0.07272727
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/cw/CwComponentTest_useDefaultValuesForMetricUnitAndMetricValue_2a
+useDefaultValuesForMetricUnitAndMetricValue
+org.apache.camel.component.aws.cw.CwProducer		0.67058825
+org.apache.camel.component.aws.cw.CwConfiguration		0.17391305
+org.apache.camel.component.aws.cw.CwEndpoint		0.07272727
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/cw/integration/CwComponentIntegrationTest
+CwComponentIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/cw/integration/test-CwComponentIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/cw/test-CwComponentConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/cw/test-CwComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/BatchGetItemsCommandTest
+BatchGetItemsCommandTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/BatchGetItemsCommandTest_execute_r
+execute
+org.apache.camel.component.aws.ddb.BatchGetItemsCommand		0.8
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.ddb.AbstractDdbCommand		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/DdbComponentTest
+DdbComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/DdbComponentTest_createEndpointWithOnlySecretKeyConfiguration_1b
+createEndpointWithOnlySecretKeyConfiguration
+org.apache.camel.component.aws.ddb.DdbComponent		0.6111111
+org.apache.camel.component.aws.ddb.DdbConfiguration		0.115384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/DdbComponentTest_createEndpointWithoutSecretKeyAndAccessKeyConfiguration_7b
+createEndpointWithoutSecretKeyAndAccessKeyConfiguration
+org.apache.camel.component.aws.ddb.DdbComponent		0.6666667
+org.apache.camel.component.aws.ddb.DdbConfiguration		0.115384616
+org.apache.camel.component.aws.ddb.DdbEndpoint		0.030612245
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/DdbComponentTest_whenTableExistsThenDoesntCreateItOnStart_41
+whenTableExistsThenDoesntCreateItOnStart
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/DdbComponentTest_whenTableIsMissingThenCreateItOnStart_a
+whenTableIsMissingThenCreateItOnStart
+org.apache.camel.component.aws.ddb.DdbComponent		0.5555556
+org.apache.camel.component.aws.ddb.DdbEndpoint		0.47959185
+org.apache.camel.component.aws.ddb.DdbConfiguration		0.34615386
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/DeleteItemCommandTest
+DeleteItemCommandTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/DeleteItemCommandTest_execute_40
+execute
+org.apache.camel.component.aws.ddb.DeleteItemCommand		0.6
+org.apache.camel.component.aws.ddb.AbstractDdbCommand		0.5
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.ddb.DdbConfiguration		0.03846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/DeleteTableCommandTest
+DeleteTableCommandTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/DeleteTableCommandTest_testExecute_i
+testExecute
+org.apache.camel.component.aws.ddb.DeleteTableCommand		0.84615386
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.ddb.AbstractDdbCommand		0.33333334
+org.apache.camel.component.aws.ddb.DdbConfiguration		0.03846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/DescribeTableCommandTest
+DescribeTableCommandTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/DescribeTableCommandTest_testExecute_b
+testExecute
+org.apache.camel.component.aws.ddb.DescribeTableCommand		0.84615386
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.ddb.AbstractDdbCommand		0.2
+org.apache.camel.component.aws.ddb.DdbConfiguration		0.03846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/GetItemCommandTest
+GetItemCommandTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/GetItemCommandTest_execute_32
+execute
+org.apache.camel.component.aws.ddb.GetItemCommand		0.6
+org.apache.camel.component.aws.ddb.AbstractDdbCommand		0.5
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.ddb.DdbConfiguration		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/PutItemCommandTest
+PutItemCommandTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/PutItemCommandTest_execute_0
+execute
+org.apache.camel.component.aws.ddb.PutItemCommand		0.6
+org.apache.camel.component.aws.ddb.AbstractDdbCommand		0.5
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.ddb.DdbConfiguration		0.03846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/QueryCommandTest
+QueryCommandTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/QueryCommandTest_execute_6f
+execute
+org.apache.camel.component.aws.ddb.QueryCommand		0.8888889
+org.apache.camel.component.aws.ddb.AbstractDdbCommand		0.46666667
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.ddb.DdbConfiguration		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/ScanCommandTest
+ScanCommandTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/ScanCommandTest_execute_6w
+execute
+org.apache.camel.component.aws.ddb.ScanCommand		0.84615386
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.ddb.AbstractDdbCommand		0.33333334
+org.apache.camel.component.aws.ddb.DdbConfiguration		0.03846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/UpdateItemCommandTest
+UpdateItemCommandTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/UpdateItemCommandTest_execute_46
+execute
+org.apache.camel.component.aws.ddb.UpdateItemCommand		0.71428573
+org.apache.camel.component.aws.ddb.AbstractDdbCommand		0.5
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.ddb.DdbConfiguration		0.03846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/UpdateTableCommandTest
+UpdateTableCommandTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/UpdateTableCommandTest_testExecute_78
+testExecute
+org.apache.camel.component.aws.ddb.UpdateTableCommand		0.71428573
+org.apache.camel.component.aws.ddb.AbstractDdbCommand		0.13333334
+org.apache.camel.component.aws.ddb.DdbConfiguration		0.115384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/integration/DdbComponentIntegrationTest
+DdbComponentIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/integration/test-DdbComponentIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/test-BatchGetItemsCommandTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/test-DdbComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/test-DeleteItemCommandTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/test-DeleteTableCommandTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/test-DescribeTableCommandTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/test-GetItemCommandTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/test-PutItemCommandTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/test-QueryCommandTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/test-ScanCommandTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/test-UpdateItemCommandTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddb/test-UpdateTableCommandTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/BigIntComparisonsTest
+BigIntComparisonsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/BigIntComparisonsTest_test_17
+test
+org.apache.camel.component.aws.ddbstream.BigIntComparisons.Conditions		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/BigIntComparisonsTest_test_1s
+test
+org.apache.camel.component.aws.ddbstream.BigIntComparisons.Conditions		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/BigIntComparisonsTest_test_3y
+test
+org.apache.camel.component.aws.ddbstream.BigIntComparisons.Conditions		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/BigIntComparisonsTest_test_4n
+test
+org.apache.camel.component.aws.ddbstream.BigIntComparisons.Conditions		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/BigIntComparisonsTest_test_5g
+test
+org.apache.camel.component.aws.ddbstream.BigIntComparisons.Conditions		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/BigIntComparisonsTest_test_7
+test
+org.apache.camel.component.aws.ddbstream.BigIntComparisons.Conditions		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/DdbStreamConsumerTest
+DdbStreamConsumerTest		0.9411765
+DdbStreamConsumerTest.GetRecordsAnswer		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/DdbStreamConsumerTest_afterSeqNumber35GivesFirstRecordWithSeq40_63
+afterSeqNumber35GivesFirstRecordWithSeq40
+org.apache.camel.component.aws.ddbstream.StaticSequenceNumberProvider		1.0
+org.apache.camel.component.aws.ddbstream.DdbStreamConsumer		0.765625
+org.apache.camel.component.aws.ddbstream.BigIntComparisons.Conditions		0.5
+org.apache.camel.component.aws.ddbstream.DdbStreamEndpoint		0.3137255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/DdbStreamConsumerTest_atSeqNumber35GivesFirstRecordWithSeq35_3b
+atSeqNumber35GivesFirstRecordWithSeq35
+org.apache.camel.component.aws.ddbstream.StaticSequenceNumberProvider		1.0
+org.apache.camel.component.aws.ddbstream.DdbStreamConsumer		0.765625
+org.apache.camel.component.aws.ddbstream.BigIntComparisons.Conditions		0.5
+org.apache.camel.component.aws.ddbstream.DdbStreamEndpoint		0.3137255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/DdbStreamConsumerTest_itResumesFromAfterTheLastSeenSequenceNumberWhenAShardIteratorHasExpired_6h
+itResumesFromAfterTheLastSeenSequenceNumberWhenAShardIteratorHasExpired
+org.apache.camel.component.aws.ddbstream.DdbStreamConsumer		0.734375
+org.apache.camel.component.aws.ddbstream.BigIntComparisons.Conditions		0.5
+org.apache.camel.component.aws.ddbstream.DdbStreamEndpoint		0.23529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/DdbStreamEndpointTest
+DdbStreamEndpointTest		0.77272725
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/DdbStreamEndpointTest_itExtractsTheSequenceNumberFromALiteralString_5n
+itExtractsTheSequenceNumberFromALiteralString
+org.apache.camel.component.aws.ddbstream.StaticSequenceNumberProvider		1.0
+org.apache.camel.component.aws.ddbstream.DdbStreamComponent		0.71428573
+org.apache.camel.component.aws.ddbstream.StringSequenceNumberConverter		0.6666667
+org.apache.camel.component.aws.ddbstream.DdbStreamEndpoint		0.4117647
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/DdbStreamEndpointTest_itExtractsTheSequenceNumber_4x
+itExtractsTheSequenceNumber
+org.apache.camel.component.aws.ddbstream.DdbStreamComponent		0.71428573
+org.apache.camel.component.aws.ddbstream.DdbStreamEndpoint		0.4117647
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/DdbStreamEndpointTest_onSequenceNumberAgnosticIteratorsTheProviderIsIgnored_4p
+onSequenceNumberAgnosticIteratorsTheProviderIsIgnored
+org.apache.camel.component.aws.ddbstream.DdbStreamComponent		0.71428573
+org.apache.camel.component.aws.ddbstream.DdbStreamEndpoint		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/DdbStreamEndpointTest_sequenceNumberFetchingThrowsSomethingUsefulIfMisconfigurered_4c
+sequenceNumberFetchingThrowsSomethingUsefulIfMisconfigurered
+org.apache.camel.component.aws.ddbstream.DdbStreamComponent		0.71428573
+org.apache.camel.component.aws.ddbstream.DdbStreamEndpoint		0.37254903
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/ShardIteratorHandlerTest
+ShardIteratorHandlerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/ShardIteratorHandlerTest_afterSeqNumber16StartsWithShardD_1e
+afterSeqNumber16StartsWithShardD
+org.apache.camel.component.aws.ddbstream.BigIntComparisons.Conditions		1.0
+org.apache.camel.component.aws.ddbstream.ShardList.StartingSequenceNumberComparator		1.0
+org.apache.camel.component.aws.ddbstream.StaticSequenceNumberProvider		1.0
+org.apache.camel.component.aws.ddbstream.ShardIteratorHandler		0.61904764
+org.apache.camel.component.aws.ddbstream.ShardList		0.5
+org.apache.camel.component.aws.ddbstream.DdbStreamEndpoint		0.3529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/ShardIteratorHandlerTest_atSeqNumber12StartsWithShardB_2r
+atSeqNumber12StartsWithShardB
+org.apache.camel.component.aws.ddbstream.ShardList.StartingSequenceNumberComparator		1.0
+org.apache.camel.component.aws.ddbstream.StaticSequenceNumberProvider		1.0
+org.apache.camel.component.aws.ddbstream.ShardIteratorHandler		0.6031746
+org.apache.camel.component.aws.ddbstream.BigIntComparisons.Conditions		0.5
+org.apache.camel.component.aws.ddbstream.ShardList		0.47058824
+org.apache.camel.component.aws.ddbstream.DdbStreamEndpoint		0.3529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/ShardIteratorHandlerTest_cachesRecentShardId_48
+cachesRecentShardId
+org.apache.camel.component.aws.ddbstream.ShardIteratorHandler		0.20634921
+org.apache.camel.component.aws.ddbstream.DdbStreamEndpoint		0.15686275
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/ShardIteratorHandlerTest_latestOnlyUsesTheLastShard_24
+latestOnlyUsesTheLastShard
+org.apache.camel.component.aws.ddbstream.ShardIteratorHandler		0.53968257
+org.apache.camel.component.aws.ddbstream.ShardList		0.38235295
+org.apache.camel.component.aws.ddbstream.DdbStreamEndpoint		0.23529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/ShardIteratorHandlerTest_resumingFromSomewhereActuallyUsesTheAfterSequenceNumber_3t
+resumingFromSomewhereActuallyUsesTheAfterSequenceNumber
+org.apache.camel.component.aws.ddbstream.BigIntComparisons.Conditions		1.0
+org.apache.camel.component.aws.ddbstream.ShardList.StartingSequenceNumberComparator		1.0
+org.apache.camel.component.aws.ddbstream.ShardIteratorHandler		0.6825397
+org.apache.camel.component.aws.ddbstream.ShardList		0.47058824
+org.apache.camel.component.aws.ddbstream.DdbStreamEndpoint		0.23529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/ShardIteratorHandlerTest_trimHorizonStartsWithTheFirstShard_76
+trimHorizonStartsWithTheFirstShard
+org.apache.camel.component.aws.ddbstream.ShardIteratorHandler		0.53968257
+org.apache.camel.component.aws.ddbstream.DdbStreamEndpoint		0.23529412
+org.apache.camel.component.aws.ddbstream.ShardList		0.23529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/ShardIteratorHandlerTest_trimHorizonWalksAllShards_4j
+trimHorizonWalksAllShards
+org.apache.camel.component.aws.ddbstream.ShardIteratorHandler		0.6031746
+org.apache.camel.component.aws.ddbstream.ShardList		0.4117647
+org.apache.camel.component.aws.ddbstream.DdbStreamEndpoint		0.23529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/ShardListTest
+ShardListTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/ShardListTest_firstShardGetsTheFirstWithAnUnknownParent_p
+firstShardGetsTheFirstWithAnUnknownParent
+org.apache.camel.component.aws.ddbstream.ShardList		0.14705883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/ShardListTest_firstShardGetsTheFirstWithoutAParent_2y
+firstShardGetsTheFirstWithoutAParent
+org.apache.camel.component.aws.ddbstream.ShardList		0.14705883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/ShardListTest_lastShardGetsTheShardWithNoChildren_4r
+lastShardGetsTheShardWithNoChildren
+org.apache.camel.component.aws.ddbstream.ShardList		0.20588236
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/ShardListTest_nextReturnsShardWithParent_3m
+nextReturnsShardWithParent
+org.apache.camel.component.aws.ddbstream.ShardList		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/ShardListTest_nextWithNullReturnsFirstKnownShard_c
+nextWithNullReturnsFirstKnownShard
+org.apache.camel.component.aws.ddbstream.ShardList		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/ShardListTest_reAddingEntriesMaintainsOrder_4h
+reAddingEntriesMaintainsOrder
+org.apache.camel.component.aws.ddbstream.ShardList		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/ShardListTest_removingShards_3x
+removingShards
+org.apache.camel.component.aws.ddbstream.ShardList		0.32352942
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/test-BigIntComparisonsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/test-DdbStreamConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/test-DdbStreamConsumerTest_GetRecordsAnswer
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/test-DdbStreamEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/test-ShardIteratorHandlerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ddbstream/test-ShardListTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ComponentConfigurationTest
+EC2ComponentConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ComponentConfigurationTest_createEndpointWithMinimalConfiguration_31
+createEndpointWithMinimalConfiguration
+org.apache.camel.component.aws.ec2.EC2Component		0.6923077
+org.apache.camel.component.aws.ec2.EC2Configuration		0.42857143
+org.apache.camel.component.aws.ec2.EC2Endpoint		0.104166664
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ComponentConfigurationTest_createEndpointWithoutAccessKeyConfiguration_3h
+createEndpointWithoutAccessKeyConfiguration
+org.apache.camel.component.aws.ec2.EC2Component		0.61538464
+org.apache.camel.component.aws.ec2.EC2Configuration		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ComponentConfigurationTest_createEndpointWithoutAmazonSDBClientConfiguration_58
+createEndpointWithoutAmazonSDBClientConfiguration
+org.apache.camel.component.aws.ec2.EC2Component		0.61538464
+org.apache.camel.component.aws.ec2.EC2Configuration		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ComponentConfigurationTest_createEndpointWithoutDomainName_3u
+createEndpointWithoutDomainName
+org.apache.camel.component.aws.ec2.EC2Component		0.61538464
+org.apache.camel.component.aws.ec2.EC2Configuration		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ComponentConfigurationTest_createEndpointWithoutSecretKeyAndAccessKeyConfiguration_12
+createEndpointWithoutSecretKeyAndAccessKeyConfiguration
+org.apache.camel.component.aws.ec2.EC2Component		0.6923077
+org.apache.camel.component.aws.ec2.EC2Configuration		0.14285715
+org.apache.camel.component.aws.ec2.EC2Endpoint		0.0625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ComponentConfigurationTest_createEndpointWithoutSecretKeyConfiguration_t
+createEndpointWithoutSecretKeyConfiguration
+org.apache.camel.component.aws.ec2.EC2Component		0.61538464
+org.apache.camel.component.aws.ec2.EC2Configuration		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ComponentSpringTest
+EC2ComponentSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ComponentSpringTest_createAndRunInstances_6y
+createAndRunInstances
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.ec2.EC2Producer		0.17475729
+org.apache.camel.component.aws.ec2.EC2Endpoint		0.041666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ComponentSpringTest_ec2CreateAndRunTestWithKeyPair_4o
+ec2CreateAndRunTestWithKeyPair
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.ec2.EC2Producer		0.18122977
+org.apache.camel.component.aws.ec2.EC2Endpoint		0.041666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ComponentSpringTest_ec2DescribeSpecificInstancesTest_4l
+ec2DescribeSpecificInstancesTest
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.ec2.EC2Producer		0.08737864
+org.apache.camel.component.aws.ec2.EC2Endpoint		0.083333336
+org.apache.camel.component.aws.ec2.EC2Configuration		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ComponentSpringTest_ec2DescribeStatusSpecificInstancesTest_1m
+ec2DescribeStatusSpecificInstancesTest
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.ec2.EC2Producer		0.08737864
+org.apache.camel.component.aws.ec2.EC2Endpoint		0.083333336
+org.apache.camel.component.aws.ec2.EC2Configuration		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ComponentSpringTest_ec2MonitorInstancesTest_6s
+ec2MonitorInstancesTest
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.ec2.EC2Producer		0.090614885
+org.apache.camel.component.aws.ec2.EC2Endpoint		0.083333336
+org.apache.camel.component.aws.ec2.EC2Configuration		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ComponentSpringTest_ec2RebootInstancesTest_1n
+ec2RebootInstancesTest
+org.apache.camel.component.aws.ec2.EC2Endpoint		0.083333336
+org.apache.camel.component.aws.ec2.EC2Producer		0.080906145
+org.apache.camel.component.aws.ec2.EC2Configuration		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ComponentSpringTest_ec2UnmonitorInstancesTest_5f
+ec2UnmonitorInstancesTest
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.ec2.EC2Producer		0.090614885
+org.apache.camel.component.aws.ec2.EC2Endpoint		0.083333336
+org.apache.camel.component.aws.ec2.EC2Configuration		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ComponentSpringTest_startInstances_4k
+startInstances
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.ec2.EC2Producer		0.090614885
+org.apache.camel.component.aws.ec2.EC2Endpoint		0.083333336
+org.apache.camel.component.aws.ec2.EC2Configuration		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ComponentSpringTest_stopInstances_3l
+stopInstances
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.ec2.EC2Producer		0.090614885
+org.apache.camel.component.aws.ec2.EC2Endpoint		0.083333336
+org.apache.camel.component.aws.ec2.EC2Configuration		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ComponentSpringTest_terminateInstances_53
+terminateInstances
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.ec2.EC2Producer		0.090614885
+org.apache.camel.component.aws.ec2.EC2Endpoint		0.083333336
+org.apache.camel.component.aws.ec2.EC2Configuration		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2OperationsTest
+EC2OperationsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2OperationsTest_supportedOperationCount_43
+supportedOperationCount
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2OperationsTest_testToString_3q
+testToString
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2OperationsTest_valueOf_1i
+valueOf
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ProducerTest
+EC2ProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ProducerTest_ec2CreateAndRunImageIdNotSpecifiedTest_2
+ec2CreateAndRunImageIdNotSpecifiedTest
+org.apache.camel.component.aws.ec2.EC2Producer		0.058252428
+org.apache.camel.component.aws.ec2.EC2Endpoint		0.041666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ProducerTest_ec2CreateAndRunInstanceTypeNotSpecifiedTest_6c
+ec2CreateAndRunInstanceTypeNotSpecifiedTest
+org.apache.camel.component.aws.ec2.EC2Producer		0.07119741
+org.apache.camel.component.aws.ec2.EC2Endpoint		0.041666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ProducerTest_ec2CreateAndRunKoTest_q
+ec2CreateAndRunKoTest
+org.apache.camel.component.aws.ec2.EC2Producer		0.16828479
+org.apache.camel.component.aws.ec2.EC2Endpoint		0.041666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ProducerTest_ec2CreateAndRunMaxCountNotSpecifiedTest_2u
+ec2CreateAndRunMaxCountNotSpecifiedTest
+org.apache.camel.component.aws.ec2.EC2Producer		0.097087376
+org.apache.camel.component.aws.ec2.EC2Endpoint		0.041666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ProducerTest_ec2CreateAndRunMinCountNotSpecifiedTest_65
+ec2CreateAndRunMinCountNotSpecifiedTest
+org.apache.camel.component.aws.ec2.EC2Producer		0.084142394
+org.apache.camel.component.aws.ec2.EC2Endpoint		0.041666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ProducerTest_ec2CreateAndRunTestWithKeyPair_6x
+ec2CreateAndRunTestWithKeyPair
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.ec2.EC2Producer		0.18122977
+org.apache.camel.component.aws.ec2.EC2Endpoint		0.041666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ProducerTest_ec2CreateAndRunTestWithSecurityGroups_5c
+ec2CreateAndRunTestWithSecurityGroups
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.ec2.EC2Producer		0.18122977
+org.apache.camel.component.aws.ec2.EC2Endpoint		0.041666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ProducerTest_ec2CreateAndRunTest_2o
+ec2CreateAndRunTest
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.ec2.EC2Producer		0.17475729
+org.apache.camel.component.aws.ec2.EC2Endpoint		0.041666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ProducerTest_ec2CreateTagsTest_6g
+ec2CreateTagsTest
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.ec2.EC2Producer		0.106796116
+org.apache.camel.component.aws.ec2.EC2Endpoint		0.083333336
+org.apache.camel.component.aws.ec2.EC2Configuration		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ProducerTest_ec2DeleteTagsTest_6n
+ec2DeleteTagsTest
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.ec2.EC2Producer		0.106796116
+org.apache.camel.component.aws.ec2.EC2Endpoint		0.083333336
+org.apache.camel.component.aws.ec2.EC2Configuration		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ProducerTest_ec2DescribeInstancesStatusTest_2s
+ec2DescribeInstancesStatusTest
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.ec2.EC2Endpoint		0.083333336
+org.apache.camel.component.aws.ec2.EC2Producer		0.080906145
+org.apache.camel.component.aws.ec2.EC2Configuration		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ProducerTest_ec2DescribeInstancesTest_3r
+ec2DescribeInstancesTest
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.ec2.EC2Endpoint		0.083333336
+org.apache.camel.component.aws.ec2.EC2Producer		0.080906145
+org.apache.camel.component.aws.ec2.EC2Configuration		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ProducerTest_ec2DescribeSpecificInstancesTest_71
+ec2DescribeSpecificInstancesTest
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.ec2.EC2Producer		0.08737864
+org.apache.camel.component.aws.ec2.EC2Endpoint		0.083333336
+org.apache.camel.component.aws.ec2.EC2Configuration		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ProducerTest_ec2DescribeStatusSpecificInstancesTest_7a
+ec2DescribeStatusSpecificInstancesTest
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.ec2.EC2Producer		0.08737864
+org.apache.camel.component.aws.ec2.EC2Endpoint		0.083333336
+org.apache.camel.component.aws.ec2.EC2Configuration		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ProducerTest_ec2MonitorInstancesTest_6q
+ec2MonitorInstancesTest
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.ec2.EC2Producer		0.090614885
+org.apache.camel.component.aws.ec2.EC2Endpoint		0.083333336
+org.apache.camel.component.aws.ec2.EC2Configuration		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ProducerTest_ec2RebootInstancesTest_56
+ec2RebootInstancesTest
+org.apache.camel.component.aws.ec2.EC2Endpoint		0.083333336
+org.apache.camel.component.aws.ec2.EC2Producer		0.080906145
+org.apache.camel.component.aws.ec2.EC2Configuration		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ProducerTest_ec2StartTest_1c
+ec2StartTest
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.ec2.EC2Producer		0.090614885
+org.apache.camel.component.aws.ec2.EC2Endpoint		0.083333336
+org.apache.camel.component.aws.ec2.EC2Configuration		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ProducerTest_ec2StopTest_27
+ec2StopTest
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.ec2.EC2Producer		0.090614885
+org.apache.camel.component.aws.ec2.EC2Endpoint		0.083333336
+org.apache.camel.component.aws.ec2.EC2Configuration		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ProducerTest_ec2TerminateTest_o
+ec2TerminateTest
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.ec2.EC2Producer		0.090614885
+org.apache.camel.component.aws.ec2.EC2Endpoint		0.083333336
+org.apache.camel.component.aws.ec2.EC2Configuration		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/EC2ProducerTest_ec2UnmonitorInstancesTest_3v
+ec2UnmonitorInstancesTest
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.ec2.EC2Producer		0.090614885
+org.apache.camel.component.aws.ec2.EC2Endpoint		0.083333336
+org.apache.camel.component.aws.ec2.EC2Configuration		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/integration/EC2ComponentIntegrationTest
+EC2ComponentIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/integration/test-EC2ComponentIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/test-EC2ComponentConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/test-EC2ComponentSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/test-EC2OperationsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ec2/test-EC2ProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/firehose/KinesisFirehoseEndpointTest
+KinesisFirehoseEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/firehose/KinesisFirehoseEndpointTest_allEndpointParams_68
+allEndpointParams
+org.apache.camel.component.aws.firehose.KinesisFirehoseEndpoint		0.73333335
+org.apache.camel.component.aws.firehose.KinesisFirehoseComponent		0.71428573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/firehose/KinesisFirehoseProducerTest
+KinesisFirehoseProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/firehose/KinesisFirehoseProducerTest_shouldPutRecordIntoStreamWhenProcessingExchange_79
+shouldPutRecordIntoStreamWhenProcessingExchange
+org.apache.camel.component.aws.firehose.KinesisFirehoseProducer		0.8947368
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/firehose/integration/KinesisFirehoseComponentIntegrationTest
+KinesisFirehoseComponentIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/firehose/integration/test-KinesisFirehoseComponentIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/firehose/test-KinesisFirehoseEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/firehose/test-KinesisFirehoseProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/kinesis/KinesisConsumerTest
+KinesisConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/kinesis/KinesisConsumerTest_exchangePropertiesAreSet_30
+exchangePropertiesAreSet
+org.apache.camel.component.aws.kinesis.KinesisConsumer		0.8333333
+org.apache.camel.component.aws.kinesis.KinesisEndpoint		0.37254903
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/kinesis/KinesisConsumerTest_itDoesNotMakeADescribeStreamRequestIfShardIdIsSet_39
+itDoesNotMakeADescribeStreamRequestIfShardIdIsSet
+org.apache.camel.component.aws.kinesis.KinesisConsumer		0.6851852
+org.apache.camel.component.aws.kinesis.KinesisEndpoint		0.27450982
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/kinesis/KinesisConsumerTest_itObtainsAShardIteratorOnFirstPollForSequenceNumber_75
+itObtainsAShardIteratorOnFirstPollForSequenceNumber
+org.apache.camel.component.aws.kinesis.KinesisConsumer		0.7407407
+org.apache.camel.component.aws.kinesis.KinesisEndpoint		0.3137255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/kinesis/KinesisConsumerTest_itObtainsAShardIteratorOnFirstPoll_70
+itObtainsAShardIteratorOnFirstPoll
+org.apache.camel.component.aws.kinesis.KinesisConsumer		0.7222222
+org.apache.camel.component.aws.kinesis.KinesisEndpoint		0.23529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/kinesis/KinesisConsumerTest_itUsesTheShardIteratorOnPolls_6r
+itUsesTheShardIteratorOnPolls
+org.apache.camel.component.aws.kinesis.KinesisConsumer		0.7222222
+org.apache.camel.component.aws.kinesis.KinesisEndpoint		0.23529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/kinesis/KinesisConsumerTest_itUsesTheShardIteratorOnSubsiquentPolls_m
+itUsesTheShardIteratorOnSubsiquentPolls
+org.apache.camel.component.aws.kinesis.KinesisConsumer		0.7407407
+org.apache.camel.component.aws.kinesis.KinesisEndpoint		0.23529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/kinesis/KinesisConsumerTest_recordsAreSentToTheProcessor_61
+recordsAreSentToTheProcessor
+org.apache.camel.component.aws.kinesis.KinesisConsumer		0.8333333
+org.apache.camel.component.aws.kinesis.KinesisEndpoint		0.37254903
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/kinesis/KinesisEndpointTest
+KinesisEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/kinesis/KinesisEndpointTest_afterSequenceNumberRequiresSequenceNumber_72
+afterSequenceNumberRequiresSequenceNumber
+org.apache.camel.component.aws.kinesis.KinesisComponent		0.75
+org.apache.camel.component.aws.kinesis.KinesisEndpoint		0.4509804
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/kinesis/KinesisEndpointTest_allTheEndpointParams_2n
+allTheEndpointParams
+org.apache.camel.component.aws.kinesis.KinesisComponent		0.75
+org.apache.camel.component.aws.kinesis.KinesisEndpoint		0.5294118
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/kinesis/KinesisEndpointTest_atSequenceNumberRequiresSequenceNumber_28
+atSequenceNumberRequiresSequenceNumber
+org.apache.camel.component.aws.kinesis.KinesisComponent		0.75
+org.apache.camel.component.aws.kinesis.KinesisEndpoint		0.4509804
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/kinesis/KinesisEndpointTest_onlyRequiredEndpointParams_4
+onlyRequiredEndpointParams
+org.apache.camel.component.aws.kinesis.KinesisComponent		0.75
+org.apache.camel.component.aws.kinesis.KinesisEndpoint		0.29411766
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/kinesis/KinesisProducerTest
+KinesisProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/kinesis/KinesisProducerTest_shouldHaveProperHeadersWhenSending_5j
+shouldHaveProperHeadersWhenSending
+org.apache.camel.component.aws.kinesis.KinesisProducer		0.8695652
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/kinesis/KinesisProducerTest_shouldPutRecordInRightStreamWhenProcessingExchange_1p
+shouldPutRecordInRightStreamWhenProcessingExchange
+org.apache.camel.component.aws.kinesis.KinesisProducer		0.82608694
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/kinesis/RecordStringConverterTest
+RecordStringConverterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/kinesis/RecordStringConverterTest_convertRecordToString_13
+convertRecordToString
+org.apache.camel.component.aws.kinesis.RecordStringConverter		0.5833333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/kinesis/integration/KinesisComponentIntegrationTest
+KinesisComponentIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/kinesis/integration/test-KinesisComponentIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/kinesis/test-KinesisConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/kinesis/test-KinesisEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/kinesis/test-KinesisProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/kinesis/test-RecordStringConverterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3BatchConsumerMaxMessagesPerPollTest
+S3BatchConsumerMaxMessagesPerPollTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3BatchConsumerMaxMessagesPerPollTest_receiveBatch_22
+receiveBatch
+org.apache.camel.component.aws.s3.S3Consumer		0.6111111
+org.apache.camel.component.aws.s3.S3Endpoint		0.27407408
+org.apache.camel.component.aws.s3.S3Configuration		0.13953489
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3BatchConsumerTest
+S3BatchConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3BatchConsumerTest_receiveBatch_1h
+receiveBatch
+org.apache.camel.component.aws.s3.S3Consumer		0.6203704
+org.apache.camel.component.aws.s3.S3Endpoint		0.27407408
+org.apache.camel.component.aws.s3.S3Configuration		0.13953489
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ComponentConfigurationTest
+S3ComponentConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ComponentConfigurationTest_createEndpointWithMaximalConfiguration_4g
+createEndpointWithMaximalConfiguration
+org.apache.camel.component.aws.s3.S3Component		0.65217394
+org.apache.camel.component.aws.s3.S3Configuration		0.5116279
+org.apache.camel.component.aws.s3.S3Endpoint		0.06666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ComponentConfigurationTest_createEndpointWithMinimalArnConfiguration_5o
+createEndpointWithMinimalArnConfiguration
+org.apache.camel.component.aws.s3.S3Component		0.6956522
+org.apache.camel.component.aws.s3.S3Configuration		0.13953489
+org.apache.camel.component.aws.s3.S3Endpoint		0.037037037
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ComponentConfigurationTest_createEndpointWithMinimalConfigurationAndProvidedClient_e
+createEndpointWithMinimalConfigurationAndProvidedClient
+org.apache.camel.component.aws.s3.S3Component		0.65217394
+org.apache.camel.component.aws.s3.S3Configuration		0.27906978
+org.apache.camel.component.aws.s3.S3Endpoint		0.05185185
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ComponentConfigurationTest_createEndpointWithMinimalConfiguration_6i
+createEndpointWithMinimalConfiguration
+org.apache.camel.component.aws.s3.S3Component		0.65217394
+org.apache.camel.component.aws.s3.S3Configuration		0.3255814
+org.apache.camel.component.aws.s3.S3Endpoint		0.05185185
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ComponentConfigurationTest_createEndpointWithoutAccessKeyConfiguration_1
+createEndpointWithoutAccessKeyConfiguration
+org.apache.camel.component.aws.s3.S3Component		0.5652174
+org.apache.camel.component.aws.s3.S3Configuration		0.069767445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ComponentConfigurationTest_createEndpointWithoutBucketName_2l
+createEndpointWithoutBucketName
+org.apache.camel.component.aws.s3.S3Component		0.3478261
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ComponentConfigurationTest_createEndpointWithoutSecretKeyAndAccessKeyConfiguration_2i
+createEndpointWithoutSecretKeyAndAccessKeyConfiguration
+org.apache.camel.component.aws.s3.S3Component		0.65217394
+org.apache.camel.component.aws.s3.S3Configuration		0.069767445
+org.apache.camel.component.aws.s3.S3Endpoint		0.022222223
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ComponentConfigurationTest_createEndpointWithoutSecretKeyConfiguration_5r
+createEndpointWithoutSecretKeyConfiguration
+org.apache.camel.component.aws.s3.S3Component		0.5652174
+org.apache.camel.component.aws.s3.S3Configuration		0.069767445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ComponentCopyObjectSpringTest
+S3ComponentCopyObjectSpringTest		0.8076923
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ComponentCopyObjectSpringTest_sendIn_1t
+sendIn
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.s3.S3Producer		0.17921147
+org.apache.camel.component.aws.s3.S3Configuration		0.046511628
+org.apache.camel.component.aws.s3.S3Endpoint		0.02962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ComponentCopyObjectTest
+S3ComponentCopyObjectTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ComponentCopyObjectTest_sendIn_2c
+sendIn
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.s3.S3Producer		0.17921147
+org.apache.camel.component.aws.s3.S3Configuration		0.046511628
+org.apache.camel.component.aws.s3.S3Endpoint		0.02962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ComponentExistingBucketTest
+S3ComponentExistingBucketTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ComponentExistingBucketTest_sendCustomHeaderValues_g
+sendCustomHeaderValues
+org.apache.camel.component.aws.s3.S3Consumer		0.6203704
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.s3.S3Producer		0.36200717
+org.apache.camel.component.aws.s3.S3Endpoint		0.27407408
+org.apache.camel.component.aws.s3.S3Configuration		0.23255815
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ComponentExistingBucketTest_sendInOut_59
+sendInOut
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.s3.S3Consumer		0.6203704
+org.apache.camel.component.aws.s3.S3Producer		0.3297491
+org.apache.camel.component.aws.s3.S3Endpoint		0.27407408
+org.apache.camel.component.aws.s3.S3Configuration		0.25581396
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ComponentExistingBucketTest_sendIn_5v
+sendIn
+org.apache.camel.component.aws.s3.S3Consumer		0.6203704
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.s3.S3Producer		0.3297491
+org.apache.camel.component.aws.s3.S3Endpoint		0.27407408
+org.apache.camel.component.aws.s3.S3Configuration		0.25581396
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ComponentFileDeleteTest
+S3ComponentFileDeleteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ComponentFileDeleteTest_sendFile_y
+sendFile
+org.apache.camel.component.aws.s3.S3Consumer		0.6203704
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.s3.S3Producer		0.3405018
+org.apache.camel.component.aws.s3.S3Endpoint		0.27407408
+org.apache.camel.component.aws.s3.S3Configuration		0.25581396
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ComponentFileTest
+S3ComponentFileTest		0.9649123
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ComponentFileTest_sendFile_3a
+sendFile
+org.apache.camel.component.aws.s3.S3Consumer		0.6018519
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.s3.S3Producer		0.3297491
+org.apache.camel.component.aws.s3.S3Endpoint		0.27407408
+org.apache.camel.component.aws.s3.S3Configuration		0.25581396
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ComponentListBucketsSpringTest
+S3ComponentListBucketsSpringTest		0.7058824
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ComponentListBucketsSpringTest_sendIn_69
+sendIn
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.s3.S3Producer		0.07885305
+org.apache.camel.component.aws.s3.S3Endpoint		0.02962963
+org.apache.camel.component.aws.s3.S3Configuration		0.023255814
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ComponentListBucketsTest
+S3ComponentListBucketsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ComponentListBucketsTest_sendIn_34
+sendIn
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.s3.S3Producer		0.07885305
+org.apache.camel.component.aws.s3.S3Endpoint		0.02962963
+org.apache.camel.component.aws.s3.S3Configuration		0.023255814
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ComponentNonExistingBucketTest
+S3ComponentNonExistingBucketTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ComponentNonExistingBucketTest_sendCustomHeaderValues_62
+sendCustomHeaderValues
+org.apache.camel.component.aws.s3.S3Consumer		0.6203704
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.s3.S3Producer		0.35842294
+org.apache.camel.component.aws.s3.S3Endpoint		0.27407408
+org.apache.camel.component.aws.s3.S3Configuration		0.23255815
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ComponentNonExistingBucketTest_sendInOnly_36
+sendInOnly
+org.apache.camel.component.aws.s3.S3Consumer		0.6203704
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.s3.S3Producer		0.3297491
+org.apache.camel.component.aws.s3.S3Endpoint		0.27407408
+org.apache.camel.component.aws.s3.S3Configuration		0.25581396
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ComponentNonExistingBucketTest_sendInOut_4i
+sendInOut
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.s3.S3Consumer		0.6203704
+org.apache.camel.component.aws.s3.S3Producer		0.3297491
+org.apache.camel.component.aws.s3.S3Endpoint		0.27407408
+org.apache.camel.component.aws.s3.S3Configuration		0.25581396
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ComponentSpringTest
+S3ComponentSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ComponentSpringTest_sendInOnly_5e
+sendInOnly
+org.apache.camel.component.aws.s3.S3Consumer		0.6203704
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.s3.S3Producer		0.32616487
+org.apache.camel.component.aws.s3.S3Endpoint		0.27407408
+org.apache.camel.component.aws.s3.S3Configuration		0.25581396
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ComponentSpringTest_sendInOut_23
+sendInOut
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.s3.S3Consumer		0.6203704
+org.apache.camel.component.aws.s3.S3Producer		0.32616487
+org.apache.camel.component.aws.s3.S3Endpoint		0.27407408
+org.apache.camel.component.aws.s3.S3Configuration		0.25581396
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ConsumerCronTest
+S3ConsumerCronTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ConsumerCronTest_testConsumerCron_2p
+testConsumerCron
+org.apache.camel.component.aws.s3.S3Consumer		0.3888889
+org.apache.camel.component.aws.s3.S3Configuration		0.069767445
+org.apache.camel.component.aws.s3.S3Endpoint		0.02962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ConsumerIdleMessageTest
+S3ConsumerIdleMessageTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ConsumerIdleMessageTest_testConsumeIdleMessages_6p
+testConsumeIdleMessages
+org.apache.camel.component.aws.s3.S3Consumer		0.3888889
+org.apache.camel.component.aws.s3.S3Configuration		0.069767445
+org.apache.camel.component.aws.s3.S3Endpoint		0.02962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ConsumerPrefixTest
+S3ConsumerPrefixTest		1.0
+S3ConsumerPrefixTest.DummyAmazonS3Client		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3ConsumerPrefixTest_testConsumePrefixedMessages_4m
+testConsumePrefixedMessages
+org.apache.camel.component.aws.s3.S3Consumer		0.6203704
+org.apache.camel.component.aws.s3.S3Endpoint		0.27407408
+org.apache.camel.component.aws.s3.S3Configuration		0.13953489
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3IncludeBodyTest
+S3IncludeBodyTest		1.0
+S3IncludeBodyTest.DummyAmazonS3Client		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/S3IncludeBodyTest_testConsumePrefixedMessages_1r
+testConsumePrefixedMessages
+org.apache.camel.component.aws.s3.S3Consumer		0.6203704
+org.apache.camel.component.aws.s3.S3Endpoint		0.24444444
+org.apache.camel.component.aws.s3.S3Configuration		0.11627907
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/integration/S3ComponentIntegrationTest
+S3ComponentIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/integration/test-S3ComponentIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/test-S3BatchConsumerMaxMessagesPerPollTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/test-S3BatchConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/test-S3ComponentConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/test-S3ComponentCopyObjectSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/test-S3ComponentCopyObjectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/test-S3ComponentExistingBucketTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/test-S3ComponentFileDeleteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/test-S3ComponentFileTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/test-S3ComponentListBucketsSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/test-S3ComponentListBucketsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/test-S3ComponentNonExistingBucketTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/test-S3ComponentSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/test-S3ConsumerCronTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/test-S3ConsumerIdleMessageTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/test-S3ConsumerPrefixTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/test-S3ConsumerPrefixTest_DummyAmazonS3Client
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/test-S3IncludeBodyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/s3/test-S3IncludeBodyTest_DummyAmazonS3Client
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/AbstractSdbCommandTest
+AbstractSdbCommandTest		0.9375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/AbstractSdbCommandTest_determineConsistentRead_4z
+determineConsistentRead
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.09090909
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/AbstractSdbCommandTest_determineDomainName_5s
+determineDomainName
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.22727273
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/AbstractSdbCommandTest_determineItemName_45
+determineItemName
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.3181818
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/AbstractSdbCommandTest_determineNextToken_5b
+determineNextToken
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/AbstractSdbCommandTest_determineUpdateCondition_51
+determineUpdateCondition
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/BatchDeleteAttributesCommandTest
+BatchDeleteAttributesCommandTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/BatchDeleteAttributesCommandTest_determineDeletableItems_3e
+determineDeletableItems
+org.apache.camel.component.aws.sdb.BatchDeleteAttributesCommand		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/BatchDeleteAttributesCommandTest_execute_1q
+execute
+org.apache.camel.component.aws.sdb.BatchDeleteAttributesCommand		0.7777778
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.18181819
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/BatchPutAttributesCommandTest
+BatchPutAttributesCommandTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/BatchPutAttributesCommandTest_determineReplaceableItems_19
+determineReplaceableItems
+org.apache.camel.component.aws.sdb.BatchPutAttributesCommand		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/BatchPutAttributesCommandTest_execute_6d
+execute
+org.apache.camel.component.aws.sdb.BatchPutAttributesCommand		0.7777778
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.18181819
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/DeleteAttributesCommandTest
+DeleteAttributesCommandTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/DeleteAttributesCommandTest_determineAttributes_2t
+determineAttributes
+org.apache.camel.component.aws.sdb.DeleteAttributesCommand		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/DeleteAttributesCommandTest_executeWithoutItemName_5y
+executeWithoutItemName
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.4090909
+org.apache.camel.component.aws.sdb.DeleteAttributesCommand		0.22222222
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/DeleteAttributesCommandTest_execute_v
+execute
+org.apache.camel.component.aws.sdb.DeleteAttributesCommand		0.7777778
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.5
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/DeleteDomainCommandTest
+DeleteDomainCommandTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/DeleteDomainCommandTest_testExecute_f
+testExecute
+org.apache.camel.component.aws.sdb.DeleteDomainCommand		0.71428573
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.18181819
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/DomainMetadataCommandTest
+DomainMetadataCommandTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/DomainMetadataCommandTest_execute_5k
+execute
+org.apache.camel.component.aws.sdb.DomainMetadataCommand		0.8666667
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.18181819
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/GetAttributesCommandTest
+GetAttributesCommandTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/GetAttributesCommandTest_determineAttributeNames_57
+determineAttributeNames
+org.apache.camel.component.aws.sdb.GetAttributesCommand		0.18181819
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/GetAttributesCommandTest_executeWithoutItemName_4d
+executeWithoutItemName
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.4090909
+org.apache.camel.component.aws.sdb.GetAttributesCommand		0.18181819
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/GetAttributesCommandTest_execute_1d
+execute
+org.apache.camel.component.aws.sdb.GetAttributesCommand		0.8181818
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.5
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/ListDomainsCommandTest
+ListDomainsCommandTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/ListDomainsCommandTest_determineMaxNumberOfDomains_11
+determineMaxNumberOfDomains
+org.apache.camel.component.aws.sdb.ListDomainsCommand		0.4117647
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/ListDomainsCommandTest_execute_1y
+execute
+org.apache.camel.component.aws.sdb.ListDomainsCommand		0.8235294
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.09090909
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/PutAttributesCommandTest
+PutAttributesCommandTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/PutAttributesCommandTest_determineReplaceableAttributes_3c
+determineReplaceableAttributes
+org.apache.camel.component.aws.sdb.PutAttributesCommand		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/PutAttributesCommandTest_executeWithoutItemName_54
+executeWithoutItemName
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.4090909
+org.apache.camel.component.aws.sdb.PutAttributesCommand		0.22222222
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/PutAttributesCommandTest_execute_6v
+execute
+org.apache.camel.component.aws.sdb.PutAttributesCommand		0.7777778
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.5
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentConfigurationTest
+SdbComponentConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentConfigurationTest_createEndpointWithMaximalConfiguration_5d
+createEndpointWithMaximalConfiguration
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.75
+org.apache.camel.component.aws.sdb.SdbComponent		0.6666667
+org.apache.camel.component.aws.sdb.SdbEndpoint		0.08196721
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentConfigurationTest_createEndpointWithMinimalConfigurationAndProvidedClient_1k
+createEndpointWithMinimalConfigurationAndProvidedClient
+org.apache.camel.component.aws.sdb.SdbComponent		0.6666667
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.5
+org.apache.camel.component.aws.sdb.SdbEndpoint		0.08196721
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentConfigurationTest_createEndpointWithMinimalConfiguration_z
+createEndpointWithMinimalConfiguration
+org.apache.camel.component.aws.sdb.SdbComponent		0.6666667
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.6
+org.apache.camel.component.aws.sdb.SdbEndpoint		0.08196721
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentConfigurationTest_createEndpointWithoutAccessKeyConfiguration_4e
+createEndpointWithoutAccessKeyConfiguration
+org.apache.camel.component.aws.sdb.SdbComponent		0.6111111
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.15
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentConfigurationTest_createEndpointWithoutAmazonSDBClientConfiguration_1a
+createEndpointWithoutAmazonSDBClientConfiguration
+org.apache.camel.component.aws.sdb.SdbComponent		0.6111111
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentConfigurationTest_createEndpointWithoutDomainName_5w
+createEndpointWithoutDomainName
+org.apache.camel.component.aws.sdb.SdbComponent		0.44444445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentConfigurationTest_createEndpointWithoutSecretKeyAndAccessKeyConfiguration_5t
+createEndpointWithoutSecretKeyAndAccessKeyConfiguration
+org.apache.camel.component.aws.sdb.SdbComponent		0.6666667
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.15
+org.apache.camel.component.aws.sdb.SdbEndpoint		0.04918033
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentConfigurationTest_createEndpointWithoutSecretKeyConfiguration_w
+createEndpointWithoutSecretKeyConfiguration
+org.apache.camel.component.aws.sdb.SdbComponent		0.6111111
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.15
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentSpringTest
+SdbComponentSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentSpringTest_batchDeleteAttributes_6z
+batchDeleteAttributes
+org.apache.camel.component.aws.sdb.BatchDeleteAttributesCommand		1.0
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.36363637
+org.apache.camel.component.aws.sdb.SdbProducer		0.28
+org.apache.camel.component.aws.sdb.SdbEndpoint		0.06557377
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentSpringTest_batchPutAttributes_3j
+batchPutAttributes
+org.apache.camel.component.aws.sdb.BatchPutAttributesCommand		1.0
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.36363637
+org.apache.camel.component.aws.sdb.SdbProducer		0.28
+org.apache.camel.component.aws.sdb.SdbEndpoint		0.06557377
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentSpringTest_createDomainOnStartIfNotExists_4y
+createDomainOnStartIfNotExists
+org.apache.camel.component.aws.sdb.SdbComponent		0.5555556
+org.apache.camel.component.aws.sdb.SdbEndpoint		0.3442623
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentSpringTest_deleteAttributesItemNameIsRequired_5h
+deleteAttributesItemNameIsRequired
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.59090906
+org.apache.camel.component.aws.sdb.DeleteAttributesCommand		0.44444445
+org.apache.camel.component.aws.sdb.SdbProducer		0.26
+org.apache.camel.component.aws.sdb.SdbEndpoint		0.06557377
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentSpringTest_deleteAttributes_j
+deleteAttributes
+org.apache.camel.component.aws.sdb.DeleteAttributesCommand		1.0
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.6818182
+org.apache.camel.component.aws.sdb.SdbProducer		0.28
+org.apache.camel.component.aws.sdb.SdbEndpoint		0.06557377
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentSpringTest_deleteDomain_4f
+deleteDomain
+org.apache.camel.component.aws.sdb.DeleteDomainCommand		1.0
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.36363637
+org.apache.camel.component.aws.sdb.SdbProducer		0.28
+org.apache.camel.component.aws.sdb.SdbEndpoint		0.06557377
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentSpringTest_doesntCreateDomainOnStartIfExists_74
+doesntCreateDomainOnStartIfExists
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentSpringTest_domainMetadata_h
+domainMetadata
+org.apache.camel.component.aws.sdb.DomainMetadataCommand		1.0
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.36363637
+org.apache.camel.component.aws.sdb.SdbProducer		0.28
+org.apache.camel.component.aws.sdb.SdbEndpoint		0.06557377
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentSpringTest_getAttributesItemNameIsRequired_5l
+getAttributesItemNameIsRequired
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.59090906
+org.apache.camel.component.aws.sdb.GetAttributesCommand		0.36363637
+org.apache.camel.component.aws.sdb.SdbProducer		0.26
+org.apache.camel.component.aws.sdb.SdbEndpoint		0.06557377
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentSpringTest_getAttributes_5p
+getAttributes
+org.apache.camel.component.aws.sdb.GetAttributesCommand		1.0
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.6818182
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.sdb.SdbProducer		0.28
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.1
+org.apache.camel.component.aws.sdb.SdbEndpoint		0.06557377
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentSpringTest_listDomains_s
+listDomains
+org.apache.camel.component.aws.sdb.ListDomainsCommand		0.88235295
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.sdb.SdbProducer		0.28
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.27272728
+org.apache.camel.component.aws.sdb.SdbEndpoint		0.06557377
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentSpringTest_putAttributesItemNameIsRequired_2g
+putAttributesItemNameIsRequired
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.59090906
+org.apache.camel.component.aws.sdb.PutAttributesCommand		0.44444445
+org.apache.camel.component.aws.sdb.SdbProducer		0.26
+org.apache.camel.component.aws.sdb.SdbEndpoint		0.06557377
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentSpringTest_putAttributes_3p
+putAttributes
+org.apache.camel.component.aws.sdb.PutAttributesCommand		1.0
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.6818182
+org.apache.camel.component.aws.sdb.SdbProducer		0.28
+org.apache.camel.component.aws.sdb.SdbEndpoint		0.06557377
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentSpringTest_select_37
+select
+org.apache.camel.component.aws.sdb.SelectCommand		1.0
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.36363637
+org.apache.camel.component.aws.sdb.SdbProducer		0.28
+org.apache.camel.component.aws.sdb.SdbEndpoint		0.06557377
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentTest
+SdbComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentTest_batchDeleteAttributes_1o
+batchDeleteAttributes
+org.apache.camel.component.aws.sdb.BatchDeleteAttributesCommand		1.0
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.36363637
+org.apache.camel.component.aws.sdb.SdbProducer		0.28
+org.apache.camel.component.aws.sdb.SdbEndpoint		0.06557377
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentTest_batchPutAttributes_2z
+batchPutAttributes
+org.apache.camel.component.aws.sdb.BatchPutAttributesCommand		1.0
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.36363637
+org.apache.camel.component.aws.sdb.SdbProducer		0.28
+org.apache.camel.component.aws.sdb.SdbEndpoint		0.06557377
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentTest_createDomainOnStartIfNotExists_7c
+createDomainOnStartIfNotExists
+org.apache.camel.component.aws.sdb.SdbComponent		0.5555556
+org.apache.camel.component.aws.sdb.SdbEndpoint		0.3442623
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentTest_deleteAttributesItemNameIsRequired_64
+deleteAttributesItemNameIsRequired
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.59090906
+org.apache.camel.component.aws.sdb.DeleteAttributesCommand		0.44444445
+org.apache.camel.component.aws.sdb.SdbProducer		0.26
+org.apache.camel.component.aws.sdb.SdbEndpoint		0.06557377
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentTest_deleteAttributes_6j
+deleteAttributes
+org.apache.camel.component.aws.sdb.DeleteAttributesCommand		1.0
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.6818182
+org.apache.camel.component.aws.sdb.SdbProducer		0.28
+org.apache.camel.component.aws.sdb.SdbEndpoint		0.06557377
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentTest_deleteDomain_2f
+deleteDomain
+org.apache.camel.component.aws.sdb.DeleteDomainCommand		1.0
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.36363637
+org.apache.camel.component.aws.sdb.SdbProducer		0.28
+org.apache.camel.component.aws.sdb.SdbEndpoint		0.06557377
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentTest_doesntCreateDomainOnStartIfExists_5m
+doesntCreateDomainOnStartIfExists
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentTest_domainMetadata_4u
+domainMetadata
+org.apache.camel.component.aws.sdb.DomainMetadataCommand		1.0
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.36363637
+org.apache.camel.component.aws.sdb.SdbProducer		0.28
+org.apache.camel.component.aws.sdb.SdbEndpoint		0.06557377
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentTest_getAttributesItemNameIsRequired_25
+getAttributesItemNameIsRequired
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.59090906
+org.apache.camel.component.aws.sdb.GetAttributesCommand		0.36363637
+org.apache.camel.component.aws.sdb.SdbProducer		0.26
+org.apache.camel.component.aws.sdb.SdbEndpoint		0.06557377
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentTest_getAttributes_9
+getAttributes
+org.apache.camel.component.aws.sdb.GetAttributesCommand		1.0
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.6818182
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.sdb.SdbProducer		0.28
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.1
+org.apache.camel.component.aws.sdb.SdbEndpoint		0.06557377
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentTest_listDomains_3w
+listDomains
+org.apache.camel.component.aws.sdb.ListDomainsCommand		0.88235295
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.sdb.SdbProducer		0.28
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.27272728
+org.apache.camel.component.aws.sdb.SdbEndpoint		0.06557377
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentTest_putAttributesItemNameIsRequired_2w
+putAttributesItemNameIsRequired
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.59090906
+org.apache.camel.component.aws.sdb.PutAttributesCommand		0.44444445
+org.apache.camel.component.aws.sdb.SdbProducer		0.26
+org.apache.camel.component.aws.sdb.SdbEndpoint		0.06557377
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentTest_putAttributes_5u
+putAttributes
+org.apache.camel.component.aws.sdb.PutAttributesCommand		1.0
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.6818182
+org.apache.camel.component.aws.sdb.SdbProducer		0.28
+org.apache.camel.component.aws.sdb.SdbEndpoint		0.06557377
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbComponentTest_select_44
+select
+org.apache.camel.component.aws.sdb.SelectCommand		1.0
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.36363637
+org.apache.camel.component.aws.sdb.SdbProducer		0.28
+org.apache.camel.component.aws.sdb.SdbEndpoint		0.06557377
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbOperationsTest
+SdbOperationsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbOperationsTest_supportedOperationCount_3d
+supportedOperationCount
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbOperationsTest_testToString_4b
+testToString
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SdbOperationsTest_valueOf_4s
+valueOf
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SelectCommandTest
+SelectCommandTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SelectCommandTest_determineSelectExpression_1x
+determineSelectExpression
+org.apache.camel.component.aws.sdb.SelectCommand		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/SelectCommandTest_execute_3f
+execute
+org.apache.camel.component.aws.sdb.SelectCommand		0.8333333
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.sdb.AbstractSdbCommand		0.18181819
+org.apache.camel.component.aws.sdb.SdbConfiguration		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/integration/SdbComponentIntegrationTest
+SdbComponentIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/integration/test-SdbComponentIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/test-AbstractSdbCommandTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/test-BatchDeleteAttributesCommandTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/test-BatchPutAttributesCommandTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/test-DeleteAttributesCommandTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/test-DeleteDomainCommandTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/test-DomainMetadataCommandTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/test-GetAttributesCommandTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/test-ListDomainsCommandTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/test-PutAttributesCommandTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/test-SdbComponentConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/test-SdbComponentSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/test-SdbComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/test-SdbOperationsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sdb/test-SelectCommandTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ses/SesComponentConfigurationTest
+SesComponentConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ses/SesComponentConfigurationTest_createEndpointWithMaximalConfiguration_33
+createEndpointWithMaximalConfiguration
+org.apache.camel.component.aws.ses.SesConfiguration		0.72
+org.apache.camel.component.aws.ses.SesComponent		0.64705884
+org.apache.camel.component.aws.ses.SesEndpoint		0.09803922
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ses/SesComponentConfigurationTest_createEndpointWithMinimalConfigurationAndProvidedClient_1g
+createEndpointWithMinimalConfigurationAndProvidedClient
+org.apache.camel.component.aws.ses.SesComponent		0.64705884
+org.apache.camel.component.aws.ses.SesConfiguration		0.44
+org.apache.camel.component.aws.ses.SesEndpoint		0.09803922
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ses/SesComponentConfigurationTest_createEndpointWithMinimalConfiguration_1u
+createEndpointWithMinimalConfiguration
+org.apache.camel.component.aws.ses.SesComponent		0.64705884
+org.apache.camel.component.aws.ses.SesConfiguration		0.52
+org.apache.camel.component.aws.ses.SesEndpoint		0.09803922
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ses/SesComponentConfigurationTest_createEndpointWithoutAccessKeyConfiguration_77
+createEndpointWithoutAccessKeyConfiguration
+org.apache.camel.component.aws.ses.SesComponent		0.64705884
+org.apache.camel.component.aws.ses.SesConfiguration		0.12
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ses/SesComponentConfigurationTest_createEndpointWithoutAmazonSESClientConfiguration_4v
+createEndpointWithoutAmazonSESClientConfiguration
+org.apache.camel.component.aws.ses.SesComponent		0.64705884
+org.apache.camel.component.aws.ses.SesConfiguration		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ses/SesComponentConfigurationTest_createEndpointWithoutSecretKeyAndAccessKeyConfiguration_2j
+createEndpointWithoutSecretKeyAndAccessKeyConfiguration
+org.apache.camel.component.aws.ses.SesComponent		0.64705884
+org.apache.camel.component.aws.ses.SesConfiguration		0.12
+org.apache.camel.component.aws.ses.SesEndpoint		0.05882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ses/SesComponentConfigurationTest_createEndpointWithoutSecretKeyConfiguration_1f
+createEndpointWithoutSecretKeyConfiguration
+org.apache.camel.component.aws.ses.SesComponent		0.64705884
+org.apache.camel.component.aws.ses.SesConfiguration		0.12
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ses/SesComponentConfigurationTest_createEndpointWithoutSourceName_2m
+createEndpointWithoutSourceName
+org.apache.camel.component.aws.ses.SesComponent		0.47058824
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ses/SesComponentSpringTest
+SesComponentSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ses/SesComponentSpringTest_sendInOnlyMessageUsingUrlOptions_55
+sendInOnlyMessageUsingUrlOptions
+org.apache.camel.component.aws.ses.SesProducer		0.5660377
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.ses.SesConfiguration		0.2
+org.apache.camel.component.aws.ses.SesEndpoint		0.078431375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ses/SesComponentSpringTest_sendInOutMessageUsingUrlOptions_6l
+sendInOutMessageUsingUrlOptions
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.ses.SesProducer		0.5660377
+org.apache.camel.component.aws.ses.SesConfiguration		0.2
+org.apache.camel.component.aws.ses.SesEndpoint		0.078431375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ses/SesComponentSpringTest_sendMessageUsingMessageHeaders_5a
+sendMessageUsingMessageHeaders
+org.apache.camel.component.aws.ses.SesProducer		0.5
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.ses.SesEndpoint		0.039215688
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ses/SesComponentSpringTest_sendRawMessage_52
+sendRawMessage
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.ses.SesProducer		0.3773585
+org.apache.camel.component.aws.ses.SesConfiguration		0.08
+org.apache.camel.component.aws.ses.SesEndpoint		0.078431375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ses/SesComponentTest
+SesComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ses/SesComponentTest_sendInOnlyMessageUsingUrlOptions_6u
+sendInOnlyMessageUsingUrlOptions
+org.apache.camel.component.aws.ses.SesProducer		0.5660377
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.ses.SesConfiguration		0.2
+org.apache.camel.component.aws.ses.SesEndpoint		0.078431375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ses/SesComponentTest_sendInOutMessageUsingUrlOptions_1z
+sendInOutMessageUsingUrlOptions
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.ses.SesProducer		0.5660377
+org.apache.camel.component.aws.ses.SesConfiguration		0.2
+org.apache.camel.component.aws.ses.SesEndpoint		0.078431375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ses/SesComponentTest_sendMessageUsingMessageHeaders_6
+sendMessageUsingMessageHeaders
+org.apache.camel.component.aws.ses.SesProducer		0.5
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.ses.SesEndpoint		0.039215688
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ses/integration/SesComponentIntegrationTest
+SesComponentIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ses/integration/test-SesComponentIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ses/test-SesComponentConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ses/test-SesComponentSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/ses/test-SesComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sns/SnsComponentConfigurationTest
+SnsComponentConfigurationTest		0.8833333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sns/SnsComponentConfigurationTest_createEndpointWithMaximalConfiguration_k
+createEndpointWithMaximalConfiguration
+org.apache.camel.component.aws.sns.SnsConfiguration		0.65217394
+org.apache.camel.component.aws.sns.SnsComponent		0.6363636
+org.apache.camel.component.aws.sns.SnsEndpoint		0.05154639
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sns/SnsComponentConfigurationTest_createEndpointWithMinimalConfigurationAndProvidedClient_67
+createEndpointWithMinimalConfigurationAndProvidedClient
+org.apache.camel.component.aws.sns.SnsHeaderFilterStrategy		1.0
+org.apache.camel.component.aws.sns.SnsComponent		0.6363636
+org.apache.camel.component.aws.sns.SnsConfiguration		0.5217391
+org.apache.camel.component.aws.sns.SnsEndpoint		0.35051546
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sns/SnsComponentConfigurationTest_createEndpointWithMinimalConfiguration_6e
+createEndpointWithMinimalConfiguration
+org.apache.camel.component.aws.sns.SnsComponent		0.6363636
+org.apache.camel.component.aws.sns.SnsConfiguration		0.5217391
+org.apache.camel.component.aws.sns.SnsEndpoint		0.05154639
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sns/SnsComponentConfigurationTest_createEndpointWithoutAccessKeyConfiguration_3i
+createEndpointWithoutAccessKeyConfiguration
+org.apache.camel.component.aws.sns.SnsComponent		0.59090906
+org.apache.camel.component.aws.sns.SnsConfiguration		0.13043478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sns/SnsComponentConfigurationTest_createEndpointWithoutSecretKeyAndAccessKeyConfiguration_2v
+createEndpointWithoutSecretKeyAndAccessKeyConfiguration
+org.apache.camel.component.aws.sns.SnsComponent		0.6363636
+org.apache.camel.component.aws.sns.SnsConfiguration		0.13043478
+org.apache.camel.component.aws.sns.SnsEndpoint		0.030927835
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sns/SnsComponentConfigurationTest_createEndpointWithoutSecretKeyConfiguration_3o
+createEndpointWithoutSecretKeyConfiguration
+org.apache.camel.component.aws.sns.SnsComponent		0.59090906
+org.apache.camel.component.aws.sns.SnsConfiguration		0.13043478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sns/SnsComponentSpringTest
+SnsComponentSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sns/SnsComponentSpringTest_sendInOnly_8
+sendInOnly
+org.apache.camel.component.aws.sns.SnsProducer		0.67741936
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.sns.SnsConfiguration		0.08695652
+org.apache.camel.component.aws.sns.SnsEndpoint		0.06185567
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sns/SnsComponentSpringTest_sendInOut_6k
+sendInOut
+org.apache.camel.component.aws.sns.SnsProducer		0.67741936
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.sns.SnsConfiguration		0.08695652
+org.apache.camel.component.aws.sns.SnsEndpoint		0.06185567
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sns/SnsComponentTest
+SnsComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sns/SnsComponentTest_sendInOnly_3z
+sendInOnly
+org.apache.camel.component.aws.sns.SnsProducer		0.67741936
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.sns.SnsConfiguration		0.08695652
+org.apache.camel.component.aws.sns.SnsEndpoint		0.06185567
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sns/SnsComponentTest_sendInOut_26
+sendInOut
+org.apache.camel.component.aws.sns.SnsProducer		0.67741936
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.sns.SnsConfiguration		0.08695652
+org.apache.camel.component.aws.sns.SnsEndpoint		0.06185567
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sns/integration/SnsComponentIntegrationTest
+SnsComponentIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sns/integration/test-SnsComponentIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sns/test-SnsComponentConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sns/test-SnsComponentSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sns/test-SnsComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsBatchConsumerTest
+SqsBatchConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsBatchConsumerTest_receiveBatch_73
+receiveBatch
+org.apache.camel.component.aws.sqs.SqsConsumer		0.44230768
+org.apache.camel.component.aws.s3.S3Consumer		0.3888889
+org.apache.camel.component.aws.sqs.SqsEndpoint		0.12437811
+org.apache.camel.component.aws.s3.S3Configuration		0.069767445
+org.apache.camel.component.aws.sqs.SqsConfiguration		0.05882353
+org.apache.camel.component.aws.s3.S3Endpoint		0.02962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsComponentConfigurationTest
+SqsComponentConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsComponentConfigurationTest_createEndpointAttributeNames_6b
+createEndpointAttributeNames
+org.apache.camel.component.aws.sqs.SqsComponent		0.5
+org.apache.camel.component.aws.sqs.SqsConfiguration		0.21568628
+org.apache.camel.component.aws.sqs.SqsEndpoint		0.024875622
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsComponentConfigurationTest_createEndpointWithExtendMessageVisibilityAndNoVisibilityTimeoutThrowsException_50
+createEndpointWithExtendMessageVisibilityAndNoVisibilityTimeoutThrowsException
+org.apache.camel.component.aws.sqs.SqsComponent		0.38235295
+org.apache.camel.component.aws.sqs.SqsConfiguration		0.09803922
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsComponentConfigurationTest_createEndpointWithExtendMessageVisibilityFalseAndVisibilityTimeoutSet_38
+createEndpointWithExtendMessageVisibilityFalseAndVisibilityTimeoutSet
+org.apache.camel.component.aws.sqs.SqsComponent		0.5
+org.apache.camel.component.aws.sqs.SqsConfiguration		0.15686275
+org.apache.camel.component.aws.sqs.SqsEndpoint		0.014925373
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsComponentConfigurationTest_createEndpointWithExtendMessageVisibilityTrueAndVisibilityTimeoutSet_5i
+createEndpointWithExtendMessageVisibilityTrueAndVisibilityTimeoutSet
+org.apache.camel.component.aws.sqs.SqsComponent		0.5
+org.apache.camel.component.aws.sqs.SqsConfiguration		0.1764706
+org.apache.camel.component.aws.sqs.SqsEndpoint		0.014925373
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsComponentConfigurationTest_createEndpointWithMaximalConfiguration_10
+createEndpointWithMaximalConfiguration
+org.apache.camel.component.aws.sqs.SqsConfiguration		0.7254902
+org.apache.camel.component.aws.sqs.SqsComponent		0.5
+org.apache.camel.component.aws.sqs.SqsEndpoint		0.024875622
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsComponentConfigurationTest_createEndpointWithMinimalArnConfiguration_x
+createEndpointWithMinimalArnConfiguration
+org.apache.camel.component.aws.sqs.SqsComponent		0.64705884
+org.apache.camel.component.aws.sqs.SqsConfiguration		0.23529412
+org.apache.camel.component.aws.sqs.SqsEndpoint		0.024875622
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsComponentConfigurationTest_createEndpointWithMinimalConfigurationAndProvidedClient_2d
+createEndpointWithMinimalConfigurationAndProvidedClient
+org.apache.camel.component.aws.sqs.SqsComponent		0.5
+org.apache.camel.component.aws.sqs.SqsConfiguration		0.33333334
+org.apache.camel.component.aws.sqs.SqsEndpoint		0.024875622
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsComponentConfigurationTest_createEndpointWithMinimalConfiguration_18
+createEndpointWithMinimalConfiguration
+org.apache.camel.component.aws.sqs.SqsComponent		0.5
+org.apache.camel.component.aws.sqs.SqsConfiguration		0.37254903
+org.apache.camel.component.aws.sqs.SqsEndpoint		0.024875622
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsComponentConfigurationTest_createEndpointWithPollConsumerConfiguration_l
+createEndpointWithPollConsumerConfiguration
+org.apache.camel.component.aws.sqs.SqsComponent		0.5
+org.apache.camel.component.aws.sqs.SqsConfiguration		0.1764706
+org.apache.camel.component.aws.sqs.SqsEndpoint		0.07462686
+org.apache.camel.component.aws.sqs.SqsConsumer		0.06410257
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsComponentConfigurationTest_createEndpointWithoutAccessKeyConfiguration_3g
+createEndpointWithoutAccessKeyConfiguration
+org.apache.camel.component.aws.sqs.SqsComponent		0.38235295
+org.apache.camel.component.aws.sqs.SqsConfiguration		0.05882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsComponentConfigurationTest_createEndpointWithoutSecretKeyAndAccessKeyConfiguration_47
+createEndpointWithoutSecretKeyAndAccessKeyConfiguration
+org.apache.camel.component.aws.sqs.SqsComponent		0.5
+org.apache.camel.component.aws.sqs.SqsConfiguration		0.078431375
+org.apache.camel.component.aws.sqs.SqsEndpoint		0.014925373
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsComponentConfigurationTest_createEndpointWithoutSecretKeyConfiguration_5x
+createEndpointWithoutSecretKeyConfiguration
+org.apache.camel.component.aws.sqs.SqsComponent		0.38235295
+org.apache.camel.component.aws.sqs.SqsConfiguration		0.05882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsComponentSpringTest
+SqsComponentSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsComponentSpringTest_sendInOnly_6o
+sendInOnly
+org.apache.camel.component.aws.sqs.SqsProducer		0.6507937
+org.apache.camel.component.aws.sqs.SqsConsumer		0.4551282
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.s3.S3Consumer		0.3888889
+org.apache.camel.component.aws.sqs.SqsEndpoint		0.12437811
+org.apache.camel.component.aws.sqs.SqsConfiguration		0.078431375
+org.apache.camel.component.aws.s3.S3Configuration		0.069767445
+org.apache.camel.component.aws.s3.S3Endpoint		0.02962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsComponentSpringTest_sendInOut_6m
+sendInOut
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.sqs.SqsProducer		0.6507937
+org.apache.camel.component.aws.sqs.SqsConsumer		0.4551282
+org.apache.camel.component.aws.s3.S3Consumer		0.3888889
+org.apache.camel.component.aws.sqs.SqsEndpoint		0.12437811
+org.apache.camel.component.aws.sqs.SqsConfiguration		0.078431375
+org.apache.camel.component.aws.s3.S3Configuration		0.069767445
+org.apache.camel.component.aws.s3.S3Endpoint		0.02962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsComponentTest
+SqsComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsComponentTest_sendInOnly_2e
+sendInOnly
+org.apache.camel.component.aws.sqs.SqsProducer		0.6507937
+org.apache.camel.component.aws.sqs.SqsConsumer		0.4551282
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.s3.S3Consumer		0.3888889
+org.apache.camel.component.aws.sqs.SqsEndpoint		0.12437811
+org.apache.camel.component.aws.sqs.SqsConfiguration		0.078431375
+org.apache.camel.component.aws.s3.S3Configuration		0.069767445
+org.apache.camel.component.aws.s3.S3Endpoint		0.02962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsComponentTest_sendInOut_2x
+sendInOut
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.6666667
+org.apache.camel.component.aws.sqs.SqsProducer		0.6507937
+org.apache.camel.component.aws.sqs.SqsConsumer		0.4551282
+org.apache.camel.component.aws.s3.S3Consumer		0.3888889
+org.apache.camel.component.aws.sqs.SqsEndpoint		0.12437811
+org.apache.camel.component.aws.sqs.SqsConfiguration		0.078431375
+org.apache.camel.component.aws.s3.S3Configuration		0.069767445
+org.apache.camel.component.aws.s3.S3Endpoint		0.02962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsConcurrentConsumerTest
+SqsConcurrentConsumerTest		0.90625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsConcurrentConsumerTest_consumeMessagesFromQueue_49
+consumeMessagesFromQueue
+org.apache.camel.component.aws.sqs.SqsConsumer		0.4551282
+org.apache.camel.component.aws.s3.S3Consumer		0.3888889
+org.apache.camel.component.aws.sqs.SqsEndpoint		0.12437811
+org.apache.camel.component.aws.s3.S3Configuration		0.069767445
+org.apache.camel.component.aws.sqs.SqsConfiguration		0.05882353
+org.apache.camel.component.aws.s3.S3Endpoint		0.02962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsConsumerIdleMessageTest
+SqsConsumerIdleMessageTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsConsumerIdleMessageTest_testConsumeIdleMessages_2q
+testConsumeIdleMessages
+org.apache.camel.component.aws.s3.S3Consumer		0.3888889
+org.apache.camel.component.aws.sqs.SqsConsumer		0.2628205
+org.apache.camel.component.aws.s3.S3Configuration		0.069767445
+org.apache.camel.component.aws.sqs.SqsEndpoint		0.039800994
+org.apache.camel.component.aws.sqs.SqsConfiguration		0.039215688
+org.apache.camel.component.aws.s3.S3Endpoint		0.02962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsDoesNotExtendMessageVisibilityTest
+SqsDoesNotExtendMessageVisibilityTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsDoesNotExtendMessageVisibilityTest_defaultsToDisabled_42
+defaultsToDisabled
+org.apache.camel.component.aws.sqs.SqsConsumer		0.4551282
+org.apache.camel.component.aws.s3.S3Consumer		0.3888889
+org.apache.camel.component.aws.sqs.SqsEndpoint		0.12437811
+org.apache.camel.component.aws.s3.S3Configuration		0.069767445
+org.apache.camel.component.aws.sqs.SqsConfiguration		0.05882353
+org.apache.camel.component.aws.s3.S3Endpoint		0.02962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsEndpointTest
+SqsEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsEndpointTest_doStartShouldNotCallUpdateQueueAttributesIfQueueExistAndNoOptionIsSpecified_35
+doStartShouldNotCallUpdateQueueAttributesIfQueueExistAndNoOptionIsSpecified
+org.apache.camel.component.aws.sqs.SqsHeaderFilterStrategy		1.0
+org.apache.camel.component.aws.sqs.SqsConfiguration		0.21568628
+org.apache.camel.component.aws.sqs.SqsEndpoint		0.21393035
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsEndpointTest_doStartWithDifferentQueueOwner_1w
+doStartWithDifferentQueueOwner
+org.apache.camel.component.aws.sqs.SqsHeaderFilterStrategy		1.0
+org.apache.camel.component.aws.sqs.SqsConfiguration		0.23529412
+org.apache.camel.component.aws.sqs.SqsEndpoint		0.19900498
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsEndpointUseExistingQueueTest
+SqsEndpointUseExistingQueueTest		1.0
+SqsEndpointUseExistingQueueTest.AmazonSQSClientMock		0.7777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsEndpointUseExistingQueueTest_defaultsToDisabled_1l
+defaultsToDisabled
+org.apache.camel.component.aws.s3.S3Consumer		0.3888889
+org.apache.camel.component.aws.sqs.SqsConsumer		0.33974358
+org.apache.camel.component.aws.sqs.SqsEndpoint		0.12437811
+org.apache.camel.component.aws.s3.S3Configuration		0.069767445
+org.apache.camel.component.aws.sqs.SqsConfiguration		0.039215688
+org.apache.camel.component.aws.s3.S3Endpoint		0.02962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsExtendMessageVisibilityTest
+SqsExtendMessageVisibilityTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsExtendMessageVisibilityTest_longReceiveExtendsMessageVisibility_4q
+longReceiveExtendsMessageVisibility
+org.apache.camel.component.aws.sqs.SqsConsumer.TimeoutExtender		0.9
+org.apache.camel.component.aws.sqs.SqsConsumer		0.53205127
+org.apache.camel.component.aws.s3.S3Consumer		0.3888889
+org.apache.camel.component.aws.sqs.SqsEndpoint		0.12437811
+org.apache.camel.component.aws.s3.S3Configuration		0.069767445
+org.apache.camel.component.aws.sqs.SqsConfiguration		0.05882353
+org.apache.camel.component.aws.s3.S3Endpoint		0.02962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsFilterMessagesWithNoDeleteTest
+SqsFilterMessagesWithNoDeleteTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsProducerTest
+SqsProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsProducerTest_isAllAttributeMessagesOnTheRequest_16
+isAllAttributeMessagesOnTheRequest
+org.apache.camel.component.aws.sqs.SqsProducer		0.7777778
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.sqs.SqsConfiguration		0.019607844
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsProducerTest_isAttributeMessageByteBufferHeaderOnTheRequest_1j
+isAttributeMessageByteBufferHeaderOnTheRequest
+org.apache.camel.component.aws.sqs.SqsProducer		0.6825397
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.sqs.SqsConfiguration		0.019607844
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsProducerTest_isAttributeMessageStringHeaderOnTheRequest_14
+isAttributeMessageStringHeaderOnTheRequest
+org.apache.camel.component.aws.sqs.SqsProducer		0.6507937
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.sqs.SqsConfiguration		0.019607844
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsProducerTest_itSendsTheBodyFromAnExchange_5
+itSendsTheBodyFromAnExchange
+org.apache.camel.component.aws.sqs.SqsProducer		0.50793654
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.sqs.SqsConfiguration		0.019607844
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsProducerTest_itSendsTheCorrectQueueUrl_66
+itSendsTheCorrectQueueUrl
+org.apache.camel.component.aws.sqs.SqsProducer		0.50793654
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.sqs.SqsConfiguration		0.019607844
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsProducerTest_itSetsTheDelayFromMessageHeaderOnTheRequest_60
+itSetsTheDelayFromMessageHeaderOnTheRequest
+org.apache.camel.component.aws.sqs.SqsProducer		0.50793654
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsProducerTest_itSetsTheDelayFromTheConfigurationOnTheRequest_2k
+itSetsTheDelayFromTheConfigurationOnTheRequest
+org.apache.camel.component.aws.sqs.SqsProducer		0.50793654
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.sqs.SqsConfiguration		0.039215688
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsProducerTest_itSetsTheMd5SumOnTheExchangeMessage_3k
+itSetsTheMd5SumOnTheExchangeMessage
+org.apache.camel.component.aws.sqs.SqsProducer		0.50793654
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.sqs.SqsConfiguration		0.019607844
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/SqsProducerTest_itSetsTheMessageIdOnTheExchangeMessage_n
+itSetsTheMessageIdOnTheExchangeMessage
+org.apache.camel.component.aws.sqs.SqsProducer		0.50793654
+org.apache.camel.component.aws.common.AwsExchangeUtil		0.44444445
+org.apache.camel.component.aws.sqs.SqsConfiguration		0.019607844
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/integration/SqsComponentIntegrationTest
+SqsComponentIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/integration/test-SqsComponentIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/test-SqsBatchConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/test-SqsComponentConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/test-SqsComponentSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/test-SqsComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/test-SqsConcurrentConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/test-SqsConsumerIdleMessageTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/test-SqsDoesNotExtendMessageVisibilityTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/test-SqsEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/test-SqsEndpointUseExistingQueueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/test-SqsEndpointUseExistingQueueTest_AmazonSQSClientMock
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/test-SqsExtendMessageVisibilityTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/test-SqsFilterMessagesWithNoDeleteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/sqs/test-SqsProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/swf/CamelSWFActivityClientTest
+CamelSWFActivityClientTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/swf/CamelSWFActivityClientTest_testScheduleActivity_4t
+testScheduleActivity
+org.apache.camel.component.aws.swf.CamelSWFActivityClient		0.53333336
+org.apache.camel.component.aws.swf.SWFConfiguration		0.01923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/swf/CamelSWFActivityConsumerTest
+CamelSWFActivityConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/swf/CamelSWFActivityConsumerTest_receivesDecisionTask_2h
+receivesDecisionTask
+org.apache.camel.component.aws.swf.SWFComponent		1.0
+org.apache.camel.component.aws.swf.CamelActivityImplementationFactory		0.85714287
+org.apache.camel.component.aws.swf.SWFActivityConsumer		0.5925926
+org.apache.camel.component.aws.swf.SWFConfiguration		0.42307693
+org.apache.camel.component.aws.s3.S3Consumer		0.3888889
+org.apache.camel.component.aws.swf.CamelActivityImplementation		0.36585367
+org.apache.camel.component.aws.swf.SWFEndpoint		0.3243243
+org.apache.camel.component.aws.s3.S3Configuration		0.069767445
+org.apache.camel.component.aws.s3.S3Endpoint		0.02962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/swf/CamelSWFTestSupport
+CamelSWFTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/swf/CamelSWFWorkflowClientTest
+CamelSWFWorkflowClientTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/swf/CamelSWFWorkflowClientTest_testDescribeWorkflowInstance_5q
+testDescribeWorkflowInstance
+org.apache.camel.component.aws.swf.CamelSWFWorkflowClient		0.2
+org.apache.camel.component.aws.swf.SWFEndpoint		0.04054054
+org.apache.camel.component.aws.swf.SWFConfiguration		0.03846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/swf/CamelSWFWorkflowClientTest_testGetWorkflowExecutionState_3s
+testGetWorkflowExecutionState
+org.apache.camel.component.aws.swf.CamelSWFWorkflowClient		0.046153847
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/swf/CamelSWFWorkflowClientTest_testRequestCancelWorkflowExecution_29
+testRequestCancelWorkflowExecution
+org.apache.camel.component.aws.swf.CamelSWFWorkflowClient		0.046153847
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/swf/CamelSWFWorkflowClientTest_testSignalWorkflowExecution_1v
+testSignalWorkflowExecution
+org.apache.camel.component.aws.swf.CamelSWFWorkflowClient		0.15384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/swf/CamelSWFWorkflowClientTest_testStartWorkflowExecution_u
+testStartWorkflowExecution
+org.apache.camel.component.aws.swf.CamelSWFWorkflowClient		0.33846155
+org.apache.camel.component.aws.swf.SWFConfiguration		0.03846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/swf/CamelSWFWorkflowClientTest_testTerminateWorkflowExecution_d
+testTerminateWorkflowExecution
+org.apache.camel.component.aws.swf.CamelSWFWorkflowClient		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/swf/CamelSWFWorkflowConsumerTest
+CamelSWFWorkflowConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/swf/CamelSWFWorkflowConsumerTest_receivesDecisionTask_2b
+receivesDecisionTask
+org.apache.camel.component.aws.swf.SWFComponent		1.0
+org.apache.camel.component.aws.swf.CamelWorkflowDefinitionFactoryFactory		0.8888889
+org.apache.camel.component.aws.swf.CamelWorkflowDefinitionFactory		0.85714287
+org.apache.camel.component.aws.swf.SWFConfiguration		0.3846154
+org.apache.camel.component.aws.swf.SWFWorkflowConsumer		0.3783784
+org.apache.camel.component.aws.swf.SWFEndpoint		0.3243243
+org.apache.camel.component.aws.swf.CamelWorkflowDefinition		0.11940298
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/swf/CamelSWFWorkflowProducerTest
+CamelSWFWorkflowProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/swf/CamelSWFWorkflowProducerTest_sendInOnly_5z
+sendInOnly
+org.apache.camel.component.aws.swf.CamelSWFWorkflowClient		0.44615385
+org.apache.camel.component.aws.swf.SWFWorkflowProducer		0.34579438
+org.apache.camel.component.aws.swf.SWFConfiguration		0.17307693
+org.apache.camel.component.aws.swf.SWFEndpoint		0.12162162
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/swf/SwfComponentSpringTest
+SwfComponentSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/swf/SwfComponentSpringTest_sendInOut_4a
+sendInOut
+org.apache.camel.component.aws.swf.CamelSWFWorkflowClient		0.44615385
+org.apache.camel.component.aws.swf.SWFWorkflowProducer		0.34579438
+org.apache.camel.component.aws.swf.SWFConfiguration		0.17307693
+org.apache.camel.component.aws.swf.SWFEndpoint		0.12162162
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/swf/integration/CamelSWFEndToEndTest
+CamelSWFEndToEndTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/swf/integration/test-CamelSWFEndToEndTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/swf/test-CamelSWFActivityClientTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/swf/test-CamelSWFActivityConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/swf/test-CamelSWFTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/swf/test-CamelSWFWorkflowClientTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/swf/test-CamelSWFWorkflowConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/swf/test-CamelSWFWorkflowProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-aws/target/site/clover/org/apache/camel/component/aws/swf/test-SwfComponentSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

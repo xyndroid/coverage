@@ -1,0 +1,27 @@
+./openjpa-xmlstore/target/clover/org/apache/openjpa
+./openjpa-xmlstore/target/clover/org/apache/openjpa/xmlstore/simple/TestPersistence
+TestPersistence		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-xmlstore/target/clover/org/apache/openjpa/xmlstore/simple/TestPersistence_testCreateEntityManager_0
+org.apache.openjpa.xmlstore.XMLConfiguration		0.6111111
+org.apache.openjpa.xmlstore.XMLStoreManager		0.09352518
+org.apache.openjpa.xmlstore.XMLStore		0.029411765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-xmlstore/target/clover/org/apache/openjpa/xmlstore/simple/TestPersistence_testNewDeleteNew_1
+org.apache.openjpa.xmlstore.XMLConfiguration		0.9444444
+org.apache.openjpa.xmlstore.XMLStore		0.7941176
+org.apache.openjpa.xmlstore.XMLFileHandler		0.42307693
+org.apache.openjpa.xmlstore.XMLStoreManager		0.37410071
+org.apache.openjpa.xmlstore.ObjectData		0.17821783
+org.apache.openjpa.xmlstore.XMLFileHandler.XMLEncoder		0.17142858
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-xmlstore/target/clover/org/apache/openjpa/xmlstore/simple/TestPersistence_testQuery_2
+org.apache.openjpa.xmlstore.XMLConfiguration		1.0
+org.apache.openjpa.xmlstore.XMLStore		0.7794118
+org.apache.openjpa.xmlstore.XMLFileHandler		0.5833333
+org.apache.openjpa.xmlstore.XMLStoreManager		0.48920864
+org.apache.openjpa.xmlstore.ObjectData		0.35148516
+org.apache.openjpa.xmlstore.XMLFileHandler.XMLEncoder		0.17142858
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-xmlstore/target/clover/org/apache/openjpa/xmlstore/simple/test-TestPersistence
+-- -- -- -- -- -- -- -- -- -- -- -- --

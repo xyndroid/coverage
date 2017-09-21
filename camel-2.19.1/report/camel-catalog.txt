@@ -1,0 +1,1193 @@
+./platforms/camel-catalog/target/site/clover/org/apache/camel
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest
+CamelCatalogCacheTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testAddComponentWithJson_1n
+org.apache.camel.catalog.CatalogHelper		0.22666667
+org.apache.camel.catalog.DefaultRuntimeProvider		0.21538462
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.DefaultCamelCatalog		0.03299725
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testAddComponent_26
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.390625
+org.apache.camel.catalog.CatalogHelper		0.22666667
+org.apache.camel.catalog.DefaultRuntimeProvider		0.21538462
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.DefaultCamelCatalog		0.03391384
+org.apache.camel.catalog.AbstractCamelCatalog		0.0020283975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testAddDataFormatWithJSon_15
+org.apache.camel.catalog.CatalogHelper		0.22666667
+org.apache.camel.catalog.DefaultRuntimeProvider		0.21538462
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.DefaultCamelCatalog		0.03299725
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testAddDataFormat_7
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.390625
+org.apache.camel.catalog.CatalogHelper		0.22666667
+org.apache.camel.catalog.DefaultRuntimeProvider		0.21538462
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.DefaultCamelCatalog		0.03391384
+org.apache.camel.catalog.AbstractCamelCatalog		0.0020283975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testArchetypeCatalog_45
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.CatalogHelper		0.13333334
+org.apache.camel.catalog.DefaultCamelCatalog		0.015582035
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testAsEndpointDefaultValue_4f
+org.apache.camel.catalog.JSonSchemaHelper		0.22969188
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.URISupport		0.12612613
+org.apache.camel.catalog.AbstractCamelCatalog		0.12271805
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testAsEndpointUriBeanLookup_17
+org.apache.camel.catalog.JSonSchemaHelper		0.19607843
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.URISupport		0.14414415
+org.apache.camel.catalog.AbstractCamelCatalog		0.07302231
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testAsEndpointUriJson_2s
+org.apache.camel.catalog.JSonSchemaHelper		0.19607843
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.URISupport		0.12612613
+org.apache.camel.catalog.AbstractCamelCatalog		0.10750507
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testAsEndpointUriLogShort_r
+org.apache.camel.catalog.JSonSchemaHelper		0.19607843
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.URISupport		0.12612613
+org.apache.camel.catalog.AbstractCamelCatalog		0.07606491
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testAsEndpointUriLog_39
+org.apache.camel.catalog.JSonSchemaHelper		0.19607843
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.URISupport		0.13513513
+org.apache.camel.catalog.AbstractCamelCatalog		0.0841785
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testAsEndpointUriMapFile_2k
+org.apache.camel.catalog.JSonSchemaHelper		0.19607843
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.URISupport		0.13513513
+org.apache.camel.catalog.AbstractCamelCatalog		0.07505071
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testAsEndpointUriMapFtp_2r
+org.apache.camel.catalog.JSonSchemaHelper		0.19607843
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.URISupport		0.12612613
+org.apache.camel.catalog.AbstractCamelCatalog		0.0801217
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testAsEndpointUriMapJmsRequiredOnly_1l
+org.apache.camel.catalog.JSonSchemaHelper		0.22969188
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.URISupport		0.13513513
+org.apache.camel.catalog.AbstractCamelCatalog		0.12576064
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testAsEndpointUriMapJms_0
+org.apache.camel.catalog.JSonSchemaHelper		0.19607843
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.AbstractCamelCatalog		0.070993915
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testAsEndpointUriNetty4http_36
+org.apache.camel.catalog.JSonSchemaHelper		0.19607843
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.URISupport		0.12612613
+org.apache.camel.catalog.AbstractCamelCatalog		0.07910751
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testAsEndpointUriPropertiesPlaceholders_21
+org.apache.camel.catalog.JSonSchemaHelper		0.19607843
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.URISupport		0.15315315
+org.apache.camel.catalog.AbstractCamelCatalog		0.07302231
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testAsEndpointUriRestUriTemplate_l
+org.apache.camel.catalog.JSonSchemaHelper		0.1904762
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.AbstractCamelCatalog		0.070993915
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testAsEndpointUriTimer_3h
+org.apache.camel.catalog.JSonSchemaHelper		0.19607843
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.URISupport		0.12612613
+org.apache.camel.catalog.AbstractCamelCatalog		0.07302231
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testAsEndpointUriWithplaceholder_1e
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.3125
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.AbstractCamelCatalog		0.0070993914
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testAsEndpointUriWithplaceholder_1x
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.3125
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.AbstractCamelCatalog		0.0070993914
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testAsEndpointUriWithplaceholder_u
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.3125
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.AbstractCamelCatalog		0.0070993914
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testComponentAsciiDoc_1m
+org.apache.camel.catalog.JSonSchemaHelper		0.17366947
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.CatalogHelper		0.13333334
+org.apache.camel.catalog.DefaultCamelCatalog		0.058661778
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testDataFormatAsciiDoc_3x
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.CatalogHelper		0.13333334
+org.apache.camel.catalog.DefaultCamelCatalog		0.021081576
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testEndpointComponentName_3k
+org.apache.camel.catalog.AbstractCamelCatalog		0.0070993914
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testEndpointLenientProperties_33
+org.apache.camel.catalog.URISupport		0.4144144
+org.apache.camel.catalog.JSonSchemaHelper		0.29411766
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.CatalogHelper		0.13333334
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.AbstractCamelCatalog		0.029411765
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testEndpointPropertiesAtom_2l
+org.apache.camel.catalog.URISupport		0.45495495
+org.apache.camel.catalog.JSonSchemaHelper		0.30252102
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.AbstractCamelCatalog		0.08722109
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testEndpointPropertiesJmsRequired_q
+org.apache.camel.catalog.URISupport		0.45495495
+org.apache.camel.catalog.JSonSchemaHelper		0.31652662
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.AbstractCamelCatalog		0.11764706
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testEndpointPropertiesJmsWithDotInName_i
+org.apache.camel.catalog.JSonSchemaHelper		0.28011206
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.AbstractCamelCatalog		0.10750507
+org.apache.camel.catalog.URISupport		0.072072074
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testEndpointPropertiesJms_3e
+org.apache.camel.catalog.JSonSchemaHelper		0.28011206
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.AbstractCamelCatalog		0.11561866
+org.apache.camel.catalog.URISupport		0.072072074
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testEndpointPropertiesMultiValued_e
+org.apache.camel.catalog.CollectionStringBuffer		0.57894737
+org.apache.camel.catalog.URISupport		0.509009
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.45736435
+org.apache.camel.catalog.JSonSchemaHelper		0.34453782
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.AbstractCamelCatalog		0.097363085
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testEndpointPropertiesNetty4HttpDefaultPort_1t
+org.apache.camel.catalog.URISupport		0.44144145
+org.apache.camel.catalog.JSonSchemaHelper		0.31092438
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.AbstractCamelCatalog		0.13488844
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testEndpointPropertiesNetty4HttpPlaceholder_o
+org.apache.camel.catalog.URISupport		0.44144145
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.34108528
+org.apache.camel.catalog.JSonSchemaHelper		0.31092438
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.AbstractCamelCatalog		0.10851927
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testEndpointPropertiesNetty4HttpWithDoubleSlash_4
+org.apache.camel.catalog.URISupport		0.44144145
+org.apache.camel.catalog.JSonSchemaHelper		0.31092438
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.AbstractCamelCatalog		0.10953347
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testEndpointPropertiesNetty4Http_10
+org.apache.camel.catalog.URISupport		0.44144145
+org.apache.camel.catalog.JSonSchemaHelper		0.31092438
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.AbstractCamelCatalog		0.10851927
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testEndpointPropertiesPlaceholders_41
+org.apache.camel.catalog.URISupport		0.44144145
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.34108528
+org.apache.camel.catalog.JSonSchemaHelper		0.30252102
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.AbstractCamelCatalog		0.08722109
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testEndpointPropertiesSshWithUserInfo_3u
+org.apache.camel.catalog.URISupport		0.45495495
+org.apache.camel.catalog.JSonSchemaHelper		0.32212886
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.AbstractCamelCatalog		0.13894524
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testEndpointProperties_3y
+org.apache.camel.catalog.URISupport		0.3873874
+org.apache.camel.catalog.JSonSchemaHelper		0.31092438
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.AbstractCamelCatalog		0.11764706
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testFindLanguageNames_1d
+org.apache.camel.catalog.DefaultCamelCatalog		0.007332722
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testFindNames_30
+org.apache.camel.catalog.DefaultRuntimeProvider		0.18461539
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.CatalogHelper		0.093333334
+org.apache.camel.catalog.DefaultCamelCatalog		0.037580203
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testFindOtherNames_s
+org.apache.camel.catalog.DefaultCamelCatalog		0.007332722
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testGetVersion_1s
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.VersionHelper		0.11111111
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testJSonSchemaHelper_2g
+org.apache.camel.catalog.JSonSchemaHelper		0.28851542
+org.apache.camel.catalog.CatalogHelper		0.13333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testJsonSchema_2w
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.234375
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.CatalogHelper		0.13333334
+org.apache.camel.catalog.DefaultRuntimeProvider		0.12307692
+org.apache.camel.catalog.DefaultCamelCatalog		0.06141155
+org.apache.camel.catalog.AbstractCamelCatalog		0.0020283975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testLanguageAsciiDoc_2o
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.CatalogHelper		0.13333334
+org.apache.camel.catalog.DefaultCamelCatalog		0.017415216
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testListComponentsAsJson_2c
+org.apache.camel.catalog.CatalogHelper		0.4
+org.apache.camel.catalog.DefaultRuntimeProvider		0.21538462
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.DefaultCamelCatalog		0.05774519
+org.apache.camel.catalog.AbstractCamelCatalog		0.0020283975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testListDataFormatsAsJson_3d
+org.apache.camel.catalog.CatalogHelper		0.30666667
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.DefaultCamelCatalog		0.053162236
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.AbstractCamelCatalog		0.0020283975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testListLanguagesAsJson_1r
+org.apache.camel.catalog.CatalogHelper		0.4
+org.apache.camel.catalog.DefaultRuntimeProvider		0.21538462
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.DefaultCamelCatalog		0.05957837
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testListModelsAsJson_4e
+org.apache.camel.catalog.CatalogHelper		0.4
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.140625
+org.apache.camel.catalog.DefaultCamelCatalog		0.05957837
+org.apache.camel.catalog.AbstractCamelCatalog		0.0020283975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testListOthersAsJson_22
+org.apache.camel.catalog.CatalogHelper		0.4
+org.apache.camel.catalog.DefaultRuntimeProvider		0.21538462
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.DefaultCamelCatalog		0.05957837
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testLoadVersion_43
+org.apache.camel.catalog.VersionHelper		0.7222222
+org.apache.camel.catalog.DefaultVersionManager		0.33333334
+org.apache.camel.catalog.DefaultCamelCatalog		0.009165903
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testOtherAsciiDoc_24
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.CatalogHelper		0.13333334
+org.apache.camel.catalog.DefaultCamelCatalog		0.015582035
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testSimpleExpression_1q
+org.apache.camel.catalog.LanguageValidationResult		1.0
+org.apache.camel.catalog.SimpleValidationResult		1.0
+org.apache.camel.catalog.AbstractCamelCatalog		0.048681542
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testSimplePredicatePlaceholder_3g
+org.apache.camel.catalog.LanguageValidationResult		1.0
+org.apache.camel.catalog.SimpleValidationResult		1.0
+org.apache.camel.catalog.AbstractCamelCatalog		0.048681542
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testSimplePredicate_4l
+org.apache.camel.catalog.LanguageValidationResult		1.0
+org.apache.camel.catalog.SimpleValidationResult		1.0
+org.apache.camel.catalog.AbstractCamelCatalog		0.048681542
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testSpringCamelContext_4b
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.140625
+org.apache.camel.catalog.CatalogHelper		0.13333334
+org.apache.camel.catalog.DefaultCamelCatalog		0.013748854
+org.apache.camel.catalog.AbstractCamelCatalog		0.0020283975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testSummaryAsJson_1h
+org.apache.camel.catalog.VersionHelper		0.11111111
+org.apache.camel.catalog.DefaultCamelCatalog		0.06507791
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testValidateEndpointConsumerOnly_29
+org.apache.camel.catalog.JSonSchemaHelper		0.77310926
+org.apache.camel.catalog.URISupport		0.44144145
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.AbstractCamelCatalog		0.19979715
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.EndpointValidationResult		0.084337346
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testValidateEndpointJmsDefault_f
+org.apache.camel.catalog.JSonSchemaHelper		0.7394958
+org.apache.camel.catalog.URISupport		0.3873874
+org.apache.camel.catalog.AbstractCamelCatalog		0.21399595
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.EndpointValidationResult		0.05421687
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testValidateEndpointProducerOnly_b
+org.apache.camel.catalog.JSonSchemaHelper		0.789916
+org.apache.camel.catalog.URISupport		0.44144145
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.AbstractCamelCatalog		0.20182556
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.EndpointValidationResult		0.084337346
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testValidateEndpointTwitterSpecial_46
+org.apache.camel.catalog.JSonSchemaHelper		0.7478992
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.44186047
+org.apache.camel.catalog.URISupport		0.44144145
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.AbstractCamelCatalog		0.18255578
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.EndpointValidationResult		0.03313253
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testValidateLanguage_2i
+org.apache.camel.catalog.LanguageValidationResult		0.5555556
+org.apache.camel.catalog.SimpleValidationResult		0.5
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.203125
+org.apache.camel.catalog.JSonSchemaHelper		0.17366947
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.CatalogHelper		0.13333334
+org.apache.camel.catalog.AbstractCamelCatalog		0.04158215
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_testXmlSchema_c
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.CatalogHelper		0.13333334
+org.apache.camel.catalog.DefaultCamelCatalog		0.03116407
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_validateActiveMQProperties_1v
+org.apache.camel.catalog.JSonSchemaHelper		0.74509805
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.390625
+org.apache.camel.catalog.URISupport		0.3873874
+org.apache.camel.catalog.AbstractCamelCatalog		0.21703854
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.EndpointValidationResult		0.04819277
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.008249313
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_validateJmsProperties_x
+org.apache.camel.catalog.JSonSchemaHelper		0.767507
+org.apache.camel.catalog.URISupport		0.3873874
+org.apache.camel.catalog.AbstractCamelCatalog		0.21602434
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.EndpointValidationResult		0.04819277
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_validatePropertiesSummary_4n
+org.apache.camel.catalog.JSonSchemaHelper		0.77310926
+org.apache.camel.catalog.EndpointValidationResult		0.48795182
+org.apache.camel.catalog.URISupport		0.46396396
+org.apache.camel.catalog.TimePatternConverter		0.33802816
+org.apache.camel.catalog.AbstractCamelCatalog		0.2494929
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_validateProperties_2a
+org.apache.camel.catalog.JSonSchemaHelper		0.82913166
+org.apache.camel.catalog.TimePatternConverter		0.64788735
+org.apache.camel.catalog.URISupport		0.4954955
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.4883721
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.46875
+org.apache.camel.catalog.AbstractCamelCatalog		0.35192698
+org.apache.camel.catalog.EndpointValidationResult		0.32831326
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.DefaultRuntimeProvider		0.06153846
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogCacheTest_validateTimePattern_3m
+org.apache.camel.catalog.TimePatternConverter		0.7887324
+org.apache.camel.catalog.AbstractCamelCatalog		0.013184584
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogJsonSchemaTest
+CamelCatalogJsonSchemaTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogJsonSchemaTest_testValidateJsonComponent_6
+org.apache.camel.catalog.CatalogHelper		0.22666667
+org.apache.camel.catalog.DefaultRuntimeProvider		0.21538462
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.DefaultCamelCatalog		0.024747938
+org.apache.camel.catalog.AbstractCamelCatalog		0.0020283975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogJsonSchemaTest_testValidateJsonDataFormats_1a
+org.apache.camel.catalog.CatalogHelper		0.22666667
+org.apache.camel.catalog.DefaultRuntimeProvider		0.21538462
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.DefaultCamelCatalog		0.024747938
+org.apache.camel.catalog.AbstractCamelCatalog		0.0020283975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogJsonSchemaTest_testValidateJsonLanguages_2b
+org.apache.camel.catalog.CatalogHelper		0.22666667
+org.apache.camel.catalog.DefaultRuntimeProvider		0.21538462
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.DefaultCamelCatalog		0.026581118
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogJsonSchemaTest_testValidateJsonModels_1w
+org.apache.camel.catalog.CatalogHelper		0.22666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.140625
+org.apache.camel.catalog.DefaultCamelCatalog		0.025664529
+org.apache.camel.catalog.AbstractCamelCatalog		0.0020283975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogMBeanExporterTest
+CamelCatalogMBeanExporterTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest
+CamelCatalogTest		0.9889043
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testAddComponentWithJson_38
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.234375
+org.apache.camel.catalog.CatalogHelper		0.22666667
+org.apache.camel.catalog.DefaultRuntimeProvider		0.21538462
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.DefaultCamelCatalog		0.034830432
+org.apache.camel.catalog.AbstractCamelCatalog		0.0020283975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testAddComponent_20
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.390625
+org.apache.camel.catalog.CatalogHelper		0.22666667
+org.apache.camel.catalog.DefaultRuntimeProvider		0.21538462
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.DefaultCamelCatalog		0.03024748
+org.apache.camel.catalog.AbstractCamelCatalog		0.0020283975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testAddDataFormatWithJSon_h
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.234375
+org.apache.camel.catalog.CatalogHelper		0.22666667
+org.apache.camel.catalog.DefaultRuntimeProvider		0.21538462
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.DefaultCamelCatalog		0.034830432
+org.apache.camel.catalog.AbstractCamelCatalog		0.0020283975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testAddDataFormat_4m
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.390625
+org.apache.camel.catalog.CatalogHelper		0.22666667
+org.apache.camel.catalog.DefaultRuntimeProvider		0.21538462
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.DefaultCamelCatalog		0.03024748
+org.apache.camel.catalog.AbstractCamelCatalog		0.0020283975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testArchetypeCatalog_1k
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.CatalogHelper		0.13333334
+org.apache.camel.catalog.DefaultCamelCatalog		0.013748854
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testAsEndpointDefaultValue_3p
+org.apache.camel.catalog.JSonSchemaHelper		0.22969188
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.URISupport		0.12612613
+org.apache.camel.catalog.AbstractCamelCatalog		0.12271805
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testAsEndpointUriBeanLookup_27
+org.apache.camel.catalog.JSonSchemaHelper		0.19607843
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.URISupport		0.14414415
+org.apache.camel.catalog.AbstractCamelCatalog		0.07302231
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testAsEndpointUriJson_t
+org.apache.camel.catalog.JSonSchemaHelper		0.19607843
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.URISupport		0.12612613
+org.apache.camel.catalog.AbstractCamelCatalog		0.10750507
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testAsEndpointUriLogShort_3b
+org.apache.camel.catalog.JSonSchemaHelper		0.19607843
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.URISupport		0.12612613
+org.apache.camel.catalog.AbstractCamelCatalog		0.07606491
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testAsEndpointUriLog_4a
+org.apache.camel.catalog.JSonSchemaHelper		0.19607843
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.URISupport		0.13513513
+org.apache.camel.catalog.AbstractCamelCatalog		0.0841785
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testAsEndpointUriMapFile_16
+org.apache.camel.catalog.JSonSchemaHelper		0.19607843
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.URISupport		0.13513513
+org.apache.camel.catalog.AbstractCamelCatalog		0.07505071
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testAsEndpointUriMapFtp_34
+org.apache.camel.catalog.JSonSchemaHelper		0.19607843
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.URISupport		0.12612613
+org.apache.camel.catalog.AbstractCamelCatalog		0.0801217
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testAsEndpointUriMapJmsRequiredOnly_1j
+org.apache.camel.catalog.JSonSchemaHelper		0.22969188
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.URISupport		0.13513513
+org.apache.camel.catalog.AbstractCamelCatalog		0.12576064
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testAsEndpointUriMapJms_1
+org.apache.camel.catalog.JSonSchemaHelper		0.19607843
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.AbstractCamelCatalog		0.070993915
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testAsEndpointUriNetty4http_a
+org.apache.camel.catalog.JSonSchemaHelper		0.19607843
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.URISupport		0.12612613
+org.apache.camel.catalog.AbstractCamelCatalog		0.07910751
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testAsEndpointUriPropertiesPlaceholders_40
+org.apache.camel.catalog.JSonSchemaHelper		0.19607843
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.URISupport		0.15315315
+org.apache.camel.catalog.AbstractCamelCatalog		0.07302231
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testAsEndpointUriRestUriTemplate_v
+org.apache.camel.catalog.JSonSchemaHelper		0.1904762
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.AbstractCamelCatalog		0.070993915
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testAsEndpointUriTimer_48
+org.apache.camel.catalog.JSonSchemaHelper		0.19607843
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.URISupport		0.12612613
+org.apache.camel.catalog.AbstractCamelCatalog		0.07302231
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testAsEndpointUriWithplaceholder_14
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.3125
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.AbstractCamelCatalog		0.0070993914
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testAsEndpointUriWithplaceholder_1f
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.3125
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.AbstractCamelCatalog		0.0070993914
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testAsEndpointUriWithplaceholder_y
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.3125
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.AbstractCamelCatalog		0.0070993914
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testComponentAsciiDoc_31
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.296875
+org.apache.camel.catalog.CatalogHelper		0.22666667
+org.apache.camel.catalog.DefaultRuntimeProvider		0.21538462
+org.apache.camel.catalog.JSonSchemaHelper		0.17366947
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.DefaultCamelCatalog		0.066911094
+org.apache.camel.catalog.AbstractCamelCatalog		0.0020283975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testDataFormatAsciiDoc_3c
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.CatalogHelper		0.13333334
+org.apache.camel.catalog.DefaultCamelCatalog		0.019248396
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testEndpointComponentName_28
+org.apache.camel.catalog.AbstractCamelCatalog		0.0070993914
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testEndpointLenientProperties_z
+org.apache.camel.catalog.URISupport		0.4144144
+org.apache.camel.catalog.JSonSchemaHelper		0.29411766
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.CatalogHelper		0.13333334
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.AbstractCamelCatalog		0.029411765
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testEndpointPropertiesAtom_2t
+org.apache.camel.catalog.URISupport		0.45495495
+org.apache.camel.catalog.JSonSchemaHelper		0.30252102
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.AbstractCamelCatalog		0.08722109
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testEndpointPropertiesJmsRequired_1y
+org.apache.camel.catalog.URISupport		0.45495495
+org.apache.camel.catalog.JSonSchemaHelper		0.31652662
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.AbstractCamelCatalog		0.11764706
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testEndpointPropertiesJmsWithDotInName_3
+org.apache.camel.catalog.JSonSchemaHelper		0.28011206
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.AbstractCamelCatalog		0.10750507
+org.apache.camel.catalog.URISupport		0.072072074
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testEndpointPropertiesJms_11
+org.apache.camel.catalog.JSonSchemaHelper		0.28011206
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.AbstractCamelCatalog		0.11561866
+org.apache.camel.catalog.URISupport		0.072072074
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testEndpointPropertiesMultiValued_n
+org.apache.camel.catalog.CollectionStringBuffer		0.57894737
+org.apache.camel.catalog.URISupport		0.509009
+org.apache.camel.catalog.JSonSchemaHelper		0.34453782
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.AbstractCamelCatalog		0.097363085
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testEndpointPropertiesNetty4HttpDefaultPort_2z
+org.apache.camel.catalog.URISupport		0.44144145
+org.apache.camel.catalog.JSonSchemaHelper		0.31092438
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.AbstractCamelCatalog		0.13488844
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testEndpointPropertiesNetty4HttpPlaceholder_13
+org.apache.camel.catalog.URISupport		0.44144145
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.34108528
+org.apache.camel.catalog.JSonSchemaHelper		0.31092438
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.AbstractCamelCatalog		0.10851927
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testEndpointPropertiesNetty4HttpWithDoubleSlash_3s
+org.apache.camel.catalog.URISupport		0.44144145
+org.apache.camel.catalog.JSonSchemaHelper		0.31092438
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.AbstractCamelCatalog		0.10953347
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testEndpointPropertiesNetty4Http_d
+org.apache.camel.catalog.URISupport		0.44144145
+org.apache.camel.catalog.JSonSchemaHelper		0.31092438
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.AbstractCamelCatalog		0.10851927
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testEndpointPropertiesPlaceholders_2m
+org.apache.camel.catalog.URISupport		0.44144145
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.34108528
+org.apache.camel.catalog.JSonSchemaHelper		0.30252102
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.AbstractCamelCatalog		0.08722109
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testEndpointPropertiesSshWithUserInfo_8
+org.apache.camel.catalog.URISupport		0.45495495
+org.apache.camel.catalog.JSonSchemaHelper		0.32212886
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.AbstractCamelCatalog		0.13894524
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testEndpointProperties_2n
+org.apache.camel.catalog.URISupport		0.3873874
+org.apache.camel.catalog.JSonSchemaHelper		0.31092438
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.AbstractCamelCatalog		0.11764706
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testFindLanguageNames_2q
+org.apache.camel.catalog.DefaultRuntimeProvider		0.18461539
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.CatalogHelper		0.093333334
+org.apache.camel.catalog.DefaultCamelCatalog		0.0109990835
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testFindNames_3w
+org.apache.camel.catalog.DefaultRuntimeProvider		0.4923077
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.CatalogHelper		0.093333334
+org.apache.camel.catalog.DefaultCamelCatalog		0.048579287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testFindOtherNames_m
+org.apache.camel.catalog.DefaultRuntimeProvider		0.18461539
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.CatalogHelper		0.093333334
+org.apache.camel.catalog.DefaultCamelCatalog		0.0109990835
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testGetVersion_w
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.VersionHelper		0.11111111
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testJSonSchemaHelper_4j
+org.apache.camel.catalog.JSonSchemaHelper		0.28851542
+org.apache.camel.catalog.CatalogHelper		0.13333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testJsonSchema_g
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.328125
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.CatalogHelper		0.13333334
+org.apache.camel.catalog.DefaultRuntimeProvider		0.12307692
+org.apache.camel.catalog.DefaultCamelCatalog		0.06324473
+org.apache.camel.catalog.AbstractCamelCatalog		0.0020283975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testLanguageAsciiDoc_1u
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.CatalogHelper		0.13333334
+org.apache.camel.catalog.DefaultCamelCatalog		0.015582035
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testListComponentsAsJson_4i
+org.apache.camel.catalog.CatalogHelper		0.4
+org.apache.camel.catalog.DefaultRuntimeProvider		0.21538462
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.DefaultCamelCatalog		0.052245647
+org.apache.camel.catalog.AbstractCamelCatalog		0.0020283975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testListDataFormatsAsJson_19
+org.apache.camel.catalog.CatalogHelper		0.4
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.296875
+org.apache.camel.catalog.DefaultRuntimeProvider		0.21538462
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.DefaultCamelCatalog		0.053162236
+org.apache.camel.catalog.AbstractCamelCatalog		0.0020283975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testListLanguagesAsJson_32
+org.apache.camel.catalog.CatalogHelper		0.4
+org.apache.camel.catalog.DefaultRuntimeProvider		0.21538462
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.DefaultCamelCatalog		0.05407883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testListModelsAsJson_k
+org.apache.camel.catalog.CatalogHelper		0.4
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.140625
+org.apache.camel.catalog.DefaultCamelCatalog		0.053162236
+org.apache.camel.catalog.AbstractCamelCatalog		0.0020283975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testListOthersAsJson_3f
+org.apache.camel.catalog.CatalogHelper		0.4
+org.apache.camel.catalog.DefaultRuntimeProvider		0.21538462
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.DefaultCamelCatalog		0.053162236
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testLoadVersion_3v
+org.apache.camel.catalog.DefaultVersionManager		0.33333334
+org.apache.camel.catalog.VersionHelper		0.11111111
+org.apache.camel.catalog.DefaultCamelCatalog		0.009165903
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testOtherAsciiDoc_1z
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.CatalogHelper		0.13333334
+org.apache.camel.catalog.DefaultCamelCatalog		0.013748854
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testSimpleExpression_1c
+org.apache.camel.catalog.LanguageValidationResult		1.0
+org.apache.camel.catalog.SimpleValidationResult		1.0
+org.apache.camel.catalog.AbstractCamelCatalog		0.048681542
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testSimplePredicatePlaceholder_12
+org.apache.camel.catalog.LanguageValidationResult		1.0
+org.apache.camel.catalog.SimpleValidationResult		1.0
+org.apache.camel.catalog.AbstractCamelCatalog		0.048681542
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testSimplePredicate_2u
+org.apache.camel.catalog.LanguageValidationResult		1.0
+org.apache.camel.catalog.SimpleValidationResult		1.0
+org.apache.camel.catalog.AbstractCamelCatalog		0.048681542
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testSpringCamelContext_3j
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.140625
+org.apache.camel.catalog.CatalogHelper		0.13333334
+org.apache.camel.catalog.DefaultCamelCatalog		0.0119156735
+org.apache.camel.catalog.AbstractCamelCatalog		0.0020283975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testSummaryAsJson_2f
+org.apache.camel.catalog.DefaultRuntimeProvider		0.4923077
+org.apache.camel.catalog.CatalogHelper		0.22666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.VersionHelper		0.11111111
+org.apache.camel.catalog.DefaultCamelCatalog		0.08799267
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testValidateEndpointConsumerOnly_2
+org.apache.camel.catalog.JSonSchemaHelper		0.77310926
+org.apache.camel.catalog.URISupport		0.44144145
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.AbstractCamelCatalog		0.19979715
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.EndpointValidationResult		0.084337346
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testValidateEndpointJmsDefault_42
+org.apache.camel.catalog.JSonSchemaHelper		0.7394958
+org.apache.camel.catalog.URISupport		0.3873874
+org.apache.camel.catalog.AbstractCamelCatalog		0.21399595
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.EndpointValidationResult		0.05421687
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testValidateEndpointProducerOnly_3i
+org.apache.camel.catalog.JSonSchemaHelper		0.789916
+org.apache.camel.catalog.URISupport		0.44144145
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.AbstractCamelCatalog		0.20182556
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.EndpointValidationResult		0.084337346
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testValidateEndpointTwitterSpecial_p
+org.apache.camel.catalog.JSonSchemaHelper		0.7478992
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.44186047
+org.apache.camel.catalog.URISupport		0.44144145
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.AbstractCamelCatalog		0.18255578
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.EndpointValidationResult		0.03313253
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testValidateLanguage_4c
+org.apache.camel.catalog.LanguageValidationResult		0.5555556
+org.apache.camel.catalog.SimpleValidationResult		0.5
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.203125
+org.apache.camel.catalog.JSonSchemaHelper		0.17366947
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.CatalogHelper		0.13333334
+org.apache.camel.catalog.AbstractCamelCatalog		0.04158215
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_testXmlSchema_5
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.CatalogHelper		0.13333334
+org.apache.camel.catalog.DefaultCamelCatalog		0.027497709
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_validateActiveMQProperties_1o
+org.apache.camel.catalog.JSonSchemaHelper		0.74509805
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.390625
+org.apache.camel.catalog.URISupport		0.3873874
+org.apache.camel.catalog.AbstractCamelCatalog		0.21703854
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.EndpointValidationResult		0.04819277
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.008249313
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_validateJmsProperties_2d
+org.apache.camel.catalog.JSonSchemaHelper		0.767507
+org.apache.camel.catalog.URISupport		0.3873874
+org.apache.camel.catalog.AbstractCamelCatalog		0.21602434
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.EndpointValidationResult		0.04819277
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_validatePropertiesSummary_2x
+org.apache.camel.catalog.JSonSchemaHelper		0.77310926
+org.apache.camel.catalog.EndpointValidationResult		0.48795182
+org.apache.camel.catalog.URISupport		0.46396396
+org.apache.camel.catalog.TimePatternConverter		0.33802816
+org.apache.camel.catalog.AbstractCamelCatalog		0.2494929
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.20930232
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.1875
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.DefaultRuntimeProvider		0.03076923
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_validateProperties_47
+org.apache.camel.catalog.JSonSchemaHelper		0.82913166
+org.apache.camel.catalog.TimePatternConverter		0.64788735
+org.apache.camel.catalog.URISupport		0.4954955
+org.apache.camel.catalog.UnsafeUriCharactersEncoder		0.4883721
+org.apache.camel.catalog.CamelCatalogJSonSchemaResolver		0.46875
+org.apache.camel.catalog.AbstractCamelCatalog		0.35192698
+org.apache.camel.catalog.EndpointValidationResult		0.32831326
+org.apache.camel.catalog.CatalogHelper		0.18666667
+org.apache.camel.catalog.DefaultVersionManager		0.16666667
+org.apache.camel.catalog.DefaultRuntimeProvider		0.06153846
+org.apache.camel.catalog.DefaultCamelCatalog		0.003666361
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/CamelCatalogTest_validateTimePattern_j
+org.apache.camel.catalog.TimePatternConverter		0.7887324
+org.apache.camel.catalog.AbstractCamelCatalog		0.013184584
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/test-CamelCatalogCacheTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/test-CamelCatalogJsonSchemaTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/test-CamelCatalogMBeanExporterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog/target/site/clover/org/apache/camel/catalog/test-CamelCatalogTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

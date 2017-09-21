@@ -1,0 +1,68 @@
+./components/camel-rmi/target/site/clover/org/apache/camel
+./components/camel-rmi/target/site/clover/org/apache/camel/component/rmi/RmiConcurrencyTest
+RmiConcurrencyTest		0.902439
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rmi/target/site/clover/org/apache/camel/component/rmi/RmiConcurrencyTest_testConcurrentProducers_3
+org.apache.camel.component.rmi.RmiProducer		0.90909094
+org.apache.camel.component.rmi.RmiRegistryBean		0.46153846
+org.apache.camel.component.rmi.RmiEndpoint		0.2857143
+org.apache.camel.component.rmi.RmiConsumer		0.22807017
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rmi/target/site/clover/org/apache/camel/component/rmi/RmiConcurrencyTest_testNoConcurrentProducers_4
+org.apache.camel.component.rmi.RmiProducer		0.90909094
+org.apache.camel.component.rmi.RmiRegistryBean		0.46153846
+org.apache.camel.component.rmi.RmiEndpoint		0.2857143
+org.apache.camel.component.rmi.RmiConsumer		0.22807017
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rmi/target/site/clover/org/apache/camel/component/rmi/RmiDamnExceptionTest
+RmiDamnExceptionTest		0.8333333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rmi/target/site/clover/org/apache/camel/component/rmi/RmiDamnExceptionTest_tesDamn_1
+org.apache.camel.component.rmi.RmiProducer		0.90909094
+org.apache.camel.component.rmi.RmiRegistryBean		0.46153846
+org.apache.camel.component.rmi.RmiConsumer		0.40350878
+org.apache.camel.component.rmi.RmiEndpoint		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rmi/target/site/clover/org/apache/camel/component/rmi/RmiIllegalArgumentExceptionTest
+RmiIllegalArgumentExceptionTest		0.82857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rmi/target/site/clover/org/apache/camel/component/rmi/RmiIllegalArgumentExceptionTest_tesIllegal_2
+org.apache.camel.component.rmi.RmiProducer		0.90909094
+org.apache.camel.component.rmi.RmiRegistryBean		0.46153846
+org.apache.camel.component.rmi.RmiConsumer		0.3508772
+org.apache.camel.component.rmi.RmiEndpoint		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rmi/target/site/clover/org/apache/camel/component/rmi/RmiRouteEndpointTest
+RmiRouteEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rmi/target/site/clover/org/apache/camel/component/rmi/RmiRouteEndpointTest_testPojoRoutes_5
+org.apache.camel.component.rmi.RmiProducer		0.8181818
+org.apache.camel.component.rmi.RmiEndpoint		0.64285713
+org.apache.camel.component.rmi.RmiConsumer		0.5614035
+org.apache.camel.component.rmi.RmiRegistryBean		0.46153846
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rmi/target/site/clover/org/apache/camel/component/rmi/RmiRouteTest
+RmiRouteTest		0.92
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rmi/target/site/clover/org/apache/camel/component/rmi/RmiRouteTestSupport
+RmiRouteTestSupport		0.64
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rmi/target/site/clover/org/apache/camel/component/rmi/RmiRouteTest_testPojoRoutes_0
+org.apache.camel.component.rmi.RmiProducer		0.8181818
+org.apache.camel.component.rmi.RmiComponent		0.6315789
+org.apache.camel.component.rmi.RmiEndpoint		0.6142857
+org.apache.camel.component.rmi.RmiConsumer		0.5614035
+org.apache.camel.component.rmi.RmiRegistryBean		0.46153846
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rmi/target/site/clover/org/apache/camel/component/rmi/test-RmiConcurrencyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rmi/target/site/clover/org/apache/camel/component/rmi/test-RmiDamnExceptionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rmi/target/site/clover/org/apache/camel/component/rmi/test-RmiIllegalArgumentExceptionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rmi/target/site/clover/org/apache/camel/component/rmi/test-RmiRouteEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rmi/target/site/clover/org/apache/camel/component/rmi/test-RmiRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rmi/target/site/clover/org/apache/camel/component/rmi/test-RmiRouteTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --

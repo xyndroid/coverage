@@ -1,0 +1,271 @@
+./components/camel-jmx/target/site/clover/org/apache/camel
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXComponentTest
+JMXComponentTest		0.8965517
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXComponentTest_withObjectNameAndObjectProperties_2
+org.apache.camel.component.jmx.JMXComponent		0.52380955
+org.apache.camel.component.jmx.JMXEndpoint		0.09677419
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXComponentTest_withObjectName_p
+org.apache.camel.component.jmx.JMXComponent		0.71428573
+org.apache.camel.component.jmx.JMXEndpoint		0.09677419
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXComponentTest_withObjectProperties_14
+org.apache.camel.component.jmx.JMXComponent		0.7619048
+org.apache.camel.component.jmx.JMXEndpoint		0.09677419
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXComponentTest_withoutDomain_k
+org.apache.camel.component.jmx.JMXComponent		0.61904764
+org.apache.camel.component.jmx.JMXEndpoint		0.06451613
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXComponentTest_withoutObjectNameAndObjectProperties_m
+org.apache.camel.component.jmx.JMXComponent		0.71428573
+org.apache.camel.component.jmx.JMXEndpoint		0.06451613
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXConsumerTest
+JMXConsumerTest		0.9117647
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXConsumerTest_attributeChange_h
+org.apache.camel.component.jmx.NotificationXmlFormatter		0.33673468
+org.apache.camel.component.jmx.JMXConsumer		0.114285715
+org.apache.camel.component.jmx.JMXEndpoint		0.021505376
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXConsumerTest_jmxConnection_y
+org.apache.camel.component.jmx.NotificationXmlFormatter		0.29591838
+org.apache.camel.component.jmx.JMXConsumer		0.114285715
+org.apache.camel.component.jmx.JMXEndpoint		0.021505376
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXConsumerTest_mbeanServerNotification_a
+org.apache.camel.component.jmx.NotificationXmlFormatter		0.31632653
+org.apache.camel.component.jmx.JMXConsumer		0.114285715
+org.apache.camel.component.jmx.JMXEndpoint		0.021505376
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXConsumerTest_notification_4
+org.apache.camel.component.jmx.NotificationXmlFormatter		0.3877551
+org.apache.camel.component.jmx.JMXConsumer		0.114285715
+org.apache.camel.component.jmx.JMXEndpoint		0.021505376
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXConsumerTest_timerNotification_12
+org.apache.camel.component.jmx.NotificationXmlFormatter		0.37755102
+org.apache.camel.component.jmx.JMXConsumer		0.114285715
+org.apache.camel.component.jmx.JMXEndpoint		0.021505376
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXConsumerTest_userData_n
+org.apache.camel.component.jmx.NotificationXmlFormatter		0.39795917
+org.apache.camel.component.jmx.JMXConsumer		0.114285715
+org.apache.camel.component.jmx.JMXEndpoint		0.021505376
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXEndpointTest
+JMXEndpointTest		0.9032258
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXEndpointTest_credentials_b
+org.apache.camel.component.jmx.JMXComponent		0.7619048
+org.apache.camel.component.jmx.JMXEndpoint		0.13978495
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXEndpointTest_defaultsToXml_6
+org.apache.camel.component.jmx.JMXComponent		0.71428573
+org.apache.camel.component.jmx.JMXEndpoint		0.11827957
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXEndpointTest_formatRaw_9
+org.apache.camel.component.jmx.JMXComponent		0.71428573
+org.apache.camel.component.jmx.JMXEndpoint		0.12903225
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXEndpointTest_getJMXObjectNameCached_q
+org.apache.camel.component.jmx.JMXComponent		0.7619048
+org.apache.camel.component.jmx.JMXEndpoint		0.18817204
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXEndpointTest_getJMXObjectNameWithProps_15
+org.apache.camel.component.jmx.JMXComponent		0.7619048
+org.apache.camel.component.jmx.JMXEndpoint		0.1827957
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXEndpointTest_getJMXObjectName_16
+org.apache.camel.component.jmx.JMXComponent		0.71428573
+org.apache.camel.component.jmx.JMXEndpoint		0.17741935
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXEndpointTest_noNotifyDifferOrNotifyMatch_11
+org.apache.camel.component.jmx.JMXComponent		0.71428573
+org.apache.camel.component.jmx.JMXEndpoint		0.2795699
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXEndpointTest_noNotifyHighOrNotifyLow_17
+org.apache.camel.component.jmx.JMXComponent		0.71428573
+org.apache.camel.component.jmx.JMXEndpoint		0.2580645
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXEndpointTest_noObservedAttribute_1
+org.apache.camel.component.jmx.JMXComponent		0.71428573
+org.apache.camel.component.jmx.JMXEndpoint		0.19354838
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXEndpointTest_noProducer_19
+org.apache.camel.component.jmx.JMXComponent		0.7619048
+org.apache.camel.component.jmx.JMXEndpoint		0.10752688
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXEndpointTest_noStringToCompare_l
+org.apache.camel.component.jmx.JMXComponent		0.71428573
+org.apache.camel.component.jmx.JMXEndpoint		0.23655914
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXEndpointTest_noThresholdHigh_18
+org.apache.camel.component.jmx.JMXComponent		0.71428573
+org.apache.camel.component.jmx.JMXEndpoint		0.29032257
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXEndpointTest_noThresholdLow_f
+org.apache.camel.component.jmx.JMXComponent		0.71428573
+org.apache.camel.component.jmx.JMXEndpoint		0.31182796
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXEndpointTest_platformServer_t
+org.apache.camel.component.jmx.JMXComponent		0.7619048
+org.apache.camel.component.jmx.JMXEndpoint		0.11827957
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXEndpointTest_remoteServerWithMonitor_x
+org.apache.camel.component.jmx.JMXComponent		0.7619048
+org.apache.camel.component.jmx.JMXEndpoint		0.17204301
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXEndpointTest_remoteServer_j
+org.apache.camel.component.jmx.JMXComponent		0.7619048
+org.apache.camel.component.jmx.JMXEndpoint		0.11827957
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXEndpointTest_setObjectNameThrowsWhenObjectPropertiesIsSet_v
+org.apache.camel.component.jmx.JMXComponent		0.0952381
+org.apache.camel.component.jmx.JMXEndpoint		0.07526882
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXHandbackTest
+JMXHandbackTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXHandbackTest_test_7
+org.apache.camel.component.jmx.JMXConsumer		0.0952381
+org.apache.camel.component.jmx.JMXEndpoint		0.021505376
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXMonitorTypeCounterTest
+JMXMonitorTypeCounterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXMonitorTypeCounterTest_counter_o
+org.apache.camel.component.jmx.NotificationXmlFormatter		0.35714287
+org.apache.camel.component.jmx.JMXConsumer		0.114285715
+org.apache.camel.component.jmx.JMXEndpoint		0.021505376
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXMonitorTypeGaugeTest
+JMXMonitorTypeGaugeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXMonitorTypeGaugeTest_gauge_5
+org.apache.camel.component.jmx.NotificationXmlFormatter		0.35714287
+org.apache.camel.component.jmx.JMXConsumer		0.114285715
+org.apache.camel.component.jmx.JMXEndpoint		0.021505376
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXMonitorTypeLongCounterTest
+JMXMonitorTypeLongCounterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXMonitorTypeLongCounterTest_counter_g
+org.apache.camel.component.jmx.NotificationXmlFormatter		0.3469388
+org.apache.camel.component.jmx.JMXConsumer		0.114285715
+org.apache.camel.component.jmx.JMXEndpoint		0.021505376
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXMonitorTypeStringDiffersTest
+JMXMonitorTypeStringDiffersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXMonitorTypeStringDiffersTest_differs_8
+org.apache.camel.component.jmx.NotificationXmlFormatter		0.3469388
+org.apache.camel.component.jmx.JMXConsumer		0.114285715
+org.apache.camel.component.jmx.JMXEndpoint		0.021505376
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXMonitorTypeStringMatchesTest
+JMXMonitorTypeStringMatchesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXMonitorTypeStringMatchesTest_matches_3
+org.apache.camel.component.jmx.NotificationXmlFormatter		0.3469388
+org.apache.camel.component.jmx.JMXConsumer		0.114285715
+org.apache.camel.component.jmx.JMXEndpoint		0.021505376
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXNotificationFilterTest
+JMXNotificationFilterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXNotificationFilterTest_testNotificationFilter_s
+org.apache.camel.component.jmx.JMXConsumer		0.0952381
+org.apache.camel.component.jmx.JMXEndpoint		0.021505376
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXObjectPropertiesTest
+JMXObjectPropertiesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXObjectPropertiesTest_testObjectProperties_i
+org.apache.camel.component.jmx.NotificationXmlFormatter		0.3877551
+org.apache.camel.component.jmx.JMXConsumer		0.114285715
+org.apache.camel.component.jmx.JMXEndpoint		0.021505376
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXRemoteTest
+JMXRemoteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXRemoteTest_notification_c
+org.apache.camel.component.jmx.NotificationXmlFormatter		0.3877551
+org.apache.camel.component.jmx.JMXConsumer		0.114285715
+org.apache.camel.component.jmx.JMXEndpoint		0.021505376
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXRobustRemoteConnectionTest
+JMXRobustRemoteConnectionTest		0.9767442
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXRobustRemoteConnectionTest_testRobustConnection_1b
+org.apache.camel.component.jmx.JMXConsumer.ConnectionNotificationListener		0.6666667
+org.apache.camel.component.jmx.JMXConsumer		0.61904764
+org.apache.camel.component.jmx.NotificationXmlFormatter		0.39795917
+org.apache.camel.component.jmx.JMXEndpoint		0.22580644
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXUriBuilderTest
+JMXUriBuilderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXUriBuilderTest_credentials_1c
+org.apache.camel.component.jmx.JMXUriBuilder		0.20560747
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXUriBuilderTest_defaultsToPlatform_13
+org.apache.camel.component.jmx.JMXUriBuilder		0.07476635
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXUriBuilderTest_format_1a
+org.apache.camel.component.jmx.JMXUriBuilder		0.17757009
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXUriBuilderTest_handback_e
+org.apache.camel.component.jmx.JMXUriBuilder		0.17757009
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXUriBuilderTest_notificationFilter_10
+org.apache.camel.component.jmx.JMXUriBuilder		0.17757009
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXUriBuilderTest_objectName_d
+org.apache.camel.component.jmx.JMXUriBuilder		0.20560747
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXUriBuilderTest_objectProperties_u
+org.apache.camel.component.jmx.JMXUriBuilder		0.18691589
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXUriBuilderTest_remote_w
+org.apache.camel.component.jmx.JMXUriBuilder		0.10280374
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXUriBuilderTest_withObjectPropertiesReferenceSansHashmark_0
+org.apache.camel.component.jmx.JMXUriBuilder		0.19626169
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXUriBuilderTest_withObjectPropertiesReference_r
+org.apache.camel.component.jmx.JMXUriBuilder		0.19626169
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/JMXUriBuilderTest_withServerName_z
+org.apache.camel.component.jmx.JMXUriBuilder		0.12149533
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/test-JMXComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/test-JMXConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/test-JMXEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/test-JMXHandbackTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/test-JMXMonitorTypeCounterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/test-JMXMonitorTypeGaugeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/test-JMXMonitorTypeLongCounterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/test-JMXMonitorTypeStringDiffersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/test-JMXMonitorTypeStringMatchesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/test-JMXNotificationFilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/test-JMXObjectPropertiesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/test-JMXRemoteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/test-JMXRobustRemoteConnectionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jmx/target/site/clover/org/apache/camel/component/jmx/test-JMXUriBuilderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

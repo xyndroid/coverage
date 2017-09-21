@@ -1,0 +1,551 @@
+./components/camel-openstack/target/site/clover/org/apache/camel
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/AbstractProducerTestSupport
+AbstractProducerTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/cinder/CinderProducerTestSupport
+CinderProducerTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/cinder/VolumeProducerTest
+VolumeProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/cinder/VolumeProducerTest_createVolumeTest_c
+createVolumeTest
+org.apache.camel.component.openstack.cinder.producer.VolumeProducer		0.17204301
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/cinder/VolumeProducerTest_deleteVolumeTest_1p
+deleteVolumeTest
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.21052632
+org.apache.camel.component.openstack.cinder.producer.VolumeProducer		0.12903225
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/cinder/VolumeProducerTest_getVolumeTest_13
+getVolumeTest
+org.apache.camel.component.openstack.cinder.producer.VolumeProducer		0.12903225
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/cinder/VolumeProducerTest_updateVolumeFailTest_1w
+updateVolumeFailTest
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.23684211
+org.apache.camel.component.openstack.cinder.producer.VolumeProducer		0.21505377
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/cinder/VolumeProducerTest_updateVolumeTest_1m
+updateVolumeTest
+org.apache.camel.component.openstack.cinder.producer.VolumeProducer		0.41935483
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/cinder/VolumeSnapshotProducerTest
+VolumeSnapshotProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/cinder/VolumeSnapshotProducerTest_createVolumeTest_2e
+createVolumeTest
+org.apache.camel.component.openstack.cinder.producer.SnapshotProducer		0.21917808
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/cinder/VolumeSnapshotProducerTest_deleteVolumeSnapshotTest_17
+deleteVolumeSnapshotTest
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.21052632
+org.apache.camel.component.openstack.cinder.producer.SnapshotProducer		0.16438356
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/cinder/VolumeSnapshotProducerTest_getVolumeSnapshotTest_1t
+getVolumeSnapshotTest
+org.apache.camel.component.openstack.cinder.producer.SnapshotProducer		0.16438356
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/cinder/VolumeSnapshotProducerTest_updateVolumeSnapshotTest_1c
+updateVolumeSnapshotTest
+org.apache.camel.component.openstack.cinder.producer.SnapshotProducer		0.42465752
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/cinder/test-CinderProducerTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/cinder/test-VolumeProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/cinder/test-VolumeSnapshotProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/glance/GlanceProducerTest
+GlanceProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/glance/GlanceProducerTest_createTest_1g
+createTest
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.5
+org.apache.camel.component.openstack.glance.GlanceProducer		0.39534885
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/glance/GlanceProducerTest_reserveTest_w
+reserveTest
+org.apache.camel.component.openstack.glance.GlanceProducer		0.11627907
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/glance/GlanceProducerTest_reserveWithHeadersTest_2
+reserveWithHeadersTest
+org.apache.camel.component.openstack.glance.GlanceProducer		0.42635658
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/glance/GlanceProducerTest_updateTest_g
+updateTest
+org.apache.camel.component.openstack.glance.GlanceProducer		0.12403101
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/glance/GlanceProducerTest_uploadWithUpdatingTest_1v
+uploadWithUpdatingTest
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.5
+org.apache.camel.component.openstack.glance.GlanceProducer		0.4108527
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/glance/GlanceProducerTest_uploadWithoutUpdatingTest_1b
+uploadWithoutUpdatingTest
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.5
+org.apache.camel.component.openstack.glance.GlanceProducer		0.31782946
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/glance/test-GlanceProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/DomainProducerTest
+DomainProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/DomainProducerTest_createTest_9
+createTest
+org.apache.camel.component.openstack.keystone.producer.DomainProducer		0.37704918
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/DomainProducerTest_deleteTest_3
+deleteTest
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.2631579
+org.apache.camel.component.openstack.keystone.producer.DomainProducer		0.19672132
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/DomainProducerTest_getAllTest_1y
+getAllTest
+org.apache.camel.component.openstack.keystone.producer.DomainProducer		0.14754099
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/DomainProducerTest_getTest_15
+getTest
+org.apache.camel.component.openstack.keystone.producer.DomainProducer		0.19672132
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/DomainProducerTest_updateTest_21
+updateTest
+org.apache.camel.component.openstack.keystone.producer.DomainProducer		0.26229507
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/GroupProducerTest
+GroupProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/GroupProducerTest_createTest_1s
+createTest
+org.apache.camel.component.openstack.keystone.producer.GroupProducer		0.26530612
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/GroupProducerTest_deleteTest_1i
+deleteTest
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.2631579
+org.apache.camel.component.openstack.keystone.producer.GroupProducer		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/GroupProducerTest_getAllTest_1a
+getAllTest
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+org.apache.camel.component.openstack.keystone.producer.GroupProducer		0.091836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/GroupProducerTest_getTest_h
+getTest
+org.apache.camel.component.openstack.keystone.producer.GroupProducer		0.12244898
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/GroupProducerTest_updateTest_j
+updateTest
+org.apache.camel.component.openstack.keystone.producer.GroupProducer		0.1632653
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/KeystoneProducerTestSupport
+KeystoneProducerTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/ProjectProducerTest
+ProjectProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/ProjectProducerTest_createTest_f
+createTest
+org.apache.camel.component.openstack.keystone.producer.ProjectProducer		0.42028984
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/ProjectProducerTest_deleteTest_2b
+deleteTest
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.2631579
+org.apache.camel.component.openstack.keystone.producer.ProjectProducer		0.17391305
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/ProjectProducerTest_getAllTest_25
+getAllTest
+org.apache.camel.component.openstack.keystone.producer.ProjectProducer		0.13043478
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/ProjectProducerTest_getTest_6
+getTest
+org.apache.camel.component.openstack.keystone.producer.ProjectProducer		0.17391305
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/ProjectProducerTest_updateTest_4
+updateTest
+org.apache.camel.component.openstack.keystone.producer.ProjectProducer		0.23188406
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/RegionProducerTest
+RegionProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/RegionProducerTest_createTest_1r
+createTest
+org.apache.camel.component.openstack.keystone.producer.RegionProducer		0.36206895
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/RegionProducerTest_deleteTest_l
+deleteTest
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.2631579
+org.apache.camel.component.openstack.keystone.producer.RegionProducer		0.20689656
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/RegionProducerTest_getAllTest_2a
+getAllTest
+org.apache.camel.component.openstack.keystone.producer.RegionProducer		0.15517241
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/RegionProducerTest_getTest_n
+getTest
+org.apache.camel.component.openstack.keystone.producer.RegionProducer		0.18965517
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/RegionProducerTest_updateTest_1k
+updateTest
+org.apache.camel.component.openstack.keystone.producer.RegionProducer		0.27586207
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/UserProducerTest
+UserProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/UserProducerTest_createTest_23
+createTest
+org.apache.camel.component.openstack.keystone.producer.UserProducer		0.43835616
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/UserProducerTest_deleteTest_20
+deleteTest
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.2631579
+org.apache.camel.component.openstack.keystone.producer.UserProducer		0.16438356
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/UserProducerTest_getAllTest_1d
+getAllTest
+org.apache.camel.component.openstack.keystone.producer.UserProducer		0.12328767
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/UserProducerTest_getTest_18
+getTest
+org.apache.camel.component.openstack.keystone.producer.UserProducer		0.16438356
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/UserProducerTest_updateTest_10
+updateTest
+org.apache.camel.component.openstack.keystone.producer.UserProducer		0.21917808
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/test-DomainProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/test-GroupProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/test-KeystoneProducerTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/test-ProjectProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/test-RegionProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/keystone/test-UserProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/neutron/NetworkProducerTest
+NetworkProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/neutron/NetworkProducerTest_createTest_5
+createTest
+org.apache.camel.component.openstack.neutron.producer.NetworkProducer		0.46753246
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/neutron/NetworkProducerTest_deleteTest_y
+deleteTest
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.2631579
+org.apache.camel.component.openstack.neutron.producer.NetworkProducer		0.15584415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/neutron/NetworkProducerTest_getAllTest_19
+getAllTest
+org.apache.camel.component.openstack.neutron.producer.NetworkProducer		0.116883114
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/neutron/NetworkProducerTest_getTest_0
+getTest
+org.apache.camel.component.openstack.neutron.producer.NetworkProducer		0.15584415
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/neutron/NeutronProducerTestSupport
+NeutronProducerTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/neutron/PortProducerTest
+PortProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/neutron/PortProducerTest_createTest_k
+createTest
+org.apache.camel.component.openstack.neutron.producer.PortProducer		0.43835616
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/neutron/PortProducerTest_deleteTest_p
+deleteTest
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.2631579
+org.apache.camel.component.openstack.neutron.producer.PortProducer		0.16438356
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/neutron/PortProducerTest_getAllTest_16
+getAllTest
+org.apache.camel.component.openstack.neutron.producer.PortProducer		0.12328767
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/neutron/PortProducerTest_getTest_2d
+getTest
+org.apache.camel.component.openstack.neutron.producer.PortProducer		0.16438356
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/neutron/PortProducerTest_updateTest_z
+updateTest
+org.apache.camel.component.openstack.neutron.producer.PortProducer		0.21917808
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/neutron/RouterProducerTest
+RouterProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/neutron/RouterProducerTest_attachTest_8
+attachTest
+org.apache.camel.component.openstack.neutron.producer.RouterProducer		0.1882353
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/neutron/RouterProducerTest_createTest_a
+createTest
+org.apache.camel.component.openstack.neutron.producer.RouterProducer		0.27058825
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/neutron/RouterProducerTest_deleteTest_r
+deleteTest
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.2631579
+org.apache.camel.component.openstack.neutron.producer.RouterProducer		0.14117648
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/neutron/RouterProducerTest_detachTest_i
+detachTest
+org.apache.camel.component.openstack.neutron.producer.RouterProducer		0.16470589
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/neutron/RouterProducerTest_getAllTest_o
+getAllTest
+org.apache.camel.component.openstack.neutron.producer.RouterProducer		0.105882354
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/neutron/RouterProducerTest_getTest_1u
+getTest
+org.apache.camel.component.openstack.neutron.producer.RouterProducer		0.14117648
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/neutron/RouterProducerTest_updateTest_v
+updateTest
+org.apache.camel.component.openstack.neutron.producer.RouterProducer		0.1882353
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/neutron/SubnetProducerTest
+SubnetProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/neutron/SubnetProducerTest_createTest_12
+createTest
+org.apache.camel.component.openstack.neutron.producer.SubnetProducer		0.47297296
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/neutron/SubnetProducerTest_deleteTest_7
+deleteTest
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.2631579
+org.apache.camel.component.openstack.neutron.producer.SubnetProducer		0.16216215
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/neutron/SubnetProducerTest_getAllTest_29
+getAllTest
+org.apache.camel.component.openstack.neutron.producer.SubnetProducer		0.12162162
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/neutron/SubnetProducerTest_getTest_t
+getTest
+org.apache.camel.component.openstack.neutron.producer.SubnetProducer		0.16216215
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/neutron/test-NetworkProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/neutron/test-NeutronProducerTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/neutron/test-PortProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/neutron/test-RouterProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/neutron/test-SubnetProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/nova/FlavorProducerTest
+FlavorProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/nova/FlavorProducerTest_createFlavorWithHeaders_q
+createFlavorWithHeaders
+org.apache.camel.component.openstack.nova.producer.FlavorsProducer		0.49275362
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/nova/FlavorProducerTest_createFlavor_1j
+createFlavor
+org.apache.camel.component.openstack.nova.producer.FlavorsProducer		0.2173913
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/nova/FlavorProducerTest_deleteFailure_1x
+deleteFailure
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.23684211
+org.apache.camel.component.openstack.nova.producer.FlavorsProducer		0.17391305
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/nova/FlavorProducerTest_deleteSuccess_28
+deleteSuccess
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.21052632
+org.apache.camel.component.openstack.nova.producer.FlavorsProducer		0.17391305
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/nova/FlavorProducerTest_getAllTest_2c
+getAllTest
+org.apache.camel.component.openstack.nova.producer.FlavorsProducer		0.13043478
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/nova/FlavorProducerTest_getTest_u
+getTest
+org.apache.camel.component.openstack.nova.producer.FlavorsProducer		0.17391305
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/nova/KeypairProducerTest
+KeypairProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/nova/KeypairProducerTest_createKeypairFromExisting_1o
+createKeypairFromExisting
+org.apache.camel.component.openstack.nova.producer.KeypairProducer		0.30952382
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/nova/KeypairProducerTest_createKeypair_1n
+createKeypair
+org.apache.camel.component.openstack.nova.producer.KeypairProducer		0.30952382
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/nova/NovaProducerTestSupport
+NovaProducerTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/nova/ServerProducerTest
+ServerProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/nova/ServerProducerTest_createServerWithHeaders_26
+createServerWithHeaders
+org.apache.camel.component.openstack.nova.producer.ServerProducer		0.33684212
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/nova/ServerProducerTest_createServer_24
+createServer
+org.apache.camel.component.openstack.nova.producer.ServerProducer		0.15789473
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/nova/ServerProducerTest_createSnapshot_s
+createSnapshot
+org.apache.camel.component.openstack.nova.producer.ServerProducer		0.14736842
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/nova/ServerProducerTest_serverAction_1l
+serverAction
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.2631579
+org.apache.camel.component.openstack.nova.producer.ServerProducer		0.14736842
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/nova/test-FlavorProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/nova/test-KeypairProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/nova/test-NovaProducerTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/nova/test-ServerProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/swift/ContainerProducerTest
+ContainerProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/swift/ContainerProducerTest_createTestWithOptions_22
+createTestWithOptions
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.21052632
+org.apache.camel.component.openstack.swift.producer.ContainerProducer		0.12587413
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/swift/ContainerProducerTest_createTestWithoutOptions_11
+createTestWithoutOptions
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.21052632
+org.apache.camel.component.openstack.swift.producer.ContainerProducer		0.18881118
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/swift/ContainerProducerTest_createUpdateMetadataTest_1f
+createUpdateMetadataTest
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+org.apache.camel.component.openstack.swift.producer.ContainerProducer		0.10489511
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/swift/ContainerProducerTest_deleteObjectFailTest_b
+deleteObjectFailTest
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.23684211
+org.apache.camel.component.openstack.swift.producer.ContainerProducer		0.08391608
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/swift/ContainerProducerTest_deleteObjectTest_27
+deleteObjectTest
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.21052632
+org.apache.camel.component.openstack.swift.producer.ContainerProducer		0.08391608
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/swift/ContainerProducerTest_getAllFromContainerTest_x
+getAllFromContainerTest
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+org.apache.camel.component.openstack.swift.producer.ContainerProducer		0.06993007
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/swift/ContainerProducerTest_getMetadataTest_e
+getMetadataTest
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+org.apache.camel.component.openstack.swift.producer.ContainerProducer		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/swift/ContainerProducerTest_getTest_d
+getTest
+org.apache.camel.component.openstack.swift.producer.ContainerProducer		0.23076923
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/swift/ObjectProducerTest
+ObjectProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/swift/ObjectProducerTest_createTest_m
+createTest
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.23684211
+org.apache.camel.component.openstack.swift.producer.ObjectProducer		0.19736843
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/swift/ObjectProducerTest_deleteObjectFailTest_1
+deleteObjectFailTest
+org.apache.camel.component.openstack.swift.producer.ObjectProducer		0.19736843
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/swift/ObjectProducerTest_deleteObjectTest_1e
+deleteObjectTest
+org.apache.camel.component.openstack.swift.producer.ObjectProducer		0.19736843
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/swift/ObjectProducerTest_getAllFromContainerTest_1h
+getAllFromContainerTest
+org.apache.camel.component.openstack.swift.producer.ObjectProducer		0.15789473
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/swift/ObjectProducerTest_getMetadataTest_1z
+getMetadataTest
+org.apache.camel.component.openstack.swift.producer.ObjectProducer		0.17105263
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/swift/ObjectProducerTest_getTest_1q
+getTest
+org.apache.camel.component.openstack.swift.producer.ObjectProducer		0.18421052
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/swift/ObjectProducerTest_updateMetadataTest_14
+updateMetadataTest
+org.apache.camel.component.openstack.swift.producer.ObjectProducer		0.2236842
+org.apache.camel.component.openstack.common.AbstractOpenstackProducer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/swift/SwiftProducerTestSupport
+SwiftProducerTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/swift/test-ContainerProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/swift/test-ObjectProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/swift/test-SwiftProducerTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openstack/target/site/clover/org/apache/camel/component/openstack/test-AbstractProducerTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --

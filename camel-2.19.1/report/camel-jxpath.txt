@@ -1,0 +1,100 @@
+./components/camel-jxpath/target/site/clover/org/apache/camel
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/BeanWithJXPathInjectionTest
+BeanWithJXPathInjectionTest		1.0
+BeanWithJXPathInjectionTest.MyBean		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/BeanWithJXPathInjectionTest_testSendMessage_6
+org.apache.camel.language.jxpath.JXPathExpression		0.45454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/BeanWithJXPathInjectionTest_testSendNullMessage_8
+org.apache.camel.language.jxpath.JXPathExpression		0.45454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/JXPathFilterHeaderTest
+JXPathFilterHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/JXPathFilterHeaderTest_testSendMatchingMessage_3
+org.apache.camel.language.jxpath.JXPathExpression		0.45454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/JXPathFilterHeaderTest_testSendNotMatchingMessage_1
+org.apache.camel.language.jxpath.JXPathExpression		0.45454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/JXPathFilterLenientTest
+JXPathFilterLenientTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/JXPathFilterLenientTest_testLenient_b
+org.apache.camel.language.jxpath.JXPathExpression		0.45454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/JXPathFilterNotLenientTest
+JXPathFilterNotLenientTest		0.9166667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/JXPathFilterNotLenientTest_testNotLenient_2
+org.apache.camel.language.jxpath.JXPathExpression		0.3939394
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/JXPathFilterTest
+JXPathFilterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/JXPathFilterTest_testSendMatchingMessage_0
+org.apache.camel.language.jxpath.JXPathExpression		0.45454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/JXPathFilterTest_testSendNotMatchingMessage_c
+org.apache.camel.language.jxpath.JXPathExpression		0.45454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/JXPathFilterTest_testSendNullMessage_d
+org.apache.camel.language.jxpath.JXPathExpression		0.45454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/JXPathResourceTest
+JXPathResourceTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/JXPathResourceTest_testJXPathResource_a
+org.apache.camel.language.jxpath.JXPathExpression		0.45454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/JXPathTest
+JXPathTest		0.90909094
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/JXPathTest_testExceptions_5
+org.apache.camel.language.jxpath.JXPathExpression		0.45454547
+org.apache.camel.language.jxpath.JXPathLanguage		0.41666666
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/JXPathTest_testJXPathExpressions_7
+org.apache.camel.language.jxpath.JXPathExpression		0.6363636
+org.apache.camel.language.jxpath.JXPathLanguage		0.41666666
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/JXPathTest_testJXPathPredicates_e
+org.apache.camel.language.jxpath.JXPathExpression		0.6666667
+org.apache.camel.language.jxpath.JXPathLanguage		0.41666666
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/SpringJXPathFilterLenientTest
+SpringJXPathFilterLenientTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/SpringJXPathFilterLenientTest_testLenient_4
+org.apache.camel.language.jxpath.JXPathExpression		0.45454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/SpringJXPathFilterTest
+SpringJXPathFilterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/SpringJXPathFilterTest_testMatching_9
+org.apache.camel.language.jxpath.JXPathExpression		0.45454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/SpringJXPathFilterTest_testNotMatching_f
+org.apache.camel.language.jxpath.JXPathExpression		0.45454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/test-BeanWithJXPathInjectionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/test-BeanWithJXPathInjectionTest_MyBean
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/test-JXPathFilterHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/test-JXPathFilterLenientTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/test-JXPathFilterNotLenientTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/test-JXPathFilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/test-JXPathResourceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/test-JXPathTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/test-SpringJXPathFilterLenientTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jxpath/target/site/clover/org/apache/camel/language/jxpath/test-SpringJXPathFilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

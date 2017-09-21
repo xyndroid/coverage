@@ -1,0 +1,22 @@
+./platforms/spring-boot/components-starter/camel-dns-starter/target/site/clover/org/apache/camel
+./platforms/spring-boot/components-starter/camel-dns-starter/target/site/clover/org/apache/camel/component/dns/springboot/cloud/DnsServiceDiscoveryDisabledTest
+DnsServiceDiscoveryDisabledTest		1.0
+DnsServiceDiscoveryDisabledTest.TestConfiguration		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-dns-starter/target/site/clover/org/apache/camel/component/dns/springboot/cloud/DnsServiceDiscoveryDisabledTest_testConfiguration_1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-dns-starter/target/site/clover/org/apache/camel/component/dns/springboot/cloud/DnsServiceDiscoveryEnabledTest
+DnsServiceDiscoveryEnabledTest		1.0
+DnsServiceDiscoveryEnabledTest.TestConfiguration		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-dns-starter/target/site/clover/org/apache/camel/component/dns/springboot/cloud/DnsServiceDiscoveryEnabledTest_testConfiguration_0
+org.apache.camel.component.dns.springboot.cloud.DnsCloudAutoConfiguration		0.23529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-dns-starter/target/site/clover/org/apache/camel/component/dns/springboot/cloud/test-DnsServiceDiscoveryDisabledTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-dns-starter/target/site/clover/org/apache/camel/component/dns/springboot/cloud/test-DnsServiceDiscoveryDisabledTest_TestConfiguration
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-dns-starter/target/site/clover/org/apache/camel/component/dns/springboot/cloud/test-DnsServiceDiscoveryEnabledTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-dns-starter/target/site/clover/org/apache/camel/component/dns/springboot/cloud/test-DnsServiceDiscoveryEnabledTest_TestConfiguration
+-- -- -- -- -- -- -- -- -- -- -- -- --

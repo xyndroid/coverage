@@ -1,0 +1,804 @@
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestAutoInputFormat
+TestAutoInputFormat		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestAutoInputFormat_testFormat_10
+org.apache.hadoop.streaming.AutoInputFormat		0.8333333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestClassWithNoPackage
+TestClassWithNoPackage		0.8181818
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestClassWithNoPackage_testGoodClassOrNull_1
+org.apache.hadoop.streaming.Environment		0.5205479
+org.apache.hadoop.streaming.StreamUtil		0.10091743
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestDumpTypedBytes
+TestDumpTypedBytes		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestDumpTypedBytes_testDumping_2
+org.apache.hadoop.typedbytes.Type		1.0
+org.apache.hadoop.streaming.AutoInputFormat		0.7222222
+org.apache.hadoop.streaming.DumpTypedBytes		0.64179105
+org.apache.hadoop.typedbytes.TypedBytesWritableOutput		0.328
+org.apache.hadoop.typedbytes.TypedBytesOutput		0.12820514
+org.apache.hadoop.typedbytes.TypedBytesInput		0.10948905
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestFileArgs
+TestFileArgs		0.95
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestFileArgs_testCommandLine_14
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.JarBuilder		0.57419354
+org.apache.hadoop.streaming.Environment		0.5205479
+org.apache.hadoop.streaming.StreamJob		0.48820058
+org.apache.hadoop.streaming.StreamUtil		0.48623854
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestGzipInput
+TestGzipInput		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestGzipInput_testCommandLine_1a
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.PipeMapRunner		1.0
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.82857144
+org.apache.hadoop.streaming.io.TextOutputReader		0.75555557
+org.apache.hadoop.streaming.io.TextInputWriter		0.7241379
+org.apache.hadoop.streaming.PipeMapRed		0.7089552
+org.apache.hadoop.streaming.PipeMapper		0.67164177
+org.apache.hadoop.streaming.PipeReducer		0.6621622
+org.apache.hadoop.streaming.Environment		0.65753424
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.6025641
+org.apache.hadoop.streaming.StreamUtil		0.49541286
+org.apache.hadoop.streaming.StreamJob		0.4159292
+org.apache.hadoop.streaming.StreamKeyValUtil		0.2413793
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestLoadTypedBytes
+TestLoadTypedBytes		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestLoadTypedBytes_testLoading_z
+org.apache.hadoop.typedbytes.Type		1.0
+org.apache.hadoop.streaming.LoadTypedBytes		0.5869565
+org.apache.hadoop.typedbytes.TypedBytesWritable		0.3030303
+org.apache.hadoop.typedbytes.TypedBytesInput		0.2810219
+org.apache.hadoop.typedbytes.TypedBytesOutput		0.23931624
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestMRFramework
+TestMRFramework		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestMRFramework_testFramework_17
+org.apache.hadoop.streaming.Environment		0.5205479
+org.apache.hadoop.streaming.StreamUtil		0.06422018
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestMultipleArchiveFiles
+TestMultipleArchiveFiles		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestMultipleArchiveFiles_testCommandLine_1f
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.Environment		0.5205479
+org.apache.hadoop.streaming.JarBuilder		0.5032258
+org.apache.hadoop.streaming.StreamUtil		0.48623854
+org.apache.hadoop.streaming.StreamJob		0.46460176
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestMultipleCachefiles
+TestMultipleCachefiles		0.9298246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestMultipleCachefiles_testMultipleCachefiles_t
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.Environment		0.5205479
+org.apache.hadoop.streaming.JarBuilder		0.5032258
+org.apache.hadoop.streaming.StreamJob		0.46460176
+org.apache.hadoop.streaming.StreamUtil		0.39449543
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestRawBytesStreaming
+TestRawBytesStreaming		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestRawBytesStreaming_testCommandLine_g
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.PipeMapRunner		1.0
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.82857144
+org.apache.hadoop.streaming.io.RawBytesOutputReader		0.8181818
+org.apache.hadoop.streaming.io.IdentifierResolver		0.7619048
+org.apache.hadoop.streaming.io.RawBytesInputWriter		0.73913044
+org.apache.hadoop.streaming.PipeMapRed		0.7089552
+org.apache.hadoop.streaming.io.TextOutputReader		0.6888889
+org.apache.hadoop.streaming.Environment		0.65753424
+org.apache.hadoop.streaming.PipeReducer		0.6351351
+org.apache.hadoop.streaming.io.TextInputWriter		0.62068963
+org.apache.hadoop.streaming.PipeMapper		0.6119403
+org.apache.hadoop.streaming.StreamUtil		0.49541286
+org.apache.hadoop.streaming.StreamJob		0.42330384
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.2820513
+org.apache.hadoop.streaming.StreamKeyValUtil		0.2413793
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamAggregate
+TestStreamAggregate		0.9285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamAggregate_testCommandLine_1k
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.PipeMapRunner		1.0
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.82857144
+org.apache.hadoop.streaming.PipeMapRed		0.7089552
+org.apache.hadoop.streaming.io.TextOutputReader		0.6888889
+org.apache.hadoop.streaming.PipeMapper		0.67164177
+org.apache.hadoop.streaming.Environment		0.65753424
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.io.TextInputWriter		0.62068963
+org.apache.hadoop.streaming.StreamUtil		0.49541286
+org.apache.hadoop.streaming.StreamJob		0.40855458
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.2820513
+org.apache.hadoop.streaming.StreamKeyValUtil		0.2413793
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamDataProtocol
+TestStreamDataProtocol		0.9310345
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamDataProtocol_testCommandLine_18
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.PipeMapRunner		1.0
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.82857144
+org.apache.hadoop.streaming.io.TextOutputReader		0.73333335
+org.apache.hadoop.streaming.PipeMapRed		0.7089552
+org.apache.hadoop.streaming.PipeMapper		0.67164177
+org.apache.hadoop.streaming.Environment		0.65753424
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.io.TextInputWriter		0.62068963
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.6025641
+org.apache.hadoop.streaming.StreamUtil		0.5045872
+org.apache.hadoop.streaming.StreamJob		0.41740412
+org.apache.hadoop.streaming.StreamKeyValUtil		0.2413793
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamJob
+TestStreamJob		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamJob_testCreateJobWithExtraArgs_1e
+org.apache.hadoop.streaming.Environment		0.42465752
+org.apache.hadoop.streaming.StreamJob		0.0899705
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamJob_testCreateJob_v
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.Environment		0.5205479
+org.apache.hadoop.streaming.StreamJob		0.41887906
+org.apache.hadoop.streaming.StreamUtil		0.39449543
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamJob_testOptions_12
+org.apache.hadoop.streaming.Environment		0.42465752
+org.apache.hadoop.streaming.StreamJob		0.30973452
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamReduceNone
+TestStreamReduceNone		0.9310345
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamReduceNone_testCommandLine_b
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.PipeMapRunner		1.0
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.82857144
+org.apache.hadoop.streaming.io.TextOutputReader		0.7111111
+org.apache.hadoop.streaming.PipeMapRed		0.7089552
+org.apache.hadoop.streaming.PipeMapper		0.67164177
+org.apache.hadoop.streaming.Environment		0.65753424
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.io.TextInputWriter		0.62068963
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.6025641
+org.apache.hadoop.streaming.StreamUtil		0.49541286
+org.apache.hadoop.streaming.StreamJob		0.40855458
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamXmlMultipleRecords
+TestStreamXmlMultipleRecords		0.84313726
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamXmlMultipleRecords_testCommandLine_15
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.PipeMapRunner		1.0
+org.apache.hadoop.streaming.StreamBaseRecordReader		0.8979592
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.82857144
+org.apache.hadoop.streaming.StreamInputFormat		0.7692308
+org.apache.hadoop.streaming.PipeMapRed		0.76492536
+org.apache.hadoop.streaming.io.TextInputWriter		0.7241379
+org.apache.hadoop.streaming.io.TextOutputReader		0.6888889
+org.apache.hadoop.streaming.PipeMapper		0.6865672
+org.apache.hadoop.streaming.PipeReducer		0.6621622
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.Environment		0.56164384
+org.apache.hadoop.streaming.PathFinder		0.5
+org.apache.hadoop.streaming.StreamUtil		0.49541286
+org.apache.hadoop.streaming.StreamXmlRecordReader		0.45023698
+org.apache.hadoop.streaming.StreamJob		0.43952802
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.2820513
+org.apache.hadoop.streaming.StreamKeyValUtil		0.2413793
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamXmlMultipleRecords_testCommandLine_19
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.PipeMapRunner		1.0
+org.apache.hadoop.streaming.StreamBaseRecordReader		0.8979592
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.82857144
+org.apache.hadoop.streaming.StreamInputFormat		0.7692308
+org.apache.hadoop.streaming.PipeMapRed		0.76492536
+org.apache.hadoop.streaming.io.TextInputWriter		0.7241379
+org.apache.hadoop.streaming.io.TextOutputReader		0.6888889
+org.apache.hadoop.streaming.PipeMapper		0.6865672
+org.apache.hadoop.streaming.PipeReducer		0.6621622
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.StreamXmlRecordReader		0.63033175
+org.apache.hadoop.streaming.StreamUtil		0.6146789
+org.apache.hadoop.streaming.Environment		0.56164384
+org.apache.hadoop.streaming.PathFinder		0.5
+org.apache.hadoop.streaming.StreamJob		0.43952802
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.2820513
+org.apache.hadoop.streaming.StreamKeyValUtil		0.2413793
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamXmlMultipleRecords_testCommandLine_1l
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamXmlMultipleRecords_testCommandLine_4
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.PipeMapRunner		1.0
+org.apache.hadoop.streaming.StreamBaseRecordReader		0.8979592
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.82857144
+org.apache.hadoop.streaming.StreamInputFormat		0.7692308
+org.apache.hadoop.streaming.PipeMapRed		0.76492536
+org.apache.hadoop.streaming.io.TextInputWriter		0.7241379
+org.apache.hadoop.streaming.io.TextOutputReader		0.6888889
+org.apache.hadoop.streaming.PipeMapper		0.6865672
+org.apache.hadoop.streaming.PipeReducer		0.6621622
+org.apache.hadoop.streaming.Environment		0.65753424
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.StreamUtil		0.5321101
+org.apache.hadoop.streaming.PathFinder		0.5
+org.apache.hadoop.streaming.StreamXmlRecordReader		0.4407583
+org.apache.hadoop.streaming.StreamJob		0.43952802
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.2820513
+org.apache.hadoop.streaming.StreamKeyValUtil		0.2413793
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamXmlMultipleRecords_testCommandLine_n
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.PipeMapRunner		1.0
+org.apache.hadoop.streaming.StreamBaseRecordReader		0.8979592
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.82857144
+org.apache.hadoop.streaming.StreamInputFormat		0.7692308
+org.apache.hadoop.streaming.PipeMapRed		0.76492536
+org.apache.hadoop.streaming.io.TextInputWriter		0.7241379
+org.apache.hadoop.streaming.io.TextOutputReader		0.6888889
+org.apache.hadoop.streaming.PipeMapper		0.6865672
+org.apache.hadoop.streaming.PipeReducer		0.6621622
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.StreamXmlRecordReader		0.63981044
+org.apache.hadoop.streaming.StreamUtil		0.6146789
+org.apache.hadoop.streaming.Environment		0.56164384
+org.apache.hadoop.streaming.PathFinder		0.5
+org.apache.hadoop.streaming.StreamJob		0.43952802
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.2820513
+org.apache.hadoop.streaming.StreamKeyValUtil		0.2413793
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamXmlRecordReader
+TestStreamXmlRecordReader		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamXmlRecordReader_testCommandLine_s
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.PipeMapRunner		1.0
+org.apache.hadoop.streaming.StreamBaseRecordReader		0.8979592
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.82857144
+org.apache.hadoop.streaming.StreamInputFormat		0.7692308
+org.apache.hadoop.streaming.io.TextInputWriter		0.7241379
+org.apache.hadoop.streaming.io.TextOutputReader		0.6888889
+org.apache.hadoop.streaming.PipeMapper		0.6865672
+org.apache.hadoop.streaming.PipeMapRed		0.6828358
+org.apache.hadoop.streaming.Environment		0.65753424
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.StreamUtil		0.5321101
+org.apache.hadoop.streaming.PathFinder		0.5
+org.apache.hadoop.streaming.StreamXmlRecordReader		0.43127963
+org.apache.hadoop.streaming.StreamJob		0.42625368
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.2820513
+org.apache.hadoop.streaming.StreamKeyValUtil		0.2413793
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreaming
+TestStreaming		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingBackground
+TestStreamingBackground		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingBackground_testBackgroundSubmitOk_m
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.Environment		0.5205479
+org.apache.hadoop.streaming.StreamJob		0.41445428
+org.apache.hadoop.streaming.StreamUtil		0.36697248
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingBadRecords
+TestStreamingBadRecords		0.1369863
+TestStreamingBadRecords.App		0.0
+TestStreamingBadRecords.BadApp		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingBadRecords_testNoOp_1j
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingCombiner
+TestStreamingCombiner		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingCombiner_testCommandLine_8
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.PipeMapRunner		1.0
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.82857144
+org.apache.hadoop.streaming.io.TextOutputReader		0.75555557
+org.apache.hadoop.streaming.PipeCombiner		0.72727275
+org.apache.hadoop.streaming.io.TextInputWriter		0.7241379
+org.apache.hadoop.streaming.PipeMapRed		0.7089552
+org.apache.hadoop.streaming.PipeMapper		0.67164177
+org.apache.hadoop.streaming.PipeReducer		0.6621622
+org.apache.hadoop.streaming.Environment		0.65753424
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.6025641
+org.apache.hadoop.streaming.StreamUtil		0.49541286
+org.apache.hadoop.streaming.StreamJob		0.4218289
+org.apache.hadoop.streaming.StreamKeyValUtil		0.2413793
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingCounters
+TestStreamingCounters		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingCounters_testCommandLine_1g
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.PipeMapRunner		1.0
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.82857144
+org.apache.hadoop.streaming.io.TextOutputReader		0.75555557
+org.apache.hadoop.streaming.io.TextInputWriter		0.7241379
+org.apache.hadoop.streaming.PipeMapRed		0.7089552
+org.apache.hadoop.streaming.PipeMapper		0.67164177
+org.apache.hadoop.streaming.PipeReducer		0.6621622
+org.apache.hadoop.streaming.Environment		0.65753424
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.6025641
+org.apache.hadoop.streaming.StreamUtil		0.49541286
+org.apache.hadoop.streaming.StreamJob		0.4159292
+org.apache.hadoop.streaming.StreamKeyValUtil		0.2413793
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingExitStatus
+TestStreamingExitStatus		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingExitStatus_testMapFailNotOk_a
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.PipeMapRunner		1.0
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.8
+org.apache.hadoop.streaming.io.TextOutputReader		0.7111111
+org.apache.hadoop.streaming.PipeMapRed		0.6791045
+org.apache.hadoop.streaming.PipeMapper		0.67164177
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.io.TextInputWriter		0.62068963
+org.apache.hadoop.streaming.Environment		0.56164384
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.46153846
+org.apache.hadoop.streaming.StreamJob		0.4159292
+org.apache.hadoop.streaming.StreamUtil		0.36697248
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingExitStatus_testMapFailOk_6
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.PipeMapRunner		1.0
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.8
+org.apache.hadoop.streaming.io.TextOutputReader		0.75555557
+org.apache.hadoop.streaming.io.TextInputWriter		0.7241379
+org.apache.hadoop.streaming.PipeMapRed		0.7201493
+org.apache.hadoop.streaming.PipeMapper		0.67164177
+org.apache.hadoop.streaming.PipeReducer		0.6486486
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.Environment		0.56164384
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.46153846
+org.apache.hadoop.streaming.StreamJob		0.4159292
+org.apache.hadoop.streaming.StreamUtil		0.36697248
+org.apache.hadoop.streaming.StreamKeyValUtil		0.2413793
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingExitStatus_testReduceFailNotOk_j
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.PipeMapRunner		1.0
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.8
+org.apache.hadoop.streaming.io.TextOutputReader		0.75555557
+org.apache.hadoop.streaming.PipeMapRed		0.72761196
+org.apache.hadoop.streaming.io.TextInputWriter		0.7241379
+org.apache.hadoop.streaming.PipeMapper		0.67164177
+org.apache.hadoop.streaming.Environment		0.65753424
+org.apache.hadoop.streaming.PipeReducer		0.6486486
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.46153846
+org.apache.hadoop.streaming.StreamJob		0.4159292
+org.apache.hadoop.streaming.StreamUtil		0.40366971
+org.apache.hadoop.streaming.StreamKeyValUtil		0.2413793
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingExitStatus_testReduceFailOk_p
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.PipeMapRunner		1.0
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.8
+org.apache.hadoop.streaming.io.TextOutputReader		0.75555557
+org.apache.hadoop.streaming.io.TextInputWriter		0.7241379
+org.apache.hadoop.streaming.PipeMapRed		0.7201493
+org.apache.hadoop.streaming.PipeMapper		0.67164177
+org.apache.hadoop.streaming.PipeReducer		0.6486486
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.Environment		0.56164384
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.46153846
+org.apache.hadoop.streaming.StreamJob		0.4159292
+org.apache.hadoop.streaming.StreamUtil		0.36697248
+org.apache.hadoop.streaming.StreamKeyValUtil		0.2413793
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingFailure
+TestStreamingFailure		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingFailure_testCommandLine_1d
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.Environment		0.5205479
+org.apache.hadoop.streaming.StreamJob		0.40855458
+org.apache.hadoop.streaming.StreamUtil		0.36697248
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingKeyValue
+TestStreamingKeyValue		0.9117647
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingKeyValue_testCommandLineWithKey_1b
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.PipeMapRunner		1.0
+org.apache.hadoop.streaming.io.TextInputWriter		0.86206895
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.82857144
+org.apache.hadoop.streaming.io.TextOutputReader		0.6888889
+org.apache.hadoop.streaming.PipeMapRed		0.6865672
+org.apache.hadoop.streaming.PipeMapper		0.6865672
+org.apache.hadoop.streaming.Environment		0.65753424
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.StreamUtil		0.5229358
+org.apache.hadoop.streaming.PathFinder		0.5
+org.apache.hadoop.streaming.StreamJob		0.39233038
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.2820513
+org.apache.hadoop.streaming.StreamKeyValUtil		0.2413793
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingKeyValue_testCommandLineWithoutKey_r
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.PipeMapRunner		1.0
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.82857144
+org.apache.hadoop.streaming.io.TextOutputReader		0.75555557
+org.apache.hadoop.streaming.PipeMapRed		0.6865672
+org.apache.hadoop.streaming.PipeMapper		0.67164177
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.io.TextInputWriter		0.62068963
+org.apache.hadoop.streaming.Environment		0.56164384
+org.apache.hadoop.streaming.PathFinder		0.5
+org.apache.hadoop.streaming.StreamUtil		0.48623854
+org.apache.hadoop.streaming.StreamJob		0.39233038
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.2820513
+org.apache.hadoop.streaming.StreamKeyValUtil		0.2413793
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingOutputKeyValueTypes
+TestStreamingOutputKeyValueTypes		1.0
+TestStreamingOutputKeyValueTypes.MyReducer		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingOutputKeyValueTypes_testCommandLine_1i
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.PipeMapRunner		1.0
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.8
+org.apache.hadoop.streaming.io.TextOutputReader		0.7111111
+org.apache.hadoop.streaming.PipeMapRed		0.6828358
+org.apache.hadoop.streaming.PipeMapper		0.67164177
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.io.TextInputWriter		0.62068963
+org.apache.hadoop.streaming.Environment		0.56164384
+org.apache.hadoop.streaming.PathFinder		0.5
+org.apache.hadoop.streaming.StreamJob		0.41150442
+org.apache.hadoop.streaming.StreamUtil		0.40366971
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.2820513
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingOutputKeyValueTypes_testCommandLine_5
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.PipeMapRunner		1.0
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.8
+org.apache.hadoop.streaming.io.TextOutputReader		0.75555557
+org.apache.hadoop.streaming.io.TextInputWriter		0.7241379
+org.apache.hadoop.streaming.PipeMapRed		0.70522386
+org.apache.hadoop.streaming.PipeMapper		0.67164177
+org.apache.hadoop.streaming.PipeReducer		0.6486486
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.5897436
+org.apache.hadoop.streaming.Environment		0.56164384
+org.apache.hadoop.streaming.StreamJob		0.42625368
+org.apache.hadoop.streaming.StreamUtil		0.3761468
+org.apache.hadoop.streaming.StreamKeyValUtil		0.2413793
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingOutputKeyValueTypes_testCommandLine_9
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.io.TextInputWriter		0.86206895
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.8
+org.apache.hadoop.streaming.io.TextOutputReader		0.6888889
+org.apache.hadoop.streaming.PipeMapRed		0.6828358
+org.apache.hadoop.streaming.PipeReducer		0.6486486
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.Environment		0.56164384
+org.apache.hadoop.streaming.PathFinder		0.5
+org.apache.hadoop.streaming.StreamJob		0.40707964
+org.apache.hadoop.streaming.StreamUtil		0.40366971
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.2820513
+org.apache.hadoop.streaming.StreamKeyValUtil		0.2413793
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingOutputKeyValueTypes_testCommandLine_f
+org.apache.hadoop.streaming.io.IdentifierResolver		0.54761904
+org.apache.hadoop.streaming.Environment		0.42465752
+org.apache.hadoop.streaming.StreamJob		0.40117994
+org.apache.hadoop.streaming.StreamUtil		0.3119266
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingOutputKeyValueTypes_testCommandLine_h
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingOutputKeyValueTypes_testCommandLine_i
+org.apache.hadoop.streaming.io.IdentifierResolver		0.54761904
+org.apache.hadoop.streaming.Environment		0.5205479
+org.apache.hadoop.streaming.StreamJob		0.3938053
+org.apache.hadoop.streaming.StreamUtil		0.34862384
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingOutputKeyValueTypes_testCommandLine_k
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.PipeMapRunner		1.0
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.8
+org.apache.hadoop.streaming.io.TextOutputReader		0.7111111
+org.apache.hadoop.streaming.PipeMapRed		0.6828358
+org.apache.hadoop.streaming.PipeMapper		0.67164177
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.io.TextInputWriter		0.62068963
+org.apache.hadoop.streaming.Environment		0.56164384
+org.apache.hadoop.streaming.PathFinder		0.5
+org.apache.hadoop.streaming.StreamJob		0.40855458
+org.apache.hadoop.streaming.StreamUtil		0.40366971
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.2820513
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingOutputKeyValueTypes_testCommandLine_l
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.PipeMapRunner		1.0
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.8
+org.apache.hadoop.streaming.io.TextOutputReader		0.75555557
+org.apache.hadoop.streaming.io.TextInputWriter		0.7241379
+org.apache.hadoop.streaming.PipeMapRed		0.6828358
+org.apache.hadoop.streaming.PipeMapper		0.67164177
+org.apache.hadoop.streaming.PipeReducer		0.6486486
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.Environment		0.56164384
+org.apache.hadoop.streaming.PathFinder		0.5
+org.apache.hadoop.streaming.StreamJob		0.41740412
+org.apache.hadoop.streaming.StreamUtil		0.40366971
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.2820513
+org.apache.hadoop.streaming.StreamKeyValUtil		0.2413793
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingOutputKeyValueTypes_testCommandLine_q
+org.apache.hadoop.streaming.io.IdentifierResolver		0.54761904
+org.apache.hadoop.streaming.Environment		0.42465752
+org.apache.hadoop.streaming.StreamJob		0.39528024
+org.apache.hadoop.streaming.StreamUtil		0.3119266
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingOutputKeyValueTypes_testCommandLine_w
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.PipeMapRunner		1.0
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.8
+org.apache.hadoop.streaming.io.TextOutputReader		0.7111111
+org.apache.hadoop.streaming.PipeMapRed		0.6828358
+org.apache.hadoop.streaming.PipeMapper		0.67164177
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.io.TextInputWriter		0.62068963
+org.apache.hadoop.streaming.Environment		0.56164384
+org.apache.hadoop.streaming.PathFinder		0.5
+org.apache.hadoop.streaming.StreamJob		0.40855458
+org.apache.hadoop.streaming.StreamUtil		0.40366971
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.2820513
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingOutputKeyValueTypes_testCommandLine_x
+org.apache.hadoop.streaming.io.IdentifierResolver		0.54761904
+org.apache.hadoop.streaming.Environment		0.42465752
+org.apache.hadoop.streaming.StreamJob		0.39528024
+org.apache.hadoop.streaming.StreamUtil		0.3119266
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingOutputKeyValueTypes_testCommandLine_y
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.PipeMapRunner		1.0
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.8
+org.apache.hadoop.streaming.io.TextOutputReader		0.7111111
+org.apache.hadoop.streaming.PipeMapRed		0.6828358
+org.apache.hadoop.streaming.PipeMapper		0.67164177
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.io.TextInputWriter		0.62068963
+org.apache.hadoop.streaming.Environment		0.56164384
+org.apache.hadoop.streaming.PathFinder		0.5
+org.apache.hadoop.streaming.StreamJob		0.40707964
+org.apache.hadoop.streaming.StreamUtil		0.40366971
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.2820513
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingOutputOnlyKeys
+TestStreamingOutputOnlyKeys		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingOutputOnlyKeys_testCommandLine_16
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.KeyOnlyTextInputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.PipeMapRunner		1.0
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.82857144
+org.apache.hadoop.streaming.io.IdentifierResolver		0.7619048
+org.apache.hadoop.streaming.io.KeyOnlyTextOutputReader		0.71428573
+org.apache.hadoop.streaming.io.TextOutputReader		0.7111111
+org.apache.hadoop.streaming.PipeMapRed		0.7089552
+org.apache.hadoop.streaming.PipeMapper		0.67164177
+org.apache.hadoop.streaming.Environment		0.65753424
+org.apache.hadoop.streaming.io.TextInputWriter		0.62068963
+org.apache.hadoop.streaming.PipeReducer		0.6081081
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.6025641
+org.apache.hadoop.streaming.StreamUtil		0.49541286
+org.apache.hadoop.streaming.StreamJob		0.4159292
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingOutputOnlyKeys_testCommandLine_u
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingSeparator
+TestStreamingSeparator		0.9285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingSeparator_testCommandLine_1h
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.PipeMapRunner		1.0
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.82857144
+org.apache.hadoop.streaming.io.TextInputWriter		0.7241379
+org.apache.hadoop.streaming.PipeMapRed		0.7089552
+org.apache.hadoop.streaming.io.TextOutputReader		0.6888889
+org.apache.hadoop.streaming.PipeMapper		0.6865672
+org.apache.hadoop.streaming.PipeReducer		0.6621622
+org.apache.hadoop.streaming.Environment		0.65753424
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.6025641
+org.apache.hadoop.streaming.StreamUtil		0.49541286
+org.apache.hadoop.streaming.StreamJob		0.42772862
+org.apache.hadoop.streaming.StreamKeyValUtil		0.2413793
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingStatus
+TestStreamingStatus		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingStderr
+TestStreamingStderr		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingStderr_testStderrAfterOutput_13
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.PipeMapRunner		1.0
+org.apache.hadoop.streaming.PipeMapRed		0.6529851
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.Environment		0.56164384
+org.apache.hadoop.streaming.PipeMapper		0.47761193
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.46153846
+org.apache.hadoop.streaming.StreamJob		0.40707964
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.4
+org.apache.hadoop.streaming.StreamUtil		0.36697248
+org.apache.hadoop.streaming.io.TextOutputReader		0.31111112
+org.apache.hadoop.streaming.io.TextInputWriter		0.13793103
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingStderr_testStderrCountsAsProgress_7
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.PipeMapRunner		1.0
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.8
+org.apache.hadoop.streaming.io.TextOutputReader		0.7111111
+org.apache.hadoop.streaming.PipeMapRed		0.70522386
+org.apache.hadoop.streaming.PipeMapper		0.67164177
+org.apache.hadoop.streaming.Environment		0.65753424
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.io.TextInputWriter		0.62068963
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.46153846
+org.apache.hadoop.streaming.StreamJob		0.40707964
+org.apache.hadoop.streaming.StreamUtil		0.40366971
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreamingStderr_testStderrNoInput_c
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.PipeMapRunner		1.0
+org.apache.hadoop.streaming.PipeMapRed		0.6529851
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.Environment		0.56164384
+org.apache.hadoop.streaming.PipeMapper		0.47761193
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.46153846
+org.apache.hadoop.streaming.StreamJob		0.40707964
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.4
+org.apache.hadoop.streaming.StreamUtil		0.36697248
+org.apache.hadoop.streaming.io.TextOutputReader		0.31111112
+org.apache.hadoop.streaming.io.TextInputWriter		0.13793103
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestStreaming_testCommandLine_11
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.PipeMapRunner		1.0
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.82857144
+org.apache.hadoop.streaming.io.TextOutputReader		0.75555557
+org.apache.hadoop.streaming.io.TextInputWriter		0.7241379
+org.apache.hadoop.streaming.PipeMapRed		0.7089552
+org.apache.hadoop.streaming.PipeMapper		0.67164177
+org.apache.hadoop.streaming.PipeReducer		0.6621622
+org.apache.hadoop.streaming.Environment		0.65753424
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.6025641
+org.apache.hadoop.streaming.StreamUtil		0.49541286
+org.apache.hadoop.streaming.StreamJob		0.4159292
+org.apache.hadoop.streaming.StreamKeyValUtil		0.2413793
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestSymLink
+TestSymLink		0.9166667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestSymLink_testSymLink_o
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.Environment		0.5205479
+org.apache.hadoop.streaming.JarBuilder		0.5032258
+org.apache.hadoop.streaming.StreamJob		0.46312684
+org.apache.hadoop.streaming.StreamUtil		0.39449543
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestTypedBytesStreaming
+TestTypedBytesStreaming		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestTypedBytesStreaming_testCommandLine_3
+org.apache.hadoop.typedbytes.Type		1.0
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.PipeMapRunner		1.0
+org.apache.hadoop.streaming.io.TypedBytesInputWriter		0.8666667
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.82857144
+org.apache.hadoop.streaming.io.TypedBytesOutputReader		0.7692308
+org.apache.hadoop.streaming.PipeMapRed		0.70149255
+org.apache.hadoop.streaming.Environment		0.65753424
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.6025641
+org.apache.hadoop.streaming.io.IdentifierResolver		0.5952381
+org.apache.hadoop.streaming.PipeReducer		0.5810811
+org.apache.hadoop.streaming.PipeMapper		0.5671642
+org.apache.hadoop.streaming.StreamUtil		0.49541286
+org.apache.hadoop.streaming.StreamJob		0.41445428
+org.apache.hadoop.typedbytes.TypedBytesWritableOutput		0.32
+org.apache.hadoop.typedbytes.TypedBytesWritable		0.3030303
+org.apache.hadoop.typedbytes.TypedBytesInput		0.2810219
+org.apache.hadoop.typedbytes.TypedBytesOutput		0.08547009
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestUnconsumedInput
+TestUnconsumedInput		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/TestUnconsumedInput_testUnconsumedInput_d
+org.apache.hadoop.streaming.io.InputWriter		1.0
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.PipeMapRunner		1.0
+org.apache.hadoop.streaming.PipeMapRed.MROutputThread		0.82857144
+org.apache.hadoop.streaming.PipeMapper		0.74626863
+org.apache.hadoop.streaming.PipeMapRed		0.7164179
+org.apache.hadoop.streaming.io.TextOutputReader		0.6888889
+org.apache.hadoop.streaming.Environment		0.65753424
+org.apache.hadoop.streaming.io.IdentifierResolver		0.64285713
+org.apache.hadoop.streaming.io.TextInputWriter		0.62068963
+org.apache.hadoop.streaming.StreamUtil		0.49541286
+org.apache.hadoop.streaming.StreamJob		0.40117994
+org.apache.hadoop.streaming.PipeMapRed.MRErrorThread		0.2820513
+org.apache.hadoop.streaming.StreamKeyValUtil		0.2413793
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/io/TestKeyOnlyTextOutputReader
+TestKeyOnlyTextOutputReader		1.0
+TestKeyOnlyTextOutputReader.MyPipeMapRed		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/streaming/io/TestKeyOnlyTextOutputReader_testKeyOnlyTextOutputReader_e
+org.apache.hadoop.streaming.io.OutputReader		1.0
+org.apache.hadoop.streaming.io.KeyOnlyTextOutputReader		0.64285713
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/typedbytes/TestTypedBytesWritable
+TestTypedBytesWritable		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/typedbytes/TestTypedBytesWritable_testIO_1c
+org.apache.hadoop.typedbytes.TypedBytesWritable		0.27272728
+org.apache.hadoop.typedbytes.TypedBytesOutput		0.16239317
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-streaming/target/clover/org/apache/hadoop/typedbytes/TestTypedBytesWritable_testToString_0
+org.apache.hadoop.typedbytes.Type		1.0
+org.apache.hadoop.typedbytes.TypedBytesWritable		0.5151515
+org.apache.hadoop.typedbytes.TypedBytesOutput		0.47008547
+org.apache.hadoop.typedbytes.TypedBytesInput		0.18978103
+-- -- -- -- -- -- -- -- -- -- -- -- --

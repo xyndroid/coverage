@@ -1,0 +1,349 @@
+./components/camel-script/target/site/clover/org/apache/camel
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/BeanShellScriptRouteTest
+BeanShellScriptRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/BeanShellScriptRouteTest_testSendMatchingMessage_q
+org.apache.camel.builder.script.ScriptBuilder		0.1967742
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/BeanShellScriptRouteTest_testSendNonMatchingMessage_t
+org.apache.camel.builder.script.ScriptBuilder		0.1967742
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/GroovyExpressionListMapTest
+GroovyExpressionListMapTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/GroovyExpressionListMapTest_testSendMatchingMessage_17
+org.apache.camel.builder.script.ScriptBuilder		0.1967742
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/GroovyPropertiesFunctionTest
+GroovyPropertiesFunctionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/GroovyPropertiesFunctionTest_testSendMatchingMessage_u
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.7058824
+org.apache.camel.builder.script.ScriptBuilder		0.1967742
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/GroovyPropertyComponentTest
+GroovyPropertyComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/GroovyPropertyComponentTest_testSendMatchingMessage_s
+org.apache.camel.builder.script.ScriptBuilder		0.1967742
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/GroovyScriptRouteTest
+GroovyScriptRouteTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/GroovySetHeaderPropertyComponentTest
+GroovySetHeaderPropertyComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/GroovySetHeaderPropertyComponentTest_testNumber_3
+org.apache.camel.builder.script.ScriptBuilder		0.1967742
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/GroovySetHeaderPropertyComponentTest_testSendMatchingMessage_15
+org.apache.camel.builder.script.ScriptBuilder		0.1967742
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/JRubyScriptThreadSafeTest
+JRubyScriptThreadSafeTest		0.8703704
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/JRubyScriptThreadSafeTest_testParallelLocalContext_x
+org.apache.camel.builder.script.ScriptBuilder		0.1967742
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/JRubyScriptThreadSafeTest_testSequentialLocalContext_16
+org.apache.camel.builder.script.ScriptBuilder		0.1967742
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/JRubySingletonTest
+JRubySingletonTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/JRubySingletonTest_testParallelLocalContext_8
+org.apache.camel.builder.script.ScriptBuilder		0.1967742
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/JRubySingletonTest_testSequentialLocalContext_6
+org.apache.camel.builder.script.ScriptBuilder		0.1967742
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/JavaScriptExpressionListMapTest
+JavaScriptExpressionListMapTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/JavaScriptExpressionListMapTest_testSendMatchingMessage_a
+org.apache.camel.builder.script.ScriptBuilder		0.1967742
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/JavaScriptExpressionTest
+JavaScriptExpressionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/JavaScriptExpressionTest_testArgumentsExample_1
+org.apache.camel.builder.script.ScriptBuilder		0.21935484
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/JavaScriptExpressionTest_testArgumentsWithIntegerMap_b
+org.apache.camel.builder.script.ScriptBuilder		0.21935484
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/JavaScriptExpressionTest_testArgumentsWithNonMap_2
+org.apache.camel.builder.script.ScriptBuilder		0.1967742
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/JavaScriptExpressionTest_testArgumentsWithStringMap_m
+org.apache.camel.builder.script.ScriptBuilder		0.22258064
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/JavaScriptExpressionTest_testSendMatchingMessage_14
+org.apache.camel.builder.script.ScriptBuilder		0.1967742
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/JavaScriptExpressionTest_testSendNonMatchingMessage_o
+org.apache.camel.builder.script.ScriptBuilder		0.1967742
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/JavaScriptExpressionTest_testSendingRequestInMutipleThreads_k
+org.apache.camel.builder.script.ScriptBuilder		0.1967742
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/JavaScriptPropertiesFunctionTest
+JavaScriptPropertiesFunctionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/JavaScriptPropertiesFunctionTest_testSendMatchingMessage_g
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.7058824
+org.apache.camel.builder.script.ScriptBuilder		0.1967742
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/Jsr223Test
+Jsr223Test		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/Jsr223Test_testLanguageNames_w
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/LanguageJavaScriptNoCacheTest
+LanguageJavaScriptNoCacheTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/LanguageJavaScriptTest
+LanguageJavaScriptTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/LanguagePythonStatementsTest
+LanguagePythonStatementsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/LanguagePythonStatementsTest_testSendMatchingMessage_p
+org.apache.camel.builder.script.ScriptLanguageResolver		0.6666667
+org.apache.camel.builder.script.ScriptLanguage		0.625
+org.apache.camel.builder.script.ScriptBuilder		0.45806453
+org.apache.camel.builder.script.PythonLanguage		0.35714287
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/PythonExpressionTest
+PythonExpressionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/PythonExpressionTest_testSendMatchingMessage_12
+org.apache.camel.builder.script.ScriptBuilder		0.1967742
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/PythonExpressionTest_testSendNonMatchingMessage_n
+org.apache.camel.builder.script.ScriptBuilder		0.1967742
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/RubyExpressionTest
+RubyExpressionTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/RubyScriptTextTest
+RubyScriptTextTest		0.5217391
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/RubyScriptTextTest_parallelExecutionWithCachedScriptAndReusedScriptEngine_10
+org.apache.camel.builder.script.ScriptLanguageResolver		0.6666667
+org.apache.camel.builder.script.ScriptLanguage		0.625
+org.apache.camel.builder.script.ScriptBuilder		0.45483872
+org.apache.camel.builder.script.RubyLanguage		0.35714287
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/ScriptBuilderTest
+ScriptBuilderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/ScriptBuilderTest_testScriptBuilderClasspath_7
+org.apache.camel.builder.script.ScriptBuilder		0.45806453
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/ScriptBuilderTest_testScriptBuilderText_c
+org.apache.camel.builder.script.ScriptBuilder		0.45483872
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/WireTapLogTest
+WireTapLogTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/WireTapLogTest_testWireTapLog_y
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/example/AnyLanguageFilterTest
+AnyLanguageFilterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/example/AnyLanguageFilterTest_testSendMatchingMessage_4
+testSendMatchingMessage
+org.apache.camel.builder.script.ScriptBuilder		0.1967742
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/example/AnyLanguageFilterTest_testSendNotMatchingMessage_d
+testSendNotMatchingMessage
+org.apache.camel.builder.script.ScriptBuilder		0.1967742
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/example/BeanShellFilterTest
+BeanShellFilterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/example/BeanShellFilterTest_testSendMatchingMessage_9
+testSendMatchingMessage
+org.apache.camel.builder.script.ScriptBuilder		0.1967742
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/example/BeanShellFilterTest_testSendNotMatchingMessage_r
+testSendNotMatchingMessage
+org.apache.camel.builder.script.ScriptBuilder		0.1967742
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/example/GroovyFilterTest
+GroovyFilterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/example/GroovyFilterTest_testSendMatchingMessage_5
+testSendMatchingMessage
+org.apache.camel.builder.script.ScriptBuilder		0.1967742
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/example/GroovyFilterTest_testSendNotMatchingMessage_13
+testSendNotMatchingMessage
+org.apache.camel.builder.script.ScriptBuilder		0.1967742
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/example/JavaScriptFilterTest
+JavaScriptFilterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/example/JavaScriptFilterTest_testSendMatchingMessage_i
+testSendMatchingMessage
+org.apache.camel.builder.script.ScriptBuilder		0.1967742
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/example/JavaScriptFilterTest_testSendNotMatchingMessage_11
+testSendNotMatchingMessage
+org.apache.camel.builder.script.ScriptBuilder		0.1967742
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/example/PythonFilterTest
+PythonFilterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/example/PythonFilterTest_testSendMatchingMessage_v
+testSendMatchingMessage
+org.apache.camel.builder.script.ScriptBuilder		0.1967742
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/example/PythonFilterTest_testSendNotMatchingMessage_f
+testSendNotMatchingMessage
+org.apache.camel.builder.script.ScriptBuilder		0.1967742
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/example/RubyFilterTest
+RubyFilterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/example/RubyFilterTest_testSendMatchingMessage_h
+testSendMatchingMessage
+org.apache.camel.builder.script.ScriptBuilder		0.1967742
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/example/RubyFilterTest_testSendNotMatchingMessage_z
+testSendNotMatchingMessage
+org.apache.camel.builder.script.ScriptBuilder		0.1967742
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/example/XPathFilterTest
+XPathFilterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/example/test-AnyLanguageFilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/example/test-BeanShellFilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/example/test-GroovyFilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/example/test-JavaScriptFilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/example/test-PythonFilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/example/test-RubyFilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/example/test-XPathFilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/test-BeanShellScriptRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/test-GroovyExpressionListMapTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/test-GroovyPropertiesFunctionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/test-GroovyPropertyComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/test-GroovyScriptRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/test-GroovySetHeaderPropertyComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/test-JRubyScriptThreadSafeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/test-JRubySingletonTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/test-JavaScriptExpressionListMapTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/test-JavaScriptExpressionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/test-JavaScriptPropertiesFunctionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/test-Jsr223Test
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/test-LanguageJavaScriptNoCacheTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/test-LanguageJavaScriptTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/test-LanguagePythonStatementsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/test-PythonExpressionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/test-RubyExpressionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/test-RubyScriptTextTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/test-ScriptBuilderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/builder/script/test-WireTapLogTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/language/script/JavaScriptLanguageTest
+JavaScriptLanguageTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/language/script/JavaScriptLanguageTest_testLanguageExpressions_l
+org.apache.camel.builder.script.ScriptLanguageResolver		0.6666667
+org.apache.camel.builder.script.ScriptLanguage		0.625
+org.apache.camel.builder.script.ScriptBuilder		0.45483872
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/language/script/PythonLanguageTest
+PythonLanguageTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/language/script/PythonLanguageTest_testLanguageExpressions_j
+org.apache.camel.builder.script.ScriptLanguageResolver		0.6666667
+org.apache.camel.builder.script.ScriptLanguage		0.625
+org.apache.camel.builder.script.ScriptBuilder		0.48064515
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/language/script/ScriptLanguageResourceTest
+ScriptLanguageResourceTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/language/script/ScriptLanguageResourceTest_testScriptResource_e
+org.apache.camel.builder.script.ScriptBuilder		0.1967742
+org.apache.camel.builder.script.ScriptPropertiesFunction		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/language/script/test-JavaScriptLanguageTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/language/script/test-PythonLanguageTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/language/script/test-ScriptLanguageResourceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/script/osgi/ActivatorTest
+ActivatorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/script/osgi/ActivatorTest_findScriptEngines_0
+org.apache.camel.script.osgi.Activator.BundleScriptEngineResolver		0.3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-script/target/site/clover/org/apache/camel/script/osgi/test-ActivatorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

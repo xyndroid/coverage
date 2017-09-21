@@ -1,0 +1,411 @@
+./hbase-it/target/site/clover/org/apache/hadoop/hbase
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/IntegrationTestAcidGuarantees
+IntegrationTestAcidGuarantees		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/IntegrationTestBase
+IntegrationTestBase		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/IntegrationTestDDLMasterFailover
+IntegrationTestDDLMasterFailover		0.0
+IntegrationTestDDLMasterFailover.MasterAction		1.0
+IntegrationTestDDLMasterFailover.TableAction		0.0
+IntegrationTestDDLMasterFailover.CreateTableAction		0.0
+IntegrationTestDDLMasterFailover.DisableTableAction		0.0
+IntegrationTestDDLMasterFailover.EnableTableAction		0.0
+IntegrationTestDDLMasterFailover.DeleteTableAction		0.0
+IntegrationTestDDLMasterFailover.ColumnAction		0.0
+IntegrationTestDDLMasterFailover.AddColumnFamilyAction		0.0
+IntegrationTestDDLMasterFailover.AlterFamilyVersionsAction		0.0
+IntegrationTestDDLMasterFailover.AlterFamilyEncodingAction		0.0
+IntegrationTestDDLMasterFailover.DeleteColumnFamilyAction		0.0
+IntegrationTestDDLMasterFailover.AddRowAction		0.0
+IntegrationTestDDLMasterFailover.ACTION		1.0
+IntegrationTestDDLMasterFailover.Worker		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/IntegrationTestIngest
+IntegrationTestIngest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/IntegrationTestIngestStripeCompactions
+IntegrationTestIngestStripeCompactions		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/IntegrationTestIngestWithACL
+IntegrationTestIngestWithACL		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/IntegrationTestIngestWithEncryption
+IntegrationTestIngestWithEncryption		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/IntegrationTestIngestWithTags
+IntegrationTestIngestWithTags		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/IntegrationTestIngestWithVisibilityLabels
+IntegrationTestIngestWithVisibilityLabels		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/IntegrationTestLazyCfLoading
+IntegrationTestLazyCfLoading		0.0
+IntegrationTestLazyCfLoading.DataGenerator		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/IntegrationTestManyRegions
+IntegrationTestManyRegions		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/IntegrationTestMetaReplicas
+IntegrationTestMetaReplicas		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/IntegrationTestRegionReplicaPerf
+IntegrationTestRegionReplicaPerf		0.0
+IntegrationTestRegionReplicaPerf.Stat		0.0
+IntegrationTestRegionReplicaPerf.PerfEvalCallable		0.0
+IntegrationTestRegionReplicaPerf.TimingResult		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/IntegrationTestRegionReplicaReplication
+IntegrationTestRegionReplicaReplication		0.0
+IntegrationTestRegionReplicaReplication.DelayingMultiThreadedWriter		0.0
+IntegrationTestRegionReplicaReplication.DelayingMultiThreadedUpdater		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/IntegrationTestingUtility
+IntegrationTestingUtility		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/IntegrationTestsDriver
+IntegrationTestsDriver		0.0
+IntegrationTestsDriver.IntegrationTestFilter		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/ipc/IntegrationTestRpcClient
+IntegrationTestRpcClient		0.0
+IntegrationTestRpcClient.TestRpcServer		0.0
+IntegrationTestRpcClient.Cluster		0.0
+IntegrationTestRpcClient.MiniChaosMonkey		0.0
+IntegrationTestRpcClient.SimpleClient		0.0
+IntegrationTestRpcClient.TimeoutThread		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/ipc/test-IntegrationTestRpcClient
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/ipc/test-IntegrationTestRpcClient_Cluster
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/ipc/test-IntegrationTestRpcClient_MiniChaosMonkey
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/ipc/test-IntegrationTestRpcClient_SimpleClient
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/ipc/test-IntegrationTestRpcClient_TestRpcServer
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/ipc/test-IntegrationTestRpcClient_TimeoutThread
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/mapreduce/IntegrationTestBulkLoad
+IntegrationTestBulkLoad		0.0
+IntegrationTestBulkLoad.SlowMeCoproScanOperations		0.0
+IntegrationTestBulkLoad.EmptySplit		0.0
+IntegrationTestBulkLoad.FixedRecordReader		0.0
+IntegrationTestBulkLoad.ITBulkLoadInputFormat		0.0
+IntegrationTestBulkLoad.LinkedListCreationMapper		0.0
+IntegrationTestBulkLoad.LinkKey		0.0
+IntegrationTestBulkLoad.LinkChain		0.0
+IntegrationTestBulkLoad.NaturalKeyPartitioner		0.0
+IntegrationTestBulkLoad.NaturalKeyGroupingComparator		0.0
+IntegrationTestBulkLoad.CompositeKeyComparator		0.0
+IntegrationTestBulkLoad.LinkedListCheckingMapper		0.0
+IntegrationTestBulkLoad.LinkedListCheckingReducer		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/mapreduce/IntegrationTestImportTsv
+IntegrationTestImportTsv		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/mapreduce/IntegrationTestTableMapReduceUtil
+IntegrationTestTableMapReduceUtil		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/mapreduce/IntegrationTestTableSnapshotInputFormat
+IntegrationTestTableSnapshotInputFormat		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/mapreduce/test-IntegrationTestBulkLoad
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/mapreduce/test-IntegrationTestBulkLoad_CompositeKeyComparator
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/mapreduce/test-IntegrationTestBulkLoad_EmptySplit
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/mapreduce/test-IntegrationTestBulkLoad_FixedRecordReader
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/mapreduce/test-IntegrationTestBulkLoad_ITBulkLoadInputFormat
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/mapreduce/test-IntegrationTestBulkLoad_LinkChain
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/mapreduce/test-IntegrationTestBulkLoad_LinkKey
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/mapreduce/test-IntegrationTestBulkLoad_LinkedListCheckingMapper
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/mapreduce/test-IntegrationTestBulkLoad_LinkedListCheckingReducer
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/mapreduce/test-IntegrationTestBulkLoad_LinkedListCreationMapper
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/mapreduce/test-IntegrationTestBulkLoad_NaturalKeyGroupingComparator
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/mapreduce/test-IntegrationTestBulkLoad_NaturalKeyPartitioner
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/mapreduce/test-IntegrationTestBulkLoad_SlowMeCoproScanOperations
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/mapreduce/test-IntegrationTestImportTsv
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/mapreduce/test-IntegrationTestTableMapReduceUtil
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/mapreduce/test-IntegrationTestTableSnapshotInputFormat
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/mttr/IntegrationTestMTTR
+IntegrationTestMTTR		0.0
+IntegrationTestMTTR.TimingResult		0.0
+IntegrationTestMTTR.TimingCallable		0.0
+IntegrationTestMTTR.PutCallable		0.0
+IntegrationTestMTTR.ScanCallable		0.0
+IntegrationTestMTTR.AdminCallable		0.0
+IntegrationTestMTTR.ActionCallable		0.0
+IntegrationTestMTTR.LoadCallable		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/mttr/test-IntegrationTestMTTR
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/mttr/test-IntegrationTestMTTR_ActionCallable
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/mttr/test-IntegrationTestMTTR_AdminCallable
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/mttr/test-IntegrationTestMTTR_LoadCallable
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/mttr/test-IntegrationTestMTTR_PutCallable
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/mttr/test-IntegrationTestMTTR_ScanCallable
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/mttr/test-IntegrationTestMTTR_TimingCallable
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/mttr/test-IntegrationTestMTTR_TimingResult
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/IntegrationTestBigLinkedList
+IntegrationTestBigLinkedList		0.0
+IntegrationTestBigLinkedList.CINode		1.0
+IntegrationTestBigLinkedList.Generator		0.0
+IntegrationTestBigLinkedList.Generator.GeneratorInputFormat		0.0
+IntegrationTestBigLinkedList.Generator.GeneratorInputFormat.GeneratorInputSplit		0.0
+IntegrationTestBigLinkedList.Generator.GeneratorInputFormat.GeneratorRecordReader		0.0
+IntegrationTestBigLinkedList.Generator.OneFilePerMapperSFIF		0.0
+IntegrationTestBigLinkedList.Generator.GeneratorMapper		0.0
+IntegrationTestBigLinkedList.Search		0.0
+IntegrationTestBigLinkedList.Search.WALSearcher		0.0
+IntegrationTestBigLinkedList.Search.WALSearcher.WALMapperSearcher		0.0
+IntegrationTestBigLinkedList.Verify		0.0
+IntegrationTestBigLinkedList.Verify.VerifyMapper		0.0
+IntegrationTestBigLinkedList.Verify.Counts		1.0
+IntegrationTestBigLinkedList.Verify.VerifyReducer		0.0
+IntegrationTestBigLinkedList.Loop		0.0
+IntegrationTestBigLinkedList.Print		0.0
+IntegrationTestBigLinkedList.Delete		0.0
+IntegrationTestBigLinkedList.Walker		0.0
+IntegrationTestBigLinkedList.Clean		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/IntegrationTestBigLinkedListWithVisibility
+IntegrationTestBigLinkedListWithVisibility		0.0
+IntegrationTestBigLinkedListWithVisibility.VisibilityGenerator		0.0
+IntegrationTestBigLinkedListWithVisibility.VisibilityGenerator.VisibilityGeneratorMapper		0.0
+IntegrationTestBigLinkedListWithVisibility.Copier		0.0
+IntegrationTestBigLinkedListWithVisibility.VisibilityImport		0.0
+IntegrationTestBigLinkedListWithVisibility.VisibilityDeleteImport		0.0
+IntegrationTestBigLinkedListWithVisibility.VisibilityVerify		0.0
+IntegrationTestBigLinkedListWithVisibility.VisibilityLoop		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/IntegrationTestLoadAndVerify
+IntegrationTestLoadAndVerify		0.0
+IntegrationTestLoadAndVerify.Counters		1.0
+IntegrationTestLoadAndVerify.LoadMapper		0.0
+IntegrationTestLoadAndVerify.VerifyMapper		0.0
+IntegrationTestLoadAndVerify.VerifyReducer		0.0
+IntegrationTestLoadAndVerify.WALSearcher		0.0
+IntegrationTestLoadAndVerify.WALSearcher.WALMapperSearcher		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/IntegrationTestReplication
+IntegrationTestReplication		0.0
+IntegrationTestReplication.ClusterID		0.0
+IntegrationTestReplication.VerifyReplicationLoop		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/IntegrationTestTimeBoundedMultiGetRequestsWithRegionReplicas
+IntegrationTestTimeBoundedMultiGetRequestsWithRegionReplicas		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/IntegrationTestTimeBoundedRequestsWithRegionReplicas
+IntegrationTestTimeBoundedRequestsWithRegionReplicas		0.0
+IntegrationTestTimeBoundedRequestsWithRegionReplicas.TimeBoundedMultiThreadedReader		0.0
+IntegrationTestTimeBoundedRequestsWithRegionReplicas.TimeBoundedMultiThreadedReader.TimeoutThread		0.0
+IntegrationTestTimeBoundedRequestsWithRegionReplicas.TimeBoundedMultiThreadedReader.TimeBoundedMultiThreadedReaderThread		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/IntegrationTestWithCellVisibilityLoadAndVerify
+IntegrationTestWithCellVisibilityLoadAndVerify		0.0
+IntegrationTestWithCellVisibilityLoadAndVerify.Counters		1.0
+IntegrationTestWithCellVisibilityLoadAndVerify.LoadWithCellVisibilityMapper		0.0
+IntegrationTestWithCellVisibilityLoadAndVerify.VerifyMapper		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/IntegrationTestZKAndFSPermissions
+IntegrationTestZKAndFSPermissions		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestBigLinkedList
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestBigLinkedListWithVisibility
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestBigLinkedListWithVisibility_Copier
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestBigLinkedListWithVisibility_VisibilityDeleteImport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestBigLinkedListWithVisibility_VisibilityGenerator
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestBigLinkedListWithVisibility_VisibilityGenerator_VisibilityGeneratorMapper
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestBigLinkedListWithVisibility_VisibilityImport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestBigLinkedListWithVisibility_VisibilityLoop
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestBigLinkedListWithVisibility_VisibilityVerify
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestBigLinkedList_CINode
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestBigLinkedList_Clean
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestBigLinkedList_Delete
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestBigLinkedList_Generator
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestBigLinkedList_Generator_GeneratorInputFormat
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestBigLinkedList_Generator_GeneratorInputFormat_GeneratorInputSplit
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestBigLinkedList_Generator_GeneratorInputFormat_GeneratorRecordReader
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestBigLinkedList_Generator_GeneratorMapper
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestBigLinkedList_Generator_OneFilePerMapperSFIF
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestBigLinkedList_Loop
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestBigLinkedList_Print
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestBigLinkedList_Search
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestBigLinkedList_Search_WALSearcher
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestBigLinkedList_Search_WALSearcher_WALMapperSearcher
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestBigLinkedList_Verify
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestBigLinkedList_Verify_Counts
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestBigLinkedList_Verify_VerifyMapper
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestBigLinkedList_Verify_VerifyReducer
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestBigLinkedList_Walker
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestLoadAndVerify
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestLoadAndVerify_Counters
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestLoadAndVerify_LoadMapper
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestLoadAndVerify_VerifyMapper
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestLoadAndVerify_VerifyReducer
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestLoadAndVerify_WALSearcher
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestLoadAndVerify_WALSearcher_WALMapperSearcher
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestReplication
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestReplication_ClusterID
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestReplication_VerifyReplicationLoop
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestTimeBoundedMultiGetRequestsWithRegionReplicas
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestTimeBoundedRequestsWithRegionReplicas
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestTimeBoundedRequestsWithRegionReplicas_TimeBoundedMultiThreadedReader
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestTimeBoundedRequestsWithRegionReplicas_TimeBoundedMultiThreadedReader_TimeBoundedMultiThreadedReaderThread
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestTimeBoundedRequestsWithRegionReplicas_TimeBoundedMultiThreadedReader_TimeoutThread
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestWithCellVisibilityLoadAndVerify
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestWithCellVisibilityLoadAndVerify_Counters
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestWithCellVisibilityLoadAndVerify_LoadWithCellVisibilityMapper
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestWithCellVisibilityLoadAndVerify_VerifyMapper
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test/test-IntegrationTestZKAndFSPermissions
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestAcidGuarantees
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestBase
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestDDLMasterFailover
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestDDLMasterFailover_ACTION
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestDDLMasterFailover_AddColumnFamilyAction
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestDDLMasterFailover_AddRowAction
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestDDLMasterFailover_AlterFamilyEncodingAction
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestDDLMasterFailover_AlterFamilyVersionsAction
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestDDLMasterFailover_ColumnAction
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestDDLMasterFailover_CreateTableAction
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestDDLMasterFailover_DeleteColumnFamilyAction
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestDDLMasterFailover_DeleteTableAction
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestDDLMasterFailover_DisableTableAction
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestDDLMasterFailover_EnableTableAction
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestDDLMasterFailover_MasterAction
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestDDLMasterFailover_TableAction
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestDDLMasterFailover_Worker
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestIngest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestIngestStripeCompactions
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestIngestWithACL
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestIngestWithEncryption
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestIngestWithTags
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestIngestWithVisibilityLabels
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestLazyCfLoading
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestLazyCfLoading_DataGenerator
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestManyRegions
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestMetaReplicas
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestRegionReplicaPerf
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestRegionReplicaPerf_PerfEvalCallable
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestRegionReplicaPerf_Stat
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestRegionReplicaPerf_TimingResult
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestRegionReplicaReplication
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestRegionReplicaReplication_DelayingMultiThreadedUpdater
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestRegionReplicaReplication_DelayingMultiThreadedWriter
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestingUtility
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestsDriver
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/test-IntegrationTestsDriver_IntegrationTestFilter
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/trace/IntegrationTestSendTraceRequests
+IntegrationTestSendTraceRequests		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-it/target/site/clover/org/apache/hadoop/hbase/trace/test-IntegrationTestSendTraceRequests
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,34 @@
+./components/camel-kestrel/target/site/clover/org/apache/camel
+./components/camel-kestrel/target/site/clover/org/apache/camel/component/kestrel/KestrelEndpointTest
+KestrelEndpointTest		1.0
+KestrelEndpointTest.TestCase		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kestrel/target/site/clover/org/apache/camel/component/kestrel/KestrelEndpointTest_testEndpoints_0
+org.apache.camel.component.kestrel.KestrelConfiguration		0.5416667
+org.apache.camel.component.kestrel.KestrelEndpoint		0.47826087
+org.apache.camel.component.kestrel.KestrelComponent		0.38636363
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kestrel/target/site/clover/org/apache/camel/component/kestrel/KestrelProduceAndConsumeTest
+KestrelProduceAndConsumeTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kestrel/target/site/clover/org/apache/camel/component/kestrel/KestrelProducerTest
+KestrelProducerTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kestrel/target/site/clover/org/apache/camel/component/kestrel/KestrelSingleThreadedConsumerTest
+KestrelSingleThreadedConsumerTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kestrel/target/site/clover/org/apache/camel/component/kestrel/KestrelSpringXmlTest
+KestrelSpringXmlTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kestrel/target/site/clover/org/apache/camel/component/kestrel/test-KestrelEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kestrel/target/site/clover/org/apache/camel/component/kestrel/test-KestrelEndpointTest_TestCase
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kestrel/target/site/clover/org/apache/camel/component/kestrel/test-KestrelProduceAndConsumeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kestrel/target/site/clover/org/apache/camel/component/kestrel/test-KestrelProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kestrel/target/site/clover/org/apache/camel/component/kestrel/test-KestrelSingleThreadedConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kestrel/target/site/clover/org/apache/camel/component/kestrel/test-KestrelSpringXmlTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,1163 @@
+./components/camel-mina2/target/site/clover/org/apache/camel
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/BaseMina2Test
+BaseMina2Test		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/MessageIOSessionTest
+MessageIOSessionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/MessageIOSessionTest_testIoSession_2
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.7894737
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.65384614
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.46666667
+org.apache.camel.component.mina2.Mina2Endpoint		0.44444445
+org.apache.camel.component.mina2.Mina2Producer		0.44126984
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.42647058
+org.apache.camel.component.mina2.Mina2Configuration		0.42372882
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/MessageIOSessionTest_testLocalAndRemoteAddressHeaders_11
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.7894737
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.65384614
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.46666667
+org.apache.camel.component.mina2.Mina2Endpoint		0.44444445
+org.apache.camel.component.mina2.Mina2Producer		0.44126984
+org.apache.camel.component.mina2.Mina2Configuration		0.42372882
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.30882353
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2ClientModeTcpTextlineDelimiterTest
+Mina2ClientModeTcpTextlineDelimiterTest		0.0
+Mina2ClientModeTcpTextlineDelimiterTest.Server		0.0
+Mina2ClientModeTcpTextlineDelimiterTest.ServerHandler		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2ClientServerTest
+Mina2ClientServerTest		1.0
+Mina2ClientServerTest.MyServerProcessor		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2ClientServerTest_testSendToServer_3
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.7894737
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.65384614
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.46666667
+org.apache.camel.component.mina2.Mina2Endpoint		0.44444445
+org.apache.camel.component.mina2.Mina2Producer		0.44126984
+org.apache.camel.component.mina2.Mina2Configuration		0.42372882
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.30882353
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2ComponentTest
+Mina2ComponentTest		0.8333333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2ComponentTest_testMistypedProtocol_2c
+org.apache.camel.component.mina2.Mina2Component		0.5660377
+org.apache.camel.component.mina2.Mina2Configuration		0.118644066
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2ComponentTest_testUnknownProtocol_28
+org.apache.camel.component.mina2.Mina2Component		0.6037736
+org.apache.camel.component.mina2.Mina2Configuration		0.13559322
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2ComponentWithConfigurationTest
+Mina2ComponentWithConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2ComponentWithConfigurationTest_testMinaComponentWithConfiguration_a
+org.apache.camel.component.mina2.Mina2Component		0.43396226
+org.apache.camel.component.mina2.Mina2Endpoint		0.18518518
+org.apache.camel.component.mina2.Mina2Configuration		0.16949153
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2ConsumerTest
+Mina2ConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2ConsumerTest_testSendTextlineSyncText_1i
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.7894737
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.65384614
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.46666667
+org.apache.camel.component.mina2.Mina2Endpoint		0.44444445
+org.apache.camel.component.mina2.Mina2Producer		0.44126984
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.42647058
+org.apache.camel.component.mina2.Mina2Configuration		0.42372882
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2ConsumerTest_testSendTextlineText_q
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.7894737
+org.apache.camel.component.mina2.Mina2Endpoint		0.44444445
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.42647058
+org.apache.camel.component.mina2.Mina2Configuration		0.42372882
+org.apache.camel.component.mina2.Mina2Producer		0.4
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.22222222
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2ConverterTest
+Mina2ConverterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2ConverterTest_testToByteArray_6
+org.apache.camel.component.mina2.Mina2Converter		0.23529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2ConverterTest_testToByteBuffer_1o
+org.apache.camel.component.mina2.Mina2Converter		0.47058824
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2ConverterTest_testToInputStream_2q
+org.apache.camel.component.mina2.Mina2Converter		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2ConverterTest_testToStringTwoTimes_1g
+org.apache.camel.component.mina2.Mina2Converter		0.4117647
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2ConverterTest_testToString_2t
+org.apache.camel.component.mina2.Mina2Converter		0.4117647
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2CustomCodecTest
+Mina2CustomCodecTest		0.95652175
+Mina2CustomCodecTest.MyCodec		0.89285713
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2CustomCodecTest_testBadConfiguration_c
+org.apache.camel.component.mina2.Mina2Component		0.20754717
+org.apache.camel.component.mina2.Mina2Configuration		0.06779661
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2CustomCodecTest_testMyCodec_2k
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.65384614
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.46666667
+org.apache.camel.component.mina2.Mina2Endpoint		0.44444445
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.4117647
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Producer		0.34920636
+org.apache.camel.component.mina2.Mina2Configuration		0.3220339
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2CustomCodecTest_testProducerFailInDecodingResponse_2f
+org.apache.camel.component.mina2.Mina2Endpoint		0.6296296
+org.apache.camel.component.mina2.Mina2Component		0.6037736
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.5777778
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.46153846
+org.apache.camel.component.mina2.Mina2Configuration		0.44067797
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Producer		0.33650795
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.29411766
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2CustomCodecTest_testTCPEncodeUTF8InputIsString_16
+org.apache.camel.component.mina2.Mina2Endpoint		0.8888889
+org.apache.camel.component.mina2.Mina2Component		0.6037736
+org.apache.camel.component.mina2.Mina2Configuration		0.5084746
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Producer		0.33650795
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2Consumer		0.22357723
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.13235295
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2DisconnectRaceConditionTest
+Mina2DisconnectRaceConditionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2DisconnectRaceConditionTest_testCloseSessionWhenCompleteManyTimes_2s
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.7894737
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.65384614
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.64444447
+org.apache.camel.component.mina2.Mina2Endpoint		0.6296296
+org.apache.camel.component.mina2.Mina2Component		0.6037736
+org.apache.camel.component.mina2.Mina2Configuration		0.59322035
+org.apache.camel.component.mina2.Mina2Producer		0.46349207
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.42647058
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2DisconnectTest
+Mina2DisconnectTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2DisconnectTest_testCloseSessionWhenComplete_19
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.7894737
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.65384614
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.64444447
+org.apache.camel.component.mina2.Mina2Producer		0.46984127
+org.apache.camel.component.mina2.Mina2Endpoint		0.44444445
+org.apache.camel.component.mina2.Mina2Configuration		0.42372882
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.30882353
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2EncodingTest
+Mina2EncodingTest		0.9880952
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2EncodingTest_testInvalidEncoding_22
+org.apache.camel.component.mina2.Mina2Component		0.6792453
+org.apache.camel.component.mina2.Mina2Endpoint		0.37037036
+org.apache.camel.component.mina2.Mina2Configuration		0.33898306
+org.apache.camel.component.mina2.Mina2Consumer		0.15040651
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2EncodingTest_testTCPEncodeUTF8InputIsBytes_1f
+org.apache.camel.component.mina2.Mina2Endpoint		0.8888889
+org.apache.camel.component.mina2.Mina2Component		0.6792453
+org.apache.camel.component.mina2.Mina2Configuration		0.5084746
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Producer		0.33650795
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.30882353
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2Consumer		0.22357723
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2EncodingTest_testTCPEncodeUTF8InputIsString_1p
+org.apache.camel.component.mina2.Mina2Endpoint		0.8888889
+org.apache.camel.component.mina2.Mina2Component		0.6792453
+org.apache.camel.component.mina2.Mina2Configuration		0.5084746
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.42647058
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Producer		0.33650795
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2Consumer		0.22357723
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2EncodingTest_testTCPEncodeUTF8TextLineInputIsString_2r
+org.apache.camel.component.mina2.Mina2Endpoint		0.8888889
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.7894737
+org.apache.camel.component.mina2.Mina2Component		0.6792453
+org.apache.camel.component.mina2.Mina2Configuration		0.59322035
+org.apache.camel.component.mina2.Mina2Producer		0.4
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2Consumer		0.30081302
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.13235295
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2EncodingTest_testUDPEncodeUTF8InputIsBytes_18
+org.apache.camel.component.mina2.Mina2Endpoint		0.8888889
+org.apache.camel.component.mina2.Mina2UdpProtocolCodecFactory		0.8
+org.apache.camel.component.mina2.Mina2Component		0.6792453
+org.apache.camel.component.mina2.Mina2Configuration		0.4915254
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Producer		0.33650795
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2Converter		0.23529412
+org.apache.camel.component.mina2.Mina2Consumer		0.19512194
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.13235295
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2EncodingTest_testUDPEncodeUTF8InputIsStringNoMock_7
+org.apache.camel.component.mina2.Mina2Endpoint		0.8888889
+org.apache.camel.component.mina2.Mina2UdpProtocolCodecFactory		0.84
+org.apache.camel.component.mina2.Mina2Component		0.6792453
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.65384614
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.64444447
+org.apache.camel.component.mina2.Mina2Configuration		0.4915254
+org.apache.camel.component.mina2.Mina2Producer		0.43174604
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.42647058
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Converter		0.23529412
+org.apache.camel.component.mina2.Mina2Consumer		0.19512194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2EncodingTest_testUDPEncodeUTF8InputIsString_27
+org.apache.camel.component.mina2.Mina2Endpoint		0.8888889
+org.apache.camel.component.mina2.Mina2UdpProtocolCodecFactory		0.8
+org.apache.camel.component.mina2.Mina2Component		0.6792453
+org.apache.camel.component.mina2.Mina2Configuration		0.4915254
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Producer		0.33650795
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2Converter		0.23529412
+org.apache.camel.component.mina2.Mina2Consumer		0.19512194
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.13235295
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2ExchangeDefaultTimeOutTest
+Mina2ExchangeDefaultTimeOutTest		0.9230769
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2ExchangeDefaultTimeOutTest_testDefaultTimeOut_1h
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.7894737
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.65384614
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.46666667
+org.apache.camel.component.mina2.Mina2Endpoint		0.44444445
+org.apache.camel.component.mina2.Mina2Producer		0.44126984
+org.apache.camel.component.mina2.Mina2Configuration		0.42372882
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.30882353
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2ExchangeTimeOutTest
+Mina2ExchangeTimeOutTest		0.94736844
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2ExchangeTimeOutTest_testUsingTimeoutParameter_1d
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.7894737
+org.apache.camel.component.mina2.Mina2Endpoint		0.6296296
+org.apache.camel.component.mina2.Mina2Component		0.6037736
+org.apache.camel.component.mina2.Mina2Configuration		0.5762712
+org.apache.camel.component.mina2.Mina2Producer		0.4857143
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.42222223
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.13235295
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2FileTcpTest
+Mina2FileTcpTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2FileTcpTest_testMinaRoute_1w
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.42647058
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Endpoint		0.33333334
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.22222222
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.21052632
+org.apache.camel.component.mina2.Mina2Producer		0.16190477
+org.apache.camel.component.mina2.Mina2Configuration		0.118644066
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2FileUdpTest
+Mina2FileUdpTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2FileUdpTest_testMinaRoute_15
+org.apache.camel.component.mina2.Mina2UdpProtocolCodecFactory		0.72
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.4117647
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Endpoint		0.33333334
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2Converter		0.23529412
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.22222222
+org.apache.camel.component.mina2.Mina2Producer		0.15873016
+org.apache.camel.component.mina2.Mina2Configuration		0.10169491
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2FiltersTest
+Mina2FiltersTest		1.0
+Mina2FiltersTest.TestFilter		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2FiltersTest_testFilterElementRef_1l
+org.apache.camel.component.mina2.Mina2Endpoint		0.8888889
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.7894737
+org.apache.camel.component.mina2.Mina2Component		0.6792453
+org.apache.camel.component.mina2.Mina2Configuration		0.6101695
+org.apache.camel.component.mina2.Mina2Producer		0.46349207
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.42647058
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Consumer		0.32520324
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.17777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2FiltersTest_testFilterListRef_y
+org.apache.camel.component.mina2.Mina2Endpoint		0.8888889
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.7894737
+org.apache.camel.component.mina2.Mina2Component		0.6792453
+org.apache.camel.component.mina2.Mina2Configuration		0.6101695
+org.apache.camel.component.mina2.Mina2Producer		0.46349207
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.42647058
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Consumer		0.32520324
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.17777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2InOnlyRouteTest
+Mina2InOnlyRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2InOnlyRouteTest_testInOnlyUsingMina_w
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.46666667
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.46153846
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.4117647
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Endpoint		0.33333334
+org.apache.camel.component.mina2.Mina2Producer		0.1968254
+org.apache.camel.component.mina2.Mina2Configuration		0.10169491
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2InOutCloseSessionWhenCompleteTest
+Mina2InOutCloseSessionWhenCompleteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2InOutCloseSessionWhenCompleteTest_testCloseSessionWhenComplete_u
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.7894737
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.65384614
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.46666667
+org.apache.camel.component.mina2.Mina2Endpoint		0.44444445
+org.apache.camel.component.mina2.Mina2Producer		0.44126984
+org.apache.camel.component.mina2.Mina2Configuration		0.42372882
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.30882353
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2InOutRouteTest
+Mina2InOutRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2InOutRouteTest_testInOutUsingMina_17
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.65384614
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.46666667
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.4117647
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Endpoint		0.33333334
+org.apache.camel.component.mina2.Mina2Producer		0.1968254
+org.apache.camel.component.mina2.Mina2Configuration		0.10169491
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2InOutRouteTextLineDelimiterTest
+Mina2InOutRouteTextLineDelimiterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2InOutRouteTextLineDelimiterTest_testInOutUsingMina_12
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.7894737
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.65384614
+org.apache.camel.component.mina2.Mina2TextLineDelimiter		0.5
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.46666667
+org.apache.camel.component.mina2.Mina2Endpoint		0.44444445
+org.apache.camel.component.mina2.Mina2Producer		0.44126984
+org.apache.camel.component.mina2.Mina2Configuration		0.42372882
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.30882353
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2InOutWithForcedNoResponseTest
+Mina2InOutWithForcedNoResponseTest		0.875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2InOutWithForcedNoResponseTest_testNoResponseDisconnectOnNoReplyFalse_21
+org.apache.camel.component.mina2.Mina2Endpoint		0.6296296
+org.apache.camel.component.mina2.Mina2Component		0.6037736
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.46153846
+org.apache.camel.component.mina2.Mina2Configuration		0.45762712
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.44117647
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.4
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Producer		0.36825398
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2InOutWithForcedNoResponseTest_testResponse_9
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.65384614
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.46666667
+org.apache.camel.component.mina2.Mina2Endpoint		0.44444445
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Producer		0.37460318
+org.apache.camel.component.mina2.Mina2Configuration		0.33898306
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.29411766
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2MaxLineLengthTest
+Mina2MaxLineLengthTest		1.0
+Mina2MaxLineLengthTest.MyServerProcessor		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2MaxLineLengthTest_testSendToServer_0
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.8947368
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.65384614
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.46666667
+org.apache.camel.component.mina2.Mina2Endpoint		0.44444445
+org.apache.camel.component.mina2.Mina2Producer		0.44444445
+org.apache.camel.component.mina2.Mina2Configuration		0.42372882
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.30882353
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2NoDefaultCodecTest
+Mina2NoDefaultCodecTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2NoDefaultCodecTest_testFilter_v
+org.apache.camel.component.mina2.Mina2Component		0.6792453
+org.apache.camel.component.mina2.Mina2Endpoint		0.6296296
+org.apache.camel.component.mina2.Mina2Configuration		0.3898305
+org.apache.camel.component.mina2.Mina2Consumer		0.22764228
+org.apache.camel.component.mina2.Mina2Producer		0.16825397
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2NoResponseFromServerTest
+Mina2NoResponseFromServerTest		0.9375
+Mina2NoResponseFromServerTest.MyCodec		0.6363636
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2NoResponseFromServerTest_testNoResponse_1q
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.4888889
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Producer		0.34285715
+org.apache.camel.component.mina2.Mina2Configuration		0.3220339
+org.apache.camel.component.mina2.Mina2Endpoint		0.18518518
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.15384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2ProducerAnotherConcurrentTest
+Mina2ProducerAnotherConcurrentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2ProducerAnotherConcurrentTest_testConcurrentProducers_1u
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.65384614
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.46666667
+org.apache.camel.component.mina2.Mina2Endpoint		0.44444445
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.4117647
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Producer		0.37777779
+org.apache.camel.component.mina2.Mina2Configuration		0.33898306
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2ProducerAnotherConcurrentTest_testNoConcurrentProducers_1v
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.65384614
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.46666667
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Endpoint		0.33333334
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.29411766
+org.apache.camel.component.mina2.Mina2Producer		0.1968254
+org.apache.camel.component.mina2.Mina2Configuration		0.10169491
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2ProducerAnotherConcurrentTest_testSimple_2g
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.65384614
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.46666667
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.4117647
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Endpoint		0.33333334
+org.apache.camel.component.mina2.Mina2Producer		0.1968254
+org.apache.camel.component.mina2.Mina2Configuration		0.10169491
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2ProducerConcurrentTest
+Mina2ProducerConcurrentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2ProducerConcurrentTest_testConcurrentProducers_x
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.65384614
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.46666667
+org.apache.camel.component.mina2.Mina2Endpoint		0.44444445
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.4117647
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Producer		0.37777779
+org.apache.camel.component.mina2.Mina2Configuration		0.33898306
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2ProducerConcurrentTest_testNoConcurrentProducers_g
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.65384614
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.46666667
+org.apache.camel.component.mina2.Mina2Endpoint		0.44444445
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Producer		0.37460318
+org.apache.camel.component.mina2.Mina2Configuration		0.33898306
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.29411766
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2ProducerShutdownMockTest
+Mina2ProducerShutdownMockTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2ProducerShutdownMockTest_testProducerShutdownTestingWithMock_25
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.7894737
+org.apache.camel.component.mina2.Mina2Producer		0.45396826
+org.apache.camel.component.mina2.Mina2Endpoint		0.44444445
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.42647058
+org.apache.camel.component.mina2.Mina2Configuration		0.42372882
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.4
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2ProducerShutdownTest
+Mina2ProducerShutdownTest		0.0
+Mina2ProducerShutdownTest.AssertShutdownHook		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2SendToProcessorTest
+Mina2SendToProcessorTest		0.875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2SendToProcessorTest_testConnectionOnSendMessage_2l
+org.apache.camel.component.mina2.Mina2Component		0.6792453
+org.apache.camel.component.mina2.Mina2Endpoint		0.37037036
+org.apache.camel.component.mina2.Mina2Configuration		0.3559322
+org.apache.camel.component.mina2.Mina2Producer		0.17777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2SendToProcessorTest_testConnectionOnStartupTest_j
+org.apache.camel.component.mina2.Mina2Component		0.6792453
+org.apache.camel.component.mina2.Mina2Configuration		0.3898305
+org.apache.camel.component.mina2.Mina2Endpoint		0.37037036
+org.apache.camel.component.mina2.Mina2Producer		0.24444444
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2SpringMinaEndpointTest
+Mina2SpringMinaEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2SpringMinaEndpointTest_testMinaSpringEndpoint_1x
+org.apache.camel.component.mina2.Mina2Endpoint		0.5185185
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.4117647
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Configuration		0.33898306
+org.apache.camel.component.mina2.Mina2Producer		0.33333334
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.22222222
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2SpringMinaEndpointUDPTest
+Mina2SpringMinaEndpointUDPTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2SpringMinaEndpointUDPTest_testMinaSpringEndpoint_2w
+org.apache.camel.component.mina2.Mina2UdpProtocolCodecFactory		0.8
+org.apache.camel.component.mina2.Mina2Endpoint		0.5185185
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Configuration		0.33898306
+org.apache.camel.component.mina2.Mina2Producer		0.33333334
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2Converter		0.23529412
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.11764706
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2SpringMultipleUDPTest
+Mina2SpringMultipleUDPTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2SpringMultipleUDPTest_testMinaSpringProtobufEndpoint_5
+org.apache.camel.component.mina2.Mina2UdpProtocolCodecFactory		0.8
+org.apache.camel.component.mina2.Mina2Endpoint		0.5185185
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.42647058
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Configuration		0.3559322
+org.apache.camel.component.mina2.Mina2Producer		0.34603176
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2Converter		0.23529412
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.22222222
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2SslContextParametersTcpTest
+Mina2SslContextParametersTcpTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2SslContextParametersTcpTest_testMinaRoute_s
+org.apache.camel.component.mina2.Mina2Endpoint		0.44444445
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Configuration		0.3559322
+org.apache.camel.component.mina2.Mina2Producer		0.34603176
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.11764706
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2SslContextParametersUdpTest
+Mina2SslContextParametersUdpTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2SslContextParametersUdpTest_testMinaRoute_l
+org.apache.camel.component.mina2.Mina2UdpProtocolCodecFactory		0.72
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.4117647
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Endpoint		0.33333334
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2Converter		0.23529412
+org.apache.camel.component.mina2.Mina2Configuration		0.06779661
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2SslContextParametersVmTest
+Mina2SslContextParametersVmTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2SslContextParametersVmTest_testMinaRoute_1z
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.46153846
+org.apache.camel.component.mina2.Mina2Endpoint		0.44444445
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.4117647
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Producer		0.32380953
+org.apache.camel.component.mina2.Mina2Configuration		0.30508474
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.22222222
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2SslGlobalContextParametersTcpTest
+Mina2SslGlobalContextParametersTcpTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2SslGlobalContextParametersTcpTest_testMinaRoute_k
+org.apache.camel.component.mina2.Mina2Endpoint		0.44444445
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Configuration		0.3559322
+org.apache.camel.component.mina2.Mina2Producer		0.34603176
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.11764706
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2TcpLineDelimiterUsingPlainSocketTest
+Mina2TcpLineDelimiterUsingPlainSocketTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2TcpLineDelimiterUsingPlainSocketTest_testExchangeFailedOutShouldBeNull_14
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.3529412
+org.apache.camel.component.mina2.Mina2Endpoint		0.33333334
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.21052632
+org.apache.camel.component.mina2.Mina2Helper		0.15384616
+org.apache.camel.component.mina2.Mina2Configuration		0.084745765
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2TcpLineDelimiterUsingPlainSocketTest_testReceiveNoResponseSinceOutBodyIsNullTwice_m
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.45588234
+org.apache.camel.component.mina2.Mina2Endpoint		0.33333334
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.10526316
+org.apache.camel.component.mina2.Mina2Configuration		0.084745765
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2TcpLineDelimiterUsingPlainSocketTest_testReceiveNoResponseSinceOutBodyIsNull_1
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.45588234
+org.apache.camel.component.mina2.Mina2Endpoint		0.33333334
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.10526316
+org.apache.camel.component.mina2.Mina2Configuration		0.084745765
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2TcpLineDelimiterUsingPlainSocketTest_testSendAndReceiveOnce_2b
+org.apache.camel.component.mina2.Mina2Endpoint		0.33333334
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.30882353
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.21052632
+org.apache.camel.component.mina2.Mina2Helper		0.15384616
+org.apache.camel.component.mina2.Mina2Configuration		0.084745765
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2TcpLineDelimiterUsingPlainSocketTest_testSendAndReceiveTwice_1j
+org.apache.camel.component.mina2.Mina2Endpoint		0.33333334
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.30882353
+org.apache.camel.component.mina2.Mina2Helper		0.30769232
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.21052632
+org.apache.camel.component.mina2.Mina2Configuration		0.084745765
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2TcpTest
+Mina2TcpTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2TcpTest_testMinaRoute1_24
+org.apache.camel.component.mina2.Mina2Endpoint		0.6296296
+org.apache.camel.component.mina2.Mina2Component		0.6037736
+org.apache.camel.component.mina2.Mina2Configuration		0.45762712
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Producer		0.33650795
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.11764706
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2TcpTest_testMinaRoute2_h
+org.apache.camel.component.mina2.Mina2Endpoint		0.6296296
+org.apache.camel.component.mina2.Mina2Component		0.6037736
+org.apache.camel.component.mina2.Mina2Configuration		0.45762712
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Producer		0.33650795
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.11764706
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2TcpTextlineDelimiterTest
+Mina2TcpTextlineDelimiterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2TcpTextlineDelimiterTest_testMinaRoute_r
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.7894737
+org.apache.camel.component.mina2.Mina2TextLineDelimiter		0.5
+org.apache.camel.component.mina2.Mina2Endpoint		0.44444445
+org.apache.camel.component.mina2.Mina2Configuration		0.42372882
+org.apache.camel.component.mina2.Mina2Producer		0.4
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.13235295
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2TcpTextlineProtocolTest
+Mina2TcpTextlineProtocolTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2TcpTextlineProtocolTest_testMinaRoute_2y
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.7894737
+org.apache.camel.component.mina2.Mina2Endpoint		0.44444445
+org.apache.camel.component.mina2.Mina2Configuration		0.42372882
+org.apache.camel.component.mina2.Mina2Producer		0.4
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.13235295
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2TcpWithInOutTest
+Mina2TcpWithInOutTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2TcpWithInOutTest_testMinaRouteWithInOutLazy_8
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.7894737
+org.apache.camel.component.mina2.Mina2Component		0.6792453
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.64444447
+org.apache.camel.component.mina2.Mina2Configuration		0.55932206
+org.apache.camel.component.mina2.Mina2Producer		0.50476193
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Endpoint		0.37037036
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.34615386
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2TcpWithInOutTest_testMinaRouteWithInOut_2e
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.7894737
+org.apache.camel.component.mina2.Mina2Component		0.6792453
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.64444447
+org.apache.camel.component.mina2.Mina2Configuration		0.5423729
+org.apache.camel.component.mina2.Mina2Producer		0.50476193
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Endpoint		0.37037036
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.34615386
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2TcpWithInOutUsingPlainSocketTest
+Mina2TcpWithInOutUsingPlainSocketTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2TcpWithInOutUsingPlainSocketTest_testExchangeFailedOutShouldBeNull_p
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.3529412
+org.apache.camel.component.mina2.Mina2Endpoint		0.33333334
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.21052632
+org.apache.camel.component.mina2.Mina2Helper		0.15384616
+org.apache.camel.component.mina2.Mina2Configuration		0.084745765
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2TcpWithInOutUsingPlainSocketTest_testExchangeWithInOnly_n
+org.apache.camel.component.mina2.Mina2Endpoint		0.33333334
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.30882353
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.21052632
+org.apache.camel.component.mina2.Mina2Helper		0.15384616
+org.apache.camel.component.mina2.Mina2Configuration		0.084745765
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2TcpWithInOutUsingPlainSocketTest_testReceiveNoResponseSinceOutBodyIsNullTwice_1r
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.45588234
+org.apache.camel.component.mina2.Mina2Endpoint		0.33333334
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.10526316
+org.apache.camel.component.mina2.Mina2Configuration		0.084745765
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2TcpWithInOutUsingPlainSocketTest_testReceiveNoResponseSinceOutBodyIsNull_2h
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.45588234
+org.apache.camel.component.mina2.Mina2Endpoint		0.33333334
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.10526316
+org.apache.camel.component.mina2.Mina2Configuration		0.084745765
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2TcpWithInOutUsingPlainSocketTest_testSendAndReceiveOnce_1e
+org.apache.camel.component.mina2.Mina2Endpoint		0.33333334
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.30882353
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.21052632
+org.apache.camel.component.mina2.Mina2Helper		0.15384616
+org.apache.camel.component.mina2.Mina2Configuration		0.084745765
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2TcpWithInOutUsingPlainSocketTest_testSendAndReceiveTwice_20
+org.apache.camel.component.mina2.Mina2Endpoint		0.33333334
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.30882353
+org.apache.camel.component.mina2.Mina2Helper		0.30769232
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.21052632
+org.apache.camel.component.mina2.Mina2Configuration		0.084745765
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2TcpWithIoOutProcessorExceptionTest
+Mina2TcpWithIoOutProcessorExceptionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2TcpWithIoOutProcessorExceptionTest_testExceptionThrownInProcessor_1b
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.7894737
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.5
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.47058824
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.46666667
+org.apache.camel.component.mina2.Mina2Endpoint		0.44444445
+org.apache.camel.component.mina2.Mina2Producer		0.44126984
+org.apache.camel.component.mina2.Mina2Configuration		0.42372882
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2TransferExchangeOptionTest
+Mina2TransferExchangeOptionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2TransferExchangeOptionTest_testMinaTransferExchangeOptionWithException_1a
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.61538464
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.46666667
+org.apache.camel.component.mina2.Mina2Endpoint		0.44444445
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Producer		0.37777779
+org.apache.camel.component.mina2.Mina2Configuration		0.3559322
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.30882353
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2TransferExchangeOptionTest_testMinaTransferExchangeOptionWithoutException_1c
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.61538464
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.46666667
+org.apache.camel.component.mina2.Mina2Endpoint		0.44444445
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Producer		0.37777779
+org.apache.camel.component.mina2.Mina2Configuration		0.3559322
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.30882353
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2UdpConcurrentTest
+Mina2UdpConcurrentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2UdpConcurrentTest_testMinaRoute_o
+org.apache.camel.component.mina2.Mina2UdpProtocolCodecFactory		0.72
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.4117647
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Endpoint		0.33333334
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2Converter		0.23529412
+org.apache.camel.component.mina2.Mina2Configuration		0.06779661
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2UdpNoCamelTest
+Mina2UdpNoCamelTest		1.0
+Mina2UdpNoCamelTest.UDPServer		0.8888889
+Mina2UdpNoCamelTest.UDPClient		0.6666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2UdpNoCamelTest_testMinaUDPWithNoCamel_e
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2UdpTest
+Mina2UdpTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2UdpTest_testMinaRoute_1m
+org.apache.camel.component.mina2.Mina2UdpProtocolCodecFactory		0.72
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.4117647
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Endpoint		0.33333334
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2Converter		0.23529412
+org.apache.camel.component.mina2.Mina2Configuration		0.06779661
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2UdpUsingTemplateTest
+Mina2UdpUsingTemplateTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2UdpUsingTemplateTest_testMinaRoute_1t
+org.apache.camel.component.mina2.Mina2UdpProtocolCodecFactory		0.8
+org.apache.camel.component.mina2.Mina2Endpoint		0.6296296
+org.apache.camel.component.mina2.Mina2Component		0.6037736
+org.apache.camel.component.mina2.Mina2Configuration		0.44067797
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.4117647
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Producer		0.33650795
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2Converter		0.23529412
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.22222222
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2UdpUsingTemplateTest_testSendingByteMessages_z
+org.apache.camel.component.mina2.Mina2UdpProtocolCodecFactory		0.8
+org.apache.camel.component.mina2.Mina2Endpoint		0.6296296
+org.apache.camel.component.mina2.Mina2Component		0.6037736
+org.apache.camel.component.mina2.Mina2Configuration		0.44067797
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Producer		0.33333334
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2Converter		0.23529412
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.11764706
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2UdpUsingTemplateTest_testSendingRawByteMessage_2p
+org.apache.camel.component.mina2.Mina2UdpProtocolCodecFactory		0.8
+org.apache.camel.component.mina2.Mina2Endpoint		0.6296296
+org.apache.camel.component.mina2.Mina2Component		0.6037736
+org.apache.camel.component.mina2.Mina2Configuration		0.44067797
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Producer		0.33333334
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.29411766
+org.apache.camel.component.mina2.Mina2Converter		0.23529412
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2UdpWithInOutUsingPlainSocketTest
+Mina2UdpWithInOutUsingPlainSocketTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2UdpWithInOutUsingPlainSocketTest_testSendAndReceiveOnce_2u
+org.apache.camel.component.mina2.Mina2UdpProtocolCodecFactory		0.72
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.4117647
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Endpoint		0.33333334
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2Converter		0.23529412
+org.apache.camel.component.mina2.Mina2Configuration		0.06779661
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2VMCustomCodecTest
+Mina2VMCustomCodecTest		0.96666664
+Mina2VMCustomCodecTest.MyCodec		0.85
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2VMCustomCodecTest_testBadConfiguration_i
+org.apache.camel.component.mina2.Mina2Component		0.20754717
+org.apache.camel.component.mina2.Mina2Configuration		0.06779661
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2VMCustomCodecTest_testMyCodec_d
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.65384614
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.46666667
+org.apache.camel.component.mina2.Mina2Endpoint		0.44444445
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.4117647
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Producer		0.33333334
+org.apache.camel.component.mina2.Mina2Configuration		0.2881356
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2VMCustomCodecTest_testTCPEncodeUTF8InputIsString_2m
+org.apache.camel.component.mina2.Mina2Endpoint		0.8888889
+org.apache.camel.component.mina2.Mina2Component		0.6037736
+org.apache.camel.component.mina2.Mina2Configuration		0.45762712
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.42647058
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Producer		0.32063493
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.22222222
+org.apache.camel.component.mina2.Mina2Consumer		0.199187
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2VMFileTcpTest
+Mina2VMFileTcpTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2VMFileTcpTest_testMinaRoute_2o
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.42647058
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Endpoint		0.33333334
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.30769232
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.22222222
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.21052632
+org.apache.camel.component.mina2.Mina2Producer		0.15873016
+org.apache.camel.component.mina2.Mina2Configuration		0.118644066
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2VMTextlineProtocolTest
+Mina2VMTextlineProtocolTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2VMTextlineProtocolTest_testMinaRoute_b
+org.apache.camel.component.mina2.Mina2TextLineCodecFactory		0.7894737
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.46153846
+org.apache.camel.component.mina2.Mina2Endpoint		0.44444445
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.42647058
+org.apache.camel.component.mina2.Mina2Configuration		0.3898305
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Producer		0.384127
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.22222222
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2VMTransferExchangeOptionTest
+Mina2VMTransferExchangeOptionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2VMTransferExchangeOptionTest_testMinaTransferExchangeOptionWithException_2d
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.61538464
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.46666667
+org.apache.camel.component.mina2.Mina2Endpoint		0.44444445
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.42647058
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Producer		0.36190477
+org.apache.camel.component.mina2.Mina2Configuration		0.3220339
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2VMTransferExchangeOptionTest_testMinaTransferExchangeOptionWithoutException_1y
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.61538464
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.46666667
+org.apache.camel.component.mina2.Mina2Endpoint		0.44444445
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.42647058
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Producer		0.36190477
+org.apache.camel.component.mina2.Mina2Configuration		0.3220339
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2VmTest
+Mina2VmTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/Mina2VmTest_testMinaRoute_23
+org.apache.camel.component.mina2.Mina2PayloadHelper		0.46153846
+org.apache.camel.component.mina2.Mina2Endpoint		0.44444445
+org.apache.camel.component.mina2.Mina2Consumer.ReceiveHandler		0.4117647
+org.apache.camel.component.mina2.Mina2Helper		0.3846154
+org.apache.camel.component.mina2.Mina2Producer		0.32063493
+org.apache.camel.component.mina2.Mina2Configuration		0.30508474
+org.apache.camel.component.mina2.Mina2Producer.ResponseHandler		0.22222222
+org.apache.camel.component.mina2.Mina2Consumer		0.008130081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-BaseMina2Test
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-MessageIOSessionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2ClientModeTcpTextlineDelimiterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2ClientModeTcpTextlineDelimiterTest_Server
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2ClientModeTcpTextlineDelimiterTest_ServerHandler
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2ClientServerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2ClientServerTest_MyServerProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2ComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2ComponentWithConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2ConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2ConverterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2CustomCodecTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2CustomCodecTest_MyCodec
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2DisconnectRaceConditionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2DisconnectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2EncodingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2ExchangeDefaultTimeOutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2ExchangeTimeOutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2FileTcpTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2FileUdpTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2FiltersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2FiltersTest_TestFilter
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2InOnlyRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2InOutCloseSessionWhenCompleteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2InOutRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2InOutRouteTextLineDelimiterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2InOutWithForcedNoResponseTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2MaxLineLengthTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2MaxLineLengthTest_MyServerProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2NoDefaultCodecTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2NoResponseFromServerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2NoResponseFromServerTest_MyCodec
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2ProducerAnotherConcurrentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2ProducerConcurrentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2ProducerShutdownMockTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2ProducerShutdownTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2ProducerShutdownTest_AssertShutdownHook
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2SendToProcessorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2SpringMinaEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2SpringMinaEndpointUDPTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2SpringMultipleUDPTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2SslContextParametersTcpTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2SslContextParametersUdpTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2SslContextParametersVmTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2SslGlobalContextParametersTcpTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2TcpLineDelimiterUsingPlainSocketTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2TcpTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2TcpTextlineDelimiterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2TcpTextlineProtocolTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2TcpWithInOutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2TcpWithInOutUsingPlainSocketTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2TcpWithIoOutProcessorExceptionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2TransferExchangeOptionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2UdpConcurrentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2UdpNoCamelTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2UdpNoCamelTest_UDPClient
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2UdpNoCamelTest_UDPServer
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2UdpTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2UdpUsingTemplateTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2UdpWithInOutUsingPlainSocketTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2VMCustomCodecTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2VMCustomCodecTest_MyCodec
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2VMFileTcpTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2VMTextlineProtocolTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2VMTransferExchangeOptionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mina2/target/site/clover/org/apache/camel/component/mina2/test-Mina2VmTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

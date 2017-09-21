@@ -1,0 +1,23 @@
+./components/camel-context/target/site/clover/org/apache/camel
+./components/camel-context/target/site/clover/org/apache/camel/component/context/JavaDslBlackBoxTest
+JavaDslBlackBoxTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-context/target/site/clover/org/apache/camel/component/context/JavaDslBlackBoxTest_testUsingContextComponent_1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-context/target/site/clover/org/apache/camel/component/context/JavaDslBlackBoxWithVerboseUriTest
+JavaDslBlackBoxWithVerboseUriTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-context/target/site/clover/org/apache/camel/component/context/JavaDslBlackBoxWithVerboseUriTest_testUsingContextComponent_3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-context/target/site/clover/org/apache/camel/component/context/SpringDslContextComponentTest
+SpringDslContextComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-context/target/site/clover/org/apache/camel/component/context/SpringDslContextComponentTest_testUsingContextComponent_0
+org.apache.camel.component.context.ContextEndpoint		0.08695652
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-context/target/site/clover/org/apache/camel/component/context/test-JavaDslBlackBoxTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-context/target/site/clover/org/apache/camel/component/context/test-JavaDslBlackBoxWithVerboseUriTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-context/target/site/clover/org/apache/camel/component/context/test-SpringDslContextComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,16 @@
+./platforms/spring-boot/components-starter/camel-sql-starter/target/site/clover/org/apache/camel
+./platforms/spring-boot/components-starter/camel-sql-starter/target/site/clover/org/apache/camel/component/sql/DataSourceAutoConfigurationTest
+DataSourceAutoConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-sql-starter/target/site/clover/org/apache/camel/component/sql/DataSourceAutoConfigurationTest_testInjectionWorks_1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-sql-starter/target/site/clover/org/apache/camel/component/sql/DataSourceAutoConfigurationTest_testSqlComponentUsesTheConfiguredDatasource_2
+org.apache.camel.component.sql.springboot.SqlComponentAutoConfiguration		0.5714286
+org.apache.camel.component.sql.springboot.SqlComponentConfiguration		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-sql-starter/target/site/clover/org/apache/camel/component/sql/DataSourceAutoConfigurationTest_testSqlStoredComponentUsesTheConfiguredDatasource_0
+org.apache.camel.component.sql.stored.springboot.SqlStoredComponentAutoConfiguration		0.5714286
+org.apache.camel.component.sql.stored.springboot.SqlStoredComponentConfiguration		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-sql-starter/target/site/clover/org/apache/camel/component/sql/test-DataSourceAutoConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

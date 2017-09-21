@@ -1,0 +1,11 @@
+./examples/camel-example-reportincident-wssecurity/target/site/clover/org/apache/camel
+./examples/camel-example-reportincident-wssecurity/target/site/clover/org/apache/camel/example/reportincident/ReportIncidentRoutesTest
+ReportIncidentRoutesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-reportincident-wssecurity/target/site/clover/org/apache/camel/example/reportincident/ReportIncidentRoutesTest_testRendportIncident_0
+org.apache.camel.example.reportincident.FilenameGenerator		1.0
+org.apache.camel.example.reportincident.MyBean		1.0
+org.apache.camel.example.reportincident.UTPasswordCallback		0.46341464
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-reportincident-wssecurity/target/site/clover/org/apache/camel/example/reportincident/test-ReportIncidentRoutesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

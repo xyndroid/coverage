@@ -1,0 +1,56 @@
+./components/camel-flink/target/site/clover/org/apache/camel
+./components/camel-flink/target/site/clover/org/apache/camel/component/flink/FlinkProducerTest
+FlinkProducerTest		0.9166667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flink/target/site/clover/org/apache/camel/component/flink/FlinkProducerTest_shouldExecuteAnnotatedCallbackWithParameters_5
+org.apache.camel.component.flink.annotations.AnnotatedDataSetCallback		0.6666667
+org.apache.camel.component.flink.FlinkComponent		0.61904764
+org.apache.camel.component.flink.DataSetFlinkProducer		0.59183675
+org.apache.camel.component.flink.FlinkEndpoint		0.43137255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flink/target/site/clover/org/apache/camel/component/flink/FlinkProducerTest_shouldExecuteAnnotatedCallback_4
+org.apache.camel.component.flink.annotations.AnnotatedDataSetCallback		0.7
+org.apache.camel.component.flink.FlinkComponent		0.61904764
+org.apache.camel.component.flink.DataSetFlinkProducer		0.5510204
+org.apache.camel.component.flink.FlinkEndpoint		0.43137255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flink/target/site/clover/org/apache/camel/component/flink/FlinkProducerTest_shouldExecuteAnnotatedVoidCallback_7
+org.apache.camel.component.flink.annotations.AnnotatedDataSetCallback		0.7
+org.apache.camel.component.flink.FlinkComponent		0.61904764
+org.apache.camel.component.flink.DataSetFlinkProducer		0.5510204
+org.apache.camel.component.flink.FlinkEndpoint		0.43137255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flink/target/site/clover/org/apache/camel/component/flink/FlinkProducerTest_shouldExecuteDataSetCallbackWithPayloads_3
+org.apache.camel.component.flink.FlinkComponent		0.61904764
+org.apache.camel.component.flink.DataSetFlinkProducer		0.59183675
+org.apache.camel.component.flink.FlinkEndpoint		0.43137255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flink/target/site/clover/org/apache/camel/component/flink/FlinkProducerTest_shouldExecuteDataSetCallbackWithSinglePayload_8
+org.apache.camel.component.flink.FlinkComponent		0.61904764
+org.apache.camel.component.flink.DataSetFlinkProducer		0.5510204
+org.apache.camel.component.flink.FlinkEndpoint		0.43137255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flink/target/site/clover/org/apache/camel/component/flink/FlinkProducerTest_shouldExecuteDataSetCallback_1
+org.apache.camel.component.flink.FlinkComponent		0.61904764
+org.apache.camel.component.flink.DataSetFlinkProducer		0.5510204
+org.apache.camel.component.flink.FlinkEndpoint		0.43137255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flink/target/site/clover/org/apache/camel/component/flink/FlinkProducerTest_shouldExecuteVoidCallback_0
+org.apache.camel.component.flink.VoidDataSetCallback		1.0
+org.apache.camel.component.flink.FlinkComponent		0.61904764
+org.apache.camel.component.flink.DataSetFlinkProducer		0.5510204
+org.apache.camel.component.flink.FlinkEndpoint		0.43137255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flink/target/site/clover/org/apache/camel/component/flink/FlinkProducerTest_shouldExecuteVoidDataStreamCallback_2
+org.apache.camel.component.flink.VoidDataStreamCallback		1.0
+org.apache.camel.component.flink.FlinkComponent		0.61904764
+org.apache.camel.component.flink.DataStreamFlinkProducer		0.5681818
+org.apache.camel.component.flink.FlinkEndpoint		0.49019608
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flink/target/site/clover/org/apache/camel/component/flink/FlinkProducerTest_shouldUseTransformationFromRegistry_6
+org.apache.camel.component.flink.FlinkComponent		0.61904764
+org.apache.camel.component.flink.DataSetFlinkProducer		0.59183675
+org.apache.camel.component.flink.FlinkEndpoint		0.4509804
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-flink/target/site/clover/org/apache/camel/component/flink/test-FlinkProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

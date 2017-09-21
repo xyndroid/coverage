@@ -1,0 +1,75 @@
+./components/camel-spring-ldap/target/site/clover/org/apache/camel
+./components/camel-spring-ldap/target/site/clover/org/apache/camel/component/springldap/SpringLdapComponentTest
+SpringLdapComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ldap/target/site/clover/org/apache/camel/component/springldap/SpringLdapComponentTest_testBind_0
+org.apache.camel.component.springldap.SpringLdapComponent		0.7777778
+org.apache.camel.component.springldap.SpringLdapEndpoint		0.4857143
+org.apache.camel.component.springldap.SpringLdapProducer		0.3653846
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ldap/target/site/clover/org/apache/camel/component/springldap/SpringLdapComponentTest_testSearch_5
+org.apache.camel.component.springldap.SpringLdapEndpoint		0.4
+org.apache.camel.component.springldap.SpringLdapProducer		0.3653846
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ldap/target/site/clover/org/apache/camel/component/springldap/SpringLdapComponentTest_testUnbind_f
+org.apache.camel.component.springldap.SpringLdapComponent		0.7777778
+org.apache.camel.component.springldap.SpringLdapEndpoint		0.4857143
+org.apache.camel.component.springldap.SpringLdapProducer		0.34615386
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ldap/target/site/clover/org/apache/camel/component/springldap/SpringLdapProducerTest
+SpringLdapProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ldap/target/site/clover/org/apache/camel/component/springldap/SpringLdapProducerTest_testAuthenticate_8
+org.apache.camel.component.springldap.SpringLdapProducer		0.28846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ldap/target/site/clover/org/apache/camel/component/springldap/SpringLdapProducerTest_testBind_d
+org.apache.camel.component.springldap.SpringLdapProducer		0.30769232
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ldap/target/site/clover/org/apache/camel/component/springldap/SpringLdapProducerTest_testEmptyDN_e
+org.apache.camel.component.springldap.SpringLdapProducer		0.115384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ldap/target/site/clover/org/apache/camel/component/springldap/SpringLdapProducerTest_testEmptyExchange_6
+org.apache.camel.component.springldap.SpringLdapProducer		0.03846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ldap/target/site/clover/org/apache/camel/component/springldap/SpringLdapProducerTest_testFunctionDriven_b
+org.apache.camel.component.springldap.SpringLdapProducer		0.32692307
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ldap/target/site/clover/org/apache/camel/component/springldap/SpringLdapProducerTest_testModifyAttributes_3
+org.apache.camel.component.springldap.SpringLdapProducer		0.30769232
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ldap/target/site/clover/org/apache/camel/component/springldap/SpringLdapProducerTest_testNoDNForFunctionDrivenOperation_a
+org.apache.camel.component.springldap.SpringLdapProducer		0.3846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ldap/target/site/clover/org/apache/camel/component/springldap/SpringLdapProducerTest_testNoDN_1
+org.apache.camel.component.springldap.SpringLdapProducer		0.115384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ldap/target/site/clover/org/apache/camel/component/springldap/SpringLdapProducerTest_testNullDN_9
+org.apache.camel.component.springldap.SpringLdapProducer		0.115384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ldap/target/site/clover/org/apache/camel/component/springldap/SpringLdapProducerTest_testNullOperation_2
+org.apache.camel.component.springldap.SpringLdapProducer		0.115384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ldap/target/site/clover/org/apache/camel/component/springldap/SpringLdapProducerTest_testSearch_7
+org.apache.camel.component.springldap.SpringLdapProducer		0.30769232
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ldap/target/site/clover/org/apache/camel/component/springldap/SpringLdapProducerTest_testUnbind_c
+org.apache.camel.component.springldap.SpringLdapProducer		0.28846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ldap/target/site/clover/org/apache/camel/component/springldap/SpringLdapProducerTest_testWrongBodyType_h
+org.apache.camel.component.springldap.SpringLdapProducer		0.03846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ldap/target/site/clover/org/apache/camel/component/springldap/SpringLdapTestConfiguration
+SpringLdapTestConfiguration		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ldap/target/site/clover/org/apache/camel/component/springldap/SpringLdapTestConfiguration_testTemplate_4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ldap/target/site/clover/org/apache/camel/component/springldap/SpringLdapTestConfiguration_testTemplate_g
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ldap/target/site/clover/org/apache/camel/component/springldap/SpringLdapTestConfiguration_testTemplate_i
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ldap/target/site/clover/org/apache/camel/component/springldap/test-SpringLdapComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ldap/target/site/clover/org/apache/camel/component/springldap/test-SpringLdapProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ldap/target/site/clover/org/apache/camel/component/springldap/test-SpringLdapTestConfiguration
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,500 @@
+./components/camel-saxon/target/site/clover/org/apache/camel
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/BeanWithXQueryInjectionTest
+BeanWithXQueryInjectionTest		1.0
+BeanWithXQueryInjectionTest.MyBean		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/BeanWithXQueryInjectionTest_testSendMessage_x
+org.apache.camel.component.xquery.XQueryBuilder		0.35135135
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/SaxonXPathSplitTest
+SaxonXPathSplitTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/SaxonXPathSplitTest_testSaxonXPathSplit_2p
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/SaxonXPathTest
+SaxonXPathTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/SaxonXPathTest_testSaxonXPath_2w
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/XPathAnnotationResultTypeTest
+XPathAnnotationResultTypeTest		1.0
+XPathAnnotationResultTypeTest.MyBean		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/XPathAnnotationResultTypeTest_testSendMessage_1w
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/XPathSplitChoicePerformanceTest
+XPathSplitChoicePerformanceTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/XPathTest
+XPathTest		0.8787879
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/XPathTest_testXPathFunctionSubstringUsingSaxon_2g
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/XPathTest_testXPathFunctionTokenizeUsingSaxonXPathFactory_1b
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/XPathTest_testXPathFunctionTokenizeUsingSaxon_u
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/XPathTest_testXPathFunctionTokenizeUsingSystemProperty_39
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/XPathTest_testXPathUsingSaxon_33
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/XQueryFilterTest
+XQueryFilterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/XQueryFilterTest_testSendMatchingMessage_3v
+org.apache.camel.component.xquery.XQueryBuilder		0.30810812
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/XQueryFilterTest_testSendNotMatchingMessage_20
+org.apache.camel.component.xquery.XQueryBuilder		0.30810812
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/XQueryHeaderNameResultTypeAndNamespaceTest
+XQueryHeaderNameResultTypeAndNamespaceTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/XQueryHeaderNameResultTypeAndNamespaceTest_testXPathWithNamespace_27
+org.apache.camel.component.xquery.XQueryBuilder		0.3189189
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/XQueryHeaderNameTest
+XQueryHeaderNameTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/XQueryHeaderNameTest_testChoiceWithHeaderNamePremium_2
+org.apache.camel.component.xquery.XQueryBuilder		0.30810812
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/XQueryHeaderNameTest_testChoiceWithHeaderNameStandard_y
+org.apache.camel.component.xquery.XQueryBuilder		0.30810812
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/XQueryHeaderNameTest_testChoiceWithHeaderNameUnknown_r
+org.apache.camel.component.xquery.XQueryBuilder		0.30810812
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/XQueryRecipientListTest
+XQueryRecipientListTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/XQueryRecipientListTest_testSendLondonMessage_1
+org.apache.camel.component.xquery.XQueryBuilder		0.34054053
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/XQueryRecipientListTest_testSendTampaMessage_f
+org.apache.camel.component.xquery.XQueryBuilder		0.34054053
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/XQueryResourceTest
+XQueryResourceTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/XQueryResourceTest_testXPathResource_19
+org.apache.camel.component.xquery.XQueryBuilder		0.34054053
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/XQueryTest
+XQueryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/XQueryTest_testXQuery_1q
+org.apache.camel.component.xquery.XQueryBuilder		0.33513513
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/XQueryTransformTest
+XQueryTransformTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/XQueryTransformTest_testSendMatchingMessage_i
+org.apache.camel.component.xquery.XQueryBuilder		0.32972974
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/XQueryTransformTextTest
+XQueryTransformTextTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/XQueryTransformTextTest_testSendMatchingMessage_1i
+org.apache.camel.component.xquery.XQueryBuilder		0.34054053
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/XQueryWithNamespacesFilterTest
+XQueryWithNamespacesFilterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/XQueryWithNamespacesFilterTest_testSendMatchingMessage_q
+org.apache.camel.component.xquery.XQueryBuilder		0.3189189
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/XQueryWithNamespacesFilterTest_testSendNotMatchingMessage_a
+org.apache.camel.component.xquery.XQueryBuilder		0.3189189
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/test-BeanWithXQueryInjectionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/test-BeanWithXQueryInjectionTest_MyBean
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/test-SaxonXPathSplitTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/test-SaxonXPathTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/test-XPathAnnotationResultTypeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/test-XPathAnnotationResultTypeTest_MyBean
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/test-XPathSplitChoicePerformanceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/test-XPathTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/test-XQueryFilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/test-XQueryHeaderNameResultTypeAndNamespaceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/test-XQueryHeaderNameTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/test-XQueryRecipientListTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/test-XQueryResourceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/test-XQueryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/test-XQueryTransformTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/test-XQueryTransformTextTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/builder/saxon/test-XQueryWithNamespacesFilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/BeanWithXQueryInjectionUsingHeaderValueTest
+BeanWithXQueryInjectionUsingHeaderValueTest		1.0
+BeanWithXQueryInjectionUsingHeaderValueTest.MyBean		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/BeanWithXQueryInjectionUsingHeaderValueTest_testConstantXPathHeaders_n
+org.apache.camel.component.xquery.XQueryAnnotationExpressionFactory		0.5714286
+org.apache.camel.component.xquery.XQueryBuilder		0.39459458
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/SoapPayloadBeanTest
+SoapPayloadBeanTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/SoapPayloadBeanTest_testSoapPayloadBean_z
+org.apache.camel.component.xquery.XQueryBuilder		0.35945946
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/TestBean
+TestBean		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryComponentConfigurationTest
+XQueryComponentConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryComponentConfigurationTest_testConfiguration_2h
+org.apache.camel.component.xquery.XQueryComponent		0.16666667
+org.apache.camel.component.xquery.XQueryEndpoint		0.053333335
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryConcurrencyTest
+XQueryConcurrencyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryConcurrencyTest_testConcurrency_2y
+org.apache.camel.component.xquery.XQueryBuilder		0.34324324
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryEndpointConfigurationTest
+XQueryEndpointConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryEndpointConfigurationTest_testConfiguration_2f
+org.apache.camel.component.xquery.XQueryComponent		0.16666667
+org.apache.camel.component.xquery.XQueryEndpoint		0.053333335
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryEndpointTest
+XQueryEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryEndpointTest_testSendMessageAndHaveItTransformed_5
+org.apache.camel.component.xquery.XQueryBuilder		0.42162162
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryExampleTest
+XQueryExampleTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryExampleTest_testExample_7
+org.apache.camel.component.xquery.XQueryBuilder		0.33243242
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryFromFileExceptionTest
+XQueryFromFileExceptionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryFromFileExceptionTest_testXQueryFromFileExceptionFail_1y
+org.apache.camel.component.xquery.XQueryBuilder		0.27567568
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryFromFileExceptionTest_testXQueryFromFileExceptionOk_2q
+org.apache.camel.component.xquery.XQueryBuilder		0.35135135
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryFromFileTest
+XQueryFromFileTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryFromFileTest_testXQueryFromFile_2s
+org.apache.camel.component.xquery.XQueryBuilder		0.35135135
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryLanguageFromFileTest
+XQueryLanguageFromFileTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryLanguageFromFileTest_testXQueryFromFile_2b
+org.apache.camel.component.xquery.XQueryBuilder		0.32972974
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryNullHeaderTest
+XQueryNullHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryNullHeaderTest_testHeaderWithNull_2z
+org.apache.camel.component.xquery.XQueryBuilder		0.33513513
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryNullHeaderTest_testHeader_1g
+org.apache.camel.component.xquery.XQueryBuilder		0.33243242
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryPredicateFilterTest
+XQueryPredicateFilterTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryPropogateHeadersTest
+XQueryPropogateHeadersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryPropogateHeadersTest_testPropogateHeadersTest_g
+org.apache.camel.component.xquery.XQueryBuilder		0.33243242
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryPropogateHeadersTest_testPropogateHeadersUsingSetBody_2d
+org.apache.camel.component.xquery.XQueryBuilder		0.34054053
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryPropogateHeadersTest_testPropogateHeadersUsingTransform_2k
+org.apache.camel.component.xquery.XQueryBuilder		0.34054053
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryStripWhitespaceTest
+XQueryStripWhitespaceTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryStripWhitespaceTest_testStripAll_2e
+org.apache.camel.component.xquery.XQueryBuilder		0.3837838
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryStripWhitespaceTest_testStripIgnorable_11
+org.apache.camel.component.xquery.XQueryBuilder		0.3918919
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryURLBasedConcurrencyTest
+XQueryURLBasedConcurrencyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryURLBasedConcurrencyTest_testConcurrency_31
+org.apache.camel.component.xquery.XQueryBuilder		0.33513513
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryWithExplicitTypeTest
+XQueryWithExplicitTypeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryWithExplicitTypeTest_testFunctions_2r
+org.apache.camel.component.xquery.XQueryBuilder		0.35135135
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryWithExtensionTest
+XQueryWithExtensionTest		1.0
+XQueryWithExtensionTest.SimpleExtension		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/XQueryWithExtensionTest_testWithExtension_13
+org.apache.camel.component.xquery.XQueryBuilder		0.3189189
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/test-BeanWithXQueryInjectionUsingHeaderValueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/test-BeanWithXQueryInjectionUsingHeaderValueTest_MyBean
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/test-SoapPayloadBeanTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/test-TestBean
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/test-XQueryComponentConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/test-XQueryConcurrencyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/test-XQueryEndpointConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/test-XQueryEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/test-XQueryExampleTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/test-XQueryFromFileExceptionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/test-XQueryFromFileTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/test-XQueryLanguageFromFileTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/test-XQueryNullHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/test-XQueryPredicateFilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/test-XQueryPropogateHeadersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/test-XQueryStripWhitespaceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/test-XQueryURLBasedConcurrencyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/test-XQueryWithExplicitTypeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/test-XQueryWithExtensionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xquery/test-XQueryWithExtensionTest_SimpleExtension
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/PayloadWithDefaultNamespaceTest
+PayloadWithDefaultNamespaceTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/PayloadWithDefaultNamespaceTest_testTransformWithDefaultNamespace_k
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/SaxonInvalidXsltFileTest
+SaxonInvalidXsltFileTest		0.9166667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/SaxonInvalidXsltFileTest_testInvalidStylesheet_3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/SaxonUriResolverTest
+SaxonUriResolverTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/SaxonUriResolverTest_test_29
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/SaxonXslIncludeEmptyHrefTest
+SaxonXslIncludeEmptyHrefTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/SaxonXslIncludeEmptyHrefTest_testXsltOutput_6
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/SaxonXsltComponentConfigurationTest
+SaxonXsltComponentConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/SaxonXsltComponentConfigurationTest_testConfiguration_1f
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/SaxonXsltDTDTest
+SaxonXsltDTDTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/SaxonXsltDTDTest_testSendingInputStreamMessage_2v
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/SaxonXsltDTDTest_testSendingStringMessage_2o
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/SaxonXsltEndpointConfigurationTest
+SaxonXsltEndpointConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/SaxonXsltEndpointConfigurationTest_testConfiguration_3t
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/SaxonXsltFeatureRouteTest
+SaxonXsltFeatureRouteTest		0.93333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/SaxonXsltFeatureRouteTest_testSendMessage_2j
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/SaxonXsltMessageTerminateTest
+SaxonXsltMessageTerminateTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/SaxonXsltMessageTerminateTest_testXsltTerminate_26
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/SaxonXsltTest
+SaxonXsltTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/SaxonXsltTest_testSendMessageAndHaveItTransformed_3e
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/extensions/SaxonExtensionFunctionsTest
+SaxonExtensionFunctionsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/extensions/SaxonExtensionFunctionsTest_testExtensions_2l
+testExtensions
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/extensions/SaxonSpringExtensionFunctionsTest
+SaxonSpringExtensionFunctionsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/extensions/SaxonSpringExtensionFunctionsTest_testExtensions_12
+testExtensions
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/extensions/test-SaxonExtensionFunctionsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/extensions/test-SaxonSpringExtensionFunctionsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/test-PayloadWithDefaultNamespaceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/test-SaxonInvalidXsltFileTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/test-SaxonUriResolverTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/test-SaxonXslIncludeEmptyHrefTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/test-SaxonXsltComponentConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/test-SaxonXsltDTDTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/test-SaxonXsltEndpointConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/test-SaxonXsltFeatureRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/test-SaxonXsltMessageTerminateTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/component/xslt/test-SaxonXsltTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/converter/saxon/SaxonConverterTest
+SaxonConverterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/converter/saxon/SaxonConverterTest_convertSubNodeSetToDocument_j
+org.apache.camel.converter.saxon.SaxonConverter		0.34285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/converter/saxon/SaxonConverterTest_convertSubNodeToDocument_l
+org.apache.camel.converter.saxon.SaxonConverter		0.08571429
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/converter/saxon/SaxonConverterTest_convertToByteArray_1x
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/converter/saxon/SaxonConverterTest_convertToDOMSource_p
+org.apache.camel.converter.saxon.SaxonConverter		0.057142857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/converter/saxon/SaxonConverterTest_convertToDocument_s
+org.apache.camel.converter.saxon.SaxonConverter		0.057142857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/converter/saxon/SaxonConverterTest_convertToInputStream_2a
+org.apache.camel.converter.saxon.SaxonConverter		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/converter/saxon/SaxonConverterTest_convertToNodeAndByteArray_2u
+org.apache.camel.converter.saxon.SaxonConverter		0.21428572
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/converter/saxon/SaxonConverterTest_convertToNodeList_d
+org.apache.camel.converter.saxon.SaxonConverter		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/converter/saxon/SaxonConverterTest_convertToNode_14
+org.apache.camel.converter.saxon.SaxonConverter		0.028571429
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/converter/saxon/test-SaxonConverterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/language/xpath/XPathHeaderTest
+XPathHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/language/xpath/XPathHeaderTest_testChoiceWithHeaderSelectCamel_c
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/language/xpath/XPathHeaderTest_testChoiceWithNoHeaderSelectDonkey_v
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/language/xpath/XPathHeaderTest_testChoiceWithNoHeaderSelectOther_2t
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/language/xpath/XPathLanguageDefaultSettingsTest
+XPathLanguageDefaultSettingsTest		0.7777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/language/xpath/XPathLanguageDefaultSettingsTest_testSpringDSLXPathLanguageDefaultSettings_0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/language/xpath/XPathLanguageTest
+XPathLanguageTest		0.5822785
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/language/xpath/XPathLanguageTest_testSpringDSLXPathFactoryPredicate_3f
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/language/xpath/XPathLanguageTest_testSpringDSLXPathFactory_3r
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/language/xpath/XPathLanguageTest_testSpringDSLXPathSaxonFlagPredicate_1p
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/language/xpath/XPathLanguageTest_testSpringDSLXPathSaxonFlag_2i
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/language/xpath/test-XPathHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/language/xpath/test-XPathLanguageDefaultSettingsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/language/xpath/test-XPathLanguageTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/util/toolbox/XsltAggregationStrategyTest
+XsltAggregationStrategyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/util/toolbox/XsltAggregationStrategyTest_testXsltAggregationDefaultProperty_10
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/util/toolbox/XsltAggregationStrategyTest_testXsltAggregationUserProperty_18
+org.apache.camel.converter.saxon.SaxonConverter		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-saxon/target/site/clover/org/apache/camel/util/toolbox/test-XsltAggregationStrategyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

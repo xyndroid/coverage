@@ -1,0 +1,397 @@
+./components/camel-jsonpath/target/site/clover/org/apache/camel
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathBeanStreamCachingTest
+JsonPathBeanStreamCachingTest		1.0
+JsonPathBeanStreamCachingTest.FullNameBean		0.6666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathBeanStreamCachingTest_testFullName_n
+org.apache.camel.jsonpath.JsonStream		0.44791666
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+org.apache.camel.jsonpath.JsonPathEngine		0.1369863
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathBeanSuppressExceptionsTest
+JsonPathBeanSuppressExceptionsTest		1.0
+JsonPathBeanSuppressExceptionsTest.FullNameBean		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathBeanSuppressExceptionsTest_testFirstAndLastName_7
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+org.apache.camel.jsonpath.JsonPathEngine		0.10273973
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathBeanSuppressExceptionsTest_testFullName_h
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+org.apache.camel.jsonpath.JsonPathEngine		0.10273973
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathBeanTest
+JsonPathBeanTest		1.0
+JsonPathBeanTest.FullNameBean		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathBeanTest_testFirstAndLastName_16
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+org.apache.camel.jsonpath.JsonPathEngine		0.10273973
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathBeanTest_testFullNameTwo_1k
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+org.apache.camel.jsonpath.JsonPathEngine		0.10273973
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathBeanTest_testFullName_17
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+org.apache.camel.jsonpath.JsonPathEngine		0.10273973
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathCBRTest
+JsonPathCBRTest		1.0
+JsonPathCBRTest.BeanPredicate		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathCBRTest_testAverage_v
+org.apache.camel.jsonpath.jackson.JacksonJsonAdapter		0.84615386
+org.apache.camel.jsonpath.JsonStream		0.44791666
+org.apache.camel.jsonpath.JsonPathEngine		0.39726028
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathCBRTest_testCheapBicycle_1h
+org.apache.camel.jsonpath.jackson.JacksonJsonAdapter		0.84615386
+org.apache.camel.jsonpath.JsonPathEngine		0.5273973
+org.apache.camel.jsonpath.JsonPathExpression		0.51724136
+org.apache.camel.jsonpath.JsonStream		0.44791666
+org.apache.camel.jsonpath.JsonPathLanguage		0.3125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathCBRTest_testCheap_1f
+org.apache.camel.jsonpath.jackson.JacksonJsonAdapter		0.84615386
+org.apache.camel.jsonpath.JsonStream		0.44791666
+org.apache.camel.jsonpath.JsonPathEngine		0.39726028
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathCBRTest_testExpensive_5
+org.apache.camel.jsonpath.jackson.JacksonJsonAdapter		0.84615386
+org.apache.camel.jsonpath.JsonStream		0.44791666
+org.apache.camel.jsonpath.JsonPathEngine		0.39726028
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathCharsetTest
+JsonPathCharsetTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathCharsetTest_testISO8859WithJsonHeaderCamelJsonInputEncoding_s
+org.apache.camel.jsonpath.jackson.JacksonJsonAdapter		0.84615386
+org.apache.camel.jsonpath.JsonPathEngine		0.39041096
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathCharsetTest_testUTF16BEFile_13
+org.apache.camel.jsonpath.jackson.JacksonJsonAdapter		0.84615386
+org.apache.camel.jsonpath.JsonPathEngine		0.39726028
+org.apache.camel.jsonpath.JsonStream		0.31770834
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathCharsetTest_testUTF16BEInputStream_c
+org.apache.camel.jsonpath.JsonStream		0.31770834
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+org.apache.camel.jsonpath.JsonPathEngine		0.1369863
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathCharsetTest_testUTF16BEURL_o
+org.apache.camel.jsonpath.jackson.JacksonJsonAdapter		0.84615386
+org.apache.camel.jsonpath.JsonPathEngine		0.39726028
+org.apache.camel.jsonpath.JsonStream		0.31770834
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathCharsetTest_testUTF16LEFile_14
+org.apache.camel.jsonpath.jackson.JacksonJsonAdapter		0.84615386
+org.apache.camel.jsonpath.JsonPathEngine		0.39726028
+org.apache.camel.jsonpath.JsonStream		0.328125
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathLanguageTest
+JsonPathLanguageTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathLanguageTest_testExpressionArray_r
+org.apache.camel.jsonpath.jackson.JacksonJsonAdapter		0.84615386
+org.apache.camel.jsonpath.JsonPathEngine		0.5273973
+org.apache.camel.jsonpath.JsonPathExpression		0.4827586
+org.apache.camel.jsonpath.JsonStream		0.44791666
+org.apache.camel.jsonpath.JsonPathLanguage		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathLanguageTest_testExpressionField_g
+org.apache.camel.jsonpath.jackson.JacksonJsonAdapter		0.84615386
+org.apache.camel.jsonpath.JsonPathEngine		0.5273973
+org.apache.camel.jsonpath.JsonPathExpression		0.4827586
+org.apache.camel.jsonpath.JsonStream		0.44791666
+org.apache.camel.jsonpath.JsonPathLanguage		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathLanguageTest_testExpressionPojo_b
+org.apache.camel.jsonpath.JsonPathExpression		0.4827586
+org.apache.camel.jsonpath.JsonPathLanguage		0.25
+org.apache.camel.jsonpath.JsonPathEngine		0.24657534
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathLanguageTest_testPredicate_e
+org.apache.camel.jsonpath.jackson.JacksonJsonAdapter		0.84615386
+org.apache.camel.jsonpath.JsonPathExpression		0.5862069
+org.apache.camel.jsonpath.JsonPathEngine		0.5273973
+org.apache.camel.jsonpath.JsonStream		0.44791666
+org.apache.camel.jsonpath.JsonPathLanguage		0.25
+org.apache.camel.jsonpath.easypredicate.EasyPredicateParser		0.057142857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathLanguageTest_testSuppressException_0
+org.apache.camel.jsonpath.jackson.JacksonJsonAdapter		0.84615386
+org.apache.camel.jsonpath.JsonPathEngine		0.55479455
+org.apache.camel.jsonpath.JsonPathExpression		0.4827586
+org.apache.camel.jsonpath.JsonStream		0.44791666
+org.apache.camel.jsonpath.JsonPathLanguage		0.3125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathMapTransformTest
+JsonPathMapTransformTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathMapTransformTest_testAuthors_1g
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+org.apache.camel.jsonpath.JsonPathEngine		0.11643836
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathPojoTransformTest
+JsonPathPojoTransformTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathPojoTransformTest_testPojo_t
+org.apache.camel.jsonpath.jackson.JacksonJsonAdapter		0.8076923
+org.apache.camel.jsonpath.JsonPathEngine		0.32876712
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathSourceTest
+JsonPathSourceTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathSourceTest_testPriceResultTypeOnGenericFileISO88591_3
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+org.apache.camel.jsonpath.JsonPathEngine		0.10958904
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathSourceTest_testPriceResultTypeOnGenericFileUTF8OnWindows_p
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+org.apache.camel.jsonpath.JsonPathEngine		0.10958904
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathSourceTest_testPriceResultTypeOnGenericFileUTF8_a
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+org.apache.camel.jsonpath.JsonPathEngine		0.10958904
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathSuppressTest
+JsonPathSuppressTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathSuppressTest_testMiddle_10
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+org.apache.camel.jsonpath.JsonPathEngine		0.10273973
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathSuppressTest_testNoMiddle_f
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+org.apache.camel.jsonpath.JsonPathEngine		0.10273973
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathTransformResultTypeTest
+JsonPathTransformResultTypeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathTransformResultTypeTest_testPriceResultType_l
+org.apache.camel.jsonpath.jackson.JacksonJsonAdapter		0.84615386
+org.apache.camel.jsonpath.JsonStream		0.44791666
+org.apache.camel.jsonpath.JsonPathEngine		0.4041096
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathTransformTest
+JsonPathTransformTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathTransformTest_testAuthors_w
+org.apache.camel.jsonpath.jackson.JacksonJsonAdapter		0.84615386
+org.apache.camel.jsonpath.JsonStream		0.44791666
+org.apache.camel.jsonpath.JsonPathEngine		0.39726028
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathWithSimpleCBRTest
+JsonPathWithSimpleCBRTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathWithSimpleCBRTest_testAverage_1c
+org.apache.camel.jsonpath.jackson.JacksonJsonAdapter		0.84615386
+org.apache.camel.jsonpath.JsonStream		0.44791666
+org.apache.camel.jsonpath.JsonPathEngine		0.42465752
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathWithSimpleCBRTest_testCheap_d
+org.apache.camel.jsonpath.jackson.JacksonJsonAdapter		0.84615386
+org.apache.camel.jsonpath.JsonStream		0.44791666
+org.apache.camel.jsonpath.JsonPathEngine		0.42465752
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonPathWithSimpleCBRTest_testExpensive_4
+org.apache.camel.jsonpath.jackson.JacksonJsonAdapter		0.84615386
+org.apache.camel.jsonpath.JsonStream		0.44791666
+org.apache.camel.jsonpath.JsonPathEngine		0.42465752
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonStreamTest
+JsonStreamTest		0.9787234
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonStreamTest_fourChar_x
+org.apache.camel.jsonpath.JsonStream		0.43229166
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonStreamTest_iSO88591_1d
+org.apache.camel.jsonpath.JsonStream		0.34375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonStreamTest_oneChar_1a
+org.apache.camel.jsonpath.JsonStream		0.22916667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonStreamTest_utf16BEWithBom_8
+org.apache.camel.jsonpath.JsonStream		0.30208334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonStreamTest_utf16BEWithoutBom_u
+org.apache.camel.jsonpath.JsonStream		0.41666666
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonStreamTest_utf16LEWithBom_1j
+org.apache.camel.jsonpath.JsonStream		0.3125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonStreamTest_utf16LEWithoutBom_1b
+org.apache.camel.jsonpath.JsonStream		0.42708334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonStreamTest_utf32BEWithBOM_1i
+org.apache.camel.jsonpath.JsonStream		0.21354167
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonStreamTest_utf32BEWithoutBOM_6
+org.apache.camel.jsonpath.JsonStream		0.359375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonStreamTest_utf32LEWithBOM_9
+org.apache.camel.jsonpath.JsonStream		0.22395833
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonStreamTest_utf32LEWithoutBOM_19
+org.apache.camel.jsonpath.JsonStream		0.36979166
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonStreamTest_utf8WithoutBOM_y
+org.apache.camel.jsonpath.JsonStream		0.43229166
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/JsonStreamTest_utf8_11
+org.apache.camel.jsonpath.JsonStream		0.328125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/SpringJsonPathCBRTest
+SpringJsonPathCBRTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/SpringJsonPathCBRTest_testAverage_k
+org.apache.camel.jsonpath.jackson.JacksonJsonAdapter		0.84615386
+org.apache.camel.jsonpath.JsonStream		0.44791666
+org.apache.camel.jsonpath.JsonPathEngine		0.39726028
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/SpringJsonPathCBRTest_testCheap_15
+org.apache.camel.jsonpath.jackson.JacksonJsonAdapter		0.84615386
+org.apache.camel.jsonpath.JsonStream		0.44791666
+org.apache.camel.jsonpath.JsonPathEngine		0.39726028
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/SpringJsonPathCBRTest_testExpensive_12
+org.apache.camel.jsonpath.jackson.JacksonJsonAdapter		0.84615386
+org.apache.camel.jsonpath.JsonStream		0.44791666
+org.apache.camel.jsonpath.JsonPathEngine		0.39726028
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/SpringJsonPathSuppressTest
+SpringJsonPathSuppressTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/SpringJsonPathSuppressTest_testMiddle_1
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+org.apache.camel.jsonpath.JsonPathEngine		0.10273973
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/SpringJsonPathSuppressTest_testNoMiddle_1e
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+org.apache.camel.jsonpath.JsonPathEngine		0.10273973
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/SpringJsonPathTransformResultTypeTest
+SpringJsonPathTransformResultTypeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/SpringJsonPathTransformResultTypeTest_testPriceResultType_z
+org.apache.camel.jsonpath.jackson.JacksonJsonAdapter		0.84615386
+org.apache.camel.jsonpath.JsonStream		0.44791666
+org.apache.camel.jsonpath.JsonPathEngine		0.4041096
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/SpringJsonPathTransformTest
+SpringJsonPathTransformTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/SpringJsonPathTransformTest_testAuthors_i
+org.apache.camel.jsonpath.jackson.JacksonJsonAdapter		0.84615386
+org.apache.camel.jsonpath.JsonStream		0.44791666
+org.apache.camel.jsonpath.JsonPathEngine		0.39726028
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/easypredicate/EasyJsonPathWithRootSimpleCBRTest
+EasyJsonPathWithRootSimpleCBRTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/easypredicate/EasyJsonPathWithRootSimpleCBRTest_testAverage_q
+org.apache.camel.jsonpath.jackson.JacksonJsonAdapter		0.84615386
+org.apache.camel.jsonpath.JsonStream		0.44791666
+org.apache.camel.jsonpath.JsonPathEngine		0.42465752
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/easypredicate/EasyJsonPathWithRootSimpleCBRTest_testCheap_18
+org.apache.camel.jsonpath.jackson.JacksonJsonAdapter		0.84615386
+org.apache.camel.jsonpath.JsonStream		0.44791666
+org.apache.camel.jsonpath.JsonPathEngine		0.42465752
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/easypredicate/EasyJsonPathWithRootSimpleCBRTest_testExpensive_2
+org.apache.camel.jsonpath.jackson.JacksonJsonAdapter		0.84615386
+org.apache.camel.jsonpath.JsonStream		0.44791666
+org.apache.camel.jsonpath.JsonPathEngine		0.42465752
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/easypredicate/EasyJsonPathWithSimpleCBRTest
+EasyJsonPathWithSimpleCBRTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/easypredicate/EasyJsonPathWithSimpleCBRTest_testAverage_m
+org.apache.camel.jsonpath.jackson.JacksonJsonAdapter		0.84615386
+org.apache.camel.jsonpath.JsonStream		0.44791666
+org.apache.camel.jsonpath.JsonPathEngine		0.42465752
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/easypredicate/EasyJsonPathWithSimpleCBRTest_testCheap_j
+org.apache.camel.jsonpath.jackson.JacksonJsonAdapter		0.84615386
+org.apache.camel.jsonpath.JsonStream		0.44791666
+org.apache.camel.jsonpath.JsonPathEngine		0.42465752
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/easypredicate/EasyJsonPathWithSimpleCBRTest_testExpensive_1l
+org.apache.camel.jsonpath.jackson.JacksonJsonAdapter		0.84615386
+org.apache.camel.jsonpath.JsonStream		0.44791666
+org.apache.camel.jsonpath.JsonPathEngine		0.42465752
+org.apache.camel.jsonpath.JsonPathExpression		0.13793103
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/easypredicate/test-EasyJsonPathWithRootSimpleCBRTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/easypredicate/test-EasyJsonPathWithSimpleCBRTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/test-JsonPathBeanStreamCachingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/test-JsonPathBeanStreamCachingTest_FullNameBean
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/test-JsonPathBeanSuppressExceptionsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/test-JsonPathBeanSuppressExceptionsTest_FullNameBean
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/test-JsonPathBeanTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/test-JsonPathBeanTest_FullNameBean
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/test-JsonPathCBRTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/test-JsonPathCBRTest_BeanPredicate
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/test-JsonPathCharsetTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/test-JsonPathLanguageTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/test-JsonPathMapTransformTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/test-JsonPathPojoTransformTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/test-JsonPathSourceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/test-JsonPathSuppressTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/test-JsonPathTransformResultTypeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/test-JsonPathTransformTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/test-JsonPathWithSimpleCBRTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/test-JsonStreamTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/test-SpringJsonPathCBRTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/test-SpringJsonPathSuppressTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/test-SpringJsonPathTransformResultTypeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jsonpath/target/site/clover/org/apache/camel/jsonpath/test-SpringJsonPathTransformTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

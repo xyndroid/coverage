@@ -1,0 +1,183 @@
+./components/camel-shiro/target/site/clover/org/apache/camel
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/ShiroAuthenticationBase64Test
+ShiroAuthenticationBase64Test		1.0
+ShiroAuthenticationBase64Test.TestShiroSecurityTokenInjector		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/ShiroAuthenticationBase64Test_testShiroAuthenticationFailure_3
+testShiroAuthenticationFailure
+org.apache.camel.component.shiro.security.ShiroSecurityHelper		0.9166667
+org.apache.camel.component.shiro.security.ShiroSecurityTokenInjector		0.63414633
+org.apache.camel.component.shiro.security.ShiroSecurityToken		0.53846157
+org.apache.camel.component.shiro.security.ShiroSecurityProcessor		0.4
+org.apache.camel.component.shiro.security.ShiroSecurityPolicy		0.103896104
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/ShiroAuthenticationBase64Test_testSuccessfulShiroAuthenticationWithNoAuthorization_c
+testSuccessfulShiroAuthenticationWithNoAuthorization
+org.apache.camel.component.shiro.security.ShiroSecurityHelper		0.9166667
+org.apache.camel.component.shiro.security.ShiroSecurityTokenInjector		0.63414633
+org.apache.camel.component.shiro.security.ShiroSecurityToken		0.53846157
+org.apache.camel.component.shiro.security.ShiroSecurityProcessor		0.48333332
+org.apache.camel.component.shiro.security.ShiroSecurityPolicy		0.15584415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/ShiroAuthenticationReauthenticateFalseAndNewUserTest
+ShiroAuthenticationReauthenticateFalseAndNewUserTest		1.0
+ShiroAuthenticationReauthenticateFalseAndNewUserTest.TestShiroSecurityTokenInjector		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/ShiroAuthenticationReauthenticateFalseAndNewUserTest_testSuccessfulShiroAuthenticationWithNoAuthorization_h
+testSuccessfulShiroAuthenticationWithNoAuthorization
+org.apache.camel.component.shiro.security.ShiroSecurityHelper		0.9166667
+org.apache.camel.component.shiro.security.ShiroSecurityToken		0.53846157
+org.apache.camel.component.shiro.security.ShiroSecurityProcessor		0.45833334
+org.apache.camel.component.shiro.security.ShiroSecurityTokenInjector		0.36585367
+org.apache.camel.component.shiro.security.ShiroSecurityPolicy		0.12987013
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/ShiroAuthenticationTest
+ShiroAuthenticationTest		1.0
+ShiroAuthenticationTest.TestShiroSecurityTokenInjector		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/ShiroAuthenticationTest_testShiroAuthenticationFailure_1
+testShiroAuthenticationFailure
+org.apache.camel.component.shiro.security.ShiroSecurityHelper		0.9166667
+org.apache.camel.component.shiro.security.ShiroSecurityToken		0.53846157
+org.apache.camel.component.shiro.security.ShiroSecurityProcessor		0.38333333
+org.apache.camel.component.shiro.security.ShiroSecurityTokenInjector		0.36585367
+org.apache.camel.component.shiro.security.ShiroSecurityPolicy		0.077922076
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/ShiroAuthenticationTest_testSuccessfulShiroAuthenticationWithNoAuthorization_e
+testSuccessfulShiroAuthenticationWithNoAuthorization
+org.apache.camel.component.shiro.security.ShiroSecurityHelper		0.9166667
+org.apache.camel.component.shiro.security.ShiroSecurityToken		0.53846157
+org.apache.camel.component.shiro.security.ShiroSecurityProcessor		0.46666667
+org.apache.camel.component.shiro.security.ShiroSecurityTokenInjector		0.36585367
+org.apache.camel.component.shiro.security.ShiroSecurityPolicy		0.12987013
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/ShiroAuthenticationTest_testSuccessfulTokenHeader_a
+testSuccessfulTokenHeader
+org.apache.camel.component.shiro.security.ShiroSecurityHelper		0.9166667
+org.apache.camel.component.shiro.security.ShiroSecurityToken		0.53846157
+org.apache.camel.component.shiro.security.ShiroSecurityProcessor		0.45833334
+org.apache.camel.component.shiro.security.ShiroSecurityPolicy		0.12987013
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/ShiroAuthenticationTest_testSuccessfulUsernameHeader_2
+testSuccessfulUsernameHeader
+org.apache.camel.component.shiro.security.ShiroSecurityHelper		0.9166667
+org.apache.camel.component.shiro.security.ShiroSecurityToken		0.53846157
+org.apache.camel.component.shiro.security.ShiroSecurityProcessor		0.5083333
+org.apache.camel.component.shiro.security.ShiroSecurityPolicy		0.15584415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/ShiroAuthorizationTest
+ShiroAuthorizationTest		1.0
+ShiroAuthorizationTest.TestShiroSecurityTokenInjector		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/ShiroAuthorizationTest_testFailureAuthorizationAll_8
+testFailureAuthorizationAll
+org.apache.camel.component.shiro.security.ShiroSecurityHelper		0.9166667
+org.apache.camel.component.shiro.security.ShiroSecurityToken		0.53846157
+org.apache.camel.component.shiro.security.ShiroSecurityProcessor		0.475
+org.apache.camel.component.shiro.security.ShiroSecurityTokenInjector		0.36585367
+org.apache.camel.component.shiro.security.ShiroSecurityPolicy		0.12987013
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/ShiroAuthorizationTest_testShiroAuthorizationFailure_i
+testShiroAuthorizationFailure
+org.apache.camel.component.shiro.security.ShiroSecurityHelper		0.9166667
+org.apache.camel.component.shiro.security.ShiroSecurityToken		0.53846157
+org.apache.camel.component.shiro.security.ShiroSecurityProcessor		0.49166667
+org.apache.camel.component.shiro.security.ShiroSecurityTokenInjector		0.36585367
+org.apache.camel.component.shiro.security.ShiroSecurityPolicy		0.12987013
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/ShiroAuthorizationTest_testSuccessfulAuthorizationAll_6
+testSuccessfulAuthorizationAll
+org.apache.camel.component.shiro.security.ShiroSecurityHelper		0.9166667
+org.apache.camel.component.shiro.security.ShiroSecurityToken		0.53846157
+org.apache.camel.component.shiro.security.ShiroSecurityProcessor		0.45833334
+org.apache.camel.component.shiro.security.ShiroSecurityTokenInjector		0.36585367
+org.apache.camel.component.shiro.security.ShiroSecurityPolicy		0.12987013
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/ShiroAuthorizationTest_testSuccessfulAuthorizationAny_0
+testSuccessfulAuthorizationAny
+org.apache.camel.component.shiro.security.ShiroSecurityHelper		0.9166667
+org.apache.camel.component.shiro.security.ShiroSecurityToken		0.53846157
+org.apache.camel.component.shiro.security.ShiroSecurityProcessor		0.49166667
+org.apache.camel.component.shiro.security.ShiroSecurityTokenInjector		0.36585367
+org.apache.camel.component.shiro.security.ShiroSecurityPolicy		0.12987013
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/ShiroAuthorizationTest_testSuccessfulAuthorizationForHigherScope_7
+testSuccessfulAuthorizationForHigherScope
+org.apache.camel.component.shiro.security.ShiroSecurityHelper		0.9166667
+org.apache.camel.component.shiro.security.ShiroSecurityToken		0.53846157
+org.apache.camel.component.shiro.security.ShiroSecurityProcessor		0.49166667
+org.apache.camel.component.shiro.security.ShiroSecurityTokenInjector		0.36585367
+org.apache.camel.component.shiro.security.ShiroSecurityPolicy		0.12987013
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/ShiroAuthorizationTest_testSuccessfulAuthorization_9
+testSuccessfulAuthorization
+org.apache.camel.component.shiro.security.ShiroSecurityHelper		0.9166667
+org.apache.camel.component.shiro.security.ShiroSecurityToken		0.53846157
+org.apache.camel.component.shiro.security.ShiroSecurityProcessor		0.49166667
+org.apache.camel.component.shiro.security.ShiroSecurityTokenInjector		0.36585367
+org.apache.camel.component.shiro.security.ShiroSecurityPolicy		0.12987013
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/ShiroRolesAuthorizationTest
+ShiroRolesAuthorizationTest		1.0
+ShiroRolesAuthorizationTest.TestShiroSecurityTokenInjector		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/ShiroRolesAuthorizationTest_testFailureAuthorizationAll_f
+testFailureAuthorizationAll
+org.apache.camel.component.shiro.security.ShiroSecurityHelper		0.9166667
+org.apache.camel.component.shiro.security.ShiroSecurityToken		0.53846157
+org.apache.camel.component.shiro.security.ShiroSecurityProcessor		0.49166667
+org.apache.camel.component.shiro.security.ShiroSecurityTokenInjector		0.36585367
+org.apache.camel.component.shiro.security.ShiroSecurityPolicy		0.15584415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/ShiroRolesAuthorizationTest_testShiroAuthorizationFailure_b
+testShiroAuthorizationFailure
+org.apache.camel.component.shiro.security.ShiroSecurityHelper		0.9166667
+org.apache.camel.component.shiro.security.ShiroSecurityToken		0.53846157
+org.apache.camel.component.shiro.security.ShiroSecurityProcessor		0.5083333
+org.apache.camel.component.shiro.security.ShiroSecurityTokenInjector		0.36585367
+org.apache.camel.component.shiro.security.ShiroSecurityPolicy		0.15584415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/ShiroRolesAuthorizationTest_testSuccessfulAuthorizationAll_g
+testSuccessfulAuthorizationAll
+org.apache.camel.component.shiro.security.ShiroSecurityHelper		0.9166667
+org.apache.camel.component.shiro.security.ShiroSecurityToken		0.53846157
+org.apache.camel.component.shiro.security.ShiroSecurityProcessor		0.475
+org.apache.camel.component.shiro.security.ShiroSecurityTokenInjector		0.36585367
+org.apache.camel.component.shiro.security.ShiroSecurityPolicy		0.15584415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/ShiroRolesAuthorizationTest_testSuccessfulAuthorizationForHigherScope_5
+testSuccessfulAuthorizationForHigherScope
+org.apache.camel.component.shiro.security.ShiroSecurityHelper		0.9166667
+org.apache.camel.component.shiro.security.ShiroSecurityToken		0.53846157
+org.apache.camel.component.shiro.security.ShiroSecurityProcessor		0.51666665
+org.apache.camel.component.shiro.security.ShiroSecurityTokenInjector		0.36585367
+org.apache.camel.component.shiro.security.ShiroSecurityPolicy		0.15584415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/ShiroRolesAuthorizationTest_testSuccessfulAuthorization_4
+testSuccessfulAuthorization
+org.apache.camel.component.shiro.security.ShiroSecurityHelper		0.9166667
+org.apache.camel.component.shiro.security.ShiroSecurityToken		0.53846157
+org.apache.camel.component.shiro.security.ShiroSecurityProcessor		0.5083333
+org.apache.camel.component.shiro.security.ShiroSecurityTokenInjector		0.36585367
+org.apache.camel.component.shiro.security.ShiroSecurityPolicy		0.15584415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/test-ShiroAuthenticationBase64Test
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/test-ShiroAuthenticationBase64Test_TestShiroSecurityTokenInjector
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/test-ShiroAuthenticationReauthenticateFalseAndNewUserTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/test-ShiroAuthenticationReauthenticateFalseAndNewUserTest_TestShiroSecurityTokenInjector
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/test-ShiroAuthenticationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/test-ShiroAuthenticationTest_TestShiroSecurityTokenInjector
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/test-ShiroAuthorizationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/test-ShiroAuthorizationTest_TestShiroSecurityTokenInjector
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/test-ShiroRolesAuthorizationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-shiro/target/site/clover/org/apache/camel/component/shiro/security/test-ShiroRolesAuthorizationTest_TestShiroSecurityTokenInjector
+-- -- -- -- -- -- -- -- -- -- -- -- --

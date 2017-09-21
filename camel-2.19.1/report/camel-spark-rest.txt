@@ -1,0 +1,407 @@
+./components/camel-spark-rest/target/site/clover/org/apache/camel
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/BaseSparkTest
+BaseSparkTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/CamelSparkAcceptTest
+CamelSparkAcceptTest		0.9285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/CamelSparkAcceptTest_testSparkGet_8
+org.apache.camel.component.sparkrest.CamelSparkRoute		0.61904764
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.5986842
+org.apache.camel.component.sparkrest.SparkMessage		0.5555556
+org.apache.camel.component.sparkrest.SparkHelper		0.25
+org.apache.camel.component.sparkrest.SparkConfiguration		0.24
+org.apache.camel.component.sparkrest.SparkEndpoint		0.16216215
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/CamelSparkParamTest
+CamelSparkParamTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/CamelSparkParamTest_testSparkGet_a
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.6513158
+org.apache.camel.component.sparkrest.CamelSparkRoute		0.61904764
+org.apache.camel.component.sparkrest.SparkMessage		0.5555556
+org.apache.camel.component.sparkrest.SparkHelper		0.25
+org.apache.camel.component.sparkrest.SparkConfiguration		0.24
+org.apache.camel.component.sparkrest.SparkEndpoint		0.16216215
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/CamelSparkQueryParamTest
+CamelSparkQueryParamTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/CamelSparkQueryParamTest_testSparkGet_k
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.68421054
+org.apache.camel.component.sparkrest.CamelSparkRoute		0.61904764
+org.apache.camel.component.sparkrest.SparkMessage		0.5555556
+org.apache.camel.component.sparkrest.SparkHelper		0.25
+org.apache.camel.component.sparkrest.SparkConfiguration		0.24
+org.apache.camel.component.sparkrest.SparkEndpoint		0.16216215
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/CamelSparkRequestBeanTest
+CamelSparkRequestBeanTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/CamelSparkRequestBeanTest_testSparkGet_9
+org.apache.camel.component.sparkrest.SparkMessage		0.7777778
+org.apache.camel.component.sparkrest.CamelSparkRoute		0.61904764
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.59210527
+org.apache.camel.component.sparkrest.SparkConverter		0.4516129
+org.apache.camel.component.sparkrest.SparkHelper		0.25
+org.apache.camel.component.sparkrest.SparkConfiguration		0.24
+org.apache.camel.component.sparkrest.SparkEndpoint		0.16216215
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/CamelSparkSplatTest
+CamelSparkSplatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/CamelSparkSplatTest_testSparkGet_6
+org.apache.camel.component.sparkrest.CamelSparkRoute		0.61904764
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.59210527
+org.apache.camel.component.sparkrest.SparkMessage		0.5555556
+org.apache.camel.component.sparkrest.SparkConverter		0.2580645
+org.apache.camel.component.sparkrest.SparkHelper		0.25
+org.apache.camel.component.sparkrest.SparkConfiguration		0.24
+org.apache.camel.component.sparkrest.SparkEndpoint		0.16216215
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/CamelSparkTest
+CamelSparkTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/CamelSparkTest_testSparkGet_3
+org.apache.camel.component.sparkrest.CamelSparkRoute		0.61904764
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.5986842
+org.apache.camel.component.sparkrest.SparkMessage		0.5555556
+org.apache.camel.component.sparkrest.SparkHelper		0.25
+org.apache.camel.component.sparkrest.SparkConfiguration		0.24
+org.apache.camel.component.sparkrest.SparkEndpoint		0.16216215
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/DefaultSparkBindingTest
+DefaultSparkBindingTest		1.0
+DefaultSparkBindingTest.ExchangeHeaderScenario		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/DefaultSparkBindingTest_shouldOnlyAddStandardExchangeHeaderGivenHeaderNotPresentInInput_11
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.17763157
+org.apache.camel.component.sparkrest.SparkEndpoint		0.054054055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/DefaultSparkBindingTest_shouldOnlyAddStandardExchangeHeaderGivenHeaderNotPresentInInput_15
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.17763157
+org.apache.camel.component.sparkrest.SparkEndpoint		0.054054055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/DefaultSparkBindingTest_shouldOnlyAddStandardExchangeHeaderGivenHeaderNotPresentInInput_16
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.17763157
+org.apache.camel.component.sparkrest.SparkEndpoint		0.054054055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/DefaultSparkBindingTest_shouldOnlyAddStandardExchangeHeaderGivenHeaderNotPresentInInput_5
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.17763157
+org.apache.camel.component.sparkrest.SparkEndpoint		0.054054055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/DefaultSparkBindingTest_shouldOnlyAddStandardExchangeHeaderGivenHeaderNotPresentInInput_d
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.17763157
+org.apache.camel.component.sparkrest.SparkEndpoint		0.054054055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/DefaultSparkBindingTest_shouldOnlyAddStandardExchangeHeaderGivenHeaderNotPresentInInput_h
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.17763157
+org.apache.camel.component.sparkrest.SparkEndpoint		0.054054055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/DefaultSparkBindingTest_shouldOnlyAddStandardExchangeHeaderGivenHeaderNotPresentInInput_i
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.17763157
+org.apache.camel.component.sparkrest.SparkEndpoint		0.054054055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/DefaultSparkBindingTest_shouldOnlyAddStandardExchangeHeaderGivenHeaderNotPresentInInput_p
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.17763157
+org.apache.camel.component.sparkrest.SparkEndpoint		0.054054055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/DefaultSparkBindingTest_shouldOnlyAddStandardExchangeHeaderGivenHeaderNotPresentInInput_w
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.17763157
+org.apache.camel.component.sparkrest.SparkEndpoint		0.054054055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/DefaultSparkBindingTest_shouldOnlyAddStandardExchangeHeaderGivenHeaderNotPresentInInput_y
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.17763157
+org.apache.camel.component.sparkrest.SparkEndpoint		0.054054055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestApiSparkTest
+RestApiSparkTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestApiSparkTest_testApi_n
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.68421054
+org.apache.camel.component.sparkrest.CamelSparkRoute		0.61904764
+org.apache.camel.component.sparkrest.SparkMessage		0.33333334
+org.apache.camel.component.sparkrest.SparkHelper		0.25
+org.apache.camel.component.sparkrest.SparkConfiguration		0.24
+org.apache.camel.component.sparkrest.SparkEndpoint		0.16216215
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkAcceptTest
+RestCamelSparkAcceptTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkAcceptTest_testSparkGet_7
+org.apache.camel.component.sparkrest.CamelSparkRoute		0.61904764
+org.apache.camel.component.sparkrest.SparkMessage		0.5555556
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.29605263
+org.apache.camel.component.sparkrest.SparkConfiguration		0.16
+org.apache.camel.component.sparkrest.SparkEndpoint		0.10810811
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkComponentTest
+RestCamelSparkComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkComponentTest_testSparkBye_4
+org.apache.camel.component.sparkrest.CamelSparkRoute		0.61904764
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.5986842
+org.apache.camel.component.sparkrest.SparkMessage		0.33333334
+org.apache.camel.component.sparkrest.SparkHelper		0.25
+org.apache.camel.component.sparkrest.SparkConfiguration		0.24
+org.apache.camel.component.sparkrest.SparkEndpoint		0.16216215
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkComponentTest_testSparkHello_f
+org.apache.camel.component.sparkrest.CamelSparkRoute		0.61904764
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.5986842
+org.apache.camel.component.sparkrest.SparkMessage		0.33333334
+org.apache.camel.component.sparkrest.SparkHelper		0.25
+org.apache.camel.component.sparkrest.SparkConfiguration		0.24
+org.apache.camel.component.sparkrest.SparkEndpoint		0.16216215
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkComponentTest_testSparkPost_r
+org.apache.camel.component.sparkrest.CamelSparkRoute		0.61904764
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.5986842
+org.apache.camel.component.sparkrest.SparkMessage		0.5555556
+org.apache.camel.component.sparkrest.SparkConverter		0.2580645
+org.apache.camel.component.sparkrest.SparkHelper		0.25
+org.apache.camel.component.sparkrest.SparkConfiguration		0.24
+org.apache.camel.component.sparkrest.SparkEndpoint		0.16216215
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkCorsTest
+RestCamelSparkCorsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkCorsTest_testCors_u
+org.apache.camel.component.sparkrest.CamelSparkRoute		0.7619048
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.65789473
+org.apache.camel.component.sparkrest.SparkMessage		0.5555556
+org.apache.camel.component.sparkrest.SparkConverter		0.2580645
+org.apache.camel.component.sparkrest.SparkHelper		0.25
+org.apache.camel.component.sparkrest.SparkConfiguration		0.24
+org.apache.camel.component.sparkrest.SparkEndpoint		0.16216215
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkJsonTest
+RestCamelSparkJsonTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkJsonTest_testSparkHello_e
+org.apache.camel.component.sparkrest.CamelSparkRoute		0.61904764
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.6118421
+org.apache.camel.component.sparkrest.SparkMessage		0.33333334
+org.apache.camel.component.sparkrest.SparkHelper		0.25
+org.apache.camel.component.sparkrest.SparkConfiguration		0.24
+org.apache.camel.component.sparkrest.SparkEndpoint		0.16216215
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkMapHeadersFalseTest
+RestCamelSparkMapHeadersFalseTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkMapHeadersFalseTest_testSparkMapHeadersFalse_14
+org.apache.camel.component.sparkrest.CamelSparkRoute		0.61904764
+org.apache.camel.component.sparkrest.SparkMessage		0.5555556
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.29605263
+org.apache.camel.component.sparkrest.SparkConfiguration		0.16
+org.apache.camel.component.sparkrest.SparkEndpoint		0.10810811
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkParamTest
+RestCamelSparkParamTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkParamTest_testSparkGet_17
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.65789473
+org.apache.camel.component.sparkrest.CamelSparkRoute		0.61904764
+org.apache.camel.component.sparkrest.SparkMessage		0.5555556
+org.apache.camel.component.sparkrest.SparkHelper		0.25
+org.apache.camel.component.sparkrest.SparkConfiguration		0.24
+org.apache.camel.component.sparkrest.SparkEndpoint		0.16216215
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkPojoInOutTest
+RestCamelSparkPojoInOutTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkPojoInOutTest_testRestletPojoInOut_z
+org.apache.camel.component.sparkrest.CamelSparkRoute		0.61904764
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.6118421
+org.apache.camel.component.sparkrest.SparkMessage		0.5555556
+org.apache.camel.component.sparkrest.SparkConverter		0.2580645
+org.apache.camel.component.sparkrest.SparkHelper		0.25
+org.apache.camel.component.sparkrest.SparkConfiguration		0.24
+org.apache.camel.component.sparkrest.SparkEndpoint		0.16216215
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkRequestBeanTest
+RestCamelSparkRequestBeanTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkRequestBeanTest_testSparkGet_c
+org.apache.camel.component.sparkrest.SparkMessage		0.7777778
+org.apache.camel.component.sparkrest.CamelSparkRoute		0.61904764
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.5986842
+org.apache.camel.component.sparkrest.SparkConverter		0.4516129
+org.apache.camel.component.sparkrest.SparkHelper		0.25
+org.apache.camel.component.sparkrest.SparkConfiguration		0.24
+org.apache.camel.component.sparkrest.SparkEndpoint		0.16216215
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkSplatTest
+RestCamelSparkSplatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkSplatTest_testSparkGet_12
+org.apache.camel.component.sparkrest.CamelSparkRoute		0.61904764
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.5986842
+org.apache.camel.component.sparkrest.SparkMessage		0.5555556
+org.apache.camel.component.sparkrest.SparkConverter		0.2580645
+org.apache.camel.component.sparkrest.SparkHelper		0.25
+org.apache.camel.component.sparkrest.SparkConfiguration		0.24
+org.apache.camel.component.sparkrest.SparkEndpoint		0.16216215
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkTest
+RestCamelSparkTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkTest_testSparkBye_0
+org.apache.camel.component.sparkrest.CamelSparkRoute		0.61904764
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.5986842
+org.apache.camel.component.sparkrest.SparkMessage		0.33333334
+org.apache.camel.component.sparkrest.SparkHelper		0.25
+org.apache.camel.component.sparkrest.SparkConfiguration		0.24
+org.apache.camel.component.sparkrest.SparkEndpoint		0.16216215
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkTest_testSparkHello_j
+org.apache.camel.component.sparkrest.CamelSparkRoute		0.61904764
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.5986842
+org.apache.camel.component.sparkrest.SparkMessage		0.33333334
+org.apache.camel.component.sparkrest.SparkHelper		0.25
+org.apache.camel.component.sparkrest.SparkConfiguration		0.24
+org.apache.camel.component.sparkrest.SparkEndpoint		0.16216215
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkTest_testSparkPost_t
+org.apache.camel.component.sparkrest.CamelSparkRoute		0.61904764
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.5986842
+org.apache.camel.component.sparkrest.SparkMessage		0.5555556
+org.apache.camel.component.sparkrest.SparkConverter		0.2580645
+org.apache.camel.component.sparkrest.SparkHelper		0.25
+org.apache.camel.component.sparkrest.SparkConfiguration		0.24
+org.apache.camel.component.sparkrest.SparkEndpoint		0.16216215
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkVerbTest
+RestCamelSparkVerbTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkVerbTest_testDelete_l
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.65789473
+org.apache.camel.component.sparkrest.CamelSparkRoute		0.61904764
+org.apache.camel.component.sparkrest.SparkMessage		0.5555556
+org.apache.camel.component.sparkrest.SparkConverter		0.2580645
+org.apache.camel.component.sparkrest.SparkHelper		0.25
+org.apache.camel.component.sparkrest.SparkConfiguration		0.24
+org.apache.camel.component.sparkrest.SparkEndpoint		0.16216215
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkVerbTest_testGetAll_o
+org.apache.camel.component.sparkrest.CamelSparkRoute		0.61904764
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.5986842
+org.apache.camel.component.sparkrest.SparkMessage		0.33333334
+org.apache.camel.component.sparkrest.SparkConverter		0.2580645
+org.apache.camel.component.sparkrest.SparkHelper		0.25
+org.apache.camel.component.sparkrest.SparkConfiguration		0.24
+org.apache.camel.component.sparkrest.SparkEndpoint		0.16216215
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkVerbTest_testGetAll_v
+org.apache.camel.component.sparkrest.SparkConverter		0.2580645
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkVerbTest_testGetOne_13
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.65789473
+org.apache.camel.component.sparkrest.CamelSparkRoute		0.61904764
+org.apache.camel.component.sparkrest.SparkMessage		0.33333334
+org.apache.camel.component.sparkrest.SparkConverter		0.2580645
+org.apache.camel.component.sparkrest.SparkHelper		0.25
+org.apache.camel.component.sparkrest.SparkConfiguration		0.24
+org.apache.camel.component.sparkrest.SparkEndpoint		0.16216215
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkVerbTest_testGetOne_2
+org.apache.camel.component.sparkrest.SparkConverter		0.2580645
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkVerbTest_testPost_10
+org.apache.camel.component.sparkrest.SparkConverter		0.2580645
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkVerbTest_testPost_b
+org.apache.camel.component.sparkrest.CamelSparkRoute		0.61904764
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.5986842
+org.apache.camel.component.sparkrest.SparkMessage		0.5555556
+org.apache.camel.component.sparkrest.SparkConverter		0.2580645
+org.apache.camel.component.sparkrest.SparkHelper		0.25
+org.apache.camel.component.sparkrest.SparkConfiguration		0.24
+org.apache.camel.component.sparkrest.SparkEndpoint		0.16216215
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestCamelSparkVerbTest_testPut_q
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.65789473
+org.apache.camel.component.sparkrest.CamelSparkRoute		0.61904764
+org.apache.camel.component.sparkrest.SparkMessage		0.5555556
+org.apache.camel.component.sparkrest.SparkConverter		0.2580645
+org.apache.camel.component.sparkrest.SparkHelper		0.25
+org.apache.camel.component.sparkrest.SparkConfiguration		0.24
+org.apache.camel.component.sparkrest.SparkEndpoint		0.16216215
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestConfigurationCamelSparkTest
+RestConfigurationCamelSparkTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestConfigurationCamelSparkTest_testSparkBye_m
+org.apache.camel.component.sparkrest.CamelSparkRoute		0.61904764
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.5986842
+org.apache.camel.component.sparkrest.SparkMessage		0.33333334
+org.apache.camel.component.sparkrest.SparkHelper		0.25
+org.apache.camel.component.sparkrest.SparkConfiguration		0.24
+org.apache.camel.component.sparkrest.SparkEndpoint		0.16216215
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestConfigurationCamelSparkTest_testSparkHello_1
+org.apache.camel.component.sparkrest.CamelSparkRoute		0.61904764
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.5986842
+org.apache.camel.component.sparkrest.SparkMessage		0.33333334
+org.apache.camel.component.sparkrest.SparkHelper		0.25
+org.apache.camel.component.sparkrest.SparkConfiguration		0.24
+org.apache.camel.component.sparkrest.SparkEndpoint		0.16216215
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestConfigurationCamelSparkTest_testSparkHello_x
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestConfigurationCamelSparkTest_testSparkPost_g
+org.apache.camel.component.sparkrest.CamelSparkRoute		0.61904764
+org.apache.camel.component.sparkrest.DefaultSparkBinding		0.5986842
+org.apache.camel.component.sparkrest.SparkMessage		0.5555556
+org.apache.camel.component.sparkrest.SparkConverter		0.2580645
+org.apache.camel.component.sparkrest.SparkHelper		0.25
+org.apache.camel.component.sparkrest.SparkConfiguration		0.24
+org.apache.camel.component.sparkrest.SparkEndpoint		0.16216215
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/RestConfigurationCamelSparkTest_testSparkPost_s
+org.apache.camel.component.sparkrest.SparkConverter		0.2580645
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/test-BaseSparkTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/test-CamelSparkAcceptTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/test-CamelSparkParamTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/test-CamelSparkQueryParamTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/test-CamelSparkRequestBeanTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/test-CamelSparkSplatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/test-CamelSparkTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/test-DefaultSparkBindingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/test-DefaultSparkBindingTest_ExchangeHeaderScenario
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/test-RestApiSparkTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/test-RestCamelSparkAcceptTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/test-RestCamelSparkComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/test-RestCamelSparkCorsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/test-RestCamelSparkJsonTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/test-RestCamelSparkMapHeadersFalseTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/test-RestCamelSparkParamTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/test-RestCamelSparkPojoInOutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/test-RestCamelSparkRequestBeanTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/test-RestCamelSparkSplatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/test-RestCamelSparkTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/test-RestCamelSparkVerbTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spark-rest/target/site/clover/org/apache/camel/component/sparkrest/test-RestConfigurationCamelSparkTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

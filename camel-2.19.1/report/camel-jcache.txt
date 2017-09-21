@@ -1,0 +1,306 @@
+./components/camel-jcache/target/site/clover/org/apache/camel
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheComponentTestSupport
+JCacheComponentTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheConfigurationTest
+JCacheConfigurationTest		1.0
+JCacheConfigurationTest.MyCacheLoader		0.33333334
+JCacheConfigurationTest.MyCacheWriter		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheConfigurationTest_testConfigurations_4
+org.apache.camel.component.jcache.JCacheEndpoint		0.10526316
+org.apache.camel.component.jcache.JCacheManager		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheConsumerTest
+JCacheConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheConsumerTest_testFilters_r
+org.apache.camel.component.jcache.JCacheEntryEventListener		0.6666667
+org.apache.camel.component.jcache.JCacheEndpoint		0.5263158
+org.apache.camel.component.jcache.JCacheEntryEventFilters.Chained		0.52380955
+org.apache.camel.component.jcache.JCacheHelper		0.41935483
+org.apache.camel.component.jcache.JCacheEntryEventFilters.Named		0.36363637
+org.apache.camel.component.jcache.JCacheComponent		0.31034482
+org.apache.camel.component.jcache.JCacheManager		0.29
+org.apache.camel.component.jcache.JCacheConsumer		0.26190478
+org.apache.camel.component.jcache.JCacheConfiguration		0.20792079
+org.apache.camel.component.jcache.JCacheProviders		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheManagerTest
+JCacheManagerTest		0.9166667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheManagerTest_testCacheCreationFailure_1
+org.apache.camel.component.jcache.JCacheManager		0.3
+org.apache.camel.component.jcache.JCacheConfiguration		0.20792079
+org.apache.camel.component.jcache.JCacheProviders		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheManagerTest_testCacheCreation_7
+org.apache.camel.component.jcache.JCacheManager		0.6
+org.apache.camel.component.jcache.JCacheConfiguration		0.36633664
+org.apache.camel.component.jcache.JCacheProviders		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheProducerClearTest
+JCacheProducerClearTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheProducerClearTest_testClear_q
+org.apache.camel.component.jcache.JCacheProducer		0.52
+org.apache.camel.component.jcache.JCacheProducer.Action		0.11702128
+org.apache.camel.component.jcache.JCacheEndpoint		0.10526316
+org.apache.camel.component.jcache.JCacheManager		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheProducerGetTest
+JCacheProducerGetTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheProducerGetTest_testGetAll_5
+org.apache.camel.component.jcache.JCacheProducer		0.52
+org.apache.camel.component.jcache.JCacheProducer.Action		0.19148937
+org.apache.camel.component.jcache.JCacheEndpoint		0.10526316
+org.apache.camel.component.jcache.JCacheManager		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheProducerGetTest_testGetAndPut_y
+org.apache.camel.component.jcache.JCacheProducer		0.52
+org.apache.camel.component.jcache.JCacheProducer.Action		0.19148937
+org.apache.camel.component.jcache.JCacheEndpoint		0.10526316
+org.apache.camel.component.jcache.JCacheManager		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheProducerGetTest_testGetAndRemove_l
+org.apache.camel.component.jcache.JCacheProducer		0.52
+org.apache.camel.component.jcache.JCacheProducer.Action		0.19148937
+org.apache.camel.component.jcache.JCacheEndpoint		0.10526316
+org.apache.camel.component.jcache.JCacheManager		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheProducerGetTest_testGetAndReplace_s
+org.apache.camel.component.jcache.JCacheProducer		0.52
+org.apache.camel.component.jcache.JCacheProducer.Action		0.19148937
+org.apache.camel.component.jcache.JCacheEndpoint		0.10526316
+org.apache.camel.component.jcache.JCacheManager		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheProducerGetTest_testGet_12
+org.apache.camel.component.jcache.JCacheProducer		0.52
+org.apache.camel.component.jcache.JCacheProducer.Action		0.19148937
+org.apache.camel.component.jcache.JCacheEndpoint		0.10526316
+org.apache.camel.component.jcache.JCacheManager		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheProducerInvokeTest
+JCacheProducerInvokeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheProducerInvokeTest_testInvokeAll_8
+org.apache.camel.component.jcache.JCacheProducer		0.52
+org.apache.camel.component.jcache.JCacheProducer.Action		0.29787233
+org.apache.camel.component.jcache.JCacheEndpoint		0.10526316
+org.apache.camel.component.jcache.JCacheManager		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheProducerInvokeTest_testInvoke_a
+org.apache.camel.component.jcache.JCacheProducer		0.52
+org.apache.camel.component.jcache.JCacheProducer.Action		0.29787233
+org.apache.camel.component.jcache.JCacheEndpoint		0.10526316
+org.apache.camel.component.jcache.JCacheManager		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheProducerPutTest
+JCacheProducerPutTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheProducerPutTest_testPutAll_e
+org.apache.camel.component.jcache.JCacheProducer		0.52
+org.apache.camel.component.jcache.JCacheProducer.Action		0.11702128
+org.apache.camel.component.jcache.JCacheEndpoint		0.10526316
+org.apache.camel.component.jcache.JCacheManager		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheProducerPutTest_testPutIfAbsentFailure_n
+org.apache.camel.component.jcache.JCacheProducer		0.52
+org.apache.camel.component.jcache.JCacheProducer.Action		0.19148937
+org.apache.camel.component.jcache.JCacheEndpoint		0.10526316
+org.apache.camel.component.jcache.JCacheManager		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheProducerPutTest_testPutIfAbsent_c
+org.apache.camel.component.jcache.JCacheProducer		0.52
+org.apache.camel.component.jcache.JCacheProducer.Action		0.19148937
+org.apache.camel.component.jcache.JCacheEndpoint		0.10526316
+org.apache.camel.component.jcache.JCacheManager		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheProducerPutTest_testPutWithDefaultAction_o
+org.apache.camel.component.jcache.JCacheProducer		0.56
+org.apache.camel.component.jcache.JCacheProducer.Action		0.18085106
+org.apache.camel.component.jcache.JCacheEndpoint		0.10526316
+org.apache.camel.component.jcache.JCacheManager		0.04
+org.apache.camel.component.jcache.JCacheConfiguration		0.01980198
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheProducerPutTest_testPut_u
+org.apache.camel.component.jcache.JCacheProducer		0.52
+org.apache.camel.component.jcache.JCacheProducer.Action		0.18085106
+org.apache.camel.component.jcache.JCacheEndpoint		0.10526316
+org.apache.camel.component.jcache.JCacheManager		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheProducerRemoveTest
+JCacheProducerRemoveTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheProducerRemoveTest_testRemoveAll_j
+org.apache.camel.component.jcache.JCacheProducer		0.52
+org.apache.camel.component.jcache.JCacheProducer.Action		0.14893617
+org.apache.camel.component.jcache.JCacheEndpoint		0.10526316
+org.apache.camel.component.jcache.JCacheManager		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheProducerRemoveTest_testRemoveIfFailure_0
+org.apache.camel.component.jcache.JCacheProducer		0.52
+org.apache.camel.component.jcache.JCacheProducer.Action		0.21276596
+org.apache.camel.component.jcache.JCacheEndpoint		0.10526316
+org.apache.camel.component.jcache.JCacheManager		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheProducerRemoveTest_testRemoveIf_f
+org.apache.camel.component.jcache.JCacheProducer		0.52
+org.apache.camel.component.jcache.JCacheProducer.Action		0.21276596
+org.apache.camel.component.jcache.JCacheEndpoint		0.10526316
+org.apache.camel.component.jcache.JCacheManager		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheProducerRemoveTest_testRemoveSubset_3
+org.apache.camel.component.jcache.JCacheProducer		0.52
+org.apache.camel.component.jcache.JCacheProducer.Action		0.14893617
+org.apache.camel.component.jcache.JCacheEndpoint		0.10526316
+org.apache.camel.component.jcache.JCacheManager		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheProducerRemoveTest_testRemove_v
+org.apache.camel.component.jcache.JCacheProducer		0.52
+org.apache.camel.component.jcache.JCacheProducer.Action		0.21276596
+org.apache.camel.component.jcache.JCacheEndpoint		0.10526316
+org.apache.camel.component.jcache.JCacheManager		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheProducerReplaceTest
+JCacheProducerReplaceTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheProducerReplaceTest_testReplaceFail_p
+org.apache.camel.component.jcache.JCacheProducer		0.52
+org.apache.camel.component.jcache.JCacheProducer.Action		0.21276596
+org.apache.camel.component.jcache.JCacheEndpoint		0.10526316
+org.apache.camel.component.jcache.JCacheManager		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheProducerReplaceTest_testReplaceIfFailure_t
+org.apache.camel.component.jcache.JCacheProducer		0.52
+org.apache.camel.component.jcache.JCacheProducer.Action		0.21276596
+org.apache.camel.component.jcache.JCacheEndpoint		0.10526316
+org.apache.camel.component.jcache.JCacheManager		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheProducerReplaceTest_testReplaceIf_w
+org.apache.camel.component.jcache.JCacheProducer		0.52
+org.apache.camel.component.jcache.JCacheProducer.Action		0.21276596
+org.apache.camel.component.jcache.JCacheEndpoint		0.10526316
+org.apache.camel.component.jcache.JCacheManager		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/JCacheProducerReplaceTest_testReplace_x
+org.apache.camel.component.jcache.JCacheProducer		0.52
+org.apache.camel.component.jcache.JCacheProducer.Action		0.21276596
+org.apache.camel.component.jcache.JCacheEndpoint		0.10526316
+org.apache.camel.component.jcache.JCacheManager		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/processor/aggregate/JCacheAggregationRepositoryRoutesTest
+JCacheAggregationRepositoryRoutesTest		1.0
+JCacheAggregationRepositoryRoutesTest.MyAggregationStrategy		0.85714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/processor/aggregate/JCacheAggregationRepositoryRoutesTest_checkAggregationFromTwoRoutes_i
+org.apache.camel.component.jcache.JCacheManager		0.49
+org.apache.camel.component.jcache.JCacheHelper		0.41935483
+org.apache.camel.component.jcache.JCacheConfiguration		0.36633664
+org.apache.camel.component.jcache.processor.aggregate.JCacheAggregationRepository		0.34653464
+org.apache.camel.component.jcache.JCacheProviders		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/processor/aggregate/JCacheAggregationRepositoryTest
+JCacheAggregationRepositoryTest		0.98717946
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/processor/aggregate/JCacheAggregationRepositoryTestSupport
+JCacheAggregationRepositoryTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/processor/aggregate/JCacheAggregationRepositoryTest_checkOptimisticAddOfNewExchange_10
+org.apache.camel.component.jcache.JCacheManager		0.61
+org.apache.camel.component.jcache.JCacheHelper		0.41935483
+org.apache.camel.component.jcache.JCacheConfiguration		0.36633664
+org.apache.camel.component.jcache.processor.aggregate.JCacheAggregationRepository		0.2970297
+org.apache.camel.component.jcache.JCacheProviders		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/processor/aggregate/JCacheAggregationRepositoryTest_checkOptimisticGet_z
+org.apache.camel.component.jcache.JCacheManager		0.61
+org.apache.camel.component.jcache.JCacheHelper		0.41935483
+org.apache.camel.component.jcache.JCacheConfiguration		0.36633664
+org.apache.camel.component.jcache.processor.aggregate.JCacheAggregationRepository		0.33663365
+org.apache.camel.component.jcache.JCacheProviders		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/processor/aggregate/JCacheAggregationRepositoryTest_checkThreadSafeAddOfNewExchange_9
+org.apache.camel.component.jcache.JCacheManager		0.61
+org.apache.camel.component.jcache.JCacheHelper		0.41935483
+org.apache.camel.component.jcache.JCacheConfiguration		0.36633664
+org.apache.camel.component.jcache.processor.aggregate.JCacheAggregationRepository		0.27722773
+org.apache.camel.component.jcache.JCacheProviders		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/processor/aggregate/JCacheAggregationRepositoryTest_checkThreadSafeGet_b
+org.apache.camel.component.jcache.JCacheManager		0.61
+org.apache.camel.component.jcache.JCacheHelper		0.41935483
+org.apache.camel.component.jcache.JCacheConfiguration		0.36633664
+org.apache.camel.component.jcache.processor.aggregate.JCacheAggregationRepository		0.2970297
+org.apache.camel.component.jcache.JCacheProviders		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/processor/aggregate/JCacheAggregationRepositoryTest_nonOptimisticRepoFailsOnOptimisticAdd_g
+org.apache.camel.component.jcache.JCacheManager		0.6
+org.apache.camel.component.jcache.JCacheHelper		0.41935483
+org.apache.camel.component.jcache.JCacheConfiguration		0.36633664
+org.apache.camel.component.jcache.JCacheProviders		0.2
+org.apache.camel.component.jcache.processor.aggregate.JCacheAggregationRepository		0.16831683
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/processor/aggregate/JCacheAggregationRepositoryTest_optimisticRepoFailsForNonOptimisticAdd_h
+org.apache.camel.component.jcache.JCacheManager		0.6
+org.apache.camel.component.jcache.JCacheHelper		0.41935483
+org.apache.camel.component.jcache.JCacheConfiguration		0.36633664
+org.apache.camel.component.jcache.JCacheProviders		0.2
+org.apache.camel.component.jcache.processor.aggregate.JCacheAggregationRepository		0.16831683
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/processor/aggregate/test-JCacheAggregationRepositoryRoutesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/processor/aggregate/test-JCacheAggregationRepositoryRoutesTest_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/processor/aggregate/test-JCacheAggregationRepositoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/processor/aggregate/test-JCacheAggregationRepositoryTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/processor/idempotent/JCacheIdempotentRepositoryTest
+JCacheIdempotentRepositoryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/processor/idempotent/JCacheIdempotentRepositoryTest_addsNewKeysToCache_m
+org.apache.camel.component.jcache.processor.idempotent.JCacheIdempotentRepository		0.060606062
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/processor/idempotent/JCacheIdempotentRepositoryTest_clearCache_2
+org.apache.camel.component.jcache.processor.idempotent.JCacheIdempotentRepository		0.121212125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/processor/idempotent/JCacheIdempotentRepositoryTest_containsPreviouslyAddedKey_11
+org.apache.camel.component.jcache.processor.idempotent.JCacheIdempotentRepository		0.121212125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/processor/idempotent/JCacheIdempotentRepositoryTest_doesNotRemoveMissingKey_6
+org.apache.camel.component.jcache.processor.idempotent.JCacheIdempotentRepository		0.060606062
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/processor/idempotent/JCacheIdempotentRepositoryTest_removesAnExistingKey_d
+org.apache.camel.component.jcache.processor.idempotent.JCacheIdempotentRepository		0.18181819
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/processor/idempotent/JCacheIdempotentRepositoryTest_skipsAddingSecondTimeTheSameKey_k
+org.apache.camel.component.jcache.processor.idempotent.JCacheIdempotentRepository		0.060606062
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/processor/idempotent/test-JCacheIdempotentRepositoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/test-JCacheComponentTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/test-JCacheConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/test-JCacheConfigurationTest_MyCacheLoader
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/test-JCacheConfigurationTest_MyCacheWriter
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/test-JCacheConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/test-JCacheManagerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/test-JCacheProducerClearTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/test-JCacheProducerGetTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/test-JCacheProducerInvokeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/test-JCacheProducerPutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/test-JCacheProducerRemoveTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcache/target/site/clover/org/apache/camel/component/jcache/test-JCacheProducerReplaceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

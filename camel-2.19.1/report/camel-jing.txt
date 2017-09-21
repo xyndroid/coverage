@@ -1,0 +1,27 @@
+./components/camel-jing/target/site/clover/org/apache/camel
+./components/camel-jing/target/site/clover/org/apache/camel/component/validator/jing/RNCRouteTest
+RNCRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jing/target/site/clover/org/apache/camel/component/validator/jing/RNCRouteTest_testInvalidMessage_1
+testInvalidMessage
+org.apache.camel.component.validator.jing.JingValidator		0.75
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jing/target/site/clover/org/apache/camel/component/validator/jing/RNCRouteTest_testValidMessage_0
+testValidMessage
+org.apache.camel.component.validator.jing.JingValidator		0.75
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jing/target/site/clover/org/apache/camel/component/validator/jing/RNGRouteTest
+RNGRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jing/target/site/clover/org/apache/camel/component/validator/jing/RNGRouteTest_testInvalidMessage_2
+testInvalidMessage
+org.apache.camel.component.validator.jing.JingValidator		0.75
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jing/target/site/clover/org/apache/camel/component/validator/jing/RNGRouteTest_testValidMessage_3
+testValidMessage
+org.apache.camel.component.validator.jing.JingValidator		0.75
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jing/target/site/clover/org/apache/camel/component/validator/jing/test-RNCRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jing/target/site/clover/org/apache/camel/component/validator/jing/test-RNGRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

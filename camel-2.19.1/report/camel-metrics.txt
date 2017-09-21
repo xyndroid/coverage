@@ -1,0 +1,637 @@
+./components/camel-metrics/target/site/clover/org/apache/camel
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/AbstractMetricsProducerTest
+AbstractMetricsProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/AbstractMetricsProducerTest_testClearMetricsHeaders_1v
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.083333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/AbstractMetricsProducerTest_testClearRealHeaders_1s
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.083333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/AbstractMetricsProducerTest_testDoProcessWithException_33
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.7916667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/AbstractMetricsProducerTest_testDoProcess_18
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.75
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/AbstractMetricsProducerTest_testGetLongHeader_1x
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.083333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/AbstractMetricsProducerTest_testGetMetricsNameNotSet_2x
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/AbstractMetricsProducerTest_testGetMetricsName_19
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/AbstractMetricsProducerTest_testGetStringHeaderWithEmptySrting_1l
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/AbstractMetricsProducerTest_testGetStringHeaderWithNullValue_p
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/AbstractMetricsProducerTest_testGetStringHeaderWithWhiteSpaces_29
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/AbstractMetricsProducerTest_testGetStringHeader_1u
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/CounterEndpointTest
+CounterEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/CounterEndpointTest_testCounterEndpoint_1h
+org.apache.camel.component.metrics.MetricsEndpoint		0.13114753
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/CounterEndpointTest_testCreateProducer_9
+org.apache.camel.component.metrics.CounterProducer		0.11111111
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.083333336
+org.apache.camel.component.metrics.MetricsEndpoint		0.06557377
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/CounterEndpointTest_testGetDecrement_2z
+org.apache.camel.component.metrics.MetricsEndpoint		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/CounterEndpointTest_testGetIncrement_e
+org.apache.camel.component.metrics.MetricsEndpoint		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/CounterEndpointTest_testSetDecrement_35
+org.apache.camel.component.metrics.MetricsEndpoint		0.06557377
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/CounterEndpointTest_testSetIncrement_15
+org.apache.camel.component.metrics.MetricsEndpoint		0.06557377
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/CounterProducerTest
+CounterProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/CounterProducerTest_testCounterProducer_x
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.083333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/CounterProducerTest_testDoProcessWithIncrementAndDecrement_i
+org.apache.camel.component.metrics.CounterProducer		0.5555556
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.083333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/CounterProducerTest_testProcessOverridingDecrement_o
+org.apache.camel.component.metrics.CounterProducer		0.6666667
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.083333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/CounterProducerTest_testProcessOverridingIncrement_3b
+org.apache.camel.component.metrics.CounterProducer		0.5555556
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.083333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/CounterProducerTest_testProcessWithDecrementOnly_z
+org.apache.camel.component.metrics.CounterProducer		0.6666667
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.083333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/CounterProducerTest_testProcessWithIncrementOnly_w
+org.apache.camel.component.metrics.CounterProducer		0.5555556
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.083333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/CounterProducerTest_testProcessWithOutIncrementAndDecrement_n
+org.apache.camel.component.metrics.CounterProducer		0.6666667
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.083333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/CounterRouteTest
+CounterRouteTest		1.0
+CounterRouteTest.TestConfig		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/CounterRouteTest_testOverrideDecrement_t
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.8333333
+org.apache.camel.component.metrics.CounterProducer		0.6666667
+org.apache.camel.component.metrics.MetricsEndpoint		0.13114753
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/CounterRouteTest_testOverrideIncrementAndDecrement_2l
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.8333333
+org.apache.camel.component.metrics.CounterProducer		0.5555556
+org.apache.camel.component.metrics.MetricsEndpoint		0.13114753
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/CounterRouteTest_testOverrideIncrement_2e
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.8333333
+org.apache.camel.component.metrics.CounterProducer		0.5555556
+org.apache.camel.component.metrics.MetricsEndpoint		0.13114753
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/CounterRouteTest_testOverrideMetricsName_25
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.8333333
+org.apache.camel.component.metrics.CounterProducer		0.5555556
+org.apache.camel.component.metrics.MetricsEndpoint		0.13114753
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/CounterRouteTest_testOverrideUsingConstantValue_0
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.8333333
+org.apache.camel.component.metrics.CounterProducer		0.5555556
+org.apache.camel.component.metrics.MetricsEndpoint		0.13114753
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/CounterRouteTest_testOverrideUsingScriptEvaluation_1j
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.8333333
+org.apache.camel.component.metrics.CounterProducer		0.5555556
+org.apache.camel.component.metrics.MetricsEndpoint		0.13114753
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/GaugeEndpointTest
+GaugeEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/GaugeEndpointTest_testCreateProducer_4
+org.apache.camel.component.metrics.MetricsEndpoint		0.29508197
+org.apache.camel.component.metrics.GaugeProducer		0.22222222
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.083333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/GaugeEndpointTest_testGaugeEndpoint_2y
+org.apache.camel.component.metrics.MetricsEndpoint		0.09836066
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/GaugeEndpointTest_testGetSubject_h
+org.apache.camel.component.metrics.MetricsEndpoint		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/GaugeEndpointTest_testSetSubject_2s
+org.apache.camel.component.metrics.MetricsEndpoint		0.06557377
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/GaugeProducerTest
+GaugeProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/GaugeProducerTest_testDefault_23
+org.apache.camel.component.metrics.GaugeProducer.CamelMetricsGauge		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/GaugeProducerTest_testGaugeProducer_v
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.083333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/GaugeProducerTest_testProcessWithHeaderValues_1d
+org.apache.camel.component.metrics.GaugeProducer.CamelMetricsGauge		0.6666667
+org.apache.camel.component.metrics.GaugeProducer		0.2777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/GaugeRouteTest
+GaugeRouteTest		1.0
+GaugeRouteTest.TestConfig		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/GaugeRouteTest_testDefault_1c
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.75
+org.apache.camel.component.metrics.GaugeProducer.CamelMetricsGauge		0.33333334
+org.apache.camel.component.metrics.GaugeProducer		0.22222222
+org.apache.camel.component.metrics.MetricsEndpoint		0.06557377
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/GaugeRouteTest_testOverride_21
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.75
+org.apache.camel.component.metrics.GaugeProducer.CamelMetricsGauge		0.6666667
+org.apache.camel.component.metrics.GaugeProducer		0.2777778
+org.apache.camel.component.metrics.MetricsEndpoint		0.06557377
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/HistogramEndpointTest
+HistogramEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/HistogramEndpointTest_testCreateProducer_2d
+org.apache.camel.component.metrics.HistogramProducer		0.16666667
+org.apache.camel.component.metrics.MetricsEndpoint		0.09836066
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.083333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/HistogramEndpointTest_testGetValue_1m
+org.apache.camel.component.metrics.MetricsEndpoint		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/HistogramEndpointTest_testHistogramEndpoint_2v
+org.apache.camel.component.metrics.MetricsEndpoint		0.06557377
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/HistogramEndpointTest_testSetValue_r
+org.apache.camel.component.metrics.MetricsEndpoint		0.06557377
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/HistogramProducerTest
+HistogramProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/HistogramProducerTest_testHistogramProducer_2b
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.083333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/HistogramProducerTest_testProcessOverrideValue_26
+org.apache.camel.component.metrics.HistogramProducer		0.6666667
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.083333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/HistogramProducerTest_testProcessValueNotSet_1y
+org.apache.camel.component.metrics.HistogramProducer		0.6666667
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.083333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/HistogramProducerTest_testProcessValueSet_28
+org.apache.camel.component.metrics.HistogramProducer		0.6666667
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.083333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/HistogramRouteTest
+HistogramRouteTest		1.0
+HistogramRouteTest.TestConfig		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/HistogramRouteTest_testOverrideMetricsName_2c
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.8333333
+org.apache.camel.component.metrics.HistogramProducer		0.6666667
+org.apache.camel.component.metrics.MetricsEndpoint		0.09836066
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/HistogramRouteTest_testOverrideValue_1b
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.8333333
+org.apache.camel.component.metrics.HistogramProducer		0.6666667
+org.apache.camel.component.metrics.MetricsEndpoint		0.09836066
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MeterEndpointTest
+MeterEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MeterEndpointTest_testCreateProducer_10
+org.apache.camel.component.metrics.MeterProducer		0.16666667
+org.apache.camel.component.metrics.MetricsEndpoint		0.13114753
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.083333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MeterEndpointTest_testGetMark_b
+org.apache.camel.component.metrics.MetricsEndpoint		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MeterEndpointTest_testMeterEndpoint_2h
+org.apache.camel.component.metrics.MetricsEndpoint		0.06557377
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MeterEndpointTest_testSetMark_1q
+org.apache.camel.component.metrics.MetricsEndpoint		0.06557377
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MeterProducerTest
+MeterProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MeterProducerTest_testMeterProducer_37
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.083333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MeterProducerTest_testProcessMarkNotSet_1i
+org.apache.camel.component.metrics.MeterProducer		0.6666667
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.083333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MeterProducerTest_testProcessMarkSetOverrideByHeaderValue_12
+org.apache.camel.component.metrics.MeterProducer		0.6666667
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.083333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MeterProducerTest_testProcessMarkSet_j
+org.apache.camel.component.metrics.MeterProducer		0.6666667
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.083333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MeterRouteTest
+MeterRouteTest		1.0
+MeterRouteTest.TestConfig		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MeterRouteTest_testOverrideMetricsName_2q
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.8333333
+org.apache.camel.component.metrics.MeterProducer		0.6666667
+org.apache.camel.component.metrics.MetricsEndpoint		0.09836066
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MeterRouteTest_testOverrideValueWithHeader_24
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.8333333
+org.apache.camel.component.metrics.MeterProducer		0.6666667
+org.apache.camel.component.metrics.MetricsEndpoint		0.09836066
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MeterRouteTest_testValueNoSetInUriOverrideWithHeader_2g
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.8333333
+org.apache.camel.component.metrics.MeterProducer		0.6666667
+org.apache.camel.component.metrics.MetricsEndpoint		0.09836066
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MeterRouteTest_testValueNoSetInUri_27
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.8333333
+org.apache.camel.component.metrics.MeterProducer		0.6666667
+org.apache.camel.component.metrics.MetricsEndpoint		0.09836066
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MeterRouteTest_testValueSetInUri_5
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.8333333
+org.apache.camel.component.metrics.MeterProducer		0.6666667
+org.apache.camel.component.metrics.MetricsEndpoint		0.09836066
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MetricComponentSpringTest
+MetricComponentSpringTest		1.0
+MetricComponentSpringTest.TestConfig		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MetricComponentSpringTest_testMetricsRegistryFromCamelRegistry_11
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.8333333
+org.apache.camel.component.metrics.CounterProducer		0.5555556
+org.apache.camel.component.metrics.MetricsEndpoint		0.13114753
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MetricsComponentRouteTest
+MetricsComponentRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MetricsComponentRouteTest_testHeaderRemoval_m
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.8333333
+org.apache.camel.component.metrics.MeterProducer		0.6666667
+org.apache.camel.component.metrics.MetricsEndpoint		0.09836066
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MetricsComponentRouteTest_testMessageContentDelivery_2n
+org.apache.camel.component.metrics.CounterProducer		0.8888889
+org.apache.camel.component.metrics.TimerProducer		0.84210527
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.8333333
+org.apache.camel.component.metrics.HistogramProducer		0.8333333
+org.apache.camel.component.metrics.MeterProducer		0.8333333
+org.apache.camel.component.metrics.MetricsEndpoint		0.22950819
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MetricsComponentRouteTest_testMetrics_1k
+org.apache.camel.component.metrics.CounterProducer		0.8888889
+org.apache.camel.component.metrics.TimerProducer		0.84210527
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.8333333
+org.apache.camel.component.metrics.HistogramProducer		0.8333333
+org.apache.camel.component.metrics.MeterProducer		0.8333333
+org.apache.camel.component.metrics.MetricsEndpoint		0.22950819
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MetricsComponentTest
+MetricsComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MetricsComponentTest_testCreateEndpoint_1p
+org.apache.camel.component.metrics.MetricsComponent		0.5555556
+org.apache.camel.component.metrics.MetricsType		0.22222222
+org.apache.camel.component.metrics.MetricsEndpoint		0.21311475
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MetricsComponentTest_testCreateEndpoints_q
+org.apache.camel.component.metrics.MetricsComponent		0.5714286
+org.apache.camel.component.metrics.MetricsEndpoint		0.3442623
+org.apache.camel.component.metrics.MetricsType		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MetricsComponentTest_testCreateMetricRegistry_1n
+org.apache.camel.component.metrics.MetricsComponent		0.07936508
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MetricsComponentTest_testCreateNewEndpointForCounter_1z
+org.apache.camel.component.metrics.MetricsEndpoint		0.08196721
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MetricsComponentTest_testCreateNewEndpointForGauge_1g
+org.apache.camel.component.metrics.MetricsEndpoint		0.08196721
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MetricsComponentTest_testCreateNewEndpointForHistogram_g
+org.apache.camel.component.metrics.MetricsEndpoint		0.08196721
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MetricsComponentTest_testCreateNewEndpointForMeter_31
+org.apache.camel.component.metrics.MetricsEndpoint		0.08196721
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MetricsComponentTest_testCreateNewEndpointForTimer_c
+org.apache.camel.component.metrics.MetricsEndpoint		0.08196721
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MetricsComponentTest_testGetMetricRegistryFromCamelRegistry_1a
+org.apache.camel.component.metrics.MetricsComponent		0.07936508
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MetricsComponentTest_testGetMetricsName_2p
+org.apache.camel.component.metrics.MetricsComponent		0.07936508
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MetricsComponentTest_testGetMetricsTypeNotFound_16
+org.apache.camel.component.metrics.MetricsType		0.22222222
+org.apache.camel.component.metrics.MetricsComponent		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MetricsComponentTest_testGetMetricsTypeNotSet_1
+org.apache.camel.component.metrics.MetricsComponent		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MetricsComponentTest_testGetMetricsType_a
+org.apache.camel.component.metrics.MetricsType		0.44444445
+org.apache.camel.component.metrics.MetricsComponent		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MetricsComponentTest_testGetOrCreateMetricRegistryFoundInCamelRegistryByType_14
+org.apache.camel.component.metrics.MetricsComponent		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MetricsComponentTest_testGetOrCreateMetricRegistryFoundInCamelRegistry_2i
+org.apache.camel.component.metrics.MetricsComponent		0.17460318
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MetricsComponentTest_testGetOrCreateMetricRegistryNotFoundInCamelRegistry_u
+org.apache.camel.component.metrics.MetricsComponent		0.34920636
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MetricsEndpointTest
+MetricsEndpointTest		0.9047619
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MetricsEndpointTest_testAbstractMetricsEndpoint_22
+org.apache.camel.component.metrics.MetricsEndpoint		0.06557377
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MetricsEndpointTest_testCreateConsumer_7
+org.apache.camel.component.metrics.MetricsEndpoint		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MetricsEndpointTest_testGetMetricsName_2w
+org.apache.camel.component.metrics.MetricsEndpoint		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MetricsEndpointTest_testGetRegistry_2a
+org.apache.camel.component.metrics.MetricsEndpoint		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MetricsEndpointTest_testIsSingleton_1o
+org.apache.camel.component.metrics.MetricsEndpoint		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MetricsTypeTest
+MetricsTypeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/MetricsTypeTest_testGetByName_d
+org.apache.camel.component.metrics.MetricsType		0.44444445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/TimerEndpointTest
+TimerEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/TimerEndpointTest_testCreateProducer_6
+org.apache.camel.component.metrics.MetricsEndpoint		0.16393442
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.083333336
+org.apache.camel.component.metrics.TimerProducer		0.05263158
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/TimerEndpointTest_testGetAction_3
+org.apache.camel.component.metrics.MetricsEndpoint		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/TimerEndpointTest_testSetAction_k
+org.apache.camel.component.metrics.MetricsEndpoint		0.06557377
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/TimerEndpointTest_testTimerEndpoint_1r
+org.apache.camel.component.metrics.MetricsEndpoint		0.06557377
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/TimerProducerTest
+TimerProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/TimerProducerTest_testGetPropertyName_36
+org.apache.camel.component.metrics.TimerProducer		0.05263158
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/TimerProducerTest_testGetTimerContextFromExchangeNotFound_38
+org.apache.camel.component.metrics.TimerProducer		0.05263158
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/TimerProducerTest_testGetTimerContextFromExchange_2
+org.apache.camel.component.metrics.TimerProducer		0.05263158
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/TimerProducerTest_testHandleStartAlreadyRunning_2o
+org.apache.camel.component.metrics.TimerProducer		0.2631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/TimerProducerTest_testHandleStart_1f
+org.apache.camel.component.metrics.TimerProducer		0.31578946
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/TimerProducerTest_testHandleStopContextNotFound_f
+org.apache.camel.component.metrics.TimerProducer		0.2631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/TimerProducerTest_testHandleStop_2t
+org.apache.camel.component.metrics.TimerProducer		0.28947368
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/TimerProducerTest_testProcessNoActionOverride_2m
+org.apache.camel.component.metrics.TimerProducer		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/TimerProducerTest_testProcessNoAction_1w
+org.apache.camel.component.metrics.TimerProducer		0.23684211
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/TimerProducerTest_testProcessStartWithOverride_17
+org.apache.camel.component.metrics.TimerProducer		0.5263158
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/TimerProducerTest_testProcessStart_3a
+org.apache.camel.component.metrics.TimerProducer		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/TimerProducerTest_testProcessStopWithOverride_1e
+org.apache.camel.component.metrics.TimerProducer		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/TimerProducerTest_testProcessStop_39
+org.apache.camel.component.metrics.TimerProducer		0.5263158
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/TimerProducerTest_testTimerProducer_y
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.083333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/TimerRouteTest
+TimerRouteTest		1.0
+TimerRouteTest.TestConfig		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/TimerRouteTest_testOverrideExistingAction_32
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.75
+org.apache.camel.component.metrics.TimerProducer		0.5
+org.apache.camel.component.metrics.MetricsEndpoint		0.09836066
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/TimerRouteTest_testOverrideMetricsName_l
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.75
+org.apache.camel.component.metrics.TimerProducer		0.5
+org.apache.camel.component.metrics.MetricsEndpoint		0.09836066
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/TimerRouteTest_testOverrideNoAction_2k
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.75
+org.apache.camel.component.metrics.TimerProducer		0.5
+org.apache.camel.component.metrics.MetricsEndpoint		0.09836066
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/messagehistory/ExceptionRouteMetricsMessageHistoryTest
+ExceptionRouteMetricsMessageHistoryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/messagehistory/ExceptionRouteMetricsMessageHistoryTest_testMetricsHistory_2r
+testMetricsHistory
+org.apache.camel.component.metrics.messagehistory.MetricsMessageHistory		0.75
+org.apache.camel.component.metrics.messagehistory.MetricsMessageHistoryFactory		0.19354838
+org.apache.camel.component.metrics.messagehistory.MetricsMessageHistoryService		0.11627907
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/messagehistory/ManagedMessageHistoryTest
+ManagedMessageHistoryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/messagehistory/ManagedMessageHistoryTest_testMessageHistory_30
+testMessageHistory
+org.apache.camel.component.metrics.messagehistory.MetricsMessageHistory		0.75
+org.apache.camel.component.metrics.messagehistory.MetricsMessageHistoryFactory		0.19354838
+org.apache.camel.component.metrics.messagehistory.MetricsMessageHistoryService		0.1744186
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/messagehistory/MetricsMessageHistoryTest
+MetricsMessageHistoryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/messagehistory/MetricsMessageHistoryTest_testMetricsHistory_20
+testMetricsHistory
+org.apache.camel.component.metrics.messagehistory.MetricsMessageHistory		0.75
+org.apache.camel.component.metrics.messagehistory.MetricsMessageHistoryFactory		0.19354838
+org.apache.camel.component.metrics.messagehistory.MetricsMessageHistoryService		0.11627907
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/messagehistory/SpringMetricsMessageHistoryTest
+SpringMetricsMessageHistoryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/messagehistory/SpringMetricsMessageHistoryTest_testMetricsHistory_s
+testMetricsHistory
+org.apache.camel.component.metrics.messagehistory.MetricsMessageHistory		0.75
+org.apache.camel.component.metrics.messagehistory.MetricsMessageHistoryFactory		0.19354838
+org.apache.camel.component.metrics.messagehistory.MetricsMessageHistoryService		0.11627907
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/messagehistory/test-ExceptionRouteMetricsMessageHistoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/messagehistory/test-ManagedMessageHistoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/messagehistory/test-MetricsMessageHistoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/messagehistory/test-SpringMetricsMessageHistoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/routepolicy/ManagedMetricsRoutePolicyTest
+ManagedMetricsRoutePolicyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/routepolicy/ManagedMetricsRoutePolicyTest_testMetricsRoutePolicy_1t
+testMetricsRoutePolicy
+org.apache.camel.component.metrics.AbstractMetricsProducer		0.8333333
+org.apache.camel.component.metrics.CounterProducer		0.6666667
+org.apache.camel.component.metrics.routepolicy.MetricsRoutePolicy.MetricsStatistics		0.6666667
+org.apache.camel.component.metrics.routepolicy.MetricsRegistryService		0.13414635
+org.apache.camel.component.metrics.MetricsEndpoint		0.13114753
+org.apache.camel.component.metrics.routepolicy.MetricsRoutePolicy		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/routepolicy/MetricsRoutePolicyMulticastSubRouteTest
+MetricsRoutePolicyMulticastSubRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/routepolicy/MetricsRoutePolicyMulticastSubRouteTest_testMetricsRoutePolicy_2j
+testMetricsRoutePolicy
+org.apache.camel.component.metrics.routepolicy.MetricsRoutePolicy.MetricsStatistics		0.6666667
+org.apache.camel.component.metrics.routepolicy.MetricsRoutePolicy		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/routepolicy/MetricsRoutePolicySubRouteTest
+MetricsRoutePolicySubRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/routepolicy/MetricsRoutePolicySubRouteTest_testMetricsRoutePolicy_2u
+testMetricsRoutePolicy
+org.apache.camel.component.metrics.routepolicy.MetricsRoutePolicy.MetricsStatistics		0.6666667
+org.apache.camel.component.metrics.routepolicy.MetricsRoutePolicy		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/routepolicy/MetricsRoutePolicyTest
+MetricsRoutePolicyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/routepolicy/MetricsRoutePolicyTest_testMetricsRoutePolicy_8
+testMetricsRoutePolicy
+org.apache.camel.component.metrics.routepolicy.MetricsRoutePolicy.MetricsStatistics		0.6666667
+org.apache.camel.component.metrics.routepolicy.MetricsRoutePolicy		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/routepolicy/test-ManagedMetricsRoutePolicyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/routepolicy/test-MetricsRoutePolicyMulticastSubRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/routepolicy/test-MetricsRoutePolicySubRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/routepolicy/test-MetricsRoutePolicyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/spi/InstrumentedThreadPoolFactoryTest
+InstrumentedThreadPoolFactoryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/spi/InstrumentedThreadPoolFactoryTest_testNewCacheThreadPool_34
+testNewCacheThreadPool
+org.apache.camel.component.metrics.spi.InstrumentedThreadPoolFactory		0.15384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/spi/InstrumentedThreadPoolFactoryTest_testNewScheduledThreadPool_2f
+testNewScheduledThreadPool
+org.apache.camel.component.metrics.spi.InstrumentedThreadPoolFactory		0.15384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/spi/InstrumentedThreadPoolFactoryTest_testNewThreadPool_13
+testNewThreadPool
+org.apache.camel.component.metrics.spi.InstrumentedThreadPoolFactory		0.15384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/spi/test-InstrumentedThreadPoolFactoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/test-AbstractMetricsProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/test-CounterEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/test-CounterProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/test-CounterRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/test-CounterRouteTest_TestConfig
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/test-GaugeEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/test-GaugeProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/test-GaugeRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/test-GaugeRouteTest_TestConfig
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/test-HistogramEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/test-HistogramProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/test-HistogramRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/test-HistogramRouteTest_TestConfig
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/test-MeterEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/test-MeterProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/test-MeterRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/test-MeterRouteTest_TestConfig
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/test-MetricComponentSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/test-MetricComponentSpringTest_TestConfig
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/test-MetricsComponentRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/test-MetricsComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/test-MetricsEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/test-MetricsTypeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/test-TimerEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/test-TimerProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/test-TimerRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-metrics/target/site/clover/org/apache/camel/component/metrics/test-TimerRouteTest_TestConfig
+-- -- -- -- -- -- -- -- -- -- -- -- --

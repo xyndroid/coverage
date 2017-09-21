@@ -1,0 +1,143 @@
+./components/camel-cmis/target/site/clover/org/apache/camel
+./components/camel-cmis/target/site/clover/org/apache/camel/component/cmis/CMISConsumerTest
+CMISConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cmis/target/site/clover/org/apache/camel/component/cmis/CMISConsumerTest_consumeDocumentsWithQuery_c
+org.apache.camel.component.cmis.DefaultCMISSessionFacadeFactory		1.0
+org.apache.camel.component.cmis.CMISConsumer		0.875
+org.apache.camel.component.cmis.CMISComponent		0.6666667
+org.apache.camel.component.cmis.SessionFactoryLocator		0.59090906
+org.apache.camel.component.cmis.CMISEndpoint		0.5294118
+org.apache.camel.component.cmis.CMISSessionFacade		0.25
+org.apache.camel.component.cmis.CMISHelper		0.2173913
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cmis/target/site/clover/org/apache/camel/component/cmis/CMISConsumerTest_getAllContentFromServerOrderedFromRootToLeaves_9
+org.apache.camel.component.cmis.CMISConsumer		1.0
+org.apache.camel.component.cmis.DefaultCMISSessionFacadeFactory		1.0
+org.apache.camel.component.cmis.RecursiveTreeWalker		0.7037037
+org.apache.camel.component.cmis.CMISComponent		0.6666667
+org.apache.camel.component.cmis.CMISHelper		0.6086956
+org.apache.camel.component.cmis.CMISEndpoint		0.5294118
+org.apache.camel.component.cmis.SessionFactoryLocator		0.18181819
+org.apache.camel.component.cmis.CMISSessionFacade		0.14375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cmis/target/site/clover/org/apache/camel/component/cmis/CMISProducerTest
+CMISProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cmis/target/site/clover/org/apache/camel/component/cmis/CMISProducerTest_cmisPropertiesAreStored_0
+org.apache.camel.component.cmis.DefaultCMISSessionFacadeFactory		1.0
+org.apache.camel.component.cmis.CMISProducer		0.6557377
+org.apache.camel.component.cmis.CMISSessionFacade		0.2125
+org.apache.camel.component.cmis.SessionFactoryLocator		0.18181819
+org.apache.camel.component.cmis.CMISEndpoint		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cmis/target/site/clover/org/apache/camel/component/cmis/CMISProducerTest_cmisSecondaryTypePropertiesAreStored_d
+org.apache.camel.component.cmis.DefaultCMISSessionFacadeFactory		1.0
+org.apache.camel.component.cmis.CMISProducer		0.6803279
+org.apache.camel.component.cmis.CMISSessionFacade		0.2125
+org.apache.camel.component.cmis.SessionFactoryLocator		0.18181819
+org.apache.camel.component.cmis.CMISEndpoint		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cmis/target/site/clover/org/apache/camel/component/cmis/CMISProducerTest_createDocumentAtSpecificPath_5
+org.apache.camel.component.cmis.DefaultCMISSessionFacadeFactory		1.0
+org.apache.camel.component.cmis.CMISProducer		0.59836066
+org.apache.camel.component.cmis.CMISSessionFacade		0.2125
+org.apache.camel.component.cmis.SessionFactoryLocator		0.18181819
+org.apache.camel.component.cmis.CMISEndpoint		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cmis/target/site/clover/org/apache/camel/component/cmis/CMISProducerTest_createDocumentWithoutContentByExplicitlySpecifyingObjectTypeHeader_e
+org.apache.camel.component.cmis.DefaultCMISSessionFacadeFactory		1.0
+org.apache.camel.component.cmis.CMISProducer		0.6557377
+org.apache.camel.component.cmis.CMISSessionFacade		0.2125
+org.apache.camel.component.cmis.SessionFactoryLocator		0.18181819
+org.apache.camel.component.cmis.CMISEndpoint		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cmis/target/site/clover/org/apache/camel/component/cmis/CMISProducerTest_emptyBodyAndMissingObjectTypeHeaderCreatesFolderNode_f
+org.apache.camel.component.cmis.DefaultCMISSessionFacadeFactory		1.0
+org.apache.camel.component.cmis.CMISProducer		0.59016395
+org.apache.camel.component.cmis.SessionFactoryLocator		0.18181819
+org.apache.camel.component.cmis.CMISSessionFacade		0.1375
+org.apache.camel.component.cmis.CMISEndpoint		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cmis/target/site/clover/org/apache/camel/component/cmis/CMISProducerTest_failConnectingToNonExistingRepository_4
+org.apache.camel.component.cmis.DefaultCMISSessionFacadeFactory		1.0
+org.apache.camel.component.cmis.CMISComponent		0.5555556
+org.apache.camel.component.cmis.CMISEndpoint		0.5
+org.apache.camel.component.cmis.CMISProducer		0.28688523
+org.apache.camel.component.cmis.SessionFactoryLocator		0.18181819
+org.apache.camel.component.cmis.CMISSessionFacade		0.1125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cmis/target/site/clover/org/apache/camel/component/cmis/CMISProducerTest_failCreatingFolderAtNonExistingPath_6
+org.apache.camel.component.cmis.DefaultCMISSessionFacadeFactory		1.0
+org.apache.camel.component.cmis.CMISProducer		0.21311475
+org.apache.camel.component.cmis.SessionFactoryLocator		0.18181819
+org.apache.camel.component.cmis.CMISEndpoint		0.11764706
+org.apache.camel.component.cmis.CMISSessionFacade		0.08125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cmis/target/site/clover/org/apache/camel/component/cmis/CMISProducerTest_getDocumentMimeTypeFromMessageContentType_7
+org.apache.camel.component.cmis.DefaultCMISSessionFacadeFactory		1.0
+org.apache.camel.component.cmis.CMISProducer		0.6639344
+org.apache.camel.component.cmis.CMISSessionFacade		0.2125
+org.apache.camel.component.cmis.SessionFactoryLocator		0.18181819
+org.apache.camel.component.cmis.CMISEndpoint		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cmis/target/site/clover/org/apache/camel/component/cmis/CMISProducerTest_namePropertyIsAlwaysRequired_a
+org.apache.camel.component.cmis.CMISProducer		0.04918033
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cmis/target/site/clover/org/apache/camel/component/cmis/CMISProducerTest_storeMessageBodyAsTextDocument_3
+org.apache.camel.component.cmis.DefaultCMISSessionFacadeFactory		1.0
+org.apache.camel.component.cmis.CMISProducer		0.6557377
+org.apache.camel.component.cmis.CMISSessionFacade		0.2125
+org.apache.camel.component.cmis.SessionFactoryLocator		0.18181819
+org.apache.camel.component.cmis.CMISEndpoint		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cmis/target/site/clover/org/apache/camel/component/cmis/CMISQueryProducerTest
+CMISQueryProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cmis/target/site/clover/org/apache/camel/component/cmis/CMISQueryProducerTest_getResultCountFromHeader_1
+org.apache.camel.component.cmis.CMISQueryProducer		1.0
+org.apache.camel.component.cmis.DefaultCMISSessionFacadeFactory		1.0
+org.apache.camel.component.cmis.CMISComponent		0.7777778
+org.apache.camel.component.cmis.CMISEndpoint		0.5588235
+org.apache.camel.component.cmis.CMISSessionFacade		0.2625
+org.apache.camel.component.cmis.CMISHelper		0.2173913
+org.apache.camel.component.cmis.SessionFactoryLocator		0.18181819
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cmis/target/site/clover/org/apache/camel/component/cmis/CMISQueryProducerTest_limitNumberOfResultsWithReadSizeHeader_b
+org.apache.camel.component.cmis.CMISQueryProducer		1.0
+org.apache.camel.component.cmis.DefaultCMISSessionFacadeFactory		1.0
+org.apache.camel.component.cmis.CMISComponent		0.7777778
+org.apache.camel.component.cmis.CMISEndpoint		0.5588235
+org.apache.camel.component.cmis.CMISSessionFacade		0.275
+org.apache.camel.component.cmis.CMISHelper		0.2173913
+org.apache.camel.component.cmis.SessionFactoryLocator		0.18181819
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cmis/target/site/clover/org/apache/camel/component/cmis/CMISQueryProducerTest_queryServerForDocumentWithSpecificName_2
+org.apache.camel.component.cmis.CMISQueryProducer		1.0
+org.apache.camel.component.cmis.DefaultCMISSessionFacadeFactory		1.0
+org.apache.camel.component.cmis.CMISComponent		0.7777778
+org.apache.camel.component.cmis.CMISEndpoint		0.5588235
+org.apache.camel.component.cmis.CMISSessionFacade		0.2625
+org.apache.camel.component.cmis.CMISHelper		0.2173913
+org.apache.camel.component.cmis.SessionFactoryLocator		0.18181819
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cmis/target/site/clover/org/apache/camel/component/cmis/CMISQueryProducerTest_retrieveAlsoDocumentContent_8
+org.apache.camel.component.cmis.CMISQueryProducer		1.0
+org.apache.camel.component.cmis.DefaultCMISSessionFacadeFactory		1.0
+org.apache.camel.component.cmis.CMISComponent		0.7777778
+org.apache.camel.component.cmis.CMISEndpoint		0.5588235
+org.apache.camel.component.cmis.CMISSessionFacade		0.35625
+org.apache.camel.component.cmis.CMISHelper		0.2173913
+org.apache.camel.component.cmis.SessionFactoryLocator		0.18181819
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cmis/target/site/clover/org/apache/camel/component/cmis/CMISTestSupport
+CMISTestSupport		0.94666666
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cmis/target/site/clover/org/apache/camel/component/cmis/test-CMISConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cmis/target/site/clover/org/apache/camel/component/cmis/test-CMISProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cmis/target/site/clover/org/apache/camel/component/cmis/test-CMISQueryProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cmis/target/site/clover/org/apache/camel/component/cmis/test-CMISTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --

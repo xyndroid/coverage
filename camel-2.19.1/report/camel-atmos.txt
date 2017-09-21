@@ -1,0 +1,58 @@
+./components/camel-atmos/target/site/clover/org/apache/camel
+./components/camel-atmos/target/site/clover/org/apache/camel/component/atmos/AtmosConsumerTest
+AtmosConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmos/target/site/clover/org/apache/camel/component/atmos/AtmosConsumerTest_shouldCreateGetConsumer_0
+org.apache.camel.component.atmos.util.AtmosOperation		0.5
+org.apache.camel.component.atmos.AtmosEndpoint		0.25581396
+org.apache.camel.component.atmos.integration.consumer.AtmosScheduledPollConsumer		0.25
+org.apache.camel.component.atmos.integration.consumer.AtmosScheduledPollGetConsumer		0.15384616
+org.apache.camel.component.atmos.AtmosConfiguration		0.10909091
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmos/target/site/clover/org/apache/camel/component/atmos/integration/AtmosTestSupport
+AtmosTestSupport		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmos/target/site/clover/org/apache/camel/component/atmos/integration/consumer/AtmosConsumerGetSingleTest
+AtmosConsumerGetSingleTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmos/target/site/clover/org/apache/camel/component/atmos/integration/consumer/test-AtmosConsumerGetSingleTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmos/target/site/clover/org/apache/camel/component/atmos/integration/producer/AtmosProducerDelTest
+AtmosProducerDelTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmos/target/site/clover/org/apache/camel/component/atmos/integration/producer/AtmosProducerGetFolderTest
+AtmosProducerGetFolderTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmos/target/site/clover/org/apache/camel/component/atmos/integration/producer/AtmosProducerGetSingleTest
+AtmosProducerGetSingleTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmos/target/site/clover/org/apache/camel/component/atmos/integration/producer/AtmosProducerMoveTest
+AtmosProducerMoveTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmos/target/site/clover/org/apache/camel/component/atmos/integration/producer/AtmosProducerPutFolderWithRemotePathTest
+AtmosProducerPutFolderWithRemotePathTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmos/target/site/clover/org/apache/camel/component/atmos/integration/producer/AtmosProducerPutSingleFileTest
+AtmosProducerPutSingleFileTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmos/target/site/clover/org/apache/camel/component/atmos/integration/producer/AtmosProducerPutSingleFileWithRemotePathTest
+AtmosProducerPutSingleFileWithRemotePathTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmos/target/site/clover/org/apache/camel/component/atmos/integration/producer/test-AtmosProducerDelTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmos/target/site/clover/org/apache/camel/component/atmos/integration/producer/test-AtmosProducerGetFolderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmos/target/site/clover/org/apache/camel/component/atmos/integration/producer/test-AtmosProducerGetSingleTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmos/target/site/clover/org/apache/camel/component/atmos/integration/producer/test-AtmosProducerMoveTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmos/target/site/clover/org/apache/camel/component/atmos/integration/producer/test-AtmosProducerPutFolderWithRemotePathTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmos/target/site/clover/org/apache/camel/component/atmos/integration/producer/test-AtmosProducerPutSingleFileTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmos/target/site/clover/org/apache/camel/component/atmos/integration/producer/test-AtmosProducerPutSingleFileWithRemotePathTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmos/target/site/clover/org/apache/camel/component/atmos/integration/test-AtmosTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atmos/target/site/clover/org/apache/camel/component/atmos/test-AtmosConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

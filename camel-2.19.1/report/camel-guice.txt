@@ -1,0 +1,295 @@
+./components/camel-guice/target/site/clover/org/apache/camel
+./components/camel-guice/target/site/clover/org/apache/camel/guice/CollectionOfCustomRoutesTest
+CollectionOfCustomRoutesTest		0.14285715
+CollectionOfCustomRoutesTest.MyModule		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/CollectionOfCustomRoutesTest_testDummy_3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/ComponentFoundInRegistryTest
+ComponentFoundInRegistryTest		1.0
+ComponentFoundInRegistryTest.MyModule		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/ComponentFoundInRegistryTest_testGuice_8
+org.apache.camel.guice.jsr250.Jsr250Module		1.0
+org.apache.camel.guice.CamelModule		1.0
+org.apache.camel.guice.CamelModuleWithMatchingRoutes		1.0
+org.apache.camel.guice.support.Reflectors		0.8888889
+org.apache.camel.guice.jndi.JndiBindings		0.7419355
+org.apache.camel.guice.jndi.GuiceInitialContextFactory		0.71428573
+org.apache.camel.guice.support.internal.MethodKey		0.71428573
+org.apache.camel.guice.support.EncounterProvider		0.5714286
+org.apache.camel.guice.jndi.internal.Classes		0.5
+org.apache.camel.guice.support.GuiceyFruitModule		0.40697673
+org.apache.camel.guice.jndi.internal.JndiContext		0.39207047
+org.apache.camel.guice.GuiceCamelContext		0.26530612
+org.apache.camel.guice.inject.Injectors		0.20812182
+org.apache.camel.guice.impl.GuiceInjector		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/ConciseGuiceRouteTest
+ConciseGuiceRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/ConciseGuiceRouteTest_testGuice_7
+org.apache.camel.guice.jndi.internal.JndiContext.ListEnumeration		1.0
+org.apache.camel.guice.jsr250.Jsr250Module		1.0
+org.apache.camel.guice.CamelModule		1.0
+org.apache.camel.guice.CamelModuleWithMatchingRoutes		1.0
+org.apache.camel.guice.support.Reflectors		0.8888889
+org.apache.camel.guice.jsr250.AnnotatedMethodCache		0.88235295
+org.apache.camel.guice.jsr250.PreDestroyCloser		0.8333333
+org.apache.camel.guice.CamelModuleWithRouteTypes		0.8333333
+org.apache.camel.guice.jndi.GuiceInitialContextFactory		0.71428573
+org.apache.camel.guice.support.internal.MethodKey		0.71428573
+org.apache.camel.guice.jndi.JndiBindings		0.66129035
+org.apache.camel.guice.inject.Injectors		0.6395939
+org.apache.camel.guice.jndi.internal.JndiContext.LocalNamingEnumeration		0.5714286
+org.apache.camel.guice.support.EncounterProvider		0.5714286
+org.apache.camel.guice.support.Closers		0.5555556
+org.apache.camel.guice.GuiceCamelContext		0.5510204
+org.apache.camel.guice.support.internal.CloseErrorsImpl		0.54545456
+org.apache.camel.guice.jndi.internal.Classes		0.5
+org.apache.camel.guice.jndi.internal.JndiContext		0.4889868
+org.apache.camel.guice.support.GuiceyFruitModule		0.40697673
+org.apache.camel.guice.support.CompositeCloser		0.4
+org.apache.camel.guice.impl.GuiceInjector		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/EndpointInjectionTest
+EndpointInjectionTest		1.0
+EndpointInjectionTest.MyModule		0.6
+EndpointInjectionTest.MyBean		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/EndpointInjectionTest_testGuice_2
+org.apache.camel.guice.jsr250.Jsr250Module		1.0
+org.apache.camel.guice.CamelModule		1.0
+org.apache.camel.guice.CamelModuleWithMatchingRoutes		1.0
+org.apache.camel.guice.support.Reflectors		0.8888889
+org.apache.camel.guice.jsr250.AnnotatedMethodCache		0.88235295
+org.apache.camel.guice.jsr250.PreDestroyCloser		0.8333333
+org.apache.camel.guice.jndi.GuiceInitialContextFactory		0.71428573
+org.apache.camel.guice.support.EncounterProvider		0.71428573
+org.apache.camel.guice.support.internal.MethodKey		0.71428573
+org.apache.camel.guice.jndi.JndiBindings		0.66129035
+org.apache.camel.guice.inject.Injectors		0.6395939
+org.apache.camel.guice.support.Closers		0.5555556
+org.apache.camel.guice.support.internal.CloseErrorsImpl		0.54545456
+org.apache.camel.guice.GuiceCamelContext		0.5102041
+org.apache.camel.guice.jndi.internal.Classes		0.5
+org.apache.camel.guice.support.GuiceyFruitModule		0.48255813
+org.apache.camel.guice.impl.EndpointInjector		0.47368422
+org.apache.camel.guice.support.CompositeCloser		0.4
+org.apache.camel.guice.jndi.internal.JndiContext		0.33480176
+org.apache.camel.guice.impl.GuiceInjector		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/FileEndpointReferenceRouteTest
+FileEndpointReferenceRouteTest		1.0
+FileEndpointReferenceRouteTest.RouteInstaller		1.0
+FileEndpointReferenceRouteTest.MyFileFilter		0.0
+FileEndpointReferenceRouteTest.MyModule		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/FileEndpointReferenceRouteTest_runTest_c
+org.apache.camel.guice.jndi.internal.JndiContext.ListEnumeration		1.0
+org.apache.camel.guice.jsr250.Jsr250Module		1.0
+org.apache.camel.guice.CamelModule		1.0
+org.apache.camel.guice.support.Reflectors		0.8888889
+org.apache.camel.guice.jsr250.AnnotatedMethodCache		0.88235295
+org.apache.camel.guice.jsr250.PreDestroyCloser		0.8333333
+org.apache.camel.guice.CamelModuleWithRouteTypes		0.8333333
+org.apache.camel.guice.jndi.JndiBindings		0.7419355
+org.apache.camel.guice.jndi.GuiceInitialContextFactory		0.71428573
+org.apache.camel.guice.support.internal.MethodKey		0.71428573
+org.apache.camel.guice.inject.Injectors		0.6040609
+org.apache.camel.guice.jndi.internal.JndiContext.LocalNamingEnumeration		0.5714286
+org.apache.camel.guice.support.EncounterProvider		0.5714286
+org.apache.camel.guice.support.Closers		0.5555556
+org.apache.camel.guice.GuiceCamelContext		0.5510204
+org.apache.camel.guice.support.internal.CloseErrorsImpl		0.54545456
+org.apache.camel.guice.jndi.internal.Classes		0.5
+org.apache.camel.guice.jndi.internal.JndiContext		0.4889868
+org.apache.camel.guice.support.GuiceyFruitModule		0.40697673
+org.apache.camel.guice.support.CompositeCloser		0.4
+org.apache.camel.guice.impl.GuiceInjector		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/GuiceRouteWithNamedKeysTest
+GuiceRouteWithNamedKeysTest		1.0
+GuiceRouteWithNamedKeysTest.MyModule		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/GuiceRouteWithNamedKeysTest_testGuice_b
+org.apache.camel.guice.jndi.internal.JndiContext.ListEnumeration		1.0
+org.apache.camel.guice.jsr250.Jsr250Module		1.0
+org.apache.camel.guice.CamelModule		1.0
+org.apache.camel.guice.CamelModuleWithMatchingRoutes		1.0
+org.apache.camel.guice.support.Reflectors		0.8888889
+org.apache.camel.guice.jsr250.AnnotatedMethodCache		0.88235295
+org.apache.camel.guice.jsr250.PreDestroyCloser		0.8333333
+org.apache.camel.guice.jndi.GuiceInitialContextFactory		0.71428573
+org.apache.camel.guice.support.internal.MethodKey		0.71428573
+org.apache.camel.guice.jndi.JndiBindings		0.66129035
+org.apache.camel.guice.inject.Injectors		0.65989846
+org.apache.camel.guice.jndi.internal.JndiContext.LocalNamingEnumeration		0.5714286
+org.apache.camel.guice.support.EncounterProvider		0.5714286
+org.apache.camel.guice.support.Closers		0.5555556
+org.apache.camel.guice.GuiceCamelContext		0.5510204
+org.apache.camel.guice.support.internal.CloseErrorsImpl		0.54545456
+org.apache.camel.guice.jndi.internal.Classes		0.5
+org.apache.camel.guice.jndi.internal.JndiContext		0.4889868
+org.apache.camel.guice.support.GuiceyFruitModule		0.40697673
+org.apache.camel.guice.support.CompositeCloser		0.4
+org.apache.camel.guice.impl.GuiceInjector		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/GuiceTest
+GuiceTest		1.0
+GuiceTest.Cheese		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/GuiceTest_testGuice_a
+org.apache.camel.guice.jsr250.Jsr250Module		1.0
+org.apache.camel.guice.CamelModule		1.0
+org.apache.camel.guice.CamelModuleWithMatchingRoutes		1.0
+org.apache.camel.guice.support.Reflectors		0.8888889
+org.apache.camel.guice.jsr250.AnnotatedMethodCache		0.88235295
+org.apache.camel.guice.jsr250.PreDestroyCloser		0.8333333
+org.apache.camel.guice.jndi.GuiceInitialContextFactory		0.71428573
+org.apache.camel.guice.support.internal.MethodKey		0.71428573
+org.apache.camel.guice.jndi.JndiBindings		0.66129035
+org.apache.camel.guice.inject.Injectors		0.6395939
+org.apache.camel.guice.support.EncounterProvider		0.5714286
+org.apache.camel.guice.support.Closers		0.5555556
+org.apache.camel.guice.support.internal.CloseErrorsImpl		0.54545456
+org.apache.camel.guice.GuiceCamelContext		0.5102041
+org.apache.camel.guice.jndi.internal.Classes		0.5
+org.apache.camel.guice.support.GuiceyFruitModule		0.40697673
+org.apache.camel.guice.support.CompositeCloser		0.4
+org.apache.camel.guice.jndi.internal.JndiContext		0.33480176
+org.apache.camel.guice.impl.GuiceInjector		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/MainTest
+MainTest		0.9375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/MainTest_testMain_1
+org.apache.camel.guice.jsr250.Jsr250Module		1.0
+org.apache.camel.guice.CamelModule		1.0
+org.apache.camel.guice.CamelModuleWithMatchingRoutes		1.0
+org.apache.camel.guice.support.Reflectors		0.8888889
+org.apache.camel.guice.jndi.GuiceInitialContextFactory		0.71428573
+org.apache.camel.guice.support.internal.MethodKey		0.71428573
+org.apache.camel.guice.jndi.JndiBindings		0.66129035
+org.apache.camel.guice.support.EncounterProvider		0.5714286
+org.apache.camel.guice.Main		0.51898736
+org.apache.camel.guice.jndi.internal.Classes		0.5
+org.apache.camel.guice.support.GuiceyFruitModule		0.40697673
+org.apache.camel.guice.jndi.internal.JndiContext		0.39207047
+org.apache.camel.guice.impl.GuiceInjector		0.2857143
+org.apache.camel.guice.GuiceCamelContext		0.26530612
+org.apache.camel.guice.inject.Injectors		0.2538071
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/TraditionalGuiceRouteTest
+TraditionalGuiceRouteTest		1.0
+TraditionalGuiceRouteTest.MyModule		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/TraditionalGuiceRouteTest_testGuice_4
+org.apache.camel.guice.jndi.internal.JndiContext.ListEnumeration		1.0
+org.apache.camel.guice.jsr250.Jsr250Module		1.0
+org.apache.camel.guice.CamelModule		1.0
+org.apache.camel.guice.CamelModuleWithMatchingRoutes		1.0
+org.apache.camel.guice.support.Reflectors		0.8888889
+org.apache.camel.guice.jsr250.AnnotatedMethodCache		0.88235295
+org.apache.camel.guice.jsr250.PreDestroyCloser		0.8333333
+org.apache.camel.guice.CamelModuleWithRouteTypes		0.8333333
+org.apache.camel.guice.jndi.GuiceInitialContextFactory		0.71428573
+org.apache.camel.guice.support.internal.MethodKey		0.71428573
+org.apache.camel.guice.jndi.JndiBindings		0.66129035
+org.apache.camel.guice.inject.Injectors		0.6395939
+org.apache.camel.guice.jndi.internal.JndiContext.LocalNamingEnumeration		0.5714286
+org.apache.camel.guice.support.EncounterProvider		0.5714286
+org.apache.camel.guice.support.Closers		0.5555556
+org.apache.camel.guice.GuiceCamelContext		0.5510204
+org.apache.camel.guice.support.internal.CloseErrorsImpl		0.54545456
+org.apache.camel.guice.jndi.internal.Classes		0.5
+org.apache.camel.guice.jndi.internal.JndiContext		0.4889868
+org.apache.camel.guice.support.GuiceyFruitModule		0.40697673
+org.apache.camel.guice.support.CompositeCloser		0.4
+org.apache.camel.guice.impl.GuiceInjector		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/consume/ConsumeTest
+ConsumeTest		1.0
+ConsumeTest.TestModule		1.0
+ConsumeTest.MyBean		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/consume/ConsumeTest_testConsumingWorks_0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/consume/test-ConsumeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/consume/test-ConsumeTest_MyBean
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/consume/test-ConsumeTest_TestModule
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/patterns/FilterTest
+FilterTest		1.0
+FilterTest.TestModule		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/patterns/FilterTest_testSendMatchingMessage_6
+org.apache.camel.guice.support.internal.MethodKey		0.32142857
+org.apache.camel.guice.support.GuiceyFruitModule		0.18604651
+org.apache.camel.guice.impl.GuiceInjector		0.14285715
+org.apache.camel.guice.jndi.internal.JndiContext		0.08810572
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/patterns/FilterTest_testSendNotMatchingMessage_9
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/patterns/test-FilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/patterns/test-FilterTest_TestModule
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/produce/ProduceTest
+ProduceTest		1.0
+ProduceTest.TestModule		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/produce/ProduceTest_testInvokeService_5
+org.apache.camel.guice.jndi.internal.JndiContext		0.08810572
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/produce/test-ProduceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/produce/test-ProduceTest_TestModule
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/test-CollectionOfCustomRoutesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/test-CollectionOfCustomRoutesTest_MyModule
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/test-ComponentFoundInRegistryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/test-ComponentFoundInRegistryTest_MyModule
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/test-ConciseGuiceRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/test-EndpointInjectionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/test-EndpointInjectionTest_MyBean
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/test-EndpointInjectionTest_MyModule
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/test-FileEndpointReferenceRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/test-FileEndpointReferenceRouteTest_MyFileFilter
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/test-FileEndpointReferenceRouteTest_MyModule
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/test-FileEndpointReferenceRouteTest_RouteInstaller
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/test-GuiceRouteWithNamedKeysTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/test-GuiceRouteWithNamedKeysTest_MyModule
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/test-GuiceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/test-GuiceTest_Cheese
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/test-MainTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/test-TraditionalGuiceRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/test-TraditionalGuiceRouteTest_MyModule
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/testing/TestScoped
+TestScoped		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/testing/test-InjectorManager_TestModule
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guice/target/site/clover/org/apache/camel/guice/testing/test-TestScoped
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,72 @@
+./components/camel-stomp/target/site/clover/org/apache/camel
+./components/camel-stomp/target/site/clover/org/apache/camel/component/stomp/StompBaseTest
+StompBaseTest		0.92134833
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stomp/target/site/clover/org/apache/camel/component/stomp/StompConsumerTest
+StompConsumerTest		0.92
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stomp/target/site/clover/org/apache/camel/component/stomp/StompConsumerTest_testConsume_2
+org.apache.camel.component.stomp.StompConsumer		0.68421054
+org.apache.camel.component.stomp.StompConfiguration		0.64
+org.apache.camel.component.stomp.StompComponent		0.55172414
+org.apache.camel.component.stomp.StompEndpoint		0.51282054
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stomp/target/site/clover/org/apache/camel/component/stomp/StompConsumerUriTest
+StompConsumerUriTest		0.92
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stomp/target/site/clover/org/apache/camel/component/stomp/StompConsumerUriTest_testConsume_0
+org.apache.camel.component.stomp.StompConfiguration		0.72
+org.apache.camel.component.stomp.StompConsumer		0.68421054
+org.apache.camel.component.stomp.StompComponent		0.55172414
+org.apache.camel.component.stomp.StompEndpoint		0.51282054
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stomp/target/site/clover/org/apache/camel/component/stomp/StompGlobalSslConsumerTest
+StompGlobalSslConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stomp/target/site/clover/org/apache/camel/component/stomp/StompGlobalSslConsumerTest_testConsume_5
+org.apache.camel.component.stomp.StompConfiguration		0.72
+org.apache.camel.component.stomp.StompConsumer		0.68421054
+org.apache.camel.component.stomp.StompEndpoint		0.525641
+org.apache.camel.component.stomp.StompComponent		0.4827586
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stomp/target/site/clover/org/apache/camel/component/stomp/StompProducerTest
+StompProducerTest		0.8974359
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stomp/target/site/clover/org/apache/camel/component/stomp/StompProducerTest_testProduce_1
+org.apache.camel.component.stomp.StompProducer		0.7
+org.apache.camel.component.stomp.StompConfiguration		0.64
+org.apache.camel.component.stomp.StompComponent		0.55172414
+org.apache.camel.component.stomp.StompEndpoint		0.41025642
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stomp/target/site/clover/org/apache/camel/component/stomp/StompSslConsumerTest
+StompSslConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stomp/target/site/clover/org/apache/camel/component/stomp/StompSslConsumerTest_testConsume_4
+org.apache.camel.component.stomp.StompConfiguration		0.72
+org.apache.camel.component.stomp.StompConsumer		0.68421054
+org.apache.camel.component.stomp.StompEndpoint		0.525641
+org.apache.camel.component.stomp.StompComponent		0.51724136
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stomp/target/site/clover/org/apache/camel/component/stomp/StompSslProducerTest
+StompSslProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stomp/target/site/clover/org/apache/camel/component/stomp/StompSslProducerTest_testProduce_3
+org.apache.camel.component.stomp.StompConfiguration		0.72
+org.apache.camel.component.stomp.StompProducer		0.7
+org.apache.camel.component.stomp.StompComponent		0.51724136
+org.apache.camel.component.stomp.StompEndpoint		0.42307693
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stomp/target/site/clover/org/apache/camel/component/stomp/test-StompBaseTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stomp/target/site/clover/org/apache/camel/component/stomp/test-StompConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stomp/target/site/clover/org/apache/camel/component/stomp/test-StompConsumerUriTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stomp/target/site/clover/org/apache/camel/component/stomp/test-StompGlobalSslConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stomp/target/site/clover/org/apache/camel/component/stomp/test-StompProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stomp/target/site/clover/org/apache/camel/component/stomp/test-StompSslConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stomp/target/site/clover/org/apache/camel/component/stomp/test-StompSslProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

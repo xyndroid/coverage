@@ -1,0 +1,92 @@
+./platforms/commands/commands-core/target/site/clover/org/apache/camel
+./platforms/commands/commands-core/target/site/clover/org/apache/camel/commands/AbstractLocalCamelControllerTest
+AbstractLocalCamelControllerTest		1.0
+AbstractLocalCamelControllerTest.DummyTransformer		0.0
+AbstractLocalCamelControllerTest.DummyValidator		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/commands/commands-core/target/site/clover/org/apache/camel/commands/AbstractLocalCamelControllerTest_testBrowseInflightExchangesWithMoreRoutes_b
+org.apache.camel.commands.AbstractLocalCamelController		0.08453237
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/commands/commands-core/target/site/clover/org/apache/camel/commands/AbstractLocalCamelControllerTest_testBrowseInflightExchangesWithNoRoutes_9
+org.apache.camel.commands.AbstractLocalCamelController		0.037769783
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/commands/commands-core/target/site/clover/org/apache/camel/commands/AbstractLocalCamelControllerTest_testBrowseInflightExchangesWithOneRoute_0
+org.apache.camel.commands.AbstractLocalCamelController		0.08453237
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/commands/commands-core/target/site/clover/org/apache/camel/commands/AbstractLocalCamelControllerTest_testBrowseInflightExchangesWithSpecificRoute_4
+org.apache.camel.commands.AbstractLocalCamelController		0.08453237
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/commands/commands-core/target/site/clover/org/apache/camel/commands/AbstractLocalCamelControllerTest_testTransformer_2
+org.apache.camel.commands.AbstractLocalCamelController		0.041366905
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/commands/commands-core/target/site/clover/org/apache/camel/commands/AbstractLocalCamelControllerTest_testValidator_c
+org.apache.camel.commands.AbstractLocalCamelController		0.037769783
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/commands/commands-core/target/site/clover/org/apache/camel/commands/ContextListCommandTest
+ContextListCommandTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/commands/commands-core/target/site/clover/org/apache/camel/commands/ContextListCommandTest_testContextList_1
+org.apache.camel.commands.ContextListCommand		0.8988764
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/commands/commands-core/target/site/clover/org/apache/camel/commands/ContextListCommandTest_testEndpointStats_6
+org.apache.camel.commands.EndpointStatisticCommand		0.76397514
+org.apache.camel.commands.internal.RegexUtil		0.32352942
+org.apache.camel.commands.AbstractCamelController		0.31578946
+org.apache.camel.commands.AbstractLocalCamelController		0.073741004
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/commands/commands-core/target/site/clover/org/apache/camel/commands/TransformerListCommandTest
+TransformerListCommandTest		1.0
+TransformerListCommandTest.MyTransformer		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/commands/commands-core/target/site/clover/org/apache/camel/commands/TransformerListCommandTest_testTransformerListVerbose_5
+org.apache.camel.commands.TransformerListCommand		0.88461536
+org.apache.camel.commands.internal.MatchUtil		0.6666667
+org.apache.camel.commands.AbstractCamelController		0.31578946
+org.apache.camel.commands.AbstractLocalCamelController		0.041366905
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/commands/commands-core/target/site/clover/org/apache/camel/commands/TransformerListCommandTest_testTransformerList_7
+org.apache.camel.commands.TransformerListCommand		0.8230769
+org.apache.camel.commands.internal.MatchUtil		0.6666667
+org.apache.camel.commands.AbstractCamelController		0.31578946
+org.apache.camel.commands.AbstractLocalCamelController		0.041366905
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/commands/commands-core/target/site/clover/org/apache/camel/commands/ValidatorListCommandTest
+ValidatorListCommandTest		1.0
+ValidatorListCommandTest.MyValidator		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/commands/commands-core/target/site/clover/org/apache/camel/commands/ValidatorListCommandTest_testValidatorListVerbose_8
+org.apache.camel.commands.ValidatorListCommand		0.8545455
+org.apache.camel.commands.internal.MatchUtil		0.6666667
+org.apache.camel.commands.AbstractCamelController		0.31578946
+org.apache.camel.commands.AbstractLocalCamelController		0.037769783
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/commands/commands-core/target/site/clover/org/apache/camel/commands/ValidatorListCommandTest_testValidatorList_3
+org.apache.camel.commands.ValidatorListCommand		0.7818182
+org.apache.camel.commands.internal.MatchUtil		0.6666667
+org.apache.camel.commands.AbstractCamelController		0.31578946
+org.apache.camel.commands.AbstractLocalCamelController		0.037769783
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/commands/commands-core/target/site/clover/org/apache/camel/commands/internal/RegexUtilTest
+RegexUtilTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/commands/commands-core/target/site/clover/org/apache/camel/commands/internal/RegexUtilTest_testWildcardAsRegex_a
+org.apache.camel.commands.internal.RegexUtil		0.5294118
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/commands/commands-core/target/site/clover/org/apache/camel/commands/internal/test-RegexUtilTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/commands/commands-core/target/site/clover/org/apache/camel/commands/test-AbstractLocalCamelControllerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/commands/commands-core/target/site/clover/org/apache/camel/commands/test-AbstractLocalCamelControllerTest_DummyTransformer
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/commands/commands-core/target/site/clover/org/apache/camel/commands/test-AbstractLocalCamelControllerTest_DummyValidator
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/commands/commands-core/target/site/clover/org/apache/camel/commands/test-ContextListCommandTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/commands/commands-core/target/site/clover/org/apache/camel/commands/test-TransformerListCommandTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/commands/commands-core/target/site/clover/org/apache/camel/commands/test-TransformerListCommandTest_MyTransformer
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/commands/commands-core/target/site/clover/org/apache/camel/commands/test-ValidatorListCommandTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/commands/commands-core/target/site/clover/org/apache/camel/commands/test-ValidatorListCommandTest_MyValidator
+-- -- -- -- -- -- -- -- -- -- -- -- --

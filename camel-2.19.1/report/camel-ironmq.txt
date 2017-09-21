@@ -1,0 +1,161 @@
+./components/camel-ironmq/target/site/clover/org/apache/camel
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/FromQueueToQueueTest
+FromQueueToQueueTest		0.8
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/FromQueueToQueueTest_shouldDeleteMessageFromQueue1_a
+org.apache.camel.component.ironmq.IronMQConsumer		0.6923077
+org.apache.camel.component.ironmq.IronMQProducer		0.6052632
+org.apache.camel.component.ironmq.IronMQEndpoint		0.3272727
+org.apache.camel.component.ironmq.IronMQConfiguration		0.20833333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/IronMQBatchConsumerTest
+IronMQBatchConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/IronMQBatchConsumerTest_testConsumeBatchDelete_0
+org.apache.camel.component.ironmq.IronMQConsumer		0.6
+org.apache.camel.component.ironmq.IronMQEndpoint		0.3272727
+org.apache.camel.component.ironmq.IronMQConfiguration		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/IronMQBatchDeleteConsumerTest
+IronMQBatchDeleteConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/IronMQBatchDeleteConsumerTest_testConsumeBatch_5
+org.apache.camel.component.ironmq.IronMQConsumer		0.61538464
+org.apache.camel.component.ironmq.IronMQEndpoint		0.3272727
+org.apache.camel.component.ironmq.IronMQConfiguration		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/IronMQBatchProducerTest
+IronMQBatchProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/IronMQBatchProducerTest_testProduceBatchWithIllegalPayload_f
+org.apache.camel.component.ironmq.IronMQProducer		0.34210527
+org.apache.camel.component.ironmq.IronMQEndpoint		0.036363635
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/IronMQBatchProducerTest_testProduceBatch_7
+org.apache.camel.component.ironmq.IronMQProducer		0.5
+org.apache.camel.component.ironmq.IronMQConfiguration		0.041666668
+org.apache.camel.component.ironmq.IronMQEndpoint		0.036363635
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/IronMQComponentConfigurationTest
+IronMQComponentConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/IronMQComponentConfigurationTest_createEndpointWithMaximalConfiguration_6
+org.apache.camel.component.ironmq.IronMQConfiguration		0.875
+org.apache.camel.component.ironmq.IronMQComponent		0.68421054
+org.apache.camel.component.ironmq.IronMQEndpoint		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/IronMQComponentConfigurationTest_createEndpointWithMinimalConfigurationAndIronMQCloud_1
+org.apache.camel.component.ironmq.IronMQComponent		0.68421054
+org.apache.camel.component.ironmq.IronMQConfiguration		0.5
+org.apache.camel.component.ironmq.IronMQEndpoint		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/IronMQComponentConfigurationTest_createEndpointWithMinimalConfiguration_b
+org.apache.camel.component.ironmq.IronMQComponent		0.68421054
+org.apache.camel.component.ironmq.IronMQConfiguration		0.5416667
+org.apache.camel.component.ironmq.IronMQEndpoint		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/IronMQComponentConfigurationTest_createEndpointWithPollConsumerConfiguration_4
+org.apache.camel.component.ironmq.IronMQComponent		0.68421054
+org.apache.camel.component.ironmq.IronMQConfiguration		0.5
+org.apache.camel.component.ironmq.IronMQEndpoint		0.4
+org.apache.camel.component.ironmq.IronMQConsumer		0.046153847
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/IronMQComponentConfigurationTest_createEndpointWithoutProjectIdConfiguration_3
+org.apache.camel.component.ironmq.IronMQComponent		0.57894737
+org.apache.camel.component.ironmq.IronMQConfiguration		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/IronMQComponentConfigurationTest_createEndpointWithoutTokenConfiguration_9
+org.apache.camel.component.ironmq.IronMQComponent		0.57894737
+org.apache.camel.component.ironmq.IronMQConfiguration		0.20833333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/IronMQComponentSpringTest
+IronMQComponentSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/IronMQComponentSpringTest_sendInOnly_d
+org.apache.camel.component.ironmq.IronMQConsumer		0.6923077
+org.apache.camel.component.ironmq.IronMQProducer		0.6052632
+org.apache.camel.component.ironmq.IronMQEndpoint		0.25454545
+org.apache.camel.component.ironmq.IronMQConfiguration		0.20833333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/IronMQComponentSpringTest_sendInOut_e
+org.apache.camel.component.ironmq.IronMQProducer		0.65789473
+org.apache.camel.component.ironmq.IronMQConsumer		0.50769234
+org.apache.camel.component.ironmq.IronMQEndpoint		0.25454545
+org.apache.camel.component.ironmq.IronMQConfiguration		0.20833333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/IronMQComponentTest
+IronMQComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/IronMQComponentTest_sendInOnly_g
+org.apache.camel.component.ironmq.IronMQConsumer		0.6923077
+org.apache.camel.component.ironmq.IronMQProducer		0.6052632
+org.apache.camel.component.ironmq.IronMQEndpoint		0.25454545
+org.apache.camel.component.ironmq.IronMQConfiguration		0.20833333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/IronMQComponentTest_sendInOut_c
+org.apache.camel.component.ironmq.IronMQConsumer		0.6923077
+org.apache.camel.component.ironmq.IronMQProducer		0.65789473
+org.apache.camel.component.ironmq.IronMQEndpoint		0.25454545
+org.apache.camel.component.ironmq.IronMQConfiguration		0.20833333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/IronMQComponentTest_testIronMQ_2
+org.apache.camel.component.ironmq.IronMQConsumer		0.6923077
+org.apache.camel.component.ironmq.IronMQProducer		0.6052632
+org.apache.camel.component.ironmq.IronMQEndpoint		0.25454545
+org.apache.camel.component.ironmq.IronMQConfiguration		0.20833333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/IronMQPreserveHeadersTest
+IronMQPreserveHeadersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/IronMQPreserveHeadersTest_testPreserveHeaders_8
+org.apache.camel.component.ironmq.GsonUtil.IronMqMessage		1.0
+org.apache.camel.component.ironmq.GsonUtil		0.8235294
+org.apache.camel.component.ironmq.IronMQProducer		0.6315789
+org.apache.camel.component.ironmq.IronMQConsumer		0.61538464
+org.apache.camel.component.ironmq.IronMQEndpoint		0.25454545
+org.apache.camel.component.ironmq.IronMQConfiguration		0.20833333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/integrationtest/ConcurrentConsumerLoadTest
+ConcurrentConsumerLoadTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/integrationtest/IronMQComponentTest
+IronMQComponentTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/integrationtest/IronMQFIFOTest
+IronMQFIFOTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/integrationtest/IronMQRackspaceComponentTest
+IronMQRackspaceComponentTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/integrationtest/LoadTest
+LoadTest		0.0
+LoadTest.InputDataset		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/integrationtest/test-ConcurrentConsumerLoadTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/integrationtest/test-IronMQComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/integrationtest/test-IronMQFIFOTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/integrationtest/test-IronMQRackspaceComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/integrationtest/test-LoadTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/integrationtest/test-LoadTest_InputDataset
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/test-FromQueueToQueueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/test-IronMQBatchConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/test-IronMQBatchDeleteConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/test-IronMQBatchProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/test-IronMQComponentConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/test-IronMQComponentSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/test-IronMQComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ironmq/target/site/clover/org/apache/camel/component/ironmq/test-IronMQPreserveHeadersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

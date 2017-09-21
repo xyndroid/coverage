@@ -1,0 +1,222 @@
+./components/camel-dozer/target/site/clover/org/apache/camel
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/CustomMapperParametersTest
+CustomMapperParametersTest		1.0
+MapperWithMultiParmMethod		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/CustomMapperParametersTest_shouldExecuteCustomFunctionWithArguments_7
+org.apache.camel.component.dozer.BaseConverter		0.6666667
+org.apache.camel.component.dozer.CustomMapper		0.5466667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/CustomMapperParametersTest_shouldExecuteCustomFunctionWithVariableArguments_6
+org.apache.camel.component.dozer.BaseConverter		0.6666667
+org.apache.camel.component.dozer.CustomMapper		0.61333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/CustomMapperTest
+CustomMapperTest		0.9583333
+A		1.0
+B		1.0
+MapperWithOneMethod		0.0
+MapperWithTwoMethods		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/CustomMapperTest_mapCustomDeclaredOperation_5
+org.apache.camel.component.dozer.BaseConverter		0.6666667
+org.apache.camel.component.dozer.CustomMapper		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/CustomMapperTest_mapCustomFindOperation_d
+org.apache.camel.component.dozer.BaseConverter		0.6666667
+org.apache.camel.component.dozer.CustomMapper		0.22
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/CustomMapperTest_mapCustomInvalidOperation_f
+org.apache.camel.component.dozer.BaseConverter		0.6666667
+org.apache.camel.component.dozer.CustomMapper		0.13333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/CustomMapperTest_mapCustomNullField_l
+org.apache.camel.component.dozer.BaseConverter		0.6666667
+org.apache.camel.component.dozer.CustomMapper		0.22
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/CustomMapperTest_selectMapperMultipleMethods_k
+org.apache.camel.component.dozer.CustomMapper		0.053333335
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/CustomMapperTest_selectMapperOneMethod_9
+org.apache.camel.component.dozer.BaseConverter		0.33333334
+org.apache.camel.component.dozer.CustomMapper		0.053333335
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/CustomMappingTest
+CustomMappingTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/CustomMappingTest_testCustomMapping_m
+org.apache.camel.component.dozer.BaseConverter		1.0
+org.apache.camel.converter.dozer.DozerThreadContextClassLoader		0.6923077
+org.apache.camel.component.dozer.CustomMapper		0.26666668
+org.apache.camel.component.dozer.DozerConfiguration		0.26666668
+org.apache.camel.component.dozer.DozerProducer		0.23404256
+org.apache.camel.component.dozer.DozerEndpoint		0.09756097
+org.apache.camel.component.dozer.ExpressionMapper		0.03846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/DozerComponentTest
+DozerComponentTest		0.9411765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/DozerComponentTest_requiredTargetModelMissing_a
+org.apache.camel.component.dozer.DozerComponent		0.37037036
+org.apache.camel.component.dozer.DozerConfiguration		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/DozerComponentTest_testCreateEndpoint_p
+org.apache.camel.component.dozer.DozerConfiguration		0.93333334
+org.apache.camel.component.dozer.DozerComponent		0.37037036
+org.apache.camel.component.dozer.DozerEndpoint		0.09756097
+org.apache.camel.component.dozer.CustomMapper		0.013333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/ExpressionMappingClasspathTest
+ExpressionMappingClasspathTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/ExpressionMappingClasspathTest_testExpressionMappingScript_1
+org.apache.camel.component.dozer.BaseConverter		1.0
+org.apache.camel.component.dozer.ExpressionMapper		0.88461536
+org.apache.camel.component.dozer.DozerProducer		0.28723404
+org.apache.camel.component.dozer.DozerConfiguration		0.26666668
+org.apache.camel.component.dozer.DozerEndpoint		0.09756097
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/ExpressionMappingFileTest
+ExpressionMappingFileTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/ExpressionMappingFileTest_testExpressionMappingScriptFile_i
+org.apache.camel.component.dozer.BaseConverter		1.0
+org.apache.camel.component.dozer.ExpressionMapper		0.88461536
+org.apache.camel.component.dozer.DozerProducer		0.28723404
+org.apache.camel.component.dozer.DozerConfiguration		0.26666668
+org.apache.camel.component.dozer.DozerEndpoint		0.09756097
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/ExpressionMappingTest
+ExpressionMappingTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/ExpressionMappingTest_testExpressionMapping_n
+org.apache.camel.component.dozer.BaseConverter		1.0
+org.apache.camel.component.dozer.ExpressionMapper		0.5769231
+org.apache.camel.component.dozer.DozerProducer		0.28723404
+org.apache.camel.component.dozer.DozerConfiguration		0.26666668
+org.apache.camel.component.dozer.DozerEndpoint		0.09756097
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/VariableMappingTest
+VariableMappingTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/VariableMappingTest_testLiteralMapping_c
+org.apache.camel.component.dozer.BaseConverter		1.0
+org.apache.camel.component.dozer.VariableMapper		1.0
+org.apache.camel.component.dozer.DozerProducer		0.28723404
+org.apache.camel.component.dozer.DozerConfiguration		0.26666668
+org.apache.camel.component.dozer.DozerEndpoint		0.09756097
+org.apache.camel.component.dozer.ExpressionMapper		0.03846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/XmlToJsonTest
+XmlToJsonTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/XmlToJsonTest_testMultipleSends_0
+org.apache.camel.component.dozer.DozerProducer		0.4574468
+org.apache.camel.component.dozer.DozerConfiguration		0.26666668
+org.apache.camel.converter.dozer.DozerThreadContextClassLoader		0.23076923
+org.apache.camel.component.dozer.DozerEndpoint		0.09756097
+org.apache.camel.component.dozer.ExpressionMapper		0.03846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/XmlToJsonTest_testXmlToJson_h
+org.apache.camel.component.dozer.DozerProducer		0.5851064
+org.apache.camel.component.dozer.DozerConfiguration		0.26666668
+org.apache.camel.converter.dozer.DozerThreadContextClassLoader		0.23076923
+org.apache.camel.component.dozer.DozerEndpoint		0.09756097
+org.apache.camel.component.dozer.ExpressionMapper		0.03846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/test-CustomMapperParametersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/test-CustomMapperTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/test-CustomMappingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/test-DozerComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/test-ExpressionMappingClasspathTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/test-ExpressionMappingFileTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/test-ExpressionMappingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/test-VariableMappingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/component/dozer/test-XmlToJsonTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/converter/dozer/DozerBeanMappingTest
+DozerBeanMappingTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/converter/dozer/DozerBeanMappingTest_testBeanMapping_e
+org.apache.camel.converter.dozer.DozerTypeConverter		0.7111111
+org.apache.camel.converter.dozer.DozerThreadContextClassLoader		0.6923077
+org.apache.camel.converter.dozer.DozerBeanMapperConfiguration		0.6
+org.apache.camel.converter.dozer.DozerTypeConverterLoader		0.56842107
+org.apache.camel.component.dozer.DozerComponent		0.4074074
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/converter/dozer/DozerBeanMappingTest_testMarshalToInterfaceViaDozer_3
+org.apache.camel.converter.dozer.DozerTypeConverter		0.7111111
+org.apache.camel.converter.dozer.DozerThreadContextClassLoader		0.6923077
+org.apache.camel.converter.dozer.DozerBeanMapperConfiguration		0.6
+org.apache.camel.converter.dozer.DozerTypeConverterLoader		0.56842107
+org.apache.camel.component.dozer.DozerComponent		0.4074074
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/converter/dozer/DozerBeanMappingTest_testMarshalViaDozer_o
+org.apache.camel.converter.dozer.DozerTypeConverter		0.7111111
+org.apache.camel.converter.dozer.DozerThreadContextClassLoader		0.6923077
+org.apache.camel.converter.dozer.DozerBeanMapperConfiguration		0.6
+org.apache.camel.converter.dozer.DozerTypeConverterLoader		0.56842107
+org.apache.camel.component.dozer.DozerComponent		0.4074074
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/converter/dozer/DozerTestArtifactsFactory
+DozerTestArtifactsFactory		0.90909094
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/converter/dozer/DozerTypeConverterDTOTest
+DozerTypeConverterDTOTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/converter/dozer/DozerTypeConverterDTOTest_verifyCamelConversionViaDozer_g
+org.apache.camel.converter.dozer.DozerTypeConverter		0.6666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/converter/dozer/DozerTypeConverterTest
+DozerTypeConverterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/converter/dozer/DozerTypeConverterTest_verifyCamelConversionViaDozer_b
+org.apache.camel.converter.dozer.DozerThreadContextClassLoader		0.6923077
+org.apache.camel.converter.dozer.DozerTypeConverter		0.6666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/converter/dozer/DozerTypeConverterTest_verifyCustomerMapping_4
+org.apache.camel.converter.dozer.DozerThreadContextClassLoader		0.6923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/converter/dozer/SpringDozerTypeConverterConfigurationTest
+SpringDozerTypeConverterConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/converter/dozer/SpringDozerTypeConverterConfigurationTest_verifyCamelConversionViaDozer_j
+org.apache.camel.converter.dozer.DozerThreadContextClassLoader		0.6923077
+org.apache.camel.converter.dozer.DozerTypeConverter		0.6666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/converter/dozer/SpringDozerTypeConverterTest
+SpringDozerTypeConverterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/converter/dozer/SpringDozerTypeConverterTest_verifyCamelConversionViaDozer_8
+org.apache.camel.converter.dozer.DozerThreadContextClassLoader		0.6923077
+org.apache.camel.converter.dozer.DozerTypeConverter		0.6666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/converter/dozer/SpringDozerTypeConverterWithMapIdTest
+SpringDozerTypeConverterWithMapIdTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/converter/dozer/SpringDozerTypeConverterWithMapIdTest_verifyCamelConversionViaDozer_2
+org.apache.camel.converter.dozer.DozerThreadContextClassLoader		0.6923077
+org.apache.camel.converter.dozer.DozerTypeConverter		0.6666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/converter/dozer/test-DozerBeanMappingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/converter/dozer/test-DozerTestArtifactsFactory
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/converter/dozer/test-DozerTypeConverterDTOTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/converter/dozer/test-DozerTypeConverterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/converter/dozer/test-SpringDozerTypeConverterConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/converter/dozer/test-SpringDozerTypeConverterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dozer/target/site/clover/org/apache/camel/converter/dozer/test-SpringDozerTypeConverterWithMapIdTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

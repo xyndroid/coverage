@@ -1,0 +1,1146 @@
+./components/camel-http4/target/site/clover/org/apache/camel
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/AdviceAndInterceptHttp4IssueTest
+AdviceAndInterceptHttp4IssueTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/AdviceAndInterceptHttp4IssueTest_testHttp4WithHttpClientParameter_35
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpEndpoint		0.3649635
+org.apache.camel.component.http4.HttpProducer		0.02116402
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/AdviceAndInterceptHttp4IssueTest_testHttp4WithoutHttpClientParameter_2v
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpEndpoint		0.3649635
+org.apache.camel.component.http4.HttpProducer		0.02116402
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/BaseHttpTest
+BaseHttpTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/BaseHttpsTest
+BaseHttpsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/CamelComponentVerifierTest
+CamelComponentVerifierTest		0.97115386
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/CamelComponentVerifierTest_testConnectivityWithAuthentication_2h
+org.apache.camel.component.http4.BasicAuthenticationHttpClientConfigurer		0.8666667
+org.apache.camel.component.http4.HttpComponentVerifier		0.44761905
+org.apache.camel.component.http4.CompositeHttpConfigurer		0.35
+org.apache.camel.component.http4.HttpComponent		0.015384615
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/CamelComponentVerifierTest_testConnectivityWithRedirectDisabled_j
+org.apache.camel.component.http4.HttpUtil		0.8
+org.apache.camel.component.http4.HttpComponentVerifier		0.47619048
+org.apache.camel.component.http4.CompositeHttpConfigurer		0.1
+org.apache.camel.component.http4.HttpComponent		0.015384615
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/CamelComponentVerifierTest_testConnectivityWithRedirect_11
+org.apache.camel.component.http4.HttpComponentVerifier		0.42857143
+org.apache.camel.component.http4.CompositeHttpConfigurer		0.1
+org.apache.camel.component.http4.HttpComponent		0.015384615
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/CamelComponentVerifierTest_testConnectivityWithWrongAuthenticationData_2g
+org.apache.camel.component.http4.BasicAuthenticationHttpClientConfigurer		0.8666667
+org.apache.camel.component.http4.HttpComponentVerifier		0.47619048
+org.apache.camel.component.http4.CompositeHttpConfigurer		0.35
+org.apache.camel.component.http4.HttpComponent		0.015384615
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/CamelComponentVerifierTest_testConnectivityWithWrongUri_f
+org.apache.camel.component.http4.HttpComponentVerifier		0.4
+org.apache.camel.component.http4.CompositeHttpConfigurer		0.1
+org.apache.camel.component.http4.HttpComponent		0.015384615
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/CamelComponentVerifierTest_testConnectivity_3y
+org.apache.camel.component.http4.HttpComponentVerifier		0.42857143
+org.apache.camel.component.http4.CompositeHttpConfigurer		0.1
+org.apache.camel.component.http4.HttpComponent		0.015384615
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/CamelComponentVerifierTest_testMissingMandatoryParameters_t
+org.apache.camel.component.http4.HttpComponentVerifier		0.104761906
+org.apache.camel.component.http4.HttpComponent		0.015384615
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/CamelComponentVerifierTest_testParameters_4e
+org.apache.camel.component.http4.HttpComponentVerifier		0.104761906
+org.apache.camel.component.http4.HttpComponent		0.015384615
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpAuthenticationTest
+HttpAuthenticationTest		0.9767442
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpAuthenticationTest_basicAuthenticationPreemptiveShouldSuccess_34
+org.apache.camel.component.http4.BasicAuthenticationHttpClientConfigurer		0.8666667
+org.apache.camel.component.http4.CompositeHttpConfigurer		0.75
+org.apache.camel.component.http4.PreemptiveAuthInterceptor		0.75
+org.apache.camel.component.http4.HttpMethods		0.72727275
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.59615386
+org.apache.camel.component.http4.HttpProducer		0.43121693
+org.apache.camel.component.http4.HttpEndpoint		0.42335767
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpAuthenticationTest_basicAuthenticationShouldFailWithWrongCreds_28
+org.apache.camel.component.http4.BasicAuthenticationHttpClientConfigurer		0.8666667
+org.apache.camel.component.http4.CompositeHttpConfigurer		0.75
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.59615386
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.4047619
+org.apache.camel.component.http4.HttpEndpoint		0.40145984
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpAuthenticationTest_basicAuthenticationShouldFailWithoutCreds_12
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.4047619
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpAuthenticationTest_basicAuthenticationShouldSuccess_m
+org.apache.camel.component.http4.BasicAuthenticationHttpClientConfigurer		0.8666667
+org.apache.camel.component.http4.CompositeHttpConfigurer		0.75
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.59615386
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.42592594
+org.apache.camel.component.http4.HttpEndpoint		0.40145984
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpBodyTest
+HttpBodyTest		0.975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpBodyTest_httpPostWithByteArrayBody_3w
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.44444445
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+org.apache.camel.component.http4.HttpEntityConverter		0.3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpBodyTest_httpPostWithImage_2i
+org.apache.camel.component.http4.HttpMethods		0.72727275
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpProducer		0.50793654
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpBodyTest_httpPostWithInputStreamBody_3a
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.44444445
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+org.apache.camel.component.http4.HttpEntityConverter		0.3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpBodyTest_httpPostWithStringBody_3i
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpProducer		0.5026455
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+org.apache.camel.component.http4.HttpEntityConverter		0.06666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpBodyWithOtherProtocalNameTest
+HttpBodyWithOtherProtocalNameTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpBodyWithOtherProtocalNameTest_httpPostWithByteArrayBody_2s
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5576923
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.44444445
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+org.apache.camel.component.http4.HttpEntityConverter		0.3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpBodyWithOtherProtocalNameTest_httpPostWithImage_p
+org.apache.camel.component.http4.HttpMethods		0.72727275
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5576923
+org.apache.camel.component.http4.HttpProducer		0.50793654
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpBodyWithOtherProtocalNameTest_httpPostWithInputStreamBody_1u
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5576923
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.44444445
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+org.apache.camel.component.http4.HttpEntityConverter		0.3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpBodyWithOtherProtocalNameTest_httpPostWithStringBody_d
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5576923
+org.apache.camel.component.http4.HttpProducer		0.5026455
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+org.apache.camel.component.http4.HttpEntityConverter		0.06666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpBridgeEndpointTest
+HttpBridgeEndpointTest		0.974359
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpBridgeEndpointTest_bridgeEndpointWithQuery_1j
+org.apache.camel.component.http4.HttpMethods		0.72727275
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6857143
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpProducer		0.43915343
+org.apache.camel.component.http4.HttpEndpoint		0.40145984
+org.apache.camel.component.http4.NoopCookieStore		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpBridgeEndpointTest_bridgeEndpointWithRawQueryAndQuery_1p
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6857143
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.43915343
+org.apache.camel.component.http4.HttpEndpoint		0.40145984
+org.apache.camel.component.http4.NoopCookieStore		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpBridgeEndpointTest_bridgeEndpoint_1n
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6857143
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.43650794
+org.apache.camel.component.http4.HttpEndpoint		0.40145984
+org.apache.camel.component.http4.NoopCookieStore		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpBridgeEndpointTest_notBridgeEndpoint_3n
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6857143
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.43121693
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpBridgeEndpointTest_unsafeCharsInHttpURIHeader_33
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6857143
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.43650794
+org.apache.camel.component.http4.HttpEndpoint		0.40145984
+org.apache.camel.component.http4.NoopCookieStore		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpCamelHeadersNotCopiedTest
+HttpCamelHeadersNotCopiedTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpCamelHeadersNotCopiedTest_httpHeadersShouldPresent_37
+org.apache.camel.component.http4.HttpMethods		0.72727275
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpProducer		0.43386245
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpCamelHeadersTest
+HttpCamelHeadersTest		0.962963
+HttpCamelHeadersTest.MyHeaderValidationHandler		0.7
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpCamelHeadersTest_httpHeadersShouldPresent_2k
+org.apache.camel.component.http4.HttpMethods		0.72727275
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpProducer		0.43650794
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpCharsetTest
+HttpCharsetTest		0.9705882
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpCharsetTest_sendByteArrayCharsetInExchangeProperty_44
+org.apache.camel.component.http4.HttpMethods		0.72727275
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpProducer		0.44444445
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+org.apache.camel.component.http4.HttpEntityConverter		0.3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpCharsetTest_sendCharsetInExchangeProperty_1r
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpProducer		0.5026455
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+org.apache.camel.component.http4.HttpEntityConverter		0.06666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpCharsetTest_sendInputStreamCharsetInExchangeProperty_1f
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.44444445
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+org.apache.camel.component.http4.HttpEntityConverter		0.3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpClientConfigurerTest
+HttpClientConfigurerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpClientConfigurerTest_testHttpClientConfigurer_15
+org.apache.camel.component.http4.HttpEndpoint		0.01459854
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpCompressionTest
+HttpCompressionTest		0.9714286
+HttpCompressionTest.RequestDecompressingInterceptor		0.85714287
+HttpCompressionTest.RequestDecompressingInterceptor.GzipDecompressingEntity		1.0
+HttpCompressionTest.ResponseCompressingInterceptor		1.0
+HttpCompressionTest.ResponseCompressingInterceptor.GzipCompressingEntity		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpCompressionTest_compressedHttpPost_19
+org.apache.camel.component.http4.HttpMethods		0.72727275
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpProducer		0.4100529
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+org.apache.camel.component.http4.HttpEntityConverter		0.35
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpConcurrentTest
+HttpConcurrentTest		0.9722222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpConcurrentTest_testConcurrentProducers_38
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.42592594
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpConcurrentTest_testNoConcurrentProducers_2c
+org.apache.camel.component.http4.HttpMethods		0.72727275
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpProducer		0.42592594
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpCustomComponentNameTest
+HttpCustomComponentNameTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpCustomComponentNameTest_testCustomName_3u
+org.apache.camel.component.http4.HttpComponent		0.60384613
+org.apache.camel.component.http4.HttpEndpoint		0.15328467
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpDefaultPortNumberTest
+HttpDefaultPortNumberTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpDisableStreamCacheTest
+HttpDisableStreamCacheTest		0.9
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpDisableStreamCacheTest_httpDisableStreamCache_45
+org.apache.camel.component.http4.HttpMethods		0.72727275
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpProducer		0.3968254
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpEndpointOptionsNotChangeComponentTest
+HttpEndpointOptionsNotChangeComponentTest		1.0
+HttpEndpointOptionsNotChangeComponentTest.MyBinding		1.0
+HttpEndpointOptionsNotChangeComponentTest.MyOtherBinding		1.0
+HttpEndpointOptionsNotChangeComponentTest.MyHeaderFilterStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpEndpointOptionsNotChangeComponentTest_testDoNotMessWithComponent_1t
+org.apache.camel.component.http4.HttpComponent		0.5653846
+org.apache.camel.component.http4.HttpEndpoint		0.09489051
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpEndpointURLTest
+HttpEndpointURLTest		0.9583333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpEndpointURLTest_testConnectionManagerFromHttpUri_1w
+org.apache.camel.component.http4.HttpComponent		0.58076924
+org.apache.camel.component.http4.HttpEndpoint		0.10948905
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpEndpointURLTest_testHttpEndpointHttpUri_y
+org.apache.camel.component.http4.HttpComponent		0.63461536
+org.apache.camel.component.http4.CompositeHttpConfigurer		0.6
+org.apache.camel.component.http4.ProxyHttpClientConfigurer		0.41666666
+org.apache.camel.component.http4.HttpEndpoint		0.09489051
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpEndpointURLTest_testHttpEndpointURLWithIPv6_49
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpEndpoint		0.09489051
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpEndpointURLTest_testRawWithUnsafeCharacters_39
+org.apache.camel.component.http4.CompositeHttpConfigurer		0.6
+org.apache.camel.component.http4.HttpComponent		0.59615386
+org.apache.camel.component.http4.BasicAuthenticationHttpClientConfigurer		0.33333334
+org.apache.camel.component.http4.HttpEndpoint		0.10948905
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpHeaderFilterStrategyTest
+HttpHeaderFilterStrategyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpHeaderFilterStrategyTest_applyFilterToCamelHeaders_3c
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpHeaderFilterStrategyTest_applyFilterToExternalHeaders_25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpInvalidConfigurationTest
+HttpInvalidConfigurationTest		0.90909094
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpInvalidConfigurationTest_testInvalidHostConfiguration_2m
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpInvalidHttpClientConfigurationTest
+HttpInvalidHttpClientConfigurationTest		0.90909094
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpInvalidHttpClientConfigurationTest_testInvalidHostConfiguration_41
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpMethodsTest
+HttpMethodsTest		0.9886364
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpMethodsTest_httpDeleteWithBody_1z
+org.apache.camel.component.http4.HttpDeleteWithBodyMethod		1.0
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.51428574
+org.apache.camel.component.http4.HttpProducer		0.5026455
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpEndpoint		0.40875912
+org.apache.camel.component.http4.HttpEntityConverter		0.06666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpMethodsTest_httpDelete_3j
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.51428574
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.43121693
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpMethodsTest_httpGetWithUriParam_2
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.43121693
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.42857143
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpMethodsTest_httpGet_1c
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.42592594
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpMethodsTest_httpHead_3e
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.51428574
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+org.apache.camel.component.http4.HttpProducer		0.35185185
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpMethodsTest_httpOptions_3k
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.51428574
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.43121693
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpMethodsTest_httpPatchWithBody_1x
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpProducer		0.4814815
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+org.apache.camel.component.http4.HttpEntityConverter		0.06666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpMethodsTest_httpPatch_q
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.51428574
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.43121693
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpMethodsTest_httpPostWithBody_18
+org.apache.camel.component.http4.HttpMethods		0.72727275
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpProducer		0.5026455
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+org.apache.camel.component.http4.HttpEntityConverter		0.06666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpMethodsTest_httpPost_u
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.51428574
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.43915343
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpMethodsTest_httpPut_n
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.51428574
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.43915343
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpMethodsTest_httpTrace_1g
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.51428574
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.43121693
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpNoCamelHeaderTest
+HttpNoCamelHeaderTest		0.9032258
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpNoCamelHeaderTest_testNoCamelHeader_1i
+org.apache.camel.component.http4.HttpMethods		0.72727275
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpProducer		0.515873
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+org.apache.camel.component.http4.HttpEntityConverter		0.06666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpNoConnectionRedeliveryTest
+HttpNoConnectionRedeliveryTest		0.96153843
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpNoConnectionRedeliveryTest_httpConnectionNotOk_23
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.22222222
+org.apache.camel.component.http4.HttpEndpoint		0.05839416
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpNoConnectionRedeliveryTest_httpConnectionOk_10
+org.apache.camel.component.http4.HttpMethods		0.72727275
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpProducer		0.4100529
+org.apache.camel.component.http4.HttpEndpoint		0.05839416
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpNoConnectionTest
+HttpNoConnectionTest		0.95652175
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpNoConnectionTest_httpConnectionNotOk_0
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+org.apache.camel.component.http4.HttpProducer		0.23280424
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpNoConnectionTest_httpConnectionOk_1o
+org.apache.camel.component.http4.HttpMethods		0.72727275
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpProducer		0.42592594
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpPathTest
+HttpPathTest		0.969697
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpPathTest_httpEscapedCharacters_1y
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.42592594
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpPathTest_httpPathHeaderWithBaseSlashesAndWithStaticQueryParams_2d
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.5714286
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.43121693
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpPathTest_httpPathHeaderWithStaticQueryParams_3l
+org.apache.camel.component.http4.HttpMethods		0.72727275
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.5714286
+org.apache.camel.component.http4.HttpProducer		0.43121693
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpPathTest_httpPathHeader_3h
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.43121693
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpPathTest_httpPath_5
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.42592594
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpPollingConsumerTest
+HttpPollingConsumerTest		0.9047619
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpPollingConsumerTest_testReceiveTimeoutTriggered_3f
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpPollingConsumer		0.39344263
+org.apache.camel.component.http4.HttpEndpoint		0.3649635
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpPollingConsumerTest_testReceiveTimeout_3d
+org.apache.camel.component.http4.HttpPollingConsumer		0.7704918
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpEndpoint		0.3649635
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpPollingConsumerTest_testReceive_27
+org.apache.camel.component.http4.HttpPollingConsumer		0.73770493
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpEndpoint		0.3649635
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpProducerConnectionCloseTest
+HttpProducerConnectionCloseTest		0.96428573
+HttpProducerConnectionCloseTest.ConnectionCloseHeaderFilter		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpProducerConnectionCloseTest_noDataDefaultIsGet_6
+org.apache.camel.component.http4.HttpMethods		0.72727275
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.59615386
+org.apache.camel.component.http4.HttpProducer		0.42592594
+org.apache.camel.component.http4.HttpEndpoint		0.37956205
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpProducerContentTypeTest
+HttpProducerContentTypeTest		0.9677419
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpProducerContentTypeTest_testContentTypeWithBoundaryWithIgnoreResponseBody_2x
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpProducer		0.505291
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+org.apache.camel.component.http4.HttpEntityConverter		0.06666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpProducerContentTypeTest_testContentTypeWithBoundary_1d
+org.apache.camel.component.http4.HttpMethods		0.72727275
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpProducer		0.52645504
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+org.apache.camel.component.http4.HttpEntityConverter		0.06666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpProducerExplicitConnectionCloseTest
+HttpProducerExplicitConnectionCloseTest		0.95454544
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpProducerExplicitConnectionCloseTest_noDataDefaultIsGet_s
+org.apache.camel.component.http4.HttpMethods		0.72727275
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.59615386
+org.apache.camel.component.http4.HttpEndpoint		0.37956205
+org.apache.camel.component.http4.HttpProducer		0.37566137
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpProducerSelectMethodTest
+HttpProducerSelectMethodTest		0.989899
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpProducerSelectMethodTest_dataDefaultIsPost_4b
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.44973546
+org.apache.camel.component.http4.HttpEndpoint		0.37956205
+org.apache.camel.component.http4.HttpEntityConverter		0.06666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpProducerSelectMethodTest_noDataDefaultIsGet_26
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpEndpoint		0.37956205
+org.apache.camel.component.http4.HttpProducer		0.37301588
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpProducerSelectMethodTest_withEndpointQuery_2w
+org.apache.camel.component.http4.HttpMethods		0.72727275
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.5714286
+org.apache.camel.component.http4.HttpProducer		0.44179896
+org.apache.camel.component.http4.HttpEndpoint		0.37956205
+org.apache.camel.component.http4.HttpEntityConverter		0.06666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpProducerSelectMethodTest_withHttpURIInHeader_1m
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.62857145
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpProducer		0.48412699
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpEndpoint		0.37956205
+org.apache.camel.component.http4.HttpEntityConverter		0.06666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpProducerSelectMethodTest_withMethodCommonHttpGetInHeader_4d
+org.apache.camel.component.http4.HttpMethodsConverter		0.8
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.51428574
+org.apache.camel.component.http4.HttpProducer		0.48412699
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpEndpoint		0.37956205
+org.apache.camel.component.http4.HttpEntityConverter		0.06666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpProducerSelectMethodTest_withMethodGetInHeader_2n
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.51428574
+org.apache.camel.component.http4.HttpProducer		0.48412699
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpEndpoint		0.37956205
+org.apache.camel.component.http4.HttpEntityConverter		0.06666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpProducerSelectMethodTest_withMethodPostInHeader_1h
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.51428574
+org.apache.camel.component.http4.HttpProducer		0.4920635
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpEndpoint		0.37956205
+org.apache.camel.component.http4.HttpEntityConverter		0.06666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpProducerSelectMethodTest_withQueryInHeaderOverrideEndpoint_3
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.54285717
+org.apache.camel.component.http4.HttpProducer		0.48412699
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpEndpoint		0.37956205
+org.apache.camel.component.http4.HttpEntityConverter		0.06666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpProducerSelectMethodTest_withQueryInHeader_v
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.54285717
+org.apache.camel.component.http4.HttpProducer		0.48412699
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpEndpoint		0.37956205
+org.apache.camel.component.http4.HttpEntityConverter		0.06666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpProducerSessionTest
+HttpProducerSessionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpProducerSessionTest_testExchangeSession_2p
+org.apache.camel.component.http4.NoopCookieStore		0.8333333
+org.apache.camel.component.http4.HttpMethods		0.72727275
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpProducer		0.5132275
+org.apache.camel.component.http4.HttpEntityConverter		0.35
+org.apache.camel.component.http4.HttpEndpoint		0.05839416
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpProducerSessionTest_testInstanceSession_42
+org.apache.camel.component.http4.NoopCookieStore		0.8333333
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpProducer		0.5132275
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpEntityConverter		0.35
+org.apache.camel.component.http4.HttpEndpoint		0.05839416
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpProducerSessionTest_testNoSession_3r
+org.apache.camel.component.http4.NoopCookieStore		0.8333333
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpProducer		0.48677248
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpEntityConverter		0.35
+org.apache.camel.component.http4.HttpEndpoint		0.05839416
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpProducerTwoHeadersWithSameKeyTest
+HttpProducerTwoHeadersWithSameKeyTest		0.7708333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpProducerTwoHeadersWithSameKeyTest_testTwoHeadersWithSameKeyHeader_2q
+org.apache.camel.component.http4.HttpMethods		0.72727275
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpProducer		0.42857143
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpProducerTwoParametersWithSameKeyTest
+HttpProducerTwoParametersWithSameKeyTest		0.9655172
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpProducerTwoParametersWithSameKeyTest_testTwoParametersWithSameKey_2b
+org.apache.camel.component.http4.HttpMethods		0.72727275
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.5714286
+org.apache.camel.component.http4.HttpProducer		0.42592594
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpProducerWithSystemPropertiesTest
+HttpProducerWithSystemPropertiesTest		0.875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpProducerWithSystemPropertiesTest_httpGetWithProxyFromSystemProperties_r
+org.apache.camel.component.http4.HttpMethods		0.72727275
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpProducer		0.42592594
+org.apache.camel.component.http4.HttpEndpoint		0.40145984
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpProxyServerTest
+HttpProxyServerTest		0.9705882
+HttpProxyServerTest.RequestProxyBasicAuth		0.2857143
+HttpProxyServerTest.ResponseProxyBasicUnauthorized		0.6
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpProxyServerTest_httpGetWithProxyAndWithoutUser_13
+org.apache.camel.component.http4.CompositeHttpConfigurer		0.75
+org.apache.camel.component.http4.HttpMethods		0.72727275
+org.apache.camel.component.http4.HttpComponent		0.61153847
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.ProxyHttpClientConfigurer		0.5833333
+org.apache.camel.component.http4.HttpProducer		0.42592594
+org.apache.camel.component.http4.HttpEndpoint		0.40145984
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpProxyServerTest_testDifferentHttpProxyConfigured_47
+org.apache.camel.component.http4.HttpComponent		0.61153847
+org.apache.camel.component.http4.CompositeHttpConfigurer		0.6
+org.apache.camel.component.http4.ProxyHttpClientConfigurer		0.41666666
+org.apache.camel.component.http4.HttpEndpoint		0.09489051
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpQueryTest
+HttpQueryTest		0.962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpQueryTest_httpQueryHeader_2e
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.54285717
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.43121693
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpQueryTest_httpQueryWithEscapedCharacter_40
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.5714286
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.42592594
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpQueryTest_httpQueryWithUsernamePassword_1
+org.apache.camel.component.http4.HttpMethods		0.72727275
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.5714286
+org.apache.camel.component.http4.HttpProducer		0.42592594
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpQueryTest_httpQuery_3o
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.5714286
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.42592594
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpRedirectTest
+HttpRedirectTest		0.962963
+HttpRedirectTest.RedirectHandler		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpRedirectTest_httpHandleRedirect_3z
+org.apache.camel.component.http4.HttpMethods		0.72727275
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpProducer		0.42592594
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpRedirectTest_httpRedirect_3p
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.41798943
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpReferenceParameterTest
+HttpReferenceParameterTest		1.0
+HttpReferenceParameterTest.TestHttpBinding		1.0
+HttpReferenceParameterTest.TestClientConfigurer		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpReferenceParameterTest_testHttpBinding_2u
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpReferenceParameterTest_testHttpClientConfigurer_2j
+org.apache.camel.component.http4.HttpEndpoint		0.01459854
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpReferenceParameterTest_testHttpContext_3t
+org.apache.camel.component.http4.HttpEndpoint		0.01459854
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpSNIHostNameTest
+HttpSNIHostNameTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpSOTimeoutTest
+HttpSOTimeoutTest		0.94736844
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpSOTimeoutTest_httpGetShouldThrowASocketTimeoutException_7
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+org.apache.camel.component.http4.HttpProducer		0.23280424
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpSOTimeoutTest_httpGet_21
+org.apache.camel.component.http4.HttpMethods		0.72727275
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpProducer		0.42592594
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpServerTestSupport
+HttpServerTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpThrowExceptionOnFailureTest
+HttpThrowExceptionOnFailureTest		0.9767442
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpThrowExceptionOnFailureTest_httpGetWhichReturnsHttp501ShouldThrowAnExceptionWithIgnoreResponseBody_31
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.39417988
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpThrowExceptionOnFailureTest_httpGetWhichReturnsHttp501ShouldThrowAnException_4
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.41798943
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpThrowExceptionOnFailureTest_httpGetWhichReturnsHttp501WithIgnoreResponseBody_3x
+org.apache.camel.component.http4.HttpMethods		0.72727275
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+org.apache.camel.component.http4.HttpProducer		0.38359788
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpThrowExceptionOnFailureTest_httpGetWhichReturnsHttp501_32
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpMethods		0.45454547
+org.apache.camel.component.http4.HttpProducer		0.4047619
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpWithHttpUriHeaderTest
+HttpWithHttpUriHeaderTest		0.93333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpWithHttpUriHeaderTest_notBridgeEndpointWithDefault_3m
+org.apache.camel.component.http4.HttpMethods		0.72727275
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6857143
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpProducer		0.43121693
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpsAuthenticationTest
+HttpsAuthenticationTest		0.96153843
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpsAuthenticationTest_httpsGetWithAuthentication_1q
+org.apache.camel.component.http4.BasicAuthenticationHttpClientConfigurer		0.8666667
+org.apache.camel.component.http4.CompositeHttpConfigurer		0.75
+org.apache.camel.component.http4.HttpMethods		0.72727275
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.59615386
+org.apache.camel.component.http4.HttpProducer		0.42592594
+org.apache.camel.component.http4.HttpEndpoint		0.40145984
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpsGetTest
+HttpsGetTest		0.9444444
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpsGetTest_httpsGet_g
+org.apache.camel.component.http4.HttpMethods		0.72727275
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpProducer		0.42592594
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpsServerTestSupport
+HttpsServerTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpsSslContextParametersGetTest
+HttpsSslContextParametersGetTest		0.9444444
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpsSslContextParametersGetTest_httpsGet_2o
+org.apache.camel.component.http4.HttpMethods		0.72727275
+org.apache.camel.component.http4.helper.HttpMethodHelper		0.6
+org.apache.camel.component.http4.HttpComponent		0.58076924
+org.apache.camel.component.http4.HttpProducer		0.42592594
+org.apache.camel.component.http4.HttpEndpoint		0.3941606
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpsTwoComponentsSslContextParametersGetTest
+HttpsTwoComponentsSslContextParametersGetTest		0.9655172
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpsTwoComponentsSslContextParametersGetTest_httpsTwoDifferentSSLContextNotSupported_1s
+org.apache.camel.component.http4.HttpComponent		0.5884615
+org.apache.camel.component.http4.HttpEndpoint		0.4160584
+org.apache.camel.component.http4.HttpProducer		0.015873017
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/HttpsTwoDifferentSslContextParametersGetTest
+HttpsTwoDifferentSslContextParametersGetTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/UrlRewriteTest
+UrlRewriteTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/helper/HttpHelperTest
+HttpHelperTest		0.9893617
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/helper/HttpHelperTest_createMethodAlwaysUseUserChoosenMethod_16
+createMethodAlwaysUseUserChoosenMethod
+org.apache.camel.component.http4.HttpEndpoint		0.00729927
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/helper/HttpHelperTest_createMethodUseGETIfNoneQueryOrPayloadIsProvided_1k
+createMethodUseGETIfNoneQueryOrPayloadIsProvided
+org.apache.camel.component.http4.HttpEndpoint		0.00729927
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/helper/HttpHelperTest_createMethodUseGETIfQueryIsProvidedInEndpointURI_22
+createMethodUseGETIfQueryIsProvidedInEndpointURI
+org.apache.camel.component.http4.HttpEndpoint		0.00729927
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/helper/HttpHelperTest_createMethodUseGETIfQueryIsProvidedInHeader_2t
+createMethodUseGETIfQueryIsProvidedInHeader
+org.apache.camel.component.http4.HttpEndpoint		0.00729927
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/helper/HttpHelperTest_createMethodUsePOSTIfNoneQueryButPayloadIsProvided_2f
+createMethodUsePOSTIfNoneQueryButPayloadIsProvided
+org.apache.camel.component.http4.HttpEndpoint		0.00729927
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/helper/HttpHelperTest_createURLShouldAddPathAndQueryParamsAndRemoveDuplicateSlash_2a
+createURLShouldAddPathAndQueryParamsAndRemoveDuplicateSlash
+org.apache.camel.component.http4.HttpEndpoint		0.00729927
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/helper/HttpHelperTest_createURLShouldAddPathAndQueryParamsAndSlash_1b
+createURLShouldAddPathAndQueryParamsAndSlash
+org.apache.camel.component.http4.HttpEndpoint		0.00729927
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/helper/HttpHelperTest_createURLShouldNotRemoveTrailingSlash_w
+createURLShouldNotRemoveTrailingSlash
+org.apache.camel.component.http4.HttpEndpoint		0.00729927
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/helper/HttpHelperTest_createURLShouldReturnTheEndpointURIIfBridgeEndpoint_3g
+createURLShouldReturnTheEndpointURIIfBridgeEndpoint
+org.apache.camel.component.http4.HttpEndpoint		0.00729927
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/helper/HttpHelperTest_createURLShouldReturnTheEndpointURIIfNotBridgeEndpoint_2y
+createURLShouldReturnTheEndpointURIIfNotBridgeEndpoint
+org.apache.camel.component.http4.HttpEndpoint		0.00729927
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/helper/HttpHelperTest_createURLShouldReturnTheEndpointURIWithHeaderHttpPathAndAddOneSlash_h
+createURLShouldReturnTheEndpointURIWithHeaderHttpPathAndAddOneSlash
+org.apache.camel.component.http4.HttpEndpoint		0.00729927
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/helper/HttpHelperTest_createURLShouldReturnTheEndpointURIWithHeaderHttpPathAndRemoveOneSlash_3s
+createURLShouldReturnTheEndpointURIWithHeaderHttpPathAndRemoveOneSlash
+org.apache.camel.component.http4.HttpEndpoint		0.00729927
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/helper/HttpHelperTest_createURLShouldReturnTheHeaderURIIfNotBridgeEndpoint_o
+createURLShouldReturnTheHeaderURIIfNotBridgeEndpoint
+org.apache.camel.component.http4.HttpEndpoint		0.00729927
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/helper/HttpHelperTest_testAppendHeaderMultipleValues_k
+testAppendHeaderMultipleValues
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/helper/HttpHelperTest_testAppendHeader_20
+testAppendHeader
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/helper/test-HttpHelperTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/rest/RestCamelComponentVerifierTest
+RestCamelComponentVerifierTest		0.89855075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/rest/RestCamelComponentVerifierTest_testConnectivity_e
+testConnectivity
+org.apache.camel.component.http4.HttpComponentVerifier		0.51428574
+org.apache.camel.component.http4.CompositeHttpConfigurer		0.1
+org.apache.camel.component.http4.HttpComponent		0.015384615
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/rest/RestCamelComponentVerifierTest_testMissingRestParameters_17
+testMissingRestParameters
+org.apache.camel.component.http4.HttpComponentVerifier		0.1904762
+org.apache.camel.component.http4.HttpComponent		0.015384615
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/rest/RestCamelComponentVerifierTest_testParameters_8
+testParameters
+org.apache.camel.component.http4.HttpComponentVerifier		0.1904762
+org.apache.camel.component.http4.HttpComponent		0.015384615
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/rest/RestCamelComponentVerifierTest_testWrongComponentParameters_b
+testWrongComponentParameters
+org.apache.camel.component.http4.HttpComponentVerifier		0.1904762
+org.apache.camel.component.http4.HttpComponent		0.015384615
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/rest/test-RestCamelComponentVerifierTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-AdviceAndInterceptHttp4IssueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-BaseHttpTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-BaseHttpsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-CamelComponentVerifierTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpAuthenticationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpBodyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpBodyWithOtherProtocalNameTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpBridgeEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpCamelHeadersNotCopiedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpCamelHeadersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpCamelHeadersTest_MyHeaderValidationHandler
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpCharsetTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpClientConfigurerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpCompressionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpCompressionTest_RequestDecompressingInterceptor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpCompressionTest_RequestDecompressingInterceptor_GzipDecompressingEntity
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpCompressionTest_ResponseCompressingInterceptor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpCompressionTest_ResponseCompressingInterceptor_GzipCompressingEntity
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpConcurrentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpCustomComponentNameTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpDefaultPortNumberTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpDisableStreamCacheTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpEndpointOptionsNotChangeComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpEndpointOptionsNotChangeComponentTest_MyBinding
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpEndpointOptionsNotChangeComponentTest_MyHeaderFilterStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpEndpointOptionsNotChangeComponentTest_MyOtherBinding
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpEndpointURLTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpHeaderFilterStrategyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpInvalidConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpInvalidHttpClientConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpMethodsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpNoCamelHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpNoConnectionRedeliveryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpNoConnectionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpPathTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpPollingConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpProducerConnectionCloseTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpProducerConnectionCloseTest_ConnectionCloseHeaderFilter
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpProducerContentTypeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpProducerExplicitConnectionCloseTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpProducerSelectMethodTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpProducerSessionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpProducerTwoHeadersWithSameKeyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpProducerTwoParametersWithSameKeyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpProducerWithSystemPropertiesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpProxyServerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpProxyServerTest_RequestProxyBasicAuth
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpProxyServerTest_ResponseProxyBasicUnauthorized
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpQueryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpRedirectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpRedirectTest_RedirectHandler
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpReferenceParameterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpReferenceParameterTest_TestClientConfigurer
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpReferenceParameterTest_TestHttpBinding
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpSNIHostNameTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpSOTimeoutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpServerTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpThrowExceptionOnFailureTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpWithHttpUriHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpsAuthenticationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpsGetTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpsServerTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpsSslContextParametersGetTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpsTwoComponentsSslContextParametersGetTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-HttpsTwoDifferentSslContextParametersGetTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http4/target/site/clover/org/apache/camel/component/http4/test-UrlRewriteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

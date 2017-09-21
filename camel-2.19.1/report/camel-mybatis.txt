@@ -1,0 +1,311 @@
+./components/camel-mybatis/target/site/clover/org/apache/camel
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisBatchConsumerTest
+MyBatisBatchConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisBatchConsumerTest_testBatchConsumer_8
+org.apache.camel.component.mybatis.MyBatisConsumer.DataHolder		1.0
+org.apache.camel.component.mybatis.MyBatisConsumer		0.5730337
+org.apache.camel.component.mybatis.DefaultMyBatisProcessingStrategy		0.36842105
+org.apache.camel.component.mybatis.MyBatisEndpoint		0.17391305
+org.apache.camel.component.mybatis.MyBatisComponent		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisConsumerIdleMessageTest
+MyBatisConsumerIdleMessageTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisConsumerIdleMessageTest_testConsumeIdleMessages_u
+org.apache.camel.component.mybatis.DefaultMyBatisProcessingStrategy		0.36842105
+org.apache.camel.component.mybatis.MyBatisConsumer		0.23595506
+org.apache.camel.component.mybatis.MyBatisEndpoint		0.11594203
+org.apache.camel.component.mybatis.MyBatisComponent		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisConsumerIsolatedTest
+MyBatisConsumerIsolatedTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisConsumerIsolatedTest_shouldRespectBatchSize_g
+org.apache.camel.component.mybatis.MyBatisConsumer.DataHolder		1.0
+org.apache.camel.component.mybatis.MyBatisConsumer		0.15730338
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisDeleteListTest
+MyBatisDeleteListTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisDeleteListTest_testDeleteNotFound_o
+org.apache.camel.component.mybatis.MyBatisEndpoint		0.36231884
+org.apache.camel.component.mybatis.MyBatisProducer		0.32850242
+org.apache.camel.component.mybatis.MyBatisComponent		0.21428572
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisDeleteListTest_testDelete_n
+org.apache.camel.component.mybatis.MyBatisEndpoint		0.36231884
+org.apache.camel.component.mybatis.MyBatisProducer		0.32850242
+org.apache.camel.component.mybatis.MyBatisComponent		0.21428572
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisDeleteTest
+MyBatisDeleteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisDeleteTest_testDeleteNotFound_c
+org.apache.camel.component.mybatis.MyBatisEndpoint		0.36231884
+org.apache.camel.component.mybatis.MyBatisProducer		0.352657
+org.apache.camel.component.mybatis.MyBatisComponent		0.21428572
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisDeleteTest_testDelete_l
+org.apache.camel.component.mybatis.MyBatisEndpoint		0.36231884
+org.apache.camel.component.mybatis.MyBatisProducer		0.352657
+org.apache.camel.component.mybatis.MyBatisComponent		0.21428572
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisExecutorTypeTest
+MyBatisExecutorTypeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisExecutorTypeTest_testUpdateBatch_m
+org.apache.camel.component.mybatis.MyBatisProducer		0.3768116
+org.apache.camel.component.mybatis.MyBatisEndpoint		0.36231884
+org.apache.camel.component.mybatis.MyBatisComponent		0.21428572
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisInsertListTest
+MyBatisInsertListTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisInsertListTest_testInsertList_s
+org.apache.camel.component.mybatis.MyBatisEndpoint		0.36231884
+org.apache.camel.component.mybatis.MyBatisProducer		0.32850242
+org.apache.camel.component.mybatis.MyBatisComponent		0.21428572
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisInsertTest
+MyBatisInsertTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisInsertTest_testInsert_v
+org.apache.camel.component.mybatis.MyBatisEndpoint		0.36231884
+org.apache.camel.component.mybatis.MyBatisProducer		0.352657
+org.apache.camel.component.mybatis.MyBatisComponent		0.21428572
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisInsertWithInputAndOutputHeaderTest
+MyBatisInsertWithInputAndOutputHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisInsertWithInputAndOutputHeaderTest_testInsert_3
+org.apache.camel.component.mybatis.MyBatisEndpoint		0.36231884
+org.apache.camel.component.mybatis.MyBatisProducer		0.36231884
+org.apache.camel.component.mybatis.MyBatisComponent		0.21428572
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisInsertWithInputHeaderTest
+MyBatisInsertWithInputHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisInsertWithInputHeaderTest_testInsert_j
+org.apache.camel.component.mybatis.MyBatisEndpoint		0.36231884
+org.apache.camel.component.mybatis.MyBatisProducer		0.36231884
+org.apache.camel.component.mybatis.MyBatisComponent		0.21428572
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisInsertWithOutputHeaderTest
+MyBatisInsertWithOutputHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisInsertWithOutputHeaderTest_testInsert_d
+org.apache.camel.component.mybatis.MyBatisEndpoint		0.36231884
+org.apache.camel.component.mybatis.MyBatisProducer		0.352657
+org.apache.camel.component.mybatis.MyBatisComponent		0.21428572
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisInsertWithRollbackTest
+MyBatisInsertWithRollbackTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisInsertWithRollbackTest_testInsert_f
+org.apache.camel.component.mybatis.MyBatisEndpoint		0.36231884
+org.apache.camel.component.mybatis.MyBatisProducer		0.3043478
+org.apache.camel.component.mybatis.MyBatisComponent		0.21428572
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisPollingDelayRouteTest
+MyBatisPollingDelayRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisPollingDelayRouteTest_testSendAccountBean_1
+org.apache.camel.component.mybatis.MyBatisProducer		0.21256039
+org.apache.camel.component.mybatis.MyBatisEndpoint		0.17391305
+org.apache.camel.component.mybatis.MyBatisComponent		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisQueueTest
+MyBatisQueueTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisQueueTest_testConsume_h
+org.apache.camel.component.mybatis.MyBatisConsumer.DataHolder		1.0
+org.apache.camel.component.mybatis.DefaultMyBatisProcessingStrategy		0.7894737
+org.apache.camel.component.mybatis.MyBatisConsumer		0.58426964
+org.apache.camel.component.mybatis.MyBatisEndpoint		0.42028984
+org.apache.camel.component.mybatis.MyBatisProducer		0.352657
+org.apache.camel.component.mybatis.MyBatisComponent		0.21428572
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisRouteEmptyResultSetTest
+MyBatisRouteEmptyResultSetTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisRouteEmptyResultSetTest_testRouteEmptyResultSet_4
+org.apache.camel.component.mybatis.MyBatisConsumer.DataHolder		1.0
+org.apache.camel.component.mybatis.MyBatisConsumer		0.505618
+org.apache.camel.component.mybatis.DefaultMyBatisProcessingStrategy		0.36842105
+org.apache.camel.component.mybatis.MyBatisEndpoint		0.14492753
+org.apache.camel.component.mybatis.MyBatisComponent		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisSelectListTest
+MyBatisSelectListTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisSelectListTest_testSelectList_e
+org.apache.camel.component.mybatis.MyBatisProducer		0.21256039
+org.apache.camel.component.mybatis.MyBatisEndpoint		0.17391305
+org.apache.camel.component.mybatis.MyBatisComponent		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisSelectListWithSplitTest
+MyBatisSelectListWithSplitTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisSelectListWithSplitTest_testSelectList_r
+org.apache.camel.component.mybatis.MyBatisProducer		0.21256039
+org.apache.camel.component.mybatis.MyBatisEndpoint		0.17391305
+org.apache.camel.component.mybatis.MyBatisComponent		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisSelectOneExchangeInOutWithOutputHeaderTest
+MyBatisSelectOneExchangeInOutWithOutputHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisSelectOneExchangeInOutWithOutputHeaderTest_testSelectOneWithOutputHeader_q
+org.apache.camel.component.mybatis.MyBatisProducer		0.23188406
+org.apache.camel.component.mybatis.MyBatisEndpoint		0.17391305
+org.apache.camel.component.mybatis.MyBatisComponent		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisSelectOneTest
+MyBatisSelectOneTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisSelectOneTest_tesSelectOneNotFound_t
+org.apache.camel.component.mybatis.MyBatisProducer		0.21256039
+org.apache.camel.component.mybatis.MyBatisEndpoint		0.17391305
+org.apache.camel.component.mybatis.MyBatisComponent		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisSelectOneTest_testSelectOne_0
+org.apache.camel.component.mybatis.MyBatisProducer		0.21256039
+org.apache.camel.component.mybatis.MyBatisEndpoint		0.17391305
+org.apache.camel.component.mybatis.MyBatisComponent		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisSelectOneWithInputAndOutputHeaderTest
+MyBatisSelectOneWithInputAndOutputHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisSelectOneWithInputAndOutputHeaderTest_tesSelectOneNotFound_7
+org.apache.camel.component.mybatis.MyBatisProducer		0.20772947
+org.apache.camel.component.mybatis.MyBatisEndpoint		0.17391305
+org.apache.camel.component.mybatis.MyBatisComponent		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisSelectOneWithInputAndOutputHeaderTest_testSelectOne_6
+org.apache.camel.component.mybatis.MyBatisProducer		0.20772947
+org.apache.camel.component.mybatis.MyBatisEndpoint		0.17391305
+org.apache.camel.component.mybatis.MyBatisComponent		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisSelectOneWithInputHeaderTest
+MyBatisSelectOneWithInputHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisSelectOneWithInputHeaderTest_tesSelectOneNotFound_p
+org.apache.camel.component.mybatis.MyBatisProducer		0.21256039
+org.apache.camel.component.mybatis.MyBatisEndpoint		0.17391305
+org.apache.camel.component.mybatis.MyBatisComponent		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisSelectOneWithInputHeaderTest_testSelectOne_2
+org.apache.camel.component.mybatis.MyBatisProducer		0.21256039
+org.apache.camel.component.mybatis.MyBatisEndpoint		0.17391305
+org.apache.camel.component.mybatis.MyBatisComponent		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisSelectOneWithOutputHeaderTest
+MyBatisSelectOneWithOutputHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisSelectOneWithOutputHeaderTest_testSelectOneWithOutputHeader_k
+org.apache.camel.component.mybatis.MyBatisProducer		0.20772947
+org.apache.camel.component.mybatis.MyBatisEndpoint		0.17391305
+org.apache.camel.component.mybatis.MyBatisComponent		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisShutdownAllTasksTest
+MyBatisShutdownAllTasksTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisShutdownAllTasksTest_testShutdownAllTasks_a
+org.apache.camel.component.mybatis.MyBatisConsumer.DataHolder		1.0
+org.apache.camel.component.mybatis.MyBatisConsumer		0.64044946
+org.apache.camel.component.mybatis.DefaultMyBatisProcessingStrategy		0.36842105
+org.apache.camel.component.mybatis.MyBatisEndpoint		0.17391305
+org.apache.camel.component.mybatis.MyBatisComponent		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisShutdownCurrentTaskOnlyTest
+MyBatisShutdownCurrentTaskOnlyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisShutdownCurrentTaskOnlyTest_testShutdownCompleteCurrentTaskOnly_b
+org.apache.camel.component.mybatis.MyBatisConsumer.DataHolder		1.0
+org.apache.camel.component.mybatis.MyBatisConsumer		0.5730337
+org.apache.camel.component.mybatis.DefaultMyBatisProcessingStrategy		0.36842105
+org.apache.camel.component.mybatis.MyBatisEndpoint		0.17391305
+org.apache.camel.component.mybatis.MyBatisComponent		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisTestSupport
+MyBatisTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisUnknownStatementTypeTest
+MyBatisUnknownStatementTypeTest		0.90909094
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisUnknownStatementTypeTest_testStatementTypeNotSet_i
+org.apache.camel.component.mybatis.MyBatisComponent		0.8214286
+org.apache.camel.component.mybatis.MyBatisEndpoint		0.10144927
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisUpdateListTest
+MyBatisUpdateListTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisUpdateListTest_testUpdateList_9
+org.apache.camel.component.mybatis.MyBatisEndpoint		0.36231884
+org.apache.camel.component.mybatis.MyBatisProducer		0.34299517
+org.apache.camel.component.mybatis.MyBatisComponent		0.21428572
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisUpdateTest
+MyBatisUpdateTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/MyBatisUpdateTest_testUpdate_5
+org.apache.camel.component.mybatis.MyBatisProducer		0.36714977
+org.apache.camel.component.mybatis.MyBatisEndpoint		0.36231884
+org.apache.camel.component.mybatis.MyBatisComponent		0.21428572
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/test-MyBatisBatchConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/test-MyBatisConsumerIdleMessageTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/test-MyBatisConsumerIsolatedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/test-MyBatisDeleteListTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/test-MyBatisDeleteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/test-MyBatisExecutorTypeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/test-MyBatisInsertListTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/test-MyBatisInsertTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/test-MyBatisInsertWithInputAndOutputHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/test-MyBatisInsertWithInputHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/test-MyBatisInsertWithOutputHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/test-MyBatisInsertWithRollbackTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/test-MyBatisPollingDelayRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/test-MyBatisQueueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/test-MyBatisRouteEmptyResultSetTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/test-MyBatisSelectListTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/test-MyBatisSelectListWithSplitTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/test-MyBatisSelectOneExchangeInOutWithOutputHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/test-MyBatisSelectOneTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/test-MyBatisSelectOneWithInputAndOutputHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/test-MyBatisSelectOneWithInputHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/test-MyBatisSelectOneWithOutputHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/test-MyBatisShutdownAllTasksTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/test-MyBatisShutdownCurrentTaskOnlyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/test-MyBatisTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/test-MyBatisUnknownStatementTypeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/test-MyBatisUpdateListTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mybatis/target/site/clover/org/apache/camel/component/mybatis/test-MyBatisUpdateTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

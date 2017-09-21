@@ -1,0 +1,538 @@
+./components/camel-avro/target/site/clover/org/apache/camel
+./components/camel-avro/target/site/clover/org/apache/camel/avro/test/TestPojo
+TestPojo		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/avro/test/TestReflection
+TestReflection		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/avro/test/TestReflectionImpl
+TestReflectionImpl		0.8666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/avro/test/test-TestPojo
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/avro/test/test-TestReflection
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/avro/test/test-TestReflectionImpl
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroConsumerTestSupport
+AvroConsumerTestSupport		0.95604396
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroHttpConsumerTest
+AvroHttpConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroHttpConsumerTest_testInOnlyMessageInRoute_n
+org.apache.camel.component.avro.AvroEndpoint		0.5263158
+org.apache.camel.component.avro.AvroSpecificResponder		0.4
+org.apache.camel.component.avro.AvroListener		0.30927834
+org.apache.camel.component.avro.AvroConsumer		0.2
+org.apache.camel.component.avro.AvroConfiguration		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroHttpConsumerTest_testInOnlyReflectRequestor_j
+org.apache.camel.component.avro.AvroEndpoint		0.5263158
+org.apache.camel.component.avro.AvroReflectResponder		0.4
+org.apache.camel.component.avro.AvroListener		0.26804122
+org.apache.camel.component.avro.AvroConsumer		0.2
+org.apache.camel.component.avro.AvroConfiguration		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroHttpConsumerTest_testInOnlyReflectSingleParameterNotSet_1p
+org.apache.camel.component.avro.AvroEndpoint		0.5263158
+org.apache.camel.component.avro.AvroReflectResponder		0.4
+org.apache.camel.component.avro.AvroListener		0.30927834
+org.apache.camel.component.avro.AvroConsumer		0.2
+org.apache.camel.component.avro.AvroConfiguration		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroHttpConsumerTest_testInOnlyReflectionPojoTest_t
+org.apache.camel.component.avro.AvroEndpoint		0.5263158
+org.apache.camel.component.avro.AvroReflectResponder		0.4
+org.apache.camel.component.avro.AvroListener		0.26804122
+org.apache.camel.component.avro.AvroConsumer		0.2
+org.apache.camel.component.avro.AvroConfiguration		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroHttpConsumerTest_testInOnlyToNotExistingRoute_19
+org.apache.camel.component.avro.AvroSpecificResponder		0.4
+org.apache.camel.component.avro.AvroComponentException		0.2857143
+org.apache.camel.component.avro.AvroListener		0.072164945
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroHttpConsumerTest_testInOnlyWrongMessageName_c
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroHttpConsumerTest_testInOnly_0
+org.apache.camel.component.avro.AvroEndpoint		0.5263158
+org.apache.camel.component.avro.AvroSpecificResponder		0.4
+org.apache.camel.component.avro.AvroListener		0.29896906
+org.apache.camel.component.avro.AvroConsumer		0.2
+org.apache.camel.component.avro.AvroConfiguration		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroHttpConsumerTest_testInOutMessageInRoute_1e
+org.apache.camel.component.avro.AvroEndpoint		0.5263158
+org.apache.camel.component.avro.AvroSpecificResponder		0.4
+org.apache.camel.component.avro.AvroListener		0.30927834
+org.apache.camel.component.avro.AvroConsumer		0.2
+org.apache.camel.component.avro.AvroConfiguration		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroHttpConsumerTest_testInOutReflectRequestor_1z
+org.apache.camel.component.avro.AvroEndpoint		0.5263158
+org.apache.camel.component.avro.AvroReflectResponder		0.4
+org.apache.camel.component.avro.AvroListener		0.26804122
+org.apache.camel.component.avro.AvroConsumer		0.2
+org.apache.camel.component.avro.AvroConfiguration		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroHttpConsumerTest_testInOutReflectionPojoTest_a
+org.apache.camel.component.avro.AvroEndpoint		0.5263158
+org.apache.camel.component.avro.AvroReflectResponder		0.4
+org.apache.camel.component.avro.AvroListener		0.31958762
+org.apache.camel.component.avro.AvroConsumer		0.2
+org.apache.camel.component.avro.AvroConfiguration		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroHttpConsumerTest_testInOut_1t
+org.apache.camel.component.avro.AvroEndpoint		0.5263158
+org.apache.camel.component.avro.AvroSpecificResponder		0.4
+org.apache.camel.component.avro.AvroListener		0.29896906
+org.apache.camel.component.avro.AvroConsumer		0.2
+org.apache.camel.component.avro.AvroConfiguration		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroHttpProducerTest
+AvroHttpProducerTest		0.9
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroHttpProducerTest_testInOnlyReflection_u
+org.apache.camel.component.avro.AvroHttpProducer		0.5
+org.apache.camel.component.avro.AvroReflectRequestor		0.5
+org.apache.camel.component.avro.AvroProducer		0.47457626
+org.apache.camel.component.avro.AvroEndpoint		0.10526316
+org.apache.camel.component.avro.AvroConfiguration		0.09836066
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroHttpProducerTest_testInOnlyWithMessageNameInRoute_h
+org.apache.camel.component.avro.AvroSpecificRequestor		1.0
+org.apache.camel.component.avro.AvroHttpProducer		0.5
+org.apache.camel.component.avro.AvroProducer		0.47457626
+org.apache.camel.component.avro.AvroEndpoint		0.10526316
+org.apache.camel.component.avro.AvroConfiguration		0.09836066
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroHttpProducerTest_testInOnlyWithWrongMessageNameInMessage_x
+org.apache.camel.component.avro.AvroSpecificRequestor		1.0
+org.apache.camel.component.avro.AvroHttpProducer		0.5
+org.apache.camel.component.avro.AvroProducer		0.42372882
+org.apache.camel.component.avro.AvroEndpoint		0.10526316
+org.apache.camel.component.avro.AvroConfiguration		0.06557377
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroHttpProducerTest_testInOnly_1d
+org.apache.camel.component.avro.AvroSpecificRequestor		1.0
+org.apache.camel.component.avro.AvroHttpProducer		0.5
+org.apache.camel.component.avro.AvroProducer		0.47457626
+org.apache.camel.component.avro.AvroEndpoint		0.10526316
+org.apache.camel.component.avro.AvroConfiguration		0.06557377
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroHttpProducerTest_testInOutMessageNameInRoute_13
+org.apache.camel.component.avro.AvroSpecificRequestor		1.0
+org.apache.camel.component.avro.AvroProducer		0.5084746
+org.apache.camel.component.avro.AvroHttpProducer		0.5
+org.apache.camel.component.avro.AvroEndpoint		0.10526316
+org.apache.camel.component.avro.AvroConfiguration		0.09836066
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroHttpProducerTest_testInOutReflection_3
+org.apache.camel.component.avro.AvroHttpProducer		0.5
+org.apache.camel.component.avro.AvroReflectRequestor		0.5
+org.apache.camel.component.avro.AvroProducer		0.47457626
+org.apache.camel.component.avro.AvroEndpoint		0.10526316
+org.apache.camel.component.avro.AvroConfiguration		0.09836066
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroHttpProducerTest_testInOut_k
+org.apache.camel.component.avro.AvroSpecificRequestor		1.0
+org.apache.camel.component.avro.AvroProducer		0.5084746
+org.apache.camel.component.avro.AvroHttpProducer		0.5
+org.apache.camel.component.avro.AvroEndpoint		0.10526316
+org.apache.camel.component.avro.AvroConfiguration		0.06557377
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroHttpSpringProducerTest
+AvroHttpSpringProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroHttpSpringProducerTest_testInOnlyReflection_15
+org.apache.camel.component.avro.AvroHttpProducer		0.5
+org.apache.camel.component.avro.AvroReflectRequestor		0.5
+org.apache.camel.component.avro.AvroProducer		0.47457626
+org.apache.camel.component.avro.AvroEndpoint		0.10526316
+org.apache.camel.component.avro.AvroConfiguration		0.09836066
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroHttpSpringProducerTest_testInOnlyWithMessageNameInRoute_1g
+org.apache.camel.component.avro.AvroSpecificRequestor		1.0
+org.apache.camel.component.avro.AvroHttpProducer		0.5
+org.apache.camel.component.avro.AvroProducer		0.47457626
+org.apache.camel.component.avro.AvroEndpoint		0.10526316
+org.apache.camel.component.avro.AvroConfiguration		0.09836066
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroHttpSpringProducerTest_testInOnlyWithWrongMessageNameInMessage_1a
+org.apache.camel.component.avro.AvroSpecificRequestor		1.0
+org.apache.camel.component.avro.AvroHttpProducer		0.5
+org.apache.camel.component.avro.AvroProducer		0.42372882
+org.apache.camel.component.avro.AvroEndpoint		0.10526316
+org.apache.camel.component.avro.AvroConfiguration		0.06557377
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroHttpSpringProducerTest_testInOnly_b
+org.apache.camel.component.avro.AvroSpecificRequestor		1.0
+org.apache.camel.component.avro.AvroHttpProducer		0.5
+org.apache.camel.component.avro.AvroProducer		0.47457626
+org.apache.camel.component.avro.AvroEndpoint		0.10526316
+org.apache.camel.component.avro.AvroConfiguration		0.06557377
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroHttpSpringProducerTest_testInOutMessageNameInRoute_1o
+org.apache.camel.component.avro.AvroSpecificRequestor		1.0
+org.apache.camel.component.avro.AvroProducer		0.5084746
+org.apache.camel.component.avro.AvroHttpProducer		0.5
+org.apache.camel.component.avro.AvroEndpoint		0.10526316
+org.apache.camel.component.avro.AvroConfiguration		0.09836066
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroHttpSpringProducerTest_testInOutReflection_1x
+org.apache.camel.component.avro.AvroHttpProducer		0.5
+org.apache.camel.component.avro.AvroReflectRequestor		0.5
+org.apache.camel.component.avro.AvroProducer		0.47457626
+org.apache.camel.component.avro.AvroEndpoint		0.10526316
+org.apache.camel.component.avro.AvroConfiguration		0.09836066
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroHttpSpringProducerTest_testInOut_5
+org.apache.camel.component.avro.AvroSpecificRequestor		1.0
+org.apache.camel.component.avro.AvroProducer		0.5084746
+org.apache.camel.component.avro.AvroHttpProducer		0.5
+org.apache.camel.component.avro.AvroEndpoint		0.10526316
+org.apache.camel.component.avro.AvroConfiguration		0.06557377
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettyConsumerTest
+AvroNettyConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettyConsumerTest_testInOnlyMessageInRoute_o
+org.apache.camel.component.avro.AvroEndpoint		0.5263158
+org.apache.camel.component.avro.AvroSpecificResponder		0.4
+org.apache.camel.component.avro.AvroListener		0.30927834
+org.apache.camel.component.avro.AvroConsumer		0.2
+org.apache.camel.component.avro.AvroConfiguration		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettyConsumerTest_testInOnlyReflectRequestor_1n
+org.apache.camel.component.avro.AvroEndpoint		0.5263158
+org.apache.camel.component.avro.AvroReflectResponder		0.4
+org.apache.camel.component.avro.AvroListener		0.26804122
+org.apache.camel.component.avro.AvroConsumer		0.2
+org.apache.camel.component.avro.AvroConfiguration		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettyConsumerTest_testInOnlyReflectSingleParameterNotSet_1r
+org.apache.camel.component.avro.AvroEndpoint		0.5263158
+org.apache.camel.component.avro.AvroReflectResponder		0.4
+org.apache.camel.component.avro.AvroListener		0.30927834
+org.apache.camel.component.avro.AvroConsumer		0.2
+org.apache.camel.component.avro.AvroConfiguration		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettyConsumerTest_testInOnlyReflectionPojoTest_1j
+org.apache.camel.component.avro.AvroEndpoint		0.5263158
+org.apache.camel.component.avro.AvroReflectResponder		0.4
+org.apache.camel.component.avro.AvroListener		0.26804122
+org.apache.camel.component.avro.AvroConsumer		0.2
+org.apache.camel.component.avro.AvroConfiguration		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettyConsumerTest_testInOnlyToNotExistingRoute_4
+org.apache.camel.component.avro.AvroSpecificResponder		0.4
+org.apache.camel.component.avro.AvroComponentException		0.2857143
+org.apache.camel.component.avro.AvroListener		0.072164945
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettyConsumerTest_testInOnlyWrongMessageName_12
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettyConsumerTest_testInOnly_9
+org.apache.camel.component.avro.AvroEndpoint		0.5263158
+org.apache.camel.component.avro.AvroSpecificResponder		0.4
+org.apache.camel.component.avro.AvroListener		0.29896906
+org.apache.camel.component.avro.AvroConsumer		0.2
+org.apache.camel.component.avro.AvroConfiguration		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettyConsumerTest_testInOutMessageInRoute_v
+org.apache.camel.component.avro.AvroEndpoint		0.5263158
+org.apache.camel.component.avro.AvroSpecificResponder		0.4
+org.apache.camel.component.avro.AvroListener		0.30927834
+org.apache.camel.component.avro.AvroConsumer		0.2
+org.apache.camel.component.avro.AvroConfiguration		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettyConsumerTest_testInOutReflectRequestor_1f
+org.apache.camel.component.avro.AvroEndpoint		0.5263158
+org.apache.camel.component.avro.AvroReflectResponder		0.4
+org.apache.camel.component.avro.AvroListener		0.26804122
+org.apache.camel.component.avro.AvroConsumer		0.2
+org.apache.camel.component.avro.AvroConfiguration		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettyConsumerTest_testInOutReflectionPojoTest_20
+org.apache.camel.component.avro.AvroEndpoint		0.5263158
+org.apache.camel.component.avro.AvroReflectResponder		0.4
+org.apache.camel.component.avro.AvroListener		0.31958762
+org.apache.camel.component.avro.AvroConsumer		0.2
+org.apache.camel.component.avro.AvroConfiguration		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettyConsumerTest_testInOut_l
+org.apache.camel.component.avro.AvroEndpoint		0.5263158
+org.apache.camel.component.avro.AvroSpecificResponder		0.4
+org.apache.camel.component.avro.AvroListener		0.29896906
+org.apache.camel.component.avro.AvroConsumer		0.2
+org.apache.camel.component.avro.AvroConfiguration		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettyProducerTest
+AvroNettyProducerTest		0.9
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettyProducerTest_testInOnlyReflection_1b
+org.apache.camel.component.avro.AvroNettyProducer		0.6
+org.apache.camel.component.avro.AvroReflectRequestor		0.5
+org.apache.camel.component.avro.AvroProducer		0.47457626
+org.apache.camel.component.avro.AvroConfiguration		0.16393442
+org.apache.camel.component.avro.AvroEndpoint		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettyProducerTest_testInOnlyWithMessageNameInRoute_17
+org.apache.camel.component.avro.AvroSpecificRequestor		1.0
+org.apache.camel.component.avro.AvroNettyProducer		0.6
+org.apache.camel.component.avro.AvroProducer		0.47457626
+org.apache.camel.component.avro.AvroConfiguration		0.16393442
+org.apache.camel.component.avro.AvroEndpoint		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettyProducerTest_testInOnlyWithWrongMessageNameInMessage_m
+org.apache.camel.component.avro.AvroSpecificRequestor		1.0
+org.apache.camel.component.avro.AvroNettyProducer		0.6
+org.apache.camel.component.avro.AvroProducer		0.42372882
+org.apache.camel.component.avro.AvroConfiguration		0.13114753
+org.apache.camel.component.avro.AvroEndpoint		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettyProducerTest_testInOnly_p
+org.apache.camel.component.avro.AvroSpecificRequestor		1.0
+org.apache.camel.component.avro.AvroNettyProducer		0.6
+org.apache.camel.component.avro.AvroProducer		0.47457626
+org.apache.camel.component.avro.AvroConfiguration		0.13114753
+org.apache.camel.component.avro.AvroEndpoint		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettyProducerTest_testInOutMessageNameInRoute_r
+org.apache.camel.component.avro.AvroSpecificRequestor		1.0
+org.apache.camel.component.avro.AvroNettyProducer		0.6
+org.apache.camel.component.avro.AvroProducer		0.5084746
+org.apache.camel.component.avro.AvroConfiguration		0.16393442
+org.apache.camel.component.avro.AvroEndpoint		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettyProducerTest_testInOutReflection_8
+org.apache.camel.component.avro.AvroNettyProducer		0.6
+org.apache.camel.component.avro.AvroReflectRequestor		0.5
+org.apache.camel.component.avro.AvroProducer		0.47457626
+org.apache.camel.component.avro.AvroConfiguration		0.16393442
+org.apache.camel.component.avro.AvroEndpoint		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettyProducerTest_testInOut_s
+org.apache.camel.component.avro.AvroSpecificRequestor		1.0
+org.apache.camel.component.avro.AvroNettyProducer		0.6
+org.apache.camel.component.avro.AvroProducer		0.5084746
+org.apache.camel.component.avro.AvroConfiguration		0.13114753
+org.apache.camel.component.avro.AvroEndpoint		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettySpringConsumerTest
+AvroNettySpringConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettySpringConsumerTest_testInOnlyMessageInRoute_1h
+org.apache.camel.component.avro.AvroEndpoint		0.5263158
+org.apache.camel.component.avro.AvroSpecificResponder		0.4
+org.apache.camel.component.avro.AvroListener		0.30927834
+org.apache.camel.component.avro.AvroConsumer		0.2
+org.apache.camel.component.avro.AvroConfiguration		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettySpringConsumerTest_testInOnlyReflectRequestor_1
+org.apache.camel.component.avro.AvroEndpoint		0.5263158
+org.apache.camel.component.avro.AvroReflectResponder		0.4
+org.apache.camel.component.avro.AvroListener		0.26804122
+org.apache.camel.component.avro.AvroConsumer		0.2
+org.apache.camel.component.avro.AvroConfiguration		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettySpringConsumerTest_testInOnlyReflectSingleParameterNotSet_1m
+org.apache.camel.component.avro.AvroEndpoint		0.5263158
+org.apache.camel.component.avro.AvroReflectResponder		0.4
+org.apache.camel.component.avro.AvroListener		0.30927834
+org.apache.camel.component.avro.AvroConsumer		0.2
+org.apache.camel.component.avro.AvroConfiguration		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettySpringConsumerTest_testInOnlyReflectionPojoTest_1q
+org.apache.camel.component.avro.AvroEndpoint		0.5263158
+org.apache.camel.component.avro.AvroReflectResponder		0.4
+org.apache.camel.component.avro.AvroListener		0.26804122
+org.apache.camel.component.avro.AvroConsumer		0.2
+org.apache.camel.component.avro.AvroConfiguration		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettySpringConsumerTest_testInOnlyToNotExistingRoute_w
+org.apache.camel.component.avro.AvroSpecificResponder		0.4
+org.apache.camel.component.avro.AvroComponentException		0.2857143
+org.apache.camel.component.avro.AvroListener		0.072164945
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettySpringConsumerTest_testInOnlyWrongMessageName_1l
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettySpringConsumerTest_testInOnly_7
+org.apache.camel.component.avro.AvroEndpoint		0.5263158
+org.apache.camel.component.avro.AvroSpecificResponder		0.4
+org.apache.camel.component.avro.AvroListener		0.29896906
+org.apache.camel.component.avro.AvroConsumer		0.2
+org.apache.camel.component.avro.AvroConfiguration		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettySpringConsumerTest_testInOutMessageInRoute_e
+org.apache.camel.component.avro.AvroEndpoint		0.5263158
+org.apache.camel.component.avro.AvroSpecificResponder		0.4
+org.apache.camel.component.avro.AvroListener		0.30927834
+org.apache.camel.component.avro.AvroConsumer		0.2
+org.apache.camel.component.avro.AvroConfiguration		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettySpringConsumerTest_testInOutReflectRequestor_10
+org.apache.camel.component.avro.AvroEndpoint		0.5263158
+org.apache.camel.component.avro.AvroReflectResponder		0.4
+org.apache.camel.component.avro.AvroListener		0.26804122
+org.apache.camel.component.avro.AvroConsumer		0.2
+org.apache.camel.component.avro.AvroConfiguration		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettySpringConsumerTest_testInOutReflectionPojoTest_11
+org.apache.camel.component.avro.AvroEndpoint		0.5263158
+org.apache.camel.component.avro.AvroReflectResponder		0.4
+org.apache.camel.component.avro.AvroListener		0.31958762
+org.apache.camel.component.avro.AvroConsumer		0.2
+org.apache.camel.component.avro.AvroConfiguration		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettySpringConsumerTest_testInOut_q
+org.apache.camel.component.avro.AvroEndpoint		0.5263158
+org.apache.camel.component.avro.AvroSpecificResponder		0.4
+org.apache.camel.component.avro.AvroListener		0.29896906
+org.apache.camel.component.avro.AvroConsumer		0.2
+org.apache.camel.component.avro.AvroConfiguration		0.032786883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettySpringProducerTest
+AvroNettySpringProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettySpringProducerTest_testInOnlyReflection_g
+org.apache.camel.component.avro.AvroNettyProducer		0.6
+org.apache.camel.component.avro.AvroReflectRequestor		0.5
+org.apache.camel.component.avro.AvroProducer		0.47457626
+org.apache.camel.component.avro.AvroConfiguration		0.16393442
+org.apache.camel.component.avro.AvroEndpoint		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettySpringProducerTest_testInOnlyWithMessageNameInRoute_z
+org.apache.camel.component.avro.AvroSpecificRequestor		1.0
+org.apache.camel.component.avro.AvroNettyProducer		0.6
+org.apache.camel.component.avro.AvroProducer		0.47457626
+org.apache.camel.component.avro.AvroConfiguration		0.16393442
+org.apache.camel.component.avro.AvroEndpoint		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettySpringProducerTest_testInOnlyWithWrongMessageNameInMessage_1i
+org.apache.camel.component.avro.AvroSpecificRequestor		1.0
+org.apache.camel.component.avro.AvroNettyProducer		0.6
+org.apache.camel.component.avro.AvroProducer		0.42372882
+org.apache.camel.component.avro.AvroConfiguration		0.13114753
+org.apache.camel.component.avro.AvroEndpoint		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettySpringProducerTest_testInOnly_14
+org.apache.camel.component.avro.AvroSpecificRequestor		1.0
+org.apache.camel.component.avro.AvroNettyProducer		0.6
+org.apache.camel.component.avro.AvroProducer		0.47457626
+org.apache.camel.component.avro.AvroConfiguration		0.13114753
+org.apache.camel.component.avro.AvroEndpoint		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettySpringProducerTest_testInOutMessageNameInRoute_i
+org.apache.camel.component.avro.AvroSpecificRequestor		1.0
+org.apache.camel.component.avro.AvroNettyProducer		0.6
+org.apache.camel.component.avro.AvroProducer		0.5084746
+org.apache.camel.component.avro.AvroConfiguration		0.16393442
+org.apache.camel.component.avro.AvroEndpoint		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettySpringProducerTest_testInOutReflection_1s
+org.apache.camel.component.avro.AvroNettyProducer		0.6
+org.apache.camel.component.avro.AvroReflectRequestor		0.5
+org.apache.camel.component.avro.AvroProducer		0.47457626
+org.apache.camel.component.avro.AvroConfiguration		0.16393442
+org.apache.camel.component.avro.AvroEndpoint		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroNettySpringProducerTest_testInOut_2
+org.apache.camel.component.avro.AvroSpecificRequestor		1.0
+org.apache.camel.component.avro.AvroNettyProducer		0.6
+org.apache.camel.component.avro.AvroProducer		0.5084746
+org.apache.camel.component.avro.AvroConfiguration		0.13114753
+org.apache.camel.component.avro.AvroEndpoint		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroProducerTestSupport
+AvroProducerTestSupport		0.9722222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroSettingsTest
+AvroSettingsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroSettingsTest_testConsumerForUnknownMessage_1y
+org.apache.camel.component.avro.AvroConfiguration		0.5409836
+org.apache.camel.component.avro.AvroComponent		0.32911393
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroSettingsTest_testProducerForNonSingleParamMessage_1w
+org.apache.camel.component.avro.AvroConfiguration		0.60655737
+org.apache.camel.component.avro.AvroComponent		0.43037975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroSettingsTest_testProducerForUnknownMessage_18
+org.apache.camel.component.avro.AvroConfiguration		0.5409836
+org.apache.camel.component.avro.AvroComponent		0.32911393
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/AvroTestSupport
+AvroTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/test-AvroConsumerTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/test-AvroHttpConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/test-AvroHttpProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/test-AvroHttpSpringProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/test-AvroNettyConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/test-AvroNettyProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/test-AvroNettySpringConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/test-AvroNettySpringProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/test-AvroProducerTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/test-AvroSettingsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/component/avro/test-AvroTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/dataformat/avro/AvroGenericMarshaAndUnmarshaTest
+AvroGenericMarshaAndUnmarshaTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/dataformat/avro/AvroGenericMarshaAndUnmarshaTest_testGenericMarshalAndUnmarshal_1v
+org.apache.camel.dataformat.avro.SpecificDataNoCache		0.72727275
+org.apache.camel.dataformat.avro.AvroDataFormat		0.28787878
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/dataformat/avro/AvroMarshalAndUnmarshalSpringTest
+AvroMarshalAndUnmarshalSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/dataformat/avro/AvroMarshalAndUnmarshalSpringTest_testMarshalAndUnmarshalWithDSL1_16
+org.apache.camel.dataformat.avro.SpecificDataNoCache		0.8181818
+org.apache.camel.dataformat.avro.AvroDataFormat		0.3030303
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/dataformat/avro/AvroMarshalAndUnmarshalSpringTest_testMarshalAndUnmarshalWithDSL2_1u
+org.apache.camel.dataformat.avro.SpecificDataNoCache		0.8181818
+org.apache.camel.dataformat.avro.AvroDataFormat		0.3030303
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/dataformat/avro/AvroMarshalAndUnmarshalSpringTest_testMarshalAndUnmarshalWithDSL3_1c
+org.apache.camel.dataformat.avro.AvroDataFormat		0.3030303
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/dataformat/avro/AvroMarshalAndUnmarshalSpringTest_testMarshalAndUnmarshalWithDataFormat_1k
+org.apache.camel.dataformat.avro.SpecificDataNoCache		0.8181818
+org.apache.camel.dataformat.avro.AvroDataFormat		0.3030303
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/dataformat/avro/AvroMarshalAndUnmarshallTest
+AvroMarshalAndUnmarshallTest		0.96875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/dataformat/avro/AvroMarshalAndUnmarshallTest_testMarshalAndUnmarshalWithDSL1_6
+org.apache.camel.dataformat.avro.SpecificDataNoCache		0.8181818
+org.apache.camel.dataformat.avro.AvroDataFormat		0.42424244
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/dataformat/avro/AvroMarshalAndUnmarshallTest_testMarshalAndUnmarshalWithDSL2_f
+org.apache.camel.dataformat.avro.SpecificDataNoCache		0.8181818
+org.apache.camel.dataformat.avro.AvroDataFormat		0.42424244
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/dataformat/avro/AvroMarshalAndUnmarshallTest_testMarshalAndUnmarshalWithDSL3_d
+org.apache.camel.dataformat.avro.AvroDataFormat		0.3030303
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/dataformat/avro/AvroMarshalAndUnmarshallTest_testMarshalAndUnmarshalWithDataFormat_y
+org.apache.camel.dataformat.avro.SpecificDataNoCache		0.8181818
+org.apache.camel.dataformat.avro.AvroDataFormat		0.3030303
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/dataformat/avro/test-AvroGenericMarshaAndUnmarshaTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/dataformat/avro/test-AvroMarshalAndUnmarshalSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-avro/target/site/clover/org/apache/camel/dataformat/avro/test-AvroMarshalAndUnmarshallTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

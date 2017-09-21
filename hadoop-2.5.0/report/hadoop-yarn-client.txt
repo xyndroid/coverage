@@ -1,0 +1,1216 @@
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA
+TestApplicationClientProtocolOnHA		0.98717946
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testCancelDelegationTokenOnHA_33
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testCancelDelegationTokenOnHA_5l
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testForceKillApplicationOnHA_18
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.038709678
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testForceKillApplicationOnHA_v
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.038709678
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testGetApplicationAttemptReportOnHA_c
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.019354839
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testGetApplicationAttemptReportOnHA_h
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.019354839
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testGetApplicationAttemptsOnHA_i
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.019354839
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testGetApplicationAttemptsOnHA_q
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.019354839
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testGetApplicationReportOnHA_2t
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.022580646
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testGetApplicationReportOnHA_4v
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.022580646
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testGetApplicationsOnHA_2u
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.019354839
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testGetApplicationsOnHA_4w
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.019354839
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testGetClusterMetricsOnHA_j
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.012903226
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testGetClusterMetricsOnHA_r
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.012903226
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testGetClusterNodesOnHA_22
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.025806451
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testGetClusterNodesOnHA_3j
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.025806451
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testGetContainerReportOnHA_2i
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.019354839
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testGetContainerReportOnHA_48
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.019354839
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testGetContainersOnHA_29
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.019354839
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testGetContainersOnHA_3u
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.019354839
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testGetDelegationTokenOnHA_26
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.016129032
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testGetDelegationTokenOnHA_3o
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.016129032
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testGetNewApplicationOnHA_1a
+org.apache.hadoop.yarn.client.api.YarnClientApplication		0.71428573
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.029032258
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testGetNewApplicationOnHA_x
+org.apache.hadoop.yarn.client.api.YarnClientApplication		0.71428573
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.029032258
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testGetQueueInfoOnHA_1d
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.03548387
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testGetQueueInfoOnHA_24
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.03548387
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testGetQueueUserAclsOnHA_23
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.009677419
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testGetQueueUserAclsOnHA_3k
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.009677419
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testMoveApplicationAcrossQueuesOnHA_o
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.009677419
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testMoveApplicationAcrossQueuesOnHA_x
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.009677419
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testRenewDelegationTokenOnHA_3h
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testRenewDelegationTokenOnHA_6f
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testSubmitApplicationOnHA_10
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.090322584
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationClientProtocolOnHA_testSubmitApplicationOnHA_1f
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.090322584
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationMasterServiceOnHA
+TestApplicationMasterServiceOnHA		0.9583333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationMasterServiceOnHA_testAllocateOnHA_h
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestApplicationMasterServiceOnHA_testAllocateOnHA_p
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestGetGroups
+TestGetGroups		0.8965517
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestGetGroups_testExistingInterleavedWithNonExistentUsers_3i
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestGetGroups_testExistingInterleavedWithNonExistentUsers_6h
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestGetGroups_testExistingUser_2o
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestGetGroups_testExistingUser_4l
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestGetGroups_testMultipleExistingUsers_2a
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestGetGroups_testMultipleExistingUsers_3w
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestGetGroups_testMultipleNonExistingUsers_2g
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestGetGroups_testMultipleNonExistingUsers_46
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestGetGroups_testNoUserGiven_g
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestGetGroups_testNoUserGiven_n
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestGetGroups_testNonExistentUser_36
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestGetGroups_testNonExistentUser_5q
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMAdminCLI
+TestRMAdminCLI		0.9699248
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMAdminCLI_testCheckHealth_2n
+org.apache.hadoop.yarn.client.cli.RMAdminCLI		0.078125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMAdminCLI_testCheckHealth_4k
+org.apache.hadoop.yarn.client.cli.RMAdminCLI		0.078125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMAdminCLI_testException_2c
+org.apache.hadoop.yarn.client.cli.RMAdminCLI		0.11328125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMAdminCLI_testException_41
+org.apache.hadoop.yarn.client.cli.RMAdminCLI		0.11328125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMAdminCLI_testGetGroups_4
+org.apache.hadoop.yarn.client.cli.RMAdminCLI		0.1796875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMAdminCLI_testGetGroups_6
+org.apache.hadoop.yarn.client.cli.RMAdminCLI		0.1796875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMAdminCLI_testGetServiceState_1m
+org.apache.hadoop.yarn.client.cli.RMAdminCLI		0.078125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMAdminCLI_testGetServiceState_2k
+org.apache.hadoop.yarn.client.cli.RMAdminCLI		0.078125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMAdminCLI_testHelp_27
+org.apache.hadoop.yarn.client.cli.RMAdminCLI		0.4765625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMAdminCLI_testHelp_3r
+org.apache.hadoop.yarn.client.cli.RMAdminCLI		0.4765625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMAdminCLI_testRefreshAdminAcls_18
+org.apache.hadoop.yarn.client.cli.RMAdminCLI		0.140625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMAdminCLI_testRefreshAdminAcls_1v
+org.apache.hadoop.yarn.client.cli.RMAdminCLI		0.140625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMAdminCLI_testRefreshNodes_1g
+org.apache.hadoop.yarn.client.cli.RMAdminCLI		0.1171875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMAdminCLI_testRefreshNodes_29
+org.apache.hadoop.yarn.client.cli.RMAdminCLI		0.1171875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMAdminCLI_testRefreshQueues_1c
+org.apache.hadoop.yarn.client.cli.RMAdminCLI		0.109375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMAdminCLI_testRefreshQueues_y
+org.apache.hadoop.yarn.client.cli.RMAdminCLI		0.109375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMAdminCLI_testRefreshServiceAcl_13
+org.apache.hadoop.yarn.client.cli.RMAdminCLI		0.1484375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMAdminCLI_testRefreshServiceAcl_1i
+org.apache.hadoop.yarn.client.cli.RMAdminCLI		0.1484375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMAdminCLI_testRefreshSuperUserGroupsConfiguration_21
+org.apache.hadoop.yarn.client.cli.RMAdminCLI		0.1328125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMAdminCLI_testRefreshSuperUserGroupsConfiguration_3i
+org.apache.hadoop.yarn.client.cli.RMAdminCLI		0.1328125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMAdminCLI_testRefreshUserToGroupsMappings_28
+org.apache.hadoop.yarn.client.cli.RMAdminCLI		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMAdminCLI_testRefreshUserToGroupsMappings_3t
+org.apache.hadoop.yarn.client.cli.RMAdminCLI		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMAdminCLI_testTransitionToActive_1q
+org.apache.hadoop.yarn.client.cli.RMAdminCLI		0.078125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMAdminCLI_testTransitionToActive_2r
+org.apache.hadoop.yarn.client.cli.RMAdminCLI		0.078125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMAdminCLI_testTransitionToStandby_1c
+org.apache.hadoop.yarn.client.cli.RMAdminCLI		0.078125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMAdminCLI_testTransitionToStandby_22
+org.apache.hadoop.yarn.client.cli.RMAdminCLI		0.078125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMFailover
+TestRMFailover		0.97604793
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMFailover_testAutomaticFailover_1l
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.11612903
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMFailover_testAutomaticFailover_2i
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.11612903
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMFailover_testEmbeddedWebAppProxy_1i
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.11612903
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMFailover_testEmbeddedWebAppProxy_2b
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.11612903
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMFailover_testExplicitFailover_16
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.11612903
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMFailover_testExplicitFailover_u
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.11612903
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMFailover_testRMWebAppRedirect_37
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMFailover_testRMWebAppRedirect_5s
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMFailover_testWebAppProxyInStandAloneMode_10
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.11612903
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestRMFailover_testWebAppProxyInStandAloneMode_q
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.11612903
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestResourceManagerAdministrationProtocolPBClientImpl
+TestResourceManagerAdministrationProtocolPBClientImpl		0.94827586
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestResourceManagerAdministrationProtocolPBClientImpl_testRefreshAdminAcls_6
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestResourceManagerAdministrationProtocolPBClientImpl_testRefreshAdminAcls_9
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestResourceManagerAdministrationProtocolPBClientImpl_testRefreshNodes_30
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestResourceManagerAdministrationProtocolPBClientImpl_testRefreshNodes_5a
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestResourceManagerAdministrationProtocolPBClientImpl_testRefreshQueues_3c
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestResourceManagerAdministrationProtocolPBClientImpl_testRefreshQueues_63
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestResourceManagerAdministrationProtocolPBClientImpl_testRefreshServiceAcls_3f
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestResourceManagerAdministrationProtocolPBClientImpl_testRefreshServiceAcls_6d
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestResourceManagerAdministrationProtocolPBClientImpl_testRefreshSuperUserGroupsConfiguration_2z
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestResourceManagerAdministrationProtocolPBClientImpl_testRefreshSuperUserGroupsConfiguration_56
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestResourceManagerAdministrationProtocolPBClientImpl_testRefreshUserToGroupsMappings_2r
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestResourceManagerAdministrationProtocolPBClientImpl_testRefreshUserToGroupsMappings_4r
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestResourceManagerAdministrationProtocolPBClientImpl_testUpdateNodeResource_2q
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestResourceManagerAdministrationProtocolPBClientImpl_testUpdateNodeResource_4o
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestResourceTrackerOnHA
+TestResourceTrackerOnHA		0.8333333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestResourceTrackerOnHA_testResourceTrackerOnHA_31
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestResourceTrackerOnHA_testResourceTrackerOnHA_5j
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestYarnApiClasses
+TestYarnApiClasses		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestYarnApiClasses_testCancelDelegationTokenRequestPBImpl_1e
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestYarnApiClasses_testCancelDelegationTokenRequestPBImpl_z
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestYarnApiClasses_testRenewDelegationTokenRequestPBImpl_m
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestYarnApiClasses_testRenewDelegationTokenRequestPBImpl_u
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestYarnApiClasses_testResourceRequest_2l
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/TestYarnApiClasses_testResourceRequest_4e
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/async/impl/TestAMRMClientAsync
+TestAMRMClientAsync		0.9488636
+TestAMRMClientAsync.TestCallbackHandler		0.94
+TestAMRMClientAsync.TestCallbackHandler2		0.8636364
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/async/impl/TestAMRMClientAsync_testAMRMClientAsyncException_19
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl		0.5625
+org.apache.hadoop.yarn.client.api.async.AMRMClientAsync		0.53846157
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl.HeartbeatThread		0.4516129
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl.CallbackHandlerThread		0.3529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/async/impl/TestAMRMClientAsync_testAMRMClientAsyncException_1x
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl		0.5625
+org.apache.hadoop.yarn.client.api.async.AMRMClientAsync		0.53846157
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl.HeartbeatThread		0.4516129
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl.CallbackHandlerThread		0.3529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/async/impl/TestAMRMClientAsync_testAMRMClientAsyncReboot_2m
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl.HeartbeatThread		0.58064514
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl		0.5625
+org.apache.hadoop.yarn.client.api.async.AMRMClientAsync		0.53846157
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl.CallbackHandlerThread		0.37254903
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/async/impl/TestAMRMClientAsync_testAMRMClientAsyncReboot_4g
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl.HeartbeatThread		0.58064514
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl		0.5625
+org.apache.hadoop.yarn.client.api.async.AMRMClientAsync		0.53846157
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl.CallbackHandlerThread		0.37254903
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/async/impl/TestAMRMClientAsync_testAMRMClientAsyncRunTimeException_3d
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl		0.5625
+org.apache.hadoop.yarn.client.api.async.AMRMClientAsync		0.53846157
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl.HeartbeatThread		0.4516129
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl.CallbackHandlerThread		0.3529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/async/impl/TestAMRMClientAsync_testAMRMClientAsyncRunTimeException_64
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl		0.5625
+org.apache.hadoop.yarn.client.api.async.AMRMClientAsync		0.53846157
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl.HeartbeatThread		0.4516129
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl.CallbackHandlerThread		0.3529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/async/impl/TestAMRMClientAsync_testAMRMClientAsyncShutDown_12
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl.HeartbeatThread		0.58064514
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl		0.5625
+org.apache.hadoop.yarn.client.api.async.AMRMClientAsync		0.53846157
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl.CallbackHandlerThread		0.37254903
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/async/impl/TestAMRMClientAsync_testAMRMClientAsyncShutDown_r
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl.HeartbeatThread		0.58064514
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl		0.5625
+org.apache.hadoop.yarn.client.api.async.AMRMClientAsync		0.53846157
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl.CallbackHandlerThread		0.37254903
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/async/impl/TestAMRMClientAsync_testAMRMClientAsync_1
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl.HeartbeatThread		0.7419355
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl		0.6041667
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl.CallbackHandlerThread		0.5882353
+org.apache.hadoop.yarn.client.api.async.AMRMClientAsync		0.53846157
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/async/impl/TestAMRMClientAsync_testAMRMClientAsync_2
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl.HeartbeatThread		0.7419355
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl		0.6041667
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl.CallbackHandlerThread		0.5882353
+org.apache.hadoop.yarn.client.api.async.AMRMClientAsync		0.53846157
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/async/impl/TestAMRMClientAsync_testCallAMRMClientAsyncStopFromCallbackHandler_2b
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl.HeartbeatThread		0.7419355
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl		0.5625
+org.apache.hadoop.yarn.client.api.async.AMRMClientAsync		0.53846157
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl.CallbackHandlerThread		0.5294118
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/async/impl/TestAMRMClientAsync_testCallAMRMClientAsyncStopFromCallbackHandler_3z
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl.HeartbeatThread		0.7419355
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl		0.5625
+org.apache.hadoop.yarn.client.api.async.AMRMClientAsync		0.53846157
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl.CallbackHandlerThread		0.5294118
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/async/impl/TestAMRMClientAsync_testCallBackThrowOutExceptionNoStop_7
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl.HeartbeatThread		0.6451613
+org.apache.hadoop.yarn.client.api.async.AMRMClientAsync		0.53846157
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl.CallbackHandlerThread		0.4509804
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl		0.39583334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/async/impl/TestAMRMClientAsync_testCallBackThrowOutExceptionNoStop_a
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl.HeartbeatThread		0.6451613
+org.apache.hadoop.yarn.client.api.async.AMRMClientAsync		0.53846157
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl.CallbackHandlerThread		0.4509804
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl		0.39583334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/async/impl/TestAMRMClientAsync_testCallBackThrowOutException_2j
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl.HeartbeatThread		0.7419355
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl		0.5625
+org.apache.hadoop.yarn.client.api.async.AMRMClientAsync		0.53846157
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl.CallbackHandlerThread		0.4509804
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/async/impl/TestAMRMClientAsync_testCallBackThrowOutException_4a
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl.HeartbeatThread		0.7419355
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl		0.5625
+org.apache.hadoop.yarn.client.api.async.AMRMClientAsync		0.53846157
+org.apache.hadoop.yarn.client.api.async.impl.AMRMClientAsyncImpl.CallbackHandlerThread		0.4509804
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/async/impl/TestNMClientAsync
+TestNMClientAsync		0.9166667
+TestNMClientAsync.MockNMClientAsync1		1.0
+TestNMClientAsync.MockNMClientAsync1.MockContainerEventProcessor		0.8333333
+TestNMClientAsync.TestCallbackHandler1		0.7657658
+TestNMClientAsync.MockNMClientAsync2		1.0
+TestNMClientAsync.MockNMClientAsync2.MockContainerEventProcessor		0.9375
+TestNMClientAsync.TestCallbackHandler2		0.4117647
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/async/impl/TestNMClientAsync_testNMClientAsync_e
+org.apache.hadoop.yarn.client.api.async.impl.NMClientAsyncImpl.StartContainerEvent		1.0
+org.apache.hadoop.yarn.client.api.async.impl.NMClientAsyncImpl.StatefulContainer.StopContainerTransition		0.875
+org.apache.hadoop.yarn.client.api.async.impl.NMClientAsyncImpl.ContainerEventProcessor		0.8666667
+org.apache.hadoop.yarn.client.api.async.impl.NMClientAsyncImpl.StatefulContainer		0.85714287
+org.apache.hadoop.yarn.client.api.async.impl.NMClientAsyncImpl.StatefulContainer.StartContainerTransition		0.82608694
+org.apache.hadoop.yarn.client.api.async.impl.NMClientAsyncImpl.ContainerEvent		0.8181818
+org.apache.hadoop.yarn.client.api.async.NMClientAsync		0.6666667
+org.apache.hadoop.yarn.client.api.async.impl.NMClientAsyncImpl		0.6571429
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/async/impl/TestNMClientAsync_testNMClientAsync_l
+org.apache.hadoop.yarn.client.api.async.impl.NMClientAsyncImpl.StartContainerEvent		1.0
+org.apache.hadoop.yarn.client.api.async.impl.NMClientAsyncImpl.StatefulContainer.StopContainerTransition		0.875
+org.apache.hadoop.yarn.client.api.async.impl.NMClientAsyncImpl.ContainerEventProcessor		0.8666667
+org.apache.hadoop.yarn.client.api.async.impl.NMClientAsyncImpl.StatefulContainer		0.85714287
+org.apache.hadoop.yarn.client.api.async.impl.NMClientAsyncImpl.StatefulContainer.StartContainerTransition		0.82608694
+org.apache.hadoop.yarn.client.api.async.impl.NMClientAsyncImpl.ContainerEvent		0.8181818
+org.apache.hadoop.yarn.client.api.async.NMClientAsync		0.6666667
+org.apache.hadoop.yarn.client.api.async.impl.NMClientAsyncImpl		0.6571429
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/async/impl/TestNMClientAsync_testOutOfOrder_5
+org.apache.hadoop.yarn.client.api.async.impl.NMClientAsyncImpl.ContainerEvent		0.8181818
+org.apache.hadoop.yarn.client.api.async.impl.NMClientAsyncImpl.StatefulContainer.OutOfOrderTransition		0.75
+org.apache.hadoop.yarn.client.api.async.impl.NMClientAsyncImpl.StatefulContainer		0.5714286
+org.apache.hadoop.yarn.client.api.async.NMClientAsync		0.5555556
+org.apache.hadoop.yarn.client.api.async.impl.NMClientAsyncImpl.StartContainerEvent		0.5
+org.apache.hadoop.yarn.client.api.async.impl.NMClientAsyncImpl		0.42857143
+org.apache.hadoop.yarn.client.api.async.impl.NMClientAsyncImpl.ContainerEventProcessor		0.36666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/async/impl/TestNMClientAsync_testOutOfOrder_7
+org.apache.hadoop.yarn.client.api.async.impl.NMClientAsyncImpl.ContainerEvent		0.8181818
+org.apache.hadoop.yarn.client.api.async.impl.NMClientAsyncImpl.StatefulContainer.OutOfOrderTransition		0.75
+org.apache.hadoop.yarn.client.api.async.impl.NMClientAsyncImpl.StatefulContainer		0.5714286
+org.apache.hadoop.yarn.client.api.async.NMClientAsync		0.5555556
+org.apache.hadoop.yarn.client.api.async.impl.NMClientAsyncImpl.StartContainerEvent		0.5
+org.apache.hadoop.yarn.client.api.async.impl.NMClientAsyncImpl		0.42857143
+org.apache.hadoop.yarn.client.api.async.impl.NMClientAsyncImpl.ContainerEventProcessor		0.36666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAHSClient
+TestAHSClient		1.0
+TestAHSClient.MockAHSClient		0.93670887
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAHSClient_testClientStop_0
+org.apache.hadoop.yarn.client.api.AHSClient		1.0
+org.apache.hadoop.yarn.client.api.impl.AHSClientImpl		0.3809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAHSClient_testClientStop_1
+org.apache.hadoop.yarn.client.api.AHSClient		1.0
+org.apache.hadoop.yarn.client.api.impl.AHSClientImpl		0.3809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAHSClient_testGetApplicationAttempt_p
+org.apache.hadoop.yarn.client.api.AHSClient		0.4
+org.apache.hadoop.yarn.client.api.impl.AHSClientImpl		0.26190478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAHSClient_testGetApplicationAttempt_z
+org.apache.hadoop.yarn.client.api.AHSClient		0.4
+org.apache.hadoop.yarn.client.api.impl.AHSClientImpl		0.26190478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAHSClient_testGetApplicationAttempts_1e
+org.apache.hadoop.yarn.client.api.AHSClient		0.4
+org.apache.hadoop.yarn.client.api.impl.AHSClientImpl		0.26190478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAHSClient_testGetApplicationAttempts_27
+org.apache.hadoop.yarn.client.api.AHSClient		0.4
+org.apache.hadoop.yarn.client.api.impl.AHSClientImpl		0.26190478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAHSClient_testGetApplicationReport_24
+org.apache.hadoop.yarn.client.api.AHSClient		0.4
+org.apache.hadoop.yarn.client.api.impl.AHSClientImpl		0.26190478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAHSClient_testGetApplicationReport_3l
+org.apache.hadoop.yarn.client.api.AHSClient		0.4
+org.apache.hadoop.yarn.client.api.impl.AHSClientImpl		0.26190478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAHSClient_testGetApplications_l
+org.apache.hadoop.yarn.client.api.AHSClient		0.4
+org.apache.hadoop.yarn.client.api.impl.AHSClientImpl		0.26190478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAHSClient_testGetApplications_t
+org.apache.hadoop.yarn.client.api.AHSClient		0.4
+org.apache.hadoop.yarn.client.api.impl.AHSClientImpl		0.26190478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAHSClient_testGetContainerReport_14
+org.apache.hadoop.yarn.client.api.AHSClient		0.4
+org.apache.hadoop.yarn.client.api.impl.AHSClientImpl		0.26190478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAHSClient_testGetContainerReport_s
+org.apache.hadoop.yarn.client.api.AHSClient		0.4
+org.apache.hadoop.yarn.client.api.impl.AHSClientImpl		0.26190478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAHSClient_testGetContainers_2x
+org.apache.hadoop.yarn.client.api.AHSClient		0.4
+org.apache.hadoop.yarn.client.api.impl.AHSClientImpl		0.26190478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAHSClient_testGetContainers_52
+org.apache.hadoop.yarn.client.api.AHSClient		0.4
+org.apache.hadoop.yarn.client.api.impl.AHSClientImpl		0.26190478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAMRMClient
+TestAMRMClient		0.95594716
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAMRMClientContainerRequest
+TestAMRMClientContainerRequest		1.0
+TestAMRMClientContainerRequest.MyResolver		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAMRMClientContainerRequest_testDifferentLocalityRelaxationSamePriority_9
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceRequestInfo		1.0
+org.apache.hadoop.yarn.client.api.AMRMClient.ContainerRequest		0.7
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceReverseMemoryThenCpuComparator		0.45454547
+org.apache.hadoop.yarn.client.api.InvalidContainerRequestException		0.33333334
+org.apache.hadoop.yarn.client.api.AMRMClient		0.3
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl		0.2539185
+org.apache.hadoop.yarn.client.api.NMTokenCache		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAMRMClientContainerRequest_testDifferentLocalityRelaxationSamePriority_c
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceRequestInfo		1.0
+org.apache.hadoop.yarn.client.api.AMRMClient.ContainerRequest		0.7
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceReverseMemoryThenCpuComparator		0.45454547
+org.apache.hadoop.yarn.client.api.InvalidContainerRequestException		0.33333334
+org.apache.hadoop.yarn.client.api.AMRMClient		0.3
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl		0.2539185
+org.apache.hadoop.yarn.client.api.NMTokenCache		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAMRMClientContainerRequest_testDisableLocalityRelaxation_2d
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceRequestInfo		1.0
+org.apache.hadoop.yarn.client.api.AMRMClient.ContainerRequest		0.76666665
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceReverseMemoryThenCpuComparator		0.45454547
+org.apache.hadoop.yarn.client.api.AMRMClient		0.3
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl		0.28840125
+org.apache.hadoop.yarn.client.api.NMTokenCache		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAMRMClientContainerRequest_testDisableLocalityRelaxation_43
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceRequestInfo		1.0
+org.apache.hadoop.yarn.client.api.AMRMClient.ContainerRequest		0.76666665
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceReverseMemoryThenCpuComparator		0.45454547
+org.apache.hadoop.yarn.client.api.AMRMClient		0.3
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl		0.28840125
+org.apache.hadoop.yarn.client.api.NMTokenCache		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAMRMClientContainerRequest_testFillInRacks_2e
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceRequestInfo		1.0
+org.apache.hadoop.yarn.client.api.AMRMClient.ContainerRequest		0.76666665
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceReverseMemoryThenCpuComparator		0.45454547
+org.apache.hadoop.yarn.client.api.AMRMClient		0.3
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl		0.23510972
+org.apache.hadoop.yarn.client.api.NMTokenCache		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAMRMClientContainerRequest_testFillInRacks_44
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceRequestInfo		1.0
+org.apache.hadoop.yarn.client.api.AMRMClient.ContainerRequest		0.76666665
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceReverseMemoryThenCpuComparator		0.45454547
+org.apache.hadoop.yarn.client.api.AMRMClient		0.3
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl		0.23510972
+org.apache.hadoop.yarn.client.api.NMTokenCache		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAMRMClientContainerRequest_testInvalidValidWhenOldRemoved_11
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceRequestInfo		1.0
+org.apache.hadoop.yarn.client.api.AMRMClient.ContainerRequest		0.76666665
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceReverseMemoryThenCpuComparator		0.45454547
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl		0.37931034
+org.apache.hadoop.yarn.client.api.AMRMClient		0.3
+org.apache.hadoop.yarn.client.api.NMTokenCache		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAMRMClientContainerRequest_testInvalidValidWhenOldRemoved_1g
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceRequestInfo		1.0
+org.apache.hadoop.yarn.client.api.AMRMClient.ContainerRequest		0.76666665
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceReverseMemoryThenCpuComparator		0.45454547
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl		0.37931034
+org.apache.hadoop.yarn.client.api.AMRMClient		0.3
+org.apache.hadoop.yarn.client.api.NMTokenCache		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAMRMClientContainerRequest_testLocalityRelaxationDifferentLevels_1b
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceRequestInfo		1.0
+org.apache.hadoop.yarn.client.api.AMRMClient.ContainerRequest		0.76666665
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceReverseMemoryThenCpuComparator		0.45454547
+org.apache.hadoop.yarn.client.api.InvalidContainerRequestException		0.33333334
+org.apache.hadoop.yarn.client.api.AMRMClient		0.3
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl		0.26959246
+org.apache.hadoop.yarn.client.api.NMTokenCache		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAMRMClientContainerRequest_testLocalityRelaxationDifferentLevels_21
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceRequestInfo		1.0
+org.apache.hadoop.yarn.client.api.AMRMClient.ContainerRequest		0.76666665
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceReverseMemoryThenCpuComparator		0.45454547
+org.apache.hadoop.yarn.client.api.InvalidContainerRequestException		0.33333334
+org.apache.hadoop.yarn.client.api.AMRMClient		0.3
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl		0.26959246
+org.apache.hadoop.yarn.client.api.NMTokenCache		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAMRMClient_testAMRMClientMatchStorage_35
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceRequestInfo		1.0
+org.apache.hadoop.yarn.client.api.AMRMClient.ContainerRequest		0.8333333
+org.apache.hadoop.yarn.client.api.AMRMClient		0.8
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl		0.7210031
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceReverseMemoryThenCpuComparator		0.45454547
+org.apache.hadoop.yarn.client.api.NMTokenCache		0.3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAMRMClient_testAMRMClientMatchStorage_5n
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceRequestInfo		1.0
+org.apache.hadoop.yarn.client.api.AMRMClient.ContainerRequest		0.8333333
+org.apache.hadoop.yarn.client.api.AMRMClient		0.8
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl		0.7210031
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceReverseMemoryThenCpuComparator		0.45454547
+org.apache.hadoop.yarn.client.api.NMTokenCache		0.3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAMRMClient_testAMRMClientMatchingFitInferredRack_1f
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceRequestInfo		1.0
+org.apache.hadoop.yarn.client.api.AMRMClient.ContainerRequest		0.76666665
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl		0.5047022
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceReverseMemoryThenCpuComparator		0.45454547
+org.apache.hadoop.yarn.client.api.AMRMClient		0.3
+org.apache.hadoop.yarn.client.api.NMTokenCache		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAMRMClient_testAMRMClientMatchingFitInferredRack_28
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceRequestInfo		1.0
+org.apache.hadoop.yarn.client.api.AMRMClient.ContainerRequest		0.76666665
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl		0.5047022
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceReverseMemoryThenCpuComparator		0.45454547
+org.apache.hadoop.yarn.client.api.AMRMClient		0.3
+org.apache.hadoop.yarn.client.api.NMTokenCache		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAMRMClient_testAMRMClientMatchingFit_3b
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceRequestInfo		1.0
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceReverseMemoryThenCpuComparator		1.0
+org.apache.hadoop.yarn.client.api.AMRMClient.ContainerRequest		0.76666665
+org.apache.hadoop.yarn.client.api.AMRMClient		0.6
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl		0.5956113
+org.apache.hadoop.yarn.client.api.NMTokenCache		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAMRMClient_testAMRMClientMatchingFit_5y
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceRequestInfo		1.0
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceReverseMemoryThenCpuComparator		1.0
+org.apache.hadoop.yarn.client.api.AMRMClient.ContainerRequest		0.76666665
+org.apache.hadoop.yarn.client.api.AMRMClient		0.6
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl		0.5956113
+org.apache.hadoop.yarn.client.api.NMTokenCache		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAMRMClient_testAMRMClientWithBlacklist_3e
+org.apache.hadoop.yarn.client.api.AMRMClient		0.6
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl		0.11598746
+org.apache.hadoop.yarn.client.api.NMTokenCache		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAMRMClient_testAMRMClientWithBlacklist_66
+org.apache.hadoop.yarn.client.api.AMRMClient		0.6
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl		0.11598746
+org.apache.hadoop.yarn.client.api.NMTokenCache		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAMRMClient_testAMRMClient_20
+org.apache.hadoop.yarn.client.api.AMRMClient		1.0
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceRequestInfo		1.0
+org.apache.hadoop.yarn.client.api.AMRMClient.ContainerRequest		0.76666665
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl		0.6708464
+org.apache.hadoop.yarn.client.api.NMTokenCache		0.6
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceReverseMemoryThenCpuComparator		0.45454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAMRMClient_testAMRMClient_3g
+org.apache.hadoop.yarn.client.api.AMRMClient		1.0
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceRequestInfo		1.0
+org.apache.hadoop.yarn.client.api.AMRMClient.ContainerRequest		0.76666665
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl		0.6708464
+org.apache.hadoop.yarn.client.api.NMTokenCache		0.6
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceReverseMemoryThenCpuComparator		0.45454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAMRMClient_testAllocationWithBlacklist_2y
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceRequestInfo		1.0
+org.apache.hadoop.yarn.client.api.AMRMClient		0.8
+org.apache.hadoop.yarn.client.api.AMRMClient.ContainerRequest		0.76666665
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceReverseMemoryThenCpuComparator		0.6363636
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl		0.52978057
+org.apache.hadoop.yarn.client.api.NMTokenCache		0.3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestAMRMClient_testAllocationWithBlacklist_54
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceRequestInfo		1.0
+org.apache.hadoop.yarn.client.api.AMRMClient		0.8
+org.apache.hadoop.yarn.client.api.AMRMClient.ContainerRequest		0.76666665
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceReverseMemoryThenCpuComparator		0.6363636
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl		0.52978057
+org.apache.hadoop.yarn.client.api.NMTokenCache		0.3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestNMClient
+TestNMClient		0.89830506
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestNMClient_testNMClientNoCleanupOnStop_25
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceRequestInfo		1.0
+org.apache.hadoop.yarn.client.api.impl.NMClientImpl.StartedContainer		1.0
+org.apache.hadoop.yarn.client.api.impl.ContainerManagementProtocolProxy.ContainerManagementProtocolProxyData		0.9130435
+org.apache.hadoop.yarn.client.api.AMRMClient.ContainerRequest		0.76666665
+org.apache.hadoop.yarn.client.api.impl.NMClientImpl		0.69924814
+org.apache.hadoop.yarn.client.api.impl.ContainerManagementProtocolProxy		0.5694444
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceReverseMemoryThenCpuComparator		0.45454547
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl		0.44200626
+org.apache.hadoop.yarn.client.api.NMTokenCache		0.3
+org.apache.hadoop.yarn.client.api.AMRMClient		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestNMClient_testNMClientNoCleanupOnStop_3n
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceRequestInfo		1.0
+org.apache.hadoop.yarn.client.api.impl.NMClientImpl.StartedContainer		1.0
+org.apache.hadoop.yarn.client.api.impl.ContainerManagementProtocolProxy.ContainerManagementProtocolProxyData		0.9130435
+org.apache.hadoop.yarn.client.api.AMRMClient.ContainerRequest		0.76666665
+org.apache.hadoop.yarn.client.api.impl.NMClientImpl		0.69924814
+org.apache.hadoop.yarn.client.api.impl.ContainerManagementProtocolProxy		0.5694444
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceReverseMemoryThenCpuComparator		0.45454547
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl		0.44200626
+org.apache.hadoop.yarn.client.api.NMTokenCache		0.3
+org.apache.hadoop.yarn.client.api.AMRMClient		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestNMClient_testNMClient_2v
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceRequestInfo		1.0
+org.apache.hadoop.yarn.client.api.impl.NMClientImpl.StartedContainer		1.0
+org.apache.hadoop.yarn.client.api.impl.ContainerManagementProtocolProxy.ContainerManagementProtocolProxyData		0.9130435
+org.apache.hadoop.yarn.client.api.AMRMClient.ContainerRequest		0.76666665
+org.apache.hadoop.yarn.client.api.impl.NMClientImpl		0.7067669
+org.apache.hadoop.yarn.client.api.impl.ContainerManagementProtocolProxy		0.5694444
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceReverseMemoryThenCpuComparator		0.45454547
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl		0.44200626
+org.apache.hadoop.yarn.client.api.NMTokenCache		0.3
+org.apache.hadoop.yarn.client.api.AMRMClient		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestNMClient_testNMClient_4x
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceRequestInfo		1.0
+org.apache.hadoop.yarn.client.api.impl.NMClientImpl.StartedContainer		1.0
+org.apache.hadoop.yarn.client.api.impl.ContainerManagementProtocolProxy.ContainerManagementProtocolProxyData		0.9130435
+org.apache.hadoop.yarn.client.api.AMRMClient.ContainerRequest		0.76666665
+org.apache.hadoop.yarn.client.api.impl.NMClientImpl		0.7067669
+org.apache.hadoop.yarn.client.api.impl.ContainerManagementProtocolProxy		0.5694444
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl.ResourceReverseMemoryThenCpuComparator		0.45454547
+org.apache.hadoop.yarn.client.api.impl.AMRMClientImpl		0.44200626
+org.apache.hadoop.yarn.client.api.NMTokenCache		0.3
+org.apache.hadoop.yarn.client.api.AMRMClient		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestTimelineAuthenticator
+TestTimelineAuthenticator		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestTimelineAuthenticator_testHasDelegationTokens_19
+org.apache.hadoop.yarn.client.api.impl.TimelineAuthenticator		0.089108914
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestTimelineAuthenticator_testHasDelegationTokens_w
+org.apache.hadoop.yarn.client.api.impl.TimelineAuthenticator		0.089108914
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestTimelineClient
+TestTimelineClient		0.93
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestTimelineClient_testPostEntitiesConnectionRefused_32
+org.apache.hadoop.yarn.client.api.impl.TimelineClientImpl		0.09565217
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestTimelineClient_testPostEntitiesConnectionRefused_5k
+org.apache.hadoop.yarn.client.api.impl.TimelineClientImpl		0.09565217
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestTimelineClient_testPostEntitiesNoResponse_2f
+org.apache.hadoop.yarn.client.api.impl.TimelineClientImpl		0.13043478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestTimelineClient_testPostEntitiesNoResponse_45
+org.apache.hadoop.yarn.client.api.impl.TimelineClientImpl		0.13043478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestTimelineClient_testPostEntitiesTimelineServiceDefaultNotEnabled_1s
+org.apache.hadoop.yarn.client.api.TimelineClient		1.0
+org.apache.hadoop.yarn.client.api.impl.TimelineClientImpl		0.16521738
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestTimelineClient_testPostEntitiesTimelineServiceDefaultNotEnabled_2x
+org.apache.hadoop.yarn.client.api.TimelineClient		1.0
+org.apache.hadoop.yarn.client.api.impl.TimelineClientImpl		0.16521738
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestTimelineClient_testPostEntitiesTimelineServiceNotEnabled_39
+org.apache.hadoop.yarn.client.api.TimelineClient		1.0
+org.apache.hadoop.yarn.client.api.impl.TimelineClientImpl		0.16521738
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestTimelineClient_testPostEntitiesTimelineServiceNotEnabled_5w
+org.apache.hadoop.yarn.client.api.TimelineClient		1.0
+org.apache.hadoop.yarn.client.api.impl.TimelineClientImpl		0.16521738
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestTimelineClient_testPostEntitiesWithError_38
+org.apache.hadoop.yarn.client.api.impl.TimelineClientImpl		0.09565217
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestTimelineClient_testPostEntitiesWithError_5v
+org.apache.hadoop.yarn.client.api.impl.TimelineClientImpl		0.09565217
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestTimelineClient_testPostEntities_n
+org.apache.hadoop.yarn.client.api.impl.TimelineClientImpl		0.09565217
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestTimelineClient_testPostEntities_v
+org.apache.hadoop.yarn.client.api.impl.TimelineClientImpl		0.09565217
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestYarnClient
+TestYarnClient		0.9204152
+TestYarnClient.MockYarnClient		0.9787234
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestYarnClient_testAMMRTokens_a
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.api.YarnClientApplication		0.71428573
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.24193548
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestYarnClient_testAMMRTokens_d
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.api.YarnClientApplication		0.71428573
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.24193548
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestYarnClient_testApplicationTypeLimit_2w
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestYarnClient_testApplicationTypeLimit_50
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestYarnClient_testApplicationType_1n
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestYarnClient_testApplicationType_2m
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestYarnClient_testAsyncAPIPollTimeout_3a
+org.apache.hadoop.yarn.client.api.YarnClient		0.4
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.074193545
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestYarnClient_testAsyncAPIPollTimeout_5x
+org.apache.hadoop.yarn.client.api.YarnClient		0.4
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.074193545
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestYarnClient_testAutomaticTimelineDelegationTokenLoading_1r
+org.apache.hadoop.yarn.client.api.YarnClient		0.4
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.13548388
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestYarnClient_testAutomaticTimelineDelegationTokenLoading_2v
+org.apache.hadoop.yarn.client.api.YarnClient		0.4
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.13548388
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestYarnClient_testClientStop_12
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.09677419
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestYarnClient_testClientStop_1h
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.09677419
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestYarnClient_testGetApplicationAttempt_14
+org.apache.hadoop.yarn.client.api.YarnClient		0.4
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.061290324
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestYarnClient_testGetApplicationAttempt_1n
+org.apache.hadoop.yarn.client.api.YarnClient		0.4
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.061290324
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestYarnClient_testGetApplicationAttempts_3
+org.apache.hadoop.yarn.client.api.YarnClient		0.4
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.061290324
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestYarnClient_testGetApplicationAttempts_5
+org.apache.hadoop.yarn.client.api.YarnClient		0.4
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.061290324
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestYarnClient_testGetApplications_15
+org.apache.hadoop.yarn.client.api.YarnClient		0.4
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.061290324
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestYarnClient_testGetApplications_1q
+org.apache.hadoop.yarn.client.api.YarnClient		0.4
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.061290324
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestYarnClient_testGetContainerReport_1w
+org.apache.hadoop.yarn.client.api.YarnClient		0.4
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.061290324
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestYarnClient_testGetContainerReport_3a
+org.apache.hadoop.yarn.client.api.YarnClient		0.4
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.061290324
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestYarnClient_testGetContainers_16
+org.apache.hadoop.yarn.client.api.YarnClient		0.4
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.061290324
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestYarnClient_testGetContainers_1s
+org.apache.hadoop.yarn.client.api.YarnClient		0.4
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.061290324
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestYarnClient_testKillApplication_17
+org.apache.hadoop.yarn.client.api.YarnClient		0.4
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.10967742
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestYarnClient_testKillApplication_1u
+org.apache.hadoop.yarn.client.api.YarnClient		0.4
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.10967742
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestYarnClient_testSubmitApplication_k
+org.apache.hadoop.yarn.client.api.YarnClient		0.4
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.17419355
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestYarnClient_testSubmitApplication_s
+org.apache.hadoop.yarn.client.api.YarnClient		0.4
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.17419355
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestYarnClient_test_1y
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/api/impl/TestYarnClient_test_3e
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestLogsCLI
+TestLogsCLI		1.0
+TestLogsCLI.LogsCLIForTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestLogsCLI_testFailResultCodes_3g
+testFailResultCodes
+org.apache.hadoop.yarn.client.cli.LogsCLI		0.5181818
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestLogsCLI_testFailResultCodes_6e
+testFailResultCodes
+org.apache.hadoop.yarn.client.cli.LogsCLI		0.5181818
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestLogsCLI_testHelpMessage_2p
+testHelpMessage
+org.apache.hadoop.yarn.client.cli.LogsCLI		0.23636363
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestLogsCLI_testHelpMessage_4n
+testHelpMessage
+org.apache.hadoop.yarn.client.cli.LogsCLI		0.23636363
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestLogsCLI_testInvalidApplicationId_8
+testInvalidApplicationId
+org.apache.hadoop.yarn.client.cli.LogsCLI		0.3272727
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestLogsCLI_testInvalidApplicationId_b
+testInvalidApplicationId
+org.apache.hadoop.yarn.client.cli.LogsCLI		0.3272727
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestLogsCLI_testUnknownApplicationId_1o
+testUnknownApplicationId
+org.apache.hadoop.yarn.client.cli.LogsCLI		0.47272727
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestLogsCLI_testUnknownApplicationId_2p
+testUnknownApplicationId
+org.apache.hadoop.yarn.client.cli.LogsCLI		0.47272727
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI
+TestYarnCLI		0.9943439
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testAbsentNodeStatus_1j
+testAbsentNodeStatus
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.73333335
+org.apache.hadoop.yarn.client.cli.NodeCLI		0.29310346
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testAbsentNodeStatus_2c
+testAbsentNodeStatus
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.73333335
+org.apache.hadoop.yarn.client.cli.NodeCLI		0.29310346
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testAppAttemptsHelpCommand_b
+testAppAttemptsHelpCommand
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.6
+org.apache.hadoop.yarn.client.cli.ApplicationCLI		0.13677812
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testAppAttemptsHelpCommand_g
+testAppAttemptsHelpCommand
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.6
+org.apache.hadoop.yarn.client.cli.ApplicationCLI		0.13677812
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testAppCLIUsageInfo_1k
+testAppCLIUsageInfo
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.46666667
+org.apache.hadoop.yarn.client.cli.ApplicationCLI		0.16109422
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testAppCLIUsageInfo_2f
+testAppCLIUsageInfo
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.46666667
+org.apache.hadoop.yarn.client.cli.ApplicationCLI		0.16109422
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testAppsHelpCommand_2
+testAppsHelpCommand
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.6
+org.apache.hadoop.yarn.client.cli.ApplicationCLI		0.18844984
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testAppsHelpCommand_3
+testAppsHelpCommand
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.6
+org.apache.hadoop.yarn.client.cli.ApplicationCLI		0.18844984
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testContainersHelpCommand_1v
+testContainersHelpCommand
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.6
+org.apache.hadoop.yarn.client.cli.ApplicationCLI		0.14893617
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testContainersHelpCommand_39
+testContainersHelpCommand
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.6
+org.apache.hadoop.yarn.client.cli.ApplicationCLI		0.14893617
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testGetApplicationAttemptReport_1h
+testGetApplicationAttemptReport
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.6
+org.apache.hadoop.yarn.client.cli.ApplicationCLI		0.15197569
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testGetApplicationAttemptReport_2a
+testGetApplicationAttemptReport
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.6
+org.apache.hadoop.yarn.client.cli.ApplicationCLI		0.15197569
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testGetApplicationAttempts_1t
+testGetApplicationAttempts
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.6
+org.apache.hadoop.yarn.client.cli.ApplicationCLI		0.11246201
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testGetApplicationAttempts_32
+testGetApplicationAttempts
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.6
+org.apache.hadoop.yarn.client.cli.ApplicationCLI		0.11246201
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testGetApplicationReportException_1u
+testGetApplicationReportException
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.6
+org.apache.hadoop.yarn.client.cli.ApplicationCLI		0.14285715
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testGetApplicationReportException_34
+testGetApplicationReportException
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.6
+org.apache.hadoop.yarn.client.cli.ApplicationCLI		0.14285715
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testGetApplicationReport_d
+testGetApplicationReport
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.6
+org.apache.hadoop.yarn.client.cli.ApplicationCLI		0.25835866
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testGetApplicationReport_i
+testGetApplicationReport
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.6
+org.apache.hadoop.yarn.client.cli.ApplicationCLI		0.25835866
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testGetApplications_1x
+testGetApplications
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.6
+org.apache.hadoop.yarn.client.cli.ApplicationCLI		0.3069909
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testGetApplications_3d
+testGetApplications
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.6
+org.apache.hadoop.yarn.client.cli.ApplicationCLI		0.3069909
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testGetContainerReport_2k
+testGetContainerReport
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.6
+org.apache.hadoop.yarn.client.cli.ApplicationCLI		0.16413374
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testGetContainerReport_4b
+testGetContainerReport
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.6
+org.apache.hadoop.yarn.client.cli.ApplicationCLI		0.16413374
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testGetContainers_1a
+testGetContainers
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.6
+org.apache.hadoop.yarn.client.cli.ApplicationCLI		0.12462006
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testGetContainers_1y
+testGetContainers
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.6
+org.apache.hadoop.yarn.client.cli.ApplicationCLI		0.12462006
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testKillApplication_34
+testKillApplication
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.6
+org.apache.hadoop.yarn.client.cli.ApplicationCLI		0.19148937
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testKillApplication_5m
+testKillApplication
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.6
+org.apache.hadoop.yarn.client.cli.ApplicationCLI		0.19148937
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testListClusterNodes_15
+testListClusterNodes
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.6
+org.apache.hadoop.yarn.client.cli.NodeCLI		0.4051724
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testListClusterNodes_t
+testListClusterNodes
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.6
+org.apache.hadoop.yarn.client.cli.NodeCLI		0.4051724
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testMissingArguments_2h
+testMissingArguments
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.73333335
+org.apache.hadoop.yarn.client.cli.ApplicationCLI		0.18541034
+org.apache.hadoop.yarn.client.cli.NodeCLI		0.18103448
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testMissingArguments_47
+testMissingArguments
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.73333335
+org.apache.hadoop.yarn.client.cli.ApplicationCLI		0.18541034
+org.apache.hadoop.yarn.client.cli.NodeCLI		0.18103448
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testMoveApplicationAcrossQueues_1p
+testMoveApplicationAcrossQueues
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.6
+org.apache.hadoop.yarn.client.cli.ApplicationCLI		0.18237083
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testMoveApplicationAcrossQueues_2q
+testMoveApplicationAcrossQueues
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.6
+org.apache.hadoop.yarn.client.cli.ApplicationCLI		0.18237083
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testNodeCLIUsageInfo_f
+testNodeCLIUsageInfo
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.46666667
+org.apache.hadoop.yarn.client.cli.NodeCLI		0.21551724
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testNodeCLIUsageInfo_m
+testNodeCLIUsageInfo
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.46666667
+org.apache.hadoop.yarn.client.cli.NodeCLI		0.21551724
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testNodeStatus_1z
+testNodeStatus
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.73333335
+org.apache.hadoop.yarn.client.cli.NodeCLI		0.54310346
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testNodeStatus_3f
+testNodeStatus
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.73333335
+org.apache.hadoop.yarn.client.cli.NodeCLI		0.54310346
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testNodesHelpCommand_2s
+testNodesHelpCommand
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.73333335
+org.apache.hadoop.yarn.client.cli.NodeCLI		0.21551724
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/clover/org/apache/hadoop/yarn/client/cli/TestYarnCLI_testNodesHelpCommand_4u
+testNodesHelpCommand
+org.apache.hadoop.yarn.client.api.YarnClient		1.0
+org.apache.hadoop.yarn.client.cli.YarnCLI		0.73333335
+org.apache.hadoop.yarn.client.cli.NodeCLI		0.21551724
+org.apache.hadoop.yarn.client.api.impl.YarnClientImpl		0.06774194
+-- -- -- -- -- -- -- -- -- -- -- -- --

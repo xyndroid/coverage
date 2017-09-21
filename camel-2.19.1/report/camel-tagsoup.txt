@@ -1,0 +1,30 @@
+./components/camel-tagsoup/target/site/clover/org/apache/camel
+./components/camel-tagsoup/target/site/clover/org/apache/camel/dataformat/tagsoup/TidyMarkupDataFormatAsDomNodeTest
+TidyMarkupDataFormatAsDomNodeTest		0.95238096
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tagsoup/target/site/clover/org/apache/camel/dataformat/tagsoup/TidyMarkupDataFormatAsDomNodeTest_testUnMarshalToStringOfXml_1
+org.apache.camel.dataformat.tagsoup.TidyMarkupDataFormat		0.48
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tagsoup/target/site/clover/org/apache/camel/dataformat/tagsoup/TidyMarkupDataFormatAsStringTest
+TidyMarkupDataFormatAsStringTest		0.95
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tagsoup/target/site/clover/org/apache/camel/dataformat/tagsoup/TidyMarkupDataFormatAsStringTest_testUnMarshalToStringOfXml_2
+org.apache.camel.dataformat.tagsoup.TidyMarkupDataFormat		0.48
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tagsoup/target/site/clover/org/apache/camel/dataformat/tagsoup/TidyMarkupDataFormatWithUnmarshalTypeTest
+TidyMarkupDataFormatWithUnmarshalTypeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tagsoup/target/site/clover/org/apache/camel/dataformat/tagsoup/TidyMarkupDataFormatWithUnmarshalTypeTest_testUnMarshalToStringOfXml_0
+org.apache.camel.dataformat.tagsoup.TidyMarkupDataFormat		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tagsoup/target/site/clover/org/apache/camel/dataformat/tagsoup/TidyMarkupTestSupport
+TidyMarkupTestSupport		0.4347826
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tagsoup/target/site/clover/org/apache/camel/dataformat/tagsoup/test-TidyMarkupDataFormatAsDomNodeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tagsoup/target/site/clover/org/apache/camel/dataformat/tagsoup/test-TidyMarkupDataFormatAsStringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tagsoup/target/site/clover/org/apache/camel/dataformat/tagsoup/test-TidyMarkupDataFormatWithUnmarshalTypeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tagsoup/target/site/clover/org/apache/camel/dataformat/tagsoup/test-TidyMarkupTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --

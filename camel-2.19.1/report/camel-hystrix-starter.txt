@@ -1,0 +1,34 @@
+./platforms/spring-boot/components-starter/camel-hystrix-starter/target/site/clover/org/apache/camel
+./platforms/spring-boot/components-starter/camel-hystrix-starter/target/site/clover/org/apache/camel/component/hystrix/processor/HystrixHierarchicalConfigurationTest
+HystrixHierarchicalConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-hystrix-starter/target/site/clover/org/apache/camel/component/hystrix/processor/HystrixHierarchicalConfigurationTest_testConfiguration_3
+testConfiguration
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-hystrix-starter/target/site/clover/org/apache/camel/component/hystrix/processor/HystrixMultiConfigurationTest
+HystrixMultiConfigurationTest		0.73913044
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-hystrix-starter/target/site/clover/org/apache/camel/component/hystrix/processor/HystrixMultiConfigurationTest_testBeans_0
+testBeans
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-hystrix-starter/target/site/clover/org/apache/camel/component/hystrix/processor/HystrixMultiConfigurationTest_testConfigurations_1
+testConfigurations
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-hystrix-starter/target/site/clover/org/apache/camel/component/hystrix/processor/test-HystrixHierarchicalConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-hystrix-starter/target/site/clover/org/apache/camel/component/hystrix/processor/test-HystrixMultiConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-hystrix-starter/target/site/clover/org/apache/camel/component/hystrix/springboot/test/HystrixMappingAutoConfigurationTest
+HystrixMappingAutoConfigurationTest		0.9166667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-hystrix-starter/target/site/clover/org/apache/camel/component/hystrix/springboot/test/HystrixMappingAutoConfigurationTest_testHystrixServletMapping_2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-hystrix-starter/target/site/clover/org/apache/camel/component/hystrix/springboot/test/HystrixMappingDisablingTest
+HystrixMappingDisablingTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-hystrix-starter/target/site/clover/org/apache/camel/component/hystrix/springboot/test/HystrixMappingDisablingTest_testHystrixServletMapping_4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-hystrix-starter/target/site/clover/org/apache/camel/component/hystrix/springboot/test/test-HystrixMappingAutoConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-hystrix-starter/target/site/clover/org/apache/camel/component/hystrix/springboot/test/test-HystrixMappingDisablingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

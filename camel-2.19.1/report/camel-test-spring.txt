@@ -1,0 +1,168 @@
+./components/camel-test-spring/target/site/clover/org/apache/camel
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/issues/AdviceWithInterceptSendToEndpointWithLoadbalancerTest
+AdviceWithInterceptSendToEndpointWithLoadbalancerTest		0.15384616
+AdviceWithInterceptSendToEndpointWithLoadbalancerTest.LoadbalancerTestRoute		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/issues/AdviceWithOnExceptionMultipleIssueTest
+AdviceWithOnExceptionMultipleIssueTest		0.054054055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/issues/MockEndpointsAndSkipTest
+MockEndpointsAndSkipTest		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/issues/test-AdviceWithInterceptSendToEndpointWithLoadbalancerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/issues/test-AdviceWithInterceptSendToEndpointWithLoadbalancerTest_LoadbalancerTestRoute
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/issues/test-AdviceWithOnExceptionMultipleIssueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/issues/test-MockEndpointsAndSkipTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/patterns/DebugSpringCamelContextTest
+DebugSpringCamelContextTest		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/patterns/DebugSpringTest
+DebugSpringTest		0.23529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/patterns/ProduceBeanTest
+ProduceBeanTest		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/patterns/ProducerBeanInjectTest
+ProducerBeanInjectTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/patterns/ProducerBeanInjectTest_checkProducerBeanInjection_0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/patterns/ProducerBeanInjectTest_checkProducerBeanInjection_1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/patterns/ProducerBeanInjectTest_checkProducerBeanInjection_2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/patterns/SimpleMockTest
+SimpleMockTest		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/patterns/test-DebugSpringCamelContextTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/patterns/test-DebugSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/patterns/test-ProduceBeanTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/patterns/test-ProducerBeanInjectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/patterns/test-SimpleMockTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/CamelSpringActiveProfileTest
+CamelSpringActiveProfileTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/CamelSpringDelegatingTestContextLoader
+CamelSpringDelegatingTestContextLoader		0.7777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/CamelSpringOverridePropertiesTest
+CamelSpringOverridePropertiesTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/CamelSpringPropertiesLocationElementTest
+CamelSpringPropertiesLocationElementTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/CamelSpringRunnerDisableJmxInheritedOverrideTest
+CamelSpringRunnerDisableJmxInheritedOverrideTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/CamelSpringRunnerDisableJmxInheritedTest
+CamelSpringRunnerDisableJmxInheritedTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/CamelSpringRunnerDisableJmxTest
+CamelSpringRunnerDisableJmxTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/CamelSpringRunnerExcludeRoutesTest
+CamelSpringRunnerExcludeRoutesTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/CamelSpringRunnerMockEndpointsAndSkipTest
+CamelSpringRunnerMockEndpointsAndSkipTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/CamelSpringRunnerMockEndpointsTest
+CamelSpringRunnerMockEndpointsTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/CamelSpringRunnerPlainTest
+CamelSpringRunnerPlainTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/CamelSpringRunnerProvidesBreakpointInherritedTest
+CamelSpringRunnerProvidesBreakpointInherritedTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/CamelSpringRunnerProvidesBreakpointTest
+CamelSpringRunnerProvidesBreakpointTest		0.0
+CamelSpringRunnerProvidesBreakpointTest.TestBreakpoint		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/CamelSpringRunnerShutdownTimeoutInheritedOverrideTest
+CamelSpringRunnerShutdownTimeoutInheritedOverrideTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/CamelSpringRunnerShutdownTimeoutInheritedTest
+CamelSpringRunnerShutdownTimeoutInheritedTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/CamelSpringRunnerShutdownTimeoutTest
+CamelSpringRunnerShutdownTimeoutTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/CamelSpringRunnerUseAdviceWithTest
+CamelSpringRunnerUseAdviceWithTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/CamelSpringTestContextLoader
+CamelSpringTestContextLoader		0.22709164
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/CamelSpringTestContextLoaderTestExecutionListener
+CamelSpringTestContextLoaderTestExecutionListener		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/CamelSpringTestHelper
+CamelSpringTestHelper		0.90909094
+CamelSpringTestHelper.DoToSpringCamelContextsStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/CamelSpringTestSupport
+CamelSpringTestSupport		0.5113636
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/CamelSpringTestSupportActiveProfileTest
+CamelSpringTestSupportActiveProfileTest		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/CamelTestContextBootstrapper
+CamelTestContextBootstrapper		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/DisableJmxTestExecutionListener
+DisableJmxTestExecutionListener		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/StopWatchTestExecutionListener
+StopWatchTestExecutionListener		0.88235295
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/TestRouteBuilder
+TestRouteBuilder		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/test-CamelSpringActiveProfileTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/test-CamelSpringOverridePropertiesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/test-CamelSpringPropertiesLocationElementTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/test-CamelSpringRunnerDisableJmxInheritedOverrideTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/test-CamelSpringRunnerDisableJmxInheritedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/test-CamelSpringRunnerDisableJmxTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/test-CamelSpringRunnerExcludeRoutesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/test-CamelSpringRunnerMockEndpointsAndSkipTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/test-CamelSpringRunnerMockEndpointsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/test-CamelSpringRunnerPlainTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/test-CamelSpringRunnerProvidesBreakpointInherritedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/test-CamelSpringRunnerProvidesBreakpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/test-CamelSpringRunnerProvidesBreakpointTest_TestBreakpoint
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/test-CamelSpringRunnerShutdownTimeoutInheritedOverrideTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/test-CamelSpringRunnerShutdownTimeoutInheritedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/test-CamelSpringRunnerShutdownTimeoutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/test-CamelSpringRunnerUseAdviceWithTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/test-CamelSpringTestSupportActiveProfileTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-spring/target/site/clover/org/apache/camel/test/spring/test-TestRouteBuilder
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,41 @@
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-tests/target/clover/org/apache/hadoop
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-tests/target/clover/org/apache/hadoop/yarn/server/TestContainerManagerSecurity
+TestContainerManagerSecurity		0.8774704
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-tests/target/clover/org/apache/hadoop/yarn/server/TestContainerManagerSecurity_testContainerManager_13
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-tests/target/clover/org/apache/hadoop/yarn/server/TestContainerManagerSecurity_testContainerManager_3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-tests/target/clover/org/apache/hadoop/yarn/server/TestContainerManagerSecurity_testContainerManager_5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-tests/target/clover/org/apache/hadoop/yarn/server/TestContainerManagerSecurity_testContainerManager_o
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-tests/target/clover/org/apache/hadoop/yarn/server/TestDiskFailures
+TestDiskFailures		0.963964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-tests/target/clover/org/apache/hadoop/yarn/server/TestDiskFailures_testDirFailuresOnStartup_2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-tests/target/clover/org/apache/hadoop/yarn/server/TestDiskFailures_testDirFailuresOnStartup_2r
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-tests/target/clover/org/apache/hadoop/yarn/server/TestDiskFailures_testLocalDirsFailures_0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-tests/target/clover/org/apache/hadoop/yarn/server/TestDiskFailures_testLocalDirsFailures_32
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-tests/target/clover/org/apache/hadoop/yarn/server/TestDiskFailures_testLogDirsFailures_1x
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-tests/target/clover/org/apache/hadoop/yarn/server/TestDiskFailures_testLogDirsFailures_6
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-tests/target/clover/org/apache/hadoop/yarn/server/TestMiniYARNClusterForHA
+TestMiniYARNClusterForHA		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-tests/target/clover/org/apache/hadoop/yarn/server/TestMiniYARNClusterForHA_testClusterWorks_1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-tests/target/clover/org/apache/hadoop/yarn/server/TestMiniYARNClusterForHA_testClusterWorks_3h
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-tests/target/clover/org/apache/hadoop/yarn/server/TestRMNMSecretKeys
+TestRMNMSecretKeys		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-tests/target/clover/org/apache/hadoop/yarn/server/TestRMNMSecretKeys_testNMUpdation_1f
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-tests/target/clover/org/apache/hadoop/yarn/server/TestRMNMSecretKeys_testNMUpdation_4
+-- -- -- -- -- -- -- -- -- -- -- -- --

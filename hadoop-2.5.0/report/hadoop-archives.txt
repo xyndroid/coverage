@@ -1,0 +1,36 @@
+./hadoop-tools/hadoop-archives/target/clover/org/apache/hadoop
+./hadoop-tools/hadoop-archives/target/clover/org/apache/hadoop/tools/TestHadoopArchives
+TestHadoopArchives		0.9491525
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-archives/target/clover/org/apache/hadoop/tools/TestHadoopArchives_testCopyToLocal_3
+org.apache.hadoop.tools.HadoopArchives.HArchiveInputFormat		0.76086956
+org.apache.hadoop.tools.HadoopArchives.HArchivesMapper		0.73913044
+org.apache.hadoop.tools.HadoopArchives		0.70034844
+org.apache.hadoop.tools.HadoopArchives.HArchivesReducer		0.7
+org.apache.hadoop.tools.HadoopArchives.HarEntry		0.6296296
+org.apache.hadoop.tools.HadoopArchives.FileStatusDir		0.5555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-archives/target/clover/org/apache/hadoop/tools/TestHadoopArchives_testPathWithSpaces_0
+org.apache.hadoop.tools.HadoopArchives.HarEntry		1.0
+org.apache.hadoop.tools.HadoopArchives.FileStatusDir		1.0
+org.apache.hadoop.tools.HadoopArchives.HArchivesMapper		0.884058
+org.apache.hadoop.tools.HadoopArchives		0.7979094
+org.apache.hadoop.tools.HadoopArchives.HArchiveInputFormat		0.76086956
+org.apache.hadoop.tools.HadoopArchives.HArchivesReducer		0.7
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-archives/target/clover/org/apache/hadoop/tools/TestHadoopArchives_testReadFileContent_2
+org.apache.hadoop.tools.HadoopArchives.HarEntry		1.0
+org.apache.hadoop.tools.HadoopArchives.FileStatusDir		1.0
+org.apache.hadoop.tools.HadoopArchives.HArchivesMapper		0.884058
+org.apache.hadoop.tools.HadoopArchives		0.7979094
+org.apache.hadoop.tools.HadoopArchives.HArchiveInputFormat		0.76086956
+org.apache.hadoop.tools.HadoopArchives.HArchivesReducer		0.7
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-archives/target/clover/org/apache/hadoop/tools/TestHadoopArchives_testRelativePath_1
+org.apache.hadoop.tools.HadoopArchives.HarEntry		1.0
+org.apache.hadoop.tools.HadoopArchives.FileStatusDir		1.0
+org.apache.hadoop.tools.HadoopArchives.HArchivesMapper		0.884058
+org.apache.hadoop.tools.HadoopArchives		0.7979094
+org.apache.hadoop.tools.HadoopArchives.HArchiveInputFormat		0.76086956
+org.apache.hadoop.tools.HadoopArchives.HArchivesReducer		0.7
+-- -- -- -- -- -- -- -- -- -- -- -- --

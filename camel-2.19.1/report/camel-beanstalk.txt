@@ -1,0 +1,318 @@
+./components/camel-beanstalk/target/site/clover/org/apache/camel
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/AwaitingConsumerTest
+AwaitingConsumerTest		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/AwaitingConsumerTest_testBeanstalkException_g
+org.apache.camel.component.beanstalk.processors.DefaultCommand		0.61538464
+org.apache.camel.component.beanstalk.BeanstalkConsumer.Sync.RunCommand		0.5833333
+org.apache.camel.component.beanstalk.processors.DeleteCommand		0.5
+org.apache.camel.component.beanstalk.BeanstalkConsumer		0.4623656
+org.apache.camel.component.beanstalk.BeanstalkExchangeHelper		0.22222222
+org.apache.camel.component.beanstalk.BeanstalkConsumer.Sync		0.13043478
+org.apache.camel.component.beanstalk.BeanstalkEndpoint		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/AwaitingConsumerTest_testReceive_5
+org.apache.camel.component.beanstalk.processors.DefaultCommand		0.61538464
+org.apache.camel.component.beanstalk.BeanstalkConsumer.Sync.RunCommand		0.5833333
+org.apache.camel.component.beanstalk.processors.DeleteCommand		0.5
+org.apache.camel.component.beanstalk.BeanstalkConsumer		0.37634408
+org.apache.camel.component.beanstalk.BeanstalkExchangeHelper		0.22222222
+org.apache.camel.component.beanstalk.BeanstalkConsumer.Sync		0.13043478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/AwaitingConsumerTest_testReceive_t
+org.apache.camel.component.beanstalk.BeanstalkConsumer		0.32258064
+org.apache.camel.component.beanstalk.BeanstalkConsumer.Sync.RunCommand		0.25
+org.apache.camel.component.beanstalk.BeanstalkConsumer.Sync		0.13043478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/AwaitingConsumerTest_testReceive_x
+org.apache.camel.component.beanstalk.BeanstalkConsumer		0.32258064
+org.apache.camel.component.beanstalk.BeanstalkConsumer.Sync.RunCommand		0.25
+org.apache.camel.component.beanstalk.BeanstalkConsumer.Sync		0.13043478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/BeanstalkMockTestSupport
+BeanstalkMockTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/ConnectionSettingsTest
+ConnectionSettingsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/ConnectionSettingsTest_notValidHost_9
+org.apache.camel.component.beanstalk.ConnectionSettingsFactory		0.29411766
+org.apache.camel.component.beanstalk.BeanstalkComponent		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/ConnectionSettingsTest_parseTubesTest_o
+org.apache.camel.component.beanstalk.ConnectionSettingsFactory		0.7647059
+org.apache.camel.component.beanstalk.ConnectionSettings		0.3043478
+org.apache.camel.component.beanstalk.BeanstalkComponent		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/ConnectionSettingsTest_parseUriTest_q
+org.apache.camel.component.beanstalk.ConnectionSettingsFactory		0.7647059
+org.apache.camel.component.beanstalk.ConnectionSettings		0.41304347
+org.apache.camel.component.beanstalk.BeanstalkComponent		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/ConsumerCompletionTest
+ConsumerCompletionTest		0.6712329
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/ConsumerCompletionTest_testBeanstalkException_j
+org.apache.camel.component.beanstalk.BeanstalkConsumer		0.4623656
+org.apache.camel.component.beanstalk.BeanstalkEndpoint		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/ConsumerCompletionTest_testDeleteOnComplete_b
+org.apache.camel.component.beanstalk.BeanstalkConsumer		0.32258064
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/ConsumerCompletionTest_testDeleteOnComplete_i
+org.apache.camel.component.beanstalk.BeanstalkConsumer		0.32258064
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/ConsumerCompletionTest_testDeleteOnComplete_u
+org.apache.camel.component.beanstalk.BeanstalkConsumer		0.32258064
+org.apache.camel.component.beanstalk.BeanstalkConsumer.Sync.RunCommand		0.25
+org.apache.camel.component.beanstalk.BeanstalkConsumer.Sync		0.13043478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/ConsumerCompletionTest_testReleaseOnFailure_f
+org.apache.camel.component.beanstalk.BeanstalkExchangeHelper		0.6666667
+org.apache.camel.component.beanstalk.processors.ReleaseCommand		0.64705884
+org.apache.camel.component.beanstalk.processors.DefaultCommand		0.61538464
+org.apache.camel.component.beanstalk.BeanstalkConsumer.Sync.RunCommand		0.5833333
+org.apache.camel.component.beanstalk.BeanstalkConsumer		0.32258064
+org.apache.camel.component.beanstalk.BeanstalkConsumer.Sync		0.13043478
+org.apache.camel.component.beanstalk.BeanstalkEndpoint		0.053333335
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/ConsumerToProducerHeadersTest
+ConsumerToProducerHeadersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/ConsumerToProducerHeadersTest_testBeanstalkConsumerToProducer_c
+org.apache.camel.component.beanstalk.processors.PutCommand		0.6923077
+org.apache.camel.component.beanstalk.BeanstalkExchangeHelper		0.6666667
+org.apache.camel.component.beanstalk.BeanstalkProducer.RunCommand		0.625
+org.apache.camel.component.beanstalk.processors.DefaultCommand		0.61538464
+org.apache.camel.component.beanstalk.BeanstalkConsumer		0.43010753
+org.apache.camel.component.beanstalk.BeanstalkConsumer.Sync.RunCommand		0.25
+org.apache.camel.component.beanstalk.BeanstalkConsumer.Sync		0.13043478
+org.apache.camel.component.beanstalk.BeanstalkProducer		0.10810811
+org.apache.camel.component.beanstalk.BeanstalkEndpoint		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/EndpointTest
+EndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/EndpointTest_testCommand_l
+org.apache.camel.component.beanstalk.ConnectionSettingsFactory		0.64705884
+org.apache.camel.component.beanstalk.BeanstalkComponent		0.6
+org.apache.camel.component.beanstalk.ConnectionSettings		0.3043478
+org.apache.camel.component.beanstalk.BeanstalkEndpoint		0.13333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/EndpointTest_testDelay_k
+org.apache.camel.component.beanstalk.ConnectionSettingsFactory		0.64705884
+org.apache.camel.component.beanstalk.BeanstalkComponent		0.6
+org.apache.camel.component.beanstalk.ConnectionSettings		0.3043478
+org.apache.camel.component.beanstalk.BeanstalkEndpoint		0.13333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/EndpointTest_testPriority_1
+org.apache.camel.component.beanstalk.ConnectionSettingsFactory		0.64705884
+org.apache.camel.component.beanstalk.BeanstalkComponent		0.6
+org.apache.camel.component.beanstalk.ConnectionSettings		0.3043478
+org.apache.camel.component.beanstalk.BeanstalkEndpoint		0.13333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/EndpointTest_testTimeToRun_p
+org.apache.camel.component.beanstalk.ConnectionSettingsFactory		0.64705884
+org.apache.camel.component.beanstalk.BeanstalkComponent		0.6
+org.apache.camel.component.beanstalk.ConnectionSettings		0.3043478
+org.apache.camel.component.beanstalk.BeanstalkEndpoint		0.13333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/EndpointTest_testTubes_0
+org.apache.camel.component.beanstalk.ConnectionSettingsFactory		0.64705884
+org.apache.camel.component.beanstalk.BeanstalkComponent		0.6
+org.apache.camel.component.beanstalk.ConnectionSettings		0.3043478
+org.apache.camel.component.beanstalk.BeanstalkEndpoint		0.13333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/ImmediateConsumerTest
+ImmediateConsumerTest		0.9512195
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/ImmediateConsumerTest_testDeleteOnFailure_2
+org.apache.camel.component.beanstalk.BeanstalkConsumer		0.37634408
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/ImmediateConsumerTest_testDeleteOnSuccess_z
+org.apache.camel.component.beanstalk.BeanstalkConsumer		0.32258064
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/ProducerTest
+ProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/ProducerTest_test1BeanstalkException_3
+org.apache.camel.component.beanstalk.BeanstalkProducer.RunCommand		0.75
+org.apache.camel.component.beanstalk.processors.PutCommand		0.6923077
+org.apache.camel.component.beanstalk.BeanstalkExchangeHelper		0.6666667
+org.apache.camel.component.beanstalk.processors.DefaultCommand		0.61538464
+org.apache.camel.component.beanstalk.BeanstalkProducer		0.45945945
+org.apache.camel.component.beanstalk.BeanstalkEndpoint		0.10666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/ProducerTest_test2BeanstalkException_d
+org.apache.camel.component.beanstalk.BeanstalkProducer.RunCommand		0.8125
+org.apache.camel.component.beanstalk.BeanstalkProducer		0.6486486
+org.apache.camel.component.beanstalk.processors.TouchCommand		0.35714287
+org.apache.camel.component.beanstalk.BeanstalkEndpoint		0.24
+org.apache.camel.component.beanstalk.processors.DefaultCommand		0.15384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/ProducerTest_testBuryNoJobId_n
+org.apache.camel.component.beanstalk.BeanstalkProducer.RunCommand		0.6875
+org.apache.camel.component.beanstalk.BeanstalkProducer		0.5135135
+org.apache.camel.component.beanstalk.processors.BuryCommand		0.26666668
+org.apache.camel.component.beanstalk.BeanstalkExchangeHelper		0.22222222
+org.apache.camel.component.beanstalk.BeanstalkEndpoint		0.21333334
+org.apache.camel.component.beanstalk.processors.DefaultCommand		0.15384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/ProducerTest_testBuryWithHeaders_r
+org.apache.camel.component.beanstalk.processors.DefaultCommand		0.7692308
+org.apache.camel.component.beanstalk.processors.BuryCommand		0.73333335
+org.apache.camel.component.beanstalk.BeanstalkProducer.RunCommand		0.625
+org.apache.camel.component.beanstalk.BeanstalkProducer		0.5135135
+org.apache.camel.component.beanstalk.BeanstalkExchangeHelper		0.44444445
+org.apache.camel.component.beanstalk.BeanstalkEndpoint		0.24
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/ProducerTest_testBury_y
+org.apache.camel.component.beanstalk.processors.DefaultCommand		0.7692308
+org.apache.camel.component.beanstalk.processors.BuryCommand		0.73333335
+org.apache.camel.component.beanstalk.BeanstalkProducer.RunCommand		0.625
+org.apache.camel.component.beanstalk.BeanstalkProducer		0.5135135
+org.apache.camel.component.beanstalk.BeanstalkExchangeHelper		0.44444445
+org.apache.camel.component.beanstalk.BeanstalkEndpoint		0.24
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/ProducerTest_testDeleteNoJobId_w
+org.apache.camel.component.beanstalk.BeanstalkProducer.RunCommand		0.6875
+org.apache.camel.component.beanstalk.BeanstalkProducer		0.5135135
+org.apache.camel.component.beanstalk.processors.DeleteCommand		0.2857143
+org.apache.camel.component.beanstalk.BeanstalkEndpoint		0.26666668
+org.apache.camel.component.beanstalk.BeanstalkExchangeHelper		0.22222222
+org.apache.camel.component.beanstalk.processors.DefaultCommand		0.15384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/ProducerTest_testDelete_e
+org.apache.camel.component.beanstalk.processors.DefaultCommand		0.7692308
+org.apache.camel.component.beanstalk.processors.DeleteCommand		0.71428573
+org.apache.camel.component.beanstalk.BeanstalkProducer.RunCommand		0.625
+org.apache.camel.component.beanstalk.BeanstalkProducer		0.5135135
+org.apache.camel.component.beanstalk.BeanstalkEndpoint		0.26666668
+org.apache.camel.component.beanstalk.BeanstalkExchangeHelper		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/ProducerTest_testHeaderOverride_s
+org.apache.camel.component.beanstalk.processors.PutCommand		0.6923077
+org.apache.camel.component.beanstalk.BeanstalkExchangeHelper		0.6666667
+org.apache.camel.component.beanstalk.BeanstalkProducer.RunCommand		0.625
+org.apache.camel.component.beanstalk.processors.DefaultCommand		0.61538464
+org.apache.camel.component.beanstalk.BeanstalkProducer		0.27027026
+org.apache.camel.component.beanstalk.BeanstalkEndpoint		0.10666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/ProducerTest_testPutOut_8
+org.apache.camel.component.beanstalk.processors.DefaultCommand		0.9230769
+org.apache.camel.component.beanstalk.processors.PutCommand		0.84615386
+org.apache.camel.component.beanstalk.BeanstalkExchangeHelper		0.6666667
+org.apache.camel.component.beanstalk.BeanstalkProducer.RunCommand		0.625
+org.apache.camel.component.beanstalk.BeanstalkProducer		0.5135135
+org.apache.camel.component.beanstalk.BeanstalkEndpoint		0.21333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/ProducerTest_testPutWithHeaders_6
+org.apache.camel.component.beanstalk.processors.PutCommand		0.84615386
+org.apache.camel.component.beanstalk.processors.DefaultCommand		0.7692308
+org.apache.camel.component.beanstalk.BeanstalkExchangeHelper		0.6666667
+org.apache.camel.component.beanstalk.BeanstalkProducer.RunCommand		0.625
+org.apache.camel.component.beanstalk.BeanstalkProducer		0.5135135
+org.apache.camel.component.beanstalk.BeanstalkEndpoint		0.21333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/ProducerTest_testPut_a
+org.apache.camel.component.beanstalk.processors.PutCommand		0.84615386
+org.apache.camel.component.beanstalk.processors.DefaultCommand		0.7692308
+org.apache.camel.component.beanstalk.BeanstalkExchangeHelper		0.6666667
+org.apache.camel.component.beanstalk.BeanstalkProducer.RunCommand		0.625
+org.apache.camel.component.beanstalk.BeanstalkProducer		0.5135135
+org.apache.camel.component.beanstalk.BeanstalkEndpoint		0.21333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/ProducerTest_testReleaseNoJobId_m
+org.apache.camel.component.beanstalk.BeanstalkProducer.RunCommand		0.6875
+org.apache.camel.component.beanstalk.BeanstalkProducer		0.5135135
+org.apache.camel.component.beanstalk.processors.ReleaseCommand		0.29411766
+org.apache.camel.component.beanstalk.BeanstalkExchangeHelper		0.22222222
+org.apache.camel.component.beanstalk.BeanstalkEndpoint		0.18666667
+org.apache.camel.component.beanstalk.processors.DefaultCommand		0.15384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/ProducerTest_testReleaseWithHeaders_h
+org.apache.camel.component.beanstalk.processors.DefaultCommand		0.7692308
+org.apache.camel.component.beanstalk.processors.ReleaseCommand		0.7647059
+org.apache.camel.component.beanstalk.BeanstalkExchangeHelper		0.6666667
+org.apache.camel.component.beanstalk.BeanstalkProducer.RunCommand		0.625
+org.apache.camel.component.beanstalk.BeanstalkProducer		0.5135135
+org.apache.camel.component.beanstalk.BeanstalkEndpoint		0.24
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/ProducerTest_testRelease_7
+org.apache.camel.component.beanstalk.processors.DefaultCommand		0.7692308
+org.apache.camel.component.beanstalk.processors.ReleaseCommand		0.7647059
+org.apache.camel.component.beanstalk.BeanstalkExchangeHelper		0.6666667
+org.apache.camel.component.beanstalk.BeanstalkProducer.RunCommand		0.625
+org.apache.camel.component.beanstalk.BeanstalkProducer		0.5135135
+org.apache.camel.component.beanstalk.BeanstalkEndpoint		0.24
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/ProducerTest_testTouchNoJobId_4
+org.apache.camel.component.beanstalk.BeanstalkProducer.RunCommand		0.6875
+org.apache.camel.component.beanstalk.BeanstalkProducer		0.5135135
+org.apache.camel.component.beanstalk.processors.TouchCommand		0.2857143
+org.apache.camel.component.beanstalk.BeanstalkEndpoint		0.24
+org.apache.camel.component.beanstalk.processors.DefaultCommand		0.15384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/ProducerTest_testTouch_v
+org.apache.camel.component.beanstalk.processors.DefaultCommand		0.7692308
+org.apache.camel.component.beanstalk.processors.TouchCommand		0.71428573
+org.apache.camel.component.beanstalk.BeanstalkProducer.RunCommand		0.625
+org.apache.camel.component.beanstalk.BeanstalkProducer		0.5135135
+org.apache.camel.component.beanstalk.BeanstalkEndpoint		0.24
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/TestExchangeCopyProcessor
+TestExchangeCopyProcessor		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/integration/BeanstalkCamelTestSupport
+BeanstalkCamelTestSupport		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/integration/BuryProducerIntegrationTest
+BuryProducerIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/integration/ConsumerIntegrationTest
+ConsumerIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/integration/DeleteProducerIntegrationTest
+DeleteProducerIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/integration/PutProducerIntegrationTest
+PutProducerIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/integration/ReleaseProducerIntegrationTest
+ReleaseProducerIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/integration/TouchProducerIntegrationTest
+TouchProducerIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/integration/test-BeanstalkCamelTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/integration/test-BuryProducerIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/integration/test-ConsumerIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/integration/test-DeleteProducerIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/integration/test-PutProducerIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/integration/test-ReleaseProducerIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/integration/test-TouchProducerIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/test-AwaitingConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/test-BeanstalkMockTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/test-ConnectionSettingsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/test-ConsumerCompletionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/test-ConsumerToProducerHeadersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/test-EndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/test-ImmediateConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/test-ProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanstalk/target/site/clover/org/apache/camel/component/beanstalk/test-TestExchangeCopyProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --

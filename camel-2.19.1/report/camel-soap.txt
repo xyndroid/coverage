@@ -1,0 +1,325 @@
+./components/camel-soap/target/site/clover/org/apache/camel
+./components/camel-soap/target/site/clover/org/apache/camel/converter/soap/name/QNameStrategyTest
+QNameStrategyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/converter/soap/name/QNameStrategyTest_testQName_a
+testQName
+org.apache.camel.dataformat.soap.name.QNameStrategy		0.6666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/converter/soap/name/ServiceInterfaceStrategyTest
+ServiceInterfaceStrategyTest		0.92
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/converter/soap/name/ServiceInterfaceStrategyTest_testMultiPart_z
+testMultiPart
+org.apache.camel.dataformat.soap.name.TypeInfo		1.0
+org.apache.camel.dataformat.soap.name.MethodInfo		0.8181818
+org.apache.camel.dataformat.soap.name.ServiceInterfaceStrategy		0.6594203
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/converter/soap/name/ServiceInterfaceStrategyTest_testServiceInterfaceStrategyWithClient_7
+testServiceInterfaceStrategyWithClient
+org.apache.camel.dataformat.soap.name.TypeInfo		1.0
+org.apache.camel.dataformat.soap.name.ServiceInterfaceStrategy		0.73188406
+org.apache.camel.dataformat.soap.name.MethodInfo		0.72727275
+org.apache.camel.dataformat.soap.name.TypeNameStrategy		0.18518518
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/converter/soap/name/ServiceInterfaceStrategyTest_testServiceInterfaceStrategyWithRequestWrapperAndClient_12
+testServiceInterfaceStrategyWithRequestWrapperAndClient
+org.apache.camel.dataformat.soap.name.TypeInfo		1.0
+org.apache.camel.dataformat.soap.name.MethodInfo		0.72727275
+org.apache.camel.dataformat.soap.name.ServiceInterfaceStrategy		0.5
+org.apache.camel.dataformat.soap.name.TypeNameStrategy		0.18518518
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/converter/soap/name/ServiceInterfaceStrategyTest_testServiceInterfaceStrategyWithServer_6
+testServiceInterfaceStrategyWithServer
+org.apache.camel.dataformat.soap.name.TypeInfo		1.0
+org.apache.camel.dataformat.soap.name.MethodInfo		0.72727275
+org.apache.camel.dataformat.soap.name.ServiceInterfaceStrategy		0.7173913
+org.apache.camel.dataformat.soap.name.TypeNameStrategy		0.18518518
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/converter/soap/name/ServiceInterfaceStrategyTest_testWithNonWebservice_q
+testWithNonWebservice
+org.apache.camel.dataformat.soap.name.ServiceInterfaceStrategy		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/converter/soap/name/TypeNameStrategyTest
+TypeNameStrategyTest		0.9444444
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/converter/soap/name/TypeNameStrategyTest_testNoAnnotation_s
+testNoAnnotation
+org.apache.camel.dataformat.soap.name.TypeNameStrategy		0.18518518
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/converter/soap/name/TypeNameStrategyTest_testNoPackageInfo_g
+testNoPackageInfo
+org.apache.camel.dataformat.soap.name.TypeNameStrategy		0.5555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/converter/soap/name/TypeNameStrategyTest_testTypeNameStrategy_9
+testTypeNameStrategy
+org.apache.camel.dataformat.soap.name.TypeNameStrategy		0.5555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/converter/soap/name/XmlRootElementPreferringElementNameStrategyTest
+XmlRootElementPreferringElementNameStrategyTest		1.0
+XmlRootElementPreferringElementNameStrategyTest.Request		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/converter/soap/name/XmlRootElementPreferringElementNameStrategyTest_testFindExceptionForFaultName_p
+testFindExceptionForFaultName
+org.apache.camel.dataformat.soap.name.XmlRootElementPreferringElementNameStrategy		0.046511628
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/converter/soap/name/XmlRootElementPreferringElementNameStrategyTest_testFindQNameForSoapActionOrTypeWithXmlSchemaPresent_w
+testFindQNameForSoapActionOrTypeWithXmlSchemaPresent
+org.apache.camel.dataformat.soap.name.XmlRootElementPreferringElementNameStrategy		0.6511628
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/converter/soap/name/XmlRootElementPreferringElementNameStrategyTest_testFindQNameForSoapActionOrType_e
+testFindQNameForSoapActionOrType
+org.apache.camel.dataformat.soap.name.XmlRootElementPreferringElementNameStrategy		0.55813956
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/converter/soap/name/test-QNameStrategyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/converter/soap/name/test-ServiceInterfaceStrategyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/converter/soap/name/test-TypeNameStrategyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/converter/soap/name/test-XmlRootElementPreferringElementNameStrategyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/converter/soap/name/test-XmlRootElementPreferringElementNameStrategyTest_Request
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/MultiPartClientMarshalTest
+MultiPartClientMarshalTest		0.9411765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/MultiPartClientMarshalTest_testSendPayload_l
+org.apache.camel.dataformat.soap.SoapJaxbDataFormat		0.4180791
+org.apache.camel.dataformat.soap.name.TypeInfo		0.2857143
+org.apache.camel.dataformat.soap.Soap11DataFormatAdapter		0.23076923
+org.apache.camel.dataformat.soap.name.MethodInfo		0.09090909
+org.apache.camel.dataformat.soap.name.ServiceInterfaceStrategy		0.06521739
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/MultiPartCxfServerTest
+MultiPartCxfServerTest		0.9220779
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/MultiPartCxfServerTest_testSendRequestWithInAndInOutParts_4
+org.apache.camel.dataformat.soap.SoapJaxbDataFormat		0.5141243
+org.apache.camel.dataformat.soap.Soap11DataFormatAdapter		0.3923077
+org.apache.camel.dataformat.soap.name.TypeInfo		0.2857143
+org.apache.camel.dataformat.soap.name.MethodInfo		0.09090909
+org.apache.camel.dataformat.soap.name.ServiceInterfaceStrategy		0.06521739
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/MultiPartCxfServerTest_testSendRequestWithInPart_r
+org.apache.camel.dataformat.soap.SoapJaxbDataFormat		0.47457626
+org.apache.camel.dataformat.soap.Soap11DataFormatAdapter		0.35384616
+org.apache.camel.dataformat.soap.name.TypeInfo		0.2857143
+org.apache.camel.dataformat.soap.name.MethodInfo		0.09090909
+org.apache.camel.dataformat.soap.name.ServiceInterfaceStrategy		0.06521739
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/MultiPartCxfServerTest_testSendRequestWithReusedInAndInOutParts_u
+org.apache.camel.dataformat.soap.SoapJaxbDataFormat		0.5141243
+org.apache.camel.dataformat.soap.Soap11DataFormatAdapter		0.3923077
+org.apache.camel.dataformat.soap.name.TypeInfo		0.2857143
+org.apache.camel.dataformat.soap.name.MethodInfo		0.09090909
+org.apache.camel.dataformat.soap.name.ServiceInterfaceStrategy		0.06521739
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/SoapClientTest
+SoapClientTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/SoapClientTest_testRoundTripGetCustomersByName_11
+org.apache.camel.dataformat.soap.Soap11DataFormatAdapter		0.33846155
+org.apache.camel.dataformat.soap.SoapJaxbDataFormat		0.30508474
+org.apache.camel.dataformat.soap.name.ServiceInterfaceStrategy		0.0942029
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/SoapCxfClientTest
+SoapCxfClientTest		0.972973
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/SoapCxfClientTest_testFault_o
+org.apache.camel.dataformat.soap.Soap11DataFormatAdapter		0.43076923
+org.apache.camel.dataformat.soap.SoapJaxbDataFormat		0.20338982
+org.apache.camel.dataformat.soap.name.MethodInfo		0.09090909
+org.apache.camel.dataformat.soap.name.ServiceInterfaceStrategy		0.028985508
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/SoapCxfClientTest_testRoundTripGetAllCustomers_1
+org.apache.camel.dataformat.soap.SoapJaxbDataFormat		0.32768363
+org.apache.camel.dataformat.soap.Soap11DataFormatAdapter		0.3
+org.apache.camel.dataformat.soap.name.TypeInfo		0.2857143
+org.apache.camel.dataformat.soap.name.MethodInfo		0.18181819
+org.apache.camel.dataformat.soap.name.ServiceInterfaceStrategy		0.07971015
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/SoapCxfClientTest_testRoundTripSaveCustomer_k
+org.apache.camel.dataformat.soap.Soap11DataFormatAdapter		0.33076924
+org.apache.camel.dataformat.soap.SoapJaxbDataFormat		0.29943502
+org.apache.camel.dataformat.soap.name.TypeInfo		0.2857143
+org.apache.camel.dataformat.soap.name.MethodInfo		0.18181819
+org.apache.camel.dataformat.soap.name.ServiceInterfaceStrategy		0.07971015
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/SoapCxfClientTest_testSuccess_n
+org.apache.camel.dataformat.soap.Soap11DataFormatAdapter		0.33846155
+org.apache.camel.dataformat.soap.SoapJaxbDataFormat		0.32768363
+org.apache.camel.dataformat.soap.name.TypeInfo		0.2857143
+org.apache.camel.dataformat.soap.name.MethodInfo		0.18181819
+org.apache.camel.dataformat.soap.name.ServiceInterfaceStrategy		0.07971015
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/SoapCxfServerTest
+SoapCxfServerTest		0.95238096
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/SoapCxfServerTest_testFault_14
+org.apache.camel.dataformat.soap.Soap11DataFormatAdapter		0.47692308
+org.apache.camel.dataformat.soap.SoapJaxbDataFormat		0.31638417
+org.apache.camel.dataformat.soap.name.ServiceInterfaceStrategy		0.10869565
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/SoapCxfServerTest_testSuccess_10
+org.apache.camel.dataformat.soap.Soap11DataFormatAdapter		0.33846155
+org.apache.camel.dataformat.soap.SoapJaxbDataFormat		0.30508474
+org.apache.camel.dataformat.soap.name.ServiceInterfaceStrategy		0.0942029
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/SoapMarshalSetterTest
+SoapMarshalSetterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/SoapMarshalSetterTest_testMarshalException_2
+org.apache.camel.dataformat.soap.Soap11DataFormatAdapter		0.3
+org.apache.camel.dataformat.soap.SoapJaxbDataFormat		0.15819208
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/SoapMarshalSetterTest_testMarshalNormalObject_d
+org.apache.camel.dataformat.soap.name.TypeNameStrategy		0.5555556
+org.apache.camel.dataformat.soap.SoapJaxbDataFormat		0.28248587
+org.apache.camel.dataformat.soap.Soap11DataFormatAdapter		0.21538462
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/SoapMarshalTest
+SoapMarshalTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/SoapMarshalTest_testMarshalException_h
+org.apache.camel.dataformat.soap.Soap11DataFormatAdapter		0.3
+org.apache.camel.dataformat.soap.SoapJaxbDataFormat		0.12429378
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/SoapMarshalTest_testMarshalNormalObject_v
+org.apache.camel.dataformat.soap.name.TypeNameStrategy		0.5555556
+org.apache.camel.dataformat.soap.SoapJaxbDataFormat		0.24858756
+org.apache.camel.dataformat.soap.Soap11DataFormatAdapter		0.21538462
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/SoapRoundtripTest
+SoapRoundtripTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/SoapRoundtripTest_testRoundTrip_8
+org.apache.camel.dataformat.soap.name.TypeNameStrategy		0.5555556
+org.apache.camel.dataformat.soap.Soap11DataFormatAdapter		0.33846155
+org.apache.camel.dataformat.soap.SoapJaxbDataFormat		0.30508474
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/SoapServerTest
+SoapServerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/SoapServerTest_testFault_0
+org.apache.camel.dataformat.soap.Soap11DataFormatAdapter		0.43076923
+org.apache.camel.dataformat.soap.SoapJaxbDataFormat		0.18079096
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/SoapServerTest_testSuccess_b
+org.apache.camel.dataformat.soap.name.TypeNameStrategy		0.5555556
+org.apache.camel.dataformat.soap.Soap11DataFormatAdapter		0.33846155
+org.apache.camel.dataformat.soap.SoapJaxbDataFormat		0.30508474
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/SoapSpringRoundtripTest
+SoapSpringRoundtripTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/SoapSpringRoundtripTest_testRoundTrip_i
+org.apache.camel.dataformat.soap.SoapJaxbDataFormat		0.34463277
+org.apache.camel.dataformat.soap.Soap11DataFormatAdapter		0.33846155
+org.apache.camel.dataformat.soap.name.ServiceInterfaceStrategy		0.0942029
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/SoapToSoapDontIgnoreTest
+SoapToSoapDontIgnoreTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/SoapToSoapDontIgnoreTest_testSoapMarshal_13
+org.apache.camel.dataformat.soap.name.TypeNameStrategy		0.5555556
+org.apache.camel.dataformat.soap.Soap11DataFormatAdapter		0.42307693
+org.apache.camel.dataformat.soap.SoapJaxbDataFormat		0.30508474
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/SoapToSoapIgnoreTest
+SoapToSoapIgnoreTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/SoapToSoapIgnoreTest_testSoapMarshal_t
+org.apache.camel.dataformat.soap.name.TypeNameStrategy		0.5555556
+org.apache.camel.dataformat.soap.Soap11DataFormatAdapter		0.37692308
+org.apache.camel.dataformat.soap.SoapJaxbDataFormat		0.30508474
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/SoapToSoapSingleDataFormatterTest
+SoapToSoapSingleDataFormatterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/SoapToSoapSingleDataFormatterTest_testSoapMarshal_x
+org.apache.camel.dataformat.soap.name.TypeNameStrategy		0.5555556
+org.apache.camel.dataformat.soap.Soap11DataFormatAdapter		0.42307693
+org.apache.camel.dataformat.soap.SoapJaxbDataFormat		0.30508474
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/SoapUnMarshalTest
+SoapUnMarshalTest		0.95652175
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/SoapUnMarshalTest_testUnMarshalSoapFaultWithoutDetail_j
+org.apache.camel.dataformat.soap.Soap11DataFormatAdapter		0.18461539
+org.apache.camel.dataformat.soap.SoapJaxbDataFormat		0.17514125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/SoapUnMarshalTest_testUnMarshalSoap_3
+org.apache.camel.dataformat.soap.SoapJaxbDataFormat		0.17514125
+org.apache.camel.dataformat.soap.Soap11DataFormatAdapter		0.13846155
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/TestUtil
+TestUtil		0.875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/test-MultiPartClientMarshalTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/test-MultiPartCxfServerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/test-SoapClientTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/test-SoapCxfClientTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/test-SoapCxfServerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/test-SoapMarshalSetterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/test-SoapMarshalTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/test-SoapRoundtripTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/test-SoapServerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/test-SoapSpringRoundtripTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/test-SoapToSoapDontIgnoreTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/test-SoapToSoapIgnoreTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/test-SoapToSoapSingleDataFormatterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/test-SoapUnMarshalTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap/test-TestUtil
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap12/Soap12MarshalTest
+Soap12MarshalTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap12/Soap12MarshalTest_testMarshalException_f
+org.apache.camel.dataformat.soap.Soap12DataFormatAdapter		0.3188406
+org.apache.camel.dataformat.soap.SoapJaxbDataFormat		0.12429378
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap12/Soap12MarshalTest_testMarshalNormalObject_5
+org.apache.camel.dataformat.soap.name.TypeNameStrategy		0.5555556
+org.apache.camel.dataformat.soap.SoapJaxbDataFormat		0.24858756
+org.apache.camel.dataformat.soap.Soap12DataFormatAdapter		0.20289855
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap12/Soap12SpringRoundtripTest
+Soap12SpringRoundtripTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap12/Soap12SpringRoundtripTest_testRoundTrip_c
+org.apache.camel.dataformat.soap.SoapJaxbDataFormat		0.34463277
+org.apache.camel.dataformat.soap.Soap12DataFormatAdapter		0.3188406
+org.apache.camel.dataformat.soap.name.ServiceInterfaceStrategy		0.0942029
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap12/Soap12UnMarshalTest
+Soap12UnMarshalTest		0.95
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap12/Soap12UnMarshalTest_testUnMarshalSoapFaultWithoutDetail_y
+org.apache.camel.dataformat.soap.Soap12DataFormatAdapter		0.19565217
+org.apache.camel.dataformat.soap.SoapJaxbDataFormat		0.17514125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap12/Soap12UnMarshalTest_testUnMarshalSoap_m
+org.apache.camel.dataformat.soap.SoapJaxbDataFormat		0.17514125
+org.apache.camel.dataformat.soap.Soap12DataFormatAdapter		0.13043478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap12/test-Soap12MarshalTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap12/test-Soap12SpringRoundtripTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-soap/target/site/clover/org/apache/camel/dataformat/soap12/test-Soap12UnMarshalTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,119 @@
+./components/camel-gson/target/site/clover/org/apache/camel
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/GsonConcurrentTest
+GsonConcurrentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/GsonConcurrentTest_testConcurrentProducers_5
+org.apache.camel.component.gson.GsonDataFormat		0.136
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/GsonConcurrentTest_testNoConcurrentProducers_c
+org.apache.camel.component.gson.GsonDataFormat		0.136
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/GsonDataFormatTest
+GsonDataFormatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/GsonDataFormatTest_testList_4
+org.apache.camel.component.gson.GsonDataFormat		0.264
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/GsonDataFormatTest_testMap_e
+org.apache.camel.component.gson.GsonDataFormat		0.264
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/GsonDataFormatTest_testString_1
+org.apache.camel.component.gson.GsonDataFormat		0.264
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/GsonFieldNamePolicyTest
+GsonFieldNamePolicyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/GsonFieldNamePolicyTest_testMarshalPojo_g
+org.apache.camel.component.gson.GsonDataFormat		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/GsonFieldNamePolicyTest_testUnmarshalPojo_2
+org.apache.camel.component.gson.GsonDataFormat		0.056
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/GsonJsonDataFormatTest
+GsonJsonDataFormatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/GsonJsonDataFormatTest_testMarshalAndUnmarshalMap_8
+org.apache.camel.component.gson.GsonDataFormat		0.136
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/GsonJsonDataFormatTest_testMarshalAndUnmarshalPojo_h
+org.apache.camel.component.gson.GsonDataFormat		0.136
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/GsonJsonDataFormatTest_testUnmarshalMap_7
+org.apache.camel.component.gson.GsonDataFormat		0.056
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/GsonMarshalExclusionTest
+GsonMarshalExclusionTest		1.0
+GsonMarshalExclusionTest.WeightExclusionStrategy		1.0
+GsonMarshalExclusionTest.AgeExclusionStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/GsonMarshalExclusionTest_testMarshalAndUnmarshalPojoWithAnotherExclusion_6
+org.apache.camel.component.gson.GsonDataFormat		0.136
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/GsonMarshalExclusionTest_testMarshalAndUnmarshalPojoWithExclusion_9
+org.apache.camel.component.gson.GsonDataFormat		0.136
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/GsonMarshalListTest
+GsonMarshalListTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/GsonMarshalListTest_testMarshalAndUnmarshalPojo_a
+org.apache.camel.component.gson.GsonDataFormat		0.136
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/GsonMarshalTest
+GsonMarshalTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/GsonMarshalTest_testMarshalAndUnmarshalMap_f
+org.apache.camel.component.gson.GsonDataFormat		0.136
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/GsonMarshalTest_testMarshalAndUnmarshalPojo_3
+org.apache.camel.component.gson.GsonDataFormat		0.136
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/SpringGsonFieldNamePolicyTest
+SpringGsonFieldNamePolicyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/SpringGsonFieldNamePolicyTest_testMarshalPojo_i
+org.apache.camel.component.gson.GsonDataFormat		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/SpringGsonFieldNamePolicyTest_testUnmarshalPojo_d
+org.apache.camel.component.gson.GsonDataFormat		0.056
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/SpringGsonJsonDataFormatTest
+SpringGsonJsonDataFormatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/SpringGsonJsonDataFormatTest_testMarshalAndUnmarshalPojoWithPrettyPrint_0
+org.apache.camel.component.gson.GsonDataFormat		0.136
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/SpringGsonJsonDataFormatTest_testMarshalAndUnmarshalPojo_b
+org.apache.camel.component.gson.GsonDataFormat		0.136
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/TestPojo
+TestPojo		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/TestPojoExclusion
+TestPojoExclusion		0.30555555
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/test-GsonConcurrentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/test-GsonDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/test-GsonFieldNamePolicyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/test-GsonJsonDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/test-GsonMarshalExclusionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/test-GsonMarshalExclusionTest_AgeExclusionStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/test-GsonMarshalExclusionTest_WeightExclusionStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/test-GsonMarshalListTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/test-GsonMarshalTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/test-SpringGsonFieldNamePolicyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/test-SpringGsonJsonDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/test-TestPojo
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gson/target/site/clover/org/apache/camel/component/gson/test-TestPojoExclusion
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,128 @@
+./components/camel-jasypt/target/site/clover/org/apache/camel
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/BlueprintJasyptProperties2Test
+BlueprintJasyptProperties2Test		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/BlueprintJasyptProperties2Test_testJasyptProperties_k
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/BlueprintJasyptProperties3Test
+BlueprintJasyptProperties3Test		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/BlueprintJasyptProperties3Test_testJasyptProperties_j
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/BlueprintJasyptPropertiesTest
+BlueprintJasyptPropertiesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/BlueprintJasyptPropertiesTest_testJasyptProperties_0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/JasyptPropertiesParserTest
+JasyptPropertiesParserTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/JasyptPropertiesParserTest_testDecryptsEncryptedProperty_d
+org.apache.camel.component.jasypt.JasyptPropertiesParser		0.37209302
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/JasyptPropertiesParserTest_testDecryptsMultitplePartsOfPartiallyEncryptedProperty_a
+org.apache.camel.component.jasypt.JasyptPropertiesParser		0.37209302
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/JasyptPropertiesParserTest_testDecryptsPartiallyEncryptedProperty_1
+org.apache.camel.component.jasypt.JasyptPropertiesParser		0.37209302
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/JasyptPropertiesParserTest_testNullPropertyIsUntouched_b
+org.apache.camel.component.jasypt.JasyptPropertiesParser		0.11627907
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/JasyptPropertiesParserTest_testPlainPropertyIsUntouched_c
+org.apache.camel.component.jasypt.JasyptPropertiesParser		0.27906978
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/JasyptPropertiesParserTest_testUsesProvidedPasswordFromSystemPropertyIfEncryptorIsNotSet_3
+org.apache.camel.component.jasypt.JasyptPropertiesParser		0.74418604
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/JasyptPropertiesParserTest_testUsesProvidedPasswordIfEncryptorIsNotSet_e
+org.apache.camel.component.jasypt.JasyptPropertiesParser		0.7209302
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/JasyptPropertiesTest
+JasyptPropertiesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/JasyptPropertiesTest_testJasyptProperties_h
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/MainTest
+MainTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/MainTest_testMainDecrypt_f
+org.apache.camel.component.jasypt.Main.ParameterOption		0.61538464
+org.apache.camel.component.jasypt.Main.Option		0.57894737
+org.apache.camel.component.jasypt.Main		0.49484536
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/MainTest_testMainEncrypt_7
+org.apache.camel.component.jasypt.Main.ParameterOption		0.61538464
+org.apache.camel.component.jasypt.Main.Option		0.57894737
+org.apache.camel.component.jasypt.Main		0.49484536
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/MainTest_testMainShowOptions_6
+org.apache.camel.component.jasypt.Main.Option		0.6315789
+org.apache.camel.component.jasypt.Main.ParameterOption		0.3846154
+org.apache.camel.component.jasypt.Main		0.21649484
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/MainTest_testMissingInput_g
+org.apache.camel.component.jasypt.Main.Option		1.0
+org.apache.camel.component.jasypt.Main.ParameterOption		0.7692308
+org.apache.camel.component.jasypt.Main		0.52577317
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/MainTest_testMissingPassword_8
+org.apache.camel.component.jasypt.Main.Option		1.0
+org.apache.camel.component.jasypt.Main.ParameterOption		0.7692308
+org.apache.camel.component.jasypt.Main		0.5051546
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/MainTest_testUnknownOption_9
+org.apache.camel.component.jasypt.Main.Option		1.0
+org.apache.camel.component.jasypt.Main.ParameterOption		0.7692308
+org.apache.camel.component.jasypt.Main		0.46391752
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/SpringJasyptBridgePropertiesAutowireTest
+SpringJasyptBridgePropertiesAutowireTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/SpringJasyptBridgePropertiesAutowireTest_testJasyptProperties_5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/SpringJasyptBridgePropertiesTest
+SpringJasyptBridgePropertiesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/SpringJasyptBridgePropertiesTest_testJasyptProperties_2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/SpringJasyptProperties2Test
+SpringJasyptProperties2Test		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/SpringJasyptProperties2Test_testJasyptProperties_4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/SpringJasyptPropertiesTest
+SpringJasyptPropertiesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/SpringJasyptPropertiesTest_testJasyptProperties_i
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/SpringTest
+SpringTest		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/Test
+Test		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/test-BlueprintJasyptProperties2Test
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/test-BlueprintJasyptProperties3Test
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/test-BlueprintJasyptPropertiesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/test-JasyptPropertiesParserTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/test-JasyptPropertiesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/test-MainTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/test-SpringJasyptBridgePropertiesAutowireTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/test-SpringJasyptBridgePropertiesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/test-SpringJasyptProperties2Test
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/test-SpringJasyptPropertiesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/test-SpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jasypt/target/site/clover/org/apache/camel/component/jasypt/test-Test
+-- -- -- -- -- -- -- -- -- -- -- -- --

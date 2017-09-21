@@ -1,0 +1,119 @@
+./components/camel-snakeyaml/target/site/clover/org/apache/camel
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/SnakeYAMLBlueprintTypeFilterTest
+SnakeYAMLBlueprintTypeFilterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/SnakeYAMLBlueprintTypeFilterTest_testAllowAllConstructor_a
+org.apache.camel.component.snakeyaml.SnakeYAMLDataFormat		0.28648648
+org.apache.camel.component.snakeyaml.TypeFilters		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/SnakeYAMLBlueprintTypeFilterTest_testSafeConstructor_6
+org.apache.camel.component.snakeyaml.SnakeYAMLDataFormat		0.22702703
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/SnakeYAMLBlueprintTypeFilterTest_testTypeConstructorFromDefinition_7
+org.apache.camel.component.snakeyaml.TypeFilters.RegExp		0.33333334
+org.apache.camel.component.snakeyaml.TypeFilters.TypeName		0.33333334
+org.apache.camel.component.snakeyaml.SnakeYAMLDataFormat		0.2918919
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/SnakeYAMLBlueprintTypeFilterTest_testTypeConstructor_j
+org.apache.camel.component.snakeyaml.TypeFilters.TypeName		0.33333334
+org.apache.camel.component.snakeyaml.SnakeYAMLDataFormat		0.2918919
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/SnakeYAMLSpringTest
+SnakeYAMLSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/SnakeYAMLSpringTest_testMarshalAndUnmarshalMap_c
+org.apache.camel.component.snakeyaml.SnakeYAMLDataFormat		0.26486486
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/SnakeYAMLSpringTest_testMarshalAndUnmarshalPojoWithPrettyFlow_5
+org.apache.camel.component.snakeyaml.TypeFilters.TypeName		0.33333334
+org.apache.camel.component.snakeyaml.SnakeYAMLDataFormat		0.3027027
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/SnakeYAMLSpringTest_testMarshalAndUnmarshalPojo_h
+org.apache.camel.component.snakeyaml.TypeFilters.TypeName		0.33333334
+org.apache.camel.component.snakeyaml.SnakeYAMLDataFormat		0.3027027
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/SnakeYAMLSpringTypeFilterTest
+SnakeYAMLSpringTypeFilterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/SnakeYAMLSpringTypeFilterTest_testAllowAllConstructor_f
+org.apache.camel.component.snakeyaml.SnakeYAMLDataFormat		0.28648648
+org.apache.camel.component.snakeyaml.TypeFilters		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/SnakeYAMLSpringTypeFilterTest_testSafeConstructor_g
+org.apache.camel.component.snakeyaml.SnakeYAMLDataFormat		0.22702703
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/SnakeYAMLSpringTypeFilterTest_testTypeConstructorFromDefinition_3
+org.apache.camel.component.snakeyaml.TypeFilters.RegExp		0.33333334
+org.apache.camel.component.snakeyaml.TypeFilters.TypeName		0.33333334
+org.apache.camel.component.snakeyaml.SnakeYAMLDataFormat		0.2918919
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/SnakeYAMLSpringTypeFilterTest_testTypeConstructor_e
+org.apache.camel.component.snakeyaml.TypeFilters.TypeName		0.33333334
+org.apache.camel.component.snakeyaml.SnakeYAMLDataFormat		0.2918919
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/SnakeYAMLTest
+SnakeYAMLTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/SnakeYAMLTestHelper
+SnakeYAMLTestHelper		0.9705882
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/SnakeYAMLTest_testMarshalAndUnmarshal_0
+org.apache.camel.component.snakeyaml.TypeFilters.TypeName		0.33333334
+org.apache.camel.component.snakeyaml.SnakeYAMLDataFormat		0.3027027
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/SnakeYAMLTest_testMarshalAndUnmarshal_8
+org.apache.camel.component.snakeyaml.TypeFilters.TypeName		0.33333334
+org.apache.camel.component.snakeyaml.SnakeYAMLDataFormat		0.3027027
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/SnakeYAMLTest_testMarshalAndUnmarshal_9
+org.apache.camel.component.snakeyaml.SnakeYAMLDataFormat		0.26486486
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/SnakeYAMLTest_testMarshalAndUnmarshal_d
+org.apache.camel.component.snakeyaml.TypeFilters.TypeName		0.33333334
+org.apache.camel.component.snakeyaml.SnakeYAMLDataFormat		0.3243243
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/SnakeYAMLTypeFilterTest
+SnakeYAMLTypeFilterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/SnakeYAMLTypeFilterTest_testAllowAllConstructor_4
+org.apache.camel.component.snakeyaml.SnakeYAMLDataFormat		0.28648648
+org.apache.camel.component.snakeyaml.TypeFilters		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/SnakeYAMLTypeFilterTest_testSafeConstructor_i
+org.apache.camel.component.snakeyaml.SnakeYAMLDataFormat		0.22702703
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/SnakeYAMLTypeFilterTest_testTypeConstructorFromDefinition_2
+org.apache.camel.component.snakeyaml.TypeFilters.RegExp		0.33333334
+org.apache.camel.component.snakeyaml.TypeFilters.TypeName		0.33333334
+org.apache.camel.component.snakeyaml.SnakeYAMLDataFormat		0.2918919
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/SnakeYAMLTypeFilterTest_testTypeConstructor_1
+org.apache.camel.component.snakeyaml.TypeFilters.TypeName		0.33333334
+org.apache.camel.component.snakeyaml.SnakeYAMLDataFormat		0.2918919
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/SnakeYAMLUnmarshalTypeTest
+SnakeYAMLUnmarshalTypeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/SnakeYAMLUnmarshalTypeTest_testUnmarshal_b
+org.apache.camel.component.snakeyaml.TypeFilters.TypeName		0.33333334
+org.apache.camel.component.snakeyaml.SnakeYAMLDataFormat		0.26486486
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/model/TestPojo
+TestPojo		0.5769231
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/model/test-TestPojo
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/test-SnakeYAMLBlueprintTypeFilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/test-SnakeYAMLSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/test-SnakeYAMLSpringTypeFilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/test-SnakeYAMLTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/test-SnakeYAMLTestHelper
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/test-SnakeYAMLTypeFilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snakeyaml/target/site/clover/org/apache/camel/component/snakeyaml/test-SnakeYAMLUnmarshalTypeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,114 @@
+./components/camel-facebook/target/site/clover/org/apache/camel
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/CamelFacebookTestSupport
+CamelFacebookTestSupport		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/FacebookComponentConsumerTest
+FacebookComponentConsumerTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/FacebookComponentPageIdProducerTest
+FacebookComponentPageIdProducerTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/FacebookComponentProducerTest
+FacebookComponentProducerTest		0.0
+FacebookComponentProducerTest.IgnoreDeprecatedExceptions		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/FacebookEndpointTest
+FacebookEndpointTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/TestUserMethodsTest
+TestUserMethodsTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/config/FacebookEndpointConfigurationTest
+FacebookEndpointConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/config/FacebookEndpointConfigurationTest_testConfigurationBeanUriParam_6
+testConfigurationBeanUriParam
+org.apache.camel.component.facebook.FacebookComponent		0.6923077
+org.apache.camel.component.facebook.data.FacebookMethodsType		0.5
+org.apache.camel.component.facebook.config.FacebookEndpointConfiguration		0.49285713
+org.apache.camel.component.facebook.data.FacebookPropertiesHelper		0.3773585
+org.apache.camel.component.facebook.FacebookEndpoint		0.3483146
+org.apache.camel.component.facebook.config.FacebookConfiguration		0.23360656
+org.apache.camel.component.facebook.data.FacebookMethodsTypeHelper		0.22966507
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/config/test-FacebookEndpointConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/data/FacebookMethodsTypeHelperTest
+FacebookMethodsTypeHelperTest		0.7671233
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/data/FacebookMethodsTypeHelperTest_testAllArguments_2
+testAllArguments
+org.apache.camel.component.facebook.data.FacebookMethodsTypeHelper		0.009569378
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/data/FacebookMethodsTypeHelperTest_testConvertToGetMethod_b
+testConvertToGetMethod
+org.apache.camel.component.facebook.data.FacebookMethodsType		0.04761905
+org.apache.camel.component.facebook.data.FacebookMethodsTypeHelper		0.019138755
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/data/FacebookMethodsTypeHelperTest_testConvertToSearchMethod_7
+testConvertToSearchMethod
+org.apache.camel.component.facebook.data.FacebookMethodsType		0.04761905
+org.apache.camel.component.facebook.data.FacebookMethodsTypeHelper		0.019138755
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/data/FacebookMethodsTypeHelperTest_testFilterMethods_c
+testFilterMethods
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/data/FacebookMethodsTypeHelperTest_testGetArguments_9
+testGetArguments
+org.apache.camel.component.facebook.data.FacebookMethodsTypeHelper		0.023923445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/data/FacebookMethodsTypeHelperTest_testGetCandidateMethods_8
+testGetCandidateMethods
+org.apache.camel.component.facebook.data.FacebookMethodsTypeHelper		0.16267942
+org.apache.camel.component.facebook.data.FacebookMethodsType		0.0952381
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/data/FacebookMethodsTypeHelperTest_testGetType_0
+testGetType
+org.apache.camel.component.facebook.data.FacebookMethodsTypeHelper		0.023923445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/data/FacebookMethodsTypeHelperTest_testGetType_1
+testGetType
+org.apache.camel.component.facebook.data.FacebookMethodsTypeHelper		0.023923445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/data/FacebookMethodsTypeHelperTest_testGetType_3
+testGetType
+org.apache.camel.component.facebook.data.FacebookMethodsTypeHelper		0.023923445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/data/FacebookMethodsTypeTest
+FacebookMethodsTypeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/data/FacebookMethodsTypeTest_areAllMethodsMapped_a
+areAllMethodsMapped
+org.apache.camel.component.facebook.data.FacebookMethodsType		0.26190478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/data/ReadingBuilderTest
+ReadingBuilderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/data/ReadingBuilderTest_testCopy_5
+testCopy
+org.apache.camel.component.facebook.data.ReadingBuilder		0.18072289
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/data/ReadingBuilderTest_testSetProperties_4
+testSetProperties
+org.apache.camel.component.facebook.data.ReadingBuilder		0.40963855
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/data/test-FacebookMethodsTypeHelperTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/data/test-FacebookMethodsTypeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/data/test-ReadingBuilderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/test-CamelFacebookTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/test-FacebookComponentConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/test-FacebookComponentPageIdProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/test-FacebookComponentProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/test-FacebookComponentProducerTest_IgnoreDeprecatedExceptions
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/test-FacebookEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-facebook/target/site/clover/org/apache/camel/component/facebook/test-TestUserMethodsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

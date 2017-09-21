@@ -1,0 +1,11 @@
+./hbase-shell/target/site/clover/org/apache/hadoop/hbase
+./hbase-shell/target/site/clover/org/apache/hadoop/hbase/client/AbstractTestShell
+AbstractTestShell		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-shell/target/site/clover/org/apache/hadoop/hbase/client/TestShell
+TestShell		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-shell/target/site/clover/org/apache/hadoop/hbase/client/test-AbstractTestShell
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-shell/target/site/clover/org/apache/hadoop/hbase/client/test-TestShell
+-- -- -- -- -- -- -- -- -- -- -- -- --

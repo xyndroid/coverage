@@ -1,0 +1,663 @@
+./components/camel-exec/target/site/clover/org/apache/camel
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/DefaultExecBindingTest
+DefaultExecBindingTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/DefaultExecBindingTest_testReadInput_1m
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.7419355
+org.apache.camel.component.exec.impl.ExecParseUtils		0.44230768
+org.apache.camel.component.exec.ExecEndpoint		0.42
+org.apache.camel.component.exec.ExecCommand		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecEndpointTest
+ExecEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecEndpointTest_testCreateEndpointComposite2_25
+org.apache.camel.component.exec.ExecComponent		0.71428573
+org.apache.camel.component.exec.ExecEndpoint		0.64
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecEndpointTest_testCreateEndpointComposite_1p
+org.apache.camel.component.exec.ExecComponent		0.71428573
+org.apache.camel.component.exec.ExecEndpoint		0.42
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecEndpointTest_testCreateEndpointCustomBinding_18
+org.apache.camel.component.exec.ExecComponent		0.71428573
+org.apache.camel.component.exec.ExecEndpoint		0.24
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecEndpointTest_testCreateEndpointCustomCommandExecutor_c
+org.apache.camel.component.exec.ExecComponent		0.71428573
+org.apache.camel.component.exec.ExecEndpoint		0.24
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecEndpointTest_testCreateEndpointDefaultConf_n
+org.apache.camel.component.exec.ExecComponent		0.71428573
+org.apache.camel.component.exec.ExecEndpoint		0.38
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecEndpointTest_testCreateEndpointDefaultNoTimeout_v
+org.apache.camel.component.exec.ExecComponent		0.71428573
+org.apache.camel.component.exec.ExecEndpoint		0.18
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecEndpointTest_testCreateEndpointEscapedCommand_19
+org.apache.camel.component.exec.ExecComponent		0.71428573
+org.apache.camel.component.exec.ExecEndpoint		0.26
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecEndpointTest_testCreateEndpointEscapedWorkingDir_0
+org.apache.camel.component.exec.ExecComponent		0.71428573
+org.apache.camel.component.exec.ExecEndpoint		0.3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecEndpointTest_testCreateEndpointWithArgs2_f
+org.apache.camel.component.exec.ExecComponent		0.71428573
+org.apache.camel.component.exec.ExecEndpoint		0.22
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecEndpointTest_testCreateEndpointWithArgs3_1y
+org.apache.camel.component.exec.ExecComponent		0.71428573
+org.apache.camel.component.exec.ExecEndpoint		0.22
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecEndpointTest_testCreateEndpointWithArgs_1o
+org.apache.camel.component.exec.ExecComponent		0.71428573
+org.apache.camel.component.exec.ExecEndpoint		0.22
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecEndpointTest_testCreateEndpointWithOutFile_b
+org.apache.camel.component.exec.ExecComponent		0.71428573
+org.apache.camel.component.exec.ExecEndpoint		0.24
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecEndpointTest_testCreateEndpointWithTimeout_1z
+org.apache.camel.component.exec.ExecComponent		0.71428573
+org.apache.camel.component.exec.ExecEndpoint		0.26
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecEndpointTest_testCreateEndpointWithWorkingDir_1c
+org.apache.camel.component.exec.ExecComponent		0.71428573
+org.apache.camel.component.exec.ExecEndpoint		0.22
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecEndpointTest_testValidComponentDescriptor_1q
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJava8IssueTest
+ExecJava8IssueTest		0.8648649
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJava8IssueTest_test_k
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecProducer		0.8636364
+org.apache.camel.component.exec.ExecCommand		0.85714287
+org.apache.camel.component.exec.ExecResult		0.85714287
+org.apache.camel.component.exec.ExecDefaultExecutor		0.8181818
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.66129035
+org.apache.camel.component.exec.ExecEndpoint		0.64
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.6119403
+org.apache.camel.component.exec.impl.ExecParseUtils		0.44230768
+org.apache.camel.component.exec.ExecResultConverter		0.32692307
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessRecipientListTest
+ExecJavaProcessRecipientListTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessRecipientListTest_testByteArrayInputStreamIsResetInConverter_15
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecResult		1.0
+org.apache.camel.component.exec.ExecProducer		0.8636364
+org.apache.camel.component.exec.ExecCommand		0.85714287
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.6935484
+org.apache.camel.component.exec.ExecEndpoint		0.5
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.49253732
+org.apache.camel.component.exec.ExecResultConverter		0.42307693
+org.apache.camel.component.exec.ExecDefaultExecutor		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessRecipientListTest_testConvertResultToByteArray_g
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecResult		1.0
+org.apache.camel.component.exec.ExecProducer		0.8636364
+org.apache.camel.component.exec.ExecCommand		0.85714287
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.6935484
+org.apache.camel.component.exec.ExecEndpoint		0.5
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.49253732
+org.apache.camel.component.exec.ExecResultConverter		0.42307693
+org.apache.camel.component.exec.ExecDefaultExecutor		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessRecipientListTest_testConvertResultToInputStream_a
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecResult		1.0
+org.apache.camel.component.exec.ExecProducer		0.8636364
+org.apache.camel.component.exec.ExecCommand		0.85714287
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.6935484
+org.apache.camel.component.exec.ExecEndpoint		0.5
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.49253732
+org.apache.camel.component.exec.ExecResultConverter		0.3653846
+org.apache.camel.component.exec.ExecDefaultExecutor		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessRecipientListTest_testConvertResultToString_16
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecResult		1.0
+org.apache.camel.component.exec.ExecProducer		0.8636364
+org.apache.camel.component.exec.ExecCommand		0.85714287
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.6935484
+org.apache.camel.component.exec.ExecEndpoint		0.5
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.49253732
+org.apache.camel.component.exec.ExecResultConverter		0.42307693
+org.apache.camel.component.exec.ExecDefaultExecutor		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessRecipientListTest_testExecJavaProcessExitCode0_q
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecProducer		0.8636364
+org.apache.camel.component.exec.ExecCommand		0.8
+org.apache.camel.component.exec.ExecResult		0.71428573
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.6935484
+org.apache.camel.component.exec.ExecEndpoint		0.5
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.49253732
+org.apache.camel.component.exec.ExecDefaultExecutor		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessRecipientListTest_testExecJavaProcessExitCode1Direct_1
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecProducer		0.90909094
+org.apache.camel.component.exec.ExecCommand		0.8
+org.apache.camel.component.exec.ExecResult		0.71428573
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.6935484
+org.apache.camel.component.exec.ExecEndpoint		0.5
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.49253732
+org.apache.camel.component.exec.ExecDefaultExecutor		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessRecipientListTest_testExecJavaProcessExitCode1_1w
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecProducer		0.90909094
+org.apache.camel.component.exec.ExecCommand		0.8
+org.apache.camel.component.exec.ExecResult		0.71428573
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.6935484
+org.apache.camel.component.exec.ExecEndpoint		0.5
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.49253732
+org.apache.camel.component.exec.ExecDefaultExecutor		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessRecipientListTest_testExecJavaProcessInputLines_6
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecProducer		0.8636364
+org.apache.camel.component.exec.ExecResult		0.85714287
+org.apache.camel.component.exec.ExecCommand		0.8
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.6935484
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.5074627
+org.apache.camel.component.exec.ExecEndpoint		0.5
+org.apache.camel.component.exec.ExecDefaultExecutor		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessRecipientListTest_testExecJavaProcessStdout_i
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecProducer		0.8636364
+org.apache.camel.component.exec.ExecResult		0.85714287
+org.apache.camel.component.exec.ExecCommand		0.8
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.6935484
+org.apache.camel.component.exec.ExecEndpoint		0.5
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.49253732
+org.apache.camel.component.exec.ExecDefaultExecutor		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessRecipientListTest_testExecJavaProcessThreads_m
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecProducer		0.8636364
+org.apache.camel.component.exec.ExecResult		0.85714287
+org.apache.camel.component.exec.ExecCommand		0.8
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.6935484
+org.apache.camel.component.exec.ExecEndpoint		0.5
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.49253732
+org.apache.camel.component.exec.ExecDefaultExecutor		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessRecipientListTest_testExecJavaProcessTimeout_o
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecProducer		0.8636364
+org.apache.camel.component.exec.ExecCommand		0.8
+org.apache.camel.component.exec.ExecResult		0.71428573
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.6935484
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.5074627
+org.apache.camel.component.exec.ExecEndpoint		0.5
+org.apache.camel.component.exec.ExecDefaultExecutor		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessRecipientListTest_testIfStdoutIsNullStderrIsReturnedInConverter_1f
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecResult		1.0
+org.apache.camel.component.exec.ExecCommand		0.9142857
+org.apache.camel.component.exec.ExecProducer		0.90909094
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.6935484
+org.apache.camel.component.exec.ExecEndpoint		0.5
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.49253732
+org.apache.camel.component.exec.ExecResultConverter		0.42307693
+org.apache.camel.component.exec.ExecDefaultExecutor		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessRecipientListTest_testStdoutIsNull_14
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecResult		1.0
+org.apache.camel.component.exec.ExecCommand		0.9142857
+org.apache.camel.component.exec.ExecProducer		0.90909094
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.6935484
+org.apache.camel.component.exec.ExecEndpoint		0.5
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.49253732
+org.apache.camel.component.exec.ExecResultConverter		0.3846154
+org.apache.camel.component.exec.ExecDefaultExecutor		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessTest
+ExecJavaProcessTest		0.90789473
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessTest_testByteArrayInputStreamIsResetInConverter_w
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecResult		1.0
+org.apache.camel.component.exec.ExecProducer		0.8636364
+org.apache.camel.component.exec.ExecCommand		0.85714287
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.6935484
+org.apache.camel.component.exec.ExecEndpoint		0.5
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.49253732
+org.apache.camel.component.exec.ExecResultConverter		0.42307693
+org.apache.camel.component.exec.ExecDefaultExecutor		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessTest_testConvertResultToByteArray_u
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecResult		1.0
+org.apache.camel.component.exec.ExecProducer		0.8636364
+org.apache.camel.component.exec.ExecCommand		0.85714287
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.6935484
+org.apache.camel.component.exec.ExecEndpoint		0.5
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.49253732
+org.apache.camel.component.exec.ExecResultConverter		0.42307693
+org.apache.camel.component.exec.ExecDefaultExecutor		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessTest_testConvertResultToInputStream_1l
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecResult		1.0
+org.apache.camel.component.exec.ExecProducer		0.8636364
+org.apache.camel.component.exec.ExecCommand		0.85714287
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.6935484
+org.apache.camel.component.exec.ExecEndpoint		0.5
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.49253732
+org.apache.camel.component.exec.ExecResultConverter		0.3653846
+org.apache.camel.component.exec.ExecDefaultExecutor		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessTest_testConvertResultToString_8
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecResult		1.0
+org.apache.camel.component.exec.ExecProducer		0.8636364
+org.apache.camel.component.exec.ExecCommand		0.85714287
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.6935484
+org.apache.camel.component.exec.ExecEndpoint		0.5
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.49253732
+org.apache.camel.component.exec.ExecResultConverter		0.42307693
+org.apache.camel.component.exec.ExecDefaultExecutor		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessTest_testExecJavaArgsAsStringWithQuote_r
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecProducer		0.8636364
+org.apache.camel.component.exec.ExecResult		0.85714287
+org.apache.camel.component.exec.impl.ExecParseUtils		0.8269231
+org.apache.camel.component.exec.ExecCommand		0.8
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.7096774
+org.apache.camel.component.exec.ExecEndpoint		0.54
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.49253732
+org.apache.camel.component.exec.ExecDefaultExecutor		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessTest_testExecJavaArgsAsStringWithoutQuote_24
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecProducer		0.8636364
+org.apache.camel.component.exec.ExecResult		0.85714287
+org.apache.camel.component.exec.ExecCommand		0.8
+org.apache.camel.component.exec.impl.ExecParseUtils		0.78846157
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.7096774
+org.apache.camel.component.exec.ExecEndpoint		0.54
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.49253732
+org.apache.camel.component.exec.ExecDefaultExecutor		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessTest_testExecJavaArgsAsString_y
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecProducer		0.8636364
+org.apache.camel.component.exec.ExecResult		0.85714287
+org.apache.camel.component.exec.ExecCommand		0.8
+org.apache.camel.component.exec.impl.ExecParseUtils		0.78846157
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.7096774
+org.apache.camel.component.exec.ExecEndpoint		0.54
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.49253732
+org.apache.camel.component.exec.ExecDefaultExecutor		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessTest_testExecJavaProcessExitCode0_1t
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecProducer		0.8636364
+org.apache.camel.component.exec.ExecCommand		0.8
+org.apache.camel.component.exec.ExecResult		0.71428573
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.6935484
+org.apache.camel.component.exec.ExecEndpoint		0.5
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.49253732
+org.apache.camel.component.exec.ExecDefaultExecutor		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessTest_testExecJavaProcessExitCode1_5
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecProducer		0.90909094
+org.apache.camel.component.exec.ExecCommand		0.8
+org.apache.camel.component.exec.ExecResult		0.71428573
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.6935484
+org.apache.camel.component.exec.ExecEndpoint		0.5
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.49253732
+org.apache.camel.component.exec.ExecDefaultExecutor		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessTest_testExecJavaProcessInputLines_12
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecProducer		0.8636364
+org.apache.camel.component.exec.ExecResult		0.85714287
+org.apache.camel.component.exec.ExecCommand		0.8
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.6935484
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.5074627
+org.apache.camel.component.exec.ExecEndpoint		0.5
+org.apache.camel.component.exec.ExecDefaultExecutor		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessTest_testExecJavaProcessStdout_1e
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecProducer		0.8636364
+org.apache.camel.component.exec.ExecResult		0.85714287
+org.apache.camel.component.exec.ExecCommand		0.8
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.6935484
+org.apache.camel.component.exec.ExecEndpoint		0.5
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.49253732
+org.apache.camel.component.exec.ExecDefaultExecutor		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessTest_testExecJavaProcessThreads_26
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecProducer		0.8636364
+org.apache.camel.component.exec.ExecResult		0.85714287
+org.apache.camel.component.exec.ExecCommand		0.8
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.6935484
+org.apache.camel.component.exec.ExecEndpoint		0.5
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.49253732
+org.apache.camel.component.exec.ExecDefaultExecutor		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessTest_testExecJavaProcessTimeout_11
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecProducer		0.8636364
+org.apache.camel.component.exec.ExecCommand		0.8
+org.apache.camel.component.exec.ExecResult		0.71428573
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.6935484
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.5074627
+org.apache.camel.component.exec.ExecEndpoint		0.5
+org.apache.camel.component.exec.ExecDefaultExecutor		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessTest_testExecJavaProcessWithThrownExecException_1h
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecProducer		0.8636364
+org.apache.camel.component.exec.ExecDefaultExecutor		0.8181818
+org.apache.camel.component.exec.ExecResult		0.71428573
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.6935484
+org.apache.camel.component.exec.ExecCommand		0.6857143
+org.apache.camel.component.exec.ExecEndpoint		0.56
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.47761193
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessTest_testExecJavaProcessWithThrownExecException_1k
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecProducer		0.8636364
+org.apache.camel.component.exec.ExecDefaultExecutor		0.8181818
+org.apache.camel.component.exec.ExecResult		0.71428573
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.6935484
+org.apache.camel.component.exec.ExecCommand		0.6857143
+org.apache.camel.component.exec.ExecEndpoint		0.56
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.47761193
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessTest_testExecJavaProcessWithThrownExecException_1r
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecProducer		0.8636364
+org.apache.camel.component.exec.ExecDefaultExecutor		0.8181818
+org.apache.camel.component.exec.ExecResult		0.71428573
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.6935484
+org.apache.camel.component.exec.ExecCommand		0.6857143
+org.apache.camel.component.exec.ExecEndpoint		0.56
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.47761193
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessTest_testIfStdoutIsNullStderrIsReturnedInConverter_1d
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecResult		1.0
+org.apache.camel.component.exec.ExecCommand		0.9142857
+org.apache.camel.component.exec.ExecProducer		0.90909094
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.6935484
+org.apache.camel.component.exec.ExecEndpoint		0.5
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.49253732
+org.apache.camel.component.exec.ExecResultConverter		0.42307693
+org.apache.camel.component.exec.ExecDefaultExecutor		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessTest_testInvalidWorkingDir_1g
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecCommand		0.8
+org.apache.camel.component.exec.ExecProducer		0.6363636
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.6119403
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.5322581
+org.apache.camel.component.exec.ExecEndpoint		0.5
+org.apache.camel.component.exec.ExecDefaultExecutor		0.45454547
+org.apache.camel.component.exec.ExecException		0.3125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecJavaProcessTest_testStdoutIsNull_3
+org.apache.camel.component.exec.ExecComponent		1.0
+org.apache.camel.component.exec.ExecResult		1.0
+org.apache.camel.component.exec.ExecCommand		0.9142857
+org.apache.camel.component.exec.ExecProducer		0.90909094
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.6935484
+org.apache.camel.component.exec.ExecEndpoint		0.5
+org.apache.camel.component.exec.impl.DefaultExecCommandExecutor		0.49253732
+org.apache.camel.component.exec.ExecResultConverter		0.3846154
+org.apache.camel.component.exec.ExecDefaultExecutor		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecOutFileTest
+ExecOutFileTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecOutFileTest_testOutFileConvertToByteArray_p
+org.apache.camel.component.exec.ExecResult		0.85714287
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.66129035
+org.apache.camel.component.exec.ExecProducer		0.6363636
+org.apache.camel.component.exec.ExecCommand		0.5714286
+org.apache.camel.component.exec.ExecResultConverter		0.32692307
+org.apache.camel.component.exec.ExecEndpoint		0.32
+org.apache.camel.component.exec.impl.ExecParseUtils		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecOutFileTest_testOutFileConvertToDocument_4
+org.apache.camel.component.exec.ExecResult		0.85714287
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.66129035
+org.apache.camel.component.exec.ExecProducer		0.6363636
+org.apache.camel.component.exec.ExecCommand		0.5714286
+org.apache.camel.component.exec.ExecResultConverter		0.3653846
+org.apache.camel.component.exec.ExecEndpoint		0.32
+org.apache.camel.component.exec.impl.ExecParseUtils		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecOutFileTest_testOutFileConvertToInputStream_x
+org.apache.camel.component.exec.ExecResult		0.85714287
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.66129035
+org.apache.camel.component.exec.ExecProducer		0.6363636
+org.apache.camel.component.exec.ExecCommand		0.5714286
+org.apache.camel.component.exec.ExecEndpoint		0.32
+org.apache.camel.component.exec.ExecResultConverter		0.26923078
+org.apache.camel.component.exec.impl.ExecParseUtils		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecOutFileTest_testOutFileConvertToString_21
+org.apache.camel.component.exec.ExecResult		0.85714287
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.66129035
+org.apache.camel.component.exec.ExecProducer		0.6363636
+org.apache.camel.component.exec.ExecCommand		0.5714286
+org.apache.camel.component.exec.ExecResultConverter		0.32692307
+org.apache.camel.component.exec.ExecEndpoint		0.32
+org.apache.camel.component.exec.impl.ExecParseUtils		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecOutFileTest_testOutFile_1v
+org.apache.camel.component.exec.ExecResult		0.85714287
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.66129035
+org.apache.camel.component.exec.ExecProducer		0.6363636
+org.apache.camel.component.exec.ExecCommand		0.5714286
+org.apache.camel.component.exec.ExecEndpoint		0.32
+org.apache.camel.component.exec.impl.ExecParseUtils		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecProducerTest
+ExecProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecProducerTest_testInInOnlyExchange_l
+org.apache.camel.component.exec.ExecResult		0.71428573
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.66129035
+org.apache.camel.component.exec.ExecProducer		0.6363636
+org.apache.camel.component.exec.ExecCommand		0.51428574
+org.apache.camel.component.exec.ExecEndpoint		0.32
+org.apache.camel.component.exec.impl.ExecParseUtils		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecProducerTest_testInputLinesNotConvertibleToInputStream_e
+org.apache.camel.component.exec.ExecResult		0.85714287
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.66129035
+org.apache.camel.component.exec.ExecProducer		0.6363636
+org.apache.camel.component.exec.ExecCommand		0.5714286
+org.apache.camel.component.exec.ExecEndpoint		0.32
+org.apache.camel.component.exec.impl.ExecParseUtils		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecProducerTest_testInputLines_1j
+org.apache.camel.component.exec.ExecResult		0.85714287
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.66129035
+org.apache.camel.component.exec.ExecProducer		0.6363636
+org.apache.camel.component.exec.ExecCommand		0.5714286
+org.apache.camel.component.exec.ExecEndpoint		0.32
+org.apache.camel.component.exec.impl.ExecParseUtils		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecProducerTest_testNullInBody_j
+org.apache.camel.component.exec.ExecResult		0.85714287
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.66129035
+org.apache.camel.component.exec.ExecProducer		0.6363636
+org.apache.camel.component.exec.ExecCommand		0.5714286
+org.apache.camel.component.exec.ExecEndpoint		0.32
+org.apache.camel.component.exec.impl.ExecParseUtils		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecProducerTest_testOutCapableExchange_1x
+org.apache.camel.component.exec.ExecResult		0.71428573
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.67741936
+org.apache.camel.component.exec.ExecProducer		0.6363636
+org.apache.camel.component.exec.ExecCommand		0.51428574
+org.apache.camel.component.exec.ExecEndpoint		0.32
+org.apache.camel.component.exec.impl.ExecParseUtils		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecProducerTest_testOverrideArgs_17
+org.apache.camel.component.exec.ExecResult		0.85714287
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.6935484
+org.apache.camel.component.exec.ExecProducer		0.6363636
+org.apache.camel.component.exec.ExecCommand		0.5714286
+org.apache.camel.component.exec.ExecEndpoint		0.28
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecProducerTest_testOverrideExecutable_1b
+org.apache.camel.component.exec.ExecResult		0.85714287
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.66129035
+org.apache.camel.component.exec.ExecProducer		0.6363636
+org.apache.camel.component.exec.ExecCommand		0.5714286
+org.apache.camel.component.exec.ExecEndpoint		0.32
+org.apache.camel.component.exec.impl.ExecParseUtils		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecProducerTest_testOverrideTimeout_10
+org.apache.camel.component.exec.ExecResult		0.85714287
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.66129035
+org.apache.camel.component.exec.ExecProducer		0.6363636
+org.apache.camel.component.exec.ExecCommand		0.5714286
+org.apache.camel.component.exec.ExecEndpoint		0.32
+org.apache.camel.component.exec.impl.ExecParseUtils		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecProducerTest_testOverrideWorkingDir_1n
+org.apache.camel.component.exec.ExecResult		0.85714287
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.66129035
+org.apache.camel.component.exec.ExecProducer		0.6363636
+org.apache.camel.component.exec.ExecCommand		0.5714286
+org.apache.camel.component.exec.ExecEndpoint		0.32
+org.apache.camel.component.exec.impl.ExecParseUtils		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecProducerTest_testWithContextConfiguration_z
+org.apache.camel.component.exec.ExecResult		0.85714287
+org.apache.camel.component.exec.impl.DefaultExecBinding		0.66129035
+org.apache.camel.component.exec.ExecProducer		0.6363636
+org.apache.camel.component.exec.ExecCommand		0.5714286
+org.apache.camel.component.exec.ExecEndpoint		0.32
+org.apache.camel.component.exec.impl.ExecParseUtils		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecScriptTest
+ExecScriptTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/ExecTestUtils
+ExecTestUtils		0.3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/impl/ExecDocumentationExamplesTest
+ExecDocumentationExamplesTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/impl/ExecParseUtilsTest
+ExecParseUtilsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/impl/ExecParseUtilsTest_testDoubleQuoteAndSpace_7
+testDoubleQuoteAndSpace
+org.apache.camel.component.exec.impl.ExecParseUtils		0.78846157
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/impl/ExecParseUtilsTest_testDoubleQuote_28
+testDoubleQuote
+org.apache.camel.component.exec.impl.ExecParseUtils		0.6923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/impl/ExecParseUtilsTest_testDoubleQuoted_d
+testDoubleQuoted
+org.apache.camel.component.exec.impl.ExecParseUtils		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/impl/ExecParseUtilsTest_testEmptyDoubleQuotedNegative_1i
+testEmptyDoubleQuotedNegative
+org.apache.camel.component.exec.impl.ExecParseUtils		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/impl/ExecParseUtilsTest_testEmptySingleQuotedNegative2_1u
+testEmptySingleQuotedNegative2
+org.apache.camel.component.exec.impl.ExecParseUtils		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/impl/ExecParseUtilsTest_testEmptySingleQuotedNegative_20
+testEmptySingleQuotedNegative
+org.apache.camel.component.exec.impl.ExecParseUtils		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/impl/ExecParseUtilsTest_testInvalidQuotes_27
+testInvalidQuotes
+org.apache.camel.component.exec.impl.ExecParseUtils		0.71153843
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/impl/ExecParseUtilsTest_testSingleQuoted2_22
+testSingleQuoted2
+org.apache.camel.component.exec.impl.ExecParseUtils		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/impl/ExecParseUtilsTest_testSingleQuotedNegative2_13
+testSingleQuotedNegative2
+org.apache.camel.component.exec.impl.ExecParseUtils		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/impl/ExecParseUtilsTest_testSingleQuotedNegative3_9
+testSingleQuotedNegative3
+org.apache.camel.component.exec.impl.ExecParseUtils		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/impl/ExecParseUtilsTest_testSingleQuotedNegative_1a
+testSingleQuotedNegative
+org.apache.camel.component.exec.impl.ExecParseUtils		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/impl/ExecParseUtilsTest_testSingleQuoted_1s
+testSingleQuoted
+org.apache.camel.component.exec.impl.ExecParseUtils		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/impl/ExecParseUtilsTest_testTwoDoubleQuotes_23
+testTwoDoubleQuotes
+org.apache.camel.component.exec.impl.ExecParseUtils		0.75
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/impl/ExecParseUtilsTest_testTwoQuotings_h
+testTwoQuotings
+org.apache.camel.component.exec.impl.ExecParseUtils		0.78846157
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/impl/ExecParseUtilsTest_testWhiteSpaceQuoted_29
+testWhiteSpaceQuoted
+org.apache.camel.component.exec.impl.ExecParseUtils		0.7692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/impl/ExecParseUtilsTest_testWhiteSpaceSeparatedArgsNotClosed_2
+testWhiteSpaceSeparatedArgsNotClosed
+org.apache.camel.component.exec.impl.ExecParseUtils		0.8269231
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/impl/ExecParseUtilsTest_testWhiteSpaceSeparatedArgs_t
+testWhiteSpaceSeparatedArgs
+org.apache.camel.component.exec.impl.ExecParseUtils		0.44230768
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/impl/ExecParseUtilsTest_testWhitespaceSeparatedArgsWithSpaces_s
+testWhitespaceSeparatedArgsWithSpaces
+org.apache.camel.component.exec.impl.ExecParseUtils		0.8269231
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/impl/test-ExecDocumentationExamplesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/impl/test-ExecParseUtilsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/test-DefaultExecBindingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/test-ExecEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/test-ExecJava8IssueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/test-ExecJavaProcessRecipientListTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/test-ExecJavaProcessTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/test-ExecOutFileTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/test-ExecProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/test-ExecScriptTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-exec/target/site/clover/org/apache/camel/component/exec/test-ExecTestUtils
+-- -- -- -- -- -- -- -- -- -- -- -- --

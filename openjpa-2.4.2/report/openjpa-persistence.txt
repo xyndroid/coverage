@@ -1,0 +1,66 @@
+./openjpa-persistence/target/clover/org/apache/openjpa
+./openjpa-persistence/target/clover/org/apache/openjpa/persistence/TestEnumToKernelConstantMappings
+TestEnumToKernelConstantMappings		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence/target/clover/org/apache/openjpa/persistence/TestEnumToKernelConstantMappings_testAutoClear_3
+org.apache.openjpa.persistence.AutoClearType		0.8333333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence/target/clover/org/apache/openjpa/persistence/TestEnumToKernelConstantMappings_testAutoDetach_b
+org.apache.openjpa.persistence.AutoDetachType		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence/target/clover/org/apache/openjpa/persistence/TestEnumToKernelConstantMappings_testCallbackMode_6
+org.apache.openjpa.persistence.CallbackMode		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence/target/clover/org/apache/openjpa/persistence/TestEnumToKernelConstantMappings_testConnectionRetainModes_a
+org.apache.openjpa.persistence.ConnectionRetainMode		0.85714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence/target/clover/org/apache/openjpa/persistence/TestEnumToKernelConstantMappings_testDetachState_7
+org.apache.openjpa.persistence.DetachStateType		0.85714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence/target/clover/org/apache/openjpa/persistence/TestEnumToKernelConstantMappings_testQueryOperationTypes_0
+org.apache.openjpa.persistence.QueryOperationType		0.85714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence/target/clover/org/apache/openjpa/persistence/TestEnumToKernelConstantMappings_testRestoreState_2
+org.apache.openjpa.persistence.RestoreStateType		0.85714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence/target/clover/org/apache/openjpa/persistence/TestPersistenceProductDerivation
+TestPersistenceProductDerivation		0.8962963
+TestPersistenceProductDerivation.TempUrlLoader		1.0
+TestPersistenceProductDerivation.TestEncryptionProvider		0.71428573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence/target/clover/org/apache/openjpa/persistence/TestPersistenceProductDerivation_testEncryptionPluginConfigurationDefaultValue_4
+org.apache.openjpa.persistence.PersistenceProductDerivation.ConfigurationParser		0.6616541
+org.apache.openjpa.persistence.PersistenceProductDerivation.ConfigurationProviderImpl		0.5833333
+org.apache.openjpa.persistence.PersistenceProductDerivation		0.41379312
+org.apache.openjpa.persistence.EntityManagerFactoryValue		0.375
+org.apache.openjpa.persistence.PersistenceUnitInfoImpl		0.31129476
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence/target/clover/org/apache/openjpa/persistence/TestPersistenceProductDerivation_testEncryptionPluginConfiguration_8
+org.apache.openjpa.persistence.PersistenceProductDerivation.ConfigurationParser		0.6616541
+org.apache.openjpa.persistence.PersistenceProductDerivation.ConfigurationProviderImpl		0.5833333
+org.apache.openjpa.persistence.PersistenceProductDerivation		0.40147784
+org.apache.openjpa.persistence.EntityManagerFactoryValue		0.375
+org.apache.openjpa.persistence.PersistenceUnitInfoImpl		0.31129476
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence/target/clover/org/apache/openjpa/persistence/TestPersistenceProductDerivation_testExcludeUnlistedClasses_9
+org.apache.openjpa.persistence.PersistenceProductDerivation.ConfigurationParser		0.59398496
+org.apache.openjpa.persistence.PersistenceUnitInfoImpl		0.060606062
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence/target/clover/org/apache/openjpa/persistence/TestPersistenceProductDerivation_testGetAnchorsInResource_5
+org.apache.openjpa.persistence.PersistenceProductDerivation.ConfigurationParser		0.6616541
+org.apache.openjpa.persistence.PersistenceProductDerivation		0.07635468
+org.apache.openjpa.persistence.PersistenceUnitInfoImpl		0.0661157
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence/target/clover/org/apache/openjpa/persistence/TestPersistenceProductDerivation_testJPA1ExcludeUnlistedClasses_1
+org.apache.openjpa.persistence.PersistenceProductDerivation.ConfigurationParser		0.6616541
+org.apache.openjpa.persistence.PersistenceProductDerivation		0.098522164
+org.apache.openjpa.persistence.PersistenceUnitInfoImpl		0.071625344
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence/target/clover/org/apache/openjpa/persistence/test-TestEnumToKernelConstantMappings
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence/target/clover/org/apache/openjpa/persistence/test-TestPersistenceProductDerivation
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence/target/clover/org/apache/openjpa/persistence/test-TestPersistenceProductDerivation_TempUrlLoader
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence/target/clover/org/apache/openjpa/persistence/test-TestPersistenceProductDerivation_TestEncryptionProvider
+-- -- -- -- -- -- -- -- -- -- -- -- --

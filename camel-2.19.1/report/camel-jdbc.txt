@@ -1,0 +1,356 @@
+./components/camel-jdbc/target/site/clover/org/apache/camel
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/AbstractJdbcGeneratedKeysTest
+AbstractJdbcGeneratedKeysTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/AbstractJdbcTestSupport
+AbstractJdbcTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcAnotherRouteTest
+JdbcAnotherRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcAnotherRouteTest_testTimerInvoked_8
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.ResultSetIterator		0.70886075
+org.apache.camel.component.jdbc.JdbcProducer		0.37545127
+org.apache.camel.component.jdbc.JdbcEndpoint		0.17142858
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcEndpointTest
+JdbcEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcEndpointTest_testJdbcRoutes_y
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.ResultSetIterator		0.70886075
+org.apache.camel.component.jdbc.JdbcProducer		0.37545127
+org.apache.camel.component.jdbc.JdbcEndpoint		0.17142858
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcFix9491Test
+JdbcFix9491Test		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcFix9491Test_testTimerInvoked_q
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.ResultSetIterator		0.70886075
+org.apache.camel.component.jdbc.JdbcProducer		0.38267148
+org.apache.camel.component.jdbc.JdbcEndpoint		0.17142858
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcGeneratedKeysTest
+JdbcGeneratedKeysTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcGeneratedKeysTest_testGivenAnInvalidGeneratedColumnsHeaderThenAnExceptionIsThrown_z
+org.apache.camel.component.jdbc.JdbcProducer		0.28158844
+org.apache.camel.component.jdbc.JdbcEndpoint		0.057142857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcGeneratedKeysTest_testRetrieveGeneratedKeysWithIntGeneratedColumns_a
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.ResultSetIterator		0.6455696
+org.apache.camel.component.jdbc.JdbcProducer		0.37184116
+org.apache.camel.component.jdbc.JdbcEndpoint		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcGeneratedKeysTest_testRetrieveGeneratedKeysWithStringGeneratedColumns_0
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.ResultSetIterator		0.6455696
+org.apache.camel.component.jdbc.JdbcProducer		0.36462092
+org.apache.camel.component.jdbc.JdbcEndpoint		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcGeneratedKeysTest_testRetrieveGeneratedKeys_m
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.ResultSetIterator		0.6455696
+org.apache.camel.component.jdbc.JdbcProducer		0.35740072
+org.apache.camel.component.jdbc.JdbcEndpoint		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcOptionsTest
+JdbcOptionsTest		0.974359
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcOptionsTest_testInsertCommit_d
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.ResultSetIterator		0.70886075
+org.apache.camel.component.jdbc.JdbcProducer		0.40072203
+org.apache.camel.component.jdbc.JdbcEndpoint		0.17142858
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcOptionsTest_testNoDataSourceInRegistry_1
+org.apache.camel.component.jdbc.JdbcComponent		0.27272728
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcOptionsTest_testReadSize_5
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.ResultSetIterator		0.5443038
+org.apache.camel.component.jdbc.JdbcProducer		0.38267148
+org.apache.camel.component.jdbc.JdbcEndpoint		0.17142858
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcOptionsTest_testResettingAutoCommitOption_p
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.ResultSetIterator		0.70886075
+org.apache.camel.component.jdbc.JdbcProducer		0.37545127
+org.apache.camel.component.jdbc.JdbcEndpoint		0.17142858
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcParameterizedQueryGeneratedKeysTest
+JdbcParameterizedQueryGeneratedKeysTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcParameterizedQueryGeneratedKeysTest_testGivenAnInvalidGeneratedColumnsHeaderThenAnExceptionIsThrown_9
+org.apache.camel.component.jdbc.DefaultJdbcPrepareStatementStrategy.NamedQueryParser		0.75
+org.apache.camel.component.jdbc.JdbcProducer		0.25270757
+org.apache.camel.component.jdbc.DefaultJdbcPrepareStatementStrategy		0.13513513
+org.apache.camel.component.jdbc.JdbcEndpoint		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcParameterizedQueryGeneratedKeysTest_testRetrieveGeneratedKeysWithIntGeneratedColumns_s
+org.apache.camel.component.jdbc.DefaultJdbcPrepareStatementStrategy.NamedQueryParser		1.0
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.DefaultJdbcPrepareStatementStrategy		0.7702703
+org.apache.camel.component.jdbc.ResultSetIterator		0.6455696
+org.apache.camel.component.jdbc.JdbcProducer		0.38267148
+org.apache.camel.component.jdbc.JdbcEndpoint		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcParameterizedQueryGeneratedKeysTest_testRetrieveGeneratedKeysWithStringGeneratedColumns_k
+org.apache.camel.component.jdbc.DefaultJdbcPrepareStatementStrategy.NamedQueryParser		1.0
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.DefaultJdbcPrepareStatementStrategy		0.7702703
+org.apache.camel.component.jdbc.ResultSetIterator		0.6455696
+org.apache.camel.component.jdbc.JdbcProducer		0.37545127
+org.apache.camel.component.jdbc.JdbcEndpoint		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcParameterizedQueryGeneratedKeysTest_testRetrieveGeneratedKeys_o
+org.apache.camel.component.jdbc.DefaultJdbcPrepareStatementStrategy.NamedQueryParser		1.0
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.DefaultJdbcPrepareStatementStrategy		0.7702703
+org.apache.camel.component.jdbc.ResultSetIterator		0.6455696
+org.apache.camel.component.jdbc.JdbcProducer		0.36823106
+org.apache.camel.component.jdbc.JdbcEndpoint		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcParameterizedQueryTest
+JdbcParameterizedQueryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcParameterizedQueryTest_testParameterizedQueryJdbcHeader_x
+org.apache.camel.component.jdbc.DefaultJdbcPrepareStatementStrategy.NamedQueryParser		1.0
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.DefaultJdbcPrepareStatementStrategy		0.7702703
+org.apache.camel.component.jdbc.ResultSetIterator		0.70886075
+org.apache.camel.component.jdbc.JdbcProducer		0.38628158
+org.apache.camel.component.jdbc.JdbcEndpoint		0.22857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcParameterizedQueryTest_testParameterizedQueryNoNames_n
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.DefaultJdbcPrepareStatementStrategy.NamedQueryParser		0.75
+org.apache.camel.component.jdbc.ResultSetIterator		0.70886075
+org.apache.camel.component.jdbc.DefaultJdbcPrepareStatementStrategy		0.47297296
+org.apache.camel.component.jdbc.JdbcProducer		0.38628158
+org.apache.camel.component.jdbc.JdbcEndpoint		0.22857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcParameterizedQueryTest_testParameterizedQuery_10
+org.apache.camel.component.jdbc.DefaultJdbcPrepareStatementStrategy.NamedQueryParser		1.0
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.DefaultJdbcPrepareStatementStrategy		0.7702703
+org.apache.camel.component.jdbc.ResultSetIterator		0.70886075
+org.apache.camel.component.jdbc.JdbcProducer		0.38628158
+org.apache.camel.component.jdbc.JdbcEndpoint		0.22857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcProducerConcurrenctTest
+JdbcProducerConcurrenctTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcProducerConcurrenctTest_testConcurrentProducers_3
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.ResultSetIterator		0.70886075
+org.apache.camel.component.jdbc.JdbcProducer		0.37545127
+org.apache.camel.component.jdbc.JdbcEndpoint		0.17142858
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcProducerConcurrenctTest_testNoConcurrentProducers_e
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.ResultSetIterator		0.70886075
+org.apache.camel.component.jdbc.JdbcProducer		0.37545127
+org.apache.camel.component.jdbc.JdbcEndpoint		0.17142858
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcProducerOutputTypeSelectListOutputClassTest
+JdbcProducerOutputTypeSelectListOutputClassTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcProducerOutputTypeSelectListOutputClassTest_testOutputTypeSelectListOutputClass_w
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.ResultSetIterator		0.70886075
+org.apache.camel.component.jdbc.DefaultBeanRowMapper		0.65
+org.apache.camel.component.jdbc.JdbcProducer		0.42238268
+org.apache.camel.component.jdbc.JdbcEndpoint		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcProducerOutputTypeSelectListTest
+JdbcProducerOutputTypeSelectListTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcProducerOutputTypeSelectListTest_testOutputTypeSelectList_v
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.ResultSetIterator		0.70886075
+org.apache.camel.component.jdbc.JdbcProducer		0.37545127
+org.apache.camel.component.jdbc.JdbcEndpoint		0.17142858
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcProducerOutputTypeSelectOneOutputClassTest
+JdbcProducerOutputTypeSelectOneOutputClassTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcProducerOutputTypeSelectOneOutputClassTest_testOutputTypeSelectOneOutputClass_g
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.ResultSetIterator		0.70886075
+org.apache.camel.component.jdbc.DefaultBeanRowMapper		0.65
+org.apache.camel.component.jdbc.JdbcProducer		0.40433213
+org.apache.camel.component.jdbc.JdbcEndpoint		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcProducerOutputTypeSelectOneTest
+JdbcProducerOutputTypeSelectOneTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcProducerOutputTypeSelectOneTest_testOutputTypeSelectOne_4
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.ResultSetIterator		0.70886075
+org.apache.camel.component.jdbc.JdbcProducer		0.36462092
+org.apache.camel.component.jdbc.JdbcEndpoint		0.17142858
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcProducerOutputTypeStreamListTest
+JdbcProducerOutputTypeStreamListTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcProducerOutputTypeStreamListTest_shouldReturnAnIterator_2
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		0.71428573
+org.apache.camel.component.jdbc.JdbcProducer.ResultSetIteratorCompletion		0.625
+org.apache.camel.component.jdbc.ResultSetIterator		0.5822785
+org.apache.camel.component.jdbc.JdbcProducer		0.2166065
+org.apache.camel.component.jdbc.JdbcEndpoint		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcProducerOutputTypeStreamListTest_shouldStreamResultRows_f
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.ResultSetIterator		0.79746836
+org.apache.camel.component.jdbc.JdbcProducer.ResultSetIteratorCompletion		0.625
+org.apache.camel.component.jdbc.JdbcProducer		0.2166065
+org.apache.camel.component.jdbc.JdbcEndpoint		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcRSMetaDataTest
+JdbcRSMetaDataTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcRSMetaDataTest_testJdbcRSMetaData_l
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.ResultSetIterator		0.70886075
+org.apache.camel.component.jdbc.JdbcProducer		0.37545127
+org.apache.camel.component.jdbc.JdbcEndpoint		0.17142858
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcRouteKeyOrderingTest
+JdbcRouteKeyOrderingTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcRouteKeyOrderingTest_testJdbcRoutes_i
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.ResultSetIterator		0.70886075
+org.apache.camel.component.jdbc.JdbcProducer		0.37545127
+org.apache.camel.component.jdbc.JdbcEndpoint		0.17142858
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcRouteSplitTest
+JdbcRouteSplitTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcRouteSplitTest_testJdbcRoutes_h
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.ResultSetIterator		0.70886075
+org.apache.camel.component.jdbc.JdbcProducer		0.37545127
+org.apache.camel.component.jdbc.JdbcEndpoint		0.17142858
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcRouteTest
+JdbcRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcRouteTest_testJdbcRoutes_c
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.ResultSetIterator		0.70886075
+org.apache.camel.component.jdbc.JdbcProducer		0.37545127
+org.apache.camel.component.jdbc.JdbcEndpoint		0.17142858
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcRouteUsingSqlSelectAliasJdbc3Test
+JdbcRouteUsingSqlSelectAliasJdbc3Test		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcRouteUsingSqlSelectAliasJdbc3Test_testJdbcRoutes_t
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.ResultSetIterator		0.721519
+org.apache.camel.component.jdbc.JdbcProducer		0.37545127
+org.apache.camel.component.jdbc.JdbcEndpoint		0.17142858
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcRouteUsingSqlSelectAliasTest
+JdbcRouteUsingSqlSelectAliasTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcRouteUsingSqlSelectAliasTest_testJdbcRoutes_u
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.ResultSetIterator		0.70886075
+org.apache.camel.component.jdbc.JdbcProducer		0.37545127
+org.apache.camel.component.jdbc.JdbcEndpoint		0.17142858
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcSpringAnotherRouteTest
+JdbcSpringAnotherRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcSpringAnotherRouteTest_testTimerInvoked_r
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.ResultSetIterator		0.70886075
+org.apache.camel.component.jdbc.JdbcProducer		0.37545127
+org.apache.camel.component.jdbc.JdbcEndpoint		0.17142858
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcStatementParametersTest
+JdbcStatementParametersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcStatementParametersTest_testMax2Rows_j
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.ResultSetIterator		0.70886075
+org.apache.camel.component.jdbc.JdbcProducer		0.38267148
+org.apache.camel.component.jdbc.JdbcEndpoint		0.17142858
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcStatementParametersTest_testMax5Rows_6
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.ResultSetIterator		0.70886075
+org.apache.camel.component.jdbc.JdbcComponent		0.59090906
+org.apache.camel.component.jdbc.JdbcProducer		0.40072203
+org.apache.camel.component.jdbc.JdbcEndpoint		0.32857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcStatementParametersTest_testNoParameters_b
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.ResultSetIterator		0.70886075
+org.apache.camel.component.jdbc.JdbcComponent		0.59090906
+org.apache.camel.component.jdbc.JdbcProducer		0.39350182
+org.apache.camel.component.jdbc.JdbcEndpoint		0.32857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcTransformSimpleTest
+JdbcTransformSimpleTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/JdbcTransformSimpleTest_testJdbcRoutes_7
+org.apache.camel.component.jdbc.ResultSetIterator.DefaultColumn		1.0
+org.apache.camel.component.jdbc.ResultSetIterator		0.70886075
+org.apache.camel.component.jdbc.JdbcProducer		0.37545127
+org.apache.camel.component.jdbc.JdbcEndpoint		0.17142858
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/test-AbstractJdbcGeneratedKeysTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/test-AbstractJdbcTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/test-JdbcAnotherRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/test-JdbcEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/test-JdbcFix9491Test
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/test-JdbcGeneratedKeysTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/test-JdbcOptionsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/test-JdbcParameterizedQueryGeneratedKeysTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/test-JdbcParameterizedQueryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/test-JdbcProducerConcurrenctTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/test-JdbcProducerOutputTypeSelectListOutputClassTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/test-JdbcProducerOutputTypeSelectListTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/test-JdbcProducerOutputTypeSelectOneOutputClassTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/test-JdbcProducerOutputTypeSelectOneTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/test-JdbcProducerOutputTypeStreamListTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/test-JdbcRSMetaDataTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/test-JdbcRouteKeyOrderingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/test-JdbcRouteSplitTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/test-JdbcRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/test-JdbcRouteUsingSqlSelectAliasJdbc3Test
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/test-JdbcRouteUsingSqlSelectAliasTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/test-JdbcSpringAnotherRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/test-JdbcStatementParametersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jdbc/target/site/clover/org/apache/camel/component/jdbc/test-JdbcTransformSimpleTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,709 @@
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/AbstractApprovalIntegrationTest
+AbstractApprovalIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/AbstractBulkApiTestBase
+AbstractBulkApiTestBase		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/AbstractSalesforceTestBase
+AbstractSalesforceTestBase		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/AnalyticsApiIntegrationTest
+AnalyticsApiIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/ApprovalExamplesIntegrationTest
+ApprovalExamplesIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/ApprovalIntegrationTest
+ApprovalIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/BulkApiBatchIntegrationTest
+BulkApiBatchIntegrationTest		0.0
+BulkApiBatchIntegrationTest.BatchTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/BulkApiIntegrationTest
+BulkApiIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/BulkApiJobIntegrationTest
+BulkApiJobIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/BulkApiQueryIntegrationTest
+BulkApiQueryIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/CompositeApiBatchIntegrationTest
+CompositeApiBatchIntegrationTest		0.0
+CompositeApiBatchIntegrationTest.Accounts		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/CompositeApiTreeIntegrationTest
+CompositeApiTreeIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/CompoundTypesIntegrationTest
+CompoundTypesIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/HttpProxyIntegrationTest
+HttpProxyIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/LimitsIntegrationTest
+LimitsIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/NotFoundIntegrationTest
+NotFoundIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/RecentIntegrationTest
+RecentIntegrationTest		0.0
+RecentIntegrationTest.Accounts		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/RestApiIntegrationTest
+RestApiIntegrationTest		0.0
+RestApiIntegrationTest.MerchandiseRequest		0.0
+RestApiIntegrationTest.MerchandiseResponse		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/SalesforceComponentVerifierTest
+SalesforceComponentVerifierTest		0.1125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/SalesforceEndpointTest
+SalesforceEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/SalesforceEndpointTest_allOperationValuesShouldBeListedInOperationNameUriPath_2b
+org.apache.camel.component.salesforce.internal.OperationName		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/SalesforceJwtBearerTokenFlowIntegrationTest
+SalesforceJwtBearerTokenFlowIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/StreamingApiIntegrationTest
+StreamingApiIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/MultiSelectPicklistJsonTest
+MultiSelectPicklistJsonTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/MultiSelectPicklistJsonTest_testMarshal_i
+testMarshal
+org.apache.camel.component.salesforce.api.MultiSelectPicklistSerializer		0.94736844
+org.apache.camel.component.salesforce.api.dto.AbstractSObjectBase		0.41269842
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/MultiSelectPicklistJsonTest_testUnmarshal_23
+testUnmarshal
+org.apache.camel.component.salesforce.api.utils.DateTimeModule		1.0
+org.apache.camel.component.salesforce.api.utils.JsonUtils		1.0
+org.apache.camel.component.salesforce.api.MultiSelectPicklistDeserializer		0.8235294
+org.apache.camel.component.salesforce.api.utils.DateTimeSerializer		0.5
+org.apache.camel.component.salesforce.api.utils.DateTimeDeserializer		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/MultiSelectPicklistXmlTest
+MultiSelectPicklistXmlTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/MultiSelectPicklistXmlTest_testMarshal_2d
+testMarshal
+org.apache.camel.component.salesforce.api.MultiSelectPicklistConverter		0.5405405
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/MultiSelectPicklistXmlTest_testUnmarshal_j
+testUnmarshal
+org.apache.camel.component.salesforce.api.MultiSelectPicklistConverter		0.4864865
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/LimitsTest
+LimitsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/LimitsTest_shouldBeKnownIfDefined_1b
+org.apache.camel.component.salesforce.api.dto.Limits.Usage		0.2173913
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/LimitsTest_shouldDeserializeFromSalesforceGeneratedJSON_28
+org.apache.camel.component.salesforce.api.dto.Limits.LimitsDeserializer		1.0
+org.apache.camel.component.salesforce.api.dto.Limits.Usage		0.47826087
+org.apache.camel.component.salesforce.api.dto.Limits		0.115384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/LimitsTest_shouldSupportGettingAllDefinedUsages_1l
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/LimitsTest_usageShouldBeUnknownIfUnknown_1r
+org.apache.camel.component.salesforce.api.dto.Limits.Usage		0.08695652
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/RecentItemTest
+RecentItemTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/RecentItemTest_shouldDeserializeFromJSON_20
+org.apache.camel.component.salesforce.api.dto.Attributes		1.0
+org.apache.camel.component.salesforce.api.dto.RecentItem		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/RestErrorTest
+RestErrorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/RestErrorTest_shouldDeserializeFromJson_3
+org.apache.camel.component.salesforce.api.dto.RestError		0.35555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/RestErrorTest_shouldDeserializeFromXml_16
+org.apache.camel.component.salesforce.api.dto.RestError		0.15555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/approval/ApprovalRequestTest
+ApprovalRequestTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/approval/ApprovalRequestTest_shouldApplyValuesFromTemplate_1d
+org.apache.camel.component.salesforce.api.dto.approval.ApprovalRequest.FieldHolder		1.0
+org.apache.camel.component.salesforce.api.dto.approval.ApprovalRequest		0.44871795
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/approval/ApprovalRequestTest_shouldSerializeAsJson_2
+org.apache.camel.component.salesforce.api.dto.approval.ApprovalRequest		0.20512821
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/approval/ApprovalRequestTest_shouldSerializeAsXml_21
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/approval/ApprovalRequestTest_shouldTolerateNullTemplates_0
+org.apache.camel.component.salesforce.api.dto.approval.ApprovalRequest		0.051282052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/approval/ApprovalRequestsTest
+ApprovalRequestsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/approval/ApprovalRequestsTest_shouldSerializeAsJson_1i
+org.apache.camel.component.salesforce.api.dto.approval.ApprovalRequest		0.20512821
+org.apache.camel.component.salesforce.api.dto.approval.ApprovalRequests		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/approval/ApprovalRequestsTest_shouldSerializeAsXml_1t
+org.apache.camel.component.salesforce.internal.client.XStreamUtils		0.6315789
+org.apache.camel.component.salesforce.api.utils.DateTimeConverter		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/approval/ApprovalResultTest
+ApprovalResultTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/approval/ApprovalResultTest_shouldDeserializeFromJson_2e
+org.apache.camel.component.salesforce.api.dto.approval.ApprovalResult.ApprovalResultDeserializer		1.0
+org.apache.camel.component.salesforce.api.dto.approval.ApprovalResult.Result		0.90909094
+org.apache.camel.component.salesforce.api.dto.approval.ApprovalResult		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/approval/ApprovalResultTest_shouldDeserializeFromXml_1
+org.apache.camel.component.salesforce.api.dto.approval.ApprovalResult		0.75
+org.apache.camel.component.salesforce.api.dto.approval.ApprovalResult.Result		0.54545456
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/approval/ApprovalsTest
+ApprovalsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/approval/ApprovalsTest_shouldDeserialize_12
+org.apache.camel.component.salesforce.api.dto.approval.Approvals.Info		0.6666667
+org.apache.camel.component.salesforce.api.dto.approval.Approvals		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/approval/test-ApprovalRequestTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/approval/test-ApprovalRequestsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/approval/test-ApprovalResultTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/approval/test-ApprovalsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/CompositeTestBase
+CompositeTestBase		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/MapOfMapsConverterTest
+MapOfMapsConverterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/MapOfMapsConverterTest_shoulUnmarshallToMapTrivialCase_u
+org.apache.camel.component.salesforce.api.dto.composite.MapOfMapsConverter		0.5952381
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/MapOfMapsConverterTest_shoulUnmarshallToMapWithNestedMapAndAttributes_8
+org.apache.camel.component.salesforce.api.dto.composite.MapOfMapsConverter		0.88095236
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/MapOfMapsConverterTest_shoulUnmarshallToMapWithNestedMap_e
+org.apache.camel.component.salesforce.api.dto.composite.MapOfMapsConverter		0.5952381
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/MapOfMapsConverterTest_shoulUnmarshallToMapWithTwoElements_y
+org.apache.camel.component.salesforce.api.dto.composite.MapOfMapsConverter		0.5952381
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/MapOfMapsConverterTest_shoulUnmarshallWithAttributesToMapTrivialCase_6
+org.apache.camel.component.salesforce.api.dto.composite.MapOfMapsConverter		0.8095238
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectBatchResponseTest
+SObjectBatchResponseTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectBatchResponseTest_shouldDeserializeFromJson_17
+org.apache.camel.component.salesforce.api.dto.composite.SObjectBatchResponse		0.7777778
+org.apache.camel.component.salesforce.api.dto.composite.SObjectBatchResult		0.7777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectBatchResponseTest_shouldDeserializeFromXml_13
+org.apache.camel.component.salesforce.api.dto.composite.MapOfMapsConverter		0.8333333
+org.apache.camel.component.salesforce.api.dto.composite.SObjectBatchResponse		0.44444445
+org.apache.camel.component.salesforce.api.dto.composite.SObjectBatchResult		0.44444445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectBatchTest
+SObjectBatchTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectBatchTest_shouldSerializeToJson_o
+org.apache.camel.component.salesforce.api.dto.composite.BatchRequest		0.42857143
+org.apache.camel.component.salesforce.api.dto.AbstractSObjectBase		0.41269842
+org.apache.camel.component.salesforce.api.dto.composite.SObjectBatch		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectBatchTest_shouldSerializeToXml_9
+org.apache.camel.component.salesforce.api.dto.AnnotationFieldKeySorter		1.0
+org.apache.camel.component.salesforce.api.dto.AnnotationFieldKeySorter.AnnotationFieldOrderComparator		1.0
+org.apache.camel.component.salesforce.api.dto.composite.RichInputConverter		0.6
+org.apache.camel.component.salesforce.api.PicklistEnumConverter		0.47058824
+org.apache.camel.component.salesforce.api.dto.composite.BatchRequest		0.14285715
+org.apache.camel.component.salesforce.api.dto.composite.SObjectBatch		0.039473683
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectNodeTest
+SObjectNodeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectNodeTest_shouldBeAbleToAddChildNode_1k
+org.apache.camel.component.salesforce.api.dto.composite.Counter		1.0
+org.apache.camel.component.salesforce.api.dto.composite.Attributes		0.33333334
+org.apache.camel.component.salesforce.api.dto.composite.SObjectNode		0.31944445
+org.apache.camel.component.salesforce.api.dto.composite.SObjectTree		0.049382716
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectNodeTest_shouldBeAbleToAddChildObject_s
+org.apache.camel.component.salesforce.api.dto.composite.Counter		1.0
+org.apache.camel.component.salesforce.api.dto.composite.SObjectNode		0.3888889
+org.apache.camel.component.salesforce.api.dto.composite.Attributes		0.33333334
+org.apache.camel.component.salesforce.api.dto.composite.SObjectTree		0.049382716
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectNodeTest_shouldBeAbleToFetchChildNodes_26
+org.apache.camel.component.salesforce.api.dto.composite.Counter		1.0
+org.apache.camel.component.salesforce.api.dto.composite.Attributes		0.33333334
+org.apache.camel.component.salesforce.api.dto.composite.SObjectNode		0.31944445
+org.apache.camel.component.salesforce.api.dto.composite.SObjectTree		0.049382716
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectNodeTest_shouldBeAbleToFetchChildren_d
+org.apache.camel.component.salesforce.api.dto.composite.Counter		1.0
+org.apache.camel.component.salesforce.api.dto.composite.SObjectNode		0.3888889
+org.apache.camel.component.salesforce.api.dto.composite.Attributes		0.33333334
+org.apache.camel.component.salesforce.api.dto.composite.SObjectTree		0.049382716
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectNodeTest_shouldCreateNodeWithoutChildRecords_p
+org.apache.camel.component.salesforce.api.dto.composite.Counter		1.0
+org.apache.camel.component.salesforce.api.dto.composite.Attributes		0.33333334
+org.apache.camel.component.salesforce.api.dto.composite.SObjectNode		0.11111111
+org.apache.camel.component.salesforce.api.dto.composite.SObjectTree		0.049382716
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectNodeTest_shouldCreateNode_1c
+org.apache.camel.component.salesforce.api.dto.composite.Counter		1.0
+org.apache.camel.component.salesforce.api.dto.composite.SObjectNode		0.3611111
+org.apache.camel.component.salesforce.api.dto.composite.Attributes		0.33333334
+org.apache.camel.component.salesforce.api.dto.composite.SObjectTree		0.049382716
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectNodeTest_shouldFetchChildrenNodesOfType_1z
+org.apache.camel.component.salesforce.api.dto.composite.Counter		1.0
+org.apache.camel.component.salesforce.api.dto.composite.Attributes		0.33333334
+org.apache.camel.component.salesforce.api.dto.composite.SObjectNode		0.33333334
+org.apache.camel.component.salesforce.api.dto.composite.SObjectTree		0.049382716
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectNodeTest_shouldFetchChildrenOfType_l
+org.apache.camel.component.salesforce.api.dto.composite.Counter		1.0
+org.apache.camel.component.salesforce.api.dto.composite.SObjectNode		0.4027778
+org.apache.camel.component.salesforce.api.dto.composite.Attributes		0.33333334
+org.apache.camel.component.salesforce.api.dto.composite.SObjectTree		0.049382716
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectNodeTest_shouldSupportAddingDescribedSObjects_g
+org.apache.camel.component.salesforce.api.dto.composite.Counter		1.0
+org.apache.camel.component.salesforce.api.dto.composite.SObjectNode		0.5555556
+org.apache.camel.component.salesforce.api.dto.composite.Attributes		0.33333334
+org.apache.camel.component.salesforce.api.dto.composite.SObjectTree		0.049382716
+org.apache.camel.component.salesforce.api.dto.SObject		0.01923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectNodeTest_typeOfShouldBeBasedOnSimpleClassName_1x
+org.apache.camel.component.salesforce.api.dto.composite.SObjectNode		0.041666668
+org.apache.camel.component.salesforce.api.dto.SObject		0.01923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectTreeResponseTest
+SObjectTreeResponseTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectTreeResponseTest_shouldDeserializeJsonFromSalesforceExample_1m
+org.apache.camel.component.salesforce.api.dto.composite.SObjectTreeResponse		0.7777778
+org.apache.camel.component.salesforce.api.dto.composite.ReferenceId		0.2888889
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectTreeResponseTest_shouldDeserializeJsonFromSalesforceFailureExample_2f
+org.apache.camel.component.salesforce.api.dto.composite.SObjectTreeResponse		0.7777778
+org.apache.camel.component.salesforce.api.dto.RestError		0.44444445
+org.apache.camel.component.salesforce.api.dto.composite.ReferenceId		0.2888889
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectTreeResponseTest_shouldDeserializeXmlFromSalesforceExample_1w
+org.apache.camel.component.salesforce.api.dto.composite.SObjectTreeResponse		0.44444445
+org.apache.camel.component.salesforce.api.dto.composite.ReferenceId		0.2888889
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectTreeResponseTest_shouldDeserializeXmlFromSalesforceFailureExample_b
+org.apache.camel.component.salesforce.api.dto.composite.SObjectTreeResponse		0.44444445
+org.apache.camel.component.salesforce.api.dto.RestError		0.2888889
+org.apache.camel.component.salesforce.api.dto.composite.ReferenceId		0.2888889
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectTreeTest
+SObjectTreeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectTreeTest_emptyTreeShouldBeZeroSized_a
+org.apache.camel.component.salesforce.api.dto.composite.SObjectTree		0.074074075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectTreeTest_shouldCollectAllObjectTypesInTheTree_2a
+org.apache.camel.component.salesforce.api.dto.composite.Counter		1.0
+org.apache.camel.component.salesforce.api.dto.composite.SObjectNode		0.45833334
+org.apache.camel.component.salesforce.api.dto.composite.Attributes		0.33333334
+org.apache.camel.component.salesforce.api.dto.composite.SObjectTree		0.20987654
+org.apache.camel.component.salesforce.api.dto.SObject		0.01923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectTreeTest_shouldSerializeToJson_r
+org.apache.camel.component.salesforce.api.dto.composite.Counter		1.0
+org.apache.camel.component.salesforce.api.dto.composite.Attributes		0.7777778
+org.apache.camel.component.salesforce.api.dto.AbstractSObjectBase		0.41269842
+org.apache.camel.component.salesforce.api.dto.composite.SObjectNode		0.3611111
+org.apache.camel.component.salesforce.api.dto.composite.SObjectTree		0.13580246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectTreeTest_shouldSerializeToXml_5
+org.apache.camel.component.salesforce.api.dto.composite.Counter		1.0
+org.apache.camel.component.salesforce.api.dto.composite.SObjectNodeXStreamConverter		0.84615386
+org.apache.camel.component.salesforce.api.PicklistEnumConverter		0.47058824
+org.apache.camel.component.salesforce.api.dto.composite.Attributes		0.33333334
+org.apache.camel.component.salesforce.api.dto.composite.SObjectNode		0.33333334
+org.apache.camel.component.salesforce.api.dto.composite.SObjectTree		0.13580246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectTreeTest_shouldSetIdByReferencesForNestedObjects_1u
+org.apache.camel.component.salesforce.api.dto.composite.Counter		1.0
+org.apache.camel.component.salesforce.api.dto.composite.Attributes		0.5555556
+org.apache.camel.component.salesforce.api.dto.composite.SObjectTree		0.37037036
+org.apache.camel.component.salesforce.api.dto.composite.SObjectNode		0.33333334
+org.apache.camel.component.salesforce.api.dto.AbstractSObjectBase		0.06349207
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectTreeTest_shouldSetIdByReferences_1n
+org.apache.camel.component.salesforce.api.dto.composite.Counter		1.0
+org.apache.camel.component.salesforce.api.dto.composite.Attributes		0.5555556
+org.apache.camel.component.salesforce.api.dto.composite.SObjectNode		0.41666666
+org.apache.camel.component.salesforce.api.dto.composite.SObjectTree		0.38271606
+org.apache.camel.component.salesforce.api.dto.AbstractSObjectBase		0.06349207
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectTreeTest_shouldSetReferences_4
+org.apache.camel.component.salesforce.api.dto.composite.Counter		1.0
+org.apache.camel.component.salesforce.api.dto.composite.Attributes		0.5555556
+org.apache.camel.component.salesforce.api.dto.composite.SObjectNode		0.3888889
+org.apache.camel.component.salesforce.api.dto.composite.SObjectTree		0.13580246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectTreeTest_shouldSupportBuildingObjectTree_z
+org.apache.camel.component.salesforce.api.dto.composite.Counter		1.0
+org.apache.camel.component.salesforce.api.dto.composite.SObjectNode		0.4722222
+org.apache.camel.component.salesforce.api.dto.composite.Attributes		0.33333334
+org.apache.camel.component.salesforce.api.dto.composite.SObjectTree		0.17283951
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectTreeTest_treeWithOneNodeShouldHaveSizeOfOne_1y
+org.apache.camel.component.salesforce.api.dto.composite.Counter		1.0
+org.apache.camel.component.salesforce.api.dto.composite.Attributes		0.33333334
+org.apache.camel.component.salesforce.api.dto.composite.SObjectTree		0.19753087
+org.apache.camel.component.salesforce.api.dto.composite.SObjectNode		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectTreeTest_treeWithTwoNestedNodesShouldHaveSizeOfTwo_7
+org.apache.camel.component.salesforce.api.dto.composite.Counter		1.0
+org.apache.camel.component.salesforce.api.dto.composite.SObjectNode		0.3472222
+org.apache.camel.component.salesforce.api.dto.composite.Attributes		0.33333334
+org.apache.camel.component.salesforce.api.dto.composite.SObjectTree		0.19753087
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/SObjectTreeTest_treeWithTwoNodesShouldHaveSizeOfTwo_1a
+org.apache.camel.component.salesforce.api.dto.composite.Counter		1.0
+org.apache.camel.component.salesforce.api.dto.composite.Attributes		0.33333334
+org.apache.camel.component.salesforce.api.dto.composite.SObjectTree		0.19753087
+org.apache.camel.component.salesforce.api.dto.composite.SObjectNode		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/test-CompositeTestBase
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/test-MapOfMapsConverterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/test-SObjectBatchResponseTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/test-SObjectBatchTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/test-SObjectNodeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/test-SObjectTreeResponseTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/composite/test-SObjectTreeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/test-LimitsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/test-RecentItemTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/dto/test-RestErrorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/test-MultiSelectPicklistJsonTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/test-MultiSelectPicklistXmlTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/utils/DateTimeUtilsTest
+DateTimeUtilsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/utils/DateTimeUtilsTest_testFormatDateTime_v
+org.apache.camel.component.salesforce.api.utils.DateTimeUtils		0.18181819
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/utils/DateTimeUtilsTest_testParseDateTime_c
+org.apache.camel.component.salesforce.api.utils.DateTimeUtils		0.8181818
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/utils/VersionTest
+VersionTest		0.9166667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/utils/VersionTest_shouldCreate_w
+org.apache.camel.component.salesforce.api.utils.Version		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/utils/VersionTest_shouldObserveApiLimitsOnMajorVersions_22
+org.apache.camel.component.salesforce.api.utils.Version		0.29545453
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/utils/VersionTest_shouldObserveApiLimitsOnMinorVersions_18
+org.apache.camel.component.salesforce.api.utils.Version		0.29545453
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/utils/VersionTest_shouldObserveApiLimits_25
+org.apache.camel.component.salesforce.api.utils.Version		0.3181818
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/utils/VersionTest_testComparator_19
+org.apache.camel.component.salesforce.api.utils.Version		0.1590909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/utils/test-DateTimeUtilsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/api/utils/test-VersionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/dto/generated/MSPTest
+MSPTest		1.0
+MSPTest.MSPEnum		0.90909094
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/dto/generated/test-MSPTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/dto/generated/test-MSPTest_MSPEnum
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/LoginTokenTest
+LoginTokenTest		0.90909094
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/LoginTokenTest_testLoginTokenWithUnknownFields_h
+testLoginTokenWithUnknownFields
+org.apache.camel.component.salesforce.api.utils.DateTimeModule		1.0
+org.apache.camel.component.salesforce.api.utils.JsonUtils		1.0
+org.apache.camel.component.salesforce.internal.dto.LoginToken		0.5714286
+org.apache.camel.component.salesforce.api.utils.DateTimeSerializer		0.5
+org.apache.camel.component.salesforce.api.utils.DateTimeDeserializer		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/SalesforceSessionTest
+SalesforceSessionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/SalesforceSessionTest_shouldGenerateJwtTokens_11
+shouldGenerateJwtTokens
+org.apache.camel.component.salesforce.api.utils.DateTimeModule		1.0
+org.apache.camel.component.salesforce.api.utils.JsonUtils		1.0
+org.apache.camel.component.salesforce.api.utils.DateTimeSerializer		0.5
+org.apache.camel.component.salesforce.SalesforceLoginConfig		0.35
+org.apache.camel.component.salesforce.internal.SalesforceSession		0.23493975
+org.apache.camel.component.salesforce.api.utils.DateTimeDeserializer		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/SessionIntegrationTest
+SessionIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/client/AbstractClientBaseTest
+AbstractClientBaseTest		1.0
+AbstractClientBaseTest.Client		0.8
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/client/AbstractClientBaseTest_shouldNotHangIfRequestsHaveFinished_14
+org.apache.camel.component.salesforce.internal.client.AbstractClientBase		0.31730768
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/client/AbstractClientBaseTest_shouldTimeoutWhenRequestsAreStillOngoing_1o
+org.apache.camel.component.salesforce.internal.client.AbstractClientBase		0.14423077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/client/DefaultCompositeApiClientTest
+DefaultCompositeApiClientTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/client/DefaultCompositeApiClientTest_shouldAllowNewerPayloadsWhenConfiguredWithNewerVersion_t
+org.apache.camel.component.salesforce.api.utils.Version		0.47727272
+org.apache.camel.component.salesforce.api.dto.composite.SObjectBatch		0.09210526
+org.apache.camel.component.salesforce.internal.client.DefaultCompositeApiClient		0.027027028
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/client/DefaultCompositeApiClientTest_shouldNotAllowNewerPayloadsWhenConfiguredWithOlderVersion_15
+org.apache.camel.component.salesforce.api.utils.Version		0.47727272
+org.apache.camel.component.salesforce.api.SalesforceException		0.17948718
+org.apache.camel.component.salesforce.api.dto.composite.SObjectBatch		0.09210526
+org.apache.camel.component.salesforce.internal.client.DefaultCompositeApiClient		0.036036037
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/client/DefaultCompositeApiClientTest_shouldUseCompositeApiFromVersion34Onwards_n
+org.apache.camel.component.salesforce.api.utils.Version		0.4318182
+org.apache.camel.component.salesforce.api.dto.composite.SObjectBatch		0.09210526
+org.apache.camel.component.salesforce.internal.client.DefaultCompositeApiClient		0.027027028
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/client/test-AbstractClientBaseTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/client/test-AbstractClientBaseTest_Client
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/client/test-DefaultCompositeApiClientTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/processor/AbstractRestProcessorApprovalTest
+AbstractRestProcessorApprovalTest		0.9787234
+AbstractRestProcessorApprovalTest.TestRestProcessor		0.7647059
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/processor/AbstractRestProcessorApprovalTest_shouldApplyTemplateToRequestFromBody_1g
+org.apache.camel.component.salesforce.api.dto.approval.ApprovalRequests		0.5
+org.apache.camel.component.salesforce.internal.processor.AbstractSalesforceProcessor		0.4473684
+org.apache.camel.component.salesforce.api.dto.approval.ApprovalRequest		0.35897437
+org.apache.camel.component.salesforce.SalesforceEndpoint		0.18032786
+org.apache.camel.component.salesforce.SalesforceEndpointConfig		0.12142857
+org.apache.camel.component.salesforce.internal.processor.AbstractRestProcessor		0.07333333
+org.apache.camel.component.salesforce.SalesforceComponent		0.01048951
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/processor/AbstractRestProcessorApprovalTest_shouldApplyTemplateToRequestsFromBody_k
+org.apache.camel.component.salesforce.internal.processor.AbstractSalesforceProcessor		0.4473684
+org.apache.camel.component.salesforce.api.dto.approval.ApprovalRequests		0.4
+org.apache.camel.component.salesforce.api.dto.approval.ApprovalRequest		0.35897437
+org.apache.camel.component.salesforce.SalesforceEndpoint		0.18032786
+org.apache.camel.component.salesforce.SalesforceEndpointConfig		0.12142857
+org.apache.camel.component.salesforce.internal.processor.AbstractRestProcessor		0.07333333
+org.apache.camel.component.salesforce.SalesforceComponent		0.01048951
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/processor/AbstractRestProcessorApprovalTest_shouldComplainIfNoHeaderGivenOrBodyIsEmptyIterable_1p
+org.apache.camel.component.salesforce.internal.processor.AbstractSalesforceProcessor		0.6052632
+org.apache.camel.component.salesforce.SalesforceEndpoint		0.18032786
+org.apache.camel.component.salesforce.api.SalesforceException		0.17948718
+org.apache.camel.component.salesforce.SalesforceEndpointConfig		0.12142857
+org.apache.camel.component.salesforce.internal.processor.AbstractRestProcessor		0.053333335
+org.apache.camel.component.salesforce.SalesforceComponent		0.01048951
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/processor/AbstractRestProcessorApprovalTest_shouldComplainIfNoHeaderOrBodyIsGiven_24
+org.apache.camel.component.salesforce.internal.processor.AbstractSalesforceProcessor		0.6052632
+org.apache.camel.component.salesforce.SalesforceEndpoint		0.18032786
+org.apache.camel.component.salesforce.api.SalesforceException		0.17948718
+org.apache.camel.component.salesforce.SalesforceEndpointConfig		0.12142857
+org.apache.camel.component.salesforce.internal.processor.AbstractRestProcessor		0.053333335
+org.apache.camel.component.salesforce.SalesforceComponent		0.01048951
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/processor/AbstractRestProcessorApprovalTest_shouldFetchApprovalRequestFromBody_x
+org.apache.camel.component.salesforce.internal.processor.AbstractSalesforceProcessor		0.6052632
+org.apache.camel.component.salesforce.api.dto.approval.ApprovalRequests		0.5
+org.apache.camel.component.salesforce.api.dto.approval.ApprovalRequest		0.30769232
+org.apache.camel.component.salesforce.SalesforceEndpoint		0.18032786
+org.apache.camel.component.salesforce.SalesforceEndpointConfig		0.12142857
+org.apache.camel.component.salesforce.internal.processor.AbstractRestProcessor		0.07333333
+org.apache.camel.component.salesforce.SalesforceComponent		0.01048951
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/processor/AbstractRestProcessorApprovalTest_shouldFetchApprovalRequestFromHeaderEvenIfBodyIsDefinedButNotConvertable_10
+org.apache.camel.component.salesforce.api.dto.approval.ApprovalRequests		0.5
+org.apache.camel.component.salesforce.internal.processor.AbstractSalesforceProcessor		0.4473684
+org.apache.camel.component.salesforce.api.dto.approval.ApprovalRequest		0.35897437
+org.apache.camel.component.salesforce.SalesforceEndpoint		0.18032786
+org.apache.camel.component.salesforce.SalesforceEndpointConfig		0.12142857
+org.apache.camel.component.salesforce.internal.processor.AbstractRestProcessor		0.09777778
+org.apache.camel.component.salesforce.SalesforceComponent		0.01048951
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/processor/AbstractRestProcessorApprovalTest_shouldFetchApprovalRequestFromHeader_1f
+org.apache.camel.component.salesforce.api.dto.approval.ApprovalRequests		0.5
+org.apache.camel.component.salesforce.internal.processor.AbstractSalesforceProcessor		0.4473684
+org.apache.camel.component.salesforce.SalesforceEndpoint		0.18032786
+org.apache.camel.component.salesforce.SalesforceEndpointConfig		0.12142857
+org.apache.camel.component.salesforce.api.dto.approval.ApprovalRequest		0.07692308
+org.apache.camel.component.salesforce.internal.processor.AbstractRestProcessor		0.064444445
+org.apache.camel.component.salesforce.SalesforceComponent		0.01048951
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/processor/AbstractRestProcessorApprovalTest_shouldFetchApprovalRequestsFromBody_f
+org.apache.camel.component.salesforce.internal.processor.AbstractSalesforceProcessor		0.6052632
+org.apache.camel.component.salesforce.api.dto.approval.ApprovalRequests		0.4
+org.apache.camel.component.salesforce.api.dto.approval.ApprovalRequest		0.30769232
+org.apache.camel.component.salesforce.internal.OperationName		0.18181819
+org.apache.camel.component.salesforce.SalesforceEndpoint		0.18032786
+org.apache.camel.component.salesforce.SalesforceEndpointConfig		0.12142857
+org.apache.camel.component.salesforce.internal.processor.AbstractRestProcessor		0.07333333
+org.apache.camel.component.salesforce.SalesforceComponent		0.01048951
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/processor/AbstractRestProcessorApprovalTest_shouldFetchApprovalRequestsFromMultiplePropertiesInMessageHeaders_1e
+org.apache.camel.component.salesforce.internal.processor.AbstractSalesforceProcessor		0.6052632
+org.apache.camel.component.salesforce.api.dto.approval.ApprovalRequests		0.5
+org.apache.camel.component.salesforce.SalesforceEndpoint		0.18032786
+org.apache.camel.component.salesforce.SalesforceEndpointConfig		0.12142857
+org.apache.camel.component.salesforce.api.dto.approval.ApprovalRequest		0.115384616
+org.apache.camel.component.salesforce.internal.processor.AbstractRestProcessor		0.08888889
+org.apache.camel.component.salesforce.SalesforceComponent		0.01048951
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/processor/AbstractRestProcessorApprovalTest_shouldHonorPriorities_q
+org.apache.camel.component.salesforce.api.dto.approval.ApprovalRequests		0.5
+org.apache.camel.component.salesforce.internal.processor.AbstractSalesforceProcessor		0.4473684
+org.apache.camel.component.salesforce.api.dto.approval.ApprovalRequest		0.30769232
+org.apache.camel.component.salesforce.SalesforceEndpoint		0.18032786
+org.apache.camel.component.salesforce.SalesforceEndpointConfig		0.12142857
+org.apache.camel.component.salesforce.internal.processor.AbstractRestProcessor		0.10222222
+org.apache.camel.component.salesforce.SalesforceComponent		0.01048951
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/processor/JsonRestProcessorTest
+JsonRestProcessorTest		1.0
+JsonRestProcessorTest.TestObject		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/processor/JsonRestProcessorTest_getRequestStream_m
+org.apache.camel.component.salesforce.api.utils.DateTimeModule		1.0
+org.apache.camel.component.salesforce.api.utils.DateTimeSerializer		1.0
+org.apache.camel.component.salesforce.api.utils.JsonUtils		1.0
+org.apache.camel.component.salesforce.internal.client.XStreamUtils		0.6315789
+org.apache.camel.component.salesforce.api.utils.DateTimeDeserializer		0.22222222
+org.apache.camel.component.salesforce.internal.processor.JsonRestProcessor		0.18584071
+org.apache.camel.component.salesforce.internal.processor.AbstractSalesforceProcessor		0.18421052
+org.apache.camel.component.salesforce.api.utils.DateTimeUtils		0.18181819
+org.apache.camel.component.salesforce.SalesforceEndpoint		0.18032786
+org.apache.camel.component.salesforce.SalesforceEndpointConfig		0.13571429
+org.apache.camel.component.salesforce.internal.client.AbstractClientBase		0.067307696
+org.apache.camel.component.salesforce.internal.client.DefaultRestClient		0.04054054
+org.apache.camel.component.salesforce.SalesforceComponent		0.017482517
+org.apache.camel.component.salesforce.internal.processor.AbstractRestProcessor		0.015555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/processor/test-AbstractRestProcessorApprovalTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/processor/test-AbstractRestProcessorApprovalTest_TestRestProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/processor/test-JsonRestProcessorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/processor/test-JsonRestProcessorTest_TestObject
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/streaming/SubscriptionHelperTest
+SubscriptionHelperTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/streaming/SubscriptionHelperTest_precedenceShouldBeFollowed_1h
+org.apache.camel.component.salesforce.internal.streaming.SubscriptionHelper		0.049833886
+org.apache.camel.component.salesforce.SalesforceEndpointConfig		0.028571429
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/streaming/SubscriptionHelperTest_shouldSupportInitialConfigMapWithTwoKeySyntaxes_1q
+org.apache.camel.component.salesforce.internal.streaming.SubscriptionHelper		0.049833886
+org.apache.camel.component.salesforce.SalesforceEndpointConfig		0.028571429
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/streaming/test-SubscriptionHelperTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/test-LoginTokenTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/test-SalesforceSessionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/internal/test-SessionIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/test-AbstractApprovalIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/test-AbstractBulkApiTestBase
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/test-AbstractSalesforceTestBase
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/test-AnalyticsApiIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/test-ApprovalExamplesIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/test-ApprovalIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/test-BulkApiBatchIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/test-BulkApiBatchIntegrationTest_BatchTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/test-BulkApiIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/test-BulkApiJobIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/test-BulkApiQueryIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/test-CompositeApiBatchIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/test-CompositeApiBatchIntegrationTest_Accounts
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/test-CompositeApiTreeIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/test-CompoundTypesIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/test-HttpProxyIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/test-LimitsIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/test-NotFoundIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/test-RecentIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/test-RecentIntegrationTest_Accounts
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/test-RestApiIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/test-RestApiIntegrationTest_MerchandiseRequest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/test-RestApiIntegrationTest_MerchandiseResponse
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/test-SalesforceComponentVerifierTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/test-SalesforceEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/test-SalesforceJwtBearerTokenFlowIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-salesforce/camel-salesforce-component/target/site/clover/org/apache/camel/component/salesforce/test-StreamingApiIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

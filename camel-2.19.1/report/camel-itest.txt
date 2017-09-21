@@ -1,0 +1,1018 @@
+./tests/camel-itest/target/site/clover/org/apache/camel
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/CamelJmsTestHelper
+CamelJmsTestHelper		0.8780488
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/ITestSupport
+ITestSupport		0.6875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/async/HttpAsyncCallbackTest
+HttpAsyncCallbackTest		1.0
+HttpAsyncCallbackTest.MyCallback		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/async/HttpAsyncCallbackTest_testAsyncAndSyncAtSameTimeWithHttp_3h
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/async/HttpAsyncDslTest
+HttpAsyncDslTest		1.0
+HttpAsyncDslTest.MyValidateOrderBean		1.0
+HttpAsyncDslTest.MyHandleOrderBean		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/async/HttpAsyncDslTest_testRequestOnly_2c
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/async/HttpAsyncDslTest_testRequestReply_3v
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/async/HttpAsyncTest
+HttpAsyncTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/async/HttpAsyncTestSupport
+HttpAsyncTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/async/HttpAsyncTest_testAsyncAndSyncAtSameTimeWithHttp_4d
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/async/HttpJmsAsyncTimeoutTest
+HttpJmsAsyncTimeoutTest		0.9444444
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/async/HttpJmsAsyncTimeoutTest_testHttpJmsAsync_2o
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/async/HttpSyncTest
+HttpSyncTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/async/HttpSyncTest_testSyncAndSyncAtSameTimeWithHttp_45
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/async/test-HttpAsyncCallbackTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/async/test-HttpAsyncCallbackTest_MyCallback
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/async/test-HttpAsyncDslTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/async/test-HttpAsyncDslTest_MyHandleOrderBean
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/async/test-HttpAsyncDslTest_MyValidateOrderBean
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/async/test-HttpAsyncTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/async/test-HttpAsyncTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/async/test-HttpJmsAsyncTimeoutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/async/test-HttpSyncTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/customerrelations/CustomerServicesTest
+CustomerServicesTest		1.0
+CustomerServicesTest.HeaderChecker		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/customerrelations/CustomerServicesTest_testCustomerService_2r
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/customerrelations/CustomerServicesWsAddressingTest
+CustomerServicesWsAddressingTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/customerrelations/CustomerServicesWsAddressingTest_testCustomerService_2a
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/customerrelations/test-CustomerServicesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/customerrelations/test-CustomerServicesTest_HeaderChecker
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/customerrelations/test-CustomerServicesWsAddressingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/BeanComponentConfigurationAndDocumentationTest
+BeanComponentConfigurationAndDocumentationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/BeanComponentConfigurationAndDocumentationTest_testComponentConfiguration_2v
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/BrowseComponentConfigurationAndDocumentationTest
+BrowseComponentConfigurationAndDocumentationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/BrowseComponentConfigurationAndDocumentationTest_testComponentConfiguration_1l
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/ControlBusComponentConfigurationAndDocumentationTest
+ControlBusComponentConfigurationAndDocumentationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/ControlBusComponentConfigurationAndDocumentationTest_testComponentConfiguration_e
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/DataFormatComponentConfigurationAndDocumentationTest
+DataFormatComponentConfigurationAndDocumentationTest		0.983871
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/DataFormatComponentConfigurationAndDocumentationTest_testComponentConfiguration_1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/DataFormatComponentConfigurationAndDocumentationTest_testFlatpackDefaultValue_15
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/DataFormatComponentConfigurationAndDocumentationTest_testUniVocityTsvEscapeChar_23
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/DataSetComponentConfigurationAndDocumentationTest
+DataSetComponentConfigurationAndDocumentationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/DataSetComponentConfigurationAndDocumentationTest_testComponentConfiguration_4j
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/DirectComponentConfigurationAndDocumentationTest
+DirectComponentConfigurationAndDocumentationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/DirectComponentConfigurationAndDocumentationTest_testComponentConfiguration_z
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/DirectComponentConfigurationAndDocumentationTest_testComponentJsonSchema_44
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/DirectVmComponentConfigurationAndDocumentationTest
+DirectVmComponentConfigurationAndDocumentationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/DirectVmComponentConfigurationAndDocumentationTest_testComponentConfiguration_48
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/EipDocumentationTest
+EipDocumentationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/EipDocumentationTest_testDocumentation_4h
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/EipDocumentationTest_testFailOverDocumentation_12
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/EipDocumentationTest_testNotFound_1f
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/EipDocumentationTest_testSimpleDocumentation_41
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/EipDocumentationTest_testSplitDocumentation_35
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/FileComponentConfigurationAndDocumentationTest
+FileComponentConfigurationAndDocumentationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/FileComponentConfigurationAndDocumentationTest_testComponentConfiguration_47
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/FtpComponentConfigurationAndDocumentationTest
+FtpComponentConfigurationAndDocumentationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/FtpComponentConfigurationAndDocumentationTest_testComponentConfiguration_1o
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/GroovyLanguageConfigurationAndDocumentationTest
+GroovyLanguageConfigurationAndDocumentationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/GroovyLanguageConfigurationAndDocumentationTest_testLanguageJsonSchema_25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/LanguageComponentConfigurationAndDocumentationTest
+LanguageComponentConfigurationAndDocumentationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/LanguageComponentConfigurationAndDocumentationTest_testComponentConfiguration_27
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/LogComponentConfigurationAndDocumentationTest
+LogComponentConfigurationAndDocumentationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/LogComponentConfigurationAndDocumentationTest_testComponentConfiguration_1h
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/MockComponentConfigurationAndDocumentationTest
+MockComponentConfigurationAndDocumentationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/MockComponentConfigurationAndDocumentationTest_testComponentConfiguration_4i
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/MockComponentConfigurationAndDocumentationTest_testEndpointExplain_3w
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/SedaComponentConfigurationAndDocumentationTest
+SedaComponentConfigurationAndDocumentationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/SedaComponentConfigurationAndDocumentationTest_testComponentConfiguration_1k
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/SimpleLanguageConfigurationAndDocumentationTest
+SimpleLanguageConfigurationAndDocumentationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/SimpleLanguageConfigurationAndDocumentationTest_testLanguageJsonSchema_2g
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/StringDataFormatConfigurationAndDocumentationTest
+StringDataFormatConfigurationAndDocumentationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/StringDataFormatConfigurationAndDocumentationTest_testDataFormatJsonSchema_1z
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/TestComponentConfigurationAndDocumentationTest
+TestComponentConfigurationAndDocumentationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/TestComponentConfigurationAndDocumentationTest_testComponentConfiguration_21
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/TimerComponentConfigurationAndDocumentationTest
+TimerComponentConfigurationAndDocumentationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/TimerComponentConfigurationAndDocumentationTest_testComponentConfiguration_3l
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/XsltComponentConfigurationAndDocumentationTest
+XsltComponentConfigurationAndDocumentationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/XsltComponentConfigurationAndDocumentationTest_testComponentConfiguration_32
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/test-BeanComponentConfigurationAndDocumentationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/test-BrowseComponentConfigurationAndDocumentationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/test-ControlBusComponentConfigurationAndDocumentationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/test-DataFormatComponentConfigurationAndDocumentationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/test-DataSetComponentConfigurationAndDocumentationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/test-DirectComponentConfigurationAndDocumentationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/test-DirectVmComponentConfigurationAndDocumentationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/test-EipDocumentationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/test-FileComponentConfigurationAndDocumentationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/test-FtpComponentConfigurationAndDocumentationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/test-GroovyLanguageConfigurationAndDocumentationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/test-LanguageComponentConfigurationAndDocumentationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/test-LogComponentConfigurationAndDocumentationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/test-MockComponentConfigurationAndDocumentationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/test-SedaComponentConfigurationAndDocumentationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/test-SimpleLanguageConfigurationAndDocumentationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/test-StringDataFormatConfigurationAndDocumentationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/test-TestComponentConfigurationAndDocumentationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/test-TimerComponentConfigurationAndDocumentationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/doc/test-XsltComponentConfigurationAndDocumentationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/ftp/FtpAndHttpRecipientListInterceptSendToEndpointIssueTest
+FtpAndHttpRecipientListInterceptSendToEndpointIssueTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/ftp/FtpAndHttpRecipientListInterceptSendToEndpointIssueTest_testFtpAndHttpIssue_37
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/ftp/FtpInitialConnectTimeoutTest
+FtpInitialConnectTimeoutTest		0.969697
+FtpInitialConnectTimeoutTest.SocketAnswer		0.96153843
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/ftp/FtpInitialConnectTimeoutTest_testReConnect_0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/ftp/FtpXQueryTest
+FtpXQueryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/ftp/FtpXQueryTest_testXQueryFromFtp_1v
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/ftp/SpringFileAntPathMatcherRemoteFileFilterTest
+SpringFileAntPathMatcherRemoteFileFilterTest		0.94736844
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/ftp/SpringFileAntPathMatcherRemoteFileFilterTest_testAntPatchMatherFilter_k
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/ftp/SpringFtpEndpointTest
+SpringFtpEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/ftp/SpringFtpEndpointTest_testFtpEndpointAsSpringBean_2k
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/ftp/test-FtpAndHttpRecipientListInterceptSendToEndpointIssueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/ftp/test-FtpInitialConnectTimeoutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/ftp/test-FtpInitialConnectTimeoutTest_SocketAnswer
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/ftp/test-FtpXQueryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/ftp/test-SpringFileAntPathMatcherRemoteFileFilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/ftp/test-SpringFtpEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/greeter/CamelFileGreeterOneWayTest
+CamelFileGreeterOneWayTest		0.96
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/greeter/CamelFileGreeterOneWayTest_testFileWithOnewayOperation_7
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/greeter/CamelGreeterConsumerTest
+CamelGreeterConsumerTest		0.9375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/greeter/CamelGreeterConsumerTest_testInvokeServers_1a
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/greeter/CamelGreeterFileDomTest
+CamelGreeterFileDomTest		0.95454544
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/greeter/CamelGreeterFileDomTest_testCamelGreeter_q
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/greeter/CamelGreeterTest
+CamelGreeterTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/greeter/CxfToJmsInOutTest
+CxfToJmsInOutTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/greeter/CxfToJmsInOutTest_testCxfToJmsInOut_3a
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/greeter/JettyRecipientListCxfIssueTest
+JettyRecipientListCxfIssueTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/greeter/JettyRecipientListCxfIssueTest_testJettyRecipientListCxf_36
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/greeter/JmsToCxfInOutTest
+JmsToCxfInOutTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/greeter/JmsToCxfInOutTest_testJmsToCxfInOut_29
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/greeter/MulticastCxfTest
+MulticastCxfTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/greeter/MulticastCxfTest_testMulticastCXF_1q
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/greeter/RecipientListCxf2Test
+RecipientListCxf2Test		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/greeter/RecipientListCxf2Test_testRecipientListCXF2_f
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/greeter/RecipientListCxfTest
+RecipientListCxfTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/greeter/RecipientListCxfTest_testRecipientListCXF_3p
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/greeter/test-CamelFileGreeterOneWayTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/greeter/test-CamelGreeterConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/greeter/test-CamelGreeterFileDomTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/greeter/test-CamelGreeterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/greeter/test-CxfToJmsInOutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/greeter/test-JettyRecipientListCxfIssueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/greeter/test-JmsToCxfInOutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/greeter/test-MulticastCxfTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/greeter/test-RecipientListCxf2Test
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/greeter/test-RecipientListCxfTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/hawtdb/JmsToHawtDBAggregateTest
+JmsToHawtDBAggregateTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/hawtdb/JmsToHawtDBAggregateTest_testJmsToHawtDBAggregateTest_i
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/hawtdb/test-JmsToHawtDBAggregateTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/http/Http4EndpointTest
+Http4EndpointTest		0.9375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/http/Http4EndpointTest_testMocksIsValid_3g
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/http/Http4MaxConnectionPerHostTest
+Http4MaxConnectionPerHostTest		0.9375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/http/Http4MaxConnectionPerHostTest_testMocksIsValid_1e
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/http/Http4RouteTest
+Http4RouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/http/Http4RouteTest_sendHttpGetRequestTest_4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/http/HttpEndpointTest
+HttpEndpointTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/http/HttpMaxConnectionPerHostTest
+HttpMaxConnectionPerHostTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/http/HttpRouteContentLengthTest
+HttpRouteContentLengthTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/http/HttpRouteContentLengthTest_testHttpClientContentLength_b
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/http/HttpRouteContentLengthTest_testHttpRouteContentLength_3e
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/http/HttpTestServer
+HttpTestServer		0.52747256
+HttpTestServer.ListenerThread		0.8636364
+HttpTestServer.Worker		0.84210527
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/http/InterceptEndpointTest
+InterceptEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/http/InterceptEndpointTest_testMocksIsValid_2p
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/http/JettyHttpRouteContentLengthTest
+JettyHttpRouteContentLengthTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/http/JettyHttpRouteContentLengthTest_testHttpClientContentLength_1x
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/http/JettyHttpRouteContentLengthTest_testHttpRouteContentLength_1c
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/http/test-Http4EndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/http/test-Http4MaxConnectionPerHostTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/http/test-Http4RouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/http/test-HttpEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/http/test-HttpMaxConnectionPerHostTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/http/test-HttpRouteContentLengthTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/http/test-HttpTestServer
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/http/test-HttpTestServer_ListenerThread
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/http/test-HttpTestServer_Worker
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/http/test-InterceptEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/http/test-JettyHttpRouteContentLengthTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/idempotent/IdempotentConsumerTest
+IdempotentConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/idempotent/IdempotentConsumerTest_testDuplicateMessagesAreFilteredOut_39
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/idempotent/test-IdempotentConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/issues/AdviceWithWeaveFirstLastTest
+AdviceWithWeaveFirstLastTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/issues/AdviceWithWeaveFirstLastTest_testWeaveAddFirst_49
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/issues/AdviceWithWeaveFirstLastTest_testWeaveAddLast_3c
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/issues/BeanCallDerivedClassTest
+BeanCallDerivedClassTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/issues/BeanCallDerivedClassTest_testCallBean_1y
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/issues/IntercepFromAndStrategyTest
+IntercepFromAndStrategyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/issues/IntercepFromAndStrategyTest_strategyTest_1r
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/issues/IsUseAdviceWithJUnit4Test
+IsUseAdviceWithJUnit4Test		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/issues/IsUseAdviceWithJUnit4Test_testIsUseAdviceWith_4e
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/issues/JettyHttpFileCacheTest
+JettyHttpFileCacheTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/issues/JettyHttpFileCacheTest_testGetWithRelativePath_3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/issues/JettyHttpTest
+JettyHttpTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/issues/JettyHttpTest_testGetRootPath_2t
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/issues/JettyHttpTest_testGetWithRelativePath_1d
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/issues/RemoveEndpointsTest
+RemoveEndpointsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/issues/RemoveEndpointsTest_testRemoveAllEndpoints_4b
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/issues/RssToHttpIssueTest
+RssToHttpIssueTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/issues/test-AdviceWithWeaveFirstLastTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/issues/test-BeanCallDerivedClassTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/issues/test-IntercepFromAndStrategyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/issues/test-IsUseAdviceWithJUnit4Test
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/issues/test-JettyHttpFileCacheTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/issues/test-JettyHttpTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/issues/test-RemoveEndpointsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/issues/test-RssToHttpIssueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jaxb/JaxbFallbackTypeConverterTest
+JaxbFallbackTypeConverterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jaxb/JaxbFallbackTypeConverterTest_testJaxbFallbackTypeConverter_3x
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jaxb/SpringLoadRouteFromXmlTest
+SpringLoadRouteFromXmlTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jaxb/SpringLoadRouteFromXmlTest_testLoadRouteFromXml_9
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jaxb/test-JaxbFallbackTypeConverterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jaxb/test-SpringLoadRouteFromXmlTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyBridgeHostHeaderIssueTest
+JettyBridgeHostHeaderIssueTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyBridgeHostHeaderIssueTest_testHostHeader_40
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyConstantSetHeaderTest
+JettyConstantSetHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyConstantSetHeaderTest_testJettyConstantSetHeader_2i
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyFailoverRoundRobinTest
+JettyFailoverRoundRobinTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyFailoverRoundRobinTest_testJettyFailoverRoundRobin_5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyFileMulticastTest
+JettyFileMulticastTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyFileMulticastTest_testMulticastEndpoint_46
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyFreemarkerTest
+JettyFreemarkerTest		0.9705882
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyFreemarkerTest_testClasspathInvalidParameter_30
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyFreemarkerTest_testClasspath_2q
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyFreemarkerTest_testHttp_11
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyGroovySetHeaderTest
+JettyGroovySetHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyGroovySetHeaderTest_testJettyGroovySetHeader_l
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyJmsShutdownInProgressTest
+JettyJmsShutdownInProgressTest		0.9444444
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyJmsShutdownInProgressTest_testShutdownInProgress_2x
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyJmsShutdownTest
+JettyJmsShutdownTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyJmsShutdownTest_testShutdown_1g
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyJmsTest
+JettyJmsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyJmsTest_testMocksAreValid_4k
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyJmsTwowayTest
+JettyJmsTwowayTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyJmsTwowayTest_testSendingRequest_2n
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyMulticastJmsFileTest
+JettyMulticastJmsFileTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyMulticastJmsFileTest_testJettyMulticastJmsFile_2z
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyRestRedirectTest
+JettyRestRedirectTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyRestRedirectTest_testRedirectInvocation_v
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettySimpleSetHeaderTest
+JettySimpleSetHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettySimpleSetHeaderTest_testJettySimpleSetHeader_3s
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettySimulateFailoverRoundRobinTest
+JettySimulateFailoverRoundRobinTest		1.0
+JettySimulateFailoverRoundRobinTest.MyFailoverLoadBalancer		0.89285713
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettySimulateFailoverRoundRobinTest_testJettySimulateFailoverRoundRobin_3q
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettySpringFailoverRoundRobinTest
+JettySpringFailoverRoundRobinTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettySpringFailoverRoundRobinTest_testJettySpringFailoverRoundRobin_4g
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyValidatorStreamTest
+JettyValidatorStreamTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyValidatorStreamTest_testValideRequestAsStream_1t
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyValidatorStreamWithStreamCachingEnabledTest
+JettyValidatorStreamWithStreamCachingEnabledTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyValidatorStreamWithStreamCachingEnabledTest_testValideRequestAsStream_d
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyValidatorTest
+JettyValidatorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyValidatorTest_testInvalidRequest_2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyValidatorTest_testValidRequest_3k
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyVelocityTest
+JettyVelocityTest		0.969697
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyVelocityTest_testClasspathInvalidParameter_2s
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyVelocityTest_testClasspath_1p
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyVelocityTest_testHttp_38
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyXsltHttpTemplateTest
+JettyXsltHttpTemplateTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyXsltHttpTemplateTest_testXsltHttpTemplate_3m
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyXsltTest
+JettyXsltTest		0.9583333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyXsltTest_testClasspathInvalidParameter_4c
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyXsltTest_testClasspath_19
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/JettyXsltTest_testHttp_y
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/test-JettyBridgeHostHeaderIssueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/test-JettyConstantSetHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/test-JettyFailoverRoundRobinTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/test-JettyFileMulticastTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/test-JettyFreemarkerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/test-JettyGroovySetHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/test-JettyJmsShutdownInProgressTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/test-JettyJmsShutdownTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/test-JettyJmsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/test-JettyJmsTwowayTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/test-JettyMulticastJmsFileTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/test-JettyRestRedirectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/test-JettySimpleSetHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/test-JettySimulateFailoverRoundRobinTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/test-JettySimulateFailoverRoundRobinTest_MyFailoverLoadBalancer
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/test-JettySpringFailoverRoundRobinTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/test-JettyValidatorStreamTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/test-JettyValidatorStreamWithStreamCachingEnabledTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/test-JettyValidatorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/test-JettyVelocityTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/test-JettyXsltHttpTemplateTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jetty/test-JettyXsltTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/AdviceWithTransactionIssueTest
+AdviceWithTransactionIssueTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/AdviceWithTransactionIssueTest_testAdviceWithAddLast_24
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/AdviceWithTransactionIssueTest_testAdviceWithWeaveById_14
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/DynamicRouteTest
+DynamicRouteTest		1.0
+DynamicRouteTest.MyBean		1.0
+DynamicRouteTest.MyDynamicRouter		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/DynamicRouteTest_testDynamicRouteWithDirect_w
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/DynamicRouteTest_testDynamicRouteWithJms_1n
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/FileToJmsTest
+FileToJmsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/FileToJmsTest_testFileToJms_u
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JMSTransactionIsTransactedRedeliveredTest
+JMSTransactionIsTransactedRedeliveredTest		1.0
+JMSTransactionIsTransactedRedeliveredTest.MyBeforeProcessor		1.0
+JMSTransactionIsTransactedRedeliveredTest.MyAfterProcessor		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JMSTransactionIsTransactedRedeliveredTest_testTransactionSuccess_c
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsConsumerShutdownTest
+JmsConsumerShutdownTest		1.0
+JmsConsumerShutdownTest.MyRouteBuilder		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsConsumerShutdownTest_testJmsConsumerShutdownWithMessageInFlight_3b
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsConsumerShutdownTest_testSedaConsumerShutdownWithMessageInFlight_2b
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsHttpJmsTest
+JmsHttpJmsTest		0.9354839
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsHttpJmsTest_testJmsHttpJms_4f
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsHttpJmsTest_testResultReplyJms_2j
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsHttpPostIssueTest
+JmsHttpPostIssueTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsHttpPostIssueTest_testJmsInOnlyHttpPostIssue_3j
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsHttpPostIssueTest_testJmsInOutHttpPostIssue_1b
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsHttpPostIssueWithMockTest
+JmsHttpPostIssueWithMockTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsHttpPostIssueWithMockTest_testJmsInOnlyHttpPostIssue_2m
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsHttpPostIssueWithMockTest_testJmsInOutHttpPostIssue_10
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsIntegrationTest
+JmsIntegrationTest		0.0
+JmsIntegrationTest.MyBean		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsJaxbTest
+JmsJaxbTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsJaxbTest_testNotWine_17
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsJaxbTest_testOk_x
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsJaxbTest_testUnmarshalError_h
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsJettyAsyncTest
+JmsJettyAsyncTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsJettyAsyncTest_testJmsJettyAsyncTest_1i
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsMediumQueuePerformanceTest
+JmsMediumQueuePerformanceTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsMediumQueuePerformanceTest_testSendingAndReceivingMessages_8
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsPerformanceTest
+JmsPerformanceTest		1.0
+JmsPerformanceTest.MyBean		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsPerformanceTest_testSendingAndReceivingMessages_3r
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsPollEnrichTest
+JmsPollEnrichTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsPollEnrichTest_testPollEnrichJms_20
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsPollingConsumerTest
+JmsPollingConsumerTest		0.5
+JmsPollingConsumerTest.Consumer		0.75
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsPollingConsumerTest_testConsumerFromDirectRoute_m
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsResequencerTest
+JmsResequencerTest		1.0
+JmsResequencerTest.ReusableBean		0.41666666
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsResequencerTest_testSendMessageToStream_3i
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsResequencerTest_testSendMessagesInWrongOrderButReceiveThemInCorrectOrder_28
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsValidatorTest
+JmsValidatorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsValidatorTest_testJmsValidatorInvalid_3d
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/JmsValidatorTest_testJmsValidator_3o
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/SpringJmsValidatorTest
+SpringJmsValidatorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/SpringJmsValidatorTest_testJmsValidatorInvalid_33
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/SpringJmsValidatorTest_testJmsValidator_43
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/test-AdviceWithTransactionIssueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/test-DynamicRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/test-DynamicRouteTest_MyBean
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/test-DynamicRouteTest_MyDynamicRouter
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/test-FileToJmsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/test-JMSTransactionIsTransactedRedeliveredTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/test-JMSTransactionIsTransactedRedeliveredTest_MyAfterProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/test-JMSTransactionIsTransactedRedeliveredTest_MyBeforeProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/test-JmsConsumerShutdownTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/test-JmsConsumerShutdownTest_MyRouteBuilder
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/test-JmsHttpJmsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/test-JmsHttpPostIssueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/test-JmsHttpPostIssueWithMockTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/test-JmsIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/test-JmsIntegrationTest_MyBean
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/test-JmsJaxbTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/test-JmsJettyAsyncTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/test-JmsMediumQueuePerformanceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/test-JmsPerformanceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/test-JmsPerformanceTest_MyBean
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/test-JmsPollEnrichTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/test-JmsPollingConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/test-JmsPollingConsumerTest_Consumer
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/test-JmsResequencerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/test-JmsResequencerTest_ReusableBean
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/test-JmsValidatorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/jms/test-SpringJmsValidatorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/mail/SpringMailEndpointTest
+SpringMailEndpointTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/mail/test-SpringMailEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/netty/NettyAsyncRequestReplyTest
+NettyAsyncRequestReplyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/netty/NettyAsyncRequestReplyTest_testConcurrent_3y
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/netty/NettyAsyncRequestReplyTest_testNetty_t
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/netty/test-NettyAsyncRequestReplyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/nettyhttp/NettyHttpClientChunkedResponseTest
+NettyHttpClientChunkedResponseTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/nettyhttp/NettyHttpClientChunkedResponseTest_testNettyHttpClientChunked_31
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/nettyhttp/NettyHttpClientChunkedResponseTest_testNettyHttpRouteClientChunked_2h
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/nettyhttp/test-NettyHttpClientChunkedResponseTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/proxy/EchoProduceTest
+EchoProduceTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/proxy/EchoProduceTest_testEchoProduce_a
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/proxy/SpringEchoCamelProxyTest
+SpringEchoCamelProxyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/proxy/SpringEchoCamelProxyTest_testEchoProduce_s
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/proxy/test-EchoProduceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/proxy/test-SpringEchoCamelProxyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/quartz/FtpCronScheduledRoutePolicyTest
+FtpCronScheduledRoutePolicyTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/quartz/test-FtpCronScheduledRoutePolicyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/restlet/example/CxfRSDomainServiceTest
+CxfRSDomainServiceTest		0.875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/restlet/example/CxfRSDomainServiceTest_testAddDomainBothObjects_p
+testAddDomainBothObjects
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/restlet/example/CxfRSDomainServiceTest_testAddDomainStringObject_3t
+testAddDomainStringObject
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/restlet/example/CxfRSDomainServiceTest_testAddDomainString_2d
+testAddDomainString
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/restlet/example/RestletDomainServiceTest
+RestletDomainServiceTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/restlet/example/RestletDomainServiceTest_testAddDomain_1u
+testAddDomain
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/restlet/example/RestletDomainServiceTest_testGetDomain_4a
+testGetDomain
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/restlet/example/RestletGroovyIssueTest
+RestletGroovyIssueTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/restlet/example/RestletGroovyIssueTest_testRestletGroovy_1w
+testRestletGroovy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/restlet/example/test-CxfRSDomainServiceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/restlet/example/test-RestletDomainServiceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/restlet/example/test-RestletGroovyIssueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/security/GreeterClientCxfMessageTest
+GreeterClientCxfMessageTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/security/GreeterClientCxfMessageTest_testServiceWithNotAuthorizedUser_13
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/security/GreeterClientCxfMessageTest_testServiceWithValidateUser_2e
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/security/GreeterClientTest
+GreeterClientTest		0.9117647
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/security/GreeterClientTest_testServiceWithNotAuthorizedUser_18
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/security/GreeterClientTest_testServiceWithValidateUser_3f
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/security/test-GreeterClientCxfMessageTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/security/test-GreeterClientTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/shiro/ShiroOverJmsTest
+ShiroOverJmsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/shiro/ShiroOverJmsTest_testShiroOverJms_6
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/shiro/test-ShiroOverJmsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/sql/FromJmsToJdbcIdempotentConsumerToJmsTest
+FromJmsToJdbcIdempotentConsumerToJmsTest		0.6989247
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/sql/FromJmsToJdbcIdempotentConsumerToJmsTest_testFilterIdempotent_2w
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/sql/FromJmsToJdbcIdempotentConsumerToJmsTest_testJmsToJdbcJmsCommit_3u
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/sql/FromJmsToJdbcIdempotentConsumerToJmsTest_testRetryAfterException_1s
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/sql/FromJmsToJdbcIdempotentConsumerToJmsXaTest
+FromJmsToJdbcIdempotentConsumerToJmsXaTest		0.9285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/sql/FromJmsToJdbcIdempotentConsumerToJmsXaTest_testFilterIdempotent_2y
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/sql/FromJmsToJdbcIdempotentConsumerToJmsXaTest_testJmsToJdbcJmsCommit_g
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/sql/FromJmsToJdbcIdempotentConsumerToJmsXaTest_testRetryAfterException_2u
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/sql/test-FromJmsToJdbcIdempotentConsumerToJmsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/sql/test-FromJmsToJdbcIdempotentConsumerToJmsXaTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/test/SpringDebugBeforeTest
+SpringDebugBeforeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/test/SpringDebugBeforeTest_testDebugBefore_r
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/test/test-SpringDebugBeforeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/test-CamelJmsTestHelper
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/test-ITestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/tx/Jms2RequiresNewTest
+Jms2RequiresNewTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/tx/Jms2RequiresNewTest_testSendThrowingException_1j
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/tx/Jms2RequiresNewTest_testSend_o
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/tx/JmsToHttpTXTest
+JmsToHttpTXTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/tx/JmsToHttpTXTest_testSendToTXJms_2l
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/tx/JmsToHttpTXWithOnExceptionAndNoTransactionErrorHandlerConfiguredTest
+JmsToHttpTXWithOnExceptionAndNoTransactionErrorHandlerConfiguredTest		0.9230769
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/tx/JmsToHttpTXWithOnExceptionAndNoTransactionErrorHandlerConfiguredTest_test404_3n
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/tx/JmsToHttpTXWithOnExceptionAndNoTransactionErrorHandlerConfiguredTest_testOK_2f
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/tx/JmsToHttpTXWithOnExceptionAndNoTransactionErrorHandlerConfiguredTest_testRollback_22
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/tx/JmsToHttpTXWithOnExceptionTest
+JmsToHttpTXWithOnExceptionTest		0.9230769
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/tx/JmsToHttpTXWithOnExceptionTest_test404_n
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/tx/JmsToHttpTXWithOnExceptionTest_testOK_1m
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/tx/JmsToHttpTXWithOnExceptionTest_testRollback_j
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/tx/JmsToHttpTXWithRollbackTest
+JmsToHttpTXWithRollbackTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/tx/JmsToHttpTXWithRollbackTest_testSendToTXJmsWithRollback_3z
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/tx/test-Jms2RequiresNewTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/tx/test-JmsToHttpTXTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/tx/test-JmsToHttpTXWithOnExceptionAndNoTransactionErrorHandlerConfiguredTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/tx/test-JmsToHttpTXWithOnExceptionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/tx/test-JmsToHttpTXWithRollbackTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/validator/ValidatorSchemaImportTest
+ValidatorSchemaImportTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/validator/ValidatorSchemaImportTest_testChildParentUncleSchemaImport_42
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/validator/ValidatorSchemaImportTest_testDotSlashSchemaImport_26
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/validator/ValidatorSchemaImportTest_testRelativeDoubleSlashSchemaImport_34
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/validator/ValidatorSchemaImportTest_testRelativeParentSchemaImport_16
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tests/camel-itest/target/site/clover/org/apache/camel/itest/validator/test-ValidatorSchemaImportTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

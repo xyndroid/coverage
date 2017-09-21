@@ -1,0 +1,29 @@
+./tooling/apt/target/site/clover/org/apache/camel
+./tooling/apt/target/site/clover/org/apache/camel/tools/apt/EndpointOptionComparatorTest
+EndpointOptionComparatorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/apt/target/site/clover/org/apache/camel/tools/apt/EndpointOptionComparatorTest_testComparator_1
+org.apache.camel.tools.apt.helper.EndpointHelper.EndpointOptionGroupAndLabelComparator		0.87096775
+org.apache.camel.tools.apt.helper.EndpointHelper		0.625
+org.apache.camel.tools.apt.model.EndpointOption		0.31944445
+org.apache.camel.tools.apt.helper.Strings		0.033333335
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/apt/target/site/clover/org/apache/camel/tools/apt/EndpointOptionComparatorTest_testComparator_3
+org.apache.camel.tools.apt.helper.EndpointHelper.EndpointOptionGroupAndLabelComparator		0.87096775
+org.apache.camel.tools.apt.helper.EndpointHelper		0.625
+org.apache.camel.tools.apt.model.EndpointOption		0.31944445
+org.apache.camel.tools.apt.helper.Strings		0.033333335
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/apt/target/site/clover/org/apache/camel/tools/apt/StringsTest
+StringsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/apt/target/site/clover/org/apache/camel/tools/apt/StringsTest_testBetween_0
+org.apache.camel.tools.apt.helper.Strings		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/apt/target/site/clover/org/apache/camel/tools/apt/StringsTest_testBetween_2
+org.apache.camel.tools.apt.helper.Strings		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/apt/target/site/clover/org/apache/camel/tools/apt/test-EndpointOptionComparatorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/apt/target/site/clover/org/apache/camel/tools/apt/test-StringsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

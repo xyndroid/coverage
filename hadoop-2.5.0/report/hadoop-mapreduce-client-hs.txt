@@ -1,0 +1,2065 @@
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestCompletedTask
+TestCompletedTask		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestCompletedTask_testCompletedTaskAttempt_1
+testCompletedTaskAttempt
+org.apache.hadoop.mapreduce.v2.hs.CompletedTaskAttempt		0.2820513
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestCompletedTask_testCompletedTaskAttempt_2
+testCompletedTaskAttempt
+org.apache.hadoop.mapreduce.v2.hs.CompletedTaskAttempt		0.2820513
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestCompletedTask_testTaskStartTimes_47
+testTaskStartTimes
+org.apache.hadoop.mapreduce.v2.hs.CompletedTask		0.6666667
+org.apache.hadoop.mapreduce.v2.hs.CompletedTaskAttempt		0.20512821
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestCompletedTask_testTaskStartTimes_4v
+testTaskStartTimes
+org.apache.hadoop.mapreduce.v2.hs.CompletedTask		0.6666667
+org.apache.hadoop.mapreduce.v2.hs.CompletedTaskAttempt		0.20512821
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestHistoryFileManager
+TestHistoryFileManager		0.96153843
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestHistoryFileManager_testCreateDirsWithFileSystemBecomingAvailBeforeTimeout_3x
+testCreateDirsWithFileSystemBecomingAvailBeforeTimeout
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestHistoryFileManager_testCreateDirsWithFileSystemBecomingAvailBeforeTimeout_4s
+testCreateDirsWithFileSystemBecomingAvailBeforeTimeout
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestHistoryFileManager_testCreateDirsWithFileSystemInSafeMode_g
+testCreateDirsWithFileSystemInSafeMode
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.070028014
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestHistoryFileManager_testCreateDirsWithFileSystemInSafeMode_q
+testCreateDirsWithFileSystemInSafeMode
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.070028014
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestHistoryFileManager_testCreateDirsWithFileSystemNotBecomingAvailBeforeTimeout_3a
+testCreateDirsWithFileSystemNotBecomingAvailBeforeTimeout
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.11204482
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestHistoryFileManager_testCreateDirsWithFileSystemNotBecomingAvailBeforeTimeout_4e
+testCreateDirsWithFileSystemNotBecomingAvailBeforeTimeout
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.11204482
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestHistoryFileManager_testCreateDirsWithFileSystem_c
+testCreateDirsWithFileSystem
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.084033616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestHistoryFileManager_testCreateDirsWithFileSystem_h
+testCreateDirsWithFileSystem
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.084033616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestHistoryFileManager_testCreateDirsWithoutFileSystem_38
+testCreateDirsWithoutFileSystem
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.05042017
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestHistoryFileManager_testCreateDirsWithoutFileSystem_4c
+testCreateDirsWithoutFileSystem
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.05042017
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestHistoryServerFileSystemStateStoreService
+TestHistoryServerFileSystemStateStoreService		0.97183096
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestHistoryServerFileSystemStateStoreService_testTokenStore_3x
+testTokenStore
+org.apache.hadoop.mapreduce.v2.hs.HistoryServerStateStoreService		1.0
+org.apache.hadoop.mapreduce.v2.hs.HistoryServerFileSystemStateStoreService		0.84263957
+org.apache.hadoop.mapreduce.v2.hs.HistoryServerStateStoreServiceFactory		0.75
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestHistoryServerFileSystemStateStoreService_testTokenStore_5y
+testTokenStore
+org.apache.hadoop.mapreduce.v2.hs.HistoryServerStateStoreService		1.0
+org.apache.hadoop.mapreduce.v2.hs.HistoryServerFileSystemStateStoreService		0.84263957
+org.apache.hadoop.mapreduce.v2.hs.HistoryServerStateStoreServiceFactory		0.75
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJHSDelegationTokenSecretManager
+TestJHSDelegationTokenSecretManager		1.0
+TestJHSDelegationTokenSecretManager.JHSDelegationTokenSecretManagerForTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJHSDelegationTokenSecretManager_testRecovery_4u
+testRecovery
+org.apache.hadoop.mapreduce.v2.hs.HistoryServerStateStoreService		0.75
+org.apache.hadoop.mapreduce.v2.hs.JHSDelegationTokenSecretManager		0.50980395
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJHSDelegationTokenSecretManager_testRecovery_w
+testRecovery
+org.apache.hadoop.mapreduce.v2.hs.HistoryServerStateStoreService		0.75
+org.apache.hadoop.mapreduce.v2.hs.JHSDelegationTokenSecretManager		0.50980395
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistory
+TestJobHistory		0.9380531
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryEntities
+TestJobHistoryEntities		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryEntities_testCompletedJob_1e
+testCompletedJob
+org.apache.hadoop.mapreduce.v2.hs.CompletedJob		0.44396552
+org.apache.hadoop.mapreduce.v2.hs.CompletedTask		0.08974359
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryEntities_testCompletedJob_1w
+testCompletedJob
+org.apache.hadoop.mapreduce.v2.hs.CompletedJob		0.43534482
+org.apache.hadoop.mapreduce.v2.hs.CompletedTask		0.08974359
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryEntities_testCompletedJob_1y
+testCompletedJob
+org.apache.hadoop.mapreduce.v2.hs.CompletedJob		0.43534482
+org.apache.hadoop.mapreduce.v2.hs.CompletedTask		0.08974359
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryEntities_testCompletedJob_23
+testCompletedJob
+org.apache.hadoop.mapreduce.v2.hs.CompletedJob		0.44396552
+org.apache.hadoop.mapreduce.v2.hs.CompletedTask		0.08974359
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryEntities_testCompletedTaskAttempt_17
+testCompletedTaskAttempt
+org.apache.hadoop.mapreduce.v2.hs.CompletedTaskAttempt		0.61538464
+org.apache.hadoop.mapreduce.v2.hs.CompletedTask		0.33333334
+org.apache.hadoop.mapreduce.v2.hs.CompletedJob		0.21551724
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryEntities_testCompletedTaskAttempt_25
+testCompletedTaskAttempt
+org.apache.hadoop.mapreduce.v2.hs.CompletedTaskAttempt		0.61538464
+org.apache.hadoop.mapreduce.v2.hs.CompletedTask		0.33333334
+org.apache.hadoop.mapreduce.v2.hs.CompletedJob		0.21551724
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryEntities_testCompletedTaskAttempt_3h
+testCompletedTaskAttempt
+org.apache.hadoop.mapreduce.v2.hs.CompletedTaskAttempt		0.61538464
+org.apache.hadoop.mapreduce.v2.hs.CompletedTask		0.2820513
+org.apache.hadoop.mapreduce.v2.hs.CompletedJob		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryEntities_testCompletedTaskAttempt_5q
+testCompletedTaskAttempt
+org.apache.hadoop.mapreduce.v2.hs.CompletedTaskAttempt		0.61538464
+org.apache.hadoop.mapreduce.v2.hs.CompletedTask		0.2820513
+org.apache.hadoop.mapreduce.v2.hs.CompletedJob		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryEntities_testCompletedTask_11
+testCompletedTask
+org.apache.hadoop.mapreduce.v2.hs.CompletedTask		0.7948718
+org.apache.hadoop.mapreduce.v2.hs.CompletedJob		0.22844827
+org.apache.hadoop.mapreduce.v2.hs.CompletedTaskAttempt		0.1923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryEntities_testCompletedTask_1s
+testCompletedTask
+org.apache.hadoop.mapreduce.v2.hs.CompletedTask		0.7948718
+org.apache.hadoop.mapreduce.v2.hs.CompletedJob		0.22844827
+org.apache.hadoop.mapreduce.v2.hs.CompletedTaskAttempt		0.1923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryEntities_testCompletedTask_35
+testCompletedTask
+org.apache.hadoop.mapreduce.v2.hs.CompletedTask		0.7948718
+org.apache.hadoop.mapreduce.v2.hs.CompletedJob		0.23706897
+org.apache.hadoop.mapreduce.v2.hs.CompletedTaskAttempt		0.1923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryEntities_testCompletedTask_5l
+testCompletedTask
+org.apache.hadoop.mapreduce.v2.hs.CompletedTask		0.7948718
+org.apache.hadoop.mapreduce.v2.hs.CompletedJob		0.23706897
+org.apache.hadoop.mapreduce.v2.hs.CompletedTaskAttempt		0.1923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryEntities_testGetTaskAttemptCompletionEvent_19
+testGetTaskAttemptCompletionEvent
+org.apache.hadoop.mapreduce.v2.hs.CompletedJob		0.49137932
+org.apache.hadoop.mapreduce.v2.hs.CompletedTask		0.35897437
+org.apache.hadoop.mapreduce.v2.hs.CompletedTaskAttempt		0.26923078
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryEntities_testGetTaskAttemptCompletionEvent_1u
+testGetTaskAttemptCompletionEvent
+org.apache.hadoop.mapreduce.v2.hs.CompletedJob		0.5086207
+org.apache.hadoop.mapreduce.v2.hs.CompletedTask		0.35897437
+org.apache.hadoop.mapreduce.v2.hs.CompletedTaskAttempt		0.26923078
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryEntities_testGetTaskAttemptCompletionEvent_31
+testGetTaskAttemptCompletionEvent
+org.apache.hadoop.mapreduce.v2.hs.CompletedJob		0.5086207
+org.apache.hadoop.mapreduce.v2.hs.CompletedTask		0.35897437
+org.apache.hadoop.mapreduce.v2.hs.CompletedTaskAttempt		0.26923078
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryEntities_testGetTaskAttemptCompletionEvent_q
+testGetTaskAttemptCompletionEvent
+org.apache.hadoop.mapreduce.v2.hs.CompletedJob		0.49137932
+org.apache.hadoop.mapreduce.v2.hs.CompletedTask		0.35897437
+org.apache.hadoop.mapreduce.v2.hs.CompletedTaskAttempt		0.26923078
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryEvents
+TestJobHistoryEvents		0.94382024
+TestJobHistoryEvents.MRAppWithHistory		1.0
+TestJobHistoryEvents.MRAppWithSpecialHistoryHandler		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryEvents_testAssignedQueue_1o
+testAssignedQueue
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.UserLogDir		0.5714286
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.HistoryFileInfo		0.5533981
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.52
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.46218488
+org.apache.hadoop.mapreduce.v2.hs.JobHistory		0.41095892
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.SerialNumberIndex		0.33333334
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.29166666
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.22147651
+org.apache.hadoop.mapreduce.v2.hs.CompletedJob		0.11637931
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryEvents_testAssignedQueue_x
+testAssignedQueue
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.UserLogDir		0.5714286
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.HistoryFileInfo		0.5533981
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.52
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.46218488
+org.apache.hadoop.mapreduce.v2.hs.JobHistory		0.41095892
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.SerialNumberIndex		0.33333334
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.29166666
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.22147651
+org.apache.hadoop.mapreduce.v2.hs.CompletedJob		0.11637931
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryEvents_testEventsFlushOnStop_2a
+testEventsFlushOnStop
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.UserLogDir		0.5714286
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.52
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.4369748
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.HistoryFileInfo		0.407767
+org.apache.hadoop.mapreduce.v2.hs.CompletedTask		0.37179488
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.SerialNumberIndex		0.33333334
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.29166666
+org.apache.hadoop.mapreduce.v2.hs.CompletedTaskAttempt		0.24358974
+org.apache.hadoop.mapreduce.v2.hs.CompletedJob		0.2413793
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.22147651
+org.apache.hadoop.mapreduce.v2.hs.JobHistory		0.16438356
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryEvents_testEventsFlushOnStop_3e
+testEventsFlushOnStop
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.UserLogDir		0.5714286
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.52
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.4369748
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.HistoryFileInfo		0.407767
+org.apache.hadoop.mapreduce.v2.hs.CompletedTask		0.37179488
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.SerialNumberIndex		0.33333334
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.29166666
+org.apache.hadoop.mapreduce.v2.hs.CompletedTaskAttempt		0.24358974
+org.apache.hadoop.mapreduce.v2.hs.CompletedJob		0.2413793
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.22147651
+org.apache.hadoop.mapreduce.v2.hs.JobHistory		0.16438356
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryEvents_testHistoryEvents_4p
+testHistoryEvents
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.UserLogDir		0.5714286
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.HistoryFileInfo		0.5533981
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.52
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.46218488
+org.apache.hadoop.mapreduce.v2.hs.JobHistory		0.41095892
+org.apache.hadoop.mapreduce.v2.hs.CompletedTask		0.37179488
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.SerialNumberIndex		0.33333334
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.29166666
+org.apache.hadoop.mapreduce.v2.hs.CompletedJob		0.28448275
+org.apache.hadoop.mapreduce.v2.hs.CompletedTaskAttempt		0.24358974
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.22147651
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryEvents_testHistoryEvents_9
+testHistoryEvents
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.UserLogDir		0.5714286
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.HistoryFileInfo		0.5533981
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.52
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.46218488
+org.apache.hadoop.mapreduce.v2.hs.JobHistory		0.41095892
+org.apache.hadoop.mapreduce.v2.hs.CompletedTask		0.37179488
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.SerialNumberIndex		0.33333334
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.29166666
+org.apache.hadoop.mapreduce.v2.hs.CompletedJob		0.28448275
+org.apache.hadoop.mapreduce.v2.hs.CompletedTaskAttempt		0.24358974
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.22147651
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryEvents_testJobHistoryEventHandlerIsFirstServiceToStop_1h
+testJobHistoryEventHandlerIsFirstServiceToStop
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.HistoryFileInfo		0.08737864
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.008403362
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryEvents_testJobHistoryEventHandlerIsFirstServiceToStop_r
+testJobHistoryEventHandlerIsFirstServiceToStop
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.HistoryFileInfo		0.08737864
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.008403362
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryParsing
+TestJobHistoryParsing		0.96902657
+TestJobHistoryParsing.MyResolver		0.5
+TestJobHistoryParsing.MRAppWithHistoryWithFailedAttempt		1.0
+TestJobHistoryParsing.MRAppWithHistoryWithFailedTask		1.0
+TestJobHistoryParsing.MRAppWithHistoryWithJobKilled		1.0
+TestJobHistoryParsing.HistoryFileManagerForTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryParsing_testCountersForFailedTask_42
+testCountersForFailedTask
+org.apache.hadoop.mapreduce.v2.hs.CompletedTask		0.7051282
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.UserLogDir		0.5714286
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.HistoryFileInfo		0.5533981
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.52
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.45378152
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.SerialNumberIndex		0.33333334
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.29166666
+org.apache.hadoop.mapreduce.v2.hs.CompletedTaskAttempt		0.1923077
+org.apache.hadoop.mapreduce.v2.hs.JobHistory		0.16438356
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.0738255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryParsing_testCountersForFailedTask_4u
+testCountersForFailedTask
+org.apache.hadoop.mapreduce.v2.hs.CompletedTask		0.7051282
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.UserLogDir		0.5714286
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.HistoryFileInfo		0.5533981
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.52
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.45378152
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.SerialNumberIndex		0.33333334
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.29166666
+org.apache.hadoop.mapreduce.v2.hs.CompletedTaskAttempt		0.1923077
+org.apache.hadoop.mapreduce.v2.hs.JobHistory		0.16438356
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.0738255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryParsing_testDeleteFileInfo_3w
+testDeleteFileInfo
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.84
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.HistoryFileInfo		0.61165047
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.57983196
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.SerialNumberIndex		0.57575756
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.UserLogDir		0.5714286
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.41666666
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryParsing_testDeleteFileInfo_5x
+testDeleteFileInfo
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.84
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.HistoryFileInfo		0.61165047
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.57983196
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.SerialNumberIndex		0.57575756
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.UserLogDir		0.5714286
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.41666666
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryParsing_testDiagnosticsForKilledJob_3
+testDiagnosticsForKilledJob
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.UserLogDir		0.5714286
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.52
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.43137255
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.HistoryFileInfo		0.407767
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.SerialNumberIndex		0.33333334
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.29166666
+org.apache.hadoop.mapreduce.v2.hs.JobHistory		0.16438356
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.0738255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryParsing_testDiagnosticsForKilledJob_7
+testDiagnosticsForKilledJob
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.UserLogDir		0.5714286
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.52
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.43137255
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.HistoryFileInfo		0.407767
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.SerialNumberIndex		0.33333334
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.29166666
+org.apache.hadoop.mapreduce.v2.hs.JobHistory		0.16438356
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.0738255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryParsing_testFailedJobHistoryWithoutDiagnostics_2k
+testFailedJobHistoryWithoutDiagnostics
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryParsing_testFailedJobHistoryWithoutDiagnostics_59
+testFailedJobHistoryWithoutDiagnostics
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryParsing_testHistoryParsingForFailedAttempts_4
+testHistoryParsingForFailedAttempts
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.UserLogDir		0.5714286
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.52
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.43137255
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.HistoryFileInfo		0.407767
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.SerialNumberIndex		0.33333334
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.29166666
+org.apache.hadoop.mapreduce.v2.hs.JobHistory		0.16438356
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.0738255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryParsing_testHistoryParsingForFailedAttempts_4m
+testHistoryParsingForFailedAttempts
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.UserLogDir		0.5714286
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.52
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.43137255
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.HistoryFileInfo		0.407767
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.SerialNumberIndex		0.33333334
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.29166666
+org.apache.hadoop.mapreduce.v2.hs.JobHistory		0.16438356
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.0738255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryParsing_testHistoryParsingWithParseErrors_1p
+testHistoryParsingWithParseErrors
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.UserLogDir		0.5714286
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.HistoryFileInfo		0.5533981
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.52
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.45378152
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.SerialNumberIndex		0.33333334
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.29166666
+org.apache.hadoop.mapreduce.v2.hs.JobHistory		0.16438356
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.0738255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryParsing_testHistoryParsingWithParseErrors_2p
+testHistoryParsingWithParseErrors
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.UserLogDir		0.5714286
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.HistoryFileInfo		0.5533981
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.52
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.45378152
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.SerialNumberIndex		0.33333334
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.29166666
+org.apache.hadoop.mapreduce.v2.hs.JobHistory		0.16438356
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.0738255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryParsing_testHistoryParsing_36
+testHistoryParsing
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.UserLogDir		0.5714286
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.HistoryFileInfo		0.5533981
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.52
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.45378152
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.SerialNumberIndex		0.33333334
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.29166666
+org.apache.hadoop.mapreduce.v2.hs.JobHistory		0.16438356
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.0738255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryParsing_testHistoryParsing_4i
+testHistoryParsing
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.UserLogDir		0.5714286
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.HistoryFileInfo		0.5533981
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.52
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.45378152
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.SerialNumberIndex		0.33333334
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.29166666
+org.apache.hadoop.mapreduce.v2.hs.JobHistory		0.16438356
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.0738255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryParsing_testJobHistoryMethods_12
+testJobHistoryMethods
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		1.0
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.64
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.HistoryFileInfo		0.63106793
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.58389264
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.UserLogDir		0.5714286
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.4920635
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.47058824
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.SerialNumberIndex		0.33333334
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.33333334
+org.apache.hadoop.mapreduce.v2.hs.JobHistory		0.32876712
+org.apache.hadoop.mapreduce.v2.hs.CompletedJob		0.10775862
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.10240964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryParsing_testJobHistoryMethods_l
+testJobHistoryMethods
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		1.0
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.64
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.HistoryFileInfo		0.63106793
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.58389264
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.UserLogDir		0.5714286
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.4920635
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.47058824
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.SerialNumberIndex		0.33333334
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.33333334
+org.apache.hadoop.mapreduce.v2.hs.JobHistory		0.32876712
+org.apache.hadoop.mapreduce.v2.hs.CompletedJob		0.10775862
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.10240964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryParsing_testJobInfo_3v
+testJobInfo
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryParsing_testJobInfo_5w
+testJobInfo
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryParsing_testMultipleFailedTasks_2t
+testMultipleFailedTasks
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryParsing_testMultipleFailedTasks_5d
+testMultipleFailedTasks
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryParsing_testPartialJob_16
+testPartialJob
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.52380955
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryParsing_testPartialJob_o
+testPartialJob
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.52380955
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryParsing_testScanningOldDirs_3z
+testScanningOldDirs
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.76
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.HistoryFileInfo		0.5825243
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.UserLogDir		0.5714286
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.52100843
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.SerialNumberIndex		0.4848485
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryParsing_testScanningOldDirs_4k
+testScanningOldDirs
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.76
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.HistoryFileInfo		0.5825243
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.UserLogDir		0.5714286
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.52100843
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.SerialNumberIndex		0.4848485
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryParsing_testTaskAttemptUnsuccessfulCompletionWithoutCounters0239_43
+testTaskAttemptUnsuccessfulCompletionWithoutCounters0239
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.HistoryFileInfo		0.019417476
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryParsing_testTaskAttemptUnsuccessfulCompletionWithoutCounters0239_62
+testTaskAttemptUnsuccessfulCompletionWithoutCounters0239
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.HistoryFileInfo		0.019417476
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryParsing_testTaskAttemptUnsuccessfulCompletionWithoutCounters203_4y
+testTaskAttemptUnsuccessfulCompletionWithoutCounters203
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryParsing_testTaskAttemptUnsuccessfulCompletionWithoutCounters203_6o
+testTaskAttemptUnsuccessfulCompletionWithoutCounters203
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryParsing_testTaskAttemptUnsuccessfulCompletionWithoutCounters240_3i
+testTaskAttemptUnsuccessfulCompletionWithoutCounters240
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryParsing_testTaskAttemptUnsuccessfulCompletionWithoutCounters240_4l
+testTaskAttemptUnsuccessfulCompletionWithoutCounters240
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryServer
+TestJobHistoryServer		0.95
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryServer_testLaunch_1i
+testLaunch
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebApp		1.0
+org.apache.hadoop.mapreduce.v2.hs.JobHistoryServer		0.8360656
+org.apache.hadoop.mapreduce.v2.hs.HistoryServerStateStoreService		0.75
+org.apache.hadoop.mapreduce.v2.hs.HistoryClientService		0.57894737
+org.apache.hadoop.mapreduce.v2.hs.HistoryServerStateStoreServiceFactory		0.5
+org.apache.hadoop.mapreduce.v2.hs.JobHistoryServer.HistoryServerSecretManagerService		0.4090909
+org.apache.hadoop.mapreduce.v2.hs.server.HSAdminServer		0.30666667
+org.apache.hadoop.mapreduce.v2.hs.HistoryServerNullStateStoreService		0.3
+org.apache.hadoop.mapreduce.v2.hs.JobHistory		0.26712328
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.15966387
+org.apache.hadoop.mapreduce.v2.hs.JHSDelegationTokenSecretManager		0.15686275
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.12
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.SerialNumberIndex		0.09090909
+org.apache.hadoop.mapreduce.v2.hs.protocolPB.HSAdminRefreshProtocolServerSideTranslatorPB		0.09090909
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.083333336
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.0738255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryServer_testLaunch_s
+testLaunch
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebApp		1.0
+org.apache.hadoop.mapreduce.v2.hs.JobHistoryServer		0.8360656
+org.apache.hadoop.mapreduce.v2.hs.HistoryServerStateStoreService		0.75
+org.apache.hadoop.mapreduce.v2.hs.HistoryClientService		0.57894737
+org.apache.hadoop.mapreduce.v2.hs.HistoryServerStateStoreServiceFactory		0.5
+org.apache.hadoop.mapreduce.v2.hs.JobHistoryServer.HistoryServerSecretManagerService		0.4090909
+org.apache.hadoop.mapreduce.v2.hs.server.HSAdminServer		0.30666667
+org.apache.hadoop.mapreduce.v2.hs.HistoryServerNullStateStoreService		0.3
+org.apache.hadoop.mapreduce.v2.hs.JobHistory		0.26712328
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.15966387
+org.apache.hadoop.mapreduce.v2.hs.JHSDelegationTokenSecretManager		0.15686275
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.12
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.SerialNumberIndex		0.09090909
+org.apache.hadoop.mapreduce.v2.hs.protocolPB.HSAdminRefreshProtocolServerSideTranslatorPB		0.09090909
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.083333336
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.0738255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryServer_testReports_35
+testReports
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebApp		1.0
+org.apache.hadoop.mapreduce.v2.hs.CompletedTask		0.8333333
+org.apache.hadoop.mapreduce.v2.hs.HistoryServerStateStoreService		0.75
+org.apache.hadoop.mapreduce.v2.hs.JobHistoryServer		0.6885246
+org.apache.hadoop.mapreduce.v2.hs.CompletedTaskAttempt		0.64102566
+org.apache.hadoop.mapreduce.v2.hs.HistoryClientService		0.6315789
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.6
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.HistoryFileInfo		0.57281554
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.UserLogDir		0.5714286
+org.apache.hadoop.mapreduce.v2.hs.HistoryServerStateStoreServiceFactory		0.5
+org.apache.hadoop.mapreduce.v2.hs.CompletedJob		0.48706895
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.4509804
+org.apache.hadoop.mapreduce.v2.hs.JobHistoryServer.HistoryServerSecretManagerService		0.4090909
+org.apache.hadoop.mapreduce.v2.hs.HistoryClientService.HSClientProtocolHandler		0.34351146
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.SerialNumberIndex		0.33333334
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.33333334
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.30872482
+org.apache.hadoop.mapreduce.v2.hs.server.HSAdminServer		0.30666667
+org.apache.hadoop.mapreduce.v2.hs.HistoryServerNullStateStoreService		0.3
+org.apache.hadoop.mapreduce.v2.hs.JobHistory		0.29452056
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.20634921
+org.apache.hadoop.mapreduce.v2.hs.JHSDelegationTokenSecretManager		0.15686275
+org.apache.hadoop.mapreduce.v2.hs.protocolPB.HSAdminRefreshProtocolServerSideTranslatorPB		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryServer_testReports_49
+testReports
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebApp		1.0
+org.apache.hadoop.mapreduce.v2.hs.CompletedTask		0.8333333
+org.apache.hadoop.mapreduce.v2.hs.HistoryServerStateStoreService		0.75
+org.apache.hadoop.mapreduce.v2.hs.JobHistoryServer		0.6885246
+org.apache.hadoop.mapreduce.v2.hs.CompletedTaskAttempt		0.64102566
+org.apache.hadoop.mapreduce.v2.hs.HistoryClientService		0.6315789
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.6
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.HistoryFileInfo		0.57281554
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.UserLogDir		0.5714286
+org.apache.hadoop.mapreduce.v2.hs.HistoryServerStateStoreServiceFactory		0.5
+org.apache.hadoop.mapreduce.v2.hs.CompletedJob		0.48706895
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.4509804
+org.apache.hadoop.mapreduce.v2.hs.JobHistoryServer.HistoryServerSecretManagerService		0.4090909
+org.apache.hadoop.mapreduce.v2.hs.HistoryClientService.HSClientProtocolHandler		0.34351146
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.SerialNumberIndex		0.33333334
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.33333334
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.30872482
+org.apache.hadoop.mapreduce.v2.hs.server.HSAdminServer		0.30666667
+org.apache.hadoop.mapreduce.v2.hs.HistoryServerNullStateStoreService		0.3
+org.apache.hadoop.mapreduce.v2.hs.JobHistory		0.29452056
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.20634921
+org.apache.hadoop.mapreduce.v2.hs.JHSDelegationTokenSecretManager		0.15686275
+org.apache.hadoop.mapreduce.v2.hs.protocolPB.HSAdminRefreshProtocolServerSideTranslatorPB		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryServer_testStartStopServer_13
+testStartStopServer
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebApp		1.0
+org.apache.hadoop.mapreduce.v2.hs.HistoryServerStateStoreService		1.0
+org.apache.hadoop.mapreduce.v2.hs.HistoryClientService		0.8947368
+org.apache.hadoop.mapreduce.v2.hs.JobHistoryServer		0.73770493
+org.apache.hadoop.mapreduce.v2.hs.JobHistoryServer.HistoryServerSecretManagerService		0.6363636
+org.apache.hadoop.mapreduce.v2.hs.HistoryServerStateStoreServiceFactory		0.5
+org.apache.hadoop.mapreduce.v2.hs.HistoryServerNullStateStoreService		0.4
+org.apache.hadoop.mapreduce.v2.hs.JobHistory		0.39726028
+org.apache.hadoop.mapreduce.v2.hs.server.HSAdminServer		0.36
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.16806723
+org.apache.hadoop.mapreduce.v2.hs.JHSDelegationTokenSecretManager		0.15686275
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.12
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.SerialNumberIndex		0.09090909
+org.apache.hadoop.mapreduce.v2.hs.protocolPB.HSAdminRefreshProtocolServerSideTranslatorPB		0.09090909
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.083333336
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.0738255
+org.apache.hadoop.mapreduce.v2.hs.HistoryClientService.HSClientProtocolHandler		0.015267176
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistoryServer_testStartStopServer_m
+testStartStopServer
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebApp		1.0
+org.apache.hadoop.mapreduce.v2.hs.HistoryServerStateStoreService		1.0
+org.apache.hadoop.mapreduce.v2.hs.HistoryClientService		0.8947368
+org.apache.hadoop.mapreduce.v2.hs.JobHistoryServer		0.73770493
+org.apache.hadoop.mapreduce.v2.hs.JobHistoryServer.HistoryServerSecretManagerService		0.6363636
+org.apache.hadoop.mapreduce.v2.hs.HistoryServerStateStoreServiceFactory		0.5
+org.apache.hadoop.mapreduce.v2.hs.HistoryServerNullStateStoreService		0.4
+org.apache.hadoop.mapreduce.v2.hs.JobHistory		0.39726028
+org.apache.hadoop.mapreduce.v2.hs.server.HSAdminServer		0.36
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.16806723
+org.apache.hadoop.mapreduce.v2.hs.JHSDelegationTokenSecretManager		0.15686275
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.12
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.SerialNumberIndex		0.09090909
+org.apache.hadoop.mapreduce.v2.hs.protocolPB.HSAdminRefreshProtocolServerSideTranslatorPB		0.09090909
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.083333336
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.0738255
+org.apache.hadoop.mapreduce.v2.hs.HistoryClientService.HSClientProtocolHandler		0.015267176
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistory_testRefreshJobRetentionSettings_3j
+testRefreshJobRetentionSettings
+org.apache.hadoop.mapreduce.v2.hs.JobHistory.HistoryCleaner		0.8333333
+org.apache.hadoop.mapreduce.v2.hs.JobHistory		0.32876712
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.27450982
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.SerialNumberIndex		0.18181819
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.0738255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistory_testRefreshJobRetentionSettings_5s
+testRefreshJobRetentionSettings
+org.apache.hadoop.mapreduce.v2.hs.JobHistory.HistoryCleaner		0.8333333
+org.apache.hadoop.mapreduce.v2.hs.JobHistory		0.32876712
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.27450982
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.SerialNumberIndex		0.18181819
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.0738255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistory_testRefreshLoadedJobCacheUnSupportedOperation_3a
+testRefreshLoadedJobCacheUnSupportedOperation
+org.apache.hadoop.mapreduce.v2.hs.JobHistory		0.28082192
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.15966387
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.12
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.SerialNumberIndex		0.09090909
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.083333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistory_testRefreshLoadedJobCacheUnSupportedOperation_5n
+testRefreshLoadedJobCacheUnSupportedOperation
+org.apache.hadoop.mapreduce.v2.hs.JobHistory		0.28082192
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager		0.15966387
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.12
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.SerialNumberIndex		0.09090909
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.083333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistory_testRefreshLoadedJobCache_4q
+testRefreshLoadedJobCache
+org.apache.hadoop.mapreduce.v2.hs.JobHistory		0.30821916
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.30201343
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobHistory_testRefreshLoadedJobCache_l
+testRefreshLoadedJobCache
+org.apache.hadoop.mapreduce.v2.hs.JobHistory		0.30821916
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.30201343
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobIdHistoryFileInfoMap
+TestJobIdHistoryFileInfoMap		0.84
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobIdHistoryFileInfoMap_testWithSingleElement_4d
+testWithSingleElement
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.72
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobIdHistoryFileInfoMap_testWithSingleElement_68
+testWithSingleElement
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.72
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobListCache
+TestJobListCache		0.8857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobListCache_testAddExisting_1t
+testAddExisting
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.56
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.29166666
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobListCache_testAddExisting_53
+testAddExisting
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.56
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.29166666
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobListCache_testEviction_24
+testEviction
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.92
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.5833333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/TestJobListCache_testEviction_3f
+testEviction
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobIdHistoryFileInfoMap		0.92
+org.apache.hadoop.mapreduce.v2.hs.HistoryFileManager.JobListCache		0.5833333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/server/TestHSAdminServer
+TestHSAdminServer		0.98245615
+TestHSAdminServer.MockUnixGroupsMapping		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/server/TestHSAdminServer_testGetGroups_1l
+org.apache.hadoop.mapreduce.v2.hs.HSProxies		0.45454547
+org.apache.hadoop.mapreduce.v2.hs.client.HSAdmin		0.18957347
+org.apache.hadoop.mapreduce.v2.hs.server.HSAdminServer		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/server/TestHSAdminServer_testGetGroups_50
+org.apache.hadoop.mapreduce.v2.hs.HSProxies		0.45454547
+org.apache.hadoop.mapreduce.v2.hs.client.HSAdmin		0.18957347
+org.apache.hadoop.mapreduce.v2.hs.server.HSAdminServer		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/server/TestHSAdminServer_testRefreshAdminAcls_17
+org.apache.hadoop.mapreduce.v2.hs.HSAuditLogger		0.92105263
+org.apache.hadoop.mapreduce.v2.hs.HSProxies		0.6666667
+org.apache.hadoop.mapreduce.v2.hs.server.HSAdminServer		0.28
+org.apache.hadoop.mapreduce.v2.hs.protocolPB.HSAdminRefreshProtocolClientSideTranslatorPB		0.22727273
+org.apache.hadoop.mapreduce.v2.hs.protocolPB.HSAdminRefreshProtocolServerSideTranslatorPB		0.18181819
+org.apache.hadoop.mapreduce.v2.hs.client.HSAdmin		0.1563981
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/server/TestHSAdminServer_testRefreshAdminAcls_4l
+org.apache.hadoop.mapreduce.v2.hs.HSAuditLogger		0.92105263
+org.apache.hadoop.mapreduce.v2.hs.HSProxies		0.6666667
+org.apache.hadoop.mapreduce.v2.hs.server.HSAdminServer		0.28
+org.apache.hadoop.mapreduce.v2.hs.protocolPB.HSAdminRefreshProtocolClientSideTranslatorPB		0.22727273
+org.apache.hadoop.mapreduce.v2.hs.protocolPB.HSAdminRefreshProtocolServerSideTranslatorPB		0.18181819
+org.apache.hadoop.mapreduce.v2.hs.client.HSAdmin		0.1563981
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/server/TestHSAdminServer_testRefreshJobRetentionSettings_1o
+org.apache.hadoop.mapreduce.v2.hs.HSAuditLogger		0.55263156
+org.apache.hadoop.mapreduce.v2.hs.HSProxies		0.5151515
+org.apache.hadoop.mapreduce.v2.hs.protocolPB.HSAdminRefreshProtocolClientSideTranslatorPB		0.22727273
+org.apache.hadoop.mapreduce.v2.hs.protocolPB.HSAdminRefreshProtocolServerSideTranslatorPB		0.18181819
+org.apache.hadoop.mapreduce.v2.hs.server.HSAdminServer		0.16
+org.apache.hadoop.mapreduce.v2.hs.client.HSAdmin		0.13744076
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/server/TestHSAdminServer_testRefreshJobRetentionSettings_2o
+org.apache.hadoop.mapreduce.v2.hs.HSAuditLogger		0.55263156
+org.apache.hadoop.mapreduce.v2.hs.HSProxies		0.5151515
+org.apache.hadoop.mapreduce.v2.hs.protocolPB.HSAdminRefreshProtocolClientSideTranslatorPB		0.22727273
+org.apache.hadoop.mapreduce.v2.hs.protocolPB.HSAdminRefreshProtocolServerSideTranslatorPB		0.18181819
+org.apache.hadoop.mapreduce.v2.hs.server.HSAdminServer		0.16
+org.apache.hadoop.mapreduce.v2.hs.client.HSAdmin		0.13744076
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/server/TestHSAdminServer_testRefreshLoadedJobCache_16
+org.apache.hadoop.mapreduce.v2.hs.HSAuditLogger		0.55263156
+org.apache.hadoop.mapreduce.v2.hs.HSProxies		0.5151515
+org.apache.hadoop.mapreduce.v2.hs.protocolPB.HSAdminRefreshProtocolClientSideTranslatorPB		0.22727273
+org.apache.hadoop.mapreduce.v2.hs.protocolPB.HSAdminRefreshProtocolServerSideTranslatorPB		0.18181819
+org.apache.hadoop.mapreduce.v2.hs.server.HSAdminServer		0.17333333
+org.apache.hadoop.mapreduce.v2.hs.client.HSAdmin		0.12796208
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/server/TestHSAdminServer_testRefreshLoadedJobCache_1k
+org.apache.hadoop.mapreduce.v2.hs.HSAuditLogger		0.55263156
+org.apache.hadoop.mapreduce.v2.hs.HSProxies		0.5151515
+org.apache.hadoop.mapreduce.v2.hs.protocolPB.HSAdminRefreshProtocolClientSideTranslatorPB		0.22727273
+org.apache.hadoop.mapreduce.v2.hs.protocolPB.HSAdminRefreshProtocolServerSideTranslatorPB		0.18181819
+org.apache.hadoop.mapreduce.v2.hs.server.HSAdminServer		0.17333333
+org.apache.hadoop.mapreduce.v2.hs.client.HSAdmin		0.12796208
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/server/TestHSAdminServer_testRefreshLogRetentionSettings_1g
+org.apache.hadoop.mapreduce.v2.hs.HSAuditLogger		0.55263156
+org.apache.hadoop.mapreduce.v2.hs.HSProxies		0.5151515
+org.apache.hadoop.mapreduce.v2.hs.protocolPB.HSAdminRefreshProtocolClientSideTranslatorPB		0.22727273
+org.apache.hadoop.mapreduce.v2.hs.protocolPB.HSAdminRefreshProtocolServerSideTranslatorPB		0.18181819
+org.apache.hadoop.mapreduce.v2.hs.server.HSAdminServer		0.16
+org.apache.hadoop.mapreduce.v2.hs.client.HSAdmin		0.14691943
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/server/TestHSAdminServer_testRefreshLogRetentionSettings_2w
+org.apache.hadoop.mapreduce.v2.hs.HSAuditLogger		0.55263156
+org.apache.hadoop.mapreduce.v2.hs.HSProxies		0.5151515
+org.apache.hadoop.mapreduce.v2.hs.protocolPB.HSAdminRefreshProtocolClientSideTranslatorPB		0.22727273
+org.apache.hadoop.mapreduce.v2.hs.protocolPB.HSAdminRefreshProtocolServerSideTranslatorPB		0.18181819
+org.apache.hadoop.mapreduce.v2.hs.server.HSAdminServer		0.16
+org.apache.hadoop.mapreduce.v2.hs.client.HSAdmin		0.14691943
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/server/TestHSAdminServer_testRefreshSuperUserGroups_f
+org.apache.hadoop.mapreduce.v2.hs.HSAuditLogger		0.55263156
+org.apache.hadoop.mapreduce.v2.hs.HSProxies		0.3939394
+org.apache.hadoop.mapreduce.v2.hs.server.HSAdminServer		0.16
+org.apache.hadoop.mapreduce.v2.hs.client.HSAdmin		0.109004736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/server/TestHSAdminServer_testRefreshSuperUserGroups_o
+org.apache.hadoop.mapreduce.v2.hs.HSAuditLogger		0.55263156
+org.apache.hadoop.mapreduce.v2.hs.HSProxies		0.3939394
+org.apache.hadoop.mapreduce.v2.hs.server.HSAdminServer		0.16
+org.apache.hadoop.mapreduce.v2.hs.client.HSAdmin		0.109004736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/server/TestHSAdminServer_testRefreshUserToGroupsMappings_1e
+org.apache.hadoop.mapreduce.v2.hs.HSAuditLogger		0.55263156
+org.apache.hadoop.mapreduce.v2.hs.HSProxies		0.3939394
+org.apache.hadoop.mapreduce.v2.hs.server.HSAdminServer		0.16
+org.apache.hadoop.mapreduce.v2.hs.client.HSAdmin		0.09952607
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/server/TestHSAdminServer_testRefreshUserToGroupsMappings_2d
+org.apache.hadoop.mapreduce.v2.hs.HSAuditLogger		0.55263156
+org.apache.hadoop.mapreduce.v2.hs.HSProxies		0.3939394
+org.apache.hadoop.mapreduce.v2.hs.server.HSAdminServer		0.16
+org.apache.hadoop.mapreduce.v2.hs.client.HSAdmin		0.09952607
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestBlocks
+TestBlocks		1.0
+TestBlocks.HsControllerForTest		0.77272725
+TestBlocks.HsJobsBlockForTest		1.0
+TestBlocks.AttemptsBlockForTest		0.9285714
+TestBlocks.HsTasksBlockForTest		0.9285714
+TestBlocks.HtmlBlockForTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestBlocks_testAttemptsBlock_4c
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsTaskPage.AttemptsBlock		0.86021507
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestBlocks_testAttemptsBlock_4m
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsTaskPage.AttemptsBlock		0.86021507
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestBlocks_testHsController_11
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsController		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestBlocks_testHsController_1n
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsController		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestBlocks_testHsJobsBlock_9
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsJobsBlock		0.9375
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.24698795
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestBlocks_testHsJobsBlock_d
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsJobsBlock		0.9375
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.24698795
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestBlocks_testHsTasksBlock_29
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsTasksBlock		0.7117117
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestBlocks_testHsTasksBlock_i
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsTasksBlock		0.7117117
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHSWebApp
+TestHSWebApp		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHSWebApp_testAboutView_4a
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsAboutPage		1.0
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.HistoryInfo		0.84615386
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsNavBlock		0.46666667
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsView		0.29411766
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHSWebApp_testAboutView_67
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsAboutPage		1.0
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.HistoryInfo		0.84615386
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsNavBlock		0.46666667
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsView		0.29411766
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHSWebApp_testAppControllerIndex_1b
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsController		0.0952381
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHSWebApp_testAppControllerIndex_4x
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsController		0.0952381
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHSWebApp_testAttemptsView_10
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsAttemptsPage		1.0
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsTaskPage		0.7307692
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsNavBlock		0.46666667
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsView		0.29411766
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsAttemptsPage.FewAttemptsBlock		0.2
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsTaskPage.AttemptsBlock		0.07526882
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHSWebApp_testAttemptsView_3c
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsAttemptsPage		1.0
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsTaskPage		0.7307692
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsNavBlock		0.46666667
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsView		0.29411766
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsAttemptsPage.FewAttemptsBlock		0.2
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsTaskPage.AttemptsBlock		0.07526882
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHSWebApp_testAttemptsWithJobView_3s
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsAttemptsPage		1.0
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsTaskPage		0.7307692
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsNavBlock		0.46666667
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsView		0.29411766
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsAttemptsPage.FewAttemptsBlock		0.2
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsTaskPage.AttemptsBlock		0.07526882
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHSWebApp_testAttemptsWithJobView_4q
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsAttemptsPage		1.0
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsTaskPage		0.7307692
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsNavBlock		0.46666667
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsView		0.29411766
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsAttemptsPage.FewAttemptsBlock		0.2
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsTaskPage.AttemptsBlock		0.07526882
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHSWebApp_testConfView_2j
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsConfPage		0.9411765
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsNavBlock		0.46666667
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsView		0.29411766
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHSWebApp_testConfView_30
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsConfPage		0.9411765
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsNavBlock		0.46666667
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsView		0.29411766
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHSWebApp_testJobCounterViewForKilledJob_21
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsCountersPage		0.93333334
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsNavBlock		0.46666667
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsView		0.29411766
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHSWebApp_testJobCounterViewForKilledJob_3d
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsCountersPage		0.93333334
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsNavBlock		0.46666667
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsView		0.29411766
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHSWebApp_testJobCounterView_34
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsCountersPage		0.93333334
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsNavBlock		0.46666667
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsView		0.29411766
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHSWebApp_testJobCounterView_48
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsCountersPage		0.93333334
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsNavBlock		0.46666667
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsView		0.29411766
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHSWebApp_testJobView_25
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsJobPage		0.8888889
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.AMAttemptInfo		0.7692308
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsJobBlock		0.6111111
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsNavBlock		0.46666667
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.36746988
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsView		0.29411766
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHSWebApp_testJobView_3g
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsJobPage		0.8888889
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.AMAttemptInfo		0.7692308
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsJobBlock		0.6111111
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsNavBlock		0.46666667
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.36746988
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsView		0.29411766
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHSWebApp_testLogsView1_14
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHSWebApp_testLogsView1_1v
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHSWebApp_testLogsView2_4v
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHSWebApp_testLogsView2_y
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHSWebApp_testLogsViewBadStartEnd_2c
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHSWebApp_testLogsViewBadStartEnd_3l
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHSWebApp_testLogsViewSingle_4n
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHSWebApp_testLogsViewSingle_6c
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHSWebApp_testSingleCounterView_1l
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsSingleCounterPage		0.9375
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsNavBlock		0.46666667
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsView		0.29411766
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHSWebApp_testSingleCounterView_2j
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsSingleCounterPage		0.9375
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsNavBlock		0.46666667
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsView		0.29411766
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHSWebApp_testTaskView_1q
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsTaskPage		0.8076923
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsNavBlock		0.46666667
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsView		0.29411766
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsTaskPage.AttemptsBlock		0.09677419
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHSWebApp_testTaskView_2q
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsTaskPage		0.8076923
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsNavBlock		0.46666667
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsView		0.29411766
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsTaskPage.AttemptsBlock		0.09677419
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHSWebApp_testTasksView_34
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsTasksPage		0.88461536
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsNavBlock		0.46666667
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsView		0.29411766
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsTasksBlock		0.06306306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHSWebApp_testTasksView_5k
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsTasksPage		0.88461536
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsNavBlock		0.46666667
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsView		0.29411766
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsTasksBlock		0.06306306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServices
+TestHsWebServices		0.9747899
+TestHsWebServices.GuiceServletConfig		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAcls
+TestHsWebServicesAcls		0.9126214
+TestHsWebServicesAcls.NullGroupsProvider		0.75
+TestHsWebServicesAcls.MockJobForAcls		0.6964286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAcls_testGetJobAcls_1n
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.10240964
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.0867347
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAcls_testGetJobAcls_v
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.10240964
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.0867347
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAcls_testGetJobConfAcls_1m
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.10204082
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAcls_testGetJobConfAcls_4f
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.10204082
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAcls_testGetJobCountersAcls_4g
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.0867347
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAcls_testGetJobCountersAcls_4h
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.0867347
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAcls_testGetJobTaskAcls_33
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.091836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAcls_testGetJobTaskAcls_5h
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.091836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAcls_testGetJobTaskAttemptIdAcls_3f
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.10714286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAcls_testGetJobTaskAttemptIdAcls_c
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.10714286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAcls_testGetJobTaskAttemptIdCountersAcls_2r
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.096938774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAcls_testGetJobTaskAttemptIdCountersAcls_3t
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.096938774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAcls_testGetJobTaskAttemptsAcls_2m
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.12755102
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAcls_testGetJobTaskAttemptsAcls_3m
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.12755102
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAcls_testGetJobTasksAcls_1d
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.1377551
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAcls_testGetJobTasksAcls_2b
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.1377551
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAcls_testGetSingleTaskCountersAcls_18
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.11734694
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAcls_testGetSingleTaskCountersAcls_23
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.11734694
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAttempts
+TestHsWebServicesAttempts		0.9879154
+TestHsWebServicesAttempts.GuiceServletConfig		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAttempts_testTaskAttemptIdBogus_37
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.096938774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAttempts_testTaskAttemptIdBogus_5m
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.096938774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAttempts_testTaskAttemptIdCounters_3h
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.10204082
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAttempts_testTaskAttemptIdCounters_p
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.10204082
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAttempts_testTaskAttemptIdDefault_37
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAttempts_testTaskAttemptIdDefault_44
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAttempts_testTaskAttemptIdInvalid2_22
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.096938774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAttempts_testTaskAttemptIdInvalid2_46
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.096938774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAttempts_testTaskAttemptIdInvalid3_1q
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.096938774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAttempts_testTaskAttemptIdInvalid3_2n
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.096938774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAttempts_testTaskAttemptIdInvalid_1x
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.096938774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAttempts_testTaskAttemptIdInvalid_2w
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.096938774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAttempts_testTaskAttemptIdNonExist_3u
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.096938774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAttempts_testTaskAttemptIdNonExist_r
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.096938774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAttempts_testTaskAttemptIdSlash_49
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAttempts_testTaskAttemptIdSlash_4o
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAttempts_testTaskAttemptIdXMLCounters_1c
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.10204082
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAttempts_testTaskAttemptIdXMLCounters_28
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.10204082
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAttempts_testTaskAttemptIdXML_2m
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAttempts_testTaskAttemptIdXML_3s
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAttempts_testTaskAttemptId_d
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAttempts_testTaskAttemptId_j
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAttempts_testTaskAttemptsDefault_20
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAttempts_testTaskAttemptsDefault_55
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAttempts_testTaskAttemptsSlash_3v
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAttempts_testTaskAttemptsSlash_u
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAttempts_testTaskAttemptsXML_18
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAttempts_testTaskAttemptsXML_u
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAttempts_testTaskAttempts_1i
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesAttempts_testTaskAttempts_2h
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobConf
+TestHsWebServicesJobConf		0.972973
+TestHsWebServicesJobConf.GuiceServletConfig		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobConf_testJobConfDefault_15
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.10714286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobConf_testJobConfDefault_1x
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.10714286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobConf_testJobConfSlash_1j
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.10714286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobConf_testJobConfSlash_2i
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.10714286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobConf_testJobConfXML_21
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.10714286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobConf_testJobConfXML_56
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.10714286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobConf_testJobConf_19
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.10714286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobConf_testJobConf_24
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.10714286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs
+TestHsWebServicesJobs		0.98834497
+TestHsWebServicesJobs.GuiceServletConfig		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery
+TestHsWebServicesJobsQuery		1.0
+TestHsWebServicesJobsQuery.GuiceServletConfig		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryFinishTimeBeginEndInvalid_1g
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.17857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryFinishTimeBeginEndInvalid_2f
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.17857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryFinishTimeBeginEnd_29
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.6
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.36507937
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.30201343
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.19387755
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.10240964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryFinishTimeBeginEnd_57
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.6
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.36507937
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.30201343
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.19387755
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.10240964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryFinishTimeBeginNegative_15
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.13265306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryFinishTimeBeginNegative_3l
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.13265306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryFinishTimeBegin_3d
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.6
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.36507937
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.295302
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.1734694
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.10240964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryFinishTimeBegin_3q
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.6
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.36507937
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.295302
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.1734694
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.10240964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryFinishTimeEndInvalidformat_3w
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.1377551
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryFinishTimeEndInvalidformat_41
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.1377551
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryFinishTimeEndNegative_1j
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.14795919
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryFinishTimeEndNegative_t
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.14795919
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryFinishTimeEnd_3j
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.25503355
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.2
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.1734694
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.031746034
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryFinishTimeEnd_v
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.25503355
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.2
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.1734694
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.031746034
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryFinishTimeInvalidformat_1a
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryFinishTimeInvalidformat_p
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryLimitInvalid_40
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.07653061
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryLimitInvalid_41
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.07653061
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryLimit_4j
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.6
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.36507937
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.30872482
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.1734694
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.10240964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryLimit_4x
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.6
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.36507937
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.30872482
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.1734694
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.10240964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryQueueNonExist_13
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.22818792
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.2
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.15306123
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.031746034
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryQueueNonExist_1u
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.22818792
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.2
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.15306123
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.031746034
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryQueue_2
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.6
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.36507937
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.31543624
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.15306123
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.10240964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryQueue_5
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.6
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.36507937
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.31543624
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.15306123
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.10240964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryStartTimeBeginEndInvalid_40
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.1377551
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryStartTimeBeginEndInvalid_4t
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.1377551
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryStartTimeBeginEnd_2y
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.6
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.36507937
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.30201343
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.19387755
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.10240964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryStartTimeBeginEnd_5g
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.6
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.36507937
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.30201343
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.19387755
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.10240964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryStartTimeBegin_3z
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.24161074
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.2
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.1734694
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.031746034
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryStartTimeBegin_4k
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.24161074
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.2
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.1734694
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.031746034
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryStartTimeEndInvalidformat_14
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.096938774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryStartTimeEndInvalidformat_n
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.096938774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryStartTimeEndNegative_a
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.10714286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryStartTimeEndNegative_e
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.10714286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryStartTimeEnd_1s
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.6
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.36507937
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.295302
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.1734694
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.10240964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryStartTimeEnd_2n
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.6
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.36507937
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.295302
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.1734694
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.10240964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryStartTimeInvalidformat_4w
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.08163265
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryStartTimeInvalidformat_z
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.08163265
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryStartTimeNegative_4o
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.091836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryStartTimeNegative_6
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.091836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryStateInvalid_2q
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.15306123
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryStateInvalid_g
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.15306123
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryStateNone_1f
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.2751678
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.2
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.15816326
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.031746034
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryStateNone_2e
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.2751678
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.2
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.15816326
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.031746034
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryState_0
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.6
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.36507937
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.31543624
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.15816326
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.10240964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryState_1
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.6
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.36507937
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.31543624
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.15816326
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.10240964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryUserNone_43
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.24161074
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.2
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.15306123
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.031746034
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryUserNone_4p
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.24161074
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.2
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.15306123
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.031746034
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryUser_1d
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.6
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.36507937
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.31543624
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.15306123
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.10240964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobsQuery_testJobsQueryUser_33
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.6
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.36507937
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.31543624
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.15306123
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.10240964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobAttemptsDefault_4t
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.AMAttemptsInfo		0.6
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.AMAttemptInfo		0.5641026
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.06632653
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobAttemptsDefault_t
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.AMAttemptsInfo		0.6
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.AMAttemptInfo		0.5641026
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.06632653
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobAttemptsSlash_6
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.AMAttemptsInfo		0.6
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.AMAttemptInfo		0.5641026
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.06632653
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobAttemptsSlash_a
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.AMAttemptsInfo		0.6
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.AMAttemptInfo		0.5641026
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.06632653
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobAttemptsXML_4a
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.AMAttemptsInfo		0.6
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.AMAttemptInfo		0.5641026
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.06632653
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobAttemptsXML_4w
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.AMAttemptsInfo		0.6
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.AMAttemptInfo		0.5641026
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.06632653
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobAttempts_3c
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.AMAttemptsInfo		0.6
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.AMAttemptInfo		0.5641026
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.06632653
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobAttempts_5o
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.AMAttemptsInfo		0.6
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.AMAttemptInfo		0.5641026
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.06632653
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobCountersDefault_47
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.091836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobCountersDefault_65
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.091836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobCountersForKilledJob_1v
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.20634921
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.091836736
+org.apache.hadoop.mapreduce.v2.hs.CompletedJob		0.03448276
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobCountersForKilledJob_2z
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.20634921
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.091836736
+org.apache.hadoop.mapreduce.v2.hs.CompletedJob		0.03448276
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobCountersSlash_1z
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.091836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobCountersSlash_s
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.091836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobCountersXML_1t
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.091836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobCountersXML_2v
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.091836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobCounters_2r
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.091836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobCounters_5c
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.091836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobIdDefault_1m
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.45180723
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.091836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobIdDefault_2l
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.45180723
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.091836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobIdInvalidBogus_3t
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.040816326
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobIdInvalidBogus_4g
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.040816326
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobIdInvalidDefault_30
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.040816326
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobIdInvalidDefault_46
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.040816326
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobIdInvalidXML_26
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.040816326
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobIdInvalidXML_3i
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.040816326
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobIdInvalid_3b
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.040816326
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobIdInvalid_4h
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.040816326
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobIdNonExist_2l
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.040816326
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobIdNonExist_3r
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.040816326
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobIdSlash_e
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.45180723
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.091836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobIdSlash_m
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.45180723
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.091836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobIdXML_3o
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.43373495
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.091836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobIdXML_k
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.43373495
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.091836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobId_3
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.5120482
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.091836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobId_4n
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.5120482
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.091836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobsDefault_1h
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.6
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.36507937
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.30201343
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.15306123
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.10240964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobsDefault_2g
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.6
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.36507937
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.30201343
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.15306123
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.10240964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobsSlash_1p
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.6
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.36507937
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.30201343
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.15306123
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.10240964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobsSlash_z
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.6
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.36507937
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.30201343
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.15306123
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.10240964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobsXML_2e
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.6
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.36507937
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.30201343
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.15306123
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.10240964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobsXML_3n
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.6
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.36507937
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.30201343
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.15306123
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.10240964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobs_4r
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.6
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.36507937
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.30201343
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.15306123
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.10240964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesJobs_testJobs_6f
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobsInfo		0.6
+org.apache.hadoop.mapreduce.v2.hs.PartialJob		0.36507937
+org.apache.hadoop.mapreduce.v2.hs.CachedHistoryStorage		0.30201343
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.15306123
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.10240964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks
+TestHsWebServicesTasks		0.98390806
+TestHsWebServicesTasks.GuiceServletConfig		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testJobTaskCountersXML_2a
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testJobTaskCountersXML_3k
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTaskIdBogus_1y
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.091836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTaskIdBogus_54
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.091836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTaskIdCountersDefault_2y
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTaskIdCountersDefault_42
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTaskIdCountersSlash_3p
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTaskIdCountersSlash_3y
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTaskIdCounters_2b
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTaskIdCounters_3k
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTaskIdDefault_2i
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.096938774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTaskIdDefault_3p
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.096938774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTaskIdInvalid2_4
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.091836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTaskIdInvalid2_8
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.091836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTaskIdInvalid3_j
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.091836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTaskIdInvalid3_x
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.091836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTaskIdInvalid_2u
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.091836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTaskIdInvalid_5e
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.091836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTaskIdNonExist_0
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.091836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTaskIdNonExist_48
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.091836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTaskIdSlash_3b
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.096938774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTaskIdSlash_4f
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.096938774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTaskIdXML_2z
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.096938774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTaskIdXML_45
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.096938774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTaskId_36
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.096938774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTaskId_3m
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.096938774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTasksDefault_3g
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.13265306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTasksDefault_4j
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.13265306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTasksQueryInvalid_2x
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.12755102
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTasksQueryInvalid_5f
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.12755102
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTasksQueryMap_26
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.15306123
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTasksQueryMap_2f
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.15306123
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTasksQueryReduce_2k
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.15306123
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTasksQueryReduce_n
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.15306123
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTasksSlash_1f
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.13265306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTasksSlash_4z
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.13265306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTasksXML_3u
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.13265306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTasksXML_4d
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.13265306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTasks_7
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.13265306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServicesTasks_testTasks_b
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.13265306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServices_testHSDefault_2c
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.HistoryInfo		0.3846154
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.05102041
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServices_testHSDefault_2d
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.HistoryInfo		0.3846154
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.05102041
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServices_testHSSlash_1w
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.HistoryInfo		0.3846154
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.05102041
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServices_testHSSlash_32
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.HistoryInfo		0.3846154
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.05102041
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServices_testHSXML_3n
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.HistoryInfo		0.3846154
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.05102041
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServices_testHSXML_4b
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.HistoryInfo		0.3846154
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.05102041
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServices_testHS_1b
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.HistoryInfo		0.3846154
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.05102041
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServices_testHS_27
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.HistoryInfo		0.3846154
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.05102041
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServices_testInfoDefault_b
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.HistoryInfo		0.3846154
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.040816326
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServices_testInfoDefault_f
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.HistoryInfo		0.3846154
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.040816326
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServices_testInfoSlash_1z
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.HistoryInfo		0.3846154
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.040816326
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServices_testInfoSlash_2s
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.HistoryInfo		0.3846154
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.040816326
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServices_testInfoXML_10
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.HistoryInfo		0.3846154
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.040816326
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServices_testInfoXML_1r
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.HistoryInfo		0.3846154
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.040816326
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServices_testInfo_4b
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.HistoryInfo		0.3846154
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.040816326
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServices_testInfo_4i
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.HistoryInfo		0.3846154
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.040816326
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServices_testInvalidAccept_27
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.42857143
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.015306123
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServices_testInvalidAccept_38
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.42857143
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.015306123
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServices_testInvalidUri2_1c
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.42857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServices_testInvalidUri2_39
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.42857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServices_testInvalidUri_1r
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.42857143
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.015306123
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/TestHsWebServices_testInvalidUri_2s
+org.apache.hadoop.mapreduce.v2.hs.webapp.JAXBContextResolver		0.42857143
+org.apache.hadoop.mapreduce.v2.hs.webapp.HsWebServices		0.015306123
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/dao/TestJobInfo
+TestJobInfo		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/dao/TestJobInfo_testAverageMergeTime_2g
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.55421686
+org.apache.hadoop.mapreduce.v2.hs.CompletedJob		0.45689654
+org.apache.hadoop.mapreduce.v2.hs.CompletedTask		0.33333334
+org.apache.hadoop.mapreduce.v2.hs.CompletedTaskAttempt		0.2948718
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/dao/TestJobInfo_testAverageMergeTime_3o
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.55421686
+org.apache.hadoop.mapreduce.v2.hs.CompletedJob		0.45689654
+org.apache.hadoop.mapreduce.v2.hs.CompletedTask		0.33333334
+org.apache.hadoop.mapreduce.v2.hs.CompletedTaskAttempt		0.2948718
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/dao/TestJobInfo_testAverageReduceTime_20
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.4698795
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/clover/org/apache/hadoop/mapreduce/v2/hs/webapp/dao/TestJobInfo_testAverageReduceTime_39
+org.apache.hadoop.mapreduce.v2.hs.webapp.dao.JobInfo		0.4698795
+-- -- -- -- -- -- -- -- -- -- -- -- --

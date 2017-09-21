@@ -1,0 +1,109 @@
+./components/camel-twitter/target/site/clover/org/apache/camel
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/CamelComponentVerifierTest
+CamelComponentVerifierTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/CamelTwitterConsumerTestSupport
+CamelTwitterConsumerTestSupport		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/CamelTwitterTestSupport
+CamelTwitterTestSupport		0.68292683
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/DirectMessageDirectTest
+DirectMessageDirectTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/DirectMessagePollingTest
+DirectMessagePollingTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/HomeTimeLineDirectTest
+HomeTimeLineDirectTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/HomeTimeLinePollingTest
+HomeTimeLinePollingTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/SearchByExchangeDirectTest
+SearchByExchangeDirectTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/SearchDirectCustomComponentTest
+SearchDirectCustomComponentTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/SearchDirectTest
+SearchDirectTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/SearchEventTest
+SearchEventTest		0.0
+SearchEventTest.TwitterHandler		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/SearchPollingTest
+SearchPollingTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/UriConfigurationTest
+UriConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/UriConfigurationTest_testBasicAuthentication_0
+org.apache.camel.component.twitter.TwitterComponent		0.3015873
+org.apache.camel.component.twitter.TwitterEndpointPolling		0.23076923
+org.apache.camel.component.twitter.TwitterConfiguration		0.17266187
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/UriConfigurationTest_testHttpProxySetting_1
+org.apache.camel.component.twitter.TwitterComponent		0.3015873
+org.apache.camel.component.twitter.TwitterEndpointPolling		0.23076923
+org.apache.camel.component.twitter.TwitterConfiguration		0.18705036
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/UriConfigurationTest_testPageSetting_2
+org.apache.camel.component.twitter.TwitterComponent		0.3015873
+org.apache.camel.component.twitter.TwitterEndpointPolling		0.23076923
+org.apache.camel.component.twitter.TwitterConfiguration		0.17266187
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/UserProducerInOnlyTest
+UserProducerInOnlyTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/UserProducerInOutTest
+UserProducerInOutTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/UserStreamingTest
+UserStreamingTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/UserTimeLineDirectTest
+UserTimeLineDirectTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/UserTimeLinePollingTest
+UserTimeLinePollingTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/test-CamelComponentVerifierTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/test-CamelTwitterConsumerTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/test-CamelTwitterTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/test-DirectMessageDirectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/test-DirectMessagePollingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/test-HomeTimeLineDirectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/test-HomeTimeLinePollingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/test-SearchByExchangeDirectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/test-SearchDirectCustomComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/test-SearchDirectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/test-SearchEventTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/test-SearchEventTest_TwitterHandler
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/test-SearchPollingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/test-UriConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/test-UserProducerInOnlyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/test-UserProducerInOutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/test-UserStreamingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/test-UserTimeLineDirectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-twitter/target/site/clover/org/apache/camel/component/twitter/test-UserTimeLinePollingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

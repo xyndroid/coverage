@@ -1,0 +1,37 @@
+./components/camel-castor/target/site/clover/org/apache/camel
+./components/camel-castor/target/site/clover/org/apache/camel/dataformat/castor/MarshalDomainObjectTest
+MarshalDomainObjectTest		0.8857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-castor/target/site/clover/org/apache/camel/dataformat/castor/MarshalDomainObjectTest_testMarshalDomainObjectTwice_4
+org.apache.camel.dataformat.castor.AbstractCastorDataFormat		0.17977528
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-castor/target/site/clover/org/apache/camel/dataformat/castor/MarshalDomainObjectTest_testMarshalDomainObject_5
+org.apache.camel.dataformat.castor.AbstractCastorDataFormat		0.17977528
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-castor/target/site/clover/org/apache/camel/dataformat/castor/MarshalWithMappingDomainObjectTest
+MarshalWithMappingDomainObjectTest		0.8888889
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-castor/target/site/clover/org/apache/camel/dataformat/castor/MarshalWithMappingDomainObjectTest_testMarshalDomainObject_3
+org.apache.camel.dataformat.castor.AbstractCastorDataFormat		0.17977528
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-castor/target/site/clover/org/apache/camel/dataformat/castor/MarshalWithMappingDomainObjectTest_testUnmarshalDomainObject_2
+org.apache.camel.dataformat.castor.AbstractCastorDataFormat		0.101123594
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-castor/target/site/clover/org/apache/camel/dataformat/castor/SpringMarshalDomainObjectTest
+SpringMarshalDomainObjectTest		0.88235295
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-castor/target/site/clover/org/apache/camel/dataformat/castor/SpringMarshalDomainObjectTest_testMappingOfDomainObject_6
+org.apache.camel.dataformat.castor.AbstractCastorDataFormat		0.25842696
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-castor/target/site/clover/org/apache/camel/dataformat/castor/SpringMarshalDomainObjectTest_testMarshalDomainObjectTwice_0
+org.apache.camel.dataformat.castor.AbstractCastorDataFormat		0.17977528
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-castor/target/site/clover/org/apache/camel/dataformat/castor/SpringMarshalDomainObjectTest_testMarshalDomainObject_1
+org.apache.camel.dataformat.castor.AbstractCastorDataFormat		0.17977528
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-castor/target/site/clover/org/apache/camel/dataformat/castor/test-MarshalDomainObjectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-castor/target/site/clover/org/apache/camel/dataformat/castor/test-MarshalWithMappingDomainObjectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-castor/target/site/clover/org/apache/camel/dataformat/castor/test-SpringMarshalDomainObjectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

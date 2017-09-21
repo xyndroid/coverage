@@ -1,0 +1,58 @@
+./examples/camel-example-cafe/target/site/clover/org/apache/camel
+./examples/camel-example-cafe/target/site/clover/org/apache/camel/example/cafe/CafeRouteBuilderTest
+CafeRouteBuilderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cafe/target/site/clover/org/apache/camel/example/cafe/CafeRouteBuilderTest_testCafeRoute_3
+org.apache.camel.example.cafe.stuff.CafeAggregationStrategy		1.0
+org.apache.camel.example.cafe.stuff.DrinkRouter		1.0
+org.apache.camel.example.cafe.stuff.OrderSplitter		1.0
+org.apache.camel.example.cafe.stuff.Waiter		1.0
+org.apache.camel.example.cafe.Order		1.0
+org.apache.camel.example.cafe.Delivery		0.9411765
+org.apache.camel.example.cafe.Drink		0.6666667
+org.apache.camel.example.cafe.OrderItem		0.56666666
+org.apache.camel.example.cafe.stuff.Barista		0.5555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cafe/target/site/clover/org/apache/camel/example/cafe/CafeRouteBuilderTest_testSplitter_0
+org.apache.camel.example.cafe.stuff.OrderSplitter		1.0
+org.apache.camel.example.cafe.Order		1.0
+org.apache.camel.example.cafe.OrderItem		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cafe/target/site/clover/org/apache/camel/example/cafe/CafeRouteSpringIntegrationTest
+CafeRouteSpringIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cafe/target/site/clover/org/apache/camel/example/cafe/CafeRouteSpringTest
+CafeRouteSpringTest		0.9285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cafe/target/site/clover/org/apache/camel/example/cafe/CafeRouteSpringTest_testCafeRoute_2
+org.apache.camel.example.cafe.stuff.CafeAggregationStrategy		1.0
+org.apache.camel.example.cafe.stuff.DrinkRouter		1.0
+org.apache.camel.example.cafe.stuff.OrderSplitter		1.0
+org.apache.camel.example.cafe.stuff.Waiter		1.0
+org.apache.camel.example.cafe.Order		1.0
+org.apache.camel.example.cafe.Delivery		0.9411765
+org.apache.camel.example.cafe.Drink		0.6666667
+org.apache.camel.example.cafe.OrderItem		0.56666666
+org.apache.camel.example.cafe.stuff.Barista		0.5555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cafe/target/site/clover/org/apache/camel/example/cafe/CafeRouteSpringTest_testSplitter_1
+org.apache.camel.example.cafe.stuff.OrderSplitter		1.0
+org.apache.camel.example.cafe.Order		1.0
+org.apache.camel.example.cafe.OrderItem		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cafe/target/site/clover/org/apache/camel/example/cafe/test/TestDrinkRouter
+TestDrinkRouter		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cafe/target/site/clover/org/apache/camel/example/cafe/test/TestWaiter
+TestWaiter		0.64705884
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cafe/target/site/clover/org/apache/camel/example/cafe/test/test-TestDrinkRouter
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cafe/target/site/clover/org/apache/camel/example/cafe/test/test-TestWaiter
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cafe/target/site/clover/org/apache/camel/example/cafe/test-CafeRouteBuilderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cafe/target/site/clover/org/apache/camel/example/cafe/test-CafeRouteSpringIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cafe/target/site/clover/org/apache/camel/example/cafe/test-CafeRouteSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,47 @@
+./components/camel-optaplanner/target/site/clover/org/apache/camel
+./components/camel-optaplanner/target/site/clover/org/apache/camel/component/optaplanner/OptaPlannerAsyncSolverTest
+OptaPlannerAsyncSolverTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-optaplanner/target/site/clover/org/apache/camel/component/optaplanner/OptaPlannerAsyncSolverTest_testAsynchronousProblemSolving_2
+org.apache.camel.component.optaplanner.OptaPlannerProducer		0.4691358
+org.apache.camel.component.optaplanner.OptaPlannerConsumer		0.375
+org.apache.camel.component.optaplanner.OptaPlannerEndpoint		0.28125
+org.apache.camel.component.optaplanner.OptaPlannerConfiguration		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-optaplanner/target/site/clover/org/apache/camel/component/optaplanner/OptaPlannerConsumerTest
+OptaPlannerConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-optaplanner/target/site/clover/org/apache/camel/component/optaplanner/OptaPlannerConsumerTest_testSynchronousProblemSolving_3
+org.apache.camel.component.optaplanner.OptaPlannerConsumer		0.375
+org.apache.camel.component.optaplanner.OptaPlannerProducer		0.37037036
+org.apache.camel.component.optaplanner.OptaPlannerConfiguration		0.25
+org.apache.camel.component.optaplanner.OptaPlannerEndpoint		0.09375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-optaplanner/target/site/clover/org/apache/camel/component/optaplanner/OptaPlannerDaemonSolverTest
+OptaPlannerDaemonSolverTest		1.0
+OptaPlannerDaemonSolverTest.RemoveComputerChange		0.9166667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-optaplanner/target/site/clover/org/apache/camel/component/optaplanner/OptaPlannerDaemonSolverTest_testAsynchronousProblemSolving_1
+org.apache.camel.component.optaplanner.OptaPlannerProducer		0.5555556
+org.apache.camel.component.optaplanner.OptaPlannerConsumer		0.41666666
+org.apache.camel.component.optaplanner.OptaPlannerEndpoint		0.28125
+org.apache.camel.component.optaplanner.OptaPlannerConfiguration		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-optaplanner/target/site/clover/org/apache/camel/component/optaplanner/OptaPlannerSyncSolverTest
+OptaPlannerSyncSolverTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-optaplanner/target/site/clover/org/apache/camel/component/optaplanner/OptaPlannerSyncSolverTest_testSynchronousProblemSolving_0
+org.apache.camel.component.optaplanner.OptaPlannerProducer		0.37037036
+org.apache.camel.component.optaplanner.OptaPlannerConfiguration		0.25
+org.apache.camel.component.optaplanner.OptaPlannerEndpoint		0.09375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-optaplanner/target/site/clover/org/apache/camel/component/optaplanner/test-OptaPlannerAsyncSolverTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-optaplanner/target/site/clover/org/apache/camel/component/optaplanner/test-OptaPlannerConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-optaplanner/target/site/clover/org/apache/camel/component/optaplanner/test-OptaPlannerDaemonSolverTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-optaplanner/target/site/clover/org/apache/camel/component/optaplanner/test-OptaPlannerDaemonSolverTest_RemoveComputerChange
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-optaplanner/target/site/clover/org/apache/camel/component/optaplanner/test-OptaPlannerSyncSolverTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

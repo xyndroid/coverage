@@ -1,0 +1,89 @@
+./components/camel-couchdb/target/site/clover/org/apache/camel
+./components/camel-couchdb/target/site/clover/org/apache/camel/component/couchdb/CouchDbChangesetTrackerTest
+CouchDbChangesetTrackerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchdb/target/site/clover/org/apache/camel/component/couchdb/CouchDbChangesetTrackerTest_testExchangeCreatedWithCorrectProperties_a
+org.apache.camel.component.couchdb.CouchDbChangesetTracker		0.4047619
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchdb/target/site/clover/org/apache/camel/component/couchdb/CouchDbChangesetTrackerTest_testProcessorInvoked_1
+org.apache.camel.component.couchdb.CouchDbChangesetTracker		0.4047619
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchdb/target/site/clover/org/apache/camel/component/couchdb/CouchDbComponentTest
+CouchDbComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchdb/target/site/clover/org/apache/camel/component/couchdb/CouchDbComponentTest_testEndpointCreated_0
+org.apache.camel.component.couchdb.CouchDbComponent		0.75
+org.apache.camel.component.couchdb.CouchDbEndpoint		0.15384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchdb/target/site/clover/org/apache/camel/component/couchdb/CouchDbComponentTest_testPropertiesSet_c
+org.apache.camel.component.couchdb.CouchDbComponent		0.75
+org.apache.camel.component.couchdb.CouchDbEndpoint		0.5494506
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchdb/target/site/clover/org/apache/camel/component/couchdb/CouchDbConsumerDeletesIntegrationTest
+CouchDbConsumerDeletesIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchdb/target/site/clover/org/apache/camel/component/couchdb/CouchDbConsumerIntegrationTest
+CouchDbConsumerIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchdb/target/site/clover/org/apache/camel/component/couchdb/CouchDbConsumerUpdatesIntegrationTest
+CouchDbConsumerUpdatesIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchdb/target/site/clover/org/apache/camel/component/couchdb/CouchDbEndpointTest
+CouchDbEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchdb/target/site/clover/org/apache/camel/component/couchdb/CouchDbEndpointTest_assertSingleton_8
+org.apache.camel.component.couchdb.CouchDbComponent		0.25
+org.apache.camel.component.couchdb.CouchDbEndpoint		0.17582418
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchdb/target/site/clover/org/apache/camel/component/couchdb/CouchDbEndpointTest_testCreateCouchExchangeHeadersAreSet_d
+org.apache.camel.component.couchdb.CouchDbEndpoint		0.26373628
+org.apache.camel.component.couchdb.CouchDbComponent		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchdb/target/site/clover/org/apache/camel/component/couchdb/CouchDbEndpointTest_testDbRequired_3
+org.apache.camel.component.couchdb.CouchDbComponent		0.25
+org.apache.camel.component.couchdb.CouchDbEndpoint		0.12087912
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchdb/target/site/clover/org/apache/camel/component/couchdb/CouchDbEndpointTest_testDefaultPortIsSet_e
+org.apache.camel.component.couchdb.CouchDbComponent		0.25
+org.apache.camel.component.couchdb.CouchDbEndpoint		0.17582418
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchdb/target/site/clover/org/apache/camel/component/couchdb/CouchDbEndpointTest_testHostnameRequired_5
+org.apache.camel.component.couchdb.CouchDbComponent		0.25
+org.apache.camel.component.couchdb.CouchDbEndpoint		0.16483517
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchdb/target/site/clover/org/apache/camel/component/couchdb/CouchDbEndpointTest_testSchemeRequired_7
+org.apache.camel.component.couchdb.CouchDbComponent		0.25
+org.apache.camel.component.couchdb.CouchDbEndpoint		0.12087912
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchdb/target/site/clover/org/apache/camel/component/couchdb/CouchDbProducerTest
+CouchDbProducerTest		0.9782609
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchdb/target/site/clover/org/apache/camel/component/couchdb/CouchDbProducerTest_testBodyMandatory_4
+org.apache.camel.component.couchdb.CouchDbProducer		0.056338027
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchdb/target/site/clover/org/apache/camel/component/couchdb/CouchDbProducerTest_testDeleteResponse_b
+org.apache.camel.component.couchdb.CouchDbProducer		0.3943662
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchdb/target/site/clover/org/apache/camel/component/couchdb/CouchDbProducerTest_testDocumentHeadersAreSet_9
+org.apache.camel.component.couchdb.CouchDbProducer		0.3943662
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchdb/target/site/clover/org/apache/camel/component/couchdb/CouchDbProducerTest_testNullSaveResponseThrowsError_6
+org.apache.camel.component.couchdb.CouchDbProducer		0.028169014
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchdb/target/site/clover/org/apache/camel/component/couchdb/CouchDbProducerTest_testStringBodyIsConvertedToJsonTree_2
+org.apache.camel.component.couchdb.CouchDbProducer		0.3802817
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchdb/target/site/clover/org/apache/camel/component/couchdb/test-CouchDbChangesetTrackerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchdb/target/site/clover/org/apache/camel/component/couchdb/test-CouchDbComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchdb/target/site/clover/org/apache/camel/component/couchdb/test-CouchDbConsumerDeletesIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchdb/target/site/clover/org/apache/camel/component/couchdb/test-CouchDbConsumerIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchdb/target/site/clover/org/apache/camel/component/couchdb/test-CouchDbConsumerUpdatesIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchdb/target/site/clover/org/apache/camel/component/couchdb/test-CouchDbEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchdb/target/site/clover/org/apache/camel/component/couchdb/test-CouchDbProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

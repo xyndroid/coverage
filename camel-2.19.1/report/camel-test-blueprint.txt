@@ -1,0 +1,803 @@
+./components/camel-test-blueprint/target/site/clover/org/apache/camel
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/AttributeNewLineTest
+AttributeNewLineTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/AttributeNewLineTest_testAttributeNewLineTest_7
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/BeanInjectTest
+BeanInjectTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/BeanInjectTest_testBeanInject_9
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/BlueprintAddServiceTest
+BlueprintAddServiceTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/BlueprintAddServiceTest_testAddService_s
+org.apache.camel.test.blueprint.CamelBlueprintTestSupport		0.008368201
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/BlueprintAugmentedPropertiesFallbackTest
+BlueprintAugmentedPropertiesFallbackTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/BlueprintAugmentedPropertiesFallbackTest_testFallbackToUnaugmentedProperty_l
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/BlueprintAugmentedPropertiesNoFallbackTest
+BlueprintAugmentedPropertiesNoFallbackTest		0.9
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/BlueprintAugmentedPropertiesNoFallbackTest_testFallbackToUnaugmentedProperty_29
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/BlueprintDefaultValuesTest
+BlueprintDefaultValuesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/BlueprintDefaultValuesTest_testPropertyResolutionFailure_2l
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/BlueprintMultipleServiceTest
+BlueprintMultipleServiceTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/BlueprintMultipleServiceTest_testMultipleService_1o
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/BlueprintOptionalPropertiesDslTest
+BlueprintOptionalPropertiesDslTest		0.8888889
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/BlueprintOptionalPropertiesDslTest_testPlaceholderDslTest_t
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/BlueprintPackageScan2Test
+BlueprintPackageScan2Test		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/BlueprintPackageScan2Test_testRoute_1b
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/BlueprintPackageScanBuilderTest
+BlueprintPackageScanBuilderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/BlueprintPackageScanBuilderTest_testRoute_1z
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/BlueprintPackageScanTest
+BlueprintPackageScanTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/BlueprintPackageScanTest_testRoute_1d
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/BlueprintProduceConsumeImplicitPropertyTest
+BlueprintProduceConsumeImplicitPropertyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/BlueprintProduceConsumeImplicitPropertyTest_testImplicit_2z
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/BlueprintPropertiesLocationElementImplicitTest
+BlueprintPropertiesLocationElementImplicitTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/BlueprintPropertiesLocationElementImplicitTest_testPropertiesLocationElement_1i
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/BlueprintPropertiesLocationElementOptionalTest
+BlueprintPropertiesLocationElementOptionalTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/BlueprintPropertiesLocationElementOptionalTest_testPropertiesLocationElement_1u
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/BlueprintPropertiesLocationElementTest
+BlueprintPropertiesLocationElementTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/BlueprintPropertiesLocationElementTest_testPropertiesLocationElement_2n
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/BlueprintPropertiesTest
+BlueprintPropertiesTest		0.88
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/BlueprintPropertiesTest_testProperties_0
+org.apache.camel.test.blueprint.CamelBlueprintHelper		0.20634921
+org.apache.camel.test.blueprint.CamelBlueprintTestSupport		0.016736401
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/BlueprintStreamCachingStrategyTest
+BlueprintStreamCachingStrategyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/BlueprintStreamCachingStrategyTest_testStreamCaching_28
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/CamelBlueprintTestSupport
+CamelBlueprintTestSupport		0.8786611
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/CamelEndpointInjectTest
+CamelEndpointInjectTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/CamelEndpointInjectTest_testEndpointInjection_n
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminEndpointTest
+ConfigAdminEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminEndpointTest_testConfigAdmin_3e
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminEndpointWithSynchronousBlueprintCreationTest
+ConfigAdminEndpointWithSynchronousBlueprintCreationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminEndpointWithSynchronousBlueprintCreationTest_testConfigAdmin_m
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminExtFileTest
+ConfigAdminExtFileTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminExtFileTest_testConfigAdmin_c
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminInitialConfigurationUsingPropertiesTest
+ConfigAdminInitialConfigurationUsingPropertiesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminInitialConfigurationUsingPropertiesTest_testConfigAdmin_1x
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminLoadConfigurationFileAndOverrideTest
+ConfigAdminLoadConfigurationFileAndOverrideTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminLoadConfigurationFileAndOverrideTest_testConfigAdmin_f
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminLoadConfigurationFileNotFoundTest
+ConfigAdminLoadConfigurationFileNotFoundTest		0.7
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminLoadConfigurationFileNotFoundTest_test_2j
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminLoadConfigurationFileNotFoundTest_test_3i
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminLoadConfigurationFileTest
+ConfigAdminLoadConfigurationFileTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminLoadConfigurationFileTest_testConfigAdmin_b
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminLoadMultiConfigurationFileAndOverrideAltTest
+ConfigAdminLoadMultiConfigurationFileAndOverrideAltTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminLoadMultiConfigurationFileAndOverrideAltTest_testConfigAdmin_4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminLoadMultiConfigurationFileAndOverrideTest
+ConfigAdminLoadMultiConfigurationFileAndOverrideTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminLoadMultiConfigurationFileAndOverrideTest_testConfigAdminWithMultiplePids_1l
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminNoDefaultValuesBlueprintCreationTest
+ConfigAdminNoDefaultValuesBlueprintCreationTest		0.875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminNoDefaultValuesBlueprintCreationTest_test_2w
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminNoReloadDefaultPropertiesTest
+ConfigAdminNoReloadDefaultPropertiesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminNoReloadDefaultPropertiesTest_testConfigAdmin_p
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminNoReloadLoadConfigurationFileAndOverrideTest
+ConfigAdminNoReloadLoadConfigurationFileAndOverrideTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminNoReloadLoadConfigurationFileAndOverrideTest_testConfigAdmin_2a
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminNoReloadLoadConfigurationFileDefaultPropertiesTest
+ConfigAdminNoReloadLoadConfigurationFileDefaultPropertiesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminNoReloadLoadConfigurationFileDefaultPropertiesTest_testConfigAdmin_1a
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminNoReloadLoadConfigurationFileTest
+ConfigAdminNoReloadLoadConfigurationFileTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminNoReloadLoadConfigurationFileTest_testConfigAdmin_13
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminNoReloadOverridePropertiesOutsideCamelContextTest
+ConfigAdminNoReloadOverridePropertiesOutsideCamelContextTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminNoReloadOverridePropertiesOutsideCamelContextTest_testConfigAdmin_2v
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminOverridePropertiesOutsideCamelContextTest
+ConfigAdminOverridePropertiesOutsideCamelContextTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminOverridePropertiesOutsideCamelContextTest_testConfigAdmin_2t
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminOverridePropertiesTest
+ConfigAdminOverridePropertiesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminOverridePropertiesTest_testConfigAdmin_u
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminTest
+ConfigAdminTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ConfigAdminTest_testConfigAdmin_1n
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ContextCreationTimeoutTest
+ContextCreationTimeoutTest		0.96153843
+ContextCreationTimeoutTest.DefaultTestSupport		1.0
+ContextCreationTimeoutTest.OverridingTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ContextCreationTimeoutTest_testDefault_2y
+org.apache.camel.test.blueprint.CamelBlueprintTestSupport		0.020920502
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ContextCreationTimeoutTest_testDefault_v
+org.apache.camel.test.blueprint.CamelBlueprintTestSupport		0.020920502
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ContextCreationTimeoutTest_testOverrideNormal_18
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ContextCreationTimeoutTest_testOverrideNormal_39
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ContextCreationTimeoutTest_testOverrideSystemPropNegative_1g
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ContextCreationTimeoutTest_testOverrideSystemPropNegative_3a
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ContextCreationTimeoutTest_testOverrideSystemPropNormal_3h
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ContextCreationTimeoutTest_testOverrideSystemPropNormal_r
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ContextCreationTimeoutTest_testSystemPropertyMaxVal_2d
+org.apache.camel.test.blueprint.CamelBlueprintTestSupport		0.037656903
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ContextCreationTimeoutTest_testSystemPropertyMaxVal_5
+org.apache.camel.test.blueprint.CamelBlueprintTestSupport		0.037656903
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ContextCreationTimeoutTest_testSystemPropertyNegative_2c
+org.apache.camel.test.blueprint.CamelBlueprintTestSupport		0.037656903
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ContextCreationTimeoutTest_testSystemPropertyNegative_6
+org.apache.camel.test.blueprint.CamelBlueprintTestSupport		0.037656903
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ContextCreationTimeoutTest_testSystemPropertyNormal_1v
+org.apache.camel.test.blueprint.CamelBlueprintTestSupport		0.037656903
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ContextCreationTimeoutTest_testSystemPropertyNormal_2g
+org.apache.camel.test.blueprint.CamelBlueprintTestSupport		0.037656903
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ContextCreationTimeoutTest_testSystemPropertyWrongFormat_10
+org.apache.camel.test.blueprint.CamelBlueprintTestSupport		0.029288704
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ContextCreationTimeoutTest_testSystemPropertyWrongFormat_2x
+org.apache.camel.test.blueprint.CamelBlueprintTestSupport		0.029288704
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ContextCreationTimeoutTest_testSystemPropertyZero_37
+org.apache.camel.test.blueprint.CamelBlueprintTestSupport		0.037656903
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ContextCreationTimeoutTest_testSystemPropertyZero_o
+org.apache.camel.test.blueprint.CamelBlueprintTestSupport		0.037656903
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/CustomIdIssuesTest
+CustomIdIssuesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/CustomIdIssuesTest_testCustomId_32
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/DeadLetterChannelLogExhaustedMessageHistoryTest
+DeadLetterChannelLogExhaustedMessageHistoryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/DeadLetterChannelLogExhaustedMessageHistoryTest_testLogExhaustedMessageHistory_3c
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/DeadLetterChannelOnPrepareTestTest
+DeadLetterChannelOnPrepareTestTest		1.0
+DeadLetterChannelOnPrepareTestTest.MyPrepareProcessor		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/DeadLetterChannelOnPrepareTestTest_testDeadLetterChannelOnPrepare_38
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/DebugBlueprintTest
+DebugBlueprintTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/DebugBlueprintTest_testRoute_34
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/DefaultErrorHandlerLogExhaustedMessageHistoryTest
+DefaultErrorHandlerLogExhaustedMessageHistoryTest		0.8333333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/DefaultErrorHandlerLogExhaustedMessageHistoryTest_testLogExhaustedMessageHistory_2m
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/DefaultErrorHandlerOnPrepareTestTest
+DefaultErrorHandlerOnPrepareTestTest		1.0
+DefaultErrorHandlerOnPrepareTestTest.MyPrepareProcessor		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/DefaultErrorHandlerOnPrepareTestTest_testDefaultErrorHandlerOnPrepare_3b
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/EndpointPropertyTest
+EndpointPropertyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/EndpointPropertyTest_testEndpointProperty_2b
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/EventNotifierTest
+EventNotifierTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/EventNotifierTest_testCustomEvent_q
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/FilterTest
+FilterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/FilterTest_testSendMatchingMessage_33
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/FilterTest_testSendNotMatchingMessage_27
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/IgnoreDatatypesTest
+IgnoreDatatypesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/IgnoreDatatypesTest_testConfigAdmin_a
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/InflightRepositoryRefTest
+InflightRepositoryRefTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/InflightRepositoryRefTest_testEndpointConfiguration_1q
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/IsMockEndpointJUnit4Test
+IsMockEndpointJUnit4Test		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/IsMockEndpointJUnit4Test_testMockAllEndpoints_11
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/IsMockEndpointJUnit4Test_testMockBar_24
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/IsMockEndpointJUnit4Test_testMockBaz_8
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/LoadPropertiesFromBeansTest
+LoadPropertiesFromBeansTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/LoadPropertiesFromBeansTest_testConfigAdmin_i
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/MainNoPidTest
+MainNoPidTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/MainNoPidTest_testMyMain_14
+org.apache.camel.test.blueprint.CamelBlueprintHelper		0.52063495
+org.apache.camel.test.blueprint.Main		0.42696628
+org.apache.camel.test.blueprint.CamelBlueprintHelper.TestBundleActivator		0.1923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/MainNoPidTest_testMyMain_1f
+org.apache.camel.test.blueprint.CamelBlueprintHelper		0.52063495
+org.apache.camel.test.blueprint.Main		0.42696628
+org.apache.camel.test.blueprint.CamelBlueprintHelper.TestBundleActivator		0.1923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/MainNoPidTest_testMyMain_1k
+org.apache.camel.test.blueprint.Main		0.505618
+org.apache.camel.test.blueprint.CamelBlueprintHelper		0.45079365
+org.apache.camel.test.blueprint.CamelBlueprintHelper.TestBundleActivator		0.1923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/MainNoPidTest_testMyMain_2o
+org.apache.camel.test.blueprint.CamelBlueprintHelper		0.52063495
+org.apache.camel.test.blueprint.Main		0.42696628
+org.apache.camel.test.blueprint.CamelBlueprintHelper.TestBundleActivator		0.1923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/MainNoReloadTest
+MainNoReloadTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/MainNoReloadTest_testMyMain_2
+org.apache.camel.test.blueprint.CamelBlueprintHelper.TestBundleActivator		0.8076923
+org.apache.camel.test.blueprint.CamelBlueprintHelper		0.60952383
+org.apache.camel.test.blueprint.Main		0.47191012
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/MainNoReloadTest_testMyMain_2q
+org.apache.camel.test.blueprint.CamelBlueprintHelper.TestBundleActivator		0.8076923
+org.apache.camel.test.blueprint.CamelBlueprintHelper		0.60952383
+org.apache.camel.test.blueprint.Main		0.47191012
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/MainNoReloadTest_testMyMain_e
+org.apache.camel.test.blueprint.CamelBlueprintHelper.TestBundleActivator		0.8076923
+org.apache.camel.test.blueprint.Main		0.5505618
+org.apache.camel.test.blueprint.CamelBlueprintHelper		0.53333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/MainNoReloadTest_testMyMain_j
+org.apache.camel.test.blueprint.CamelBlueprintHelper.TestBundleActivator		0.8076923
+org.apache.camel.test.blueprint.CamelBlueprintHelper		0.60952383
+org.apache.camel.test.blueprint.Main		0.47191012
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/MainTest
+MainTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/MainTest_testMainWithoutIncludingTestBundle_19
+org.apache.camel.test.blueprint.CamelBlueprintHelper.TestBundleActivator		0.7692308
+org.apache.camel.test.blueprint.CamelBlueprintHelper		0.46031746
+org.apache.camel.test.blueprint.Main		0.40449437
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/MainTest_testMainWithoutIncludingTestBundle_1j
+org.apache.camel.test.blueprint.CamelBlueprintHelper.TestBundleActivator		0.8076923
+org.apache.camel.test.blueprint.Main		0.5505618
+org.apache.camel.test.blueprint.CamelBlueprintHelper		0.43174604
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/MainTest_testMainWithoutIncludingTestBundle_2u
+org.apache.camel.test.blueprint.CamelBlueprintHelper.TestBundleActivator		0.7692308
+org.apache.camel.test.blueprint.CamelBlueprintHelper		0.46031746
+org.apache.camel.test.blueprint.Main		0.40449437
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/MainTest_testMainWithoutIncludingTestBundle_d
+org.apache.camel.test.blueprint.CamelBlueprintHelper.TestBundleActivator		0.7692308
+org.apache.camel.test.blueprint.CamelBlueprintHelper		0.46031746
+org.apache.camel.test.blueprint.Main		0.40449437
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/MainTest_testMyMain_26
+org.apache.camel.test.blueprint.CamelBlueprintHelper.TestBundleActivator		0.8076923
+org.apache.camel.test.blueprint.Main		0.5505618
+org.apache.camel.test.blueprint.CamelBlueprintHelper		0.53333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/MainTest_testMyMain_2e
+org.apache.camel.test.blueprint.CamelBlueprintHelper.TestBundleActivator		0.8076923
+org.apache.camel.test.blueprint.CamelBlueprintHelper		0.60952383
+org.apache.camel.test.blueprint.Main		0.47191012
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/MainTest_testMyMain_2r
+org.apache.camel.test.blueprint.CamelBlueprintHelper.TestBundleActivator		0.8076923
+org.apache.camel.test.blueprint.CamelBlueprintHelper		0.60952383
+org.apache.camel.test.blueprint.Main		0.47191012
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/MainTest_testMyMain_w
+org.apache.camel.test.blueprint.CamelBlueprintHelper.TestBundleActivator		0.8076923
+org.apache.camel.test.blueprint.CamelBlueprintHelper		0.60952383
+org.apache.camel.test.blueprint.Main		0.47191012
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/MockEndpointsAndSkipTest
+MockEndpointsAndSkipTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/MockEndpointsAndSkipTest_testHelloWorld_3g
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/MyMainAppTest
+MyMainAppTest		0.78571427
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/MyMainAppTest_testMyMain_1
+org.apache.camel.test.blueprint.CamelBlueprintHelper		0.5746032
+org.apache.camel.test.blueprint.Main		0.42696628
+org.apache.camel.test.blueprint.CamelBlueprintHelper.TestBundleActivator		0.1923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/MyMainAppTest_testMyMain_23
+org.apache.camel.test.blueprint.CamelBlueprintHelper		0.5746032
+org.apache.camel.test.blueprint.Main		0.42696628
+org.apache.camel.test.blueprint.CamelBlueprintHelper.TestBundleActivator		0.1923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/MyMainAppTest_testMyMain_2p
+org.apache.camel.test.blueprint.Main		0.5280899
+org.apache.camel.test.blueprint.CamelBlueprintHelper		0.50476193
+org.apache.camel.test.blueprint.CamelBlueprintHelper.TestBundleActivator		0.1923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/MyMainAppTest_testMyMain_x
+org.apache.camel.test.blueprint.CamelBlueprintHelper		0.5746032
+org.apache.camel.test.blueprint.Main		0.42696628
+org.apache.camel.test.blueprint.CamelBlueprintHelper.TestBundleActivator		0.1923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/OnExceptionOccurredProcessorOnExceptionTest
+OnExceptionOccurredProcessorOnExceptionTest		1.0
+OnExceptionOccurredProcessorOnExceptionTest.MyProcessor		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/OnExceptionOccurredProcessorOnExceptionTest_testOnExceptionOccurred_1y
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/OnExceptionOccurredProcessorTest
+OnExceptionOccurredProcessorTest		1.0
+OnExceptionOccurredProcessorTest.MyProcessor		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/OnExceptionOccurredProcessorTest_testOnExceptionOccurred_1e
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/OnExceptionRouteIdTest
+OnExceptionRouteIdTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/OnExceptionRouteIdTest_testOnExceptionRouteId_z
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/PropertiesComponentFunctionTest
+PropertiesComponentFunctionTest		1.0
+PropertiesComponentFunctionTest.MyFunction		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/PropertiesComponentFunctionTest_testFunction_1w
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/PropertyInjectTest
+PropertyInjectTest		0.8
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/PropertyInjectTest_testPropertyInject_1h
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ShutdownStrategyTest
+ShutdownStrategyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ShutdownStrategyTest_testShutdown_25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/SimpleMockTest
+SimpleMockTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/SimpleMockTest_testHelloWorld_20
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/SimpleTransformAnnotationsBlueprintTest
+SimpleTransformAnnotationsBlueprintTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/SimpleTransformAnnotationsBlueprintTest_testPayloadIsTransformedAgain_17
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/SimpleTransformAnnotationsBlueprintTest_testPayloadIsTransformed_2k
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/SimpleTransformBlueprintTest
+SimpleTransformBlueprintTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/SimpleTransformBlueprintTest_testPayloadIsTransformedAgain_2s
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/SimpleTransformBlueprintTest_testPayloadIsTransformed_3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ThreadNamePatternTest
+ThreadNamePatternTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/ThreadNamePatternTest_testThreadNamePattern_3f
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/TypeConverterRegistryStatisticsEnabledTest
+TypeConverterRegistryStatisticsEnabledTest		0.96
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/TypeConverterRegistryStatisticsEnabledTest_testTypeConverterRegistry_2i
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/cloud/ServiceCallConfigurationTest
+ServiceCallConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/cloud/ServiceCallConfigurationTest_testServiceDiscoveryConfiguration_3j
+testServiceDiscoveryConfiguration
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/cloud/ServiceCallFilterTest
+ServiceCallFilterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/cloud/ServiceCallFilterTest_testServiceFilter_1r
+testServiceFilter
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/cloud/test-ServiceCallConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/cloud/test-ServiceCallFilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/component/rest/FromRestConfigurationTest
+FromRestConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/component/rest/FromRestConfigurationTest_testFromRestModel_3k
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/component/rest/FromRestGetEmbeddedRouteTest
+FromRestGetEmbeddedRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/component/rest/FromRestGetEmbeddedRouteTest_testFromRestModel_1s
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/component/rest/FromRestGetInterceptTest
+FromRestGetInterceptTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/component/rest/FromRestGetInterceptTest_testFromRestModel_1p
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/component/rest/FromRestGetOnExceptionTest
+FromRestGetOnExceptionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/component/rest/FromRestGetOnExceptionTest_testFromRestModel_1c
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/component/rest/FromRestGetRouteOnExceptionTest
+FromRestGetRouteOnExceptionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/component/rest/FromRestGetRouteOnExceptionTest_testFromRestModel_22
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/component/rest/FromRestGetTest
+FromRestGetTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/component/rest/FromRestGetTest_testFromRestModel_2h
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/component/rest/FromRestIdAndDescriptionTest
+FromRestIdAndDescriptionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/component/rest/FromRestIdAndDescriptionTest_testFromRestModel_k
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/component/rest/FromRestUriPrefixTest
+FromRestUriPrefixTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/component/rest/FromRestUriPrefixTest_testFromRestModel_1m
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/component/rest/RestRefTest
+RestRefTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/component/rest/RestRefTest_testRestRefTest_12
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/component/rest/test-FromRestConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/component/rest/test-FromRestGetEmbeddedRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/component/rest/test-FromRestGetInterceptTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/component/rest/test-FromRestGetOnExceptionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/component/rest/test-FromRestGetRouteOnExceptionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/component/rest/test-FromRestGetTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/component/rest/test-FromRestIdAndDescriptionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/component/rest/test-FromRestUriPrefixTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/component/rest/test-RestRefTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/converter/CustomConverterTest
+CustomConverterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/converter/CustomConverterTest_testCustomConverter_36
+testCustomConverter
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/converter/test-CustomConverterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/converter2/MyConvertersTest
+MyConvertersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/converter2/MyConvertersTest_testConvertersShouldBeAddedAutomaticByBlueprint_y
+testConvertersShouldBeAddedAutomaticByBlueprint
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/converter2/test-MyConvertersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/management/ManagedEndpointInjectRefEndpointTest
+ManagedEndpointInjectRefEndpointTest		0.90909094
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/management/ManagedEndpointInjectRefEndpointTest_testRef_31
+testRef
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/management/ManagedNamePatternFixedIncludeHostNameTest
+ManagedNamePatternFixedIncludeHostNameTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/management/ManagedNamePatternFixedIncludeHostNameTest_testManagedNamePattern_2f
+testManagedNamePattern
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/management/ManagedNamePatternFixedTest
+ManagedNamePatternFixedTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/management/ManagedNamePatternFixedTest_testManagedNamePattern_16
+testManagedNamePattern
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/management/ManagedRefEndpointTest
+ManagedRefEndpointTest		0.95
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/management/ManagedRefEndpointTest_testRef_21
+testRef
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/management/test-ManagedEndpointInjectRefEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/management/test-ManagedNamePatternFixedIncludeHostNameTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/management/test-ManagedNamePatternFixedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/management/test-ManagedRefEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-AttributeNewLineTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-BeanInjectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-BlueprintAddServiceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-BlueprintAugmentedPropertiesFallbackTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-BlueprintAugmentedPropertiesNoFallbackTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-BlueprintDefaultValuesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-BlueprintMultipleServiceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-BlueprintOptionalPropertiesDslTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-BlueprintPackageScan2Test
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-BlueprintPackageScanBuilderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-BlueprintPackageScanTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-BlueprintProduceConsumeImplicitPropertyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-BlueprintPropertiesLocationElementImplicitTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-BlueprintPropertiesLocationElementOptionalTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-BlueprintPropertiesLocationElementTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-BlueprintPropertiesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-BlueprintStreamCachingStrategyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-CamelEndpointInjectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-ConfigAdminEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-ConfigAdminEndpointWithSynchronousBlueprintCreationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-ConfigAdminExtFileTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-ConfigAdminInitialConfigurationUsingPropertiesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-ConfigAdminLoadConfigurationFileAndOverrideTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-ConfigAdminLoadConfigurationFileNotFoundTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-ConfigAdminLoadConfigurationFileTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-ConfigAdminLoadMultiConfigurationFileAndOverrideAltTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-ConfigAdminLoadMultiConfigurationFileAndOverrideTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-ConfigAdminNoDefaultValuesBlueprintCreationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-ConfigAdminNoReloadDefaultPropertiesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-ConfigAdminNoReloadLoadConfigurationFileAndOverrideTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-ConfigAdminNoReloadLoadConfigurationFileDefaultPropertiesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-ConfigAdminNoReloadLoadConfigurationFileTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-ConfigAdminNoReloadOverridePropertiesOutsideCamelContextTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-ConfigAdminOverridePropertiesOutsideCamelContextTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-ConfigAdminOverridePropertiesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-ConfigAdminTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-ContextCreationTimeoutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-ContextCreationTimeoutTest_DefaultTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-ContextCreationTimeoutTest_OverridingTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-CustomIdIssuesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-DeadLetterChannelLogExhaustedMessageHistoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-DeadLetterChannelOnPrepareTestTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-DeadLetterChannelOnPrepareTestTest_MyPrepareProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-DebugBlueprintTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-DefaultErrorHandlerLogExhaustedMessageHistoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-DefaultErrorHandlerOnPrepareTestTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-DefaultErrorHandlerOnPrepareTestTest_MyPrepareProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-EndpointPropertyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-EventNotifierTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-FilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-IgnoreDatatypesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-InflightRepositoryRefTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-IsMockEndpointJUnit4Test
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-LoadPropertiesFromBeansTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-MainNoPidTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-MainNoReloadTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-MainTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-MockEndpointsAndSkipTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-MyMainAppTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-OnExceptionOccurredProcessorOnExceptionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-OnExceptionOccurredProcessorOnExceptionTest_MyProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-OnExceptionOccurredProcessorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-OnExceptionOccurredProcessorTest_MyProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-OnExceptionRouteIdTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-PropertiesComponentFunctionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-PropertiesComponentFunctionTest_MyFunction
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-PropertyInjectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-ShutdownStrategyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-SimpleMockTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-SimpleTransformAnnotationsBlueprintTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-SimpleTransformBlueprintTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-ThreadNamePatternTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/test-TypeConverterRegistryStatisticsEnabledTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/xpath/XPathFilterRouteContextWithNamespaceTest
+XPathFilterRouteContextWithNamespaceTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/xpath/XPathFilterRouteContextWithNamespaceTest_testSendMatchingMessage_30
+testSendMatchingMessage
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/xpath/XPathFilterRouteContextWithNamespaceTest_testSendNotMatchingMessage_3d
+testSendNotMatchingMessage
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/xpath/XPathFilterWithNamespaceTest
+XPathFilterWithNamespaceTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/xpath/XPathFilterWithNamespaceTest_testSendMatchingMessage_35
+testSendMatchingMessage
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/xpath/XPathFilterWithNamespaceTest_testSendNotMatchingMessage_1t
+testSendNotMatchingMessage
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/xpath/XPathHeaderNameTest
+XPathHeaderNameTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/xpath/XPathHeaderNameTest_testChoiceWithHeaderNamePremium_15
+testChoiceWithHeaderNamePremium
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/xpath/XPathHeaderNameTest_testChoiceWithHeaderNameStandard_h
+testChoiceWithHeaderNameStandard
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/xpath/XPathHeaderNameTest_testChoiceWithHeaderNameUnknown_g
+testChoiceWithHeaderNameUnknown
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/xpath/test-XPathFilterRouteContextWithNamespaceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/xpath/test-XPathFilterWithNamespaceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-test-blueprint/target/site/clover/org/apache/camel/test/blueprint/xpath/test-XPathHeaderNameTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

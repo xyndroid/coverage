@@ -1,0 +1,149 @@
+./components/camel-testng/target/site/clover/org/apache/camel
+./components/camel-testng/target/site/clover/org/apache/camel/testng/AbstractCamelTestNGSpringContextTests
+AbstractCamelTestNGSpringContextTests		1.0
+AbstractCamelTestNGSpringContextTests.TestNGCamelSpringTestContextLoader		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/AbstractCamelTestNGSpringContextTestsDisableJmxInheritedOverrideTest
+AbstractCamelTestNGSpringContextTestsDisableJmxInheritedOverrideTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/AbstractCamelTestNGSpringContextTestsDisableJmxInheritedTest
+AbstractCamelTestNGSpringContextTestsDisableJmxInheritedTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/AbstractCamelTestNGSpringContextTestsDisableJmxTest
+AbstractCamelTestNGSpringContextTestsDisableJmxTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/AbstractCamelTestNGSpringContextTestsExcludeRoutesTest
+AbstractCamelTestNGSpringContextTestsExcludeRoutesTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/AbstractCamelTestNGSpringContextTestsJavaConfigTest
+AbstractCamelTestNGSpringContextTestsJavaConfigTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/AbstractCamelTestNGSpringContextTestsMockEndpointsAndSkipTest
+AbstractCamelTestNGSpringContextTestsMockEndpointsAndSkipTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/AbstractCamelTestNGSpringContextTestsMockEndpointsTest
+AbstractCamelTestNGSpringContextTestsMockEndpointsTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/AbstractCamelTestNGSpringContextTestsPlainTest
+AbstractCamelTestNGSpringContextTestsPlainTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/AbstractCamelTestNGSpringContextTestsProvidesBreakpointInherritedTest
+AbstractCamelTestNGSpringContextTestsProvidesBreakpointInherritedTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/AbstractCamelTestNGSpringContextTestsProvidesBreakpointTest
+AbstractCamelTestNGSpringContextTestsProvidesBreakpointTest		0.0
+AbstractCamelTestNGSpringContextTestsProvidesBreakpointTest.TestBreakpoint		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/AbstractCamelTestNGSpringContextTestsShutdownTimeoutInheritedOverrideTest
+AbstractCamelTestNGSpringContextTestsShutdownTimeoutInheritedOverrideTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/AbstractCamelTestNGSpringContextTestsShutdownTimeoutInheritedTest
+AbstractCamelTestNGSpringContextTestsShutdownTimeoutInheritedTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/AbstractCamelTestNGSpringContextTestsShutdownTimeoutTest
+AbstractCamelTestNGSpringContextTestsShutdownTimeoutTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/AbstractCamelTestNGSpringContextTestsUseAdviceWithTest
+AbstractCamelTestNGSpringContextTestsUseAdviceWithTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/CamelSpringTestSupport
+CamelSpringTestSupport		0.27419356
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/CamelTestSupport
+CamelTestSupport		0.13074204
+CamelTestSupport.DebugBreakpoint		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/ExchangeTestSupport
+ExchangeTestSupport		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/LanguageTestSupport
+LanguageTestSupport		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/SpringTestConfiguration
+SpringTestConfiguration		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/TestRouteBuilder
+TestRouteBuilder		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/TestSupport
+TestSupport		0.009803922
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/patterns/DebugSpringCamelContextTest
+DebugSpringCamelContextTest		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/patterns/DebugSpringTest
+DebugSpringTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/patterns/DebugTest
+DebugTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/patterns/DebugTestNGTest
+DebugTestNGTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/patterns/FilterCreateCamelContextPerClassTest
+FilterCreateCamelContextPerClassTest		0.13333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/patterns/FilterTest
+FilterTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/patterns/FilterTestNGTest
+FilterTestNGTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/patterns/IsUseAdviceWithTest
+IsUseAdviceWithTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/patterns/RouteBuilderConfigureExceptionTest
+RouteBuilderConfigureExceptionTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/patterns/test-DebugSpringCamelContextTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/patterns/test-DebugSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/patterns/test-DebugTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/patterns/test-DebugTestNGTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/patterns/test-FilterCreateCamelContextPerClassTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/patterns/test-FilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/patterns/test-FilterTestNGTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/patterns/test-IsUseAdviceWithTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/patterns/test-RouteBuilderConfigureExceptionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/test-AbstractCamelTestNGSpringContextTestsDisableJmxInheritedOverrideTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/test-AbstractCamelTestNGSpringContextTestsDisableJmxInheritedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/test-AbstractCamelTestNGSpringContextTestsDisableJmxTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/test-AbstractCamelTestNGSpringContextTestsExcludeRoutesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/test-AbstractCamelTestNGSpringContextTestsJavaConfigTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/test-AbstractCamelTestNGSpringContextTestsMockEndpointsAndSkipTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/test-AbstractCamelTestNGSpringContextTestsMockEndpointsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/test-AbstractCamelTestNGSpringContextTestsPlainTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/test-AbstractCamelTestNGSpringContextTestsProvidesBreakpointInherritedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/test-AbstractCamelTestNGSpringContextTestsProvidesBreakpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/test-AbstractCamelTestNGSpringContextTestsProvidesBreakpointTest_TestBreakpoint
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/test-AbstractCamelTestNGSpringContextTestsShutdownTimeoutInheritedOverrideTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/test-AbstractCamelTestNGSpringContextTestsShutdownTimeoutInheritedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/test-AbstractCamelTestNGSpringContextTestsShutdownTimeoutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/test-AbstractCamelTestNGSpringContextTestsUseAdviceWithTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/test-SpringTestConfiguration
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-testng/target/site/clover/org/apache/camel/testng/test-TestRouteBuilder
+-- -- -- -- -- -- -- -- -- -- -- -- --

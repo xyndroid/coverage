@@ -1,0 +1,74 @@
+./components/camel-pdf/target/site/clover/org/apache/camel
+./components/camel-pdf/target/site/clover/org/apache/camel/component/pdf/PdfAppendTest
+PdfAppendTest		0.97402596
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pdf/target/site/clover/org/apache/camel/component/pdf/PdfAppendTest_testAppendEncrypted_5
+org.apache.camel.component.pdf.text.DefaultWriteStrategy		0.7647059
+org.apache.camel.component.pdf.text.PatternSplitStrategy		0.5
+org.apache.camel.component.pdf.PdfProducer		0.36666667
+org.apache.camel.component.pdf.text.PdfUtils		0.2857143
+org.apache.camel.component.pdf.PdfConfiguration		0.26415095
+org.apache.camel.component.pdf.text.LineTerminationWriterAbstractFactory		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pdf/target/site/clover/org/apache/camel/component/pdf/PdfAppendTest_testAppend_2
+org.apache.camel.component.pdf.text.DefaultWriteStrategy		0.7647059
+org.apache.camel.component.pdf.text.PatternSplitStrategy		0.5
+org.apache.camel.component.pdf.PdfProducer		0.31111112
+org.apache.camel.component.pdf.text.PdfUtils		0.2857143
+org.apache.camel.component.pdf.PdfConfiguration		0.26415095
+org.apache.camel.component.pdf.text.LineTerminationWriterAbstractFactory		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pdf/target/site/clover/org/apache/camel/component/pdf/PdfCreationTest
+PdfCreationTest		0.9591837
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pdf/target/site/clover/org/apache/camel/component/pdf/PdfCreationTest_testPdfCreationWithEncryption_4
+org.apache.camel.component.pdf.text.DefaultWriteStrategy		0.7647059
+org.apache.camel.component.pdf.text.PatternSplitStrategy		0.5
+org.apache.camel.component.pdf.text.PdfUtils		0.2857143
+org.apache.camel.component.pdf.PdfProducer		0.2777778
+org.apache.camel.component.pdf.PdfConfiguration		0.26415095
+org.apache.camel.component.pdf.text.LineTerminationWriterAbstractFactory		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pdf/target/site/clover/org/apache/camel/component/pdf/PdfCreationTest_testPdfCreation_1
+org.apache.camel.component.pdf.text.DefaultWriteStrategy		0.7647059
+org.apache.camel.component.pdf.text.PatternSplitStrategy		0.5
+org.apache.camel.component.pdf.text.PdfUtils		0.2857143
+org.apache.camel.component.pdf.PdfProducer		0.26666668
+org.apache.camel.component.pdf.PdfConfiguration		0.26415095
+org.apache.camel.component.pdf.text.LineTerminationWriterAbstractFactory		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pdf/target/site/clover/org/apache/camel/component/pdf/PdfTextExtractionTest
+PdfTextExtractionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pdf/target/site/clover/org/apache/camel/component/pdf/PdfTextExtractionTest_testExtractTextFromEncrypted_0
+org.apache.camel.component.pdf.PdfProducer		0.22222222
+org.apache.camel.component.pdf.PdfConfiguration		0.03773585
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pdf/target/site/clover/org/apache/camel/component/pdf/PdfTextExtractionTest_testExtractText_3
+org.apache.camel.component.pdf.PdfProducer		0.17777778
+org.apache.camel.component.pdf.PdfConfiguration		0.03773585
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pdf/target/site/clover/org/apache/camel/component/pdf/test-PdfAppendTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pdf/target/site/clover/org/apache/camel/component/pdf/test-PdfCreationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pdf/target/site/clover/org/apache/camel/component/pdf/test-PdfTextExtractionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pdf/target/site/clover/org/apache/camel/component/pdf/text/PatternSplitStrategyTest
+PatternSplitStrategyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pdf/target/site/clover/org/apache/camel/component/pdf/text/PatternSplitStrategyTest_testSplit_7
+testSplit
+org.apache.camel.component.pdf.text.PatternSplitStrategy		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pdf/target/site/clover/org/apache/camel/component/pdf/text/WordSplitStrategyTest
+WordSplitStrategyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pdf/target/site/clover/org/apache/camel/component/pdf/text/WordSplitStrategyTest_testSplit_6
+testSplit
+org.apache.camel.component.pdf.text.WordSplitStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pdf/target/site/clover/org/apache/camel/component/pdf/text/test-PatternSplitStrategyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-pdf/target/site/clover/org/apache/camel/component/pdf/text/test-WordSplitStrategyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

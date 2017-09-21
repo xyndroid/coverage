@@ -1,0 +1,220 @@
+./components/camel-jclouds/target/site/clover/org/apache/camel
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsBlobStoreConsumerTest
+JcloudsBlobStoreConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsBlobStoreConsumerTest_testBlobStoreGetOneBlob_4
+org.apache.camel.component.jclouds.JcloudsBlobStoreConsumer		0.6101695
+org.apache.camel.component.jclouds.JcloudsBlobStoreHelper		0.31578946
+org.apache.camel.component.jclouds.JcloudsConfiguration		0.03846154
+org.apache.camel.component.jclouds.JcloudsEndpoint		0.033333335
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsBlobStoreConsumerTest_testBlobStoreGetTwoBlobs_1
+org.apache.camel.component.jclouds.JcloudsBlobStoreConsumer		0.7118644
+org.apache.camel.component.jclouds.JcloudsBlobStoreHelper		0.31578946
+org.apache.camel.component.jclouds.JcloudsConfiguration		0.03846154
+org.apache.camel.component.jclouds.JcloudsEndpoint		0.033333335
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsBlobStoreConsumerTest_testBlobStoreWithDirectory_5
+org.apache.camel.component.jclouds.JcloudsBlobStoreConsumer		0.66101694
+org.apache.camel.component.jclouds.JcloudsBlobStoreHelper		0.3508772
+org.apache.camel.component.jclouds.JcloudsConfiguration		0.03846154
+org.apache.camel.component.jclouds.JcloudsEndpoint		0.033333335
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsBlobStoreConsumerTest_testBlobStoreWithMultipleDirectories_p
+org.apache.camel.component.jclouds.JcloudsBlobStoreConsumer		0.66101694
+org.apache.camel.component.jclouds.JcloudsBlobStoreHelper		0.3508772
+org.apache.camel.component.jclouds.JcloudsConfiguration		0.03846154
+org.apache.camel.component.jclouds.JcloudsEndpoint		0.033333335
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsBlobStoreProducerTest
+JcloudsBlobStoreProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsBlobStoreProducerTest_testBlobStorePutAndClear_g
+org.apache.camel.component.jclouds.JcloudsBlobStoreProducer		0.61445785
+org.apache.camel.component.jclouds.JcloudsBlobStoreHelper		0.28070176
+org.apache.camel.component.jclouds.JcloudsConfiguration		0.115384616
+org.apache.camel.component.jclouds.JcloudsEndpoint		0.1
+org.apache.camel.component.jclouds.JcloudsPayloadConverter		0.051282052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsBlobStoreProducerTest_testBlobStorePutAndCount_m
+org.apache.camel.component.jclouds.JcloudsBlobStoreProducer		0.5903614
+org.apache.camel.component.jclouds.JcloudsBlobStoreHelper		0.24561404
+org.apache.camel.component.jclouds.JcloudsConfiguration		0.115384616
+org.apache.camel.component.jclouds.JcloudsEndpoint		0.1
+org.apache.camel.component.jclouds.JcloudsPayloadConverter		0.051282052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsBlobStoreProducerTest_testBlobStorePutAndDeleteContainer_s
+org.apache.camel.component.jclouds.JcloudsBlobStoreProducer		0.61445785
+org.apache.camel.component.jclouds.JcloudsBlobStoreHelper		0.28070176
+org.apache.camel.component.jclouds.JcloudsConfiguration		0.115384616
+org.apache.camel.component.jclouds.JcloudsEndpoint		0.1
+org.apache.camel.component.jclouds.JcloudsPayloadConverter		0.051282052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsBlobStoreProducerTest_testBlobStorePutAndGet_i
+org.apache.camel.component.jclouds.JcloudsBlobStoreProducer		0.5903614
+org.apache.camel.component.jclouds.JcloudsBlobStoreHelper		0.3508772
+org.apache.camel.component.jclouds.JcloudsConfiguration		0.115384616
+org.apache.camel.component.jclouds.JcloudsEndpoint		0.1
+org.apache.camel.component.jclouds.JcloudsPayloadConverter		0.051282052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsBlobStoreProducerTest_testBlobStorePutAndRemove_r
+org.apache.camel.component.jclouds.JcloudsBlobStoreProducer		0.61445785
+org.apache.camel.component.jclouds.JcloudsBlobStoreHelper		0.31578946
+org.apache.camel.component.jclouds.JcloudsConfiguration		0.115384616
+org.apache.camel.component.jclouds.JcloudsEndpoint		0.1
+org.apache.camel.component.jclouds.JcloudsPayloadConverter		0.051282052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsBlobStoreProducerTest_testBlobStorePutWithStreamAndGet_9
+org.apache.camel.component.jclouds.JcloudsBlobStoreProducer		0.5903614
+org.apache.camel.component.jclouds.JcloudsPayloadConverter		0.3846154
+org.apache.camel.component.jclouds.JcloudsBlobStoreHelper		0.3508772
+org.apache.camel.component.jclouds.JcloudsConfiguration		0.115384616
+org.apache.camel.component.jclouds.JcloudsEndpoint		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsBlobStoreProducerTest_testBlobStorePut_8
+org.apache.camel.component.jclouds.JcloudsBlobStoreProducer		0.5421687
+org.apache.camel.component.jclouds.JcloudsBlobStoreHelper		0.19298245
+org.apache.camel.component.jclouds.JcloudsConfiguration		0.115384616
+org.apache.camel.component.jclouds.JcloudsEndpoint		0.1
+org.apache.camel.component.jclouds.JcloudsPayloadConverter		0.051282052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsBlobStoreProducerTest_testCheckContainerExists_u
+org.apache.camel.component.jclouds.JcloudsBlobStoreProducer		0.5301205
+org.apache.camel.component.jclouds.JcloudsConfiguration		0.115384616
+org.apache.camel.component.jclouds.JcloudsEndpoint		0.1
+org.apache.camel.component.jclouds.JcloudsBlobStoreHelper		0.05263158
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsBlobStoreProducerTest_testRemoveBlobs_2
+org.apache.camel.component.jclouds.JcloudsBlobStoreProducer		0.6506024
+org.apache.camel.component.jclouds.JcloudsBlobStoreHelper		0.28070176
+org.apache.camel.component.jclouds.JcloudsConfiguration		0.115384616
+org.apache.camel.component.jclouds.JcloudsEndpoint		0.1
+org.apache.camel.component.jclouds.JcloudsPayloadConverter		0.051282052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsMultipleBlobStoreTest
+JcloudsMultipleBlobStoreTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsMultipleBlobStoreTest_testWithMultipleServices_l
+org.apache.camel.component.jclouds.JcloudsBlobStoreConsumer		0.69491524
+org.apache.camel.component.jclouds.JcloudsBlobStoreHelper		0.31578946
+org.apache.camel.component.jclouds.JcloudsConfiguration		0.03846154
+org.apache.camel.component.jclouds.JcloudsEndpoint		0.033333335
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsSpringBlobstoreTest
+JcloudsSpringBlobstoreTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsSpringBlobstoreTest_testBlobStoreClear_d
+org.apache.camel.component.jclouds.JcloudsBlobStoreProducer		0.56626505
+org.apache.camel.component.jclouds.JcloudsBlobStoreHelper		0.24561404
+org.apache.camel.component.jclouds.JcloudsConfiguration		0.115384616
+org.apache.camel.component.jclouds.JcloudsEndpoint		0.1
+org.apache.camel.component.jclouds.JcloudsPayloadConverter		0.051282052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsSpringBlobstoreTest_testBlobStoreContainerExists_7
+org.apache.camel.component.jclouds.JcloudsBlobStoreProducer		0.5421687
+org.apache.camel.component.jclouds.JcloudsBlobStoreHelper		0.21052632
+org.apache.camel.component.jclouds.JcloudsConfiguration		0.115384616
+org.apache.camel.component.jclouds.JcloudsEndpoint		0.1
+org.apache.camel.component.jclouds.JcloudsPayloadConverter		0.051282052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsSpringBlobstoreTest_testBlobStoreCount_6
+org.apache.camel.component.jclouds.JcloudsBlobStoreProducer		0.5421687
+org.apache.camel.component.jclouds.JcloudsBlobStoreHelper		0.21052632
+org.apache.camel.component.jclouds.JcloudsConfiguration		0.115384616
+org.apache.camel.component.jclouds.JcloudsEndpoint		0.1
+org.apache.camel.component.jclouds.JcloudsPayloadConverter		0.051282052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsSpringBlobstoreTest_testBlobStoreDelete_j
+org.apache.camel.component.jclouds.JcloudsBlobStoreProducer		0.5903614
+org.apache.camel.component.jclouds.JcloudsBlobStoreHelper		0.2982456
+org.apache.camel.component.jclouds.JcloudsConfiguration		0.115384616
+org.apache.camel.component.jclouds.JcloudsEndpoint		0.1
+org.apache.camel.component.jclouds.JcloudsPayloadConverter		0.051282052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsSpringBlobstoreTest_testBlobStoreGet_3
+org.apache.camel.component.jclouds.JcloudsBlobStoreConsumer		0.69491524
+org.apache.camel.component.jclouds.JcloudsBlobStoreProducer		0.5421687
+org.apache.camel.component.jclouds.JcloudsBlobStoreHelper		0.31578946
+org.apache.camel.component.jclouds.JcloudsConfiguration		0.15384616
+org.apache.camel.component.jclouds.JcloudsEndpoint		0.13333334
+org.apache.camel.component.jclouds.JcloudsPayloadConverter		0.051282052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsSpringBlobstoreTest_testBlobStorePut_c
+org.apache.camel.component.jclouds.JcloudsBlobStoreConsumer		0.6779661
+org.apache.camel.component.jclouds.JcloudsBlobStoreProducer		0.5421687
+org.apache.camel.component.jclouds.JcloudsBlobStoreHelper		0.31578946
+org.apache.camel.component.jclouds.JcloudsConfiguration		0.15384616
+org.apache.camel.component.jclouds.JcloudsEndpoint		0.13333334
+org.apache.camel.component.jclouds.JcloudsPayloadConverter		0.051282052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsSpringBlobstoreTest_testBlobStoreRemoveBlobs_v
+org.apache.camel.component.jclouds.JcloudsBlobStoreProducer		0.6626506
+org.apache.camel.component.jclouds.JcloudsBlobStoreHelper		0.2982456
+org.apache.camel.component.jclouds.JcloudsConfiguration		0.115384616
+org.apache.camel.component.jclouds.JcloudsEndpoint		0.1
+org.apache.camel.component.jclouds.JcloudsPayloadConverter		0.051282052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsSpringBlobstoreTest_testBlobStoreRemove_a
+org.apache.camel.component.jclouds.JcloudsBlobStoreProducer		0.56626505
+org.apache.camel.component.jclouds.JcloudsBlobStoreHelper		0.28070176
+org.apache.camel.component.jclouds.JcloudsConfiguration		0.115384616
+org.apache.camel.component.jclouds.JcloudsEndpoint		0.1
+org.apache.camel.component.jclouds.JcloudsPayloadConverter		0.051282052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsSpringBlobstoreTest_testProduceWithUrlParametes_e
+org.apache.camel.component.jclouds.JcloudsBlobStoreConsumer		0.7118644
+org.apache.camel.component.jclouds.JcloudsBlobStoreProducer		0.5180723
+org.apache.camel.component.jclouds.JcloudsBlobStoreHelper		0.31578946
+org.apache.camel.component.jclouds.JcloudsConfiguration		0.15384616
+org.apache.camel.component.jclouds.JcloudsEndpoint		0.13333334
+org.apache.camel.component.jclouds.JcloudsPayloadConverter		0.051282052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsSpringComputeTest
+JcloudsSpringComputeTest		0.8527919
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsSpringComputeTest_testCreateAndDestroyNode_n
+org.apache.camel.component.jclouds.JcloudsComputeProducer		0.4525862
+org.apache.camel.component.jclouds.JcloudsComputeEndpoint		0.35897437
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsSpringComputeTest_testCreateAndListNodes_f
+org.apache.camel.component.jclouds.JcloudsComputeProducer		0.5
+org.apache.camel.component.jclouds.JcloudsComputeEndpoint		0.35897437
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsSpringComputeTest_testCreateAndListWithPredicates_o
+org.apache.camel.component.jclouds.JcloudsComputeProducer		0.5301724
+org.apache.camel.component.jclouds.JcloudsComputeEndpoint		0.35897437
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsSpringComputeTest_testCreateAndRebootNode_q
+org.apache.camel.component.jclouds.JcloudsComputeProducer		0.46120688
+org.apache.camel.component.jclouds.JcloudsComputeEndpoint		0.35897437
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsSpringComputeTest_testCreateAndSuspendNode_b
+org.apache.camel.component.jclouds.JcloudsComputeProducer		0.4698276
+org.apache.camel.component.jclouds.JcloudsComputeEndpoint		0.35897437
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsSpringComputeTest_testCreateSuspendAndResumeNode_0
+org.apache.camel.component.jclouds.JcloudsComputeProducer		0.47844827
+org.apache.camel.component.jclouds.JcloudsComputeEndpoint		0.35897437
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsSpringComputeTest_testListHardware_t
+org.apache.camel.component.jclouds.JcloudsComputeProducer		0.094827585
+org.apache.camel.component.jclouds.JcloudsComputeEndpoint		0.051282052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsSpringComputeTest_testListImages_h
+org.apache.camel.component.jclouds.JcloudsComputeProducer		0.0862069
+org.apache.camel.component.jclouds.JcloudsComputeEndpoint		0.051282052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/JcloudsSpringComputeTest_testListNodes_k
+org.apache.camel.component.jclouds.JcloudsComputeProducer		0.12068965
+org.apache.camel.component.jclouds.JcloudsComputeEndpoint		0.102564104
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/test-JcloudsBlobStoreConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/test-JcloudsBlobStoreProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/test-JcloudsMultipleBlobStoreTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/test-JcloudsSpringBlobstoreTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jclouds/target/site/clover/org/apache/camel/component/jclouds/test-JcloudsSpringComputeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

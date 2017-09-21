@@ -1,0 +1,529 @@
+./integration/target/clover/org/apache/mahout
+./integration/target/clover/org/apache/mahout/cf/taste/impl/similarity/jdbc/MySQLJDBCInMemoryItemSimilarityTest
+MySQLJDBCInMemoryItemSimilarityTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/cf/taste/impl/similarity/jdbc/MySQLJDBCInMemoryItemSimilarityTest_testMemoryLoad_1w
+org.apache.mahout.cf.taste.impl.similarity.jdbc.AbstractJDBCInMemoryItemSimilarity.JDBCSimilaritiesIterator		1.0
+org.apache.mahout.cf.taste.impl.similarity.jdbc.AbstractJDBCInMemoryItemSimilarity.JDBCSimilaritiesIterable		0.85714287
+org.apache.mahout.cf.taste.impl.similarity.jdbc.AbstractJDBCInMemoryItemSimilarity		0.65384614
+org.apache.mahout.cf.taste.impl.similarity.jdbc.SQL92JDBCInMemoryItemSimilarity		0.5
+org.apache.mahout.cf.taste.impl.similarity.jdbc.MySQLJDBCInMemoryItemSimilarity		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/cf/taste/impl/similarity/jdbc/test-MySQLJDBCInMemoryItemSimilarityTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/clustering/TestClusterDumper
+TestClusterDumper		0.96363634
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/clustering/TestClusterDumper_testFuzzyKmeans_u
+org.apache.mahout.utils.clustering.AbstractClusterWriter.TermIndexWeight		1.0
+org.apache.mahout.utils.clustering.ClusterDumperWriter		0.88235295
+org.apache.mahout.utils.clustering.AbstractClusterWriter		0.7894737
+org.apache.mahout.utils.clustering.ClusterDumper		0.28333333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/clustering/TestClusterDumper_testJsonClusterDumper_1b
+org.apache.mahout.utils.clustering.JsonClusterWriter.TermIndexWeight		1.0
+org.apache.mahout.utils.clustering.JsonClusterWriter		0.8
+org.apache.mahout.utils.clustering.AbstractClusterWriter		0.33333334
+org.apache.mahout.utils.clustering.ClusterDumper		0.29444444
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/clustering/TestClusterDumper_testKmeans_1y
+org.apache.mahout.utils.clustering.AbstractClusterWriter.TermIndexWeight		1.0
+org.apache.mahout.utils.clustering.ClusterDumperWriter		0.88235295
+org.apache.mahout.utils.clustering.AbstractClusterWriter		0.7894737
+org.apache.mahout.utils.clustering.ClusterDumper		0.28333333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/clustering/TestClusterEvaluator
+TestClusterEvaluator		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/clustering/TestClusterEvaluator_testAllSameValueCluster_t
+org.apache.mahout.clustering.evaluation.ClusterEvaluator		0.87058824
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/clustering/TestClusterEvaluator_testCanopy_1a
+org.apache.mahout.clustering.evaluation.ClusterEvaluator		0.9411765
+org.apache.mahout.clustering.evaluation.RepresentativePointsMapper		0.6511628
+org.apache.mahout.clustering.evaluation.RepresentativePointsDriver		0.46601942
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/clustering/TestClusterEvaluator_testCluster0_1t
+org.apache.mahout.clustering.evaluation.ClusterEvaluator		0.85882354
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/clustering/TestClusterEvaluator_testCluster1_23
+org.apache.mahout.clustering.evaluation.ClusterEvaluator		0.85882354
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/clustering/TestClusterEvaluator_testCluster2_9
+org.apache.mahout.clustering.evaluation.ClusterEvaluator		0.85882354
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/clustering/TestClusterEvaluator_testEmptyCluster_16
+org.apache.mahout.clustering.evaluation.ClusterEvaluator		0.87058824
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/clustering/TestClusterEvaluator_testFuzzyKmeans_7
+org.apache.mahout.clustering.evaluation.ClusterEvaluator		0.9411765
+org.apache.mahout.clustering.evaluation.RepresentativePointsMapper		0.6511628
+org.apache.mahout.clustering.evaluation.RepresentativePointsDriver		0.5533981
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/clustering/TestClusterEvaluator_testKmeans_3
+org.apache.mahout.clustering.evaluation.ClusterEvaluator		0.9411765
+org.apache.mahout.clustering.evaluation.RepresentativePointsMapper		0.6511628
+org.apache.mahout.clustering.evaluation.RepresentativePointsDriver		0.5533981
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/clustering/TestClusterEvaluator_testRepresentativePoints_w
+org.apache.mahout.clustering.evaluation.ClusterEvaluator		0.9411765
+org.apache.mahout.clustering.evaluation.RepresentativePointsMapper		0.90697676
+org.apache.mahout.clustering.evaluation.RepresentativePointsReducer		0.85
+org.apache.mahout.clustering.evaluation.RepresentativePointsDriver		0.74757284
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/clustering/TestClusterEvaluator_testSingleValueCluster_1z
+org.apache.mahout.clustering.evaluation.ClusterEvaluator		0.87058824
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/clustering/cdbw/TestCDbwEvaluator
+TestCDbwEvaluator		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/clustering/cdbw/TestCDbwEvaluator_testAllSameValueCluster_1l
+org.apache.mahout.clustering.cdbw.CDbwEvaluator		0.8324873
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/clustering/cdbw/TestCDbwEvaluator_testAlmostSameValueCluster_1p
+org.apache.mahout.clustering.cdbw.CDbwEvaluator		0.8324873
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/clustering/cdbw/TestCDbwEvaluator_testCDbw0_m
+org.apache.mahout.clustering.cdbw.CDbwEvaluator		0.8324873
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/clustering/cdbw/TestCDbwEvaluator_testCDbw1_h
+org.apache.mahout.clustering.cdbw.CDbwEvaluator		0.8527919
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/clustering/cdbw/TestCDbwEvaluator_testCDbw2_6
+org.apache.mahout.clustering.cdbw.CDbwEvaluator		0.8527919
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/clustering/cdbw/TestCDbwEvaluator_testCanopy_o
+org.apache.mahout.clustering.cdbw.CDbwEvaluator		0.88832486
+org.apache.mahout.clustering.evaluation.RepresentativePointsMapper		0.6511628
+org.apache.mahout.clustering.evaluation.RepresentativePointsDriver		0.46601942
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/clustering/cdbw/TestCDbwEvaluator_testEmptyCluster_d
+org.apache.mahout.clustering.cdbw.CDbwEvaluator		0.84771574
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/clustering/cdbw/TestCDbwEvaluator_testFuzzyKmeans_18
+org.apache.mahout.clustering.cdbw.CDbwEvaluator		0.88324875
+org.apache.mahout.clustering.evaluation.RepresentativePointsMapper		0.6511628
+org.apache.mahout.clustering.evaluation.RepresentativePointsDriver		0.5533981
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/clustering/cdbw/TestCDbwEvaluator_testKmeans_f
+org.apache.mahout.clustering.cdbw.CDbwEvaluator		0.88832486
+org.apache.mahout.clustering.evaluation.RepresentativePointsMapper		0.6511628
+org.apache.mahout.clustering.evaluation.RepresentativePointsDriver		0.5533981
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/clustering/cdbw/TestCDbwEvaluator_testSingleValueCluster_1f
+org.apache.mahout.clustering.cdbw.CDbwEvaluator		0.8527919
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/clustering/cdbw/test-TestCDbwEvaluator
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/clustering/test-TestClusterDumper
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/clustering/test-TestClusterEvaluator
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/text/MailArchivesClusteringAnalyzerTest
+MailArchivesClusteringAnalyzerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/text/MailArchivesClusteringAnalyzerTest_testAnalysis_1
+org.apache.mahout.text.MailArchivesClusteringAnalyzer.AlphaNumericMaxLengthFilter		0.93333334
+org.apache.mahout.text.MailArchivesClusteringAnalyzer		0.84615386
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/text/SequenceFilesFromMailArchivesTest
+SequenceFilesFromMailArchivesTest		0.9148936
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/text/SequenceFilesFromMailArchivesTest_testMapReduce_22
+org.apache.mahout.text.MultipleTextFileInputFormat		1.0
+org.apache.mahout.text.SequenceFilesFromMailArchivesMapper		0.8405797
+org.apache.mahout.text.WholeFileRecordReader		0.79591835
+org.apache.mahout.utils.email.MailOptions		0.7916667
+org.apache.mahout.text.SequenceFilesFromMailArchives		0.65536726
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/text/SequenceFilesFromMailArchivesTest_testSequential_19
+org.apache.mahout.text.SequenceFilesFromMailArchives.PrefixAdditionDirectoryWalker		0.972973
+org.apache.mahout.utils.email.MailOptions		0.9166667
+org.apache.mahout.utils.email.MailProcessor		0.8804348
+org.apache.mahout.utils.io.ChunkedWriter		0.7407407
+org.apache.mahout.utils.io.ChunkedWrapper		0.6666667
+org.apache.mahout.text.SequenceFilesFromMailArchives		0.46892655
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/text/TestPathFilter
+TestPathFilter		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/text/TestSequenceFilesFromDirectory
+TestSequenceFilesFromDirectory		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/text/TestSequenceFilesFromDirectory_testSequenceFileFromDirectoryBasic_17
+org.apache.mahout.text.PrefixAdditionFilter		1.0
+org.apache.mahout.text.SequenceFilesFromDirectoryFilter		0.962963
+org.apache.mahout.utils.io.ChunkedWriter		0.7407407
+org.apache.mahout.text.SequenceFilesFromDirectory		0.44444445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/text/TestSequenceFilesFromDirectory_testSequenceFileFromDirectoryMapReduce_1s
+org.apache.mahout.text.MultipleTextFileInputFormat		1.0
+org.apache.mahout.text.SequenceFilesFromDirectoryMapper		0.9166667
+org.apache.mahout.text.WholeFileRecordReader		0.8367347
+org.apache.mahout.text.SequenceFilesFromDirectory		0.6969697
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/text/doc/TestDocument
+TestDocument		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/text/doc/test-TestDocument
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/text/test-MailArchivesClusteringAnalyzerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/text/test-SequenceFilesFromMailArchivesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/text/test-TestPathFilter
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/text/test-TestSequenceFilesFromDirectory
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/Bump125Test
+Bump125Test		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/Bump125Test_testIncrement_4
+org.apache.mahout.utils.Bump125		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/SplitInputTest
+SplitInputTest		0.98930484
+SplitInputTest.TestCallback		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/SplitInputTest_testSplitDirectory_1k
+org.apache.mahout.utils.SplitInput		0.34383956
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/SplitInputTest_testSplitFileLocation_1j
+org.apache.mahout.utils.SplitInput		0.30659026
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/SplitInputTest_testSplitFilePctLocation_r
+org.apache.mahout.utils.SplitInput		0.30945557
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/SplitInputTest_testSplitFilePct_p
+org.apache.mahout.utils.SplitInput		0.3008596
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/SplitInputTest_testSplitFileRandomSelectionPct_g
+org.apache.mahout.utils.SplitInput		0.28653294
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/SplitInputTest_testSplitFileRandomSelectionSize_24
+org.apache.mahout.utils.SplitInput		0.28366762
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/SplitInputTest_testSplitFile_11
+org.apache.mahout.utils.SplitInput		0.29799426
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/SplitInputTest_testSplitInputMapReduceTextCli_k
+org.apache.mahout.utils.SplitInputJob.SplitInputMapper		1.0
+org.apache.mahout.utils.SplitInputJob.SplitInputComparator		1.0
+org.apache.mahout.utils.SplitInputJob.SplitInputReducer		0.9285714
+org.apache.mahout.utils.SplitInputJob		0.8611111
+org.apache.mahout.utils.SplitInput		0.2636103
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/SplitInputTest_testSplitInputMapReduceText_25
+org.apache.mahout.utils.SplitInputJob.SplitInputMapper		1.0
+org.apache.mahout.utils.SplitInputJob.SplitInputComparator		1.0
+org.apache.mahout.utils.SplitInputJob.SplitInputReducer		0.9285714
+org.apache.mahout.utils.SplitInputJob		0.8611111
+org.apache.mahout.utils.SplitInput		0.048710603
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/SplitInputTest_testSplitInputMapReduceVectorCli_e
+org.apache.mahout.utils.SplitInputJob.SplitInputMapper		1.0
+org.apache.mahout.utils.SplitInputJob.SplitInputComparator		1.0
+org.apache.mahout.utils.SplitInputJob.SplitInputReducer		0.9285714
+org.apache.mahout.utils.SplitInputJob		0.8611111
+org.apache.mahout.utils.SplitInput		0.2636103
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/SplitInputTest_testSplitInputMapReduceVector_1d
+org.apache.mahout.utils.SplitInputJob.SplitInputMapper		1.0
+org.apache.mahout.utils.SplitInputJob.SplitInputComparator		1.0
+org.apache.mahout.utils.SplitInputJob.SplitInputReducer		0.9285714
+org.apache.mahout.utils.SplitInputJob		0.8611111
+org.apache.mahout.utils.SplitInput		0.048710603
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/SplitInputTest_testValidate_1u
+org.apache.mahout.utils.SplitInput		0.11747851
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/email/MailProcessorTest
+MailProcessorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/email/MailProcessorTest_testLabel_z
+org.apache.mahout.utils.email.MailProcessor		0.7826087
+org.apache.mahout.utils.io.IOWriterWrapper		0.6666667
+org.apache.mahout.utils.email.MailOptions		0.41666666
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/email/MailProcessorTest_testStripQuoted_c
+org.apache.mahout.utils.email.MailProcessor		0.8586956
+org.apache.mahout.utils.io.IOWriterWrapper		0.6666667
+org.apache.mahout.utils.email.MailOptions		0.5416667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/email/test-MailProcessorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/nlp/collocations/llr/BloomTokenFilterTest
+BloomTokenFilterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/nlp/collocations/llr/BloomTokenFilterTest_testAnalyzer_s
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/nlp/collocations/llr/BloomTokenFilterTest_testFilter_26
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/nlp/collocations/llr/BloomTokenFilterTest_testKeepAnalyzer_1c
+org.apache.mahout.utils.nlp.collocations.llr.BloomTokenFilter		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/nlp/collocations/llr/BloomTokenFilterTest_testNonKeepdAnalyzer_1n
+org.apache.mahout.utils.nlp.collocations.llr.BloomTokenFilter		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/nlp/collocations/llr/BloomTokenFilterTest_testShingleFilteredAnalyzer_l
+org.apache.mahout.utils.nlp.collocations.llr.BloomTokenFilter		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/nlp/collocations/llr/test-BloomTokenFilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/regex/RegexMapperTest
+RegexMapperTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/regex/RegexMapperTest_testFPGFormatter_1v
+org.apache.mahout.utils.regex.FPGFormatter		1.0
+org.apache.mahout.utils.regex.RegexMapper		0.7692308
+org.apache.mahout.utils.regex.URLDecodeTransformer		0.625
+org.apache.mahout.utils.regex.RegexUtils		0.5833333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/regex/RegexMapperTest_testGroups_1m
+org.apache.mahout.utils.regex.IdentityFormatter		1.0
+org.apache.mahout.utils.regex.RegexMapper		0.8076923
+org.apache.mahout.utils.regex.URLDecodeTransformer		0.625
+org.apache.mahout.utils.regex.RegexUtils		0.6111111
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/regex/RegexMapperTest_testRegex_10
+org.apache.mahout.utils.regex.IdentityFormatter		1.0
+org.apache.mahout.utils.regex.RegexMapper		0.7692308
+org.apache.mahout.utils.regex.URLDecodeTransformer		0.625
+org.apache.mahout.utils.regex.RegexUtils		0.5833333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/regex/RegexUtilsTest
+RegexUtilsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/regex/RegexUtilsTest_testExtract_12
+org.apache.mahout.utils.regex.IdentityTransformer		1.0
+org.apache.mahout.utils.regex.RegexUtils		0.8333333
+org.apache.mahout.utils.regex.URLDecodeTransformer		0.625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/regex/test-RegexMapperTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/regex/test-RegexUtilsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/test-Bump125Test
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/test-SplitInputTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/test-SplitInputTest_TestCallback
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/VectorHelperTest
+VectorHelperTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/VectorHelperTest_testJsonFormatting_1h
+org.apache.mahout.utils.vectors.VectorHelper.TDoublePQ		1.0
+org.apache.mahout.utils.vectors.VectorHelper		0.40650406
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/VectorHelperTest_testLoadTermDictionary_q
+org.apache.mahout.utils.vectors.VectorHelper		0.1300813
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/VectorHelperTest_testTopEntriesWhenAllZeros_j
+org.apache.mahout.utils.vectors.VectorHelper.TDoublePQ		0.71428573
+org.apache.mahout.utils.vectors.VectorHelper		0.09756097
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/VectorHelperTest_testTopEntries_0
+org.apache.mahout.utils.vectors.VectorHelper.TDoublePQ		1.0
+org.apache.mahout.utils.vectors.VectorHelper		0.15447155
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/arff/ARFFTypeTest
+ARFFTypeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/arff/ARFFTypeTest_removeQuotes_21
+removeQuotes
+org.apache.mahout.utils.vectors.arff.ARFFType		0.7368421
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/arff/ARFFVectorIterableTest
+ARFFVectorIterableTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/arff/ARFFVectorIterableTest_testDate_5
+testDate
+org.apache.mahout.utils.vectors.arff.ARFFIterator		0.7111111
+org.apache.mahout.utils.vectors.arff.ARFFVectorIterable		0.6813187
+org.apache.mahout.utils.vectors.arff.ARFFType		0.57894737
+org.apache.mahout.utils.vectors.arff.MapBackedARFFModel		0.432
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/arff/ARFFVectorIterableTest_testDense_15
+testDense
+org.apache.mahout.utils.vectors.arff.ARFFIterator		0.6333333
+org.apache.mahout.utils.vectors.arff.ARFFVectorIterable		0.6043956
+org.apache.mahout.utils.vectors.arff.ARFFType		0.57894737
+org.apache.mahout.utils.vectors.arff.MapBackedARFFModel		0.496
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/arff/ARFFVectorIterableTest_testMultipleNoms_1r
+testMultipleNoms
+org.apache.mahout.utils.vectors.arff.ARFFVectorIterable		0.7912088
+org.apache.mahout.utils.vectors.arff.ARFFType		0.7894737
+org.apache.mahout.utils.vectors.arff.ARFFIterator		0.7777778
+org.apache.mahout.utils.vectors.arff.MapBackedARFFModel		0.768
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/arff/ARFFVectorIterableTest_testNonNumeric_8
+testNonNumeric
+org.apache.mahout.utils.vectors.arff.ARFFVectorIterable		0.7912088
+org.apache.mahout.utils.vectors.arff.ARFFIterator		0.7777778
+org.apache.mahout.utils.vectors.arff.MapBackedARFFModel		0.768
+org.apache.mahout.utils.vectors.arff.ARFFType		0.68421054
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/arff/ARFFVectorIterableTest_testNumerics_1x
+testNumerics
+org.apache.mahout.utils.vectors.arff.ARFFType		0.57894737
+org.apache.mahout.utils.vectors.arff.ARFFIterator		0.5777778
+org.apache.mahout.utils.vectors.arff.ARFFVectorIterable		0.53846157
+org.apache.mahout.utils.vectors.arff.MapBackedARFFModel		0.352
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/arff/ARFFVectorIterableTest_testQuotes_y
+testQuotes
+org.apache.mahout.utils.vectors.arff.ARFFType		0.68421054
+org.apache.mahout.utils.vectors.arff.ARFFIterator		0.67777777
+org.apache.mahout.utils.vectors.arff.ARFFVectorIterable		0.6593407
+org.apache.mahout.utils.vectors.arff.MapBackedARFFModel		0.576
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/arff/ARFFVectorIterableTest_testSparse_x
+testSparse
+org.apache.mahout.utils.vectors.arff.ARFFIterator		0.62222224
+org.apache.mahout.utils.vectors.arff.ARFFType		0.57894737
+org.apache.mahout.utils.vectors.arff.ARFFVectorIterable		0.43956044
+org.apache.mahout.utils.vectors.arff.MapBackedARFFModel		0.336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/arff/ARFFVectorIterableTest_testValues_b
+testValues
+org.apache.mahout.utils.vectors.arff.ARFFIterator		0.84444445
+org.apache.mahout.utils.vectors.arff.ARFFVectorIterable		0.7912088
+org.apache.mahout.utils.vectors.arff.MapBackedARFFModel		0.728
+org.apache.mahout.utils.vectors.arff.ARFFType		0.57894737
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/arff/DriverTest
+DriverTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/arff/DriverTest_dictionaryJSON_i
+dictionaryJSON
+org.apache.mahout.utils.vectors.arff.ARFFType		0.68421054
+org.apache.mahout.utils.vectors.arff.ARFFVectorIterable		0.5824176
+org.apache.mahout.utils.vectors.arff.ARFFIterator		0.26666668
+org.apache.mahout.utils.vectors.arff.MapBackedARFFModel		0.232
+org.apache.mahout.utils.vectors.arff.Driver		0.2195122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/arff/DriverTest_dictionary_2
+dictionary
+org.apache.mahout.utils.vectors.arff.ARFFVectorIterable		0.5824176
+org.apache.mahout.utils.vectors.arff.ARFFType		0.57894737
+org.apache.mahout.utils.vectors.arff.ARFFIterator		0.26666668
+org.apache.mahout.utils.vectors.arff.MapBackedARFFModel		0.248
+org.apache.mahout.utils.vectors.arff.Driver		0.14634146
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/arff/MapBackedARFFModelTest
+MapBackedARFFModelTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/arff/MapBackedARFFModelTest_processBadNumeric_v
+processBadNumeric
+org.apache.mahout.utils.vectors.arff.MapBackedARFFModel		0.288
+org.apache.mahout.utils.vectors.arff.ARFFType		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/arff/MapBackedARFFModelTest_processGoodNumeric_1o
+processGoodNumeric
+org.apache.mahout.utils.vectors.arff.MapBackedARFFModel		0.296
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/arff/MapBackedARFFModelTest_processNominal_1g
+processNominal
+org.apache.mahout.utils.vectors.arff.MapBackedARFFModel		0.16
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/arff/test-ARFFTypeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/arff/test-ARFFVectorIterableTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/arff/test-DriverTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/arff/test-MapBackedARFFModelTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/csv/CSVVectorIteratorTest
+CSVVectorIteratorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/csv/CSVVectorIteratorTest_testCount_1e
+testCount
+org.apache.mahout.utils.vectors.csv.CSVVectorIterator		0.84210527
+org.apache.mahout.utils.vectors.io.TextualVectorWriter		0.7619048
+org.apache.mahout.utils.vectors.VectorHelper		0.16260162
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/csv/test-CSVVectorIteratorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/io/VectorWriterTest
+VectorWriterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/io/VectorWriterTest_testSFVW_1q
+testSFVW
+org.apache.mahout.utils.vectors.io.SequenceFileVectorWriter		0.6666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/io/VectorWriterTest_testTextOutputSize_13
+testTextOutputSize
+org.apache.mahout.utils.vectors.io.TextualVectorWriter		0.8095238
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/io/test-VectorWriterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/lucene/CachedTermInfoTest
+CachedTermInfoTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/lucene/CachedTermInfoTest_test_n
+test
+org.apache.mahout.utils.vectors.lucene.CachedTermInfo		0.78571427
+org.apache.mahout.utils.vectors.TermEntry		0.6
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/lucene/DriverTest
+DriverTest		1.0
+DriverTest.TextFieldWithTermVectors		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/lucene/DriverTest_sequenceFileDictionary_a
+sequenceFileDictionary
+org.apache.mahout.utils.vectors.TermEntry		1.0
+org.apache.mahout.utils.vectors.lucene.TFDFMapper		1.0
+org.apache.mahout.utils.vectors.io.DelimitedTermInfoWriter		1.0
+org.apache.mahout.utils.vectors.lucene.CachedTermInfo		0.85714287
+org.apache.mahout.utils.vectors.lucene.LuceneIterable		0.71428573
+org.apache.mahout.utils.vectors.lucene.Driver		0.7108434
+org.apache.mahout.utils.vectors.lucene.LuceneIterator		0.6666667
+org.apache.mahout.utils.vectors.lucene.AbstractLuceneIterator		0.59375
+org.apache.mahout.utils.vectors.io.SequenceFileVectorWriter		0.5714286
+org.apache.mahout.utils.Bump125		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/lucene/LuceneIterableTest
+LuceneIterableTest		0.96385545
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/lucene/LuceneIterableTest_testIterableNoTermVectors_1i
+testIterableNoTermVectors
+org.apache.mahout.utils.vectors.lucene.LuceneIterable		1.0
+org.apache.mahout.utils.vectors.lucene.LuceneIterator		0.71428573
+org.apache.mahout.utils.vectors.TermEntry		0.6
+org.apache.mahout.utils.vectors.lucene.CachedTermInfo		0.53571427
+org.apache.mahout.utils.vectors.lucene.AbstractLuceneIterator		0.421875
+org.apache.mahout.utils.Bump125		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/lucene/LuceneIterableTest_testIterableSomeNoiseTermVectors_14
+testIterableSomeNoiseTermVectors
+org.apache.mahout.utils.vectors.TermEntry		1.0
+org.apache.mahout.utils.vectors.lucene.LuceneIterable		1.0
+org.apache.mahout.utils.vectors.lucene.TFDFMapper		0.9375
+org.apache.mahout.utils.vectors.lucene.AbstractLuceneIterator		0.828125
+org.apache.mahout.utils.vectors.lucene.CachedTermInfo		0.75
+org.apache.mahout.utils.vectors.lucene.LuceneIterator		0.71428573
+org.apache.mahout.utils.Bump125		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/lucene/LuceneIterableTest_testIterable_20
+testIterable
+org.apache.mahout.utils.vectors.TermEntry		1.0
+org.apache.mahout.utils.vectors.lucene.LuceneIterable		1.0
+org.apache.mahout.utils.vectors.lucene.TFDFMapper		0.9375
+org.apache.mahout.utils.vectors.lucene.CachedTermInfo		0.75
+org.apache.mahout.utils.vectors.lucene.LuceneIterator		0.71428573
+org.apache.mahout.utils.vectors.lucene.AbstractLuceneIterator		0.625
+org.apache.mahout.utils.Bump125		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/lucene/test-CachedTermInfoTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/lucene/test-DriverTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/lucene/test-DriverTest_TextFieldWithTermVectors
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/lucene/test-LuceneIterableTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./integration/target/clover/org/apache/mahout/utils/vectors/test-VectorHelperTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

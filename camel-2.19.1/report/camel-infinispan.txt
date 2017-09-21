@@ -1,0 +1,604 @@
+./components/camel-infinispan/target/site/clover/org/apache/camel
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanAsyncConsumerTest
+InfinispanAsyncConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanAsyncConsumerTest_consumerReceivedPreAndPostEntryCreatedEventNotifications_1h
+org.apache.camel.component.infinispan.embedded.InfinispanSyncLocalEventListener		0.6666667
+org.apache.camel.component.infinispan.InfinispanEventListener		0.18181819
+org.apache.camel.component.infinispan.InfinispanConsumer		0.16129032
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanClusterTestSupport
+InfinispanClusterTestSupport		0.75
+InfinispanClusterTestSupport.ClusteredCacheSupport		0.6
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanClusteredConsumerTest
+InfinispanClusteredConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanClusteredConsumerTest_consumerReceivedExpirationEventNotifications_x
+org.apache.camel.component.infinispan.embedded.InfinispanSyncClusteredEventListener		0.71428573
+org.apache.camel.component.infinispan.InfinispanConsumer		0.19354838
+org.apache.camel.component.infinispan.InfinispanEventListener		0.18181819
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanClusteredConsumerTest_consumerReceivedPostEntryCreatedEventNotifications_6
+org.apache.camel.component.infinispan.embedded.InfinispanSyncClusteredEventListener		0.71428573
+org.apache.camel.component.infinispan.InfinispanConsumer		0.19354838
+org.apache.camel.component.infinispan.InfinispanEventListener		0.18181819
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanComponentTest
+InfinispanComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanComponentTest_consumerReceivedEntryCreatedEventNotifications_18
+org.apache.camel.component.infinispan.embedded.InfinispanSyncLocalEventListener		0.6666667
+org.apache.camel.component.infinispan.InfinispanEventListener		0.18181819
+org.apache.camel.component.infinispan.InfinispanConsumer		0.16129032
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanComponentTest_producerPublishesKeyAndValue_7
+org.apache.camel.component.infinispan.embedded.InfinispanSyncLocalEventListener		0.7777778
+org.apache.camel.component.infinispan.InfinispanOperation		0.7368421
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanEventListener		0.18181819
+org.apache.camel.component.infinispan.InfinispanConsumer		0.16129032
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.125
+org.apache.camel.component.infinispan.InfinispanManager		0.123595506
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.053333335
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanConfigurationTestIT
+InfinispanConfigurationTestIT		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanConsumerEntryCreatedTest
+InfinispanConsumerEntryCreatedTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanConsumerEntryCreatedTest_consumerReceivedPreAndPostEntryCreatedEventNotifications_1s
+org.apache.camel.component.infinispan.embedded.InfinispanSyncLocalEventListener		0.6666667
+org.apache.camel.component.infinispan.InfinispanEventListener		0.18181819
+org.apache.camel.component.infinispan.InfinispanConsumer		0.16129032
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanConsumerEntryRemovedTest
+InfinispanConsumerEntryRemovedTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanConsumerEntryRemovedTest_consumerReceivedPreAndPostEntryRemoveEventNotifications_1m
+org.apache.camel.component.infinispan.embedded.InfinispanSyncLocalEventListener		0.7777778
+org.apache.camel.component.infinispan.InfinispanEventListener		0.18181819
+org.apache.camel.component.infinispan.InfinispanConsumer		0.16129032
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanConsumerEntryUpdatedTest
+InfinispanConsumerEntryUpdatedTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanConsumerEntryUpdatedTest_consumerReceivedPreAndPostEntryUpdateEventNotifications_15
+org.apache.camel.component.infinispan.embedded.InfinispanSyncLocalEventListener		0.7777778
+org.apache.camel.component.infinispan.InfinispanEventListener		0.18181819
+org.apache.camel.component.infinispan.InfinispanConsumer		0.16129032
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanConsumerEntryVisitedTest
+InfinispanConsumerEntryVisitedTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanConsumerEntryVisitedTest_consumerReceivedPreAndPostEntryVisitedEventNotifications_2
+org.apache.camel.component.infinispan.embedded.InfinispanSyncLocalEventListener		0.7777778
+org.apache.camel.component.infinispan.InfinispanEventListener		0.18181819
+org.apache.camel.component.infinispan.InfinispanConsumer		0.16129032
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanLocalConsumerTest
+InfinispanLocalConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanLocalConsumerTest_consumerReceivedExpirationEventNotification_g
+org.apache.camel.component.infinispan.embedded.InfinispanSyncLocalEventListener		0.7777778
+org.apache.camel.component.infinispan.InfinispanEventListener		0.18181819
+org.apache.camel.component.infinispan.InfinispanConsumer		0.16129032
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanLocalConsumerTest_consumerReceivedPreAndPostEntryCreatedEventNotifications_1u
+org.apache.camel.component.infinispan.embedded.InfinispanSyncLocalEventListener		0.7777778
+org.apache.camel.component.infinispan.InfinispanEventListener		0.18181819
+org.apache.camel.component.infinispan.InfinispanConsumer		0.16129032
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest
+InfinispanProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_cacheSizeTest_q
+org.apache.camel.component.infinispan.InfinispanOperation		0.57894737
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanUtil		0.14285715
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.07589286
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_clearAsyncTest_1x
+org.apache.camel.component.infinispan.InfinispanOperation		0.57894737
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanUtil		0.14285715
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.07589286
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_clearsAllValues_o
+org.apache.camel.component.infinispan.InfinispanOperation		0.57894737
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanUtil		0.14285715
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.071428575
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_containsKeyTest_1z
+org.apache.camel.component.infinispan.InfinispanOperation		0.57894737
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanUtil		0.14285715
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.08928572
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_containsValueTest_1d
+org.apache.camel.component.infinispan.InfinispanOperation		0.57894737
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanUtil		0.14285715
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.084821425
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_deletesExistingValueByKeyAsyncWithValue_13
+org.apache.camel.component.infinispan.InfinispanOperation		0.57894737
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanUtil		0.14285715
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.11160714
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_deletesExistingValueByKeyAsync_w
+org.apache.camel.component.infinispan.InfinispanOperation		0.57894737
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanUtil		0.14285715
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.11160714
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_deletesExistingValueByKeyWithValue_a
+org.apache.camel.component.infinispan.InfinispanOperation		0.57894737
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanUtil		0.14285715
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.11160714
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_deletesExistingValueByKey_9
+org.apache.camel.component.infinispan.InfinispanOperation		0.57894737
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanUtil		0.14285715
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.11160714
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_keyAndValueArePublishedWithDefaultOperation_19
+org.apache.camel.component.infinispan.InfinispanOperation		0.7368421
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.125
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.053333335
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_notContainsKeyTest_1a
+org.apache.camel.component.infinispan.InfinispanOperation		0.57894737
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanUtil		0.14285715
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.08928572
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_notContainsValueTest_20
+org.apache.camel.component.infinispan.InfinispanOperation		0.57894737
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanUtil		0.14285715
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.084821425
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_publishKeyAndValueAsyncWithLifespanAndMaxIdle_d
+org.apache.camel.component.infinispan.InfinispanOperation		0.7368421
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.16517857
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_publishKeyAndValueAsyncWithLifespan_p
+org.apache.camel.component.infinispan.InfinispanOperation		0.7368421
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.15625
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_publishKeyAndValueAsync_1l
+org.apache.camel.component.infinispan.InfinispanOperation		0.7368421
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.12053572
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_publishKeyAndValueByExplicitlySpecifyingTheOperation_3
+org.apache.camel.component.infinispan.InfinispanOperation		0.57894737
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.125
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_publishKeyAndValueWithLifespan_1w
+org.apache.camel.component.infinispan.InfinispanOperation		0.7894737
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.16071428
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_publishMapNormalAsync_21
+org.apache.camel.component.infinispan.InfinispanOperation		0.7368421
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.116071425
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_publishMapNormal_1y
+org.apache.camel.component.infinispan.InfinispanOperation		0.57894737
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.09821428
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_publishMapWithLifespanAndMaxIdleTimeAsync_k
+org.apache.camel.component.infinispan.InfinispanOperation		0.7894737
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.16071428
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_publishMapWithLifespanAndMaxIdleTime_11
+org.apache.camel.component.infinispan.InfinispanOperation		0.7894737
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.16071428
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_publishMapWithLifespanAsync_y
+org.apache.camel.component.infinispan.InfinispanOperation		0.7894737
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.15178572
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_publishMapWithLifespan_1r
+org.apache.camel.component.infinispan.InfinispanOperation		0.7894737
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.15178572
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_putIfAbsentAlreadyExists_1q
+org.apache.camel.component.infinispan.InfinispanOperation		0.57894737
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.125
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_putIfAbsentKeyAndValueAsyncWithLifespanAndMaxIdle_12
+org.apache.camel.component.infinispan.InfinispanOperation		0.7368421
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.16517857
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_putIfAbsentKeyAndValueAsyncWithLifespan_10
+org.apache.camel.component.infinispan.InfinispanOperation		0.7368421
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.15625
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_putIfAbsentKeyAndValueAsync_u
+org.apache.camel.component.infinispan.InfinispanOperation		0.7368421
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.12053572
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_putIfAbsentNotExists_1v
+org.apache.camel.component.infinispan.InfinispanOperation		0.57894737
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.125
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_putOperationReturnsThePreviousValue_r
+org.apache.camel.component.infinispan.InfinispanOperation		0.57894737
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.125
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_replaceAValueByKeyAsyncWithOldValue_1n
+org.apache.camel.component.infinispan.InfinispanOperation		0.7368421
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.13839285
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_replaceAValueByKeyAsync_5
+org.apache.camel.component.infinispan.InfinispanOperation		0.7368421
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.13839285
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_replaceAValueByKeyWithLifespanAndMaxIdleTimeAsyncWithOldValue_1i
+org.apache.camel.component.infinispan.InfinispanOperation		0.7368421
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.18303572
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_replaceAValueByKeyWithLifespanAndMaxIdleTimeAsync_f
+org.apache.camel.component.infinispan.InfinispanOperation		0.7368421
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.18303572
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_replaceAValueByKeyWithLifespanAndMaxIdleTimeWithOldValue_1t
+org.apache.camel.component.infinispan.InfinispanOperation		0.7894737
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.18303572
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_replaceAValueByKeyWithLifespanAndMaxIdleTime_n
+org.apache.camel.component.infinispan.InfinispanOperation		0.7894737
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.18303572
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_replaceAValueByKeyWithLifespanAsyncWithOldValue_t
+org.apache.camel.component.infinispan.InfinispanOperation		0.7368421
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.17410715
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_replaceAValueByKeyWithLifespanAsync_v
+org.apache.camel.component.infinispan.InfinispanOperation		0.7368421
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.17410715
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_replaceAValueByKeyWithLifespanWithOldValue_1
+org.apache.camel.component.infinispan.InfinispanOperation		0.7894737
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.17410715
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_replaceAValueByKeyWithLifespan_4
+org.apache.camel.component.infinispan.InfinispanOperation		0.7894737
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.17410715
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_replaceAValueByKeyWithOldValue_b
+org.apache.camel.component.infinispan.InfinispanOperation		0.57894737
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.13839285
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_replaceAValueByKey_c
+org.apache.camel.component.infinispan.InfinispanOperation		0.57894737
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.13839285
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_retrievesAValueByKey_1c
+org.apache.camel.component.infinispan.InfinispanOperation		0.57894737
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanUtil		0.14285715
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.084821425
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_statsOperation_1k
+org.apache.camel.component.infinispan.InfinispanOperation		0.7894737
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.13839285
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanProducerTest_testUriCommandOption_1j
+org.apache.camel.component.infinispan.InfinispanOperation		0.7368421
+org.apache.camel.component.infinispan.InfinispanUtil		0.18367347
+org.apache.camel.component.infinispan.InfinispanOperation.Operation		0.16964285
+org.apache.camel.component.infinispan.InfinispanProducer		0.15384616
+org.apache.camel.component.infinispan.InfinispanManager		0.13483146
+org.apache.camel.component.infinispan.InfinispanConfiguration		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanRemoteProducerTest
+InfinispanRemoteProducerTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanSyncConsumerTest
+InfinispanSyncConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanSyncConsumerTest_consumerReceivedPreAndPostEntryCreatedEventNotifications_8
+org.apache.camel.component.infinispan.embedded.InfinispanSyncLocalEventListener		0.6666667
+org.apache.camel.component.infinispan.InfinispanEventListener		0.18181819
+org.apache.camel.component.infinispan.InfinispanConsumer		0.16129032
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/InfinispanTestSupport
+InfinispanTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/policy/InfinispanEmbeddedRoutePolicyTest
+InfinispanEmbeddedRoutePolicyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/policy/InfinispanEmbeddedRoutePolicyTest_testLeadership_22
+testLeadership
+org.apache.camel.component.infinispan.policy.InfinispanRoutePolicy.EmbeddedCacheService		0.59183675
+org.apache.camel.component.infinispan.policy.InfinispanRoutePolicy		0.2764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/policy/InfinispanRemoteRoutePolicyTest
+InfinispanRemoteRoutePolicyTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/policy/InfinispanRoutePolicyTestBase
+InfinispanRoutePolicyTestBase		0.97959185
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/policy/test-InfinispanEmbeddedRoutePolicyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/policy/test-InfinispanRemoteRoutePolicyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/policy/test-InfinispanRoutePolicyTestBase
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/processor/aggregate/InfinispanLocalAggregationRepositoryOperationsTest
+InfinispanLocalAggregationRepositoryOperationsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/processor/aggregate/InfinispanLocalAggregationRepositoryOperationsTest_testAdd_z
+org.apache.camel.component.infinispan.processor.aggregate.InfinispanLocalAggregationRepository		0.11881188
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/processor/aggregate/InfinispanLocalAggregationRepositoryOperationsTest_testConfirmExist_i
+org.apache.camel.component.infinispan.processor.aggregate.InfinispanLocalAggregationRepository		0.14851485
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/processor/aggregate/InfinispanLocalAggregationRepositoryOperationsTest_testConfirmNotExist_1b
+org.apache.camel.component.infinispan.processor.aggregate.InfinispanLocalAggregationRepository		0.14851485
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/processor/aggregate/InfinispanLocalAggregationRepositoryOperationsTest_testGetExists_m
+org.apache.camel.component.infinispan.processor.aggregate.InfinispanLocalAggregationRepository		0.16831683
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/processor/aggregate/InfinispanLocalAggregationRepositoryOperationsTest_testGetKeys_0
+org.apache.camel.component.infinispan.processor.aggregate.InfinispanLocalAggregationRepository		0.11881188
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/processor/aggregate/InfinispanLocalAggregationRepositoryOperationsTest_testGetNotExists_16
+org.apache.camel.component.infinispan.processor.aggregate.InfinispanLocalAggregationRepository		0.089108914
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/processor/aggregate/InfinispanLocalAggregationRepositoryOperationsTest_testRecover_1g
+org.apache.camel.component.infinispan.processor.aggregate.InfinispanLocalAggregationRepository		0.16831683
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/processor/aggregate/InfinispanLocalAggregationRepositoryOperationsTest_testRemoveExists_1o
+org.apache.camel.component.infinispan.processor.aggregate.InfinispanLocalAggregationRepository		0.14851485
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/processor/aggregate/InfinispanLocalAggregationRepositoryOperationsTest_testRemoveNotExists_s
+org.apache.camel.component.infinispan.processor.aggregate.InfinispanLocalAggregationRepository		0.04950495
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/processor/aggregate/InfinispanLocalAggregationRepositoryOperationsTest_testScan_1p
+org.apache.camel.component.infinispan.processor.aggregate.InfinispanLocalAggregationRepository		0.14851485
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/processor/aggregate/InfinispanLocalAggregationRepositoryTest
+InfinispanLocalAggregationRepositoryTest		1.0
+InfinispanLocalAggregationRepositoryTest.SumOfIntsAggregationStrategy		0.85714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/processor/aggregate/InfinispanLocalAggregationRepositoryTest_checkAggregationFromOneRoute_14
+org.apache.camel.component.infinispan.processor.aggregate.InfinispanLocalAggregationRepository		0.4059406
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/processor/aggregate/InfinispanRemoteAggregationRepositoryTest
+InfinispanRemoteAggregationRepositoryTest		0.0
+InfinispanRemoteAggregationRepositoryTest.SumOfIntsAggregationStrategy		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/processor/aggregate/test-InfinispanLocalAggregationRepositoryOperationsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/processor/aggregate/test-InfinispanLocalAggregationRepositoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/processor/aggregate/test-InfinispanLocalAggregationRepositoryTest_SumOfIntsAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/processor/aggregate/test-InfinispanRemoteAggregationRepositoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/processor/aggregate/test-InfinispanRemoteAggregationRepositoryTest_SumOfIntsAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/processor/idempotent/InfinispanDefaultIdempotentRepositoryTest
+InfinispanDefaultIdempotentRepositoryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/processor/idempotent/InfinispanDefaultIdempotentRepositoryTest_createsRepositoryUsingInternalCache_h
+org.apache.camel.component.infinispan.processor.idempotent.InfinispanIdempotentRepository		0.5
+org.apache.camel.component.infinispan.InfinispanUtil		0.06122449
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/processor/idempotent/InfinispanIdempotentRepositoryTest
+InfinispanIdempotentRepositoryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/processor/idempotent/InfinispanIdempotentRepositoryTest_addsNewKeysToCache_l
+org.apache.camel.component.infinispan.processor.idempotent.InfinispanIdempotentRepository		0.23076923
+org.apache.camel.component.infinispan.InfinispanUtil		0.06122449
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/processor/idempotent/InfinispanIdempotentRepositoryTest_clearCache_e
+org.apache.camel.component.infinispan.processor.idempotent.InfinispanIdempotentRepository		0.26923078
+org.apache.camel.component.infinispan.InfinispanUtil		0.06122449
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/processor/idempotent/InfinispanIdempotentRepositoryTest_containsPreviouslyAddedKey_j
+org.apache.camel.component.infinispan.processor.idempotent.InfinispanIdempotentRepository		0.26923078
+org.apache.camel.component.infinispan.InfinispanUtil		0.06122449
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/processor/idempotent/InfinispanIdempotentRepositoryTest_doesntRemoveMissingKey_1e
+org.apache.camel.component.infinispan.processor.idempotent.InfinispanIdempotentRepository		0.1923077
+org.apache.camel.component.infinispan.InfinispanUtil		0.06122449
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/processor/idempotent/InfinispanIdempotentRepositoryTest_removesAnExistingKey_1f
+org.apache.camel.component.infinispan.processor.idempotent.InfinispanIdempotentRepository		0.30769232
+org.apache.camel.component.infinispan.InfinispanUtil		0.06122449
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/processor/idempotent/InfinispanIdempotentRepositoryTest_skipsAddingSecondTimeTheSameKey_17
+org.apache.camel.component.infinispan.processor.idempotent.InfinispanIdempotentRepository		0.23076923
+org.apache.camel.component.infinispan.InfinispanUtil		0.06122449
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/processor/idempotent/test-InfinispanDefaultIdempotentRepositoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/processor/idempotent/test-InfinispanIdempotentRepositoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/test-InfinispanAsyncConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/test-InfinispanClusterTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/test-InfinispanClusterTestSupport_ClusteredCacheSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/test-InfinispanClusteredConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/test-InfinispanComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/test-InfinispanConfigurationTestIT
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/test-InfinispanConsumerEntryCreatedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/test-InfinispanConsumerEntryRemovedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/test-InfinispanConsumerEntryUpdatedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/test-InfinispanConsumerEntryVisitedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/test-InfinispanLocalConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/test-InfinispanProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/test-InfinispanRemoteProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/test-InfinispanSyncConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-infinispan/target/site/clover/org/apache/camel/component/infinispan/test-InfinispanTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --

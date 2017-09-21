@@ -1,0 +1,64 @@
+./components/camel-coap/target/site/clover/org/apache/camel
+./components/camel-coap/target/site/clover/org/apache/camel/coap/CoAPCORSTest
+CoAPCORSTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-coap/target/site/clover/org/apache/camel/coap/CoAPCORSTest_testEnableCors_6
+org.apache.camel.coap.CamelCoapResource		0.4329897
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-coap/target/site/clover/org/apache/camel/coap/CoAPComponentTest
+CoAPComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-coap/target/site/clover/org/apache/camel/coap/CoAPComponentTest_testCoAP_5
+org.apache.camel.coap.CamelCoapResource		0.4742268
+org.apache.camel.coap.CoAPProducer		0.44285715
+org.apache.camel.coap.CoAPEndpoint		0.18181819
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-coap/target/site/clover/org/apache/camel/coap/CoAPConsumerDefaultPortTest
+CoAPConsumerDefaultPortTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-coap/target/site/clover/org/apache/camel/coap/CoAPConsumerDefaultPortTest_testCoAPConsumerWithDefaultPort_0
+org.apache.camel.coap.CamelCoapResource		0.4742268
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-coap/target/site/clover/org/apache/camel/coap/CoAPPingTest
+CoAPPingTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-coap/target/site/clover/org/apache/camel/coap/CoAPPingTest_testCoAP_1
+org.apache.camel.coap.CoAPProducer		0.4857143
+org.apache.camel.coap.CoAPEndpoint		0.18181819
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-coap/target/site/clover/org/apache/camel/coap/CoAPRestComponentTest
+CoAPRestComponentTest		0.9459459
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-coap/target/site/clover/org/apache/camel/coap/CoAPRestComponentTest_testCoAP_9
+org.apache.camel.coap.CamelCoapResource		0.7113402
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-coap/target/site/clover/org/apache/camel/coap/CoAPRestVerbTest
+CoAPRestVerbTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-coap/target/site/clover/org/apache/camel/coap/CoAPRestVerbTest_testDelete_7
+org.apache.camel.coap.CamelCoapResource		0.63917524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-coap/target/site/clover/org/apache/camel/coap/CoAPRestVerbTest_testGetAll_8
+org.apache.camel.coap.CamelCoapResource		0.46391752
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-coap/target/site/clover/org/apache/camel/coap/CoAPRestVerbTest_testGetOne_2
+org.apache.camel.coap.CamelCoapResource		0.63917524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-coap/target/site/clover/org/apache/camel/coap/CoAPRestVerbTest_testPost_3
+org.apache.camel.coap.CamelCoapResource		0.48453608
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-coap/target/site/clover/org/apache/camel/coap/CoAPRestVerbTest_testPut_4
+org.apache.camel.coap.CamelCoapResource		0.6597938
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-coap/target/site/clover/org/apache/camel/coap/test-CoAPCORSTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-coap/target/site/clover/org/apache/camel/coap/test-CoAPComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-coap/target/site/clover/org/apache/camel/coap/test-CoAPConsumerDefaultPortTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-coap/target/site/clover/org/apache/camel/coap/test-CoAPPingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-coap/target/site/clover/org/apache/camel/coap/test-CoAPRestComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-coap/target/site/clover/org/apache/camel/coap/test-CoAPRestVerbTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

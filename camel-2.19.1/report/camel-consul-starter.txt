@@ -1,0 +1,22 @@
+./platforms/spring-boot/components-starter/camel-consul-starter/target/site/clover/org/apache/camel
+./platforms/spring-boot/components-starter/camel-consul-starter/target/site/clover/org/apache/camel/component/consul/springboot/cloud/ConsulServiceDiscoveryDisabledTest
+ConsulServiceDiscoveryDisabledTest		1.0
+ConsulServiceDiscoveryDisabledTest.TestConfiguration		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-consul-starter/target/site/clover/org/apache/camel/component/consul/springboot/cloud/ConsulServiceDiscoveryDisabledTest_testConfiguration_1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-consul-starter/target/site/clover/org/apache/camel/component/consul/springboot/cloud/ConsulServiceDiscoveryEnabledTest
+ConsulServiceDiscoveryEnabledTest		1.0
+ConsulServiceDiscoveryEnabledTest.TestConfiguration		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-consul-starter/target/site/clover/org/apache/camel/component/consul/springboot/cloud/ConsulServiceDiscoveryEnabledTest_testConfiguration_0
+org.apache.camel.component.consul.springboot.cloud.ConsulServiceDiscoveryAutoConfiguration		0.23529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-consul-starter/target/site/clover/org/apache/camel/component/consul/springboot/cloud/test-ConsulServiceDiscoveryDisabledTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-consul-starter/target/site/clover/org/apache/camel/component/consul/springboot/cloud/test-ConsulServiceDiscoveryDisabledTest_TestConfiguration
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-consul-starter/target/site/clover/org/apache/camel/component/consul/springboot/cloud/test-ConsulServiceDiscoveryEnabledTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-consul-starter/target/site/clover/org/apache/camel/component/consul/springboot/cloud/test-ConsulServiceDiscoveryEnabledTest_TestConfiguration
+-- -- -- -- -- -- -- -- -- -- -- -- --

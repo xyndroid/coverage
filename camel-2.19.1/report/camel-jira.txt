@@ -1,0 +1,39 @@
+./components/camel-jira/target/site/clover/org/apache/camel
+./components/camel-jira/target/site/clover/org/apache/camel/component/jira/CommentConsumerTest
+CommentConsumerTest		1.0
+CommentConsumerTest.NewCommentProcessor		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jira/target/site/clover/org/apache/camel/component/jira/CommentConsumerTest_emptyAtStartupTest_4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jira/target/site/clover/org/apache/camel/component/jira/CommentConsumerTest_multiIssueTest_3
+org.apache.camel.component.jira.consumer.NewCommentConsumer		0.8076923
+org.apache.camel.component.jira.consumer.AbstractJIRAConsumer		0.54545456
+org.apache.camel.component.jira.JIRAEndpoint		0.045454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jira/target/site/clover/org/apache/camel/component/jira/CommentConsumerTest_singleIssueTest_0
+org.apache.camel.component.jira.consumer.NewCommentConsumer		0.7307692
+org.apache.camel.component.jira.consumer.AbstractJIRAConsumer		0.4848485
+org.apache.camel.component.jira.JIRAEndpoint		0.045454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jira/target/site/clover/org/apache/camel/component/jira/IssueConsumerTest
+IssueConsumerTest		1.0
+IssueConsumerTest.NewIssueProcessor		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jira/target/site/clover/org/apache/camel/component/jira/IssueConsumerTest_emptyAtStartupTest_5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jira/target/site/clover/org/apache/camel/component/jira/IssueConsumerTest_multipleIssuesTest_2
+org.apache.camel.component.jira.consumer.NewIssueConsumer		0.6451613
+org.apache.camel.component.jira.consumer.AbstractJIRAConsumer		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jira/target/site/clover/org/apache/camel/component/jira/IssueConsumerTest_singleIssueTest_1
+org.apache.camel.component.jira.consumer.NewIssueConsumer		0.7096774
+org.apache.camel.component.jira.consumer.AbstractJIRAConsumer		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jira/target/site/clover/org/apache/camel/component/jira/test-CommentConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jira/target/site/clover/org/apache/camel/component/jira/test-CommentConsumerTest_NewCommentProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jira/target/site/clover/org/apache/camel/component/jira/test-IssueConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jira/target/site/clover/org/apache/camel/component/jira/test-IssueConsumerTest_NewIssueProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --

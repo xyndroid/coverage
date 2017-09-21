@@ -1,0 +1,49 @@
+./components/camel-lucene/target/site/clover/org/apache/camel
+./components/camel-lucene/target/site/clover/org/apache/camel/component/lucene/LuceneIndexAndQueryProducerTest
+LuceneIndexAndQueryProducerTest		0.61417323
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-lucene/target/site/clover/org/apache/camel/component/lucene/LuceneIndexAndQueryProducerTest_testLuceneIndexProducer_5
+org.apache.camel.component.lucene.LuceneIndexer		0.89285713
+org.apache.camel.component.lucene.LuceneConfiguration		0.6447368
+org.apache.camel.component.lucene.LuceneEndpoint		0.5862069
+org.apache.camel.component.lucene.LuceneIndexProducer		0.57894737
+org.apache.camel.component.lucene.LuceneComponent		0.53333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-lucene/target/site/clover/org/apache/camel/component/lucene/LuceneIndexAndQueryProducerTest_testLucenePhraseQueryProducer_4
+org.apache.camel.component.lucene.LuceneQueryProducer		0.6666667
+org.apache.camel.component.lucene.LuceneConfiguration		0.6447368
+org.apache.camel.component.lucene.LuceneComponent		0.53333336
+org.apache.camel.component.lucene.LuceneEndpoint		0.51724136
+org.apache.camel.component.lucene.LuceneSearcher		0.15789473
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-lucene/target/site/clover/org/apache/camel/component/lucene/LuceneIndexAndQueryProducerTest_testLuceneWildcardQueryProducer_0
+org.apache.camel.component.lucene.LuceneQueryProducer		0.6666667
+org.apache.camel.component.lucene.LuceneConfiguration		0.6447368
+org.apache.camel.component.lucene.LuceneComponent		0.53333336
+org.apache.camel.component.lucene.LuceneEndpoint		0.51724136
+org.apache.camel.component.lucene.LuceneSearcher		0.15789473
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-lucene/target/site/clover/org/apache/camel/component/lucene/LuceneIndexAndQueryProducerTest_testReturnLuceneDocsQueryProducer_1
+org.apache.camel.component.lucene.LuceneQueryProducer		0.6666667
+org.apache.camel.component.lucene.LuceneConfiguration		0.6447368
+org.apache.camel.component.lucene.LuceneComponent		0.53333336
+org.apache.camel.component.lucene.LuceneEndpoint		0.51724136
+org.apache.camel.component.lucene.LuceneSearcher		0.15789473
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-lucene/target/site/clover/org/apache/camel/component/lucene/test-LuceneIndexAndQueryProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-lucene/target/site/clover/org/apache/camel/processor/lucene/LuceneQueryProcessorTest
+LuceneQueryProcessorTest		0.83870965
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-lucene/target/site/clover/org/apache/camel/processor/lucene/LuceneQueryProcessorTest_testPhraseSearcher_2
+org.apache.camel.processor.lucene.LuceneQueryProcessor		0.5681818
+org.apache.camel.component.lucene.LuceneSearcher		0.55263156
+org.apache.camel.processor.lucene.support.Hits		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-lucene/target/site/clover/org/apache/camel/processor/lucene/LuceneQueryProcessorTest_testWildcardSearcher_3
+org.apache.camel.processor.lucene.LuceneQueryProcessor		0.5681818
+org.apache.camel.component.lucene.LuceneSearcher		0.55263156
+org.apache.camel.processor.lucene.support.Hits		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-lucene/target/site/clover/org/apache/camel/processor/lucene/test-LuceneQueryProcessorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

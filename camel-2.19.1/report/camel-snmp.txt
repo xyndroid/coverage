@@ -1,0 +1,47 @@
+./components/camel-snmp/target/site/clover/org/apache/camel
+./components/camel-snmp/target/site/clover/org/apache/camel/component/snmp/PollOIDTest
+PollOIDTest		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snmp/target/site/clover/org/apache/camel/component/snmp/PollOIDTest_testStartRoute_2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snmp/target/site/clover/org/apache/camel/component/snmp/ProducerTest
+ProducerTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snmp/target/site/clover/org/apache/camel/component/snmp/TrapTest
+TrapTest		0.9736842
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snmp/target/site/clover/org/apache/camel/component/snmp/TrapTest_testSendReceiveTraps_1
+org.apache.camel.component.snmp.SnmpMessage		0.5833333
+org.apache.camel.component.snmp.SnmpTrapProducer		0.4814815
+org.apache.camel.component.snmp.SnmpConverters		0.3392857
+org.apache.camel.component.snmp.SnmpTrapConsumer		0.18055555
+org.apache.camel.component.snmp.SnmpEndpoint		0.08196721
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snmp/target/site/clover/org/apache/camel/component/snmp/TrapTest_testStartRoute_5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snmp/target/site/clover/org/apache/camel/component/snmp/UriConfigurationTest
+UriConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snmp/target/site/clover/org/apache/camel/component/snmp/UriConfigurationTest_testOidPollerConfiguration_3
+org.apache.camel.component.snmp.SnmpComponent		1.0
+org.apache.camel.component.snmp.SnmpEndpoint		0.29508197
+org.apache.camel.component.snmp.SnmpConverters		0.16071428
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snmp/target/site/clover/org/apache/camel/component/snmp/UriConfigurationTest_testTrapReceiverConfiguration_0
+org.apache.camel.component.snmp.SnmpComponent		1.0
+org.apache.camel.component.snmp.SnmpEndpoint		0.29508197
+org.apache.camel.component.snmp.SnmpConverters		0.16071428
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snmp/target/site/clover/org/apache/camel/component/snmp/UriConfigurationTest_testTrapReceiverWithoutPortConfiguration_4
+org.apache.camel.component.snmp.SnmpComponent		1.0
+org.apache.camel.component.snmp.SnmpEndpoint		0.31967214
+org.apache.camel.component.snmp.SnmpConverters		0.16071428
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snmp/target/site/clover/org/apache/camel/component/snmp/test-PollOIDTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snmp/target/site/clover/org/apache/camel/component/snmp/test-ProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snmp/target/site/clover/org/apache/camel/component/snmp/test-TrapTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-snmp/target/site/clover/org/apache/camel/component/snmp/test-UriConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

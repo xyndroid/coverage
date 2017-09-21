@@ -1,0 +1,18 @@
+./components/camel-ganglia/target/site/clover/org/apache/camel
+./components/camel-ganglia/target/site/clover/org/apache/camel/component/ganglia/GangliaConfigurationTest
+GangliaConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ganglia/target/site/clover/org/apache/camel/component/ganglia/GangliaConfigurationTest_cloneShouldReturnAnEqualInstance_1
+org.apache.camel.component.ganglia.GangliaConfiguration		0.175
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ganglia/target/site/clover/org/apache/camel/component/ganglia/GangliaConfigurationTest_getterShouldReturnTheConfigureValuesFromURI_3
+org.apache.camel.component.ganglia.GangliaConfiguration		0.2125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ganglia/target/site/clover/org/apache/camel/component/ganglia/GangliaConfigurationTest_getterShouldReturnTheDefaultValues_2
+org.apache.camel.component.ganglia.GangliaConfiguration		0.075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ganglia/target/site/clover/org/apache/camel/component/ganglia/GangliaConfigurationTest_getterShouldReturnTheSetValues_0
+org.apache.camel.component.ganglia.GangliaConfiguration		0.15
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ganglia/target/site/clover/org/apache/camel/component/ganglia/test-GangliaConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

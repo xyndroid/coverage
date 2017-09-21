@@ -1,0 +1,168 @@
+./components/camel-jgroups/target/site/clover/org/apache/camel
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/CamelJGroupsReceiverTest
+CamelJGroupsReceiverTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/CamelJGroupsReceiverTest_shouldHandleProcessingException_3
+org.apache.camel.component.jgroups.JGroupsException		1.0
+org.apache.camel.component.jgroups.CamelJGroupsReceiver		0.3043478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/JGroupsClusterRouteTest
+JGroupsClusterRouteTest		1.0
+JGroupsClusterRouteTest.Builder		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/JGroupsClusterRouteTest_shouldElectSecondNodeAndReturnToFirst_7
+org.apache.camel.component.jgroups.JGroupsConsumer		1.0
+org.apache.camel.component.jgroups.JGroupsFilters		0.625
+org.apache.camel.component.jgroups.JGroupsEndpoint		0.6111111
+org.apache.camel.component.jgroups.JGroupsExpressions		0.5714286
+org.apache.camel.component.jgroups.CamelJGroupsReceiver		0.5652174
+org.apache.camel.component.jgroups.JGroupsComponent		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/JGroupsClusterRouteTest_shouldElectSecondNode_l
+org.apache.camel.component.jgroups.JGroupsConsumer		1.0
+org.apache.camel.component.jgroups.JGroupsFilters		0.625
+org.apache.camel.component.jgroups.JGroupsEndpoint		0.6111111
+org.apache.camel.component.jgroups.CamelJGroupsReceiver		0.5652174
+org.apache.camel.component.jgroups.JGroupsExpressions		0.42857143
+org.apache.camel.component.jgroups.JGroupsComponent		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/JGroupsClusterRouteTest_shouldKeepMaster_8
+org.apache.camel.component.jgroups.JGroupsConsumer		1.0
+org.apache.camel.component.jgroups.JGroupsFilters		0.625
+org.apache.camel.component.jgroups.JGroupsEndpoint		0.6111111
+org.apache.camel.component.jgroups.CamelJGroupsReceiver		0.5652174
+org.apache.camel.component.jgroups.JGroupsExpressions		0.42857143
+org.apache.camel.component.jgroups.JGroupsComponent		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/JGroupsClusterTest
+JGroupsClusterTest		0.76744187
+JGroupsClusterTest.Builder		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/JGroupsClusterTest_shouldElectSecondNodeAndReturnToFirst_e
+org.apache.camel.component.jgroups.JGroupsConsumer		1.0
+org.apache.camel.component.jgroups.JGroupsFilters		0.625
+org.apache.camel.component.jgroups.JGroupsEndpoint		0.6111111
+org.apache.camel.component.jgroups.CamelJGroupsReceiver		0.5652174
+org.apache.camel.component.jgroups.JGroupsComponent		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/JGroupsClusterTest_shouldElectSecondNode_f
+org.apache.camel.component.jgroups.JGroupsConsumer		1.0
+org.apache.camel.component.jgroups.JGroupsFilters		0.625
+org.apache.camel.component.jgroups.JGroupsEndpoint		0.6111111
+org.apache.camel.component.jgroups.CamelJGroupsReceiver		0.5652174
+org.apache.camel.component.jgroups.JGroupsComponent		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/JGroupsClusterTest_shouldElectSecondNode_i
+org.apache.camel.component.jgroups.JGroupsConsumer		1.0
+org.apache.camel.component.jgroups.JGroupsFilters		0.625
+org.apache.camel.component.jgroups.JGroupsEndpoint		0.6111111
+org.apache.camel.component.jgroups.CamelJGroupsReceiver		0.5652174
+org.apache.camel.component.jgroups.JGroupsComponent		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/JGroupsClusterTest_shouldElectSecondNode_m
+org.apache.camel.component.jgroups.JGroupsConsumer		1.0
+org.apache.camel.component.jgroups.JGroupsFilters		0.625
+org.apache.camel.component.jgroups.JGroupsEndpoint		0.6111111
+org.apache.camel.component.jgroups.CamelJGroupsReceiver		0.5652174
+org.apache.camel.component.jgroups.JGroupsComponent		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/JGroupsClusterTest_shouldKeepMaster_h
+org.apache.camel.component.jgroups.JGroupsConsumer		1.0
+org.apache.camel.component.jgroups.JGroupsFilters		0.625
+org.apache.camel.component.jgroups.JGroupsEndpoint		0.6111111
+org.apache.camel.component.jgroups.CamelJGroupsReceiver		0.5652174
+org.apache.camel.component.jgroups.JGroupsComponent		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/JGroupsComponentTest
+JGroupsComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/JGroupsComponentTest_shouldConfigureChannelWithProperties_k
+org.apache.camel.component.jgroups.JGroupsEndpoint		0.027777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/JGroupsComponentTest_shouldConsumeMulticastedMessage_9
+org.apache.camel.component.jgroups.CamelJGroupsReceiver		0.26086956
+org.apache.camel.component.jgroups.JGroupsEndpoint		0.15277778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/JGroupsComponentTest_shouldCreateChannel_b
+org.apache.camel.component.jgroups.JGroupsComponent		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/JGroupsComponentWithChannelPropertiesTest
+JGroupsComponentWithChannelPropertiesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/JGroupsComponentWithChannelPropertiesTest_shouldConfigureChannelWithProperties_c
+org.apache.camel.component.jgroups.JGroupsEndpoint		0.027777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/JGroupsComponentWithChannelPropertiesTest_shouldConsumeMulticastedMessage_4
+org.apache.camel.component.jgroups.CamelJGroupsReceiver		0.4347826
+org.apache.camel.component.jgroups.JGroupsEndpoint		0.18055555
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/JGroupsComponentWithChannelPropertiesTest_shouldCreateChannel_0
+org.apache.camel.component.jgroups.CamelJGroupsReceiver		0.17391305
+org.apache.camel.component.jgroups.JGroupsComponent		0.125
+org.apache.camel.component.jgroups.JGroupsEndpoint		0.027777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/JGroupsConsumerTest
+JGroupsConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/JGroupsConsumerTest_shouldConsumeMulticastedMessage_j
+org.apache.camel.component.jgroups.CamelJGroupsReceiver		0.26086956
+org.apache.camel.component.jgroups.JGroupsEndpoint		0.15277778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/JGroupsConsumerTest_shouldKeepOriginalMessage_d
+org.apache.camel.component.jgroups.CamelJGroupsReceiver		0.26086956
+org.apache.camel.component.jgroups.JGroupsEndpoint		0.15277778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/JGroupsEndpointTest
+JGroupsEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/JGroupsEndpointTest_shouldResolveDefaultChannel_a
+org.apache.camel.component.jgroups.JGroupsEndpoint		0.027777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/JGroupsEndpointTest_shouldSetClusterName_1
+org.apache.camel.component.jgroups.JGroupsEndpoint		0.027777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/JGroupsProducerTest
+JGroupsProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/JGroupsProducerTest_shouldNotSendNullMessage_6
+org.apache.camel.component.jgroups.JGroupsProducer		0.16129032
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/JGroupsProducerTest_shouldReceiveMulticastedBody_g
+org.apache.camel.component.jgroups.JGroupsProducer		0.4516129
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/JGroupsSharedChannelTest
+JGroupsSharedChannelTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/JGroupsSharedChannelTest_testStopStartConsumer_2
+org.apache.camel.component.jgroups.JGroupsConsumer		1.0
+org.apache.camel.component.jgroups.JGroupsProducer		0.4516129
+org.apache.camel.component.jgroups.CamelJGroupsReceiver		0.4347826
+org.apache.camel.component.jgroups.JGroupsEndpoint		0.2777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/JGroupsSharedChannelTest_testStopStartProducer_5
+org.apache.camel.component.jgroups.JGroupsProducer		0.8064516
+org.apache.camel.component.jgroups.JGroupsEndpoint		0.30555555
+org.apache.camel.component.jgroups.CamelJGroupsReceiver		0.2173913
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/test-CamelJGroupsReceiverTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/test-JGroupsClusterRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/test-JGroupsClusterRouteTest_Builder
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/test-JGroupsClusterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/test-JGroupsClusterTest_Builder
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/test-JGroupsComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/test-JGroupsComponentWithChannelPropertiesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/test-JGroupsConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/test-JGroupsEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/test-JGroupsProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jgroups/target/site/clover/org/apache/camel/component/jgroups/test-JGroupsSharedChannelTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

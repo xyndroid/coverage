@@ -1,0 +1,43 @@
+./examples/camel-example-cdi-test/target/site/clover/org/apache/camel
+./examples/camel-example-cdi-test/target/site/clover/org/apache/camel/example/cdi/test/AdviceTest
+AdviceTest		0.0
+AdviceTest.MessageVerifier		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cdi-test/target/site/clover/org/apache/camel/example/cdi/test/AlternativeTest
+AlternativeTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cdi-test/target/site/clover/org/apache/camel/example/cdi/test/ApplicationScopedTest
+ApplicationScopedTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cdi-test/target/site/clover/org/apache/camel/example/cdi/test/CustomContextTest
+CustomContextTest		0.0
+CustomContextTest.CustomCamelContext		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cdi-test/target/site/clover/org/apache/camel/example/cdi/test/OrderTest
+OrderTest		0.0
+OrderTest.TestRoute		0.0
+OrderTest.MessageVerifier		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cdi-test/target/site/clover/org/apache/camel/example/cdi/test/TestRoute
+TestRoute		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cdi-test/target/site/clover/org/apache/camel/example/cdi/test/test-AdviceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cdi-test/target/site/clover/org/apache/camel/example/cdi/test/test-AdviceTest_MessageVerifier
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cdi-test/target/site/clover/org/apache/camel/example/cdi/test/test-AlternativeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cdi-test/target/site/clover/org/apache/camel/example/cdi/test/test-ApplicationScopedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cdi-test/target/site/clover/org/apache/camel/example/cdi/test/test-CustomContextTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cdi-test/target/site/clover/org/apache/camel/example/cdi/test/test-CustomContextTest_CustomCamelContext
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cdi-test/target/site/clover/org/apache/camel/example/cdi/test/test-OrderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cdi-test/target/site/clover/org/apache/camel/example/cdi/test/test-OrderTest_MessageVerifier
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cdi-test/target/site/clover/org/apache/camel/example/cdi/test/test-OrderTest_TestRoute
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cdi-test/target/site/clover/org/apache/camel/example/cdi/test/test-TestRoute
+-- -- -- -- -- -- -- -- -- -- -- -- --

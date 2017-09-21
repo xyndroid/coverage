@@ -1,0 +1,98 @@
+./components/camel-gora/target/site/clover/org/apache/camel
+./components/camel-gora/target/site/clover/org/apache/camel/component/gora/GoraConfigurationTest
+GoraConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gora/target/site/clover/org/apache/camel/component/gora/GoraConfigurationTest_setDataStoreClassShouldThrowExceptionIfEmpty_6
+org.apache.camel.component.gora.GoraConfiguration		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gora/target/site/clover/org/apache/camel/component/gora/GoraConfigurationTest_setDataStoreClassShouldThrowExceptionIfNull_e
+org.apache.camel.component.gora.GoraConfiguration		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gora/target/site/clover/org/apache/camel/component/gora/GoraConfigurationTest_setHadoopConfigurationShouldThrowExceptionIfNull_b
+org.apache.camel.component.gora.GoraConfiguration		0.04597701
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gora/target/site/clover/org/apache/camel/component/gora/GoraConfigurationTest_setKeyClassClassShouldThrowExceptionIfNull_4
+org.apache.camel.component.gora.GoraConfiguration		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gora/target/site/clover/org/apache/camel/component/gora/GoraConfigurationTest_setKeyClassShouldThrowExceptionIfEmpty_g
+org.apache.camel.component.gora.GoraConfiguration		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gora/target/site/clover/org/apache/camel/component/gora/GoraConfigurationTest_setValueClassClassShouldThrowExceptionIfEmpty_1
+org.apache.camel.component.gora.GoraConfiguration		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gora/target/site/clover/org/apache/camel/component/gora/GoraConfigurationTest_setValueClassClassShouldThrowExceptionIfNull_2
+org.apache.camel.component.gora.GoraConfiguration		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gora/target/site/clover/org/apache/camel/component/gora/GoraConsumerTest
+GoraConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gora/target/site/clover/org/apache/camel/component/gora/GoraConsumerTest_consumerInstantiationWithMocksShouldSucceed_j
+org.apache.camel.component.gora.GoraAttribute		1.0
+org.apache.camel.component.gora.utils.GoraUtils		0.34408602
+org.apache.camel.component.gora.GoraConsumer		0.23809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gora/target/site/clover/org/apache/camel/component/gora/GoraProducerTest
+GoraProducerTest		0.98
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gora/target/site/clover/org/apache/camel/component/gora/GoraProducerTest_processShouldThrowExceptionIfOperationIsNull_9
+org.apache.camel.component.gora.GoraProducer		0.15789473
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gora/target/site/clover/org/apache/camel/component/gora/GoraProducerTest_shouldInvokeDastoreCreateSchema_h
+org.apache.camel.component.gora.GoraProducer		0.54385966
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gora/target/site/clover/org/apache/camel/component/gora/GoraProducerTest_shouldInvokeDastoreGetSchemaName_3
+org.apache.camel.component.gora.GoraProducer		0.47368422
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gora/target/site/clover/org/apache/camel/component/gora/GoraProducerTest_shouldInvokeDastoreGet_c
+org.apache.camel.component.gora.GoraProducer		0.33333334
+org.apache.camel.component.gora.utils.GoraUtils		0.043010753
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gora/target/site/clover/org/apache/camel/component/gora/GoraProducerTest_shouldInvokeDastorePut_5
+org.apache.camel.component.gora.GoraProducer		0.2982456
+org.apache.camel.component.gora.utils.GoraUtils		0.06451613
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gora/target/site/clover/org/apache/camel/component/gora/GoraProducerTest_shouldInvokeDastoreSchemaExists_0
+org.apache.camel.component.gora.GoraProducer		0.57894737
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gora/target/site/clover/org/apache/camel/component/gora/GoraProducerTest_shouldInvokeDatastoreDeleteSchema_a
+org.apache.camel.component.gora.GoraProducer		0.50877196
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gora/target/site/clover/org/apache/camel/component/gora/GoraProducerTest_shouldInvokeDatastoreDelete_f
+org.apache.camel.component.gora.GoraOperation		1.0
+org.apache.camel.component.gora.GoraProducer		0.36842105
+org.apache.camel.component.gora.utils.GoraUtils		0.043010753
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gora/target/site/clover/org/apache/camel/component/gora/GoraProducerTest_shouldThrowExceptionIfOperationIsUnknown_d
+org.apache.camel.component.gora.GoraProducer		0.49122807
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gora/target/site/clover/org/apache/camel/component/gora/GoraTestSupport
+GoraTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gora/target/site/clover/org/apache/camel/component/gora/test-GoraConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gora/target/site/clover/org/apache/camel/component/gora/test-GoraConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gora/target/site/clover/org/apache/camel/component/gora/test-GoraProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gora/target/site/clover/org/apache/camel/component/gora/test-GoraTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gora/target/site/clover/org/apache/camel/component/gora/utils/GoraUtilsTest
+GoraUtilsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gora/target/site/clover/org/apache/camel/component/gora/utils/GoraUtilsTest_configurationExistShouldSucceedtIfMethodExist_8
+configurationExistShouldSucceedtIfMethodExist
+org.apache.camel.component.gora.GoraConfiguration		0.04597701
+org.apache.camel.component.gora.utils.GoraUtils		0.021505376
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gora/target/site/clover/org/apache/camel/component/gora/utils/GoraUtilsTest_configurationExistShouldThrowExceptionIfMethodDoesNotExist_i
+configurationExistShouldThrowExceptionIfMethodDoesNotExist
+org.apache.camel.component.gora.GoraConfiguration		0.022988506
+org.apache.camel.component.gora.utils.GoraUtils		0.021505376
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gora/target/site/clover/org/apache/camel/component/gora/utils/GoraUtilsTest_getAttributeAsLongShouldSReturnTheCorrectValue_7
+getAttributeAsLongShouldSReturnTheCorrectValue
+org.apache.camel.component.gora.GoraConfiguration		0.06896552
+org.apache.camel.component.gora.utils.GoraUtils		0.06451613
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-gora/target/site/clover/org/apache/camel/component/gora/utils/test-GoraUtilsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,83 @@
+./components/camel-guava-eventbus/target/site/clover/org/apache/camel
+./components/camel-guava-eventbus/target/site/clover/org/apache/camel/component/guava/eventbus/GuavaEventBusComponentTest
+GuavaEventBusComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guava-eventbus/target/site/clover/org/apache/camel/component/guava/eventbus/GuavaEventBusComponentTest_shouldForwardMessageToCustomComponent_6
+shouldForwardMessageToCustomComponent
+org.apache.camel.component.guava.eventbus.CamelEventHandler		0.54545456
+org.apache.camel.component.guava.eventbus.FilteringCamelEventHandler		0.33333334
+org.apache.camel.component.guava.eventbus.GuavaEventBusEndpoint		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guava-eventbus/target/site/clover/org/apache/camel/component/guava/eventbus/GuavaEventBusConsumerConfigurationTest
+GuavaEventBusConsumerConfigurationTest		0.9285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guava-eventbus/target/site/clover/org/apache/camel/component/guava/eventbus/GuavaEventBusConsumerConfigurationTest_invalidConfiguration_2
+invalidConfiguration
+org.apache.camel.component.guava.eventbus.GuavaEventBusEndpoint		0.475
+org.apache.camel.component.guava.eventbus.GuavaEventBusComponent		0.46666667
+org.apache.camel.component.guava.eventbus.GuavaEventBusConsumer		0.2173913
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guava-eventbus/target/site/clover/org/apache/camel/component/guava/eventbus/GuavaEventBusConsumerTest
+GuavaEventBusConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guava-eventbus/target/site/clover/org/apache/camel/component/guava/eventbus/GuavaEventBusConsumerTest_shouldFilterForwardedMessages_7
+shouldFilterForwardedMessages
+org.apache.camel.component.guava.eventbus.FilteringCamelEventHandler		0.5833333
+org.apache.camel.component.guava.eventbus.GuavaEventBusConsumer.ListenerInterfaceHandler		0.5555556
+org.apache.camel.component.guava.eventbus.CamelEventHandler		0.54545456
+org.apache.camel.component.guava.eventbus.GuavaEventBusEndpoint		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guava-eventbus/target/site/clover/org/apache/camel/component/guava/eventbus/GuavaEventBusConsumerTest_shouldForwardMessageToCamel_0
+shouldForwardMessageToCamel
+org.apache.camel.component.guava.eventbus.FilteringCamelEventHandler		0.5833333
+org.apache.camel.component.guava.eventbus.GuavaEventBusConsumer.ListenerInterfaceHandler		0.5555556
+org.apache.camel.component.guava.eventbus.CamelEventHandler		0.54545456
+org.apache.camel.component.guava.eventbus.GuavaEventBusEndpoint		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guava-eventbus/target/site/clover/org/apache/camel/component/guava/eventbus/GuavaEventBusConsumerTest_shouldForwardMessageToMultipleConsumers_8
+shouldForwardMessageToMultipleConsumers
+org.apache.camel.component.guava.eventbus.FilteringCamelEventHandler		0.5833333
+org.apache.camel.component.guava.eventbus.GuavaEventBusConsumer.ListenerInterfaceHandler		0.5555556
+org.apache.camel.component.guava.eventbus.CamelEventHandler		0.54545456
+org.apache.camel.component.guava.eventbus.GuavaEventBusEndpoint		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guava-eventbus/target/site/clover/org/apache/camel/component/guava/eventbus/GuavaEventBusConsumerTest_shouldSupportMultiEventCustomListener_5
+shouldSupportMultiEventCustomListener
+org.apache.camel.component.guava.eventbus.FilteringCamelEventHandler		0.5833333
+org.apache.camel.component.guava.eventbus.GuavaEventBusConsumer.ListenerInterfaceHandler		0.5555556
+org.apache.camel.component.guava.eventbus.CamelEventHandler		0.54545456
+org.apache.camel.component.guava.eventbus.GuavaEventBusEndpoint		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guava-eventbus/target/site/clover/org/apache/camel/component/guava/eventbus/GuavaEventBusConsumerTest_shouldUseCustomListener_4
+shouldUseCustomListener
+org.apache.camel.component.guava.eventbus.FilteringCamelEventHandler		0.5833333
+org.apache.camel.component.guava.eventbus.GuavaEventBusConsumer.ListenerInterfaceHandler		0.5555556
+org.apache.camel.component.guava.eventbus.CamelEventHandler		0.54545456
+org.apache.camel.component.guava.eventbus.GuavaEventBusEndpoint		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guava-eventbus/target/site/clover/org/apache/camel/component/guava/eventbus/GuavaEventBusConsumingDeadEventsTest
+GuavaEventBusConsumingDeadEventsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guava-eventbus/target/site/clover/org/apache/camel/component/guava/eventbus/GuavaEventBusConsumingDeadEventsTest_shouldForwardMessageToCamel_3
+shouldForwardMessageToCamel
+org.apache.camel.component.guava.eventbus.GuavaEventBusConsumer.ListenerInterfaceHandler		0.5555556
+org.apache.camel.component.guava.eventbus.CamelEventHandler		0.54545456
+org.apache.camel.component.guava.eventbus.GuavaEventBusEndpoint		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guava-eventbus/target/site/clover/org/apache/camel/component/guava/eventbus/GuavaEventBusProducerTest
+GuavaEventBusProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guava-eventbus/target/site/clover/org/apache/camel/component/guava/eventbus/GuavaEventBusProducerTest_shouldReceiveMessageFromCamel_1
+shouldReceiveMessageFromCamel
+org.apache.camel.component.guava.eventbus.GuavaEventBusProducer		0.54545456
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guava-eventbus/target/site/clover/org/apache/camel/component/guava/eventbus/test-GuavaEventBusComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guava-eventbus/target/site/clover/org/apache/camel/component/guava/eventbus/test-GuavaEventBusConsumerConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guava-eventbus/target/site/clover/org/apache/camel/component/guava/eventbus/test-GuavaEventBusConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guava-eventbus/target/site/clover/org/apache/camel/component/guava/eventbus/test-GuavaEventBusConsumingDeadEventsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-guava-eventbus/target/site/clover/org/apache/camel/component/guava/eventbus/test-GuavaEventBusProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

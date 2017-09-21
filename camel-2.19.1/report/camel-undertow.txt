@@ -1,0 +1,1343 @@
+./components/camel-undertow/target/site/clover/org/apache/camel
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/BaseUndertowTest
+BaseUndertowTest		0.8181818
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/DefaultUndertowHttpBindingTest
+DefaultUndertowHttpBindingTest		0.7457627
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/DefaultUndertowHttpBindingTest_readEntireDelayedPayload_26
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.07438017
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/DefaultUndertowHttpBindingTest_readEntireMultiDelayedPayload_2q
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.07438017
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/DefaultUndertowHttpBindingTest_readEntireMultiDelayedWithPausePayload_o
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.07438017
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/MultiPartFormTest
+MultiPartFormTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/MultiPartFormTest_testSendMultiPartFormFromCamelHttpComponnent_1g
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding.FilePartDataSource		0.75
+org.apache.camel.component.undertow.UndertowConsumer		0.38235295
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.3553719
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.16666667
+org.apache.camel.component.undertow.UndertowEndpoint		0.15107913
+org.apache.camel.component.undertow.UndertowHelper		0.04255319
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/MultiPartFormTest_testSendMultiPartForm_2i
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding.FilePartDataSource		0.75
+org.apache.camel.component.undertow.UndertowConsumer		0.36764705
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.3553719
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.16666667
+org.apache.camel.component.undertow.UndertowEndpoint		0.15107913
+org.apache.camel.component.undertow.UndertowHelper		0.04255319
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/PreservePostFormUrlEncodedBodyTest
+PreservePostFormUrlEncodedBodyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/PreservePostFormUrlEncodedBodyTest_testSendToUndertow_g
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.38842976
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.16666667
+org.apache.camel.component.undertow.UndertowEndpoint		0.15107913
+org.apache.camel.component.undertow.UndertowHelper		0.04255319
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowComponentTest
+UndertowComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowComponentTest_testUndertow_l
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.7083333
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.58677685
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowClientCallback		0.5081967
+org.apache.camel.component.undertow.UndertowConsumer		0.42647058
+org.apache.camel.component.undertow.UndertowEndpoint		0.22302158
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.16666667
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowComponentVerifierTest
+UndertowComponentVerifierTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowComponentVerifierTest_testConnectivityError_1u
+org.apache.camel.component.undertow.UndertowComponentVerifier.UndertowClientWrapper		0.78571427
+org.apache.camel.component.undertow.UndertowComponentVerifier		0.3030303
+org.apache.camel.component.undertow.UndertowComponent		0.0099502485
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowComponentVerifierTest_testConnectivity_27
+org.apache.camel.component.undertow.UndertowComponentVerifier.UndertowClientWrapper		1.0
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowComponentVerifier.UndertowClientResponseFuture		0.5
+org.apache.camel.component.undertow.UndertowComponentVerifier		0.42424244
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.24793388
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.16666667
+org.apache.camel.component.undertow.UndertowEndpoint		0.15107913
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+org.apache.camel.component.undertow.UndertowComponent		0.0099502485
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowComponentVerifierTest_testMissingParameters_2a
+org.apache.camel.component.undertow.UndertowComponentVerifier		0.16666667
+org.apache.camel.component.undertow.UndertowComponent		0.0099502485
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowComponentVerifierTest_testParameters_1l
+org.apache.camel.component.undertow.UndertowComponentVerifier		0.16666667
+org.apache.camel.component.undertow.UndertowComponent		0.0099502485
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowConsumerUnregisterTest
+UndertowConsumerUnregisterTest		0.975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowConsumerUnregisterTest_testUnregisterOneOfUndertowConsumers_1k
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.handlers.NotFoundHandler		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.7083333
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.UndertowClientCallback		0.647541
+org.apache.camel.component.undertow.UndertowHostKey		0.60714287
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.59504133
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.HttpHandlerRegistrationInfo		0.5
+org.apache.camel.component.undertow.UndertowConsumer		0.4852941
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.2857143
+org.apache.camel.component.undertow.handlers.CamelPathHandler		0.28125
+org.apache.camel.component.undertow.UndertowEndpoint		0.22302158
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.1969697
+org.apache.camel.component.undertow.DefaultUndertowHost		0.13513513
+org.apache.camel.component.undertow.UndertowComponent		0.024875622
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowConsumerUnregisterTest_testUnregisterUndertowConsumersForPort_2b
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowHostKey		0.8214286
+org.apache.camel.component.undertow.UndertowProducer		0.6944444
+org.apache.camel.component.undertow.HttpHandlerRegistrationInfo		0.5
+org.apache.camel.component.undertow.UndertowHelper		0.4893617
+org.apache.camel.component.undertow.handlers.CamelPathHandler		0.28125
+org.apache.camel.component.undertow.DefaultUndertowHost		0.2027027
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.18181819
+org.apache.camel.component.undertow.UndertowEndpoint		0.16546762
+org.apache.camel.component.undertow.UndertowClientCallback		0.16393442
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.11157025
+org.apache.camel.component.undertow.UndertowConsumer		0.0882353
+org.apache.camel.component.undertow.UndertowComponent		0.024875622
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowEndpointTest
+UndertowEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowEndpointTest_emptyPathShouldBeReplacedWithSlash_24
+org.apache.camel.component.undertow.UndertowEndpoint		0.05035971
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowEndpointTest_nonEmptyPathShouldBeKeptSame_r
+org.apache.camel.component.undertow.UndertowEndpoint		0.043165468
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowError500Test
+UndertowError500Test		0.9
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowError500Test_testHttp500Error_2
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.41322315
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.16666667
+org.apache.camel.component.undertow.UndertowEndpoint		0.15107913
+org.apache.camel.component.undertow.UndertowHelper		0.04255319
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowHeaderTest
+UndertowHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowHeaderTest_testHttpHeadersPost_1z
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.41322315
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.16666667
+org.apache.camel.component.undertow.UndertowEndpoint		0.15107913
+org.apache.camel.component.undertow.UndertowHelper		0.04255319
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowHeaderTest_testHttpHeaders_1q
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.40082645
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.16666667
+org.apache.camel.component.undertow.UndertowEndpoint		0.15107913
+org.apache.camel.component.undertow.UndertowHelper		0.04255319
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowHeaderTest_testHttpPathHeader_1m
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.35123968
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.16666667
+org.apache.camel.component.undertow.UndertowEndpoint		0.15107913
+org.apache.camel.component.undertow.UndertowHelper		0.04255319
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowHttpProducerSessionTest
+UndertowHttpProducerSessionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowHttpProducerSessionTest_testExchangeSession_1c
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.UndertowClientCallback		0.60655737
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.59090906
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowProducer		0.5277778
+org.apache.camel.component.undertow.UndertowConsumer		0.42647058
+org.apache.camel.component.undertow.UndertowEndpoint		0.17985612
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.16666667
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowHttpProducerSessionTest_testInstanceSession_c
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.UndertowClientCallback		0.60655737
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.59090906
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowProducer		0.5277778
+org.apache.camel.component.undertow.UndertowConsumer		0.42647058
+org.apache.camel.component.undertow.UndertowEndpoint		0.17985612
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.16666667
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowHttpProducerSessionTest_testNoSession_u
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.59090906
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowClientCallback		0.5081967
+org.apache.camel.component.undertow.UndertowProducer		0.5
+org.apache.camel.component.undertow.UndertowConsumer		0.42647058
+org.apache.camel.component.undertow.UndertowEndpoint		0.17985612
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.16666667
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowHttpProducerTest
+UndertowHttpProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowHttpProducerTest_testHttpSimpleHeaderAndBody_2p
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.41322315
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.16666667
+org.apache.camel.component.undertow.UndertowEndpoint		0.15107913
+org.apache.camel.component.undertow.UndertowHelper		0.04255319
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowHttpProducerTest_testHttpSimpleHeader_1y
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.38842976
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.16666667
+org.apache.camel.component.undertow.UndertowEndpoint		0.15107913
+org.apache.camel.component.undertow.UndertowHelper		0.04255319
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowHttpProducerTest_testHttpSimple_5
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.35123968
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.16666667
+org.apache.camel.component.undertow.UndertowEndpoint		0.15107913
+org.apache.camel.component.undertow.UndertowHelper		0.04255319
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowHttpsSpringTest
+UndertowHttpsSpringTest		0.85714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowHttpsSpringTest_testSSLConsumer_2g
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.7222222
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.UndertowClientCallback		0.59016395
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.58677685
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowEndpoint		0.4820144
+org.apache.camel.component.undertow.UndertowConsumer		0.42647058
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.16666667
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowMethodRestricTest
+UndertowMethodRestricTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowMethodRestricTest_testImproperHttpMethod_y
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.23809524
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowMethodRestricTest_testProperHttpMethod_1o
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.36363637
+org.apache.camel.component.undertow.UndertowEndpoint		0.15107913
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.UndertowHelper		0.04255319
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowPrefixMatchingTest
+UndertowPrefixMatchingTest		0.9411765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowPrefixMatchingTest_failsOnPrefixPath_6
+org.apache.camel.component.undertow.handlers.NotFoundHandler		1.0
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowPrefixMatchingTest_passOnExactPath_1x
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.41322315
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.16666667
+org.apache.camel.component.undertow.UndertowEndpoint		0.15107913
+org.apache.camel.component.undertow.UndertowHelper		0.04255319
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowPrefixMatchingTest_passOnPrefixPath_29
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.41322315
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.16666667
+org.apache.camel.component.undertow.UndertowEndpoint		0.15107913
+org.apache.camel.component.undertow.UndertowHelper		0.04255319
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowProducerLeakTest
+UndertowProducerLeakTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowProducerLeakTest_testLeak_14
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.58677685
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowClientCallback		0.5081967
+org.apache.camel.component.undertow.UndertowProducer		0.5
+org.apache.camel.component.undertow.UndertowConsumer		0.42647058
+org.apache.camel.component.undertow.UndertowEndpoint		0.17985612
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.16666667
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowProducerTest
+UndertowProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowProducerTest_testHttpSimpleHeaderAndBody_1v
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.7083333
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.59090906
+org.apache.camel.component.undertow.UndertowHelper		0.5106383
+org.apache.camel.component.undertow.UndertowClientCallback		0.5081967
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.UndertowEndpoint		0.22302158
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.16666667
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowProducerTest_testHttpSimpleHeader_2l
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.6944444
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.59090906
+org.apache.camel.component.undertow.UndertowHelper		0.5106383
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.UndertowClientCallback		0.3852459
+org.apache.camel.component.undertow.UndertowEndpoint		0.22302158
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.16666667
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowProducerTest_testHttpSimpleWithExchangeHttpQuery_0
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.6944444
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.6404959
+org.apache.camel.component.undertow.UndertowHelper		0.5106383
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.UndertowClientCallback		0.3852459
+org.apache.camel.component.undertow.UndertowEndpoint		0.22302158
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.16666667
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowProducerTest_testHttpSimpleWithQuery_10
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.6944444
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.6363636
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowEndpoint		0.47482014
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.UndertowClientCallback		0.3852459
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.16666667
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowProducerTest_testHttpSimple_1n
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.6944444
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.58677685
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.UndertowClientCallback		0.3852459
+org.apache.camel.component.undertow.UndertowEndpoint		0.22302158
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.16666667
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowProducerThrowExceptionOnFailureTest
+UndertowProducerThrowExceptionOnFailureTest		0.9166667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowProducerThrowExceptionOnFailureTest_testFailWithException2_9
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.7083333
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.607438
+org.apache.camel.component.undertow.UndertowClientCallback		0.59836066
+org.apache.camel.component.undertow.UndertowHelper		0.5106383
+org.apache.camel.component.undertow.UndertowEndpoint		0.48920864
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.33333334
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowProducerThrowExceptionOnFailureTest_testFailWithException_19
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.6944444
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.58677685
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowEndpoint		0.48920864
+org.apache.camel.component.undertow.UndertowClientCallback		0.47540984
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.16666667
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowProducerThrowExceptionOnFailureTest_testFailWithoutException_i
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.6944444
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.58677685
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowEndpoint		0.48920864
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.UndertowClientCallback		0.3852459
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.16666667
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowSharedPortTest
+UndertowSharedPortTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowSharedPortTest_testFirstPath_20
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.7083333
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.58677685
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowClientCallback		0.5081967
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.UndertowEndpoint		0.22302158
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.16666667
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/UndertowSharedPortTest_testSecondPath_2m
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.7083333
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.58677685
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowClientCallback		0.5081967
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.UndertowEndpoint		0.22302158
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.16666667
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/cloud/UndertowServiceCallRouteTest
+UndertowServiceCallRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/cloud/UndertowServiceCallRouteTest_testCustomCall_1t
+testCustomCall
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.7083333
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.59090906
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowClientCallback		0.5081967
+org.apache.camel.component.undertow.cloud.UndertowServiceExpression		0.45454547
+org.apache.camel.component.undertow.UndertowConsumer		0.42647058
+org.apache.camel.component.undertow.UndertowEndpoint		0.22302158
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.16666667
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/cloud/UndertowServiceCallRouteTest_testDefaultSchema_1p
+testDefaultSchema
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/cloud/test-UndertowServiceCallRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestApiUndertowTest
+RestApiUndertowTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestApiUndertowTest_testApi_1b
+testApi
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.6944444
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.60330576
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowEndpoint		0.47482014
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.UndertowClientCallback		0.3852459
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.33333334
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestGetTest
+RestGetTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestGetTest_testUndertowProducerGet_8
+testUndertowProducerGet
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.8181818
+org.apache.camel.component.undertow.UndertowProducer		0.6944444
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.58264464
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowEndpoint		0.47482014
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.UndertowClientCallback		0.3852459
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler		0.06666667
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowComponentVerifierTest
+RestUndertowComponentVerifierTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowComponentVerifierTest_testConnectivity_3
+testConnectivity
+org.apache.camel.component.undertow.UndertowComponentVerifier.UndertowClientWrapper		1.0
+org.apache.camel.component.undertow.UndertowComponentVerifier		0.54545456
+org.apache.camel.component.undertow.UndertowComponentVerifier.UndertowClientResponseFuture		0.5
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.33333334
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.21900827
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.UndertowEndpoint		0.09352518
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+org.apache.camel.component.undertow.UndertowComponent		0.0099502485
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowComponentVerifierTest_testMissingRestParameters_s
+testMissingRestParameters
+org.apache.camel.component.undertow.UndertowComponentVerifier		0.27272728
+org.apache.camel.component.undertow.UndertowComponent		0.0099502485
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowComponentVerifierTest_testParameters_2f
+testParameters
+org.apache.camel.component.undertow.UndertowComponentVerifier		0.27272728
+org.apache.camel.component.undertow.UndertowComponent		0.0099502485
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowComponentVerifierTest_testWrongComponentParameters_2e
+testWrongComponentParameters
+org.apache.camel.component.undertow.UndertowComponentVerifier		0.27272728
+org.apache.camel.component.undertow.UndertowComponent		0.0099502485
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpBindingModeAutoWithJsonTest
+RestUndertowHttpBindingModeAutoWithJsonTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpBindingModeAutoWithJsonTest_testBindingMode_11
+testBindingMode
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.7083333
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.60330576
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowClientCallback		0.5081967
+org.apache.camel.component.undertow.UndertowEndpoint		0.47482014
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.33333334
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpBindingModeAutoWithXmlTest
+RestUndertowHttpBindingModeAutoWithXmlTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpBindingModeAutoWithXmlTest_testBindingMode_1a
+testBindingMode
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.7083333
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.60330576
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowClientCallback		0.5081967
+org.apache.camel.component.undertow.UndertowEndpoint		0.47482014
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.33333334
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpBindingModeJsonTest
+RestUndertowHttpBindingModeJsonTest		0.9583333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpBindingModeJsonTest_testBindingModeWrong_w
+testBindingModeWrong
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.4338843
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.33333334
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.UndertowEndpoint		0.09352518
+org.apache.camel.component.undertow.UndertowHelper		0.04255319
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpBindingModeJsonTest_testBindingMode_7
+testBindingMode
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.7083333
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.60330576
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowClientCallback		0.5081967
+org.apache.camel.component.undertow.UndertowEndpoint		0.47482014
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.33333334
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpBindingModeJsonWithContractTest
+RestUndertowHttpBindingModeJsonWithContractTest		1.0
+RestUndertowHttpBindingModeJsonWithContractTest.MyTypeConverters		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpBindingModeJsonWithContractTest_testBindingModeJsonWithContract_1w
+testBindingModeJsonWithContract
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.7083333
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.60330576
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowClientCallback		0.5081967
+org.apache.camel.component.undertow.UndertowEndpoint		0.47482014
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.33333334
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpBindingModeOffWithContractTest
+RestUndertowHttpBindingModeOffWithContractTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpBindingModeOffWithContractTest_testBindingModeOffWithContract_x
+testBindingModeOffWithContract
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.7083333
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.62396693
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowClientCallback		0.5081967
+org.apache.camel.component.undertow.UndertowEndpoint		0.47482014
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.33333334
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpBindingModeXmlTest
+RestUndertowHttpBindingModeXmlTest		0.9583333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpBindingModeXmlTest_testBindingModeWrong_e
+testBindingModeWrong
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.4338843
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.33333334
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.UndertowEndpoint		0.09352518
+org.apache.camel.component.undertow.UndertowHelper		0.04255319
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpBindingModeXmlTest_testBindingMode_z
+testBindingMode
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.7083333
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.60330576
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowClientCallback		0.5081967
+org.apache.camel.component.undertow.UndertowEndpoint		0.47482014
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.33333334
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpContextPathConfigurationTest
+RestUndertowHttpContextPathConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpContextPathConfigurationTest_testProducerGet_1
+testProducerGet
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.8484849
+org.apache.camel.component.undertow.UndertowProducer		0.6944444
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.59504133
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowEndpoint		0.47482014
+org.apache.camel.component.undertow.UndertowConsumer		0.42647058
+org.apache.camel.component.undertow.UndertowClientCallback		0.3852459
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler		0.06666667
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpContextPathMatchGetTest
+RestUndertowHttpContextPathMatchGetTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpContextPathMatchGetTest_testProducerGet_16
+testProducerGet
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.8484849
+org.apache.camel.component.undertow.UndertowProducer		0.6944444
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.59504133
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowEndpoint		0.47482014
+org.apache.camel.component.undertow.UndertowConsumer		0.42647058
+org.apache.camel.component.undertow.UndertowClientCallback		0.3852459
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler		0.06666667
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpGetCorsTest
+RestUndertowHttpGetCorsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpGetCorsTest_testCorsGet_n
+testCorsGet
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.8181818
+org.apache.camel.component.undertow.UndertowConsumer		0.4852941
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.3677686
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.UndertowEndpoint		0.107913665
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler		0.06666667
+org.apache.camel.component.undertow.UndertowHelper		0.04255319
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpGetCorsTest_testCorsPut_1h
+testCorsPut
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.8181818
+org.apache.camel.component.undertow.UndertowConsumer		0.4852941
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.41322315
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.UndertowEndpoint		0.107913665
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler		0.06666667
+org.apache.camel.component.undertow.UndertowHelper		0.04255319
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpGetTest
+RestUndertowHttpGetTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpGetTest_testProducerGet_2j
+testProducerGet
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.6944444
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.58264464
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowEndpoint		0.47482014
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.UndertowClientCallback		0.3852459
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler		0.06666667
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpGetWildcardsTest
+RestUndertowHttpGetWildcardsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpGetWildcardsTest_testProducerGet_v
+testProducerGet
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.6944444
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.58264464
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowEndpoint		0.47482014
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.UndertowClientCallback		0.3852459
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler		0.06666667
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpGetWildcardsTest_testServletProducerGetWildcards_m
+testServletProducerGetWildcards
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.6944444
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.58264464
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowEndpoint		0.47482014
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.UndertowClientCallback		0.3852459
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler		0.06666667
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpMultipleVerbsTest
+RestUndertowHttpMultipleVerbsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpMultipleVerbsTest_testProducerGetPut_25
+testProducerGetPut
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.8181818
+org.apache.camel.component.undertow.UndertowProducer		0.7222222
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.6528926
+org.apache.camel.component.undertow.UndertowClientCallback		0.5163934
+org.apache.camel.component.undertow.UndertowHelper		0.5106383
+org.apache.camel.component.undertow.UndertowConsumer		0.4852941
+org.apache.camel.component.undertow.UndertowEndpoint		0.47482014
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler		0.06666667
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpOptionsTest
+RestUndertowHttpOptionsTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpPojoInOutTest
+RestUndertowHttpPojoInOutTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpPojoInOutTest_testUndertowGetRequest_21
+testUndertowGetRequest
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.6944444
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.60330576
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowEndpoint		0.47482014
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.UndertowClientCallback		0.3852459
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.33333334
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpPojoInOutTest_testUndertowPojoInOut_4
+testUndertowPojoInOut
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.7083333
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.60330576
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowClientCallback		0.5081967
+org.apache.camel.component.undertow.UndertowEndpoint		0.47482014
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.33333334
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpPojoTypeTest
+RestUndertowHttpPojoTypeTest		0.92261904
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpPojoTypeTest_testUndertowPojoTypeGetUsers_28
+testUndertowPojoTypeGetUsers
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.6944444
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.59504133
+org.apache.camel.component.undertow.UndertowHelper		0.5106383
+org.apache.camel.component.undertow.UndertowEndpoint		0.47482014
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.UndertowClientCallback		0.3852459
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.33333334
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler.Wrapper		0.33333334
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler		0.06666667
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpPojoTypeTest_testUndertowPojoTypePutUserFail_1e
+testUndertowPojoTypePutUserFail
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.8181818
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.7107438
+org.apache.camel.component.undertow.UndertowProducer		0.7083333
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.UndertowClientCallback		0.59836066
+org.apache.camel.component.undertow.UndertowHelper		0.5106383
+org.apache.camel.component.undertow.UndertowEndpoint		0.47482014
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler		0.06666667
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpPojoTypeTest_testUndertowPojoTypePutUser_1j
+testUndertowPojoTypePutUser
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.8181818
+org.apache.camel.component.undertow.UndertowProducer		0.7083333
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.6694215
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.UndertowHelper		0.5106383
+org.apache.camel.component.undertow.UndertowClientCallback		0.5081967
+org.apache.camel.component.undertow.UndertowEndpoint		0.47482014
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler		0.06666667
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpPojoTypeTest_testUndertowPojoTypePutUsersFail_f
+testUndertowPojoTypePutUsersFail
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.7083333
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.6652893
+org.apache.camel.component.undertow.UndertowClientCallback		0.59836066
+org.apache.camel.component.undertow.UndertowHelper		0.5106383
+org.apache.camel.component.undertow.UndertowEndpoint		0.47482014
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.33333334
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler.Wrapper		0.33333334
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler		0.06666667
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpPojoTypeTest_testUndertowPojoTypePutUsersListFail_1r
+testUndertowPojoTypePutUsersListFail
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.7083333
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.6652893
+org.apache.camel.component.undertow.UndertowClientCallback		0.59836066
+org.apache.camel.component.undertow.UndertowHelper		0.5106383
+org.apache.camel.component.undertow.UndertowEndpoint		0.47482014
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.33333334
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpPojoTypeTest_testUndertowPojoTypePutUsersList_17
+testUndertowPojoTypePutUsersList
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.7083333
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.62396693
+org.apache.camel.component.undertow.UndertowHelper		0.5106383
+org.apache.camel.component.undertow.UndertowClientCallback		0.5081967
+org.apache.camel.component.undertow.UndertowEndpoint		0.47482014
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.33333334
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpPojoTypeTest_testUndertowPojoTypePutUsers_j
+testUndertowPojoTypePutUsers
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.7083333
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.62396693
+org.apache.camel.component.undertow.UndertowHelper		0.5106383
+org.apache.camel.component.undertow.UndertowClientCallback		0.5081967
+org.apache.camel.component.undertow.UndertowEndpoint		0.47482014
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.33333334
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler.Wrapper		0.33333334
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler		0.06666667
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpPojoTypeTest_testUndertowPojoTypeValidateModel_18
+testUndertowPojoTypeValidateModel
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpPostJsonJaxbPojoTest
+RestUndertowHttpPostJsonJaxbPojoTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpPostJsonJaxbPojoTest_testPostJaxbPojo_1i
+testPostJaxbPojo
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.7083333
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.60330576
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowClientCallback		0.5081967
+org.apache.camel.component.undertow.UndertowEndpoint		0.47482014
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.33333334
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpPostJsonPojoListTest
+RestUndertowHttpPostJsonPojoListTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpPostJsonPojoListTest_testPostPojoList_q
+testPostPojoList
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.7083333
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.60330576
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowClientCallback		0.5081967
+org.apache.camel.component.undertow.UndertowEndpoint		0.47482014
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.33333334
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpPostJsonPojoTest
+RestUndertowHttpPostJsonPojoTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpPostJsonPojoTest_testPostPojo_a
+testPostPojo
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.7083333
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.60330576
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowClientCallback		0.5081967
+org.apache.camel.component.undertow.UndertowEndpoint		0.47482014
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.33333334
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpPostXmlJaxbPojoTest
+RestUndertowHttpPostXmlJaxbPojoTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpPostXmlJaxbPojoTest_testPostJaxbPojoNoContentType_2h
+testPostJaxbPojoNoContentType
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.7083333
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.60330576
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowClientCallback		0.5081967
+org.apache.camel.component.undertow.UndertowEndpoint		0.47482014
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.33333334
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowHttpPostXmlJaxbPojoTest_testPostJaxbPojo_15
+testPostJaxbPojo
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.7083333
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.62396693
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowClientCallback		0.5081967
+org.apache.camel.component.undertow.UndertowEndpoint		0.47482014
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.33333334
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowProducerGetTest
+RestUndertowProducerGetTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowProducerGetTest_testUndertowProducerGet_23
+testUndertowProducerGet
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.8181818
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.UndertowHelper		0.59574467
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.58677685
+org.apache.camel.component.undertow.UndertowRestHeaderFilterStrategy		0.53846157
+org.apache.camel.component.undertow.UndertowProducer		0.4861111
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.UndertowClientCallback		0.3852459
+org.apache.camel.component.undertow.UndertowEndpoint		0.17985612
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler		0.06666667
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowProducerGetUriParameterTest
+RestUndertowProducerGetUriParameterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowProducerGetUriParameterTest_testUndertowProducerGet_2k
+testUndertowProducerGet
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.UndertowRestHeaderFilterStrategy		0.65384614
+org.apache.camel.component.undertow.UndertowHelper		0.59574467
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.59090906
+org.apache.camel.component.undertow.UndertowProducer		0.4861111
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.UndertowClientCallback		0.3852459
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.33333334
+org.apache.camel.component.undertow.UndertowEndpoint		0.17985612
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowProducerPutTest
+RestUndertowProducerPutTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowProducerPutTest_testUndertowProducerPut_13
+testUndertowProducerPut
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.8181818
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.6363636
+org.apache.camel.component.undertow.UndertowHelper		0.59574467
+org.apache.camel.component.undertow.UndertowRestHeaderFilterStrategy		0.53846157
+org.apache.camel.component.undertow.UndertowClientCallback		0.5081967
+org.apache.camel.component.undertow.UndertowProducer		0.5
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.UndertowEndpoint		0.17985612
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler		0.06666667
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowVerbEnableCorsTest
+RestUndertowVerbEnableCorsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowVerbEnableCorsTest_testDelete_1f
+testDelete
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.8181818
+org.apache.camel.component.undertow.UndertowConsumer		0.42647058
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.3677686
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.UndertowEndpoint		0.09352518
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler		0.06666667
+org.apache.camel.component.undertow.UndertowHelper		0.04255319
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowVerbEnableCorsTest_testGetAll_2d
+testGetAll
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.33333334
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler.Wrapper		0.33333334
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.32231405
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.UndertowEndpoint		0.09352518
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler		0.06666667
+org.apache.camel.component.undertow.UndertowHelper		0.04255319
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowVerbEnableCorsTest_testGetOne_1s
+testGetOne
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.8181818
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.3677686
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.UndertowEndpoint		0.09352518
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler		0.06666667
+org.apache.camel.component.undertow.UndertowHelper		0.04255319
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowVerbEnableCorsTest_testPost_2n
+testPost
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.38429752
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.33333334
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler.Wrapper		0.33333334
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.UndertowEndpoint		0.09352518
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler		0.06666667
+org.apache.camel.component.undertow.UndertowHelper		0.04255319
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowVerbEnableCorsTest_testPut_h
+testPut
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.8181818
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.42975205
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.UndertowEndpoint		0.09352518
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler		0.06666667
+org.apache.camel.component.undertow.UndertowHelper		0.04255319
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowVerbTest
+RestUndertowVerbTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowVerbTest_testDelete_22
+testDelete
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.8181818
+org.apache.camel.component.undertow.UndertowConsumer		0.42647058
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.3677686
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.UndertowEndpoint		0.09352518
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler		0.06666667
+org.apache.camel.component.undertow.UndertowHelper		0.04255319
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowVerbTest_testGetAll_12
+testGetAll
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.33333334
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler.Wrapper		0.33333334
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.32231405
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.UndertowEndpoint		0.09352518
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler		0.06666667
+org.apache.camel.component.undertow.UndertowHelper		0.04255319
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowVerbTest_testGetOne_t
+testGetOne
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.8181818
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.3677686
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.UndertowEndpoint		0.09352518
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler		0.06666667
+org.apache.camel.component.undertow.UndertowHelper		0.04255319
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowVerbTest_testPost_2c
+testPost
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.38429752
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.33333334
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler.Wrapper		0.33333334
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.UndertowEndpoint		0.09352518
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler		0.06666667
+org.apache.camel.component.undertow.UndertowHelper		0.04255319
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/RestUndertowVerbTest_testPut_k
+testPut
+org.apache.camel.component.undertow.RestUndertowHttpBinding		0.8181818
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.42975205
+org.apache.camel.component.undertow.UndertowConsumer		0.4117647
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.11904762
+org.apache.camel.component.undertow.UndertowEndpoint		0.09352518
+org.apache.camel.component.undertow.handlers.CamelPathTemplateHandler		0.06666667
+org.apache.camel.component.undertow.UndertowHelper		0.04255319
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/UndertowHttpEmptyQueryParameterTest
+UndertowHttpEmptyQueryParameterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/UndertowHttpEmptyQueryParameterTest_testEmpty_p
+testEmpty
+org.apache.camel.component.undertow.UndertowHeaderFilterStrategy		1.0
+org.apache.camel.component.undertow.UndertowProducer		0.6944444
+org.apache.camel.component.undertow.UndertowClientCallback.ErrorHandlingClientCallback		0.6666667
+org.apache.camel.component.undertow.DefaultUndertowHttpBinding		0.6363636
+org.apache.camel.component.undertow.UndertowHelper		0.5319149
+org.apache.camel.component.undertow.UndertowEndpoint		0.47482014
+org.apache.camel.component.undertow.UndertowConsumer		0.42647058
+org.apache.camel.component.undertow.UndertowClientCallback		0.3852459
+org.apache.camel.component.undertow.handlers.CamelMethodHandler		0.16666667
+org.apache.camel.component.undertow.UndertowComponent		0.13930348
+org.apache.camel.component.undertow.handlers.CamelRootHandler		0.015151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/test-RestApiUndertowTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/test-RestGetTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/test-RestUndertowComponentVerifierTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/test-RestUndertowHttpBindingModeAutoWithJsonTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/test-RestUndertowHttpBindingModeAutoWithXmlTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/test-RestUndertowHttpBindingModeJsonTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/test-RestUndertowHttpBindingModeJsonWithContractTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/test-RestUndertowHttpBindingModeJsonWithContractTest_MyTypeConverters
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/test-RestUndertowHttpBindingModeOffWithContractTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/test-RestUndertowHttpBindingModeXmlTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/test-RestUndertowHttpContextPathConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/test-RestUndertowHttpContextPathMatchGetTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/test-RestUndertowHttpGetCorsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/test-RestUndertowHttpGetTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/test-RestUndertowHttpGetWildcardsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/test-RestUndertowHttpMultipleVerbsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/test-RestUndertowHttpOptionsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/test-RestUndertowHttpPojoInOutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/test-RestUndertowHttpPojoTypeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/test-RestUndertowHttpPostJsonJaxbPojoTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/test-RestUndertowHttpPostJsonPojoListTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/test-RestUndertowHttpPostJsonPojoTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/test-RestUndertowHttpPostXmlJaxbPojoTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/test-RestUndertowProducerGetTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/test-RestUndertowProducerGetUriParameterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/test-RestUndertowProducerPutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/test-RestUndertowVerbEnableCorsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/test-RestUndertowVerbTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/rest/test-UndertowHttpEmptyQueryParameterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/test-BaseUndertowTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/test-DefaultUndertowHttpBindingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/test-MultiPartFormTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/test-PreservePostFormUrlEncodedBodyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/test-UndertowComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/test-UndertowComponentVerifierTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/test-UndertowConsumerUnregisterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/test-UndertowEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/test-UndertowError500Test
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/test-UndertowHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/test-UndertowHttpProducerSessionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/test-UndertowHttpProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/test-UndertowHttpsSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/test-UndertowMethodRestricTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/test-UndertowPrefixMatchingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/test-UndertowProducerLeakTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/test-UndertowProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/test-UndertowProducerThrowExceptionOnFailureTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-undertow/target/site/clover/org/apache/camel/component/undertow/test-UndertowSharedPortTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

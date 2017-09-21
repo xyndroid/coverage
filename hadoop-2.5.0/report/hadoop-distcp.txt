@@ -1,0 +1,1493 @@
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestCopyListing
+TestCopyListing		0.8810811
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestCopyListing_testBuildListingForSingleFile_q
+org.apache.hadoop.tools.SimpleCopyListing		0.5534591
+org.apache.hadoop.tools.CopyListing		0.50666666
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+org.apache.hadoop.tools.util.DistCpUtils		0.095
+org.apache.hadoop.tools.DistCpOptions		0.082417585
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestCopyListing_testBuildListing_3d
+org.apache.hadoop.tools.CopyListing.DuplicateFileException		1.0
+org.apache.hadoop.tools.CopyListing.InvalidInputException		1.0
+org.apache.hadoop.tools.SimpleCopyListing		0.5849057
+org.apache.hadoop.tools.CopyListing		0.5466667
+org.apache.hadoop.tools.DistCpOptions		0.24725275
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+org.apache.hadoop.tools.DistCpOptionSwitch		0.2
+org.apache.hadoop.tools.util.DistCpUtils		0.095
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestCopyListing_testDuplicates_1y
+org.apache.hadoop.tools.CopyListing.DuplicateFileException		1.0
+org.apache.hadoop.tools.CopyListing		0.70666665
+org.apache.hadoop.tools.GlobbedCopyListing		0.6923077
+org.apache.hadoop.tools.SimpleCopyListing		0.5157233
+org.apache.hadoop.tools.DistCpOptions		0.2802198
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+org.apache.hadoop.tools.util.DistCpUtils		0.095
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestCopyListing_testFailOnCloseError_17
+org.apache.hadoop.tools.SimpleCopyListing		0.33333334
+org.apache.hadoop.tools.DistCpOptions		0.071428575
+org.apache.hadoop.tools.CopyListing		0.06666667
+org.apache.hadoop.tools.util.DistCpUtils		0.06
+org.apache.hadoop.tools.CopyListingFileStatus		0.02020202
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestCopyListing_testMultipleSrcToFile_2b
+org.apache.hadoop.tools.CopyListing.InvalidInputException		1.0
+org.apache.hadoop.tools.SimpleCopyListing		0.16981132
+org.apache.hadoop.tools.DistCpOptions		0.06043956
+org.apache.hadoop.tools.CopyListing		0.026666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestCopyListing_testSkipCopy_2p
+org.apache.hadoop.tools.SimpleCopyListing		0.572327
+org.apache.hadoop.tools.CopyListing		0.50666666
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+org.apache.hadoop.tools.DistCpOptions		0.104395606
+org.apache.hadoop.tools.util.DistCpUtils		0.095
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestDistCpSystem
+TestDistCpSystem		0.98876405
+TestDistCpSystem.FileEntry		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestDistCpSystem_testPreserveUseNonEmptyDir_n
+org.apache.hadoop.tools.mapred.RetriableDirectoryCreateCommand		0.8888889
+org.apache.hadoop.tools.DistCpOptions.FileAttribute		0.85714287
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.DistCpOptionSwitch		0.73333335
+org.apache.hadoop.tools.SimpleCopyListing		0.6981132
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.6956522
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.OptionsParser		0.49019608
+org.apache.hadoop.tools.DistCp		0.4744898
+org.apache.hadoop.tools.util.DistCpUtils		0.445
+org.apache.hadoop.tools.mapred.CopyCommitter		0.43125
+org.apache.hadoop.tools.DistCpOptions		0.4065934
+org.apache.hadoop.tools.mapred.CopyMapper		0.39306358
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestDistCpSystem_testPreserveUserEmptyDir_d
+org.apache.hadoop.tools.mapred.RetriableDirectoryCreateCommand		0.8888889
+org.apache.hadoop.tools.DistCpOptions.FileAttribute		0.85714287
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.6956522
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.SimpleCopyListing		0.5031447
+org.apache.hadoop.tools.DistCp		0.4744898
+org.apache.hadoop.tools.OptionsParser		0.45751634
+org.apache.hadoop.tools.mapred.CopyCommitter		0.41875
+org.apache.hadoop.tools.DistCpOptions		0.4065934
+org.apache.hadoop.tools.DistCpOptionSwitch		0.4
+org.apache.hadoop.tools.util.DistCpUtils		0.35
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.mapred.CopyMapper		0.28901735
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestDistCpSystem_testPreserveUserNonEmptyDirWithUpdate_2
+org.apache.hadoop.tools.mapred.RetriableDirectoryCreateCommand		0.8888889
+org.apache.hadoop.tools.DistCpOptions.FileAttribute		0.85714287
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.SimpleCopyListing		0.7044025
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.6956522
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.DistCpOptions		0.5494506
+org.apache.hadoop.tools.DistCp		0.4744898
+org.apache.hadoop.tools.OptionsParser		0.4640523
+org.apache.hadoop.tools.util.DistCpUtils		0.445
+org.apache.hadoop.tools.mapred.CopyCommitter		0.43125
+org.apache.hadoop.tools.DistCpOptionSwitch		0.4
+org.apache.hadoop.tools.mapred.CopyMapper		0.39306358
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestDistCpSystem_testPreserveUserSingleFile_e
+org.apache.hadoop.tools.DistCpOptions.FileAttribute		0.85714287
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76666665
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.6956522
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.SimpleCopyListing		0.5283019
+org.apache.hadoop.tools.DistCp		0.4744898
+org.apache.hadoop.tools.OptionsParser		0.45751634
+org.apache.hadoop.tools.util.DistCpUtils		0.445
+org.apache.hadoop.tools.DistCpOptionSwitch		0.4
+org.apache.hadoop.tools.DistCpOptions		0.3846154
+org.apache.hadoop.tools.mapred.CopyCommitter		0.38125
+org.apache.hadoop.tools.mapred.CopyMapper		0.35260117
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestDistCpViewFs
+TestDistCpViewFs		0.8535565
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestDistCpViewFs_testGlobTargetMissingMultiLevel_2h
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.mapred.RetriableDirectoryCreateCommand		0.8888889
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.79710144
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.SimpleCopyListing		0.572327
+org.apache.hadoop.tools.DistCpOptions		0.53296703
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.DistCpUtils		0.4
+org.apache.hadoop.tools.mapred.CopyMapper		0.39306358
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestDistCpViewFs_testGlobTargetMissingSingleLevel_9
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.mapred.RetriableDirectoryCreateCommand		0.8888889
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.79710144
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.SimpleCopyListing		0.6918239
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.DistCpOptions		0.53296703
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.DistCpUtils		0.4
+org.apache.hadoop.tools.mapred.CopyMapper		0.39306358
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestDistCpViewFs_testMultiDirTargetMissing_35
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.mapred.RetriableDirectoryCreateCommand		0.8888889
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.79710144
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.SimpleCopyListing		0.5786164
+org.apache.hadoop.tools.DistCpOptions		0.53296703
+org.apache.hadoop.tools.DistCpOptionSwitch		0.46666667
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.DistCpUtils		0.4
+org.apache.hadoop.tools.mapred.CopyMapper		0.39306358
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestDistCpViewFs_testMultiDirTargetPresent_29
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.mapred.RetriableDirectoryCreateCommand		0.8888889
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.79710144
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.SimpleCopyListing		0.5786164
+org.apache.hadoop.tools.DistCpOptions		0.53296703
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.DistCpUtils		0.4
+org.apache.hadoop.tools.mapred.CopyMapper		0.39306358
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestDistCpViewFs_testMultiFileTargetMissing_x
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.6956522
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.DistCpOptions		0.53296703
+org.apache.hadoop.tools.SimpleCopyListing		0.5157233
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.DistCpUtils		0.4
+org.apache.hadoop.tools.mapred.CopyMapper		0.35260117
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestDistCpViewFs_testMultiFileTargetPresent_o
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.6956522
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.DistCpOptions		0.53296703
+org.apache.hadoop.tools.SimpleCopyListing		0.5157233
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.DistCpUtils		0.4
+org.apache.hadoop.tools.mapred.CopyMapper		0.35260117
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestDistCpViewFs_testSingleDirTargetMissing_26
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.mapred.RetriableDirectoryCreateCommand		0.8888889
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.79710144
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.SimpleCopyListing		0.591195
+org.apache.hadoop.tools.DistCpOptions		0.53296703
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.mapred.CopyMapper		0.28901735
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+org.apache.hadoop.tools.util.DistCpUtils		0.21
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestDistCpViewFs_testSingleDirTargetPresent_30
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.mapred.RetriableDirectoryCreateCommand		0.8888889
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.79710144
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.SimpleCopyListing		0.5660377
+org.apache.hadoop.tools.DistCpOptions		0.53296703
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.mapred.CopyMapper		0.28901735
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+org.apache.hadoop.tools.util.DistCpUtils		0.21
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestDistCpViewFs_testSingleFileMissingTarget_1
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.6956522
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.SimpleCopyListing		0.5157233
+org.apache.hadoop.tools.DistCpOptions		0.510989
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.DistCpUtils		0.4
+org.apache.hadoop.tools.mapred.CopyMapper		0.35260117
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestDistCpViewFs_testSingleFileTargetDir_1r
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.6956522
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.SimpleCopyListing		0.5157233
+org.apache.hadoop.tools.DistCpOptions		0.510989
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.DistCpUtils		0.4
+org.apache.hadoop.tools.mapred.CopyMapper		0.35260117
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestDistCpViewFs_testSingleFileTargetFile_y
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.6956522
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.SimpleCopyListing		0.5534591
+org.apache.hadoop.tools.DistCpOptions		0.510989
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.DistCpUtils		0.4
+org.apache.hadoop.tools.mapred.CopyMapper		0.3583815
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestDistCpViewFs_testUpdateGlobTargetMissingMultiLevel_2f
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.6956522
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.SimpleCopyListing		0.5849057
+org.apache.hadoop.tools.DistCpOptions		0.521978
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.DistCpUtils		0.4
+org.apache.hadoop.tools.mapred.CopyMapper		0.35260117
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestDistCpViewFs_testUpdateGlobTargetMissingSingleLevel_2y
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.mapred.RetriableDirectoryCreateCommand		0.8888889
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.79710144
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.SimpleCopyListing		0.7044025
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.DistCpOptions		0.521978
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.DistCpUtils		0.4
+org.apache.hadoop.tools.mapred.CopyMapper		0.39306358
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestDistCpViewFs_testUpdateMultiDirTargetMissing_23
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.mapred.RetriableDirectoryCreateCommand		0.8888889
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.79710144
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.SimpleCopyListing		0.591195
+org.apache.hadoop.tools.DistCpOptions		0.521978
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.DistCpUtils		0.4
+org.apache.hadoop.tools.mapred.CopyMapper		0.39306358
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestDistCpViewFs_testUpdateMultiDirTargetPresent_18
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.mapred.RetriableDirectoryCreateCommand		0.8888889
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.79710144
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.SimpleCopyListing		0.591195
+org.apache.hadoop.tools.DistCpOptions		0.521978
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.DistCpUtils		0.4
+org.apache.hadoop.tools.mapred.CopyMapper		0.39306358
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestDistCpViewFs_testUpdateSingleDirTargetPresent_36
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.mapred.RetriableDirectoryCreateCommand		0.8888889
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.6956522
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.SimpleCopyListing		0.5786164
+org.apache.hadoop.tools.DistCpOptions		0.521978
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.mapred.CopyMapper		0.28901735
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+org.apache.hadoop.tools.util.DistCpUtils		0.21
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestDistCpWithAcls
+TestDistCpWithAcls		0.984375
+TestDistCpWithAcls.StubFileSystem		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestDistCpWithAcls_testAclsNotEnabled_3h
+org.apache.hadoop.tools.CopyListing.AclsNotSupportedException		1.0
+org.apache.hadoop.tools.DistCpOptions.FileAttribute		0.85714287
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.OptionsParser		0.45751634
+org.apache.hadoop.tools.DistCp		0.34183672
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+org.apache.hadoop.tools.DistCpOptions		0.0989011
+org.apache.hadoop.tools.util.DistCpUtils		0.035
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestDistCpWithAcls_testAclsNotImplemented_1h
+org.apache.hadoop.tools.CopyListing.AclsNotSupportedException		1.0
+org.apache.hadoop.tools.DistCpOptions.FileAttribute		0.85714287
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.OptionsParser		0.45751634
+org.apache.hadoop.tools.DistCp		0.34183672
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+org.apache.hadoop.tools.DistCpOptions		0.0989011
+org.apache.hadoop.tools.util.DistCpUtils		0.035
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestDistCpWithAcls_testPreserveAcls_1a
+org.apache.hadoop.tools.mapred.RetriableDirectoryCreateCommand		0.8888889
+org.apache.hadoop.tools.DistCpOptions.FileAttribute		0.85714287
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.CopyListing		0.76
+org.apache.hadoop.tools.DistCpOptionSwitch		0.73333335
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.6956522
+org.apache.hadoop.tools.SimpleCopyListing		0.6918239
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.66
+org.apache.hadoop.tools.DistCp		0.50510204
+org.apache.hadoop.tools.OptionsParser		0.49019608
+org.apache.hadoop.tools.util.DistCpUtils		0.44
+org.apache.hadoop.tools.mapred.CopyCommitter		0.43125
+org.apache.hadoop.tools.DistCpOptions		0.4065934
+org.apache.hadoop.tools.CopyListingFileStatus		0.4040404
+org.apache.hadoop.tools.mapred.CopyMapper		0.39306358
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.3030303
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestDistCpWithXAttrs
+TestDistCpWithXAttrs		0.96666664
+TestDistCpWithXAttrs.StubFileSystem		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestDistCpWithXAttrs_testPreserveXAttrs_38
+org.apache.hadoop.tools.mapred.RetriableDirectoryCreateCommand		0.8888889
+org.apache.hadoop.tools.DistCpOptions.FileAttribute		0.85714287
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.CopyListing		0.76
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.6956522
+org.apache.hadoop.tools.SimpleCopyListing		0.6918239
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.66
+org.apache.hadoop.tools.CopyListingFileStatus		0.57575756
+org.apache.hadoop.tools.DistCp		0.50510204
+org.apache.hadoop.tools.OptionsParser		0.45751634
+org.apache.hadoop.tools.mapred.CopyCommitter		0.43125
+org.apache.hadoop.tools.util.DistCpUtils		0.43
+org.apache.hadoop.tools.DistCpOptions		0.4065934
+org.apache.hadoop.tools.DistCpOptionSwitch		0.4
+org.apache.hadoop.tools.mapred.CopyMapper		0.39306358
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.3030303
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestDistCpWithXAttrs_testXAttrsNotEnabled_2w
+org.apache.hadoop.tools.CopyListing.XAttrsNotSupportedException		1.0
+org.apache.hadoop.tools.DistCpOptions.FileAttribute		0.85714287
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.OptionsParser		0.49019608
+org.apache.hadoop.tools.DistCpOptionSwitch		0.46666667
+org.apache.hadoop.tools.DistCp		0.35204083
+org.apache.hadoop.tools.DistCpOptions		0.0989011
+org.apache.hadoop.tools.util.DistCpUtils		0.035
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestDistCpWithXAttrs_testXAttrsNotImplemented_1w
+org.apache.hadoop.tools.CopyListing.XAttrsNotSupportedException		1.0
+org.apache.hadoop.tools.DistCpOptions.FileAttribute		0.85714287
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.OptionsParser		0.45751634
+org.apache.hadoop.tools.DistCp		0.35204083
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+org.apache.hadoop.tools.DistCpOptions		0.0989011
+org.apache.hadoop.tools.util.DistCpUtils		0.035
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestExternalCall
+TestExternalCall		0.95652175
+TestExternalCall.ExitException		1.0
+TestExternalCall.NoExitSecurityManager		0.8
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestExternalCall_testCleanupTestViaToolRunner_1f
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.6956522
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.SimpleCopyListing		0.5534591
+org.apache.hadoop.tools.DistCp		0.53571427
+org.apache.hadoop.tools.util.DistCpUtils		0.4
+org.apache.hadoop.tools.DistCpOptionSwitch		0.4
+org.apache.hadoop.tools.OptionsParser		0.37908497
+org.apache.hadoop.tools.DistCpOptions		0.36813188
+org.apache.hadoop.tools.mapred.CopyMapper		0.3583815
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.DistCp.Cleanup		0.25
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestExternalCall_testCleanup_i
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.DistCpOptionSwitch		0.73333335
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.6956522
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.SimpleCopyListing		0.5534591
+org.apache.hadoop.tools.DistCp		0.5
+org.apache.hadoop.tools.OptionsParser		0.4117647
+org.apache.hadoop.tools.util.DistCpUtils		0.4
+org.apache.hadoop.tools.DistCpOptions		0.36813188
+org.apache.hadoop.tools.mapred.CopyMapper		0.3583815
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestFileBasedCopyListing
+TestFileBasedCopyListing		0.89419794
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestFileBasedCopyListing_testGlobTargetDirMultiLevel_1b
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.SimpleCopyListing		0.591195
+org.apache.hadoop.tools.CopyListing		0.50666666
+org.apache.hadoop.tools.DistCpOptions		0.43406594
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+org.apache.hadoop.tools.util.DistCpUtils		0.105
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestFileBasedCopyListing_testGlobTargetMissingMultiLevel_3
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.SimpleCopyListing		0.591195
+org.apache.hadoop.tools.CopyListing		0.50666666
+org.apache.hadoop.tools.DistCpOptions		0.43406594
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+org.apache.hadoop.tools.util.DistCpUtils		0.105
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestFileBasedCopyListing_testGlobTargetMissingSingleLevel_1l
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.SimpleCopyListing		0.7106918
+org.apache.hadoop.tools.CopyListing		0.50666666
+org.apache.hadoop.tools.DistCpOptions		0.43406594
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+org.apache.hadoop.tools.util.DistCpUtils		0.105
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestFileBasedCopyListing_testMultiDirTargetMissing_34
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.SimpleCopyListing		0.5974843
+org.apache.hadoop.tools.CopyListing		0.50666666
+org.apache.hadoop.tools.DistCpOptions		0.43406594
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+org.apache.hadoop.tools.DistCpOptionSwitch		0.2
+org.apache.hadoop.tools.util.DistCpUtils		0.105
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestFileBasedCopyListing_testMultiDirTargetPresent_1o
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.SimpleCopyListing		0.5974843
+org.apache.hadoop.tools.CopyListing		0.50666666
+org.apache.hadoop.tools.DistCpOptions		0.43406594
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+org.apache.hadoop.tools.util.DistCpUtils		0.105
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestFileBasedCopyListing_testMultiFileTargetMissing_m
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.SimpleCopyListing		0.5220126
+org.apache.hadoop.tools.CopyListing		0.50666666
+org.apache.hadoop.tools.DistCpOptions		0.44505495
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+org.apache.hadoop.tools.util.DistCpUtils		0.105
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestFileBasedCopyListing_testMultiFileTargetPresent_2m
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.SimpleCopyListing		0.5220126
+org.apache.hadoop.tools.CopyListing		0.50666666
+org.apache.hadoop.tools.DistCpOptions		0.44505495
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+org.apache.hadoop.tools.util.DistCpUtils		0.105
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestFileBasedCopyListing_testSingleDirTargetMissing_1i
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.SimpleCopyListing		0.5974843
+org.apache.hadoop.tools.CopyListing		0.50666666
+org.apache.hadoop.tools.DistCpOptions		0.44505495
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+org.apache.hadoop.tools.util.DistCpUtils		0.105
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestFileBasedCopyListing_testSingleDirTargetPresent_7
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.SimpleCopyListing		0.5849057
+org.apache.hadoop.tools.CopyListing		0.50666666
+org.apache.hadoop.tools.DistCpOptions		0.43406594
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+org.apache.hadoop.tools.util.DistCpUtils		0.105
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestFileBasedCopyListing_testSingleFileMissingTarget_20
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.SimpleCopyListing		0.5220126
+org.apache.hadoop.tools.CopyListing		0.50666666
+org.apache.hadoop.tools.DistCpOptions		0.42307693
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+org.apache.hadoop.tools.util.DistCpUtils		0.105
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestFileBasedCopyListing_testSingleFileTargetDir_39
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.SimpleCopyListing		0.5220126
+org.apache.hadoop.tools.CopyListing		0.50666666
+org.apache.hadoop.tools.DistCpOptions		0.42307693
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+org.apache.hadoop.tools.util.DistCpUtils		0.105
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestFileBasedCopyListing_testSingleFileTargetFile_2i
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.SimpleCopyListing		0.5597484
+org.apache.hadoop.tools.CopyListing		0.50666666
+org.apache.hadoop.tools.DistCpOptions		0.42307693
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+org.apache.hadoop.tools.util.DistCpUtils		0.105
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestFileBasedCopyListing_testUpdateGlobTargetDirMultiLevel_1v
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.SimpleCopyListing		0.591195
+org.apache.hadoop.tools.CopyListing		0.50666666
+org.apache.hadoop.tools.DistCpOptions		0.43406594
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+org.apache.hadoop.tools.util.DistCpUtils		0.105
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestFileBasedCopyListing_testUpdateMultiDirTargetPresent_8
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.SimpleCopyListing		0.5974843
+org.apache.hadoop.tools.CopyListing		0.50666666
+org.apache.hadoop.tools.DistCpOptions		0.43406594
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+org.apache.hadoop.tools.util.DistCpUtils		0.105
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestFileBasedCopyListing_testUpdateSingleDirTargetPresent_r
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.SimpleCopyListing		0.5849057
+org.apache.hadoop.tools.CopyListing		0.50666666
+org.apache.hadoop.tools.DistCpOptions		0.43406594
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+org.apache.hadoop.tools.util.DistCpUtils		0.105
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestGlobbedCopyListing
+TestGlobbedCopyListing		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestGlobbedCopyListing_testRun_1m
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.SimpleCopyListing		0.7169811
+org.apache.hadoop.tools.CopyListing		0.50666666
+org.apache.hadoop.tools.DistCpOptions		0.2912088
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+org.apache.hadoop.tools.util.DistCpUtils		0.105
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestIntegration
+TestIntegration		0.8519737
+TestIntegration.CustomCopyListing		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestIntegration_testCleanup_3b
+org.apache.hadoop.tools.DistCp		0.40816328
+org.apache.hadoop.tools.GlobbedCopyListing		0.3846154
+org.apache.hadoop.tools.CopyListing		0.26666668
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.DistCpOptions		0.18131869
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.11111111
+org.apache.hadoop.tools.util.DistCpUtils		0.04
+org.apache.hadoop.tools.SimpleCopyListing		0.012578616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestIntegration_testCustomCopyListing_2s
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.6956522
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.64
+org.apache.hadoop.tools.SimpleCopyListing		0.572327
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.DistCpOptions		0.4065934
+org.apache.hadoop.tools.util.DistCpUtils		0.39
+org.apache.hadoop.tools.mapred.CopyMapper		0.35260117
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestIntegration_testDeleteMissingInDestination_1z
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.6956522
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.DistCpOptions		0.5989011
+org.apache.hadoop.tools.SimpleCopyListing		0.5786164
+org.apache.hadoop.tools.mapred.CopyCommitter		0.53125
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.mapred.CopyMapper		0.39884394
+org.apache.hadoop.tools.util.DistCpUtils		0.34
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestIntegration_testGlobTargetMissingMultiLevel_37
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.mapred.RetriableDirectoryCreateCommand		0.8888889
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.79710144
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.DistCpOptions		0.5824176
+org.apache.hadoop.tools.SimpleCopyListing		0.572327
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.DistCpUtils		0.4
+org.apache.hadoop.tools.mapred.CopyMapper		0.39306358
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestIntegration_testGlobTargetMissingSingleLevel_2j
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.mapred.RetriableDirectoryCreateCommand		0.8888889
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.79710144
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.SimpleCopyListing		0.6918239
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.DistCpOptions		0.5824176
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.DistCpUtils		0.4
+org.apache.hadoop.tools.mapred.CopyMapper		0.39306358
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestIntegration_testMultiDirTargetMissing_1s
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.mapred.RetriableDirectoryCreateCommand		0.8888889
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.79710144
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.DistCpOptions		0.5824176
+org.apache.hadoop.tools.SimpleCopyListing		0.5786164
+org.apache.hadoop.tools.DistCpOptionSwitch		0.46666667
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.DistCpUtils		0.4
+org.apache.hadoop.tools.mapred.CopyMapper		0.39306358
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestIntegration_testMultiDirTargetPresent_1d
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.mapred.RetriableDirectoryCreateCommand		0.8888889
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.79710144
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.DistCpOptions		0.5824176
+org.apache.hadoop.tools.SimpleCopyListing		0.5786164
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.DistCpUtils		0.4
+org.apache.hadoop.tools.mapred.CopyMapper		0.39306358
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestIntegration_testMultiFileTargetMissing_1t
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.6956522
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.DistCpOptions		0.5824176
+org.apache.hadoop.tools.SimpleCopyListing		0.5157233
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.DistCpUtils		0.4
+org.apache.hadoop.tools.mapred.CopyMapper		0.35260117
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestIntegration_testMultiFileTargetPresent_2d
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.6956522
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.DistCpOptions		0.5824176
+org.apache.hadoop.tools.SimpleCopyListing		0.5157233
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.DistCpUtils		0.4
+org.apache.hadoop.tools.mapred.CopyMapper		0.35260117
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestIntegration_testOverwrite_0
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.6956522
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.DistCpOptions		0.5824176
+org.apache.hadoop.tools.SimpleCopyListing		0.572327
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.DistCpUtils		0.4
+org.apache.hadoop.tools.mapred.CopyMapper		0.35260117
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestIntegration_testSingleDirTargetMissing_5
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.mapred.RetriableDirectoryCreateCommand		0.8888889
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.79710144
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.SimpleCopyListing		0.591195
+org.apache.hadoop.tools.DistCpOptions		0.5824176
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.mapred.CopyMapper		0.28901735
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+org.apache.hadoop.tools.util.DistCpUtils		0.21
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestIntegration_testSingleDirTargetPresent_l
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.mapred.RetriableDirectoryCreateCommand		0.8888889
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.79710144
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.DistCpOptions		0.5824176
+org.apache.hadoop.tools.SimpleCopyListing		0.5660377
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.mapred.CopyMapper		0.28901735
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+org.apache.hadoop.tools.util.DistCpUtils		0.21
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestIntegration_testSingleFileMissingTarget_10
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.6956522
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.DistCpOptions		0.5604396
+org.apache.hadoop.tools.SimpleCopyListing		0.5157233
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.DistCpUtils		0.4
+org.apache.hadoop.tools.mapred.CopyMapper		0.35260117
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestIntegration_testSingleFileTargetDir_33
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.6956522
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.DistCpOptions		0.5604396
+org.apache.hadoop.tools.SimpleCopyListing		0.5157233
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.DistCpUtils		0.4
+org.apache.hadoop.tools.mapred.CopyMapper		0.35260117
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestIntegration_testSingleFileTargetFile_c
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.6956522
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.DistCpOptions		0.5604396
+org.apache.hadoop.tools.SimpleCopyListing		0.5534591
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.DistCpUtils		0.4
+org.apache.hadoop.tools.mapred.CopyMapper		0.3583815
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestIntegration_testUpdateGlobTargetMissingMultiLevel_25
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.6956522
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.SimpleCopyListing		0.5849057
+org.apache.hadoop.tools.DistCpOptions		0.5714286
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.DistCpUtils		0.4
+org.apache.hadoop.tools.mapred.CopyMapper		0.35260117
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestIntegration_testUpdateGlobTargetMissingSingleLevel_2n
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.mapred.RetriableDirectoryCreateCommand		0.8888889
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.79710144
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.SimpleCopyListing		0.7044025
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.DistCpOptions		0.5714286
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.DistCpUtils		0.4
+org.apache.hadoop.tools.mapred.CopyMapper		0.39306358
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestIntegration_testUpdateMultiDirTargetMissing_2z
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.mapred.RetriableDirectoryCreateCommand		0.8888889
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.79710144
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.SimpleCopyListing		0.591195
+org.apache.hadoop.tools.DistCpOptions		0.5714286
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.DistCpUtils		0.4
+org.apache.hadoop.tools.mapred.CopyMapper		0.39306358
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestIntegration_testUpdateMultiDirTargetPresent_16
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.mapred.RetriableDirectoryCreateCommand		0.8888889
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.79710144
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.SimpleCopyListing		0.591195
+org.apache.hadoop.tools.DistCpOptions		0.5714286
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.DistCpUtils		0.4
+org.apache.hadoop.tools.mapred.CopyMapper		0.39306358
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestIntegration_testUpdateSingleDirTargetPresent_2a
+org.apache.hadoop.tools.FileBasedCopyListing		1.0
+org.apache.hadoop.tools.mapred.RetriableDirectoryCreateCommand		0.8888889
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.6956522
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.6666667
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.SimpleCopyListing		0.5786164
+org.apache.hadoop.tools.DistCpOptions		0.5714286
+org.apache.hadoop.tools.DistCp		0.41836736
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.mapred.CopyMapper		0.28901735
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+org.apache.hadoop.tools.util.DistCpUtils		0.21
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestOptionsParser
+TestOptionsParser		0.94650203
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestOptionsParser_testAppendOption_1e
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.OptionsParser		0.4117647
+org.apache.hadoop.tools.DistCpOptionSwitch		0.4
+org.apache.hadoop.tools.DistCpOptions		0.3021978
+org.apache.hadoop.tools.util.DistCpUtils		0.025
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestOptionsParser_testCopyStrategy_21
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.OptionsParser		0.4117647
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+org.apache.hadoop.tools.DistCpOptions		0.04945055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestOptionsParser_testInvalidArgs_2u
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+org.apache.hadoop.tools.OptionsParser		0.039215688
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestOptionsParser_testLogPath_1n
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.OptionsParser		0.4248366
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+org.apache.hadoop.tools.DistCpOptions		0.04945055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestOptionsParser_testMissingSourceInfo_19
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+org.apache.hadoop.tools.OptionsParser		0.12418301
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestOptionsParser_testMissingTarget_27
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+org.apache.hadoop.tools.OptionsParser		0.078431375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestOptionsParser_testOptionsAppendToConf_2x
+org.apache.hadoop.tools.DistCpOptions.FileAttribute		0.85714287
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.OptionsParser		0.5555556
+org.apache.hadoop.tools.DistCpOptionSwitch		0.4
+org.apache.hadoop.tools.DistCpOptions		0.32967034
+org.apache.hadoop.tools.util.DistCpUtils		0.035
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestOptionsParser_testOptionsSwitchAddToConf_15
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestOptionsParser_testParseAtomicCommit_2r
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.OptionsParser		0.40522876
+org.apache.hadoop.tools.DistCpOptions		0.22527473
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestOptionsParser_testParseBlokcing_u
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.OptionsParser		0.39215687
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+org.apache.hadoop.tools.DistCpOptions		0.04945055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestOptionsParser_testParseDeleteMissing_2o
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.OptionsParser		0.43137255
+org.apache.hadoop.tools.DistCpOptions		0.2967033
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestOptionsParser_testParseIgnoreFailure_a
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.OptionsParser		0.39215687
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+org.apache.hadoop.tools.DistCpOptions		0.04945055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestOptionsParser_testParseMaps_b
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.OptionsParser		0.44444445
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+org.apache.hadoop.tools.DistCpOptions		0.04945055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestOptionsParser_testParseNonPositiveBandwidth_3c
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.OptionsParser		0.35947713
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+org.apache.hadoop.tools.DistCpOptions		0.027472528
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestOptionsParser_testParseOverwrite_3i
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.OptionsParser		0.40522876
+org.apache.hadoop.tools.DistCpOptions		0.23076923
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestOptionsParser_testParseSSLConf_2q
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.OptionsParser		0.39215687
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+org.apache.hadoop.tools.DistCpOptions		0.04945055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestOptionsParser_testParseSkipCRC_s
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.OptionsParser		0.40522876
+org.apache.hadoop.tools.DistCpOptions		0.23076923
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestOptionsParser_testParseSyncFolders_11
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.OptionsParser		0.39215687
+org.apache.hadoop.tools.DistCpOptions		0.1923077
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestOptionsParser_testParseWorkPath_3l
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.OptionsParser		0.47058824
+org.apache.hadoop.tools.DistCpOptions		0.21428572
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestOptionsParser_testParseZeroBandwidth_2v
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.OptionsParser		0.35947713
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+org.apache.hadoop.tools.DistCpOptions		0.027472528
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestOptionsParser_testParsebandwidth_2t
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.OptionsParser		0.4509804
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+org.apache.hadoop.tools.DistCpOptions		0.054945055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestOptionsParser_testPreserve_1g
+org.apache.hadoop.tools.DistCpOptions.FileAttribute		1.0
+org.apache.hadoop.tools.OptionsParser.CustomParser		1.0
+org.apache.hadoop.tools.OptionsParser		0.49019608
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+org.apache.hadoop.tools.DistCpOptions		0.115384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestOptionsParser_testSourceListingAndSourcePath_32
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.OptionsParser		0.13725491
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestOptionsParser_testSourceListing_2k
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.DistCpOptionSwitch		0.46666667
+org.apache.hadoop.tools.OptionsParser		0.43137255
+org.apache.hadoop.tools.DistCpOptions		0.03846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestOptionsParser_testTargetPath_1x
+org.apache.hadoop.tools.OptionsParser.CustomParser		0.7777778
+org.apache.hadoop.tools.OptionsParser		0.39869282
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+org.apache.hadoop.tools.DistCpOptions		0.03846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/TestOptionsParser_testToString_3e
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+org.apache.hadoop.tools.DistCpOptions		0.03846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/TestCopyCommitter
+TestCopyCommitter		0.84765625
+TestCopyCommitter.NullInputFormat		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/TestCopyCommitter_testAtomicCommitExistingFinal_t
+org.apache.hadoop.tools.mapred.CopyCommitter		0.29375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/TestCopyCommitter_testAtomicCommitMissingFinal_28
+org.apache.hadoop.tools.mapred.CopyCommitter		0.35
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/TestCopyCommitter_testDeleteMissingFlatInterleavedFiles_h
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.SimpleCopyListing		0.591195
+org.apache.hadoop.tools.DistCpOptions		0.53846157
+org.apache.hadoop.tools.mapred.CopyCommitter		0.53125
+org.apache.hadoop.tools.CopyListing		0.50666666
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+org.apache.hadoop.tools.util.DistCpUtils		0.13
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/TestCopyCommitter_testDeleteMissing_6
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.SimpleCopyListing		0.7421384
+org.apache.hadoop.tools.DistCpOptions		0.53846157
+org.apache.hadoop.tools.mapred.CopyCommitter		0.53125
+org.apache.hadoop.tools.CopyListing		0.50666666
+org.apache.hadoop.tools.DistCpOptionSwitch		0.46666667
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+org.apache.hadoop.tools.util.DistCpUtils		0.13
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/TestCopyCommitter_testNoCommitAction_1p
+org.apache.hadoop.tools.mapred.CopyCommitter		0.2375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/TestCopyCommitter_testPreserveStatus_1c
+org.apache.hadoop.tools.DistCpOptions.FileAttribute		0.85714287
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.SimpleCopyListing		0.7106918
+org.apache.hadoop.tools.CopyListing		0.50666666
+org.apache.hadoop.tools.mapred.CopyCommitter		0.43125
+org.apache.hadoop.tools.DistCpOptions		0.36263737
+org.apache.hadoop.tools.util.DistCpUtils		0.29
+org.apache.hadoop.tools.DistCpOptionSwitch		0.26666668
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/TestCopyMapper
+TestCopyMapper		0.909427
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/TestCopyMapper_testCopyFailOnBlockSizeDifference_13
+org.apache.hadoop.tools.mapred.RetriableDirectoryCreateCommand		0.8888889
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.75333333
+org.apache.hadoop.tools.util.RetriableCommand		0.75
+org.apache.hadoop.tools.mapred.CopyMapper		0.41618496
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.util.DistCpUtils		0.225
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+org.apache.hadoop.tools.CopyListingFileStatus		0.02020202
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/TestCopyMapper_testCopyReadableFiles_24
+org.apache.hadoop.tools.DistCpOptions.FileAttribute		0.85714287
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.mapred.CopyMapper		0.35260117
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.util.DistCpUtils		0.28
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+org.apache.hadoop.tools.CopyListingFileStatus		0.02020202
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/TestCopyMapper_testCopyWithAppend_1q
+org.apache.hadoop.tools.mapred.RetriableDirectoryCreateCommand		0.8888889
+org.apache.hadoop.tools.DistCpOptions.FileAttribute		0.85714287
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.82
+org.apache.hadoop.tools.mapred.CopyMapper		0.5780347
+org.apache.hadoop.tools.util.ThrottledInputStream		0.4848485
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.DistCpUtils		0.33
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+org.apache.hadoop.tools.CopyListingFileStatus		0.02020202
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/TestCopyMapper_testCopyWithDifferentChecksumType_2g
+org.apache.hadoop.tools.mapred.RetriableDirectoryCreateCommand		0.8888889
+org.apache.hadoop.tools.DistCpOptions.FileAttribute		0.85714287
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.mapred.CopyMapper		0.5086705
+org.apache.hadoop.tools.util.DistCpUtils		0.345
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+org.apache.hadoop.tools.CopyListingFileStatus		0.02020202
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/TestCopyMapper_testDirToFile_3g
+org.apache.hadoop.tools.DistCpOptions.FileAttribute		0.85714287
+org.apache.hadoop.tools.mapred.CopyMapper		0.28901735
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+org.apache.hadoop.tools.util.DistCpUtils		0.08
+org.apache.hadoop.tools.CopyListingFileStatus		0.02020202
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/TestCopyMapper_testFailCopyWithAccessControlException_w
+org.apache.hadoop.tools.DistCpOptions.FileAttribute		0.85714287
+org.apache.hadoop.tools.util.RetriableCommand		0.75
+org.apache.hadoop.tools.mapred.CopyMapper		0.433526
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.38
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+org.apache.hadoop.tools.util.DistCpUtils		0.115
+org.apache.hadoop.tools.CopyListingFileStatus		0.02020202
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/TestCopyMapper_testFileToDir_f
+org.apache.hadoop.tools.DistCpOptions.FileAttribute		0.85714287
+org.apache.hadoop.tools.mapred.CopyMapper		0.28901735
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+org.apache.hadoop.tools.util.DistCpUtils		0.08
+org.apache.hadoop.tools.CopyListingFileStatus		0.02020202
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/TestCopyMapper_testIgnoreFailures_3f
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand.CopyReadException		1.0
+org.apache.hadoop.tools.DistCpOptions.FileAttribute		0.85714287
+org.apache.hadoop.tools.mapred.CopyMapper		0.26589596
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+org.apache.hadoop.tools.util.DistCpUtils		0.07
+org.apache.hadoop.tools.CopyListingFileStatus		0.02020202
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/TestCopyMapper_testMakeDirFailure_1k
+org.apache.hadoop.tools.DistCpOptions.FileAttribute		0.85714287
+org.apache.hadoop.tools.mapred.CopyMapper		0.20809248
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+org.apache.hadoop.tools.util.DistCpUtils		0.105
+org.apache.hadoop.tools.CopyListingFileStatus		0.02020202
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/TestCopyMapper_testPreserveBlockSizeAndReplication_v
+org.apache.hadoop.tools.mapred.RetriableDirectoryCreateCommand		0.8888889
+org.apache.hadoop.tools.DistCpOptions.FileAttribute		0.85714287
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.7733333
+org.apache.hadoop.tools.mapred.CopyMapper		0.39306358
+org.apache.hadoop.tools.util.DistCpUtils		0.34
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+org.apache.hadoop.tools.CopyListingFileStatus		0.02020202
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/TestCopyMapper_testPreserveUserGroup_2l
+org.apache.hadoop.tools.mapred.RetriableDirectoryCreateCommand		0.8888889
+org.apache.hadoop.tools.DistCpOptions.FileAttribute		0.85714287
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.mapred.CopyMapper		0.39306358
+org.apache.hadoop.tools.util.DistCpUtils		0.39
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+org.apache.hadoop.tools.CopyListingFileStatus		0.02020202
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/TestCopyMapper_testPreserve_z
+org.apache.hadoop.tools.DistCpOptions.FileAttribute		0.85714287
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.mapred.CopyMapper		0.38728324
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.util.DistCpUtils		0.33
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+org.apache.hadoop.tools.CopyListingFileStatus		0.02020202
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/TestCopyMapper_testRun_12
+org.apache.hadoop.tools.mapred.RetriableDirectoryCreateCommand		0.8888889
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.DistCpOptions.FileAttribute		0.71428573
+org.apache.hadoop.tools.mapred.CopyMapper		0.5086705
+org.apache.hadoop.tools.util.DistCpUtils		0.34
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+org.apache.hadoop.tools.CopyListingFileStatus		0.02020202
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/TestCopyMapper_testSingleFileCopy_3k
+org.apache.hadoop.tools.DistCpOptions.FileAttribute		0.85714287
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.76
+org.apache.hadoop.tools.mapred.CopyMapper		0.47398844
+org.apache.hadoop.tools.util.RetriableCommand		0.33333334
+org.apache.hadoop.tools.util.ThrottledInputStream		0.33333334
+org.apache.hadoop.tools.DistCpOptionSwitch		0.33333334
+org.apache.hadoop.tools.util.DistCpUtils		0.305
+org.apache.hadoop.tools.CopyListingFileStatus		0.02020202
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/TestCopyMapper_testSkipCopyNoPerms_k
+org.apache.hadoop.tools.DistCpOptions.FileAttribute		0.85714287
+org.apache.hadoop.tools.mapred.CopyMapper		0.39884394
+org.apache.hadoop.tools.util.DistCpUtils		0.245
+org.apache.hadoop.tools.DistCpOptionSwitch		0.13333334
+org.apache.hadoop.tools.CopyListingFileStatus		0.02020202
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/TestCopyOutputFormat
+TestCopyOutputFormat		0.7704918
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/TestCopyOutputFormat_testCheckOutputSpecs_2c
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.8333333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/TestCopyOutputFormat_testGetOutputCommitter_31
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.055555556
+org.apache.hadoop.tools.mapred.CopyCommitter		0.01875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/TestCopyOutputFormat_testSetCommitDirectory_1u
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.30555555
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/TestCopyOutputFormat_testSetWorkingDirectory_14
+org.apache.hadoop.tools.mapred.CopyOutputFormat		0.30555555
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/TestRetriableFileCopyCommand
+TestRetriableFileCopyCommand		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/TestRetriableFileCopyCommand_testFailOnCloseError_g
+org.apache.hadoop.tools.util.ThrottledInputStream		0.3030303
+org.apache.hadoop.tools.mapred.RetriableFileCopyCommand		0.17333333
+org.apache.hadoop.tools.util.RetriableCommand		0.083333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/TestUniformSizeInputFormat
+TestUniformSizeInputFormat		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/TestUniformSizeInputFormat_testGetSplits_p
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.UniformSizeInputFormat		0.79710144
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.SimpleCopyListing		0.5786164
+org.apache.hadoop.tools.DistCpOptions		0.3021978
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+org.apache.hadoop.tools.util.DistCpUtils		0.145
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/lib/TestDynamicInputFormat
+TestDynamicInputFormat		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/lib/TestDynamicInputFormat_testGetSplitRatio_4
+testGetSplitRatio
+org.apache.hadoop.tools.mapred.lib.DynamicInputFormat		0.2993197
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/mapred/lib/TestDynamicInputFormat_testGetSplits_2e
+testGetSplits
+org.apache.hadoop.tools.GlobbedCopyListing		0.84615386
+org.apache.hadoop.tools.mapred.lib.DynamicInputChunk		0.8452381
+org.apache.hadoop.tools.mapred.lib.DynamicInputFormat		0.8367347
+org.apache.hadoop.tools.mapred.lib.DynamicRecordReader		0.74647886
+org.apache.hadoop.tools.CopyListing		0.6666667
+org.apache.hadoop.tools.SimpleCopyListing		0.5660377
+org.apache.hadoop.tools.DistCpOptions		0.3021978
+org.apache.hadoop.tools.CopyListingFileStatus		0.21212122
+org.apache.hadoop.tools.util.DistCpUtils		0.155
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/util/TestDistCpUtils
+TestDistCpUtils		0.9212598
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/util/TestDistCpUtils_testGetRelativePathRoot_3j
+org.apache.hadoop.tools.util.DistCpUtils		0.03
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/util/TestDistCpUtils_testPackAttributes_22
+org.apache.hadoop.tools.DistCpOptions.FileAttribute		0.85714287
+org.apache.hadoop.tools.util.DistCpUtils		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/util/TestDistCpUtils_testPreserve_3a
+org.apache.hadoop.tools.util.DistCpUtils		0.145
+org.apache.hadoop.tools.CopyListingFileStatus		0.02020202
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/util/TestRetriableCommand
+TestRetriableCommand		0.7692308
+TestRetriableCommand.MyRetriableCommand		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/util/TestRetriableCommand_testRetriableCommand_1j
+org.apache.hadoop.tools.util.RetriableCommand		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/util/TestThrottledInputStream
+TestThrottledInputStream		0.98734176
+TestThrottledInputStream.CB		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-distcp/target/clover/org/apache/hadoop/tools/util/TestThrottledInputStream_testRead_j
+org.apache.hadoop.tools.util.ThrottledInputStream		0.74242425
+-- -- -- -- -- -- -- -- -- -- -- -- --

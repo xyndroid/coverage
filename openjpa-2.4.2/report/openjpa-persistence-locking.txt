@@ -1,0 +1,473 @@
+./openjpa-persistence-locking/target/clover/org/apache/openjpa
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lock/extended/LockScopeTestCase
+LockScopeTestCase		0.010526316
+LockScopeTestCase.DBType		1.0
+LockScopeTestCase.AssertCallback		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lock/extended/Test1x1LockScope
+Test1x1LockScope		0.011037528
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lock/extended/Test1xmLockScope
+Test1xmLockScope		0.010204081
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lock/extended/TestBasicLockScope
+TestBasicLockScope		0.008417509
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lock/extended/test-LockScopeTestCase
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lock/extended/test-LockScopeTestCase_AssertCallback
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lock/extended/test-LockScopeTestCase_DBType
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lock/extended/test-Test1x1LockScope
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lock/extended/test-Test1xmLockScope
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lock/extended/test-TestBasicLockScope
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/MixedLockManagerGenericTest
+MixedLockManagerGenericTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/SequencedActionsTest
+SequencedActionsTest		0.6808786
+SequencedActionsTest.Act		1.0
+SequencedActionsTest.TestThread		1.0
+SequencedActionsTest.PlatformSpeedTestThread		1.0
+SequencedActionsTest.DBType		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestEmLockMode
+TestEmLockMode		0.053333335
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestEmLockMode_testFindLockModeIsolations_u
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestEmLockMode_testGetLockMode_46
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestEmLockMode_testLockLockModeIsolations_1g
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestEmLockMode_testRefreshLockModeIsolations_38
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestEmLockTimeout
+TestEmLockTimeout		0.7352941
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestEmLockTimeout_testSetJavaxLockTimeoutAtFind_33
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestEmLockTimeout_testSetJavaxLockTimeoutAtProviderCreateEmf_2k
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints
+TestFetchHints		0.8278146
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testFetchBatchSizeHint_1p
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testFetchPlanEagerFetchModeHint_a
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testFetchPlanFetchBatchSizeHint_4e
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testFetchPlanFetchDirectionHint_3y
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testFetchPlanIsolationHint_3s
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testFetchPlanJoinSyntaxHint_32
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testFetchPlanLRSSizeAlgorithmHint_1h
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testFetchPlanLRSSizeHint_m
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testFetchPlanLockTimeoutHint_d
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testFetchPlanMaxFetchDepthHint_31
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testFetchPlanQueryTimeoutHint_2o
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testFetchPlanReadLockModeHintInTx_17
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testFetchPlanReadLockModeHintNotInTx_42
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testFetchPlanResultSetTypeHint_6
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testFetchPlanSubclassFetchModeHint_4b
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testFetchPlanWriteLockModeHintInTx_2u
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testFetchPlanWriteLockModeHintNotInTx_x
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testFlushBeforeQueriesHint_3g
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testInvalidQuerySetHint_4g
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testJavaxLockTimeoutHint_4h
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testJavaxQueryTimeoutHint_25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testJdbcEagerFetchModeHint_l
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testJdbcFetchDirectionHint_h
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testJdbcJoinSyntaxHint_g
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testJdbcLRSSizeHint_10
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testJdbcResultSetTypeHint_3e
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testJdbcSubclassFetchModeHint_30
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testJdbcTransactionIsolationHint_2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testLockTimeoutHint_1w
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testMaxFetchDepthHint_t
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testQueryTimeoutHint_35
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testReadLockLevelHint_3r
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testSetHintAddHintsArgument_3u
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testSimiliarLockTimeoutHints_1c
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testSimiliarQueryTimeoutHints_43
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestFetchHints_testWriteLockLevelHint_24
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestLocking
+TestLocking		0.5365854
+TestLocking.CommitterThread		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestLocking_testExtendedLockScope_3l
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerDeadlock
+TestMixedLockManagerDeadlock		0.11627907
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindBasic
+TestMixedLockManagerFindBasic		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindBasic_testFindOptimisticForceInc_1r
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindBasic_testFindOptimistic_12
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindBasic_testFindPessimisticForceInc_18
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindBasic_testFindPessimisticRead_4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindBasic_testFindPessimisticWrite_2q
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindBasic_testFindRead_20
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindBasic_testFindWrite_1k
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindException
+TestMixedLockManagerFindException		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindException_testFindIllegalArgrumentExceptions_1s
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindException_testFindTxReqExceptions_23
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindException_testLockOptimisticLockExceptions_e
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindPermutation
+TestMixedLockManagerFindPermutation		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindPermutation_testFindPessimisticReadPessimisticForceInc_2t
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindPermutation_testFindPessimisticReadPessimisticRead_3b
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindPermutation_testFindPessimisticReadPessimisticWrite_47
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindPermutation_testFindPessimisticReadRead_1d
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindPermutation_testFindPessimisticReadWrite_27
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindPermutation_testFindPessimsiticForceIncPessimisticForceInc_2e
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindPermutation_testFindPessimsiticForceIncPessimisticRead_19
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindPermutation_testFindPessimsiticForceIncPessimisticWrite_2n
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindPermutation_testFindPessimsiticForceIncRead_1a
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindPermutation_testFindPessimsiticForceIncWrite_2b
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindPermutation_testFindPessimsiticWritePessimisticForceInc_41
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindPermutation_testFindPessimsiticWritePessimisticRead_4f
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindPermutation_testFindPessimsiticWritePessimisticWrite_1m
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindPermutation_testFindPessimsiticWriteRead_f
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindPermutation_testFindPessimsiticWriteWrite_2h
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindPermutation_testFindReadPessimisticForceInc_2m
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindPermutation_testFindReadPessimisticRead_c
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindPermutation_testFindReadPessimisticWrite_39
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindPermutation_testFindReadRead_o
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindPermutation_testFindReadWrite_3n
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindPermutation_testFindWritePessimisticForceInc_1x
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindPermutation_testFindWritePessimisticRead_2g
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindPermutation_testFindWritePessimisticWrite_s
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindPermutation_testFindWriteRead_2a
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerFindPermutation_testFindWriteWrite_29
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockBasic
+TestMixedLockManagerLockBasic		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockBasic_testLockOptimisticForceInc_44
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockBasic_testLockOptimistic_3q
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockBasic_testLockPessimisticForceInc_4j
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockBasic_testLockPessimisticRead_2p
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockBasic_testLockPessimisticWrite_1u
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockBasic_testLockRead_1j
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockBasic_testLockWrite_2s
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockException
+TestMixedLockManagerLockException		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockException_testLockIllegalArgrumentExceptions_2y
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockException_testLockOptimisticLockExceptions_45
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockException_testLockTxReqExceptions_2z
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockPermutation
+TestMixedLockManagerLockPermutation		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockPermutation_testLockPessimisticReadPessimisticForceInc_3m
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockPermutation_testLockPessimisticReadPessimisticRead_1i
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockPermutation_testLockPessimisticReadPessimisticWrite_3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockPermutation_testLockPessimisticReadRead_1b
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockPermutation_testLockPessimisticReadWrite_1y
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockPermutation_testLockPessimsiticForceIncPessimisticForceInc_3w
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockPermutation_testLockPessimsiticForceIncPessimisticRead_3j
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockPermutation_testLockPessimsiticForceIncPessimisticWrite_28
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockPermutation_testLockPessimsiticForceIncRead_4a
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockPermutation_testLockPessimsiticForceIncWrite_2x
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockPermutation_testLockPessimsiticWritePessimisticForceInc_37
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockPermutation_testLockPessimsiticWritePessimisticRead_1e
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockPermutation_testLockPessimsiticWritePessimisticWrite_q
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockPermutation_testLockPessimsiticWriteRead_1v
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockPermutation_testLockPessimsiticWriteWrite_z
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockPermutation_testLockReadPessimisticForceInc_r
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockPermutation_testLockReadPessimisticRead_36
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockPermutation_testLockReadPessimisticWrite_2w
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockPermutation_testLockReadRead_3v
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockPermutation_testLockReadWrite_5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockPermutation_testLockWritePessimisticForceInc_11
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockPermutation_testLockWritePessimisticRead_1o
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockPermutation_testLockWritePessimisticWrite_1t
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockPermutation_testLockWriteRead_2f
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerLockPermutation_testLockWriteWrite_26
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerNonVersion
+TestMixedLockManagerNonVersion		0.27857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerNonVersion_testFindNonVersionWithLock_48
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerNonVersion_testLockNonVersionWithLock_16
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerNonVersion_testRefreshNonVersionWithLock_2j
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshBasic
+TestMixedLockManagerRefreshBasic		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshBasic_testRefreshOptimisticForceInc_2d
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshBasic_testRefreshOptimistic_3h
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshBasic_testRefreshPessimisticForceInc_3c
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshBasic_testRefreshPessimisticRead_3x
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshBasic_testRefreshPessimisticWrite_13
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshBasic_testRefreshRead_3f
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshBasic_testRefreshWrite_1q
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshException
+TestMixedLockManagerRefreshException		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshException_testRefreshIllegalArgrumentExceptions_14
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshException_testRefreshNoTxReqExceptions_49
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshException_testRefreshTxReqExceptions_3t
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshPermutation
+TestMixedLockManagerRefreshPermutation		0.9302326
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshPermutation_testRefreshPessimisticReadPessimisticForceInc_y
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshPermutation_testRefreshPessimisticReadPessimisticRead_8
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshPermutation_testRefreshPessimisticReadPessimisticWrite_3i
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshPermutation_testRefreshPessimisticReadRead_3k
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshPermutation_testRefreshPessimisticReadWrite_3p
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshPermutation_testRefreshPessimsiticForceIncPessimisticForceInc_1z
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshPermutation_testRefreshPessimsiticForceIncPessimisticRead_9
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshPermutation_testRefreshPessimsiticForceIncPessimisticWrite_3z
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshPermutation_testRefreshPessimsiticForceIncRead_7
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshPermutation_testRefreshPessimsiticForceIncWrite_2v
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshPermutation_testRefreshPessimsiticWritePessimisticForceInc_p
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshPermutation_testRefreshPessimsiticWritePessimisticRead_2r
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshPermutation_testRefreshPessimsiticWritePessimisticWrite_3d
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshPermutation_testRefreshPessimsiticWriteRead_40
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshPermutation_testRefreshPessimsiticWriteWrite_b
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshPermutation_testRefreshReadPessimisticForceInc_v
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshPermutation_testRefreshReadPessimisticRead_0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshPermutation_testRefreshReadPessimisticWrite_1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshPermutation_testRefreshReadRead_34
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshPermutation_testRefreshReadWrite_21
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshPermutation_testRefreshWritePessimisticForceInc_n
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshPermutation_testRefreshWritePessimisticRead_1l
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshPermutation_testRefreshWritePessimisticWrite_2l
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshPermutation_testRefreshWriteRead_i
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestMixedLockManagerRefreshPermutation_testRefreshWriteWrite_j
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestNamedQueryLockMode
+TestNamedQueryLockMode		0.37313432
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestNamedQueryLockMode_testForUpdateClauseAbsentInQueryWithFetchPlanNoneLockMode_3a
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestNamedQueryLockMode_testForUpdateClausePresentInNamedQueryWithLockMode_22
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestNamedQueryLockMode_testForUpdateClausePresentInQueryWithDefault_2c
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestOptimisticNamedQueryLockMode
+TestOptimisticNamedQueryLockMode		0.73015875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestOptimisticNamedQueryLockMode_testForUpdateClauseAbsentInQueryWithExplictNoLock_w
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestOptimisticNamedQueryLockMode_testForUpdateClauseAbsentInQueryWithFetchPlanNoneLockMode_4i
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestOptimisticNamedQueryLockMode_testForUpdateClausePresentInNamedQueryWithLockMode_1n
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestOptimisticNamedQueryLockMode_testForUpdateClausePresentInQueryWithDefault_2i
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestPessimisticLocks
+TestPessimisticLocks		0.13960114
+TestPessimisticLocks.RefreshWithLock		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestPessimisticLocks_testFindAfterQueryOrderByWithPessimisticLocks_3o
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestPessimisticLocks_testFindAfterQueryWithPessimisticLocks_k
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestPessimisticLocks_testQueryAfterFindWithPessimisticLocks_4d
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestPessimisticLocks_testQueryOrderByAfterFindWithPessimisticLocks_1f
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestPessimisticLocks_testRefreshLockTimeout_4c
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/TestPessimisticLocks_testRepeatedQueryWithPessimisticLocks_15
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/test-MixedLockManagerGenericTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/test-SequencedActionsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/test-SequencedActionsTest_Act
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/test-SequencedActionsTest_DBType
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/test-SequencedActionsTest_PlatformSpeedTestThread
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/test-SequencedActionsTest_TestThread
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/test-TestEmLockMode
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/test-TestEmLockTimeout
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/test-TestFetchHints
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/test-TestLocking
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/test-TestLocking_CommitterThread
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/test-TestMixedLockManagerDeadlock
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/test-TestMixedLockManagerFindBasic
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/test-TestMixedLockManagerFindException
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/test-TestMixedLockManagerFindPermutation
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/test-TestMixedLockManagerLockBasic
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/test-TestMixedLockManagerLockException
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/test-TestMixedLockManagerLockPermutation
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/test-TestMixedLockManagerNonVersion
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/test-TestMixedLockManagerRefreshBasic
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/test-TestMixedLockManagerRefreshException
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/test-TestMixedLockManagerRefreshPermutation
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/test-TestNamedQueryLockMode
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/test-TestOptimisticNamedQueryLockMode
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/test-TestPessimisticLocks
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-persistence-locking/target/clover/org/apache/openjpa/persistence/lockmgr/test-TestPessimisticLocks_RefreshWithLock
+-- -- -- -- -- -- -- -- -- -- -- -- --

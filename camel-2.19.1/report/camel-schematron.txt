@@ -1,0 +1,107 @@
+./components/camel-schematron/target/site/clover/org/apache/camel
+./components/camel-schematron/target/site/clover/org/apache/camel/component/schematron/SchematronComponentTest
+SchematronComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-schematron/target/site/clover/org/apache/camel/component/schematron/SchematronComponentTest_testSendBodyAsInputStreamInvalidXML_8
+org.apache.camel.component.schematron.processor.SchematronProcessor		0.8181818
+org.apache.camel.component.schematron.SchematronProducer		0.7
+org.apache.camel.component.schematron.processor.SchematronProcessorFactory		0.6923077
+org.apache.camel.component.schematron.SchematronEndpoint		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-schematron/target/site/clover/org/apache/camel/component/schematron/SchematronComponentTest_testSendBodyAsString_0
+org.apache.camel.component.schematron.processor.SchematronProcessor		0.8181818
+org.apache.camel.component.schematron.SchematronProducer		0.7
+org.apache.camel.component.schematron.processor.SchematronProcessorFactory		0.6923077
+org.apache.camel.component.schematron.SchematronEndpoint		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-schematron/target/site/clover/org/apache/camel/component/schematron/SchematronEndpointTest
+SchematronEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-schematron/target/site/clover/org/apache/camel/component/schematron/SchematronEndpointTest_testSchematronFileReadFromClassPath_3
+org.apache.camel.component.schematron.SchematronComponent		1.0
+org.apache.camel.component.schematron.processor.TemplatesFactory		0.875
+org.apache.camel.component.schematron.SchematronProducer		0.8333333
+org.apache.camel.component.schematron.processor.SchematronProcessor		0.8181818
+org.apache.camel.component.schematron.processor.SchematronProcessorFactory		0.6923077
+org.apache.camel.component.schematron.processor.ClassPathURIResolver		0.5714286
+org.apache.camel.component.schematron.SchematronEndpoint		0.51724136
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-schematron/target/site/clover/org/apache/camel/component/schematron/SchematronEndpointTest_testSchematronFileReadFromFileSystem_7
+org.apache.camel.component.schematron.SchematronComponent		1.0
+org.apache.camel.component.schematron.processor.TemplatesFactory		0.875
+org.apache.camel.component.schematron.SchematronProducer		0.8333333
+org.apache.camel.component.schematron.processor.SchematronProcessor		0.8181818
+org.apache.camel.component.schematron.processor.SchematronProcessorFactory		0.6923077
+org.apache.camel.component.schematron.processor.ClassPathURIResolver		0.5714286
+org.apache.camel.component.schematron.SchematronEndpoint		0.5689655
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-schematron/target/site/clover/org/apache/camel/component/schematron/SchematronEndpointTest_testThrowSchematronValidationException_1
+org.apache.camel.component.schematron.SchematronComponent		1.0
+org.apache.camel.component.schematron.processor.TemplatesFactory		0.875
+org.apache.camel.component.schematron.processor.SchematronProcessor		0.8181818
+org.apache.camel.component.schematron.processor.SchematronProcessorFactory		0.6923077
+org.apache.camel.component.schematron.processor.ClassPathURIResolver		0.5714286
+org.apache.camel.component.schematron.SchematronEndpoint		0.55172414
+org.apache.camel.component.schematron.SchematronProducer		0.5
+org.apache.camel.component.schematron.exception.SchematronValidationException		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-schematron/target/site/clover/org/apache/camel/component/schematron/SchematronProducerTest
+SchematronProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-schematron/target/site/clover/org/apache/camel/component/schematron/SchematronProducerTest_testProcessInValidXML_9
+org.apache.camel.component.schematron.processor.SchematronProcessor		0.8181818
+org.apache.camel.component.schematron.SchematronProducer		0.73333335
+org.apache.camel.component.schematron.processor.SchematronProcessorFactory		0.6923077
+org.apache.camel.component.schematron.SchematronEndpoint		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-schematron/target/site/clover/org/apache/camel/component/schematron/SchematronProducerTest_testProcessValidXML_5
+org.apache.camel.component.schematron.processor.SchematronProcessor		0.8181818
+org.apache.camel.component.schematron.SchematronProducer		0.73333335
+org.apache.camel.component.schematron.processor.SchematronProcessorFactory		0.6923077
+org.apache.camel.component.schematron.SchematronEndpoint		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-schematron/target/site/clover/org/apache/camel/component/schematron/processor/SchematronProcessorTest
+SchematronProcessorTest		1.0
+SchematronProcessorTest.ClientUriResolver		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-schematron/target/site/clover/org/apache/camel/component/schematron/processor/SchematronProcessorTest_testInValidXML_6
+testInValidXML
+org.apache.camel.component.schematron.processor.TemplatesFactory		0.875
+org.apache.camel.component.schematron.processor.SchematronProcessor		0.8181818
+org.apache.camel.component.schematron.processor.SchematronProcessorFactory		0.6923077
+org.apache.camel.component.schematron.processor.ClassPathURIResolver		0.5714286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-schematron/target/site/clover/org/apache/camel/component/schematron/processor/SchematronProcessorTest_testInvalidXMLWithClientResolver_4
+testInvalidXMLWithClientResolver
+org.apache.camel.component.schematron.processor.TemplatesFactory		0.875
+org.apache.camel.component.schematron.processor.ClassPathURIResolver		0.85714287
+org.apache.camel.component.schematron.processor.SchematronProcessor		0.8181818
+org.apache.camel.component.schematron.processor.SchematronProcessorFactory		0.6923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-schematron/target/site/clover/org/apache/camel/component/schematron/processor/SchematronProcessorTest_testValidXML_a
+testValidXML
+org.apache.camel.component.schematron.processor.TemplatesFactory		0.875
+org.apache.camel.component.schematron.processor.SchematronProcessor		0.8181818
+org.apache.camel.component.schematron.processor.SchematronProcessorFactory		0.6923077
+org.apache.camel.component.schematron.processor.ClassPathURIResolver		0.5714286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-schematron/target/site/clover/org/apache/camel/component/schematron/processor/TemplatesFactoryTest
+TemplatesFactoryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-schematron/target/site/clover/org/apache/camel/component/schematron/processor/TemplatesFactoryTest_testInstantiateAnInstanceOfTemplates_2
+testInstantiateAnInstanceOfTemplates
+org.apache.camel.component.schematron.processor.TemplatesFactory		0.875
+org.apache.camel.component.schematron.processor.ClassPathURIResolver		0.5714286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-schematron/target/site/clover/org/apache/camel/component/schematron/processor/test-SchematronProcessorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-schematron/target/site/clover/org/apache/camel/component/schematron/processor/test-SchematronProcessorTest_ClientUriResolver
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-schematron/target/site/clover/org/apache/camel/component/schematron/processor/test-TemplatesFactoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-schematron/target/site/clover/org/apache/camel/component/schematron/test-SchematronComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-schematron/target/site/clover/org/apache/camel/component/schematron/test-SchematronEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-schematron/target/site/clover/org/apache/camel/component/schematron/test-SchematronProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

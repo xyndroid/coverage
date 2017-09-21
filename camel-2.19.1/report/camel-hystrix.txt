@@ -1,0 +1,215 @@
+./components/camel-hystrix/target/site/clover/org/apache/camel
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/BlueprintHystrixRouteFallbackTest
+BlueprintHystrixRouteFallbackTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/BlueprintHystrixRouteFallbackTest_testHystrix_m
+testHystrix
+org.apache.camel.component.hystrix.processor.HystrixProcessorCommand		0.6805556
+org.apache.camel.component.hystrix.processor.HystrixProcessor		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/BlueprintHystrixRouteOkTest
+BlueprintHystrixRouteOkTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/BlueprintHystrixRouteOkTest_testHystrix_2
+testHystrix
+org.apache.camel.component.hystrix.processor.HystrixProcessorCommand		0.3611111
+org.apache.camel.component.hystrix.processor.HystrixProcessor		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/HystrixCircuitOpenTest
+HystrixCircuitOpenTest		0.9411765
+HystrixCircuitOpenTest.HystrixExceptionRoute		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/HystrixCircuitOpenTest_testCircuitOpen_3
+testCircuitOpen
+org.apache.camel.component.hystrix.processor.HystrixProcessorCommand		0.4722222
+org.apache.camel.component.hystrix.processor.HystrixProcessor		0.17592593
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/HystrixHierarchicalConfigTest
+HystrixHierarchicalConfigTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/HystrixHierarchicalConfigTest_testContextConfiguration_a
+testContextConfiguration
+org.apache.camel.component.hystrix.processor.HystrixProcessorFactory		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/HystrixHierarchicalConfigTest_testMixedConfiguration_p
+testMixedConfiguration
+org.apache.camel.component.hystrix.processor.HystrixProcessorFactory		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/HystrixHierarchicalConfigTest_testRegistryConfiguration_h
+testRegistryConfiguration
+org.apache.camel.component.hystrix.processor.HystrixProcessorFactory		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/HystrixManagementTest
+HystrixManagementTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/HystrixManagementTest_testHystrix_k
+testHystrix
+org.apache.camel.component.hystrix.metrics.HystrixEventStreamService		0.39215687
+org.apache.camel.component.hystrix.processor.HystrixProcessorCommand		0.3611111
+org.apache.camel.component.hystrix.processor.HystrixProcessor		0.2962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/HystrixRouteConfigMaximumSizeTest
+HystrixRouteConfigMaximumSizeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/HystrixRouteConfigMaximumSizeTest_testGroupKeyAndThreadPoolKeyConfigFlagsDoNotScrapHystrixConfiguration_0
+testGroupKeyAndThreadPoolKeyConfigFlagsDoNotScrapHystrixConfiguration
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/HystrixRouteConfigMaximumSizeTest_testHystrix_d
+testHystrix
+org.apache.camel.component.hystrix.processor.HystrixProcessorCommand		0.3611111
+org.apache.camel.component.hystrix.processor.HystrixProcessor		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/HystrixRouteConfigTest
+HystrixRouteConfigTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/HystrixRouteConfigTest_testGroupKeyAndThreadPoolKeyConfigFlagsDoNotScrapHystrixConfiguration_e
+testGroupKeyAndThreadPoolKeyConfigFlagsDoNotScrapHystrixConfiguration
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/HystrixRouteConfigTest_testHystrix_n
+testHystrix
+org.apache.camel.component.hystrix.processor.HystrixProcessorCommand		0.3611111
+org.apache.camel.component.hystrix.processor.HystrixProcessor		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/HystrixRouteFallbackTest
+HystrixRouteFallbackTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/HystrixRouteFallbackTest_testHystrix_j
+testHystrix
+org.apache.camel.component.hystrix.processor.HystrixProcessorCommand		0.6805556
+org.apache.camel.component.hystrix.processor.HystrixProcessor		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/HystrixRouteFallbackViaNetworkTest
+HystrixRouteFallbackViaNetworkTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/HystrixRouteFallbackViaNetworkTest_testHystrix_5
+testHystrix
+org.apache.camel.component.hystrix.processor.HystrixProcessorCommandFallbackViaNetwork		0.68421054
+org.apache.camel.component.hystrix.processor.HystrixProcessorCommand		0.625
+org.apache.camel.component.hystrix.processor.HystrixProcessor		0.17592593
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/HystrixRouteOkTest
+HystrixRouteOkTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/HystrixRouteOkTest_testHystrix_4
+testHystrix
+org.apache.camel.component.hystrix.processor.HystrixProcessorCommand		0.3611111
+org.apache.camel.component.hystrix.processor.HystrixProcessor		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/HystrixTimeoutTest
+HystrixTimeoutTest		0.9130435
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/HystrixTimeoutTest_testFast_b
+testFast
+org.apache.camel.component.hystrix.processor.HystrixProcessorCommand		0.3611111
+org.apache.camel.component.hystrix.processor.HystrixProcessor		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/HystrixTimeoutTest_testSlowLoop_q
+testSlowLoop
+org.apache.camel.component.hystrix.processor.HystrixProcessorCommand		0.45833334
+org.apache.camel.component.hystrix.processor.HystrixProcessor		0.11111111
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/HystrixTimeoutTest_testSlow_c
+testSlow
+org.apache.camel.component.hystrix.processor.HystrixProcessorCommand		0.45833334
+org.apache.camel.component.hystrix.processor.HystrixProcessor		0.11111111
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/HystrixTimeoutWithFallbackTest
+HystrixTimeoutWithFallbackTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/HystrixTimeoutWithFallbackTest_testFast_f
+testFast
+org.apache.camel.component.hystrix.processor.HystrixProcessorCommand		0.3611111
+org.apache.camel.component.hystrix.processor.HystrixProcessor		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/HystrixTimeoutWithFallbackTest_testSlow_i
+testSlow
+org.apache.camel.component.hystrix.processor.HystrixProcessorCommand		0.7222222
+org.apache.camel.component.hystrix.processor.HystrixProcessor		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/SpringHystrixRouteConfigMaximumSizeTest
+SpringHystrixRouteConfigMaximumSizeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/SpringHystrixRouteConfigMaximumSizeTest_testHystrix_g
+testHystrix
+org.apache.camel.component.hystrix.processor.HystrixProcessorCommand		0.3611111
+org.apache.camel.component.hystrix.processor.HystrixProcessor		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/SpringHystrixRouteConfigRefTest
+SpringHystrixRouteConfigRefTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/SpringHystrixRouteConfigRefTest_testHystrix_1
+testHystrix
+org.apache.camel.component.hystrix.processor.HystrixProcessorCommand		0.3611111
+org.apache.camel.component.hystrix.processor.HystrixProcessor		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/SpringHystrixRouteConfigTest
+SpringHystrixRouteConfigTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/SpringHystrixRouteConfigTest_testHystrix_7
+testHystrix
+org.apache.camel.component.hystrix.processor.HystrixProcessorCommand		0.3611111
+org.apache.camel.component.hystrix.processor.HystrixProcessor		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/SpringHystrixRouteFallbackTest
+SpringHystrixRouteFallbackTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/SpringHystrixRouteFallbackTest_testHystrix_l
+testHystrix
+org.apache.camel.component.hystrix.processor.HystrixProcessorCommand		0.6805556
+org.apache.camel.component.hystrix.processor.HystrixProcessor		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/SpringHystrixRouteHierarchicalConfigTest
+SpringHystrixRouteHierarchicalConfigTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/SpringHystrixRouteHierarchicalConfigTest_testHystrix_8
+testHystrix
+org.apache.camel.component.hystrix.processor.HystrixProcessorCommand		0.3611111
+org.apache.camel.component.hystrix.processor.HystrixProcessor		0.16666667
+org.apache.camel.component.hystrix.processor.HystrixProcessorFactory		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/SpringHystrixRouteOkTest
+SpringHystrixRouteOkTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/SpringHystrixRouteOkTest_testHystrix_9
+testHystrix
+org.apache.camel.component.hystrix.processor.HystrixProcessorCommand		0.3611111
+org.apache.camel.component.hystrix.processor.HystrixProcessor		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/test-BlueprintHystrixRouteFallbackTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/test-BlueprintHystrixRouteOkTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/test-HystrixCircuitOpenTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/test-HystrixCircuitOpenTest_HystrixExceptionRoute
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/test-HystrixHierarchicalConfigTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/test-HystrixManagementTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/test-HystrixRouteConfigMaximumSizeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/test-HystrixRouteConfigTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/test-HystrixRouteFallbackTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/test-HystrixRouteFallbackViaNetworkTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/test-HystrixRouteOkTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/test-HystrixTimeoutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/test-HystrixTimeoutWithFallbackTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/test-SpringHystrixRouteConfigMaximumSizeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/test-SpringHystrixRouteConfigRefTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/test-SpringHystrixRouteConfigTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/test-SpringHystrixRouteFallbackTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/test-SpringHystrixRouteHierarchicalConfigTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hystrix/target/site/clover/org/apache/camel/component/hystrix/processor/test-SpringHystrixRouteOkTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

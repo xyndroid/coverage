@@ -1,0 +1,26 @@
+./components/camel-ldap/target/site/clover/org/apache/camel
+./components/camel-ldap/target/site/clover/org/apache/camel/component/ldap/LdapRouteTest
+LdapRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ldap/target/site/clover/org/apache/camel/component/ldap/LdapRouteTest_testLdapRoutePreserveHeaderAndAttachments_1
+org.apache.camel.component.ldap.LdapComponent		1.0
+org.apache.camel.component.ldap.LdapProducer		0.41463414
+org.apache.camel.component.ldap.LdapEndpoint		0.36956522
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ldap/target/site/clover/org/apache/camel/component/ldap/LdapRouteTest_testLdapRouteReturnedAttributes_0
+org.apache.camel.component.ldap.LdapComponent		1.0
+org.apache.camel.component.ldap.LdapProducer		0.46341464
+org.apache.camel.component.ldap.LdapEndpoint		0.41304347
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ldap/target/site/clover/org/apache/camel/component/ldap/LdapRouteTest_testLdapRouteStandard_2
+org.apache.camel.component.ldap.LdapComponent		1.0
+org.apache.camel.component.ldap.LdapProducer		0.41463414
+org.apache.camel.component.ldap.LdapEndpoint		0.36956522
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ldap/target/site/clover/org/apache/camel/component/ldap/LdapRouteTest_testLdapRouteWithPaging_3
+org.apache.camel.component.ldap.LdapComponent		1.0
+org.apache.camel.component.ldap.LdapProducer		0.80487806
+org.apache.camel.component.ldap.LdapEndpoint		0.41304347
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ldap/target/site/clover/org/apache/camel/component/ldap/test-LdapRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

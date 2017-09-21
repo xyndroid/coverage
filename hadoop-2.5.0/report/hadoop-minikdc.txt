@@ -1,0 +1,21 @@
+./hadoop-common-project/hadoop-minikdc/target/clover/org/apache/hadoop
+./hadoop-common-project/hadoop-minikdc/target/clover/org/apache/hadoop/minikdc/TestMiniKdc
+TestMiniKdc		0.97619045
+TestMiniKdc.KerberosConfiguration		0.9
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-minikdc/target/clover/org/apache/hadoop/minikdc/TestMiniKdc_testKerberosLogin_1
+org.apache.hadoop.minikdc.KerberosSecurityTestcase		0.2
+org.apache.hadoop.minikdc.MiniKdc		0.083333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-minikdc/target/clover/org/apache/hadoop/minikdc/TestMiniKdc_testKeytabGen_2
+org.apache.hadoop.minikdc.KerberosSecurityTestcase		0.2
+org.apache.hadoop.minikdc.MiniKdc		0.083333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-minikdc/target/clover/org/apache/hadoop/minikdc/TestMiniKdc_testKeytabGen_5
+org.apache.hadoop.minikdc.KerberosSecurityTestcase		0.2
+org.apache.hadoop.minikdc.MiniKdc		0.083333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-minikdc/target/clover/org/apache/hadoop/minikdc/TestMiniKdc_testMiniKdcStart_0
+org.apache.hadoop.minikdc.KerberosSecurityTestcase		0.1
+org.apache.hadoop.minikdc.MiniKdc		0.007246377
+-- -- -- -- -- -- -- -- -- -- -- -- --

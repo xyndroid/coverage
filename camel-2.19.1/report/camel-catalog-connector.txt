@@ -1,0 +1,60 @@
+./platforms/camel-catalog-connector/target/site/clover/org/apache/camel
+./platforms/camel-catalog-connector/target/site/clover/org/apache/camel/catalog/connector/CamelConnectorCatalogTest
+CamelConnectorCatalogTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-connector/target/site/clover/org/apache/camel/catalog/connector/CamelConnectorCatalogTest_testAddConnector_4
+org.apache.camel.catalog.connector.MemoryConnectorDataStore.ConnectorDetails		0.26923078
+org.apache.camel.catalog.connector.ConnectorDto		0.26666668
+org.apache.camel.catalog.connector.DefaultCamelConnectorCatalog		0.2173913
+org.apache.camel.catalog.connector.MemoryConnectorDataStore		0.16216215
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-connector/target/site/clover/org/apache/camel/catalog/connector/CamelConnectorCatalogTest_testComponentSchemaJson_b
+org.apache.camel.catalog.connector.ConnectorDto		0.45
+org.apache.camel.catalog.connector.MemoryConnectorDataStore.ConnectorDetails		0.34615386
+org.apache.camel.catalog.connector.DefaultCamelConnectorCatalog		0.24637681
+org.apache.camel.catalog.connector.MemoryConnectorDataStore		0.08108108
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-connector/target/site/clover/org/apache/camel/catalog/connector/CamelConnectorCatalogTest_testConnectorJson_c
+org.apache.camel.catalog.connector.ConnectorDto		0.45
+org.apache.camel.catalog.connector.MemoryConnectorDataStore.ConnectorDetails		0.34615386
+org.apache.camel.catalog.connector.DefaultCamelConnectorCatalog		0.24637681
+org.apache.camel.catalog.connector.MemoryConnectorDataStore		0.08108108
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-connector/target/site/clover/org/apache/camel/catalog/connector/CamelConnectorCatalogTest_testConnectorSchemaJson_2
+org.apache.camel.catalog.connector.ConnectorDto		0.45
+org.apache.camel.catalog.connector.MemoryConnectorDataStore.ConnectorDetails		0.34615386
+org.apache.camel.catalog.connector.DefaultCamelConnectorCatalog		0.24637681
+org.apache.camel.catalog.connector.MemoryConnectorDataStore		0.08108108
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-connector/target/site/clover/org/apache/camel/catalog/connector/CamelConnectorCatalogTest_testFindConnectorFilter_3
+org.apache.camel.catalog.connector.MemoryConnectorDataStore		0.4864865
+org.apache.camel.catalog.connector.ConnectorDto		0.46666667
+org.apache.camel.catalog.connector.MemoryConnectorDataStore.ConnectorDetails		0.26923078
+org.apache.camel.catalog.connector.DefaultCamelConnectorCatalog		0.2173913
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-connector/target/site/clover/org/apache/camel/catalog/connector/CamelConnectorCatalogTest_testFindConnectorLatestVersionOnly_7
+org.apache.camel.catalog.connector.ConnectorDto		0.68333334
+org.apache.camel.catalog.connector.MemoryConnectorDataStore		0.6486486
+org.apache.camel.catalog.connector.MemoryConnectorDataStore.ConnectorDetails		0.53846157
+org.apache.camel.catalog.connector.DefaultCamelConnectorCatalog		0.2173913
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-connector/target/site/clover/org/apache/camel/catalog/connector/CamelConnectorCatalogTest_testFindConnectorNotLatestVersionOnly_1
+org.apache.camel.catalog.connector.ConnectorDto		0.65
+org.apache.camel.catalog.connector.MemoryConnectorDataStore.ConnectorDetails		0.53846157
+org.apache.camel.catalog.connector.MemoryConnectorDataStore		0.4864865
+org.apache.camel.catalog.connector.DefaultCamelConnectorCatalog		0.2173913
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-connector/target/site/clover/org/apache/camel/catalog/connector/CamelConnectorCatalogTest_testHasConnector_0
+org.apache.camel.catalog.connector.MemoryConnectorDataStore.ConnectorDetails		0.53846157
+org.apache.camel.catalog.connector.ConnectorDto		0.45
+org.apache.camel.catalog.connector.DefaultCamelConnectorCatalog		0.3043478
+org.apache.camel.catalog.connector.MemoryConnectorDataStore		0.1891892
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-connector/target/site/clover/org/apache/camel/catalog/connector/CamelConnectorCatalogTest_testRemoveConnector_5
+org.apache.camel.catalog.connector.MemoryConnectorDataStore.ConnectorDetails		0.53846157
+org.apache.camel.catalog.connector.ConnectorDto		0.45
+org.apache.camel.catalog.connector.DefaultCamelConnectorCatalog		0.3043478
+org.apache.camel.catalog.connector.MemoryConnectorDataStore		0.1891892
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-connector/target/site/clover/org/apache/camel/catalog/connector/test-CamelConnectorCatalogTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

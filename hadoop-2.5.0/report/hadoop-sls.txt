@@ -1,0 +1,102 @@
+./hadoop-tools/hadoop-sls/target/clover/org/apache/hadoop
+./hadoop-tools/hadoop-sls/target/clover/org/apache/hadoop/yarn/sls/TestSLSRunner
+TestSLSRunner		0.72727275
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-sls/target/clover/org/apache/hadoop/yarn/sls/TestSLSRunner_testSimulatorRunning_5
+org.apache.hadoop.yarn.sls.scheduler.NodeUpdateSchedulerEventWrapper		1.0
+org.apache.hadoop.yarn.sls.scheduler.ResourceSchedulerWrapper.HistogramsRunnable		1.0
+org.apache.hadoop.yarn.sls.nodemanager.NodeInfo		1.0
+org.apache.hadoop.yarn.sls.scheduler.TaskRunner		0.9230769
+org.apache.hadoop.yarn.sls.scheduler.ResourceSchedulerWrapper.MetricsLogRunnable		0.8947368
+org.apache.hadoop.yarn.sls.scheduler.ContainerSimulator		0.8333333
+org.apache.hadoop.yarn.sls.appmaster.AMSimulator		0.7870968
+org.apache.hadoop.yarn.sls.nodemanager.NMSimulator		0.69902915
+org.apache.hadoop.yarn.sls.scheduler.TaskRunner.Task		0.6964286
+org.apache.hadoop.yarn.sls.SLSRunner		0.6097561
+org.apache.hadoop.yarn.sls.scheduler.ResourceSchedulerWrapper		0.6022222
+org.apache.hadoop.yarn.sls.scheduler.FairSchedulerMetrics		0.5765766
+org.apache.hadoop.yarn.sls.appmaster.MRAMSimulator		0.51707315
+org.apache.hadoop.yarn.sls.web.SLSWebApp		0.4703833
+org.apache.hadoop.yarn.sls.scheduler.SchedulerMetrics		0.36666667
+org.apache.hadoop.yarn.sls.scheduler.RMNodeWrapper		0.3529412
+org.apache.hadoop.yarn.sls.nodemanager.NodeInfo.FakeRMNodeImpl		0.32142857
+org.apache.hadoop.yarn.sls.utils.SLSUtils		0.31034482
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-sls/target/clover/org/apache/hadoop/yarn/sls/appmaster/TestAMSimulator
+TestAMSimulator		1.0
+TestAMSimulator.MockAMSimulator		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-sls/target/clover/org/apache/hadoop/yarn/sls/appmaster/TestAMSimulator_testAMSimulator_0
+testAMSimulator
+org.apache.hadoop.yarn.sls.appmaster.AMSimulator		0.5419355
+org.apache.hadoop.yarn.sls.scheduler.TaskRunner.Task		0.19642857
+org.apache.hadoop.yarn.sls.scheduler.TaskRunner		0.15384616
+org.apache.hadoop.yarn.sls.scheduler.ResourceSchedulerWrapper		0.026666667
+org.apache.hadoop.yarn.sls.SLSRunner		0.006968641
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-sls/target/clover/org/apache/hadoop/yarn/sls/nodemanager/TestNMSimulator
+TestNMSimulator		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-sls/target/clover/org/apache/hadoop/yarn/sls/nodemanager/TestNMSimulator_testNMSimulator_8
+testNMSimulator
+org.apache.hadoop.yarn.sls.nodemanager.NodeInfo		1.0
+org.apache.hadoop.yarn.sls.nodemanager.NMSimulator		0.65048546
+org.apache.hadoop.yarn.sls.nodemanager.NodeInfo.FakeRMNodeImpl		0.2857143
+org.apache.hadoop.yarn.sls.scheduler.TaskRunner.Task		0.19642857
+org.apache.hadoop.yarn.sls.scheduler.ContainerSimulator		0.19444445
+org.apache.hadoop.yarn.sls.utils.SLSUtils		0.05172414
+org.apache.hadoop.yarn.sls.scheduler.ResourceSchedulerWrapper		0.02
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-sls/target/clover/org/apache/hadoop/yarn/sls/scheduler/TestTaskRunner
+TestTaskRunner		1.0
+TestTaskRunner.SingleTask		0.53846157
+TestTaskRunner.DualTask		0.64705884
+TestTaskRunner.TriTask		0.71428573
+TestTaskRunner.MultiTask		0.7647059
+TestTaskRunner.PreStartTask		0.6363636
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-sls/target/clover/org/apache/hadoop/yarn/sls/scheduler/TestTaskRunner_testDualTask_a
+testDualTask
+org.apache.hadoop.yarn.sls.scheduler.TaskRunner		0.5769231
+org.apache.hadoop.yarn.sls.scheduler.TaskRunner.Task		0.5714286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-sls/target/clover/org/apache/hadoop/yarn/sls/scheduler/TestTaskRunner_testMultiTask_b
+testMultiTask
+org.apache.hadoop.yarn.sls.scheduler.TaskRunner.Task		0.64285713
+org.apache.hadoop.yarn.sls.scheduler.TaskRunner		0.5769231
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-sls/target/clover/org/apache/hadoop/yarn/sls/scheduler/TestTaskRunner_testPreStartQueueing_4
+testPreStartQueueing
+org.apache.hadoop.yarn.sls.scheduler.TaskRunner		0.61538464
+org.apache.hadoop.yarn.sls.scheduler.TaskRunner.Task		0.51785713
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-sls/target/clover/org/apache/hadoop/yarn/sls/scheduler/TestTaskRunner_testSingleTask_3
+testSingleTask
+org.apache.hadoop.yarn.sls.scheduler.TaskRunner		0.5769231
+org.apache.hadoop.yarn.sls.scheduler.TaskRunner.Task		0.51785713
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-sls/target/clover/org/apache/hadoop/yarn/sls/scheduler/TestTaskRunner_testTriTask_6
+testTriTask
+org.apache.hadoop.yarn.sls.scheduler.TaskRunner.Task		0.64285713
+org.apache.hadoop.yarn.sls.scheduler.TaskRunner		0.5769231
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-sls/target/clover/org/apache/hadoop/yarn/sls/utils/TestSLSUtils
+TestSLSUtils		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-sls/target/clover/org/apache/hadoop/yarn/sls/utils/TestSLSUtils_testGetRackHostname_1
+testGetRackHostname
+org.apache.hadoop.yarn.sls.utils.SLSUtils		0.05172414
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-sls/target/clover/org/apache/hadoop/yarn/sls/web/TestSLSWebApp
+TestSLSWebApp		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-sls/target/clover/org/apache/hadoop/yarn/sls/web/TestSLSWebApp_testSimulateInfoPageHtmlTemplate_9
+testSimulateInfoPageHtmlTemplate
+org.apache.hadoop.yarn.sls.scheduler.TaskRunner		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-sls/target/clover/org/apache/hadoop/yarn/sls/web/TestSLSWebApp_testSimulatePageHtmlTemplate_2
+testSimulatePageHtmlTemplate
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-sls/target/clover/org/apache/hadoop/yarn/sls/web/TestSLSWebApp_testTrackPageHtmlTemplate_7
+testTrackPageHtmlTemplate
+-- -- -- -- -- -- -- -- -- -- -- -- --

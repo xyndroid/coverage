@@ -1,0 +1,157 @@
+./components/camel-ehcache/target/site/clover/org/apache/camel
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/EhcacheConfigurationTest
+EhcacheConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/EhcacheConfigurationTest_testFileConfiguration_k
+org.apache.camel.component.ehcache.EhcacheManager		0.125
+org.apache.camel.component.ehcache.EhcacheEndpoint		0.08695652
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/EhcacheConfigurationTest_testProgrammaticConfiguration_s
+org.apache.camel.component.ehcache.EhcacheManager		0.125
+org.apache.camel.component.ehcache.EhcacheEndpoint		0.08695652
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/EhcacheConfigurationTest_testUserConfiguration_e
+org.apache.camel.component.ehcache.EhcacheProducer		0.29310346
+org.apache.camel.component.ehcache.EhcacheManager		0.225
+org.apache.camel.component.ehcache.EhcacheConfiguration		0.10204082
+org.apache.camel.component.ehcache.EhcacheEndpoint		0.08695652
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/EhcacheConsumerTest
+EhcacheConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/EhcacheConsumerTest_testEvents_c
+org.apache.camel.component.ehcache.EhcacheConsumer		0.42857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/EhcacheProducerTest
+EhcacheProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/EhcacheProducerTest_testCacheClear_4
+org.apache.camel.component.ehcache.EhcacheProducer		0.1637931
+org.apache.camel.component.ehcache.EhcacheConfiguration		0.020408163
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/EhcacheProducerTest_testCacheGetAll_9
+org.apache.camel.component.ehcache.EhcacheProducer		0.1724138
+org.apache.camel.component.ehcache.EhcacheConfiguration		0.020408163
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/EhcacheProducerTest_testCacheGet_8
+org.apache.camel.component.ehcache.EhcacheProducer		0.23275863
+org.apache.camel.component.ehcache.EhcacheConfiguration		0.040816326
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/EhcacheProducerTest_testCachePutAll_1
+org.apache.camel.component.ehcache.EhcacheProducer		0.23275863
+org.apache.camel.component.ehcache.EhcacheConfiguration		0.020408163
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/EhcacheProducerTest_testCachePutIfAbsent_6
+org.apache.camel.component.ehcache.EhcacheProducer		0.31034482
+org.apache.camel.component.ehcache.EhcacheConfiguration		0.06122449
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/EhcacheProducerTest_testCachePut_g
+org.apache.camel.component.ehcache.EhcacheProducer		0.29310346
+org.apache.camel.component.ehcache.EhcacheConfiguration		0.06122449
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/EhcacheProducerTest_testCacheRemoveAll_a
+org.apache.camel.component.ehcache.EhcacheProducer		0.1637931
+org.apache.camel.component.ehcache.EhcacheConfiguration		0.020408163
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/EhcacheProducerTest_testCacheRemoveIf_b
+org.apache.camel.component.ehcache.EhcacheProducer		0.25862068
+org.apache.camel.component.ehcache.EhcacheConfiguration		0.040816326
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/EhcacheProducerTest_testCacheRemove_d
+org.apache.camel.component.ehcache.EhcacheProducer		0.25862068
+org.apache.camel.component.ehcache.EhcacheConfiguration		0.040816326
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/EhcacheProducerTest_testCacheReplace_f
+org.apache.camel.component.ehcache.EhcacheProducer		0.37931034
+org.apache.camel.component.ehcache.EhcacheConfiguration		0.06122449
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/EhcacheSpringConfigurationTest
+EhcacheSpringConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/EhcacheSpringConfigurationTest_testFileConfiguration_0
+org.apache.camel.component.ehcache.EhcacheManager		0.125
+org.apache.camel.component.ehcache.EhcacheEndpoint		0.08695652
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/EhcacheSpringConfigurationTest_testProgrammaticConfiguration_m
+org.apache.camel.component.ehcache.EhcacheManager		0.125
+org.apache.camel.component.ehcache.EhcacheEndpoint		0.08695652
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/EhcacheTestSupport
+EhcacheTestSupport		0.9302326
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/processor/aggregate/EhcacheAggregationRepositoryOperationTest
+EhcacheAggregationRepositoryOperationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/processor/aggregate/EhcacheAggregationRepositoryOperationTest_testAdd_l
+org.apache.camel.component.ehcache.processor.aggregate.EhcacheAggregationRepository		0.1368421
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/processor/aggregate/EhcacheAggregationRepositoryOperationTest_testConfirmExist_u
+org.apache.camel.component.ehcache.processor.aggregate.EhcacheAggregationRepository		0.16842106
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/processor/aggregate/EhcacheAggregationRepositoryOperationTest_testConfirmNotExist_t
+org.apache.camel.component.ehcache.processor.aggregate.EhcacheAggregationRepository		0.16842106
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/processor/aggregate/EhcacheAggregationRepositoryOperationTest_testGetExists_h
+org.apache.camel.component.ehcache.processor.aggregate.EhcacheAggregationRepository		0.18947369
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/processor/aggregate/EhcacheAggregationRepositoryOperationTest_testGetKeys_v
+org.apache.camel.component.ehcache.processor.aggregate.EhcacheAggregationRepository		0.15789473
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/processor/aggregate/EhcacheAggregationRepositoryOperationTest_testGetNotExists_2
+org.apache.camel.component.ehcache.processor.aggregate.EhcacheAggregationRepository		0.094736844
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/processor/aggregate/EhcacheAggregationRepositoryOperationTest_testRecover_3
+org.apache.camel.component.ehcache.processor.aggregate.EhcacheAggregationRepository		0.18947369
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/processor/aggregate/EhcacheAggregationRepositoryOperationTest_testRemoveExists_5
+org.apache.camel.component.ehcache.processor.aggregate.EhcacheAggregationRepository		0.16842106
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/processor/aggregate/EhcacheAggregationRepositoryOperationTest_testRemoveNotExists_q
+org.apache.camel.component.ehcache.processor.aggregate.EhcacheAggregationRepository		0.05263158
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/processor/aggregate/EhcacheAggregationRepositoryOperationTest_testScan_o
+org.apache.camel.component.ehcache.processor.aggregate.EhcacheAggregationRepository		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/processor/aggregate/EhcacheAggregationRepositoryRoutesTest
+EhcacheAggregationRepositoryRoutesTest		0.9130435
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/processor/aggregate/EhcacheAggregationRepositoryRoutesTest_checkAggregationFromOneRoute_7
+org.apache.camel.component.ehcache.processor.aggregate.EhcacheAggregationRepository		0.23157895
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/processor/aggregate/test-EhcacheAggregationRepositoryOperationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/processor/aggregate/test-EhcacheAggregationRepositoryRoutesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/processor/idempotent/EhcacheIdempotentRepositoryTest
+EhcacheIdempotentRepositoryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/processor/idempotent/EhcacheIdempotentRepositoryTest_testAdd_j
+org.apache.camel.component.ehcache.processor.idempotent.EhcacheIdempotentRepository		0.08695652
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/processor/idempotent/EhcacheIdempotentRepositoryTest_testClear_p
+org.apache.camel.component.ehcache.processor.idempotent.EhcacheIdempotentRepository		0.3043478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/processor/idempotent/EhcacheIdempotentRepositoryTest_testConfirm_w
+org.apache.camel.component.ehcache.processor.idempotent.EhcacheIdempotentRepository		0.17391305
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/processor/idempotent/EhcacheIdempotentRepositoryTest_testContains_r
+org.apache.camel.component.ehcache.processor.idempotent.EhcacheIdempotentRepository		0.17391305
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/processor/idempotent/EhcacheIdempotentRepositoryTest_testRemove_n
+org.apache.camel.component.ehcache.processor.idempotent.EhcacheIdempotentRepository		0.17391305
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/processor/idempotent/EhcacheIdempotentRepositoryTest_testRepositoryInRoute_i
+org.apache.camel.component.ehcache.processor.idempotent.EhcacheIdempotentRepository		0.17391305
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/processor/idempotent/test-EhcacheIdempotentRepositoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/test-EhcacheConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/test-EhcacheConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/test-EhcacheProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/test-EhcacheSpringConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ehcache/target/site/clover/org/apache/camel/component/ehcache/test-EhcacheTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --

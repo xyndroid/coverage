@@ -1,0 +1,149 @@
+./hadoop-tools/hadoop-extras/target/clover/org/apache/hadoop
+./hadoop-tools/hadoop-extras/target/clover/org/apache/hadoop/mapred/tools/TestGetGroups
+TestGetGroups		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-extras/target/clover/org/apache/hadoop/tools/TestCopyFiles
+TestCopyFiles		0.94629896
+TestCopyFiles.MyFile		0.94871795
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-extras/target/clover/org/apache/hadoop/tools/TestCopyFiles_testBasedir_8
+org.apache.hadoop.tools.DistCpV1.FilePair		0.8333333
+org.apache.hadoop.tools.DistCpV1.CopyInputFormat		0.78571427
+org.apache.hadoop.tools.DistCpV1		0.56354517
+org.apache.hadoop.tools.DistCpV1.Arguments		0.556391
+org.apache.hadoop.tools.DistCpV1.CopyFilesMapper		0.53051645
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-extras/target/clover/org/apache/hadoop/tools/TestCopyFiles_testCopyDfsToDfsUpdateOverwrite_4
+org.apache.hadoop.tools.DistCpV1.FileAttribute		0.84
+org.apache.hadoop.tools.DistCpV1.FilePair		0.8333333
+org.apache.hadoop.tools.DistCpV1.CopyInputFormat		0.78571427
+org.apache.hadoop.tools.DistCpV1.Arguments		0.63909775
+org.apache.hadoop.tools.DistCpV1		0.6086956
+org.apache.hadoop.tools.DistCpV1.CopyFilesMapper		0.600939
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-extras/target/clover/org/apache/hadoop/tools/TestCopyFiles_testCopyDfsToDfsUpdateWithSkipCRC_9
+org.apache.hadoop.tools.DistCpV1.FilePair		0.8333333
+org.apache.hadoop.tools.DistCpV1.CopyInputFormat		0.78571427
+org.apache.hadoop.tools.DistCpV1.Arguments		0.63909775
+org.apache.hadoop.tools.DistCpV1		0.5652174
+org.apache.hadoop.tools.DistCpV1.CopyFilesMapper		0.5539906
+org.apache.hadoop.tools.DistCpV1.FileAttribute		0.16
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-extras/target/clover/org/apache/hadoop/tools/TestCopyFiles_testCopyDuplication_g
+org.apache.hadoop.tools.DistCpV1.DuplicationException		1.0
+org.apache.hadoop.tools.DistCpV1.FilePair		0.8333333
+org.apache.hadoop.tools.DistCpV1.CopyInputFormat		0.78571427
+org.apache.hadoop.tools.DistCpV1.CopyFilesMapper		0.54460096
+org.apache.hadoop.tools.DistCpV1		0.54180604
+org.apache.hadoop.tools.DistCpV1.Arguments		0.5263158
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-extras/target/clover/org/apache/hadoop/tools/TestCopyFiles_testCopyFromDfsToDfs_5
+org.apache.hadoop.tools.DistCpV1.FilePair		0.8333333
+org.apache.hadoop.tools.DistCpV1.CopyInputFormat		0.78571427
+org.apache.hadoop.tools.DistCpV1.Arguments		0.556391
+org.apache.hadoop.tools.DistCpV1.CopyFilesMapper		0.54460096
+org.apache.hadoop.tools.DistCpV1		0.5133779
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-extras/target/clover/org/apache/hadoop/tools/TestCopyFiles_testCopyFromDfsToLocal_a
+org.apache.hadoop.tools.DistCpV1.FilePair		0.8333333
+org.apache.hadoop.tools.DistCpV1.CopyInputFormat		0.78571427
+org.apache.hadoop.tools.DistCpV1.Arguments		0.556391
+org.apache.hadoop.tools.DistCpV1.CopyFilesMapper		0.54460096
+org.apache.hadoop.tools.DistCpV1		0.5133779
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-extras/target/clover/org/apache/hadoop/tools/TestCopyFiles_testCopyFromLocalToDfs_1
+org.apache.hadoop.tools.DistCpV1.FilePair		0.8333333
+org.apache.hadoop.tools.DistCpV1.CopyInputFormat		0.78571427
+org.apache.hadoop.tools.DistCpV1.Arguments		0.556391
+org.apache.hadoop.tools.DistCpV1.CopyFilesMapper		0.54460096
+org.apache.hadoop.tools.DistCpV1		0.5133779
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-extras/target/clover/org/apache/hadoop/tools/TestCopyFiles_testCopyFromLocalToLocal_d
+org.apache.hadoop.tools.DistCpV1.FilePair		0.8333333
+org.apache.hadoop.tools.DistCpV1.CopyInputFormat		0.78571427
+org.apache.hadoop.tools.DistCpV1.CopyFilesMapper		0.54460096
+org.apache.hadoop.tools.DistCpV1		0.5284281
+org.apache.hadoop.tools.DistCpV1.Arguments		0.5263158
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-extras/target/clover/org/apache/hadoop/tools/TestCopyFiles_testCopySingleFile_f
+org.apache.hadoop.tools.DistCpV1.FilePair		0.8333333
+org.apache.hadoop.tools.DistCpV1.CopyInputFormat		0.78571427
+org.apache.hadoop.tools.DistCpV1.CopyFilesMapper		0.5915493
+org.apache.hadoop.tools.DistCpV1.Arguments		0.5864662
+org.apache.hadoop.tools.DistCpV1		0.56688964
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-extras/target/clover/org/apache/hadoop/tools/TestCopyFiles_testDeleteLocal_0
+org.apache.hadoop.tools.DistCpV1.FilePair		0.8333333
+org.apache.hadoop.tools.DistCpV1.CopyInputFormat		0.78571427
+org.apache.hadoop.tools.DistCpV1		0.6471572
+org.apache.hadoop.tools.DistCpV1.Arguments		0.6165413
+org.apache.hadoop.tools.DistCpV1.CopyFilesMapper		0.53051645
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-extras/target/clover/org/apache/hadoop/tools/TestCopyFiles_testDelete_7
+org.apache.hadoop.tools.DistCpV1.FilePair		0.8333333
+org.apache.hadoop.tools.DistCpV1.CopyInputFormat		0.78571427
+org.apache.hadoop.tools.DistCpV1		0.6588629
+org.apache.hadoop.tools.DistCpV1.Arguments		0.6165413
+org.apache.hadoop.tools.DistCpV1.CopyFilesMapper		0.53051645
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-extras/target/clover/org/apache/hadoop/tools/TestCopyFiles_testEmptyDir_i
+org.apache.hadoop.tools.DistCpV1.FilePair		0.8333333
+org.apache.hadoop.tools.DistCpV1.CopyInputFormat		0.78571427
+org.apache.hadoop.tools.DistCpV1.Arguments		0.556391
+org.apache.hadoop.tools.DistCpV1		0.40802675
+org.apache.hadoop.tools.DistCpV1.CopyFilesMapper		0.2488263
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-extras/target/clover/org/apache/hadoop/tools/TestCopyFiles_testGlobbing_2
+org.apache.hadoop.tools.DistCpV1.FilePair		0.8333333
+org.apache.hadoop.tools.DistCpV1.CopyInputFormat		0.78571427
+org.apache.hadoop.tools.DistCpV1.Arguments		0.556391
+org.apache.hadoop.tools.DistCpV1.CopyFilesMapper		0.53051645
+org.apache.hadoop.tools.DistCpV1		0.5150502
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-extras/target/clover/org/apache/hadoop/tools/TestCopyFiles_testHftpAccessControl_6
+org.apache.hadoop.tools.DistCpV1.Arguments		0.5263158
+org.apache.hadoop.tools.DistCpV1		0.07023411
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-extras/target/clover/org/apache/hadoop/tools/TestCopyFiles_testLimits_h
+org.apache.hadoop.tools.DistCpV1.FilePair		0.8333333
+org.apache.hadoop.tools.DistCpV1.CopyInputFormat		0.78571427
+org.apache.hadoop.tools.DistCpV1.Arguments		0.6165413
+org.apache.hadoop.tools.DistCpV1		0.57525086
+org.apache.hadoop.tools.DistCpV1.CopyFilesMapper		0.54460096
+org.apache.hadoop.tools.DistCpV1.Options		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-extras/target/clover/org/apache/hadoop/tools/TestCopyFiles_testMapCount_e
+org.apache.hadoop.tools.DistCpV1.FilePair		0.8333333
+org.apache.hadoop.tools.DistCpV1.CopyInputFormat		0.78571427
+org.apache.hadoop.tools.DistCpV1.Arguments		0.59398496
+org.apache.hadoop.tools.DistCpV1.CopyFilesMapper		0.54460096
+org.apache.hadoop.tools.DistCpV1		0.5100334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-extras/target/clover/org/apache/hadoop/tools/TestCopyFiles_testPreserveOption_b
+org.apache.hadoop.tools.DistCpV1.FilePair		0.8333333
+org.apache.hadoop.tools.DistCpV1.CopyInputFormat		0.78571427
+org.apache.hadoop.tools.DistCpV1.FileAttribute		0.68
+org.apache.hadoop.tools.DistCpV1		0.59699
+org.apache.hadoop.tools.DistCpV1.CopyFilesMapper		0.58685446
+org.apache.hadoop.tools.DistCpV1.Arguments		0.5714286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-extras/target/clover/org/apache/hadoop/tools/TestDistCh
+TestDistCh		0.9866667
+TestDistCh.FileTree		1.0
+TestDistCh.ChPermissionStatus		0.8181818
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-extras/target/clover/org/apache/hadoop/tools/TestDistCh_testDistCh_3
+org.apache.hadoop.tools.DistCh.Option		1.0
+org.apache.hadoop.tools.DistCh.FileOperation		0.80263156
+org.apache.hadoop.tools.DistCh.ChangeInputFormat		0.74358976
+org.apache.hadoop.tools.DistCh		0.6927374
+org.apache.hadoop.tools.DistTool		0.5882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-extras/target/clover/org/apache/hadoop/tools/TestLogalyzer
+TestLogalyzer		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-extras/target/clover/org/apache/hadoop/tools/TestLogalyzer_testLogalyzer_c
+org.apache.hadoop.tools.Logalyzer.LogRegexMapper		1.0
+org.apache.hadoop.tools.Logalyzer		0.82
+org.apache.hadoop.tools.Logalyzer.LogComparator		0.7708333
+-- -- -- -- -- -- -- -- -- -- -- -- --

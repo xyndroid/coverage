@@ -1,0 +1,151 @@
+./components/camel-beanio/target/site/clover/org/apache/camel
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/BeanIODataFormatComplexTest
+BeanIODataFormatComplexTest		0.97979796
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/BeanIODataFormatComplexTest_testMarshal_b
+org.apache.camel.dataformat.beanio.BeanIODataFormat		0.16666667
+org.apache.camel.dataformat.beanio.BeanIOConfiguration		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/BeanIODataFormatComplexTest_testUnmarshalInvalidIgnore_f
+org.apache.camel.dataformat.beanio.BeanIOHelper		0.6666667
+org.apache.camel.dataformat.beanio.BeanIOErrorHandler		0.4680851
+org.apache.camel.dataformat.beanio.BeanIOConfiguration		0.31578946
+org.apache.camel.dataformat.beanio.BeanIODataFormat		0.2037037
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/BeanIODataFormatComplexTest_testUnmarshalInvalid_8
+org.apache.camel.dataformat.beanio.BeanIOHelper		0.6666667
+org.apache.camel.dataformat.beanio.BeanIOErrorHandler		0.38297874
+org.apache.camel.dataformat.beanio.BeanIOConfiguration		0.2631579
+org.apache.camel.dataformat.beanio.BeanIODataFormat		0.18518518
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/BeanIODataFormatComplexTest_testUnmarshalUnexpectedIgnore_3
+org.apache.camel.dataformat.beanio.BeanIOHelper		0.6666667
+org.apache.camel.dataformat.beanio.BeanIOErrorHandler		0.3617021
+org.apache.camel.dataformat.beanio.BeanIOConfiguration		0.2631579
+org.apache.camel.dataformat.beanio.BeanIODataFormat		0.2037037
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/BeanIODataFormatComplexTest_testUnmarshalUnexpected_g
+org.apache.camel.dataformat.beanio.BeanIOHelper		0.6666667
+org.apache.camel.dataformat.beanio.BeanIOErrorHandler		0.38297874
+org.apache.camel.dataformat.beanio.BeanIOConfiguration		0.2631579
+org.apache.camel.dataformat.beanio.BeanIODataFormat		0.18518518
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/BeanIODataFormatComplexTest_testUnmarshalUnidentifiedIgnore_5
+org.apache.camel.dataformat.beanio.BeanIOHelper		0.6666667
+org.apache.camel.dataformat.beanio.BeanIOErrorHandler		0.3617021
+org.apache.camel.dataformat.beanio.BeanIOConfiguration		0.2631579
+org.apache.camel.dataformat.beanio.BeanIODataFormat		0.2037037
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/BeanIODataFormatComplexTest_testUnmarshalUnidentified_d
+org.apache.camel.dataformat.beanio.BeanIOHelper		0.6666667
+org.apache.camel.dataformat.beanio.BeanIOErrorHandler		0.38297874
+org.apache.camel.dataformat.beanio.BeanIOConfiguration		0.2631579
+org.apache.camel.dataformat.beanio.BeanIODataFormat		0.18518518
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/BeanIODataFormatComplexTest_testUnmarshal_7
+org.apache.camel.dataformat.beanio.BeanIOHelper		0.6666667
+org.apache.camel.dataformat.beanio.BeanIOErrorHandler		0.21276596
+org.apache.camel.dataformat.beanio.BeanIOConfiguration		0.21052632
+org.apache.camel.dataformat.beanio.BeanIODataFormat		0.2037037
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/BeanIODataFormatSimpleCustomBeanReaderErrorHandlerTest
+BeanIODataFormatSimpleCustomBeanReaderErrorHandlerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/BeanIODataFormatSimpleCustomBeanReaderErrorHandlerTest_testMarshal_4
+org.apache.camel.dataformat.beanio.BeanIODataFormat		0.16666667
+org.apache.camel.dataformat.beanio.BeanIOConfiguration		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/BeanIODataFormatSimpleCustomBeanReaderErrorHandlerTest_testUnmarshalFail_1
+org.apache.camel.dataformat.beanio.BeanIOHelper		0.7407407
+org.apache.camel.dataformat.beanio.BeanIOErrorHandler		0.34042552
+org.apache.camel.dataformat.beanio.BeanIODataFormat		0.18518518
+org.apache.camel.dataformat.beanio.BeanIOConfiguration		0.15789473
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/BeanIODataFormatSimpleCustomBeanReaderErrorHandlerTest_testUnmarshal_0
+org.apache.camel.dataformat.beanio.BeanIOHelper		0.7407407
+org.apache.camel.dataformat.beanio.BeanIOErrorHandler		0.21276596
+org.apache.camel.dataformat.beanio.BeanIODataFormat		0.18518518
+org.apache.camel.dataformat.beanio.BeanIOConfiguration		0.15789473
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/BeanIODataFormatSimpleTest
+BeanIODataFormatSimpleTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/BeanIODataFormatSimpleTest_testMarshal_h
+org.apache.camel.dataformat.beanio.BeanIODataFormat		0.16666667
+org.apache.camel.dataformat.beanio.BeanIOConfiguration		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/BeanIODataFormatSimpleTest_testUnmarshal_a
+org.apache.camel.dataformat.beanio.BeanIOHelper		0.6666667
+org.apache.camel.dataformat.beanio.BeanIOErrorHandler		0.21276596
+org.apache.camel.dataformat.beanio.BeanIOConfiguration		0.21052632
+org.apache.camel.dataformat.beanio.BeanIODataFormat		0.18518518
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/BeanIOSplitterCustomBeanReaderErrorHandlerTest
+BeanIOSplitterCustomBeanReaderErrorHandlerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/BeanIOSplitterCustomBeanReaderErrorHandlerTest_testSplitFail_9
+org.apache.camel.dataformat.beanio.BeanIOIterator		0.875
+org.apache.camel.dataformat.beanio.BeanIOHelper		0.7407407
+org.apache.camel.dataformat.beanio.BeanIOSplitter		0.4105263
+org.apache.camel.dataformat.beanio.BeanIOErrorHandler		0.38297874
+org.apache.camel.dataformat.beanio.BeanIOConfiguration		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/BeanIOSplitterCustomBeanReaderErrorHandlerTest_testSplit_2
+org.apache.camel.dataformat.beanio.BeanIOHelper		0.7407407
+org.apache.camel.dataformat.beanio.BeanIOIterator		0.71875
+org.apache.camel.dataformat.beanio.BeanIOSplitter		0.4105263
+org.apache.camel.dataformat.beanio.BeanIOErrorHandler		0.21276596
+org.apache.camel.dataformat.beanio.BeanIOConfiguration		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/BeanIOSplitterTest
+BeanIOSplitterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/BeanIOSplitterTest_testSplit_c
+org.apache.camel.dataformat.beanio.BeanIOIterator		0.71875
+org.apache.camel.dataformat.beanio.BeanIOHelper		0.6666667
+org.apache.camel.dataformat.beanio.BeanIOSplitter		0.4105263
+org.apache.camel.dataformat.beanio.BeanIOConfiguration		0.2631579
+org.apache.camel.dataformat.beanio.BeanIOErrorHandler		0.21276596
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/SpringBeanIODataFormatSimpleTest
+SpringBeanIODataFormatSimpleTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/SpringBeanIODataFormatSimpleTest_testMarshal_6
+org.apache.camel.dataformat.beanio.BeanIODataFormat		0.16666667
+org.apache.camel.dataformat.beanio.BeanIOConfiguration		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/SpringBeanIODataFormatSimpleTest_testUnmarshal_i
+org.apache.camel.dataformat.beanio.BeanIOHelper		0.6666667
+org.apache.camel.dataformat.beanio.BeanIOErrorHandler		0.21276596
+org.apache.camel.dataformat.beanio.BeanIOConfiguration		0.21052632
+org.apache.camel.dataformat.beanio.BeanIODataFormat		0.18518518
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/csv/CsvTest
+CsvTest		0.85714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/csv/CsvTestWithProperties
+CsvTestWithProperties		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/csv/CsvTest_testUnmarshal_e
+testUnmarshal
+org.apache.camel.dataformat.beanio.BeanIOHelper		0.6666667
+org.apache.camel.dataformat.beanio.BeanIOErrorHandler		0.21276596
+org.apache.camel.dataformat.beanio.BeanIOConfiguration		0.21052632
+org.apache.camel.dataformat.beanio.BeanIODataFormat		0.18518518
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/csv/test-CsvTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/csv/test-CsvTestWithProperties
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/test-BeanIODataFormatComplexTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/test-BeanIODataFormatSimpleCustomBeanReaderErrorHandlerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/test-BeanIODataFormatSimpleTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/test-BeanIOSplitterCustomBeanReaderErrorHandlerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/test-BeanIOSplitterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-beanio/target/site/clover/org/apache/camel/dataformat/beanio/test-SpringBeanIODataFormatSimpleTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

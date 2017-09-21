@@ -1,0 +1,186 @@
+./components/camel-urlrewrite/target/site/clover/org/apache/camel
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/BaseUrlRewriteTest
+BaseUrlRewriteTest		0.8181818
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http/HttpUrlRewriteLoadBalanceFailoverTest
+HttpUrlRewriteLoadBalanceFailoverTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http/HttpUrlRewriteLoadBalanceFailoverTest_testHttpUriRewrite_0
+testHttpUriRewrite
+org.apache.camel.component.urlrewrite.HttpUrlRewrite		0.5
+org.apache.camel.component.urlrewrite.UrlRewriteFilter		0.05882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http/HttpUrlRewriteLoadBalanceRoundRobinTest
+HttpUrlRewriteLoadBalanceRoundRobinTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http/HttpUrlRewriteLoadBalanceRoundRobinTest_testHttpUriRewrite_c
+testHttpUriRewrite
+org.apache.camel.component.urlrewrite.HttpUrlRewrite		0.5
+org.apache.camel.component.urlrewrite.UrlRewriteFilter		0.05882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http/HttpUrlRewriteModFileTest
+HttpUrlRewriteModFileTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http/HttpUrlRewriteModFileTest_testHttpUriRewrite_3
+testHttpUriRewrite
+org.apache.camel.component.urlrewrite.HttpUrlRewrite		0.5
+org.apache.camel.component.urlrewrite.UrlRewriteFilter		0.05882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http/HttpUrlRewriteModTest
+HttpUrlRewriteModTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http/HttpUrlRewriteModTest_testHttpUriRewrite_h
+testHttpUriRewrite
+org.apache.camel.component.urlrewrite.HttpUrlRewrite		0.5
+org.apache.camel.component.urlrewrite.UrlRewriteFilter		0.05882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http/HttpUrlRewritePingQueryTest
+HttpUrlRewritePingQueryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http/HttpUrlRewritePingQueryTest_testHttpUriRewrite_6
+testHttpUriRewrite
+org.apache.camel.component.urlrewrite.HttpUrlRewrite		0.5
+org.apache.camel.component.urlrewrite.UrlRewriteFilter		0.05882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http/HttpUrlRewritePingTest
+HttpUrlRewritePingTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http/HttpUrlRewritePingTest_testHttpUriRewrite_7
+testHttpUriRewrite
+org.apache.camel.component.urlrewrite.HttpUrlRewrite		0.5
+org.apache.camel.component.urlrewrite.UrlRewriteFilter		0.05882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http/HttpUrlRewriteTest
+HttpUrlRewriteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http/HttpUrlRewriteTest_testHttpUriRewrite_e
+testHttpUriRewrite
+org.apache.camel.component.urlrewrite.HttpUrlRewrite		0.5
+org.apache.camel.component.urlrewrite.UrlRewriteFilter		0.05882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http/test-HttpUrlRewriteLoadBalanceFailoverTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http/test-HttpUrlRewriteLoadBalanceRoundRobinTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http/test-HttpUrlRewriteModFileTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http/test-HttpUrlRewriteModTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http/test-HttpUrlRewritePingQueryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http/test-HttpUrlRewritePingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http/test-HttpUrlRewriteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http4/Http4UrlRewriteLoadBalanceFailoverTest
+Http4UrlRewriteLoadBalanceFailoverTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http4/Http4UrlRewriteLoadBalanceFailoverTest_testHttpUriRewrite_4
+testHttpUriRewrite
+org.apache.camel.component.urlrewrite.HttpUrlRewrite		0.5
+org.apache.camel.component.urlrewrite.UrlRewriteFilter		0.05882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http4/Http4UrlRewriteLoadBalanceRoundRobinTest
+Http4UrlRewriteLoadBalanceRoundRobinTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http4/Http4UrlRewriteLoadBalanceRoundRobinTest_testHttpUriRewrite_2
+testHttpUriRewrite
+org.apache.camel.component.urlrewrite.HttpUrlRewrite		0.5
+org.apache.camel.component.urlrewrite.UrlRewriteFilter		0.05882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http4/Http4UrlRewriteModFileTest
+Http4UrlRewriteModFileTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http4/Http4UrlRewriteModFileTest_testHttpUriRewrite_5
+testHttpUriRewrite
+org.apache.camel.component.urlrewrite.HttpUrlRewrite		0.5
+org.apache.camel.component.urlrewrite.UrlRewriteFilter		0.05882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http4/Http4UrlRewriteModTest
+Http4UrlRewriteModTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http4/Http4UrlRewriteModTest_testHttpUriRewrite_f
+testHttpUriRewrite
+org.apache.camel.component.urlrewrite.HttpUrlRewrite		0.5
+org.apache.camel.component.urlrewrite.UrlRewriteFilter		0.05882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http4/Http4UrlRewritePingQueryTest
+Http4UrlRewritePingQueryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http4/Http4UrlRewritePingQueryTest_testHttpUriRewrite_g
+testHttpUriRewrite
+org.apache.camel.component.urlrewrite.HttpUrlRewrite		0.5
+org.apache.camel.component.urlrewrite.UrlRewriteFilter		0.05882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http4/Http4UrlRewritePingTest
+Http4UrlRewritePingTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http4/Http4UrlRewritePingTest_testHttpUriRewrite_9
+testHttpUriRewrite
+org.apache.camel.component.urlrewrite.HttpUrlRewrite		0.5
+org.apache.camel.component.urlrewrite.UrlRewriteFilter		0.05882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http4/Http4UrlRewriteTest
+Http4UrlRewriteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http4/Http4UrlRewriteTest_testHttpUriRewrite_d
+testHttpUriRewrite
+org.apache.camel.component.urlrewrite.HttpUrlRewrite		0.5
+org.apache.camel.component.urlrewrite.UrlRewriteFilter		0.05882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http4/test-Http4UrlRewriteLoadBalanceFailoverTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http4/test-Http4UrlRewriteLoadBalanceRoundRobinTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http4/test-Http4UrlRewriteModFileTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http4/test-Http4UrlRewriteModTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http4/test-Http4UrlRewritePingQueryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http4/test-Http4UrlRewritePingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/http4/test-Http4UrlRewriteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/jetty/JettyUrlRewriteLoadBalanceFailoverTest
+JettyUrlRewriteLoadBalanceFailoverTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/jetty/JettyUrlRewriteLoadBalanceFailoverTest_testHttpUriRewrite_1
+testHttpUriRewrite
+org.apache.camel.component.urlrewrite.HttpUrlRewrite		0.5
+org.apache.camel.component.urlrewrite.UrlRewriteFilter		0.05882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/jetty/JettyUrlRewriteLoadBalanceRoundRobinTest
+JettyUrlRewriteLoadBalanceRoundRobinTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/jetty/JettyUrlRewriteLoadBalanceRoundRobinTest_testJettyUriRewrite_b
+testJettyUriRewrite
+org.apache.camel.component.urlrewrite.HttpUrlRewrite		0.5
+org.apache.camel.component.urlrewrite.UrlRewriteFilter		0.05882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/jetty/JettyUrlRewriteModTest
+JettyUrlRewriteModTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/jetty/JettyUrlRewriteModTest_testHttpUriRewrite_a
+testHttpUriRewrite
+org.apache.camel.component.urlrewrite.HttpUrlRewrite		0.5
+org.apache.camel.component.urlrewrite.UrlRewriteFilter		0.05882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/jetty/JettyUrlRewriteTest
+JettyUrlRewriteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/jetty/JettyUrlRewriteTest_testJettyUriRewrite_8
+testJettyUriRewrite
+org.apache.camel.component.urlrewrite.HttpUrlRewrite		0.5
+org.apache.camel.component.urlrewrite.UrlRewriteFilter		0.05882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/jetty/test-JettyUrlRewriteLoadBalanceFailoverTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/jetty/test-JettyUrlRewriteLoadBalanceRoundRobinTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/jetty/test-JettyUrlRewriteModTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/jetty/test-JettyUrlRewriteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-urlrewrite/target/site/clover/org/apache/camel/component/urlrewrite/test-BaseUrlRewriteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

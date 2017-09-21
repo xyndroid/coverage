@@ -1,0 +1,45 @@
+./components/camel-mvel/target/site/clover/org/apache/camel
+./components/camel-mvel/target/site/clover/org/apache/camel/language/mvel/MvelComponentTest
+MvelComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mvel/target/site/clover/org/apache/camel/language/mvel/MvelComponentTest_testMvelTemplate_4
+org.apache.camel.component.mvel.MvelEndpoint		0.36065573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mvel/target/site/clover/org/apache/camel/language/mvel/MvelComponentTest_testMvelUri_1
+org.apache.camel.component.mvel.MvelEndpoint		0.72131145
+org.apache.camel.component.mvel.MvelComponent		0.61538464
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mvel/target/site/clover/org/apache/camel/language/mvel/MvelComponentTest_testMvel_2
+org.apache.camel.component.mvel.MvelEndpoint		0.4918033
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mvel/target/site/clover/org/apache/camel/language/mvel/MvelResourceTest
+MvelResourceTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mvel/target/site/clover/org/apache/camel/language/mvel/MvelResourceTest_testMvelResource_5
+org.apache.camel.language.mvel.RootObject		0.2
+org.apache.camel.language.mvel.MvelExpression		0.17391305
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mvel/target/site/clover/org/apache/camel/language/mvel/MvelTest
+MvelTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mvel/target/site/clover/org/apache/camel/language/mvel/MvelTest_testGetOutFalseKeepsNullOutMessage_3
+org.apache.camel.language.mvel.MvelLanguage		0.5
+org.apache.camel.language.mvel.MvelExpression		0.47826087
+org.apache.camel.language.mvel.RootObject		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mvel/target/site/clover/org/apache/camel/language/mvel/MvelTest_testMvelExpressions_0
+org.apache.camel.language.mvel.MvelLanguage		0.5
+org.apache.camel.language.mvel.MvelExpression		0.47826087
+org.apache.camel.language.mvel.RootObject		0.3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mvel/target/site/clover/org/apache/camel/language/mvel/MvelTest_testResponseCreatesOutMessage_6
+org.apache.camel.language.mvel.MvelLanguage		0.5
+org.apache.camel.language.mvel.MvelExpression		0.47826087
+org.apache.camel.language.mvel.RootObject		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mvel/target/site/clover/org/apache/camel/language/mvel/test-MvelComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mvel/target/site/clover/org/apache/camel/language/mvel/test-MvelResourceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mvel/target/site/clover/org/apache/camel/language/mvel/test-MvelTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

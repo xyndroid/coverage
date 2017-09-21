@@ -1,0 +1,178 @@
+./components/camel-stream/target/site/clover/org/apache/camel
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/ScanStreamDelayTest
+ScanStreamDelayTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/ScanStreamDelayTest_testScanFile_9
+org.apache.camel.component.stream.StreamConsumer		0.093596056
+org.apache.camel.component.stream.StreamEndpoint		0.086021505
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/ScanStreamFileManualTest
+ScanStreamFileManualTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/ScanStreamFileTest
+ScanStreamFileTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/ScanStreamFileTest_testScanFile_f
+org.apache.camel.component.stream.StreamConsumer		0.29064038
+org.apache.camel.component.stream.StreamEndpoint		0.19354838
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/ScanStreamFileTest_testScanRefreshedFile_6
+org.apache.camel.component.stream.StreamConsumer		0.2413793
+org.apache.camel.component.stream.StreamEndpoint		0.17204301
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/ScanStreamFileWithFilterTest
+ScanStreamFileWithFilterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/ScanStreamFileWithFilterTest_testScanFile_5
+org.apache.camel.component.stream.StreamEndpoint		0.12903225
+org.apache.camel.component.stream.StreamConsumer		0.12315271
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/SplitStreamFileTest
+SplitStreamFileTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/SplitStreamFileTest_testCloseFileOnDone_l
+org.apache.camel.component.stream.StreamProducer		0.45454547
+org.apache.camel.component.stream.StreamEndpoint		0.10752688
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/StreamDelayTest
+StreamDelayTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/StreamDelayTest_testStringContent_h
+org.apache.camel.component.stream.StreamProducer		0.36363637
+org.apache.camel.component.stream.StreamEndpoint		0.086021505
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/StreamEncodingTest
+StreamEncodingTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/StreamEncodingTest_testStringContent_1
+org.apache.camel.component.stream.StreamProducer		0.35664335
+org.apache.camel.component.stream.StreamEndpoint		0.086021505
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/StreamFileTest
+StreamFileTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/StreamFileTest_testFileProducer_g
+org.apache.camel.component.stream.StreamComponent		1.0
+org.apache.camel.component.stream.StreamProducer		0.6363636
+org.apache.camel.component.stream.StreamEndpoint		0.34408602
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/StreamFileTest_testFile_d
+org.apache.camel.component.stream.StreamComponent		1.0
+org.apache.camel.component.stream.StreamConsumer		0.46305418
+org.apache.camel.component.stream.StreamEndpoint		0.43010753
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/StreamGroupLinesLastStrategyTest
+StreamGroupLinesLastStrategyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/StreamGroupLinesLastStrategyTest_testGroupLines_o
+org.apache.camel.component.stream.StreamConsumer		0.18719211
+org.apache.camel.component.stream.StreamEndpoint		0.12903225
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/StreamGroupLinesStrategyTest
+StreamGroupLinesStrategyTest		1.0
+StreamGroupLinesStrategyTest.MyGroupStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/StreamGroupLinesStrategyTest_testGroupLines_2
+org.apache.camel.component.stream.StreamConsumer		0.18719211
+org.apache.camel.component.stream.StreamEndpoint		0.12903225
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/StreamGroupLinesTest
+StreamGroupLinesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/StreamGroupLinesTest_testGroupLines_e
+org.apache.camel.component.stream.DefaultGroupStrategy		1.0
+org.apache.camel.component.stream.StreamConsumer		0.18719211
+org.apache.camel.component.stream.StreamEndpoint		0.12903225
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/StreamHeaderTest
+StreamHeaderTest		1.0
+StreamHeaderTest.MyOutputStream		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/StreamHeaderTest_testBinaryContent_b
+org.apache.camel.component.stream.StreamProducer		0.3146853
+org.apache.camel.component.stream.StreamEndpoint		0.06451613
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/StreamHeaderTest_testStringContent_j
+org.apache.camel.component.stream.StreamProducer		0.33566433
+org.apache.camel.component.stream.StreamEndpoint		0.086021505
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/StreamRouteBuilderTest
+StreamRouteBuilderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/StreamRouteBuilderTest_testBinaryContent_7
+org.apache.camel.component.stream.StreamProducer		0.3986014
+org.apache.camel.component.stream.StreamEndpoint		0.06451613
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/StreamRouteBuilderTest_testStringContent_c
+org.apache.camel.component.stream.StreamProducer		0.41958043
+org.apache.camel.component.stream.StreamEndpoint		0.086021505
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/StreamSystemErrTest
+StreamSystemErrTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/StreamSystemErrTest_testBinaryContent_8
+org.apache.camel.component.stream.StreamProducer		0.34965035
+org.apache.camel.component.stream.StreamEndpoint		0.06451613
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/StreamSystemErrTest_testStringContent_m
+org.apache.camel.component.stream.StreamProducer		0.37062937
+org.apache.camel.component.stream.StreamEndpoint		0.086021505
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/StreamSystemOutTest
+StreamSystemOutTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/StreamSystemOutTest_shouldSkipNullBody_i
+org.apache.camel.component.stream.StreamProducer		0.2937063
+org.apache.camel.component.stream.StreamEndpoint		0.06451613
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/StreamSystemOutTest_testBinaryContent_a
+org.apache.camel.component.stream.StreamProducer		0.33566433
+org.apache.camel.component.stream.StreamEndpoint		0.06451613
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/StreamSystemOutTest_testStringContent_0
+org.apache.camel.component.stream.StreamProducer		0.35664335
+org.apache.camel.component.stream.StreamEndpoint		0.086021505
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/StreamToUrlTest
+StreamToUrlTest		0.88235295
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/StreamToUrlTest_shouldSendToUrlOutputStream_3
+org.apache.camel.component.stream.StreamProducer		0.45454547
+org.apache.camel.component.stream.StreamEndpoint		0.10752688
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/test-ScanStreamDelayTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/test-ScanStreamFileManualTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/test-ScanStreamFileTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/test-ScanStreamFileWithFilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/test-SplitStreamFileTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/test-StreamDelayTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/test-StreamEncodingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/test-StreamFileTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/test-StreamGroupLinesLastStrategyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/test-StreamGroupLinesStrategyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/test-StreamGroupLinesStrategyTest_MyGroupStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/test-StreamGroupLinesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/test-StreamHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/test-StreamHeaderTest_MyOutputStream
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/test-StreamRouteBuilderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/test-StreamSystemErrTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/test-StreamSystemOutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stream/target/site/clover/org/apache/camel/component/stream/test-StreamToUrlTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

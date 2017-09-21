@@ -1,0 +1,126 @@
+./components/camel-jcr/target/site/clover/org/apache/camel
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/JcrAuthLoginFailureTest
+JcrAuthLoginFailureTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/JcrAuthLoginFailureTest_testCreateNodeWithAuthentication_2
+org.apache.camel.component.jcr.JcrProducer		0.070866145
+org.apache.camel.component.jcr.JcrEndpoint		0.054545455
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/JcrAuthLoginTest
+JcrAuthLoginTest		0.94736844
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/JcrAuthLoginTest_testCreateNodeWithAuthentication_6
+org.apache.camel.component.jcr.JcrProducer		0.48818898
+org.apache.camel.component.jcr.JcrConverter		0.11764706
+org.apache.camel.component.jcr.JcrEndpoint		0.07272727
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/JcrAuthTestBase
+JcrAuthTestBase		0.9
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/JcrConsumerTest
+JcrConsumerTest		0.9318182
+JcrConsumerTest.JcrConsumerThread		0.9285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/JcrConsumerTest_testJcrConsumer_8
+org.apache.camel.component.jcr.EndpointEventListener		0.8
+org.apache.camel.component.jcr.JcrConsumer.JcrConsumerSessionListenerChecker		0.64705884
+org.apache.camel.component.jcr.JcrConsumer		0.3483146
+org.apache.camel.component.jcr.JcrMessage		0.32608697
+org.apache.camel.component.jcr.JcrEndpoint		0.16363636
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/JcrConverterTest
+JcrConverterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/JcrConverterTest_testBinaryValueConverter_c
+org.apache.camel.component.jcr.JcrConverter		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/JcrConverterTest_testBooleanValueConverter_4
+org.apache.camel.component.jcr.JcrConverter		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/JcrConverterTest_testDateValueConverter_5
+org.apache.camel.component.jcr.JcrConverter		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/JcrConverterTest_testStringValueConverter_1
+org.apache.camel.component.jcr.JcrConverter		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/JcrGetNodeByIdTest
+JcrGetNodeByIdTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/JcrGetNodeByIdTest_testJcrProducer_0
+org.apache.camel.component.jcr.JcrProducer		0.35433072
+org.apache.camel.component.jcr.JcrConverter		0.23529412
+org.apache.camel.component.jcr.JcrEndpoint		0.054545455
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/JcrNodePathCreationTest
+JcrNodePathCreationTest		0.95238096
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/JcrNodePathCreationTest_testJcrNodePathCreationMultiValued_d
+org.apache.camel.component.jcr.JcrProducer		0.511811
+org.apache.camel.component.jcr.JcrConverter		0.11764706
+org.apache.camel.component.jcr.JcrEndpoint		0.07272727
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/JcrNodePathCreationTest_testJcrNodePathCreation_7
+org.apache.camel.component.jcr.JcrProducer		0.48818898
+org.apache.camel.component.jcr.JcrConverter		0.11764706
+org.apache.camel.component.jcr.JcrEndpoint		0.07272727
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/JcrProducerDifferentWorkspaceTest
+JcrProducerDifferentWorkspaceTest		0.95238096
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/JcrProducerDifferentWorkspaceTest_testJcrProducer_a
+org.apache.camel.component.jcr.JcrProducer		0.48818898
+org.apache.camel.component.jcr.JcrConverter		0.11764706
+org.apache.camel.component.jcr.JcrEndpoint		0.07272727
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/JcrProducerSubNodeTest
+JcrProducerSubNodeTest		0.962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/JcrProducerSubNodeTest_testCreateNodeAndSubNode_3
+org.apache.camel.component.jcr.JcrProducer		0.503937
+org.apache.camel.component.jcr.JcrConverter		0.11764706
+org.apache.camel.component.jcr.JcrEndpoint		0.07272727
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/JcrProducerTest
+JcrProducerTest		0.95
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/JcrProducerTest_testJcrProducer_9
+org.apache.camel.component.jcr.JcrProducer		0.48818898
+org.apache.camel.component.jcr.JcrConverter		0.11764706
+org.apache.camel.component.jcr.JcrEndpoint		0.07272727
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/JcrProducerTest_testNodeTypeIsSpecified_b
+org.apache.camel.component.jcr.JcrProducer		0.4488189
+org.apache.camel.component.jcr.JcrEndpoint		0.07272727
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/JcrRouteDifferentWorkspaceTestSupport
+JcrRouteDifferentWorkspaceTestSupport		0.90909094
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/JcrRouteTestSupport
+JcrRouteTestSupport		0.88235295
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/test-JcrAuthLoginFailureTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/test-JcrAuthLoginTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/test-JcrAuthTestBase
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/test-JcrConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/test-JcrConsumerTest_JcrConsumerThread
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/test-JcrConverterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/test-JcrGetNodeByIdTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/test-JcrNodePathCreationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/test-JcrProducerDifferentWorkspaceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/test-JcrProducerSubNodeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/test-JcrProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/test-JcrRouteDifferentWorkspaceTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jcr/target/site/clover/org/apache/camel/component/jcr/test-JcrRouteTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,91 @@
+./hadoop-tools/hadoop-openstack/target/clover/org/apache/hadoop
+./hadoop-tools/hadoop-openstack/target/clover/org/apache/hadoop/fs/swift/TestFSMainOperationsSwift
+TestFSMainOperationsSwift		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-openstack/target/clover/org/apache/hadoop/fs/swift/TestLogResources
+TestLogResources		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-openstack/target/clover/org/apache/hadoop/fs/swift/TestReadPastBuffer
+TestReadPastBuffer		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-openstack/target/clover/org/apache/hadoop/fs/swift/TestSeek
+TestSeek		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-openstack/target/clover/org/apache/hadoop/fs/swift/TestSwiftConfig
+TestSwiftConfig		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-openstack/target/clover/org/apache/hadoop/fs/swift/TestSwiftFileSystemBasicOps
+TestSwiftFileSystemBasicOps		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-openstack/target/clover/org/apache/hadoop/fs/swift/TestSwiftFileSystemBlockLocation
+TestSwiftFileSystemBlockLocation		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-openstack/target/clover/org/apache/hadoop/fs/swift/TestSwiftFileSystemBlocksize
+TestSwiftFileSystemBlocksize		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-openstack/target/clover/org/apache/hadoop/fs/swift/TestSwiftFileSystemConcurrency
+TestSwiftFileSystemConcurrency		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-openstack/target/clover/org/apache/hadoop/fs/swift/TestSwiftFileSystemContract
+TestSwiftFileSystemContract		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-openstack/target/clover/org/apache/hadoop/fs/swift/TestSwiftFileSystemDelete
+TestSwiftFileSystemDelete		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-openstack/target/clover/org/apache/hadoop/fs/swift/TestSwiftFileSystemDirectories
+TestSwiftFileSystemDirectories		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-openstack/target/clover/org/apache/hadoop/fs/swift/TestSwiftFileSystemExtendedContract
+TestSwiftFileSystemExtendedContract		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-openstack/target/clover/org/apache/hadoop/fs/swift/TestSwiftFileSystemLsOperations
+TestSwiftFileSystemLsOperations		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-openstack/target/clover/org/apache/hadoop/fs/swift/TestSwiftFileSystemPartitionedUploads
+TestSwiftFileSystemPartitionedUploads		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-openstack/target/clover/org/apache/hadoop/fs/swift/TestSwiftFileSystemRead
+TestSwiftFileSystemRead		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-openstack/target/clover/org/apache/hadoop/fs/swift/TestSwiftFileSystemRename
+TestSwiftFileSystemRename		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-openstack/target/clover/org/apache/hadoop/fs/swift/TestSwiftObjectPath
+TestSwiftObjectPath		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-openstack/target/clover/org/apache/hadoop/fs/swift/contract/TestSwiftContractCreate
+TestSwiftContractCreate		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-openstack/target/clover/org/apache/hadoop/fs/swift/contract/TestSwiftContractDelete
+TestSwiftContractDelete		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-openstack/target/clover/org/apache/hadoop/fs/swift/contract/TestSwiftContractMkdir
+TestSwiftContractMkdir		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-openstack/target/clover/org/apache/hadoop/fs/swift/contract/TestSwiftContractOpen
+TestSwiftContractOpen		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-openstack/target/clover/org/apache/hadoop/fs/swift/contract/TestSwiftContractRename
+TestSwiftContractRename		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-openstack/target/clover/org/apache/hadoop/fs/swift/contract/TestSwiftContractRootDir
+TestSwiftContractRootDir		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-openstack/target/clover/org/apache/hadoop/fs/swift/contract/TestSwiftContractSeek
+TestSwiftContractSeek		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-openstack/target/clover/org/apache/hadoop/fs/swift/hdfs2/TestSwiftFileSystemDirectoriesHdfs2
+TestSwiftFileSystemDirectoriesHdfs2		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-openstack/target/clover/org/apache/hadoop/fs/swift/hdfs2/TestV2LsOperations
+TestV2LsOperations		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-openstack/target/clover/org/apache/hadoop/fs/swift/http/TestRestClientBindings
+TestRestClientBindings		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-openstack/target/clover/org/apache/hadoop/fs/swift/http/TestSwiftRestClient
+TestSwiftRestClient		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-openstack/target/clover/org/apache/hadoop/fs/swift/scale/TestWriteManySmallFiles
+TestWriteManySmallFiles		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --

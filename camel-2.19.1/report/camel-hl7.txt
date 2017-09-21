@@ -1,0 +1,493 @@
+./components/camel-hl7/target/site/clover/org/apache/camel
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/AckCodeTest
+AckCodeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/AckCodeTest_verifyAcknowledgmentCodeConversion_q
+org.apache.camel.component.hl7.AckCode		0.6666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/AckExpressionTest
+AckExpressionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/AckExpressionTest_testAckExpressionWithCode_1k
+org.apache.camel.component.hl7.AckExpression		0.40425533
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/AckExpressionTest_testAckExpression_9
+org.apache.camel.component.hl7.AckExpression		0.3617021
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/AckExpressionTest_testNakExpressionWithParameters_y
+org.apache.camel.component.hl7.AckExpression		0.40425533
+org.apache.camel.component.hl7.TerserLanguage		0.35714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/AckExpressionTest_testNakExpressionWithoutException_17
+org.apache.camel.component.hl7.AckExpression		0.42553192
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/AckExpressionTest_testNakExpression_n
+org.apache.camel.component.hl7.AckExpression		0.42553192
+org.apache.camel.component.hl7.TerserLanguage		0.35714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/ConvertLineFeedTest
+ConvertLineFeedTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/ConvertLineFeedTest_testConvertLineFeed_i
+org.apache.camel.component.hl7.HL7		0.13333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7ByteArrayRouteTest
+HL7ByteArrayRouteTest		1.0
+HL7ByteArrayRouteTest.MyHL7BusinessLogic		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7ByteArrayRouteTest_testSendA01_4
+org.apache.camel.component.hl7.HL7MLLPDecoder.DecoderState		0.82608694
+org.apache.camel.component.hl7.HL7MLLPEncoder		0.7352941
+org.apache.camel.component.hl7.HL7Charset		0.73333335
+org.apache.camel.component.hl7.HL7MLLPDecoder		0.5858586
+org.apache.camel.component.hl7.HL7Converter		0.30769232
+org.apache.camel.component.hl7.HL7DataFormat		0.30508474
+org.apache.camel.component.hl7.HL7MLLPConfig		0.26666668
+org.apache.camel.component.hl7.HL7MLLPCodec		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7ByteArrayRouteTest_testSendA19_1a
+org.apache.camel.component.hl7.HL7Charset		0.8333333
+org.apache.camel.component.hl7.HL7MLLPDecoder.DecoderState		0.82608694
+org.apache.camel.component.hl7.HL7MLLPEncoder		0.7352941
+org.apache.camel.component.hl7.HL7MLLPDecoder		0.5858586
+org.apache.camel.component.hl7.HL7Converter		0.30769232
+org.apache.camel.component.hl7.HL7DataFormat		0.30508474
+org.apache.camel.component.hl7.HL7MLLPConfig		0.26666668
+org.apache.camel.component.hl7.HL7MLLPCodec		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7ByteArrayRouteTest_testSendUnknown_m
+org.apache.camel.component.hl7.HL7MLLPDecoder.DecoderState		0.82608694
+org.apache.camel.component.hl7.HL7MLLPEncoder		0.7352941
+org.apache.camel.component.hl7.HL7Charset		0.6333333
+org.apache.camel.component.hl7.HL7MLLPDecoder		0.5858586
+org.apache.camel.component.hl7.HL7Converter		0.30769232
+org.apache.camel.component.hl7.HL7DataFormat		0.30508474
+org.apache.camel.component.hl7.HL7MLLPConfig		0.26666668
+org.apache.camel.component.hl7.HL7MLLPCodec		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7DataFormatTest
+HL7DataFormatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7DataFormatTest_testMarshalISO8859_k
+org.apache.camel.component.hl7.HL7Charset		0.4
+org.apache.camel.component.hl7.HL7Converter		0.15384616
+org.apache.camel.component.hl7.HL7DataFormat		0.084745765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7DataFormatTest_testMarshalUTF16InMessage_10
+org.apache.camel.component.hl7.HL7Charset		0.6666667
+org.apache.camel.component.hl7.HL7Converter		0.15384616
+org.apache.camel.component.hl7.HL7DataFormat		0.084745765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7DataFormatTest_testMarshalUTF8_b
+org.apache.camel.component.hl7.HL7Charset		0.4
+org.apache.camel.component.hl7.HL7Converter		0.15384616
+org.apache.camel.component.hl7.HL7DataFormat		0.084745765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7DataFormatTest_testMarshal_0
+org.apache.camel.component.hl7.HL7Charset		0.4
+org.apache.camel.component.hl7.HL7Converter		0.15384616
+org.apache.camel.component.hl7.HL7DataFormat		0.084745765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7DataFormatTest_testUnmarshalWithExplicitUTF16Charset_1l
+org.apache.camel.component.hl7.HL7Charset		0.6666667
+org.apache.camel.component.hl7.HL7DataFormat		0.22033899
+org.apache.camel.component.hl7.HL7Converter		0.15384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7DataFormatTest_testUnmarshalWithImplicitBig5Charset_j
+org.apache.camel.component.hl7.HL7Charset		0.4
+org.apache.camel.component.hl7.HL7DataFormat		0.18644068
+org.apache.camel.component.hl7.HL7Converter		0.15384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7DataFormatTest_testUnmarshal_5
+org.apache.camel.component.hl7.HL7Charset		0.4
+org.apache.camel.component.hl7.HL7DataFormat		0.2542373
+org.apache.camel.component.hl7.HL7Converter		0.15384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7MLLPCodecBoundaryTest
+HL7MLLPCodecBoundaryTest		0.9310345
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7MLLPCodecBoundaryTest_testSendHL7Message_12
+org.apache.camel.component.hl7.HL7MLLPDecoder.DecoderState		0.82608694
+org.apache.camel.component.hl7.HL7MLLPDecoder		0.65656567
+org.apache.camel.component.hl7.HL7MLLPEncoder		0.61764705
+org.apache.camel.component.hl7.HL7MLLPConfig		0.35555556
+org.apache.camel.component.hl7.HL7MLLPCodec		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7MLLPCodecLongTest
+HL7MLLPCodecLongTest		0.9375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7MLLPCodecLongTest_testSendHL7Message_1d
+org.apache.camel.component.hl7.HL7MLLPDecoder.DecoderState		0.9130435
+org.apache.camel.component.hl7.HL7MLLPDecoder		0.7070707
+org.apache.camel.component.hl7.HL7MLLPEncoder		0.61764705
+org.apache.camel.component.hl7.HL7MLLPConfig		0.35555556
+org.apache.camel.component.hl7.HL7Converter		0.30769232
+org.apache.camel.component.hl7.HL7MLLPCodec		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7MLLPCodecMessageFloodingTest
+HL7MLLPCodecMessageFloodingTest		0.9508197
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7MLLPCodecMessageFloodingTest_testHL7MessageFlood_14
+org.apache.camel.component.hl7.HL7MLLPDecoder.DecoderState		0.9130435
+org.apache.camel.component.hl7.HL7MLLPDecoder		0.7171717
+org.apache.camel.component.hl7.HL7MLLPEncoder		0.5588235
+org.apache.camel.component.hl7.HL7Charset		0.4
+org.apache.camel.component.hl7.HL7MLLPConfig		0.35555556
+org.apache.camel.component.hl7.HL7DataFormat		0.22033899
+org.apache.camel.component.hl7.HL7Converter		0.15384616
+org.apache.camel.component.hl7.HL7MLLPCodec		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7MLLPCodecPlainStringTest
+HL7MLLPCodecPlainStringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7MLLPCodecPlainStringTest_testPlainString_p
+org.apache.camel.component.hl7.HL7MLLPDecoder.DecoderState		0.82608694
+org.apache.camel.component.hl7.HL7MLLPDecoder		0.65656567
+org.apache.camel.component.hl7.HL7MLLPEncoder		0.61764705
+org.apache.camel.component.hl7.HL7MLLPConfig		0.35555556
+org.apache.camel.component.hl7.HL7MLLPCodec		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7MLLPCodecStandAndEndBytesTest
+HL7MLLPCodecStandAndEndBytesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7MLLPCodecStandAndEndBytesTest_testSendHL7Message_s
+org.apache.camel.component.hl7.HL7MLLPDecoder.DecoderState		0.82608694
+org.apache.camel.component.hl7.HL7MLLPEncoder		0.6764706
+org.apache.camel.component.hl7.HL7MLLPDecoder		0.65656567
+org.apache.camel.component.hl7.HL7MLLPConfig		0.35555556
+org.apache.camel.component.hl7.HL7Converter		0.30769232
+org.apache.camel.component.hl7.HL7MLLPCodec		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7MLLPCodecTest
+HL7MLLPCodecTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7MLLPCodecTest_testSendHL7Message_x
+org.apache.camel.component.hl7.HL7MLLPDecoder.DecoderState		0.82608694
+org.apache.camel.component.hl7.HL7MLLPDecoder		0.67676765
+org.apache.camel.component.hl7.HL7MLLPEncoder		0.6764706
+org.apache.camel.component.hl7.HL7MLLPConfig		0.35555556
+org.apache.camel.component.hl7.HL7Converter		0.30769232
+org.apache.camel.component.hl7.HL7MLLPCodec		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7MLLPNettyCodecBoundaryTest
+HL7MLLPNettyCodecBoundaryTest		0.9375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7MLLPNettyCodecBoundaryTest_testSendHL7Message_1i
+org.apache.camel.component.hl7.HL7MLLPNettyDecoderFactory		1.0
+org.apache.camel.component.hl7.HL7MLLPNettyEncoderFactory		1.0
+org.apache.camel.component.hl7.HL7MLLPNettyEncoder		0.5483871
+org.apache.camel.component.hl7.HL7MLLPNettyDecoder		0.53333336
+org.apache.camel.component.hl7.HL7MLLPConfig		0.26666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7MLLPNettyCodecByteArrayRouteTest
+HL7MLLPNettyCodecByteArrayRouteTest		1.0
+HL7MLLPNettyCodecByteArrayRouteTest.MyHL7BusinessLogic		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7MLLPNettyCodecByteArrayRouteTest_testSendA01_v
+org.apache.camel.component.hl7.HL7MLLPNettyDecoderFactory		1.0
+org.apache.camel.component.hl7.HL7MLLPNettyEncoderFactory		1.0
+org.apache.camel.component.hl7.HL7Charset		0.73333335
+org.apache.camel.component.hl7.HL7MLLPNettyEncoder		0.67741936
+org.apache.camel.component.hl7.HL7MLLPNettyDecoder		0.4888889
+org.apache.camel.component.hl7.HL7Converter		0.30769232
+org.apache.camel.component.hl7.HL7DataFormat		0.30508474
+org.apache.camel.component.hl7.HL7MLLPConfig		0.26666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7MLLPNettyCodecByteArrayRouteTest_testSendA19_t
+org.apache.camel.component.hl7.HL7MLLPNettyDecoderFactory		1.0
+org.apache.camel.component.hl7.HL7MLLPNettyEncoderFactory		1.0
+org.apache.camel.component.hl7.HL7Charset		0.8333333
+org.apache.camel.component.hl7.HL7MLLPNettyEncoder		0.67741936
+org.apache.camel.component.hl7.HL7MLLPNettyDecoder		0.4888889
+org.apache.camel.component.hl7.HL7Converter		0.30769232
+org.apache.camel.component.hl7.HL7DataFormat		0.30508474
+org.apache.camel.component.hl7.HL7MLLPConfig		0.26666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7MLLPNettyCodecByteArrayRouteTest_testSendUnknown_d
+org.apache.camel.component.hl7.HL7MLLPNettyDecoderFactory		1.0
+org.apache.camel.component.hl7.HL7MLLPNettyEncoderFactory		1.0
+org.apache.camel.component.hl7.HL7MLLPNettyEncoder		0.67741936
+org.apache.camel.component.hl7.HL7Charset		0.53333336
+org.apache.camel.component.hl7.HL7MLLPNettyDecoder		0.4888889
+org.apache.camel.component.hl7.HL7Converter		0.30769232
+org.apache.camel.component.hl7.HL7DataFormat		0.30508474
+org.apache.camel.component.hl7.HL7MLLPConfig		0.26666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7MLLPNettyCodecLongTest
+HL7MLLPNettyCodecLongTest		0.94285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7MLLPNettyCodecLongTest_testSendHL7Message_11
+org.apache.camel.component.hl7.HL7MLLPNettyDecoderFactory		1.0
+org.apache.camel.component.hl7.HL7MLLPNettyEncoderFactory		1.0
+org.apache.camel.component.hl7.HL7MLLPNettyEncoder		0.5483871
+org.apache.camel.component.hl7.HL7MLLPNettyDecoder		0.53333336
+org.apache.camel.component.hl7.HL7Converter		0.30769232
+org.apache.camel.component.hl7.HL7MLLPConfig		0.26666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7MLLPNettyCodecStandAndEndBytesTest
+HL7MLLPNettyCodecStandAndEndBytesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7MLLPNettyCodecStandAndEndBytesTest_testSendHL7Message_1
+org.apache.camel.component.hl7.HL7MLLPNettyDecoderFactory		1.0
+org.apache.camel.component.hl7.HL7MLLPNettyEncoderFactory		1.0
+org.apache.camel.component.hl7.HL7MLLPNettyEncoder		0.61290324
+org.apache.camel.component.hl7.HL7MLLPNettyDecoder		0.46666667
+org.apache.camel.component.hl7.HL7Converter		0.30769232
+org.apache.camel.component.hl7.HL7MLLPConfig		0.26666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7MLLPNettyCodecTest
+HL7MLLPNettyCodecTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7MLLPNettyCodecTest_testSendHL7Message_16
+org.apache.camel.component.hl7.HL7MLLPNettyDecoderFactory		1.0
+org.apache.camel.component.hl7.HL7MLLPNettyEncoderFactory		1.0
+org.apache.camel.component.hl7.HL7MLLPNettyEncoder		0.61290324
+org.apache.camel.component.hl7.HL7MLLPNettyDecoder		0.46666667
+org.apache.camel.component.hl7.HL7Converter		0.30769232
+org.apache.camel.component.hl7.HL7MLLPConfig		0.26666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7MLLPNettyDecoderResourceLeakTest
+HL7MLLPNettyDecoderResourceLeakTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7MLLPNettyDecoderResourceLeakTest_testSendHL7Message_c
+org.apache.camel.component.hl7.HL7MLLPNettyDecoderFactory		1.0
+org.apache.camel.component.hl7.HL7MLLPNettyEncoderFactory		1.0
+org.apache.camel.component.hl7.HL7MLLPNettyEncoder		0.61290324
+org.apache.camel.component.hl7.HL7MLLPNettyDecoder		0.46666667
+org.apache.camel.component.hl7.HL7Converter		0.30769232
+org.apache.camel.component.hl7.HL7MLLPConfig		0.26666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7MLLPNettyRouteToTest
+HL7MLLPNettyRouteToTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7MLLPNettyRouteToTest_testSendHL7Message_15
+org.apache.camel.component.hl7.HL7MLLPNettyDecoderFactory		1.0
+org.apache.camel.component.hl7.HL7MLLPNettyEncoderFactory		1.0
+org.apache.camel.component.hl7.HL7MLLPNettyEncoder		0.61290324
+org.apache.camel.component.hl7.HL7MLLPNettyDecoder		0.46666667
+org.apache.camel.component.hl7.HL7Converter		0.30769232
+org.apache.camel.component.hl7.HL7MLLPConfig		0.26666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7NettyRouteTest
+HL7NettyRouteTest		1.0
+HL7NettyRouteTest.MyHL7BusinessLogic		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7NettyRouteTest_testSendA01_1h
+org.apache.camel.component.hl7.HL7MLLPNettyDecoderFactory		1.0
+org.apache.camel.component.hl7.HL7MLLPNettyEncoderFactory		1.0
+org.apache.camel.component.hl7.HL7MLLPNettyEncoder		0.67741936
+org.apache.camel.component.hl7.HL7Charset		0.53333336
+org.apache.camel.component.hl7.HL7MLLPNettyDecoder		0.46666667
+org.apache.camel.component.hl7.HL7Converter		0.30769232
+org.apache.camel.component.hl7.HL7DataFormat		0.30508474
+org.apache.camel.component.hl7.HL7MLLPConfig		0.26666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7NettyRouteTest_testSendA19_1f
+org.apache.camel.component.hl7.HL7MLLPNettyDecoderFactory		1.0
+org.apache.camel.component.hl7.HL7MLLPNettyEncoderFactory		1.0
+org.apache.camel.component.hl7.HL7MLLPNettyEncoder		0.67741936
+org.apache.camel.component.hl7.HL7Charset		0.53333336
+org.apache.camel.component.hl7.HL7MLLPNettyDecoder		0.46666667
+org.apache.camel.component.hl7.HL7Converter		0.30769232
+org.apache.camel.component.hl7.HL7DataFormat		0.30508474
+org.apache.camel.component.hl7.HL7MLLPConfig		0.26666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7NettyRouteTest_testSendUnknown_g
+org.apache.camel.component.hl7.HL7MLLPNettyDecoderFactory		1.0
+org.apache.camel.component.hl7.HL7MLLPNettyEncoderFactory		1.0
+org.apache.camel.component.hl7.HL7MLLPNettyEncoder		0.67741936
+org.apache.camel.component.hl7.HL7Charset		0.53333336
+org.apache.camel.component.hl7.HL7MLLPNettyDecoder		0.46666667
+org.apache.camel.component.hl7.HL7Converter		0.30769232
+org.apache.camel.component.hl7.HL7DataFormat		0.30508474
+org.apache.camel.component.hl7.HL7MLLPConfig		0.26666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7RouteTest
+HL7RouteTest		1.0
+HL7RouteTest.MyHL7BusinessLogic		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7RouteTest_testSendA01_e
+org.apache.camel.component.hl7.HL7MLLPDecoder.DecoderState		0.82608694
+org.apache.camel.component.hl7.HL7MLLPEncoder		0.7352941
+org.apache.camel.component.hl7.HL7MLLPDecoder		0.65656567
+org.apache.camel.component.hl7.HL7Charset		0.53333336
+org.apache.camel.component.hl7.HL7MLLPConfig		0.35555556
+org.apache.camel.component.hl7.HL7Converter		0.30769232
+org.apache.camel.component.hl7.HL7DataFormat		0.30508474
+org.apache.camel.component.hl7.HL7MLLPCodec		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7RouteTest_testSendA19_h
+org.apache.camel.component.hl7.HL7MLLPDecoder.DecoderState		0.82608694
+org.apache.camel.component.hl7.HL7MLLPEncoder		0.7352941
+org.apache.camel.component.hl7.HL7MLLPDecoder		0.65656567
+org.apache.camel.component.hl7.HL7Charset		0.53333336
+org.apache.camel.component.hl7.HL7MLLPConfig		0.35555556
+org.apache.camel.component.hl7.HL7Converter		0.30769232
+org.apache.camel.component.hl7.HL7DataFormat		0.30508474
+org.apache.camel.component.hl7.HL7MLLPCodec		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7RouteTest_testSendUnknown_f
+org.apache.camel.component.hl7.HL7MLLPDecoder.DecoderState		0.82608694
+org.apache.camel.component.hl7.HL7MLLPEncoder		0.7352941
+org.apache.camel.component.hl7.HL7MLLPDecoder		0.65656567
+org.apache.camel.component.hl7.HL7Charset		0.53333336
+org.apache.camel.component.hl7.HL7MLLPConfig		0.35555556
+org.apache.camel.component.hl7.HL7Converter		0.30769232
+org.apache.camel.component.hl7.HL7DataFormat		0.30508474
+org.apache.camel.component.hl7.HL7MLLPCodec		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7TestSupport
+HL7TestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7ValidateTest
+HL7ValidateTest		0.97894734
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7ValidateTest_testMarshalWithValidation_13
+org.apache.camel.component.hl7.HL7Charset		0.4
+org.apache.camel.component.hl7.HL7Converter		0.15384616
+org.apache.camel.component.hl7.HL7DataFormat		0.06779661
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7ValidateTest_testMarshalWithoutValidation_8
+org.apache.camel.component.hl7.HL7Charset		0.4
+org.apache.camel.component.hl7.HL7Converter		0.15384616
+org.apache.camel.component.hl7.HL7DataFormat		0.084745765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7ValidateTest_testUnmarshalFailed_3
+org.apache.camel.component.hl7.HL7Charset		0.4
+org.apache.camel.component.hl7.HL7Converter		0.15384616
+org.apache.camel.component.hl7.HL7DataFormat		0.118644066
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7ValidateTest_testUnmarshalOkCustom_u
+org.apache.camel.component.hl7.HL7Charset		0.4
+org.apache.camel.component.hl7.HL7DataFormat		0.22033899
+org.apache.camel.component.hl7.HL7Converter		0.15384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7ValidateTest_testUnmarshalOk_2
+org.apache.camel.component.hl7.HL7Charset		0.4
+org.apache.camel.component.hl7.HL7DataFormat		0.22033899
+org.apache.camel.component.hl7.HL7Converter		0.15384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7XmlDataFormatTest
+HL7XmlDataFormatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7XmlDataFormatTest_testUnmarshalOkXml_w
+org.apache.camel.component.hl7.HL7Charset		0.4
+org.apache.camel.component.hl7.HL7DataFormat		0.2542373
+org.apache.camel.component.hl7.HL7Converter		0.15384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/HL7XmlDataFormatTest_testUnmarshalOk_18
+org.apache.camel.component.hl7.HL7Charset		0.4
+org.apache.camel.component.hl7.HL7DataFormat		0.22033899
+org.apache.camel.component.hl7.HL7Converter		0.15384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/MessageValidatorTest
+MessageValidatorTest		0.9577465
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/MessageValidatorTest_testCustomHapiContext_19
+org.apache.camel.component.hl7.ValidationContextPredicate		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/MessageValidatorTest_testCustomValidationContext_1c
+org.apache.camel.component.hl7.ValidationContextPredicate		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/MessageValidatorTest_testDefaultHapiContext_r
+org.apache.camel.component.hl7.ValidationContextPredicate		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/MessageValidatorTest_testDefaultValidationContext_1j
+org.apache.camel.component.hl7.ValidationContextPredicate		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/MessageValidatorTest_testDynamicCustomHapiContext_1b
+org.apache.camel.component.hl7.ValidationContextPredicate		0.47619048
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/MessageValidatorTest_testDynamicCustomValidationContext_1g
+org.apache.camel.component.hl7.ValidationContextPredicate		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/MessageValidatorTest_testDynamicDefaultHapiContext_l
+org.apache.camel.component.hl7.ValidationContextPredicate		0.47619048
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/TerserExpressionTest
+TerserExpressionTest		1.0
+TerserExpressionTest.TerserBean		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/TerserExpressionTest_testTerserAnnotatedMethod_z
+org.apache.camel.component.hl7.TerserLanguage		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/TerserExpressionTest_testTerserExpression_1e
+org.apache.camel.component.hl7.TerserLanguage		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/TerserExpressionTest_testTerserInvalidExpression_7
+org.apache.camel.component.hl7.TerserLanguage		0.78571427
+org.apache.camel.component.hl7.TerserExpression		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/TerserExpressionTest_testTerserInvalidMessage_6
+org.apache.camel.component.hl7.TerserLanguage		0.64285713
+org.apache.camel.component.hl7.TerserExpression		0.5
+org.apache.camel.component.hl7.HL7Converter		0.30769232
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/TerserExpressionTest_testTerserPredicateNull_o
+org.apache.camel.component.hl7.TerserLanguage		0.64285713
+org.apache.camel.component.hl7.TerserExpression		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/TerserExpressionTest_testTerserPredicateValue_a
+org.apache.camel.component.hl7.TerserLanguage		0.64285713
+org.apache.camel.component.hl7.TerserExpression		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/test-AckCodeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/test-AckExpressionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/test-ConvertLineFeedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/test-HL7ByteArrayRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/test-HL7ByteArrayRouteTest_MyHL7BusinessLogic
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/test-HL7DataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/test-HL7MLLPCodecBoundaryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/test-HL7MLLPCodecLongTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/test-HL7MLLPCodecMessageFloodingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/test-HL7MLLPCodecPlainStringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/test-HL7MLLPCodecStandAndEndBytesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/test-HL7MLLPCodecTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/test-HL7MLLPNettyCodecBoundaryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/test-HL7MLLPNettyCodecByteArrayRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/test-HL7MLLPNettyCodecByteArrayRouteTest_MyHL7BusinessLogic
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/test-HL7MLLPNettyCodecLongTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/test-HL7MLLPNettyCodecStandAndEndBytesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/test-HL7MLLPNettyCodecTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/test-HL7MLLPNettyDecoderResourceLeakTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/test-HL7MLLPNettyRouteToTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/test-HL7NettyRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/test-HL7NettyRouteTest_MyHL7BusinessLogic
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/test-HL7RouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/test-HL7RouteTest_MyHL7BusinessLogic
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/test-HL7TestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/test-HL7ValidateTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/test-HL7XmlDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/test-MessageValidatorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/test-TerserExpressionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hl7/target/site/clover/org/apache/camel/component/hl7/test-TerserExpressionTest_TerserBean
+-- -- -- -- -- -- -- -- -- -- -- -- --

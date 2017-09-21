@@ -1,0 +1,25 @@
+./components/camel-jolt/target/site/clover/org/apache/camel
+./components/camel-jolt/target/site/clover/org/apache/camel/component/jolt/JoltDefaultrTest
+JoltDefaultrTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jolt/target/site/clover/org/apache/camel/component/jolt/JoltDefaultrTest_testFirstSampleJolt_2
+org.apache.camel.component.jolt.JoltEndpoint		0.40963855
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jolt/target/site/clover/org/apache/camel/component/jolt/JoltFirstSampleTest
+JoltFirstSampleTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jolt/target/site/clover/org/apache/camel/component/jolt/JoltFirstSampleTest_testFirstSampleJolt_1
+org.apache.camel.component.jolt.JoltEndpoint		0.40963855
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jolt/target/site/clover/org/apache/camel/component/jolt/JoltRemovrTest
+JoltRemovrTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jolt/target/site/clover/org/apache/camel/component/jolt/JoltRemovrTest_testFirstSampleJolt_0
+org.apache.camel.component.jolt.JoltEndpoint		0.40963855
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jolt/target/site/clover/org/apache/camel/component/jolt/test-JoltDefaultrTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jolt/target/site/clover/org/apache/camel/component/jolt/test-JoltFirstSampleTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jolt/target/site/clover/org/apache/camel/component/jolt/test-JoltRemovrTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

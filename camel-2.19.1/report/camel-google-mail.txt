@@ -1,0 +1,35 @@
+./components/camel-google-mail/target/site/clover/org/apache/camel
+./components/camel-google-mail/target/site/clover/org/apache/camel/component/google/mail/AbstractGoogleMailTestSupport
+AbstractGoogleMailTestSupport		0.0952381
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-mail/target/site/clover/org/apache/camel/component/google/mail/GmailConfigurationTest
+GmailConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-mail/target/site/clover/org/apache/camel/component/google/mail/GmailConfigurationTest_testConfiguration_0
+testConfiguration
+org.apache.camel.component.google.mail.GoogleMailConfiguration		0.3125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-mail/target/site/clover/org/apache/camel/component/google/mail/GmailUsersIntegrationTest
+GmailUsersIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-mail/target/site/clover/org/apache/camel/component/google/mail/GmailUsersLabelsIntegrationTest
+GmailUsersLabelsIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-mail/target/site/clover/org/apache/camel/component/google/mail/GmailUsersMessagesIntegrationTest
+GmailUsersMessagesIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-mail/target/site/clover/org/apache/camel/component/google/mail/GmailUsersThreadsIntegrationTest
+GmailUsersThreadsIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-mail/target/site/clover/org/apache/camel/component/google/mail/test-AbstractGoogleMailTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-mail/target/site/clover/org/apache/camel/component/google/mail/test-GmailConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-mail/target/site/clover/org/apache/camel/component/google/mail/test-GmailUsersIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-mail/target/site/clover/org/apache/camel/component/google/mail/test-GmailUsersLabelsIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-mail/target/site/clover/org/apache/camel/component/google/mail/test-GmailUsersMessagesIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-mail/target/site/clover/org/apache/camel/component/google/mail/test-GmailUsersThreadsIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

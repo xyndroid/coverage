@@ -1,0 +1,273 @@
+./components/camel-atom/target/site/clover/org/apache/camel
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomEndpointTest
+AtomEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomEndpointTest_testNoCamelParametersInFeedUri_h
+org.apache.camel.component.feed.FeedComponent		1.0
+org.apache.camel.component.atom.AtomComponent		0.7222222
+org.apache.camel.component.feed.FeedEndpoint		0.19117647
+org.apache.camel.component.atom.AtomEndpoint		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomEndpointTest_testNoSplitEntries_g
+org.apache.camel.component.atom.AtomPollingConsumer		0.6
+org.apache.camel.component.atom.AtomUtils		0.6
+org.apache.camel.component.feed.FeedPollingConsumer		0.5833333
+org.apache.camel.component.atom.AtomEndpoint		0.21052632
+org.apache.camel.component.feed.FeedEndpoint		0.1764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomEndpointTest_testUsingAtomUriParameter_r
+org.apache.camel.component.atom.AtomPollingConsumer		0.6
+org.apache.camel.component.atom.AtomUtils		0.6
+org.apache.camel.component.feed.FeedPollingConsumer		0.5
+org.apache.camel.component.atom.AtomEndpoint		0.21052632
+org.apache.camel.component.feed.FeedEndpoint		0.1764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomEntryPollingConsumerTest
+AtomEntryPollingConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomEntryPollingConsumerTest_testResult2_2
+org.apache.camel.component.feed.FeedEntryPollingConsumer		0.7894737
+org.apache.camel.component.atom.UpdatedDateFilter		0.6956522
+org.apache.camel.component.atom.AtomEntryPollingConsumer		0.60714287
+org.apache.camel.component.atom.AtomUtils		0.6
+org.apache.camel.component.atom.AtomEndpoint		0.21052632
+org.apache.camel.component.feed.FeedEndpoint		0.20588236
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomEntryPollingConsumerTest_testResult3_14
+org.apache.camel.component.atom.UpdatedDateFilter		0.6956522
+org.apache.camel.component.feed.FeedEntryPollingConsumer		0.68421054
+org.apache.camel.component.atom.AtomUtils		0.6
+org.apache.camel.component.atom.AtomEntryPollingConsumer		0.53571427
+org.apache.camel.component.atom.AtomEndpoint		0.21052632
+org.apache.camel.component.feed.FeedEndpoint		0.20588236
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomEntryPollingConsumerTest_testResult_p
+org.apache.camel.component.feed.FeedEntryPollingConsumer		0.7894737
+org.apache.camel.component.atom.UpdatedDateFilter		0.6956522
+org.apache.camel.component.atom.AtomEntryPollingConsumer		0.60714287
+org.apache.camel.component.atom.AtomUtils		0.6
+org.apache.camel.component.atom.AtomEndpoint		0.21052632
+org.apache.camel.component.feed.FeedEndpoint		0.20588236
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomEntryPollingConsumerWithBasicAuthTest
+AtomEntryPollingConsumerWithBasicAuthTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomEntryPollingConsumerWithBasicAuthTest_testResult2_x
+org.apache.camel.component.atom.AtomUtils		0.8
+org.apache.camel.component.feed.FeedEntryPollingConsumer		0.7894737
+org.apache.camel.component.atom.UpdatedDateFilter		0.6956522
+org.apache.camel.component.atom.AtomEntryPollingConsumer		0.60714287
+org.apache.camel.component.feed.FeedEndpoint		0.23529412
+org.apache.camel.component.atom.AtomEndpoint		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomEntryPollingConsumerWithBasicAuthTest_testResult3_j
+org.apache.camel.component.atom.AtomUtils		0.8
+org.apache.camel.component.atom.UpdatedDateFilter		0.6956522
+org.apache.camel.component.feed.FeedEntryPollingConsumer		0.68421054
+org.apache.camel.component.atom.AtomEntryPollingConsumer		0.53571427
+org.apache.camel.component.feed.FeedEndpoint		0.23529412
+org.apache.camel.component.atom.AtomEndpoint		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomEntryPollingConsumerWithBasicAuthTest_testResult_7
+org.apache.camel.component.atom.AtomUtils		0.8
+org.apache.camel.component.feed.FeedEntryPollingConsumer		0.7894737
+org.apache.camel.component.atom.UpdatedDateFilter		0.6956522
+org.apache.camel.component.atom.AtomEntryPollingConsumer		0.60714287
+org.apache.camel.component.feed.FeedEndpoint		0.23529412
+org.apache.camel.component.atom.AtomEndpoint		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomEntrySortTest
+AtomEntrySortTest		1.0
+AtomEntrySortTest.MyBean		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomEntrySortTest_testSortedEntries_v
+org.apache.camel.component.feed.FeedEntryPollingConsumer		0.7631579
+org.apache.camel.component.atom.AtomEntryPollingConsumer		0.75
+org.apache.camel.component.atom.UpdatedDateFilter		0.6956522
+org.apache.camel.component.atom.AtomUtils		0.6
+org.apache.camel.component.atom.AtomEndpoint		0.21052632
+org.apache.camel.component.feed.FeedEndpoint		0.20588236
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomEntrySortTest_testUnSortedEntries_k
+org.apache.camel.component.feed.FeedEntryPollingConsumer		0.7631579
+org.apache.camel.component.atom.AtomEntryPollingConsumer		0.75
+org.apache.camel.component.atom.UpdatedDateFilter		0.6956522
+org.apache.camel.component.atom.AtomUtils		0.6
+org.apache.camel.component.atom.AtomEndpoint		0.21052632
+org.apache.camel.component.feed.FeedEndpoint		0.20588236
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomGoodBlogsTest
+AtomGoodBlogsTest		1.0
+AtomGoodBlogsTest.BlogService		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomGoodBlogsTest_testFiltering_4
+org.apache.camel.component.feed.FeedComponent		1.0
+org.apache.camel.component.feed.FeedEntryPollingConsumer		0.7894737
+org.apache.camel.component.atom.AtomComponent		0.7222222
+org.apache.camel.component.atom.AtomEntryPollingConsumer		0.6785714
+org.apache.camel.component.atom.UpdatedDateFilter		0.65217394
+org.apache.camel.component.atom.AtomUtils		0.6
+org.apache.camel.component.feed.FeedEndpoint		0.5294118
+org.apache.camel.component.atom.AtomEndpoint		0.5263158
+org.apache.camel.component.feed.FeedPollingConsumer		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomHttpConsumerTest
+AtomHttpConsumerTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomHttpNoCamelParametersTest
+AtomHttpNoCamelParametersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomHttpNoCamelParametersTest_testAtomHttpNoCamelParametersAndOneFeedParameter_o
+org.apache.camel.component.feed.FeedComponent		1.0
+org.apache.camel.component.atom.AtomComponent		0.7777778
+org.apache.camel.component.feed.FeedEndpoint		0.27941176
+org.apache.camel.component.atom.AtomEndpoint		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomHttpNoCamelParametersTest_testAtomHttpNoCamelParameters_b
+org.apache.camel.component.feed.FeedComponent		1.0
+org.apache.camel.component.atom.AtomComponent		0.7222222
+org.apache.camel.component.feed.FeedEndpoint		0.27941176
+org.apache.camel.component.atom.AtomEndpoint		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomPollingConsumerIdleMessageTest
+AtomPollingConsumerIdleMessageTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomPollingConsumerIdleMessageTest_testConsumeIdleMessages_8
+org.apache.camel.component.atom.AtomEntryPollingConsumer		0.60714287
+org.apache.camel.component.atom.AtomUtils		0.6
+org.apache.camel.component.feed.FeedEntryPollingConsumer		0.34210527
+org.apache.camel.component.feed.FeedEndpoint		0.0882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomPollingConsumerTest
+AtomPollingConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomPollingConsumerTest_testNoCamelParametersInFeedUri_3
+org.apache.camel.component.feed.FeedEndpoint		0.029411765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomPollingConsumerTest_testNoSplitEntries_s
+org.apache.camel.component.atom.AtomPollingConsumer		0.6
+org.apache.camel.component.atom.AtomUtils		0.6
+org.apache.camel.component.feed.FeedPollingConsumer		0.5
+org.apache.camel.component.atom.AtomEndpoint		0.21052632
+org.apache.camel.component.feed.FeedEndpoint		0.1764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomPollingConsumerTest_testUsingAtomUriParameter_11
+org.apache.camel.component.atom.AtomPollingConsumer		0.6
+org.apache.camel.component.atom.AtomUtils		0.6
+org.apache.camel.component.feed.FeedPollingConsumer		0.5833333
+org.apache.camel.component.atom.AtomEndpoint		0.21052632
+org.apache.camel.component.feed.FeedEndpoint		0.1764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomPollingConsumerWithBasicAuthTest
+AtomPollingConsumerWithBasicAuthTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomPollingConsumerWithBasicAuthTest_testNoCamelParametersInFeedUri_n
+org.apache.camel.component.atom.AtomComponent		0.6111111
+org.apache.camel.component.feed.FeedEndpoint		0.19117647
+org.apache.camel.component.atom.AtomEndpoint		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomPollingConsumerWithBasicAuthTest_testNoSplitEntries_m
+org.apache.camel.component.atom.AtomUtils		0.8
+org.apache.camel.component.atom.AtomPollingConsumer		0.6
+org.apache.camel.component.feed.FeedPollingConsumer		0.5
+org.apache.camel.component.atom.AtomEndpoint		0.21052632
+org.apache.camel.component.feed.FeedEndpoint		0.20588236
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomPollingConsumerWithBasicAuthTest_testUsingAtomUriParameter_15
+org.apache.camel.component.atom.AtomUtils		0.8
+org.apache.camel.component.atom.AtomPollingConsumer		0.6
+org.apache.camel.component.feed.FeedPollingConsumer		0.5833333
+org.apache.camel.component.atom.AtomEndpoint		0.21052632
+org.apache.camel.component.feed.FeedEndpoint		0.20588236
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomPollingLowDelayTest
+AtomPollingLowDelayTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomPollingLowDelayTest_testLowDelay_5
+org.apache.camel.component.feed.FeedEntryPollingConsumer		0.6315789
+org.apache.camel.component.atom.AtomUtils		0.6
+org.apache.camel.component.atom.UpdatedDateFilter		0.5652174
+org.apache.camel.component.atom.AtomEntryPollingConsumer		0.53571427
+org.apache.camel.component.atom.AtomEndpoint		0.21052632
+org.apache.camel.component.feed.FeedEndpoint		0.20588236
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomPollingUnthrottledTest
+AtomPollingUnthrottledTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomPollingUnthrottledTest_testLowDelay_e
+org.apache.camel.component.atom.AtomUtils		0.6
+org.apache.camel.component.feed.FeedEntryPollingConsumer		0.57894737
+org.apache.camel.component.atom.UpdatedDateFilter		0.5652174
+org.apache.camel.component.atom.AtomEntryPollingConsumer		0.53571427
+org.apache.camel.component.atom.AtomEndpoint		0.21052632
+org.apache.camel.component.feed.FeedEndpoint		0.20588236
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomProducerTest
+AtomProducerTest		0.75
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomProducerTest_testNotYetImplemented_a
+org.apache.camel.component.feed.FeedComponent		1.0
+org.apache.camel.component.atom.AtomComponent		0.7222222
+org.apache.camel.component.feed.FeedEndpoint		0.19117647
+org.apache.camel.component.atom.AtomEndpoint		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomRouteTest
+AtomRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/AtomRouteTest_testFeedGetsUpdatedEvents_t
+org.apache.camel.component.feed.FeedEntryPollingConsumer		0.6315789
+org.apache.camel.component.atom.AtomUtils		0.6
+org.apache.camel.component.atom.UpdatedDateFilter		0.5652174
+org.apache.camel.component.atom.AtomEntryPollingConsumer		0.53571427
+org.apache.camel.component.atom.AtomEndpoint		0.21052632
+org.apache.camel.component.feed.FeedEndpoint		0.20588236
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/JettyTestServer
+JettyTestServer		0.9111111
+JettyTestServer.MyHttpServlet		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/UpdatedDateFilterTest
+UpdatedDateFilterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/UpdatedDateFilterTest_testFilter_f
+org.apache.camel.component.atom.UpdatedDateFilter		0.73913044
+org.apache.camel.component.atom.AtomUtils		0.6
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/test-AtomEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/test-AtomEntryPollingConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/test-AtomEntryPollingConsumerWithBasicAuthTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/test-AtomEntrySortTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/test-AtomEntrySortTest_MyBean
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/test-AtomGoodBlogsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/test-AtomGoodBlogsTest_BlogService
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/test-AtomHttpConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/test-AtomHttpNoCamelParametersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/test-AtomPollingConsumerIdleMessageTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/test-AtomPollingConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/test-AtomPollingConsumerWithBasicAuthTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/test-AtomPollingLowDelayTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/test-AtomPollingUnthrottledTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/test-AtomProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/test-AtomRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/test-JettyTestServer
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/test-JettyTestServer_MyHttpServlet
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-atom/target/site/clover/org/apache/camel/component/atom/test-UpdatedDateFilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

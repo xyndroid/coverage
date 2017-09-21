@@ -1,0 +1,66 @@
+./components/camel-cassandraql/target/site/clover/org/apache/camel
+./components/camel-cassandraql/target/site/clover/org/apache/camel/component/cassandra/BaseCassandraTest
+BaseCassandraTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cassandraql/target/site/clover/org/apache/camel/component/cassandra/CassandraComponentBeanRefTest
+CassandraComponentBeanRefTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cassandraql/target/site/clover/org/apache/camel/component/cassandra/CassandraComponentConsumerTest
+CassandraComponentConsumerTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cassandraql/target/site/clover/org/apache/camel/component/cassandra/CassandraComponentProducerTest
+CassandraComponentProducerTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cassandraql/target/site/clover/org/apache/camel/component/cassandra/CassandraComponentProducerUnpreparedTest
+CassandraComponentProducerUnpreparedTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cassandraql/target/site/clover/org/apache/camel/component/cassandra/ResultSetConversionStrategiesTest
+ResultSetConversionStrategiesTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cassandraql/target/site/clover/org/apache/camel/component/cassandra/test-BaseCassandraTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cassandraql/target/site/clover/org/apache/camel/component/cassandra/test-CassandraComponentBeanRefTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cassandraql/target/site/clover/org/apache/camel/component/cassandra/test-CassandraComponentConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cassandraql/target/site/clover/org/apache/camel/component/cassandra/test-CassandraComponentProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cassandraql/target/site/clover/org/apache/camel/component/cassandra/test-CassandraComponentProducerUnpreparedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cassandraql/target/site/clover/org/apache/camel/component/cassandra/test-ResultSetConversionStrategiesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cassandraql/target/site/clover/org/apache/camel/processor/aggregate/cassandra/CassandraAggregationRepositoryTest
+CassandraAggregationRepositoryTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cassandraql/target/site/clover/org/apache/camel/processor/aggregate/cassandra/CassandraAggregationSerializedHeadersTest
+CassandraAggregationSerializedHeadersTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cassandraql/target/site/clover/org/apache/camel/processor/aggregate/cassandra/CassandraAggregationTest
+CassandraAggregationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cassandraql/target/site/clover/org/apache/camel/processor/aggregate/cassandra/NamedCassandraAggregationRepositoryTest
+NamedCassandraAggregationRepositoryTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cassandraql/target/site/clover/org/apache/camel/processor/aggregate/cassandra/test-CassandraAggregationRepositoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cassandraql/target/site/clover/org/apache/camel/processor/aggregate/cassandra/test-CassandraAggregationSerializedHeadersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cassandraql/target/site/clover/org/apache/camel/processor/aggregate/cassandra/test-CassandraAggregationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cassandraql/target/site/clover/org/apache/camel/processor/aggregate/cassandra/test-NamedCassandraAggregationRepositoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cassandraql/target/site/clover/org/apache/camel/processor/idempotent/cassandra/CassandraIdempotentRepositoryTest
+CassandraIdempotentRepositoryTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cassandraql/target/site/clover/org/apache/camel/processor/idempotent/cassandra/CassandraIdempotentTest
+CassandraIdempotentTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cassandraql/target/site/clover/org/apache/camel/processor/idempotent/cassandra/NamedCassandraIdempotentRepositoryTest
+NamedCassandraIdempotentRepositoryTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cassandraql/target/site/clover/org/apache/camel/processor/idempotent/cassandra/test-CassandraIdempotentRepositoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cassandraql/target/site/clover/org/apache/camel/processor/idempotent/cassandra/test-CassandraIdempotentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cassandraql/target/site/clover/org/apache/camel/processor/idempotent/cassandra/test-NamedCassandraIdempotentRepositoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

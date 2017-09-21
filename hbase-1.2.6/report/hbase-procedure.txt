@@ -1,0 +1,759 @@
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/ProcedureTestingUtility
+ProcedureTestingUtility		0.84615386
+ProcedureTestingUtility.TestProcedure		0.6666667
+ProcedureTestingUtility.LoadCounter		0.902439
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/TestProcedureExecution
+TestProcedureExecution		1.0
+TestProcedureExecution.TestProcedureException		1.0
+TestProcedureExecution.TestSequentialProcedure		0.8
+TestProcedureExecution.TestFaultyRollback		0.84615386
+TestProcedureExecution.TestWaitingProcedure		0.7058824
+TestProcedureExecution.TestWaitingProcedure.TestWaitChild		0.61538464
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/TestProcedureExecution_testAbortTimeoutWithChildren_1p
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.ProcedureTimeoutRetriever		1.0
+org.apache.hadoop.hbase.procedure2.SequentialProcedure		0.8
+org.apache.hadoop.hbase.procedure2.util.ByteSlot		0.6511628
+org.apache.hadoop.hbase.procedure2.ProcedureSimpleRunQueue		0.54347825
+org.apache.hadoop.hbase.procedure2.Procedure		0.5335277
+org.apache.hadoop.hbase.procedure2.RootProcedureState		0.3469388
+org.apache.hadoop.hbase.procedure2.RemoteProcedureException		0.34375
+org.apache.hadoop.hbase.procedure2.ProcedureException		0.33333334
+org.apache.hadoop.hbase.procedure2.util.TimeoutBlockingQueue		0.33333334
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.3315508
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor		0.3094629
+org.apache.hadoop.hbase.procedure2.util.StringUtils		0.30645162
+org.apache.hadoop.hbase.procedure2.store.wal.WALProcedureStore		0.25709778
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreBase		0.25
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat		0.24210526
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.204
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/TestProcedureExecution_testAbortTimeout_65
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.ProcedureTimeoutRetriever		1.0
+org.apache.hadoop.hbase.procedure2.SequentialProcedure		0.8
+org.apache.hadoop.hbase.procedure2.util.ByteSlot		0.627907
+org.apache.hadoop.hbase.procedure2.ProcedureSimpleRunQueue		0.5
+org.apache.hadoop.hbase.procedure2.Procedure		0.4723032
+org.apache.hadoop.hbase.procedure2.RemoteProcedureException		0.34375
+org.apache.hadoop.hbase.procedure2.RootProcedureState		0.33673468
+org.apache.hadoop.hbase.procedure2.ProcedureException		0.33333334
+org.apache.hadoop.hbase.procedure2.util.TimeoutBlockingQueue		0.33333334
+org.apache.hadoop.hbase.procedure2.util.StringUtils		0.27419356
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreBase		0.25
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor		0.24680308
+org.apache.hadoop.hbase.procedure2.store.wal.WALProcedureStore		0.22555205
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.22459893
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.184
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat		0.11578947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/TestProcedureExecution_testBadSubprocList_6v
+org.apache.hadoop.hbase.procedure2.SequentialProcedure		0.8
+org.apache.hadoop.hbase.procedure2.util.ByteSlot		0.6511628
+org.apache.hadoop.hbase.procedure2.ProcedureSimpleRunQueue		0.54347825
+org.apache.hadoop.hbase.procedure2.Procedure		0.46938777
+org.apache.hadoop.hbase.procedure2.RootProcedureState		0.42857143
+org.apache.hadoop.hbase.procedure2.RemoteProcedureException		0.34375
+org.apache.hadoop.hbase.procedure2.ProcedureException		0.33333334
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.3315508
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor		0.27493605
+org.apache.hadoop.hbase.procedure2.store.wal.WALProcedureStore		0.25709778
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreBase		0.25
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat		0.24210526
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.204
+org.apache.hadoop.hbase.procedure2.util.StringUtils		0.06451613
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/TestProcedureExecution_testRollbackRetriableFailure_2
+org.apache.hadoop.hbase.procedure2.SequentialProcedure		0.8
+org.apache.hadoop.hbase.procedure2.util.ByteSlot		0.627907
+org.apache.hadoop.hbase.procedure2.ProcedureSimpleRunQueue		0.45652175
+org.apache.hadoop.hbase.procedure2.Procedure		0.44023323
+org.apache.hadoop.hbase.procedure2.RemoteProcedureException		0.34375
+org.apache.hadoop.hbase.procedure2.ProcedureException		0.33333334
+org.apache.hadoop.hbase.procedure2.RootProcedureState		0.3265306
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreBase		0.25
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor		0.22890025
+org.apache.hadoop.hbase.procedure2.store.wal.WALProcedureStore		0.22555205
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.22459893
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.184
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat		0.11578947
+org.apache.hadoop.hbase.procedure2.util.StringUtils		0.06451613
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/TestProcedureExecution_testSingleSequentialProcRollback_6s
+org.apache.hadoop.hbase.procedure2.SequentialProcedure		0.8
+org.apache.hadoop.hbase.procedure2.util.ByteSlot		0.6511628
+org.apache.hadoop.hbase.procedure2.ProcedureSimpleRunQueue		0.54347825
+org.apache.hadoop.hbase.procedure2.Procedure		0.46938777
+org.apache.hadoop.hbase.procedure2.RootProcedureState		0.42857143
+org.apache.hadoop.hbase.procedure2.RemoteProcedureException		0.34375
+org.apache.hadoop.hbase.procedure2.ProcedureException		0.33333334
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.3315508
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor		0.2685422
+org.apache.hadoop.hbase.procedure2.store.wal.WALProcedureStore		0.25709778
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreBase		0.25
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat		0.24210526
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.204
+org.apache.hadoop.hbase.procedure2.util.StringUtils		0.06451613
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/TestProcedureExecution_testSingleSequentialProc_69
+org.apache.hadoop.hbase.procedure2.util.ByteSlot		0.60465115
+org.apache.hadoop.hbase.procedure2.ProcedureSimpleRunQueue		0.54347825
+org.apache.hadoop.hbase.procedure2.SequentialProcedure		0.52
+org.apache.hadoop.hbase.procedure2.Procedure		0.4489796
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.28342247
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreBase		0.25
+org.apache.hadoop.hbase.procedure2.store.wal.WALProcedureStore		0.23974763
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor		0.23529412
+org.apache.hadoop.hbase.procedure2.RootProcedureState		0.21428572
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat		0.18947369
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.184
+org.apache.hadoop.hbase.procedure2.util.StringUtils		0.06451613
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/TestProcedureNonce
+TestProcedureNonce		0.98165137
+TestProcedureNonce.TestSingleStepProcedure		0.72727275
+TestProcedureNonce.TestProcEnv		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/TestProcedureNonce_testCompletedProcWithSameNonce_93
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.EntryIterator		0.7894737
+org.apache.hadoop.hbase.procedure2.ProcedureSimpleRunQueue		0.73913044
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat		0.70526314
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFile		0.7
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.WalProcedureMap		0.64784056
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.Testing		0.625
+org.apache.hadoop.hbase.procedure2.store.wal.WALProcedureStore		0.5741325
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.5561497
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader		0.54
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.Entry		0.5
+org.apache.hadoop.hbase.procedure2.SequentialProcedure		0.48
+org.apache.hadoop.hbase.procedure2.Procedure		0.42274052
+org.apache.hadoop.hbase.procedure2.util.ByteSlot		0.41860464
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.384
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreBase		0.35
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor		0.32352942
+org.apache.hadoop.hbase.procedure2.util.TimeoutBlockingQueue		0.26666668
+org.apache.hadoop.hbase.procedure2.RootProcedureState		0.15306123
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.CompletedProcedureCleaner		0.12244898
+org.apache.hadoop.hbase.procedure2.util.StringUtils		0.06451613
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/TestProcedureNonce_testConcurrentNonceRegistrationWithRollback_2a
+org.apache.hadoop.hbase.procedure2.ProcedureSimpleRunQueue		0.10869565
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor		0.05498721
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/TestProcedureNonce_testConcurrentNonceRegistration_1v
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.Testing		0.625
+org.apache.hadoop.hbase.procedure2.SequentialProcedure		0.48
+org.apache.hadoop.hbase.procedure2.ProcedureSimpleRunQueue		0.47826087
+org.apache.hadoop.hbase.procedure2.util.ByteSlot		0.41860464
+org.apache.hadoop.hbase.procedure2.Procedure		0.393586
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreBase		0.25
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.22459893
+org.apache.hadoop.hbase.procedure2.store.wal.WALProcedureStore		0.22397476
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor		0.19309463
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.184
+org.apache.hadoop.hbase.procedure2.RootProcedureState		0.15306123
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat		0.11578947
+org.apache.hadoop.hbase.procedure2.util.StringUtils		0.06451613
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/TestProcedureNonce_testRunningProcWithSameNonce_a
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.EntryIterator		0.7894737
+org.apache.hadoop.hbase.procedure2.ProcedureSimpleRunQueue		0.7173913
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat		0.70526314
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFile		0.7
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.WalProcedureMap		0.64784056
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.Testing		0.625
+org.apache.hadoop.hbase.procedure2.store.wal.WALProcedureStore		0.5741325
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.5561497
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader		0.54
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.Entry		0.5
+org.apache.hadoop.hbase.procedure2.SequentialProcedure		0.48
+org.apache.hadoop.hbase.procedure2.util.ByteSlot		0.41860464
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.384
+org.apache.hadoop.hbase.procedure2.Procedure		0.36734694
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreBase		0.35
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor		0.29411766
+org.apache.hadoop.hbase.procedure2.util.TimeoutBlockingQueue		0.26666668
+org.apache.hadoop.hbase.procedure2.RootProcedureState		0.15306123
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.CompletedProcedureCleaner		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/TestProcedureNonce_testSetFailureResultForNonce_3c
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.ProcedureTimeoutRetriever		1.0
+org.apache.hadoop.hbase.procedure2.ProcedureException		0.33333334
+org.apache.hadoop.hbase.procedure2.util.TimeoutBlockingQueue		0.27333334
+org.apache.hadoop.hbase.procedure2.RemoteProcedureException		0.21875
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.CompletedProcedureCleaner		0.12244898
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor		0.07289003
+org.apache.hadoop.hbase.procedure2.Procedure		0.011661808
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/TestProcedureRecovery
+TestProcedureRecovery		0.9807692
+TestProcedureRecovery.TestSingleStepProcedure		0.7
+TestProcedureRecovery.BaseTestStepProcedure		1.0
+TestProcedureRecovery.TestMultiStepProcedure		0.8333333
+TestProcedureRecovery.TestMultiStepProcedure.Step1Procedure		0.8333333
+TestProcedureRecovery.TestMultiStepProcedure.Step2Procedure		1.0
+TestProcedureRecovery.TestStateMachineProcedure		0.9322034
+TestProcedureRecovery.TestStateMachineProcedure.State		1.0
+TestProcedureRecovery.TestProcEnv		0.42857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/TestProcedureRecovery_testMultiStepProcRecovery_dp
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.ProcedureTimeoutRetriever		1.0
+org.apache.hadoop.hbase.procedure2.ProcedureSimpleRunQueue		0.8695652
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFile		0.8125
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.WalProcedureMap		0.8106312
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat		0.77894735
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.Entry		0.75
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.EntryIterator		0.68421054
+org.apache.hadoop.hbase.procedure2.SequentialProcedure		0.64
+org.apache.hadoop.hbase.procedure2.Procedure		0.63265306
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.Testing		0.625
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.6096257
+org.apache.hadoop.hbase.procedure2.util.ByteSlot		0.60465115
+org.apache.hadoop.hbase.procedure2.store.wal.WALProcedureStore		0.5993691
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader		0.59
+org.apache.hadoop.hbase.procedure2.RootProcedureState		0.56122446
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor		0.4590793
+org.apache.hadoop.hbase.procedure2.util.TimeoutBlockingQueue		0.4
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.392
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreBase		0.35
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.CompletedProcedureCleaner		0.24489796
+org.apache.hadoop.hbase.procedure2.util.StringUtils		0.06451613
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/TestProcedureRecovery_testMultiStepRollbackRecovery_5y
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.ProcedureTimeoutRetriever		1.0
+org.apache.hadoop.hbase.procedure2.SequentialProcedure		0.92
+org.apache.hadoop.hbase.procedure2.ProcedureSimpleRunQueue		0.9130435
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.WalProcedureMap		0.8870432
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat		0.83157897
+org.apache.hadoop.hbase.procedure2.RootProcedureState		0.82653064
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFile		0.8125
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.Entry		0.8125
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader		0.78
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.EntryIterator		0.68421054
+org.apache.hadoop.hbase.procedure2.Procedure		0.6705539
+org.apache.hadoop.hbase.procedure2.ProcedureException		0.6666667
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.657754
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.Testing		0.625
+org.apache.hadoop.hbase.procedure2.store.wal.WALProcedureStore		0.60410094
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor		0.5319693
+org.apache.hadoop.hbase.procedure2.ProcedureAbortedException		0.5
+org.apache.hadoop.hbase.procedure2.util.ByteSlot		0.4883721
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.416
+org.apache.hadoop.hbase.procedure2.util.TimeoutBlockingQueue		0.4
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreBase		0.35
+org.apache.hadoop.hbase.procedure2.RemoteProcedureException		0.34375
+org.apache.hadoop.hbase.procedure2.util.StringUtils		0.27419356
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.CompletedProcedureCleaner		0.24489796
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/TestProcedureRecovery_testNoopLoad_a8
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.ProcedureTimeoutRetriever		1.0
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat		0.58947366
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFile		0.5625
+org.apache.hadoop.hbase.procedure2.ProcedureSimpleRunQueue		0.54347825
+org.apache.hadoop.hbase.procedure2.util.TimeoutBlockingQueue		0.4
+org.apache.hadoop.hbase.procedure2.store.wal.WALProcedureStore		0.32176656
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader		0.27
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.CompletedProcedureCleaner		0.24489796
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.21390374
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreBase		0.2
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.WalProcedureMap		0.1295681
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor		0.10869565
+org.apache.hadoop.hbase.procedure2.Procedure		0.017492712
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/TestProcedureRecovery_testSingleStepProcRecovery_3r
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.ProcedureTimeoutRetriever		1.0
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.EntryIterator		1.0
+org.apache.hadoop.hbase.procedure2.ProcedureSimpleRunQueue		0.7826087
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.Entry		0.78125
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat		0.70526314
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFile		0.7
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.Testing		0.625
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.WalProcedureMap		0.62458473
+org.apache.hadoop.hbase.procedure2.SequentialProcedure		0.6
+org.apache.hadoop.hbase.procedure2.store.wal.WALProcedureStore		0.56782335
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.5561497
+org.apache.hadoop.hbase.procedure2.Procedure		0.5451895
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader		0.54
+org.apache.hadoop.hbase.procedure2.util.ByteSlot		0.41860464
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor		0.40025574
+org.apache.hadoop.hbase.procedure2.util.TimeoutBlockingQueue		0.4
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.384
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreBase		0.35
+org.apache.hadoop.hbase.procedure2.RootProcedureState		0.2755102
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.CompletedProcedureCleaner		0.24489796
+org.apache.hadoop.hbase.procedure2.util.StringUtils		0.06451613
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/TestProcedureRecovery_testStateMachineRecovery_68
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.ProcedureTimeoutRetriever		1.0
+org.apache.hadoop.hbase.procedure2.StateMachineProcedure		0.89705884
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.Testing		0.875
+org.apache.hadoop.hbase.procedure2.ProcedureSimpleRunQueue		0.8695652
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFile		0.75
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat		0.70526314
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.EntryIterator		0.68421054
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.Entry		0.65625
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.WalProcedureMap		0.62458473
+org.apache.hadoop.hbase.procedure2.Procedure		0.60932946
+org.apache.hadoop.hbase.procedure2.store.wal.WALProcedureStore		0.5851735
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.5775401
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader		0.54
+org.apache.hadoop.hbase.procedure2.RootProcedureState		0.48979592
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.CompletedProcedureCleaner		0.42857143
+org.apache.hadoop.hbase.procedure2.util.ByteSlot		0.41860464
+org.apache.hadoop.hbase.procedure2.util.TimeoutBlockingQueue		0.4
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor		0.39258313
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.392
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreBase		0.35
+org.apache.hadoop.hbase.procedure2.util.StringUtils		0.06451613
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/TestProcedureRecovery_testStateMachineRollbackRecovery_7z
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.ProcedureTimeoutRetriever		1.0
+org.apache.hadoop.hbase.procedure2.StateMachineProcedure		1.0
+org.apache.hadoop.hbase.procedure2.ProcedureSimpleRunQueue		0.9130435
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.Testing		0.875
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.Entry		0.71875
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat		0.70526314
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFile		0.7
+org.apache.hadoop.hbase.procedure2.Procedure		0.696793
+org.apache.hadoop.hbase.procedure2.RootProcedureState		0.6938776
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.EntryIterator		0.68421054
+org.apache.hadoop.hbase.procedure2.ProcedureException		0.6666667
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.WalProcedureMap		0.62458473
+org.apache.hadoop.hbase.procedure2.store.wal.WALProcedureStore		0.56782335
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.5561497
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader		0.54
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.CompletedProcedureCleaner		0.5102041
+org.apache.hadoop.hbase.procedure2.ProcedureAbortedException		0.5
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor		0.48209718
+org.apache.hadoop.hbase.procedure2.util.ByteSlot		0.41860464
+org.apache.hadoop.hbase.procedure2.util.TimeoutBlockingQueue		0.4
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.384
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreBase		0.35
+org.apache.hadoop.hbase.procedure2.RemoteProcedureException		0.34375
+org.apache.hadoop.hbase.procedure2.util.StringUtils		0.27419356
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/TestProcedureReplayOrder
+TestProcedureReplayOrder		0.96666664
+TestProcedureReplayOrder.TestProcedureEnv		1.0
+TestProcedureReplayOrder.TestProcedure		0.7
+TestProcedureReplayOrder.TestSingleStepProcedure		1.0
+TestProcedureReplayOrder.TestTwoStepProcedure		0.88235295
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/TestProcedureReplayOrder_testMultiStepReplayOrder_5g
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.ProcedureTimeoutRetriever		1.0
+org.apache.hadoop.hbase.procedure2.ProcedureSimpleRunQueue		0.9130435
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.WalProcedureMap		0.807309
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat		0.77894735
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFile		0.75
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.Entry		0.75
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.EntryIterator		0.68421054
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader		0.64
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.62032086
+org.apache.hadoop.hbase.procedure2.util.ByteSlot		0.60465115
+org.apache.hadoop.hbase.procedure2.store.wal.WALProcedureStore		0.60410094
+org.apache.hadoop.hbase.procedure2.Procedure		0.5889213
+org.apache.hadoop.hbase.procedure2.RootProcedureState		0.5408163
+org.apache.hadoop.hbase.procedure2.ProcedureYieldException		0.5
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor		0.44373402
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.CompletedProcedureCleaner		0.42857143
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.4
+org.apache.hadoop.hbase.procedure2.util.TimeoutBlockingQueue		0.4
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreBase		0.35
+org.apache.hadoop.hbase.procedure2.ProcedureException		0.33333334
+org.apache.hadoop.hbase.procedure2.util.StringUtils		0.30645162
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/TestProcedureReplayOrder_testSingleStepReplayOrder_6w
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.ProcedureTimeoutRetriever		1.0
+org.apache.hadoop.hbase.procedure2.ProcedureSimpleRunQueue		0.9130435
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFile		0.75
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.WalProcedureMap		0.7209302
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat		0.70526314
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.EntryIterator		0.68421054
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.Entry		0.65625
+org.apache.hadoop.hbase.procedure2.store.wal.WALProcedureStore		0.5899054
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.5882353
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader		0.54
+org.apache.hadoop.hbase.procedure2.Procedure		0.5335277
+org.apache.hadoop.hbase.procedure2.RootProcedureState		0.52040815
+org.apache.hadoop.hbase.procedure2.ProcedureYieldException		0.5
+org.apache.hadoop.hbase.procedure2.util.ByteSlot		0.4883721
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.4
+org.apache.hadoop.hbase.procedure2.util.TimeoutBlockingQueue		0.4
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor		0.38107416
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreBase		0.35
+org.apache.hadoop.hbase.procedure2.ProcedureException		0.33333334
+org.apache.hadoop.hbase.procedure2.util.StringUtils		0.27419356
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.CompletedProcedureCleaner		0.24489796
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/TestProcedureToString
+TestProcedureToString		1.0
+TestProcedureToString.BasicProcedureEnv		1.0
+TestProcedureToString.BasicProcedure		0.0
+TestProcedureToString.DoublingStateStringBasicProcedure		1.0
+TestProcedureToString.SimpleStateMachineProcedure		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/TestProcedureToString_testBasicToString_3x
+org.apache.hadoop.hbase.procedure2.Procedure		0.08454811
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/TestProcedureToString_testStateMachineProcedure_4u
+org.apache.hadoop.hbase.procedure2.StateMachineProcedure		0.2647059
+org.apache.hadoop.hbase.procedure2.Procedure		0.09912536
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/TestYieldProcedures
+TestYieldProcedures		1.0
+TestYieldProcedures.TestProcEnv		1.0
+TestYieldProcedures.TestStateMachineProcedure		0.84126985
+TestYieldProcedures.TestStateMachineProcedure.State		1.0
+TestYieldProcedures.TestStateMachineProcedure.ExecutionInfo		0.8
+TestYieldProcedures.TestYieldProcedure		0.6
+TestYieldProcedures.TestRunQueue		0.8
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/TestYieldProcedures_testYieldEachExecutionStep_ao
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.ProcedureTimeoutRetriever		1.0
+org.apache.hadoop.hbase.procedure2.StateMachineProcedure		0.75
+org.apache.hadoop.hbase.procedure2.util.ByteSlot		0.627907
+org.apache.hadoop.hbase.procedure2.ProcedureSimpleRunQueue		0.54347825
+org.apache.hadoop.hbase.procedure2.Procedure		0.51603496
+org.apache.hadoop.hbase.procedure2.RootProcedureState		0.37755102
+org.apache.hadoop.hbase.procedure2.ProcedureException		0.33333334
+org.apache.hadoop.hbase.procedure2.RemoteProcedureException		0.28125
+org.apache.hadoop.hbase.procedure2.util.StringUtils		0.27419356
+org.apache.hadoop.hbase.procedure2.util.TimeoutBlockingQueue		0.27333334
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.2513369
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor		0.25063938
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreBase		0.25
+org.apache.hadoop.hbase.procedure2.store.wal.WALProcedureStore		0.22555205
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.184
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.CompletedProcedureCleaner		0.12244898
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat		0.11578947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/TestYieldProcedures_testYieldException_8h
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.ProcedureTimeoutRetriever		1.0
+org.apache.hadoop.hbase.procedure2.ProcedureSimpleRunQueue		0.54347825
+org.apache.hadoop.hbase.procedure2.ProcedureYieldException		0.5
+org.apache.hadoop.hbase.procedure2.util.ByteSlot		0.4883721
+org.apache.hadoop.hbase.procedure2.Procedure		0.39941692
+org.apache.hadoop.hbase.procedure2.store.wal.WALProcedureStore		0.35962147
+org.apache.hadoop.hbase.procedure2.ProcedureException		0.33333334
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.28877005
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFile		0.2875
+org.apache.hadoop.hbase.procedure2.util.TimeoutBlockingQueue		0.27333334
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreBase		0.25
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat		0.21052632
+org.apache.hadoop.hbase.procedure2.RootProcedureState		0.20408164
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor		0.19820972
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.184
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.CompletedProcedureCleaner		0.12244898
+org.apache.hadoop.hbase.procedure2.util.StringUtils		0.06451613
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/TestYieldProcedures_testYieldOnInterrupt_aa
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.ProcedureTimeoutRetriever		1.0
+org.apache.hadoop.hbase.procedure2.StateMachineProcedure		0.75
+org.apache.hadoop.hbase.procedure2.util.ByteSlot		0.627907
+org.apache.hadoop.hbase.procedure2.ProcedureSimpleRunQueue		0.54347825
+org.apache.hadoop.hbase.procedure2.Procedure		0.51603496
+org.apache.hadoop.hbase.procedure2.RootProcedureState		0.37755102
+org.apache.hadoop.hbase.procedure2.ProcedureException		0.33333334
+org.apache.hadoop.hbase.procedure2.RemoteProcedureException		0.28125
+org.apache.hadoop.hbase.procedure2.util.StringUtils		0.27419356
+org.apache.hadoop.hbase.procedure2.util.TimeoutBlockingQueue		0.27333334
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor		0.2723785
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreBase		0.25
+org.apache.hadoop.hbase.procedure2.store.wal.WALProcedureStore		0.22555205
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.22459893
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.184
+org.apache.hadoop.hbase.procedure2.ProcedureExecutor.CompletedProcedureCleaner		0.12244898
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat		0.11578947
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/store/TestProcedureStoreTracker
+TestProcedureStoreTracker		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/store/TestProcedureStoreTracker_testBasicCRUD_18
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.38502672
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.244
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/store/TestProcedureStoreTracker_testDelete_w
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.536
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.36898395
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/store/TestProcedureStoreTracker_testIsTracking_7l
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.25668448
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.196
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/store/TestProcedureStoreTracker_testLoad_3g
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.31016043
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.244
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/store/TestProcedureStoreTracker_testPartialTracker_9v
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.516
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.3529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/store/TestProcedureStoreTracker_testRandLoad_ci
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.2620321
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.156
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/store/TestProcedureStoreTracker_testSeqInsertAndDelete_26
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.30481285
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.228
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/store/test-TestProcedureStoreTracker
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/store/wal/TestStressWALProcedureStore
+TestStressWALProcedureStore		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/store/wal/TestStressWALProcedureStore_testInsertUpdateDelete_3o
+org.apache.hadoop.hbase.procedure2.util.ByteSlot		0.4883721
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.46524063
+org.apache.hadoop.hbase.procedure2.store.wal.WALProcedureStore		0.4384858
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFile		0.3375
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.336
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat		0.2631579
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreBase		0.25
+org.apache.hadoop.hbase.procedure2.Procedure		0.19241983
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/store/wal/TestWALProcedureStore
+TestWALProcedureStore		0.9583333
+TestWALProcedureStore.TestSequentialProcedure		0.77272725
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/store/wal/TestWALProcedureStore_testCorruptedEntries_42
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.WalProcedureMap		0.6777409
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat		0.58947366
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFile		0.5625
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.53475934
+org.apache.hadoop.hbase.procedure2.store.wal.WALProcedureStore		0.5283912
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat.InvalidWALDataException		0.5
+org.apache.hadoop.hbase.procedure2.util.ByteSlot		0.4883721
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.EntryIterator		0.47368422
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader		0.46
+org.apache.hadoop.hbase.procedure2.Procedure		0.3819242
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreBase		0.35
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.348
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.Entry		0.34375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/store/wal/TestWALProcedureStore_testCorruptedProcedures_8i
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.WalProcedureMap		0.83388704
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFile		0.8125
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat		0.77894735
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader		0.63
+org.apache.hadoop.hbase.procedure2.store.wal.WALProcedureStore		0.6230284
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.62032086
+org.apache.hadoop.hbase.procedure2.util.ByteSlot		0.60465115
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.EntryIterator		0.47368422
+org.apache.hadoop.hbase.procedure2.Procedure		0.4723032
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.Entry		0.46875
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.392
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreBase		0.35
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/store/wal/TestWALProcedureStore_testCorruptedTrailer_81
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.WalProcedureMap		0.6777409
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFile		0.65
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat		0.58947366
+org.apache.hadoop.hbase.procedure2.store.wal.WALProcedureStore		0.5615142
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.53475934
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat.InvalidWALDataException		0.5
+org.apache.hadoop.hbase.procedure2.util.ByteSlot		0.4883721
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader		0.48
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.EntryIterator		0.47368422
+org.apache.hadoop.hbase.procedure2.Procedure		0.3819242
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreBase		0.35
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.348
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.Entry		0.34375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/store/wal/TestWALProcedureStore_testEmptyLogLoad_2b
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat		0.58947366
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFile		0.5625
+org.apache.hadoop.hbase.procedure2.store.wal.WALProcedureStore		0.29652998
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader		0.27
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.21390374
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreBase		0.2
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.WalProcedureMap		0.1295681
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/store/wal/TestWALProcedureStore_testEmptyRoll_bi
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFile		0.2875
+org.apache.hadoop.hbase.procedure2.store.wal.WALProcedureStore		0.20977917
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.101604275
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreBase		0.1
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat		0.094736844
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/store/wal/TestWALProcedureStore_testFileNotFoundDuringLeaseRecovery_3j
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.WalProcedureMap		0.7076412
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat		0.70526314
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFile		0.675
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.5775401
+org.apache.hadoop.hbase.procedure2.store.wal.WALProcedureStore		0.5646688
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader		0.49
+org.apache.hadoop.hbase.procedure2.util.ByteSlot		0.4883721
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.EntryIterator		0.47368422
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.392
+org.apache.hadoop.hbase.procedure2.Procedure		0.37900874
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreBase		0.35
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.Entry		0.34375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/store/wal/TestWALProcedureStore_testLoad_7n
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat		0.85263157
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFile		0.8125
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.WalProcedureMap		0.7873754
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader		0.78
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.7058824
+org.apache.hadoop.hbase.procedure2.util.ByteSlot		0.627907
+org.apache.hadoop.hbase.procedure2.store.wal.WALProcedureStore		0.6198738
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat.InvalidWALDataException		0.5
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.488
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.EntryIterator		0.47368422
+org.apache.hadoop.hbase.procedure2.Procedure		0.3819242
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreBase		0.35
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.Entry		0.34375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/store/wal/TestWALProcedureStore_testNoTrailerDoubleRestart_1g
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFile		0.8125
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat		0.77894735
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader		0.69
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.6684492
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.WalProcedureMap		0.641196
+org.apache.hadoop.hbase.procedure2.store.wal.WALProcedureStore		0.64037853
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.5
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat.InvalidWALDataException		0.5
+org.apache.hadoop.hbase.procedure2.util.ByteSlot		0.4883721
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.EntryIterator		0.47368422
+org.apache.hadoop.hbase.procedure2.Procedure		0.3819242
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreBase		0.35
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.Entry		0.34375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/store/wal/TestWALProcedureStore_testRollAndRemove_8r
+org.apache.hadoop.hbase.procedure2.util.ByteSlot		0.4883721
+org.apache.hadoop.hbase.procedure2.store.wal.WALProcedureStore		0.4400631
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.43850267
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFile		0.3375
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.332
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat		0.2631579
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreBase		0.25
+org.apache.hadoop.hbase.procedure2.Procedure		0.19533528
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/store/wal/TestWALProcedureStore_testWalReplayOrder_ABC_BAD_j
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.WalProcedureMap		0.8471761
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFile		0.8125
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat		0.77894735
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader		0.65
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.6096257
+org.apache.hadoop.hbase.procedure2.store.wal.WALProcedureStore		0.60567826
+org.apache.hadoop.hbase.procedure2.util.ByteSlot		0.60465115
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.EntryIterator		0.47368422
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.392
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.Entry		0.375
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreBase		0.35
+org.apache.hadoop.hbase.procedure2.Procedure		0.27113703
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/store/wal/TestWALProcedureStore_testWalReplayOrder_AB_A_cb
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFile		0.8125
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.WalProcedureMap		0.79401994
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormat		0.77894735
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader		0.65
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker		0.6096257
+org.apache.hadoop.hbase.procedure2.store.wal.WALProcedureStore		0.60567826
+org.apache.hadoop.hbase.procedure2.util.ByteSlot		0.60465115
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.EntryIterator		0.47368422
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreTracker.BitSetNode		0.392
+org.apache.hadoop.hbase.procedure2.store.wal.ProcedureWALFormatReader.Entry		0.375
+org.apache.hadoop.hbase.procedure2.store.ProcedureStoreBase		0.35
+org.apache.hadoop.hbase.procedure2.Procedure		0.27113703
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/store/wal/test-TestStressWALProcedureStore
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/store/wal/test-TestWALProcedureStore
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/store/wal/test-TestWALProcedureStore_TestSequentialProcedure
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-ProcedureTestingUtility
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-ProcedureTestingUtility_LoadCounter
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-ProcedureTestingUtility_TestProcedure
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestProcedureExecution
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestProcedureExecution_TestFaultyRollback
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestProcedureExecution_TestProcedureException
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestProcedureExecution_TestSequentialProcedure
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestProcedureExecution_TestWaitingProcedure
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestProcedureExecution_TestWaitingProcedure_TestWaitChild
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestProcedureNonce
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestProcedureNonce_TestProcEnv
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestProcedureNonce_TestSingleStepProcedure
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestProcedureRecovery
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestProcedureRecovery_BaseTestStepProcedure
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestProcedureRecovery_TestMultiStepProcedure
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestProcedureRecovery_TestMultiStepProcedure_Step1Procedure
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestProcedureRecovery_TestMultiStepProcedure_Step2Procedure
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestProcedureRecovery_TestProcEnv
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestProcedureRecovery_TestSingleStepProcedure
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestProcedureRecovery_TestStateMachineProcedure
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestProcedureRecovery_TestStateMachineProcedure_State
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestProcedureReplayOrder
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestProcedureReplayOrder_TestProcedure
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestProcedureReplayOrder_TestProcedureEnv
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestProcedureReplayOrder_TestSingleStepProcedure
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestProcedureReplayOrder_TestTwoStepProcedure
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestProcedureToString
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestProcedureToString_BasicProcedure
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestProcedureToString_BasicProcedureEnv
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestProcedureToString_DoublingStateStringBasicProcedure
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestProcedureToString_SimpleStateMachineProcedure
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestYieldProcedures
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestYieldProcedures_TestProcEnv
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestYieldProcedures_TestRunQueue
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestYieldProcedures_TestStateMachineProcedure
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestYieldProcedures_TestStateMachineProcedure_ExecutionInfo
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestYieldProcedures_TestStateMachineProcedure_State
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/test-TestYieldProcedures_TestYieldProcedure
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/util/TestTimeoutBlockingQueue
+TestTimeoutBlockingQueue		1.0
+TestTimeoutBlockingQueue.TestObject		1.0
+TestTimeoutBlockingQueue.TestObjectTimeoutRetriever		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/util/TestTimeoutBlockingQueue_testOrder_t
+org.apache.hadoop.hbase.procedure2.util.TimeoutBlockingQueue		0.73333335
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/util/TestTimeoutBlockingQueue_testTimeoutBlockingQueue_ak
+org.apache.hadoop.hbase.procedure2.util.TimeoutBlockingQueue		0.6933333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/util/test-TestTimeoutBlockingQueue
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/util/test-TestTimeoutBlockingQueue_TestObject
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-procedure/target/site/clover/org/apache/hadoop/hbase/procedure2/util/test-TestTimeoutBlockingQueue_TestObjectTimeoutRetriever
+-- -- -- -- -- -- -- -- -- -- -- -- --

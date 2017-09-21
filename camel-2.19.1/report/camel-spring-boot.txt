@@ -1,0 +1,349 @@
+./components/camel-spring-boot/target/site/clover/org/apache/camel
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/CamelAnnotationsTest
+CamelAnnotationsTest		1.0
+CamelAnnotationsTest.TestConfig		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/CamelAnnotationsTest_shouldInjectEndpoint_n
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/CamelAutoConfigurationPropertiesTest
+CamelAutoConfigurationPropertiesTest		1.0
+CamelAutoConfigurationPropertiesTest.Config		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/CamelAutoConfigurationPropertiesTest_shouldResolveBothCamelAndSpringPlaceholders_12
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/CamelAutoConfigurationTest
+CamelAutoConfigurationTest		1.0
+CamelAutoConfigurationTest.TestConfig		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/CamelAutoConfigurationTest_shouldCallCamelContextConfiguration_l
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/CamelAutoConfigurationTest_shouldChangeContextNameViaConfigurationCallback_f
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/CamelAutoConfigurationTest_shouldCreateCamelContext_t
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/CamelAutoConfigurationTest_shouldDetectRoutes_q
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/CamelAutoConfigurationTest_shouldLoadConsumerTemplateWithSizeFromProperties_h
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/CamelAutoConfigurationTest_shouldLoadConsumerTemplate_y
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/CamelAutoConfigurationTest_shouldLoadProducerTemplate_0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/CamelAutoConfigurationTest_shouldLoadTypeConverters_1i
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/CamelAutoConfigurationTest_shouldLoadXmlRoutes_1n
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/CamelAutoConfigurationTest_shouldSendAndReceiveMessageWithTemplates_u
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/CamelAutoConfigurationTest_shouldStartRoute_w
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/CamelConfigurationLocationsTest
+CamelConfigurationLocationsTest		1.0
+CamelConfigurationLocationsTest.Config		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/CamelConfigurationLocationsTest_shouldSecret_11
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/CamelEventNotifierTest
+CamelEventNotifierTest		1.0
+CamelEventNotifierTest.Config		1.0
+CamelEventNotifierTest.MyEventNotifier		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/CamelEventNotifierTest_testEventNotifier_1g
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/CamelNonInvasiveCamelContextTest
+CamelNonInvasiveCamelContextTest		1.0
+CamelNonInvasiveCamelContextTest.TestApplication		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/CamelNonInvasiveCamelContextTest_shouldUseCamelContextFromXml_1j
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/CamelNonInvasiveCamelContextTest_shouldUseConsumerTemplateFromXml_14
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/CamelNonInvasiveCamelContextTest_shouldUseProducerTemplateFromXml_k
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/CamelSpringBootShutdownTest
+CamelSpringBootShutdownTest		0.7777778
+CamelSpringBootShutdownTest.DelayedCloser		1.0
+CamelSpringBootShutdownTest.TestRouteConfiguration		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/CamelSpringBootShutdownTest_test1_8
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/CamelSpringBootShutdownTest_test2_m
+org.apache.camel.spring.boot.CamelSpringBootApplicationController		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/CamelSpringBootTemplateShutdownTest
+CamelSpringBootTemplateShutdownTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/CamelSpringBootTemplateShutdownTest_shouldStopTemplatesWithApplicationContextShutdown_1c
+org.apache.camel.spring.boot.CamelSpringBootApplicationController		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/CamelSpringBootTemplateShutdownTest_shouldStopTemplatesWithCamelShutdown_d
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/CustomShutdownStrategyTest
+CustomShutdownStrategyTest		1.0
+CustomShutdownStrategyTest.Config		1.0
+CustomShutdownStrategyTest.MyShutdown		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/CustomShutdownStrategyTest_testCustomShutdown_b
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/ExistingConversionServiceTest
+ExistingConversionServiceTest		1.0
+ExistingConversionServiceTest.TestConfig		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/ExistingConversionServiceTest_shouldUseProvidedConversionService_1m
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/NoConvertersTest
+NoConvertersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/NoConvertersTest_shouldNotProvideConverter_17
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/PlainTest
+PlainTest		1.0
+PlainTest.MyConfiguration		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/PlainTest_testPlain_a
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/SpringConverterDelegationTest
+SpringConverterDelegationTest		1.0
+SpringConverterDelegationTest.Config		1.0
+SpringConverterDelegationTest.Convertable		1.0
+SpringConverterDelegationTest.ConvertableConverter		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/SpringConverterDelegationTest_shouldConvertUsingSpringConverter_13
+org.apache.camel.spring.boot.SpringTypeConverter		0.42857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/SpringTypeConverterTest
+SpringTypeConverterTest		1.0
+SpringTypeConverterTest.Person		0.3846154
+SpringTypeConverterTest.SpringTypeConversionConfiguration		0.85714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/SpringTypeConverterTest_testConversionService_c
+org.apache.camel.spring.boot.SpringTypeConverter		0.60714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/cloud/CamelCloudServiceCallConfigurationTest
+CamelCloudServiceCallConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/cloud/CamelCloudServiceCallConfigurationTest_testConfiguration_1o
+testConfiguration
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/cloud/CamelCloudServiceCallGlobalConfigurationTest
+CamelCloudServiceCallGlobalConfigurationTest		1.0
+CamelCloudServiceCallGlobalConfigurationTest.TestConfiguration		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/cloud/CamelCloudServiceCallGlobalConfigurationTest_testServiceCall_7
+testServiceCall
+org.apache.camel.spring.boot.cloud.CamelCloudServiceFilter		0.5
+org.apache.camel.spring.boot.SpringTypeConverter		0.39285713
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/cloud/CamelCloudServiceCallRefExpressionTest
+CamelCloudServiceCallRefExpressionTest		1.0
+CamelCloudServiceCallRefExpressionTest.TestConfiguration		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/cloud/CamelCloudServiceCallRefExpressionTest_testServiceCall_z
+testServiceCall
+org.apache.camel.spring.boot.cloud.CamelCloudServiceFilter		0.5
+org.apache.camel.spring.boot.SpringTypeConverter		0.39285713
+org.apache.camel.spring.boot.cloud.CamelCloudServiceDiscovery		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/cloud/CamelCloudServiceCallSimpleExpressionTest
+CamelCloudServiceCallSimpleExpressionTest		1.0
+CamelCloudServiceCallSimpleExpressionTest.TestConfiguration		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/cloud/CamelCloudServiceCallSimpleExpressionTest_testServiceCall_1d
+testServiceCall
+org.apache.camel.spring.boot.cloud.CamelCloudServiceFilter		0.5
+org.apache.camel.spring.boot.SpringTypeConverter		0.39285713
+org.apache.camel.spring.boot.cloud.CamelCloudServiceDiscovery		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/cloud/CamelCloudServiceCallTest
+CamelCloudServiceCallTest		1.0
+CamelCloudServiceCallTest.TestConfiguration		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/cloud/CamelCloudServiceCallTest_testServiceCall_r
+testServiceCall
+org.apache.camel.spring.boot.cloud.CamelCloudServiceFilter		0.5
+org.apache.camel.spring.boot.SpringTypeConverter		0.39285713
+org.apache.camel.spring.boot.cloud.CamelCloudServiceDiscovery		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/cloud/test-CamelCloudServiceCallConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/cloud/test-CamelCloudServiceCallGlobalConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/cloud/test-CamelCloudServiceCallGlobalConfigurationTest_TestConfiguration
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/cloud/test-CamelCloudServiceCallRefExpressionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/cloud/test-CamelCloudServiceCallRefExpressionTest_TestConfiguration
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/cloud/test-CamelCloudServiceCallSimpleExpressionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/cloud/test-CamelCloudServiceCallSimpleExpressionTest_TestConfiguration
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/cloud/test-CamelCloudServiceCallTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/cloud/test-CamelCloudServiceCallTest_TestConfiguration
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/componentroute/ComponentRouteTest
+ComponentRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/componentroute/ComponentRouteTest_shouldNotProvideConverter_i
+shouldNotProvideConverter
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/componentroute/test-ComponentRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/health/CamelHealthTest
+CamelHealthTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/health/CamelHealthTest_shouldHaveHealth_5
+shouldHaveHealth
+org.apache.camel.spring.boot.health.CamelHealthIndicator		0.47368422
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/health/test-CamelHealthTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/issues/SimpleOgnlTest
+SimpleOgnlTest		1.0
+SimpleOgnlTest.ContextConfig		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/issues/SimpleOgnlTest_testSimpleOgnlListExpression_6
+testSimpleOgnlListExpression
+org.apache.camel.spring.boot.SpringTypeConverter		0.21428572
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/issues/StreamCachingTest
+StreamCachingTest		0.7222222
+StreamCachingTest.MyBean		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/issues/StreamCachingTest_streamCachingWithSpring_o
+streamCachingWithSpring
+org.apache.camel.spring.boot.SpringTypeConverter		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/issues/test-SimpleOgnlTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/issues/test-SimpleOgnlTest_ContextConfig
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/issues/test-StreamCachingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/issues/test-StreamCachingTest_MyBean
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/mockendpoints/AdviceWithTest
+AdviceWithTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/mockendpoints/AdviceWithTest_shouldMockEndpoints_g
+shouldMockEndpoints
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/mockendpoints/MockEndpointsTest
+MockEndpointsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/mockendpoints/MockEndpointsTest_shouldMockEndpoints_j
+shouldMockEndpoints
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/mockendpoints/test-AdviceWithTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/mockendpoints/test-MockEndpointsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/parent/SpringBootRefreshContextTest
+SpringBootRefreshContextTest		1.0
+Configuration		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/parent/SpringBootRefreshContextTest_shouldOnlyCollectRoutesOnce_16
+shouldOnlyCollectRoutesOnce
+org.apache.camel.spring.boot.cloud.CamelCloudServiceCallConfigurationAutoConfiguration.ServiceCallCondition		1.0
+org.apache.camel.spring.boot.cloud.CamelCloudServiceChooserAutoConfiguration.ServiceChooserCondition		1.0
+org.apache.camel.spring.boot.cloud.CamelCloudServiceDiscoveryAutoConfiguration.Condition		1.0
+org.apache.camel.spring.boot.cloud.CamelCloudServiceFilterAutoConfiguration.Condition		1.0
+org.apache.camel.spring.boot.health.CamelHealthAutoConfiguration.CamelHealthIndicatorInitializer		1.0
+org.apache.camel.spring.boot.TypeConversionConfiguration		0.90909094
+org.apache.camel.spring.boot.util.GroupCondition		0.8181818
+org.apache.camel.spring.boot.security.CamelSSLAutoConfiguration.Condition		0.7777778
+org.apache.camel.spring.boot.CamelAutoConfiguration		0.53697747
+org.apache.camel.spring.boot.CamelConfigurationProperties		0.4732143
+org.apache.camel.spring.boot.RoutesCollector		0.40816328
+org.apache.camel.spring.boot.cloud.CamelCloudConfigurationProperties.ServiceDiscovery		0.33333334
+org.apache.camel.spring.boot.cloud.CamelCloudConfigurationProperties.ServiceFilter		0.33333334
+org.apache.camel.spring.boot.cloud.CamelCloudConfigurationProperties		0.2857143
+org.apache.camel.spring.boot.cloud.CamelCloudServiceFilterAutoConfiguration		0.26923078
+org.apache.camel.spring.boot.cloud.CamelCloudServiceDiscoveryAutoConfiguration		0.25
+org.apache.camel.spring.boot.SpringTypeConverter		0.10714286
+org.apache.camel.spring.boot.health.CamelHealthIndicator		0.10526316
+org.apache.camel.spring.boot.CamelSpringBootApplicationController		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/parent/test-SpringBootRefreshContextTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/security/CamelSSLAutoConfigurationTest
+CamelSSLAutoConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/security/CamelSSLAutoConfigurationTest_checkSSLPropertiesPresent_e
+checkSSLPropertiesPresent
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/security/CamelSSLNoConfigTest
+CamelSSLNoConfigTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/security/CamelSSLNoConfigTest_checkSSLPropertiesNotPresent_3
+checkSSLPropertiesNotPresent
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/security/test-CamelSSLAutoConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/security/test-CamelSSLNoConfigTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/test-CamelAnnotationsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/test-CamelAnnotationsTest_TestConfig
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/test-CamelAutoConfigurationPropertiesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/test-CamelAutoConfigurationPropertiesTest_Config
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/test-CamelAutoConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/test-CamelAutoConfigurationTest_TestConfig
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/test-CamelConfigurationLocationsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/test-CamelConfigurationLocationsTest_Config
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/test-CamelEventNotifierTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/test-CamelEventNotifierTest_Config
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/test-CamelEventNotifierTest_MyEventNotifier
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/test-CamelNonInvasiveCamelContextTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/test-CamelNonInvasiveCamelContextTest_TestApplication
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/test-CamelSpringBootShutdownTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/test-CamelSpringBootShutdownTest_DelayedCloser
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/test-CamelSpringBootShutdownTest_TestRouteConfiguration
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/test-CamelSpringBootTemplateShutdownTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/test-CustomShutdownStrategyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/test-CustomShutdownStrategyTest_Config
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/test-CustomShutdownStrategyTest_MyShutdown
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/test-ExistingConversionServiceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/test-ExistingConversionServiceTest_TestConfig
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/test-NoConvertersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/test-PlainTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/test-PlainTest_MyConfiguration
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/test-SpringConverterDelegationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/test-SpringConverterDelegationTest_Config
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/test-SpringConverterDelegationTest_Convertable
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/test-SpringConverterDelegationTest_ConvertableConverter
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/test-SpringTypeConverterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/test-SpringTypeConverterTest_Person
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-boot/target/site/clover/org/apache/camel/spring/boot/test-SpringTypeConverterTest_SpringTypeConversionConfiguration
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,78 @@
+./components/camel-dropbox/target/site/clover/org/apache/camel
+./components/camel-dropbox/target/site/clover/org/apache/camel/component/dropbox/DropboxConsumerTest
+DropboxConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dropbox/target/site/clover/org/apache/camel/component/dropbox/DropboxConsumerTest_shouldCreateGetConsumer_0
+org.apache.camel.component.dropbox.util.DropboxOperation		0.5
+org.apache.camel.component.dropbox.DropboxEndpoint		0.2244898
+org.apache.camel.component.dropbox.integration.consumer.DropboxScheduledPollConsumer		0.22222222
+org.apache.camel.component.dropbox.DropboxConfiguration		0.102564104
+org.apache.camel.component.dropbox.integration.consumer.DropboxScheduledPollGetConsumer		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dropbox/target/site/clover/org/apache/camel/component/dropbox/integration/DropboxTestSupport
+DropboxTestSupport		0.71428573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dropbox/target/site/clover/org/apache/camel/component/dropbox/integration/consumer/DropboxConsumerGetSingleTest
+DropboxConsumerGetSingleTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dropbox/target/site/clover/org/apache/camel/component/dropbox/integration/consumer/DropboxConsumerSearchQueryTest
+DropboxConsumerSearchQueryTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dropbox/target/site/clover/org/apache/camel/component/dropbox/integration/consumer/DropboxConsumerSearchTest
+DropboxConsumerSearchTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dropbox/target/site/clover/org/apache/camel/component/dropbox/integration/consumer/test-DropboxConsumerGetSingleTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dropbox/target/site/clover/org/apache/camel/component/dropbox/integration/consumer/test-DropboxConsumerSearchQueryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dropbox/target/site/clover/org/apache/camel/component/dropbox/integration/consumer/test-DropboxConsumerSearchTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dropbox/target/site/clover/org/apache/camel/component/dropbox/integration/producer/DropboxProducerDelTest
+DropboxProducerDelTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dropbox/target/site/clover/org/apache/camel/component/dropbox/integration/producer/DropboxProducerGetFolderTest
+DropboxProducerGetFolderTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dropbox/target/site/clover/org/apache/camel/component/dropbox/integration/producer/DropboxProducerGetSingleTest
+DropboxProducerGetSingleTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dropbox/target/site/clover/org/apache/camel/component/dropbox/integration/producer/DropboxProducerMoveTest
+DropboxProducerMoveTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dropbox/target/site/clover/org/apache/camel/component/dropbox/integration/producer/DropboxProducerPutSingleFileTest
+DropboxProducerPutSingleFileTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dropbox/target/site/clover/org/apache/camel/component/dropbox/integration/producer/DropboxProducerPutSingleFileWithRemotePathTest
+DropboxProducerPutSingleFileWithRemotePathTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dropbox/target/site/clover/org/apache/camel/component/dropbox/integration/producer/DropboxProducerPutWithRemotePathTest
+DropboxProducerPutWithRemotePathTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dropbox/target/site/clover/org/apache/camel/component/dropbox/integration/producer/DropboxProducerSearchQueryTest
+DropboxProducerSearchQueryTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dropbox/target/site/clover/org/apache/camel/component/dropbox/integration/producer/DropboxProducerSearchTest
+DropboxProducerSearchTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dropbox/target/site/clover/org/apache/camel/component/dropbox/integration/producer/test-DropboxProducerDelTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dropbox/target/site/clover/org/apache/camel/component/dropbox/integration/producer/test-DropboxProducerGetFolderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dropbox/target/site/clover/org/apache/camel/component/dropbox/integration/producer/test-DropboxProducerGetSingleTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dropbox/target/site/clover/org/apache/camel/component/dropbox/integration/producer/test-DropboxProducerMoveTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dropbox/target/site/clover/org/apache/camel/component/dropbox/integration/producer/test-DropboxProducerPutSingleFileTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dropbox/target/site/clover/org/apache/camel/component/dropbox/integration/producer/test-DropboxProducerPutSingleFileWithRemotePathTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dropbox/target/site/clover/org/apache/camel/component/dropbox/integration/producer/test-DropboxProducerPutWithRemotePathTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dropbox/target/site/clover/org/apache/camel/component/dropbox/integration/producer/test-DropboxProducerSearchQueryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dropbox/target/site/clover/org/apache/camel/component/dropbox/integration/producer/test-DropboxProducerSearchTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dropbox/target/site/clover/org/apache/camel/component/dropbox/integration/test-DropboxTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-dropbox/target/site/clover/org/apache/camel/component/dropbox/test-DropboxConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

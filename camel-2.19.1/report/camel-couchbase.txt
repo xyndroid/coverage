@@ -1,0 +1,149 @@
+./components/camel-couchbase/target/site/clover/org/apache/camel
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/ConsumeBeerMessagesWithLimitIntegrationTest
+ConsumeBeerMessagesWithLimitIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseComponentTest
+CouchbaseComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseComponentTest_testCouchbaseAdditionalHostsWithSpaces_9
+org.apache.camel.component.couchbase.CouchbaseComponent		0.85714287
+org.apache.camel.component.couchbase.CouchbaseEndpoint		0.17370892
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseComponentTest_testCouchbaseAdditionalHosts_l
+org.apache.camel.component.couchbase.CouchbaseComponent		0.85714287
+org.apache.camel.component.couchbase.CouchbaseEndpoint		0.17370892
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseComponentTest_testCouchbaseDuplicateAdditionalHosts_4
+org.apache.camel.component.couchbase.CouchbaseComponent		0.85714287
+org.apache.camel.component.couchbase.CouchbaseEndpoint		0.17370892
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseComponentTest_testCouchbaseNullAdditionalHosts_c
+org.apache.camel.component.couchbase.CouchbaseComponent		0.85714287
+org.apache.camel.component.couchbase.CouchbaseEndpoint		0.09389672
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseComponentTest_testCouchbasePersistToAndReplicateToParameters_e
+org.apache.camel.component.couchbase.CouchbaseComponent		0.85714287
+org.apache.camel.component.couchbase.CouchbaseEndpoint		0.103286386
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseComponentTest_testCouchbaseURI_m
+org.apache.camel.component.couchbase.CouchbaseComponent		0.85714287
+org.apache.camel.component.couchbase.CouchbaseEndpoint		0.08450704
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseComponentTest_testEndpointCreated_3
+org.apache.camel.component.couchbase.CouchbaseComponent		0.85714287
+org.apache.camel.component.couchbase.CouchbaseEndpoint		0.065727696
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseComponentTest_testPropertiesSet_f
+org.apache.camel.component.couchbase.CouchbaseComponent		0.85714287
+org.apache.camel.component.couchbase.CouchbaseEndpoint		0.1971831
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseConsumerTest
+CouchbaseConsumerTest		0.6666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseConsumerTest_testNewCouchbaseConsumer_t
+org.apache.camel.component.couchbase.CouchbaseEndpoint		0.0046948357
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseEndpointTest
+CouchbaseEndpointTest		0.9861111
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseEndpointTest_assertSingleton_s
+org.apache.camel.component.couchbase.CouchbaseComponent		0.14285715
+org.apache.camel.component.couchbase.CouchbaseEndpoint		0.07511737
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseEndpointTest_testBucketRequired_5
+org.apache.camel.component.couchbase.CouchbaseComponent		0.14285715
+org.apache.camel.component.couchbase.CouchbaseEndpoint		0.051643193
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseEndpointTest_testCouchbaseEndpointCreateConsumer_6
+org.apache.camel.component.couchbase.CouchbaseComponent		0.14285715
+org.apache.camel.component.couchbase.CouchbaseEndpoint		0.13145539
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseEndpointTest_testCouchbaseEndpointCreateProducer_i
+org.apache.camel.component.couchbase.CouchbaseComponent		0.14285715
+org.apache.camel.component.couchbase.CouchbaseEndpoint		0.13145539
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseEndpointTest_testCouchbaseEndpointUri_g
+org.apache.camel.component.couchbase.CouchbaseComponent		0.14285715
+org.apache.camel.component.couchbase.CouchbaseEndpoint		0.0093896715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseEndpointTest_testCouchbaseEndpointWithoutProtocol_j
+org.apache.camel.component.couchbase.CouchbaseComponent		0.14285715
+org.apache.camel.component.couchbase.CouchbaseEndpoint		0.051643193
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseEndpointTest_testCouchbaseEndpoint_o
+org.apache.camel.component.couchbase.CouchbaseEndpoint		0.0046948357
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseEndpointTest_testCouchbaseEndpontSettersAndGetters_d
+org.apache.camel.component.couchbase.CouchbaseEndpoint		0.4460094
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseEndpointTest_testDefaultPortIsSet_b
+org.apache.camel.component.couchbase.CouchbaseComponent		0.14285715
+org.apache.camel.component.couchbase.CouchbaseEndpoint		0.07511737
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseEndpointTest_testHostnameRequired_h
+org.apache.camel.component.couchbase.CouchbaseComponent		0.14285715
+org.apache.camel.component.couchbase.CouchbaseEndpoint		0.07042254
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseEndpointTest_testSchemeRequired_7
+org.apache.camel.component.couchbase.CouchbaseComponent		0.14285715
+org.apache.camel.component.couchbase.CouchbaseEndpoint		0.051643193
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseProducerTest
+CouchbaseProducerTest		0.98717946
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseProducerTest_testBodyMandatory_1
+org.apache.camel.component.couchbase.CouchbaseException		0.5
+org.apache.camel.component.couchbase.CouchbaseProducer		0.114583336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseProducerTest_testExpiryTimeIsSet_2
+org.apache.camel.component.couchbase.CouchbaseProducer		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseProducerTest_testMaximumValuesForPersistToAndRepicateTo_r
+org.apache.camel.component.couchbase.CouchbaseProducer		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseProducerTest_testPersistToHigherThanSupported_p
+org.apache.camel.component.couchbase.CouchbaseProducer		0.114583336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseProducerTest_testPersistToLowerThanSupported_k
+org.apache.camel.component.couchbase.CouchbaseProducer		0.114583336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseProducerTest_testReplicateToHigherThanSupported_8
+org.apache.camel.component.couchbase.CouchbaseProducer		0.15625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseProducerTest_testReplicateToLowerThanSupported_q
+org.apache.camel.component.couchbase.CouchbaseProducer		0.15625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseProducerTest_testTimeOutRetryThenSuccess_a
+org.apache.camel.component.couchbase.CouchbaseProducer		0.30208334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseProducerTest_testTimeOutRetryToException_n
+org.apache.camel.component.couchbase.CouchbaseProducer		0.29166666
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/CouchbaseProducerTest_testTimeOutRetryTwiceThenSuccess_0
+org.apache.camel.component.couchbase.CouchbaseProducer		0.30208334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/ProduceMessagesSimpleTest
+ProduceMessagesSimpleTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/ProduceMessagesWithAutoIDIntegrationTest
+ProduceMessagesWithAutoIDIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/RemoveMessagesIntegrationTest
+RemoveMessagesIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/test-ConsumeBeerMessagesWithLimitIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/test-CouchbaseComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/test-CouchbaseConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/test-CouchbaseEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/test-CouchbaseProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/test-ProduceMessagesSimpleTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/test-ProduceMessagesWithAutoIDIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-couchbase/target/site/clover/org/apache/camel/component/couchbase/test-RemoveMessagesIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,28 @@
+./components/camel-kura/target/site/clover/org/apache/camel
+./components/camel-kura/target/site/clover/org/apache/camel/component/kura/KuraRouterTest
+KuraRouterTest		1.0
+KuraRouterTest.TestKuraRouter		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kura/target/site/clover/org/apache/camel/component/kura/KuraRouterTest_shouldCloseCamelContext_2
+org.apache.camel.component.kura.KuraRouter		0.06779661
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kura/target/site/clover/org/apache/camel/component/kura/KuraRouterTest_shouldCreateConsumerTemplate_6
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kura/target/site/clover/org/apache/camel/component/kura/KuraRouterTest_shouldLoadXmlRoutes_5
+org.apache.camel.component.kura.KuraRouter		0.55932206
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kura/target/site/clover/org/apache/camel/component/kura/KuraRouterTest_shouldReturnNoService_4
+org.apache.camel.component.kura.KuraRouter		0.06779661
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kura/target/site/clover/org/apache/camel/component/kura/KuraRouterTest_shouldReturnService_0
+org.apache.camel.component.kura.KuraRouter		0.06779661
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kura/target/site/clover/org/apache/camel/component/kura/KuraRouterTest_shouldStartCamelContext_3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kura/target/site/clover/org/apache/camel/component/kura/KuraRouterTest_shouldValidateLackOfService_1
+org.apache.camel.component.kura.KuraRouter		0.084745765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kura/target/site/clover/org/apache/camel/component/kura/test-KuraRouterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kura/target/site/clover/org/apache/camel/component/kura/test-KuraRouterTest_TestKuraRouter
+-- -- -- -- -- -- -- -- -- -- -- -- --

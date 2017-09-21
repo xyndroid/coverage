@@ -1,0 +1,255 @@
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/MasterEndpointFailoverTest
+MasterEndpointFailoverTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/MasterEndpointFailoverTest_testEndpoint_0
+org.apache.camel.component.zookeepermaster.group.internal.SequenceComparator		1.0
+org.apache.camel.component.zookeepermaster.DefaultContainerIdFactory		1.0
+org.apache.camel.component.zookeepermaster.CamelNodeState		0.84615386
+org.apache.camel.component.zookeepermaster.MasterEndpoint		0.8333333
+org.apache.camel.component.zookeepermaster.ZookeeperGroupListenerSupport		0.78431374
+org.apache.camel.component.zookeepermaster.group.NodeState		0.7647059
+org.apache.camel.component.zookeepermaster.group.internal.EventOperation		0.71428573
+org.apache.camel.component.zookeepermaster.group.internal.ZooKeeperGroup		0.6329114
+org.apache.camel.component.zookeepermaster.MasterComponent		0.62068963
+org.apache.camel.component.zookeepermaster.MasterConsumer		0.61445785
+org.apache.camel.component.zookeepermaster.group.internal.CompositeOperation		0.5
+org.apache.camel.component.zookeepermaster.group.internal.GetDataOperation		0.45833334
+org.apache.camel.component.zookeepermaster.group.internal.RefreshOperation		0.45833334
+org.apache.camel.component.zookeepermaster.group.internal.StaticManagedGroupFactory		0.44444445
+org.apache.camel.component.zookeepermaster.ZookeeperGroupSupport		0.33333334
+org.apache.camel.component.zookeepermaster.ZookeeperComponentSupport		0.28
+org.apache.camel.component.zookeepermaster.group.internal.ManagedGroupFactoryBuilder		0.26666668
+org.apache.camel.component.zookeepermaster.group.internal.UpdateOperation		0.2631579
+org.apache.camel.component.zookeepermaster.group.internal.ChildData		0.17460318
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/MasterEndpointFailoverTest_testEndpoint_i
+org.apache.camel.component.zookeepermaster.group.internal.SequenceComparator		1.0
+org.apache.camel.component.zookeepermaster.DefaultContainerIdFactory		1.0
+org.apache.camel.component.zookeepermaster.CamelNodeState		0.84615386
+org.apache.camel.component.zookeepermaster.MasterEndpoint		0.8333333
+org.apache.camel.component.zookeepermaster.ZookeeperGroupListenerSupport		0.78431374
+org.apache.camel.component.zookeepermaster.group.NodeState		0.7647059
+org.apache.camel.component.zookeepermaster.group.internal.EventOperation		0.71428573
+org.apache.camel.component.zookeepermaster.group.internal.ZooKeeperGroup		0.6329114
+org.apache.camel.component.zookeepermaster.MasterComponent		0.62068963
+org.apache.camel.component.zookeepermaster.MasterConsumer		0.61445785
+org.apache.camel.component.zookeepermaster.group.internal.CompositeOperation		0.5
+org.apache.camel.component.zookeepermaster.group.internal.GetDataOperation		0.45833334
+org.apache.camel.component.zookeepermaster.group.internal.RefreshOperation		0.45833334
+org.apache.camel.component.zookeepermaster.group.internal.StaticManagedGroupFactory		0.44444445
+org.apache.camel.component.zookeepermaster.ZookeeperGroupSupport		0.33333334
+org.apache.camel.component.zookeepermaster.ZookeeperComponentSupport		0.28
+org.apache.camel.component.zookeepermaster.group.internal.ManagedGroupFactoryBuilder		0.26666668
+org.apache.camel.component.zookeepermaster.group.internal.UpdateOperation		0.2631579
+org.apache.camel.component.zookeepermaster.group.internal.ChildData		0.17460318
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/MasterEndpointFailoverTest_testEndpoint_j
+org.apache.camel.component.zookeepermaster.group.internal.SequenceComparator		1.0
+org.apache.camel.component.zookeepermaster.DefaultContainerIdFactory		1.0
+org.apache.camel.component.zookeepermaster.CamelNodeState		0.84615386
+org.apache.camel.component.zookeepermaster.MasterEndpoint		0.8333333
+org.apache.camel.component.zookeepermaster.ZookeeperGroupListenerSupport		0.78431374
+org.apache.camel.component.zookeepermaster.group.NodeState		0.7647059
+org.apache.camel.component.zookeepermaster.group.internal.EventOperation		0.71428573
+org.apache.camel.component.zookeepermaster.group.internal.ZooKeeperGroup		0.6329114
+org.apache.camel.component.zookeepermaster.MasterComponent		0.62068963
+org.apache.camel.component.zookeepermaster.MasterConsumer		0.61445785
+org.apache.camel.component.zookeepermaster.group.internal.CompositeOperation		0.5
+org.apache.camel.component.zookeepermaster.group.internal.RefreshOperation		0.45833334
+org.apache.camel.component.zookeepermaster.group.internal.StaticManagedGroupFactory		0.44444445
+org.apache.camel.component.zookeepermaster.ZookeeperGroupSupport		0.33333334
+org.apache.camel.component.zookeepermaster.ZookeeperComponentSupport		0.28
+org.apache.camel.component.zookeepermaster.group.internal.ManagedGroupFactoryBuilder		0.26666668
+org.apache.camel.component.zookeepermaster.group.internal.UpdateOperation		0.2631579
+org.apache.camel.component.zookeepermaster.group.internal.GetDataOperation		0.20833333
+org.apache.camel.component.zookeepermaster.group.internal.ChildData		0.17460318
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/MasterEndpointTest
+MasterEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/MasterEndpointTest_testEndpoint_5
+org.apache.camel.component.zookeepermaster.MasterEndpoint		0.083333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/MasterEndpointTest_testRawPropertiesOnChild_9
+org.apache.camel.component.zookeepermaster.DefaultContainerIdFactory		1.0
+org.apache.camel.component.zookeepermaster.CamelNodeState		0.84615386
+org.apache.camel.component.zookeepermaster.group.NodeState		0.7647059
+org.apache.camel.component.zookeepermaster.MasterEndpoint		0.75
+org.apache.camel.component.zookeepermaster.group.internal.EventOperation		0.71428573
+org.apache.camel.component.zookeepermaster.group.internal.CompositeOperation		0.5
+org.apache.camel.component.zookeepermaster.MasterComponent		0.44827586
+org.apache.camel.component.zookeepermaster.group.internal.ZooKeeperGroup		0.4335443
+org.apache.camel.component.zookeepermaster.ZookeeperGroupListenerSupport		0.33333334
+org.apache.camel.component.zookeepermaster.group.internal.UpdateOperation		0.2631579
+org.apache.camel.component.zookeepermaster.MasterConsumer		0.25301206
+org.apache.camel.component.zookeepermaster.group.internal.GetDataOperation		0.20833333
+org.apache.camel.component.zookeepermaster.group.internal.RefreshOperation		0.20833333
+org.apache.camel.component.zookeepermaster.group.internal.ChildData		0.17460318
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/MasterQuartz2EndpointTest
+MasterQuartz2EndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/MasterQuartz2EndpointTest_testEndpoint_h
+org.apache.camel.component.zookeepermaster.DefaultContainerIdFactory		1.0
+org.apache.camel.component.zookeepermaster.CamelNodeState		0.84615386
+org.apache.camel.component.zookeepermaster.group.NodeState		0.7647059
+org.apache.camel.component.zookeepermaster.group.internal.EventOperation		0.71428573
+org.apache.camel.component.zookeepermaster.group.internal.CompositeOperation		0.5
+org.apache.camel.component.zookeepermaster.MasterEndpoint		0.33333334
+org.apache.camel.component.zookeepermaster.group.internal.ZooKeeperGroup		0.3227848
+org.apache.camel.component.zookeepermaster.ZookeeperGroupListenerSupport		0.29411766
+org.apache.camel.component.zookeepermaster.group.internal.UpdateOperation		0.2631579
+org.apache.camel.component.zookeepermaster.MasterConsumer		0.25301206
+org.apache.camel.component.zookeepermaster.group.internal.GetDataOperation		0.20833333
+org.apache.camel.component.zookeepermaster.group.internal.RefreshOperation		0.20833333
+org.apache.camel.component.zookeepermaster.group.internal.ChildData		0.17460318
+org.apache.camel.component.zookeepermaster.MasterComponent		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/group/GroupTest
+GroupTest		0.97461927
+GroupTest.GroupCondition		0.95
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/group/GroupTest_testAddFieldIgnoredOnParse_3
+testAddFieldIgnoredOnParse
+org.apache.camel.component.zookeepermaster.group.NodeState		0.9411765
+org.apache.camel.component.zookeepermaster.group.internal.EventOperation		0.71428573
+org.apache.camel.component.zookeepermaster.group.internal.ZooKeeperGroup		0.64873415
+org.apache.camel.component.zookeepermaster.group.internal.CompositeOperation		0.5
+org.apache.camel.component.zookeepermaster.group.internal.RefreshOperation		0.45833334
+org.apache.camel.component.zookeepermaster.group.internal.UpdateOperation		0.2631579
+org.apache.camel.component.zookeepermaster.group.internal.GetDataOperation		0.20833333
+org.apache.camel.component.zookeepermaster.group.internal.ChildData		0.20634921
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/group/GroupTest_testGroupClose_l
+testGroupClose
+org.apache.camel.component.zookeepermaster.group.internal.EventOperation		0.42857143
+org.apache.camel.component.zookeepermaster.group.NodeState		0.29411766
+org.apache.camel.component.zookeepermaster.group.internal.ZooKeeperGroup		0.2879747
+org.apache.camel.component.zookeepermaster.group.internal.UpdateOperation		0.15789473
+org.apache.camel.component.zookeepermaster.group.internal.CompositeOperation		0.125
+org.apache.camel.component.zookeepermaster.group.internal.RefreshOperation		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/group/GroupTest_testJoinAfterConnect_4
+testJoinAfterConnect
+org.apache.camel.component.zookeepermaster.group.NodeState		0.9411765
+org.apache.camel.component.zookeepermaster.group.internal.EventOperation		0.71428573
+org.apache.camel.component.zookeepermaster.group.internal.ZooKeeperGroup		0.6107595
+org.apache.camel.component.zookeepermaster.group.internal.CompositeOperation		0.5
+org.apache.camel.component.zookeepermaster.group.internal.RefreshOperation		0.45833334
+org.apache.camel.component.zookeepermaster.group.internal.UpdateOperation		0.2631579
+org.apache.camel.component.zookeepermaster.group.internal.ChildData		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/group/GroupTest_testJoinBeforeConnect_e
+testJoinBeforeConnect
+org.apache.camel.component.zookeepermaster.group.NodeState		0.9411765
+org.apache.camel.component.zookeepermaster.group.internal.CompositeOperation		0.75
+org.apache.camel.component.zookeepermaster.group.internal.EventOperation		0.71428573
+org.apache.camel.component.zookeepermaster.group.internal.RefreshOperation		0.6666667
+org.apache.camel.component.zookeepermaster.group.internal.ZooKeeperGroup		0.6170886
+org.apache.camel.component.zookeepermaster.group.internal.GetDataOperation		0.375
+org.apache.camel.component.zookeepermaster.group.internal.UpdateOperation		0.2631579
+org.apache.camel.component.zookeepermaster.group.internal.ChildData		0.17460318
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/group/GroupTest_testOrder_f
+testOrder
+org.apache.camel.component.zookeepermaster.group.internal.SequenceComparator		1.0
+org.apache.camel.component.zookeepermaster.group.NodeState		0.9411765
+org.apache.camel.component.zookeepermaster.group.internal.EventOperation		0.71428573
+org.apache.camel.component.zookeepermaster.group.internal.ZooKeeperGroup		0.62974685
+org.apache.camel.component.zookeepermaster.group.internal.CompositeOperation		0.5
+org.apache.camel.component.zookeepermaster.group.internal.RefreshOperation		0.45833334
+org.apache.camel.component.zookeepermaster.group.internal.UpdateOperation		0.2631579
+org.apache.camel.component.zookeepermaster.group.internal.ChildData		0.17460318
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/group/GroupTest_testRejoinAfterDisconnect_b
+testRejoinAfterDisconnect
+org.apache.camel.component.zookeepermaster.group.NodeState		0.9411765
+org.apache.camel.component.zookeepermaster.group.internal.EventOperation		0.71428573
+org.apache.camel.component.zookeepermaster.group.internal.ZooKeeperGroup		0.6329114
+org.apache.camel.component.zookeepermaster.group.internal.CompositeOperation		0.5
+org.apache.camel.component.zookeepermaster.group.internal.RefreshOperation		0.45833334
+org.apache.camel.component.zookeepermaster.group.internal.UpdateOperation		0.2631579
+org.apache.camel.component.zookeepermaster.group.internal.ChildData		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/group/internal/ZooKeeperGroupTest
+ZooKeeperGroupTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/group/internal/ZooKeeperGroupTest_testIsMasterWithStaleNodes1_k
+org.apache.camel.component.zookeepermaster.group.internal.SequenceComparator		1.0
+org.apache.camel.component.zookeepermaster.group.NodeState		0.4117647
+org.apache.camel.component.zookeepermaster.group.internal.ChildData		0.14285715
+org.apache.camel.component.zookeepermaster.group.internal.ZooKeeperGroup		0.05379747
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/group/internal/ZooKeeperGroupTest_testIsMasterWithStaleNodes2_2
+org.apache.camel.component.zookeepermaster.group.internal.SequenceComparator		1.0
+org.apache.camel.component.zookeepermaster.group.NodeState		0.4117647
+org.apache.camel.component.zookeepermaster.group.internal.ChildData		0.14285715
+org.apache.camel.component.zookeepermaster.group.internal.ZooKeeperGroup		0.05379747
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/group/internal/ZooKeeperGroupTest_testIsMaster_m
+org.apache.camel.component.zookeepermaster.group.internal.SequenceComparator		1.0
+org.apache.camel.component.zookeepermaster.group.NodeState		0.4117647
+org.apache.camel.component.zookeepermaster.group.internal.ChildData		0.14285715
+org.apache.camel.component.zookeepermaster.group.internal.ZooKeeperGroup		0.050632913
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/group/internal/ZooKeeperGroupTest_testMasterWithStaleNodes1_6
+org.apache.camel.component.zookeepermaster.group.internal.SequenceComparator		1.0
+org.apache.camel.component.zookeepermaster.group.NodeState		0.4117647
+org.apache.camel.component.zookeepermaster.group.internal.ChildData		0.14285715
+org.apache.camel.component.zookeepermaster.group.internal.ZooKeeperGroup		0.05379747
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/group/internal/ZooKeeperGroupTest_testMasterWithStaleNodes2_8
+org.apache.camel.component.zookeepermaster.group.internal.SequenceComparator		1.0
+org.apache.camel.component.zookeepermaster.group.NodeState		0.4117647
+org.apache.camel.component.zookeepermaster.group.internal.ChildData		0.14285715
+org.apache.camel.component.zookeepermaster.group.internal.ZooKeeperGroup		0.05379747
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/group/internal/ZooKeeperGroupTest_testMaster_d
+org.apache.camel.component.zookeepermaster.group.internal.SequenceComparator		1.0
+org.apache.camel.component.zookeepermaster.group.NodeState		0.4117647
+org.apache.camel.component.zookeepermaster.group.internal.ChildData		0.14285715
+org.apache.camel.component.zookeepermaster.group.internal.ZooKeeperGroup		0.050632913
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/group/internal/ZooKeeperGroupTest_testMembersWithStaleNodes_g
+org.apache.camel.component.zookeepermaster.group.internal.SequenceComparator		1.0
+org.apache.camel.component.zookeepermaster.group.NodeState		0.4117647
+org.apache.camel.component.zookeepermaster.group.internal.ChildData		0.14285715
+org.apache.camel.component.zookeepermaster.group.internal.ZooKeeperGroup		0.056962024
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/group/internal/ZooKeeperGroupTest_testMembers_1
+org.apache.camel.component.zookeepermaster.group.internal.SequenceComparator		1.0
+org.apache.camel.component.zookeepermaster.group.NodeState		0.4117647
+org.apache.camel.component.zookeepermaster.group.internal.ChildData		0.14285715
+org.apache.camel.component.zookeepermaster.group.internal.ZooKeeperGroup		0.05379747
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/group/internal/ZooKeeperGroupTest_testSlavesWithStaleNodes1_7
+org.apache.camel.component.zookeepermaster.group.internal.SequenceComparator		1.0
+org.apache.camel.component.zookeepermaster.group.NodeState		0.4117647
+org.apache.camel.component.zookeepermaster.group.internal.ChildData		0.14285715
+org.apache.camel.component.zookeepermaster.group.internal.ZooKeeperGroup		0.06329114
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/group/internal/ZooKeeperGroupTest_testSlavesWithStaleNodes2_a
+org.apache.camel.component.zookeepermaster.group.internal.SequenceComparator		1.0
+org.apache.camel.component.zookeepermaster.group.NodeState		0.4117647
+org.apache.camel.component.zookeepermaster.group.internal.ChildData		0.14285715
+org.apache.camel.component.zookeepermaster.group.internal.ZooKeeperGroup		0.06329114
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/group/internal/ZooKeeperGroupTest_testSlaves_c
+org.apache.camel.component.zookeepermaster.group.internal.SequenceComparator		1.0
+org.apache.camel.component.zookeepermaster.group.NodeState		0.4117647
+org.apache.camel.component.zookeepermaster.group.internal.ChildData		0.14285715
+org.apache.camel.component.zookeepermaster.group.internal.ZooKeeperGroup		0.060126584
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/group/internal/test-ZooKeeperGroupTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/group/test-GroupTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/group/test-GroupTest_GroupCondition
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/test-MasterEndpointFailoverTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/test-MasterEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zookeeper-master/target/site/clover/org/apache/camel/component/zookeepermaster/test-MasterQuartz2EndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

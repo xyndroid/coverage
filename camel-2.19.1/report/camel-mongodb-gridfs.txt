@@ -1,0 +1,40 @@
+./components/camel-mongodb-gridfs/target/site/clover/org/apache/camel
+./components/camel-mongodb-gridfs/target/site/clover/org/apache/camel/component/mongodb/gridfs/AbstractMongoDbTest
+AbstractMongoDbTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb-gridfs/target/site/clover/org/apache/camel/component/mongodb/gridfs/GridFsConsumerTest
+GridFsConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb-gridfs/target/site/clover/org/apache/camel/component/mongodb/gridfs/GridFsConsumerTest_testAttribute_3
+testAttribute
+org.apache.camel.component.mongodb.gridfs.GridFsConsumer		0.647541
+org.apache.camel.component.mongodb.gridfs.GridFsProducer		0.29166666
+org.apache.camel.component.mongodb.gridfs.GridFsEndpoint		0.16923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb-gridfs/target/site/clover/org/apache/camel/component/mongodb/gridfs/GridFsConsumerTest_testPersistentTS_0
+testPersistentTS
+org.apache.camel.component.mongodb.gridfs.GridFsConsumer		0.52459013
+org.apache.camel.component.mongodb.gridfs.GridFsProducer		0.29166666
+org.apache.camel.component.mongodb.gridfs.GridFsEndpoint		0.12307692
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb-gridfs/target/site/clover/org/apache/camel/component/mongodb/gridfs/GridFsConsumerTest_testTimestamp_1
+testTimestamp
+org.apache.camel.component.mongodb.gridfs.GridFsConsumer		0.6393443
+org.apache.camel.component.mongodb.gridfs.GridFsProducer		0.29166666
+org.apache.camel.component.mongodb.gridfs.GridFsEndpoint		0.16923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb-gridfs/target/site/clover/org/apache/camel/component/mongodb/gridfs/GridFsProducerOperationsTest
+GridFsProducerOperationsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb-gridfs/target/site/clover/org/apache/camel/component/mongodb/gridfs/GridFsProducerOperationsTest_testOperations_2
+testOperations
+org.apache.camel.component.mongodb.gridfs.GridFsProducer.DBCursorFilenameReader		0.9705882
+org.apache.camel.component.mongodb.gridfs.GridFsProducer		0.8055556
+org.apache.camel.component.mongodb.gridfs.GridFsEndpoint		0.03076923
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb-gridfs/target/site/clover/org/apache/camel/component/mongodb/gridfs/test-AbstractMongoDbTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb-gridfs/target/site/clover/org/apache/camel/component/mongodb/gridfs/test-GridFsConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb-gridfs/target/site/clover/org/apache/camel/component/mongodb/gridfs/test-GridFsProducerOperationsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

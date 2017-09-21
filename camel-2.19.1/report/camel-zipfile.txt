@@ -1,0 +1,142 @@
+./components/camel-zipfile/target/site/clover/org/apache/camel
+./components/camel-zipfile/target/site/clover/org/apache/camel/dataformat/zipfile/SpringZipSplitterRouteTest
+SpringZipSplitterRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/dataformat/zipfile/SpringZipSplitterRouteTest_testSplitter_8
+org.apache.camel.dataformat.zipfile.ZipSplitter		0.85714287
+org.apache.camel.dataformat.zipfile.ZipInputStreamWrapper		0.8
+org.apache.camel.dataformat.zipfile.ZipIterator		0.6436782
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/dataformat/zipfile/ZipFileDataFormatTest
+ZipFileDataFormatTest		0.9724138
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/dataformat/zipfile/ZipFileDataFormatTest_testDslUnzip_g
+org.apache.camel.dataformat.zipfile.ZipFileDataFormat		0.32
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/dataformat/zipfile/ZipFileDataFormatTest_testDslZip_d
+org.apache.camel.dataformat.zipfile.ZipFileDataFormat		0.26
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/dataformat/zipfile/ZipFileDataFormatTest_testUnzipWithEmptyDirectorySupported_i
+org.apache.camel.dataformat.zipfile.ZipIterator		0.74712646
+org.apache.camel.dataformat.zipfile.ZipFileDataFormat		0.2
+org.apache.camel.dataformat.zipfile.ZipInputStreamWrapper		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/dataformat/zipfile/ZipFileDataFormatTest_testUnzipWithEmptyDirectoryUnsupported_k
+org.apache.camel.dataformat.zipfile.ZipIterator		0.7356322
+org.apache.camel.dataformat.zipfile.ZipFileDataFormat		0.2
+org.apache.camel.dataformat.zipfile.ZipInputStreamWrapper		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/dataformat/zipfile/ZipFileDataFormatTest_testUnzip_f
+org.apache.camel.dataformat.zipfile.ZipFileDataFormat		0.32
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/dataformat/zipfile/ZipFileDataFormatTest_testZipAndStreamCaching_9
+org.apache.camel.dataformat.zipfile.ZipFileDataFormat		0.26
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/dataformat/zipfile/ZipFileDataFormatTest_testZipAndUnzip_b
+org.apache.camel.dataformat.zipfile.ZipFileDataFormat		0.58
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/dataformat/zipfile/ZipFileDataFormatTest_testZipToFileWithFileName_1
+org.apache.camel.dataformat.zipfile.ZipFileDataFormat		0.26
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/dataformat/zipfile/ZipFileDataFormatTest_testZipToFileWithoutFileName_a
+org.apache.camel.dataformat.zipfile.ZipFileDataFormat		0.26
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/dataformat/zipfile/ZipFileDataFormatTest_testZipWithFileName_c
+org.apache.camel.dataformat.zipfile.ZipFileDataFormat		0.26
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/dataformat/zipfile/ZipFileDataFormatTest_testZipWithoutFileName_l
+org.apache.camel.dataformat.zipfile.ZipFileDataFormat		0.26
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/dataformat/zipfile/ZipFileMultipleFilesSplitterTest
+ZipFileMultipleFilesSplitterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/dataformat/zipfile/ZipFileMultipleFilesSplitterTest_testSplitter_6
+org.apache.camel.dataformat.zipfile.ZipInputStreamWrapper		0.8
+org.apache.camel.dataformat.zipfile.ZipIterator		0.7816092
+org.apache.camel.dataformat.zipfile.ZipFileDataFormat		0.12
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/dataformat/zipfile/ZipFileSplitOneFileTest
+ZipFileSplitOneFileTest		0.9411765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/dataformat/zipfile/ZipFileSplitOneFileTest_testZipFileUnmarshal_h
+org.apache.camel.dataformat.zipfile.ZipInputStreamWrapper		0.8
+org.apache.camel.dataformat.zipfile.ZipIterator		0.5632184
+org.apache.camel.dataformat.zipfile.ZipFileDataFormat		0.12
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/dataformat/zipfile/ZipSplitterRouteIssueTest
+ZipSplitterRouteIssueTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/dataformat/zipfile/ZipSplitterRouteIssueTest_testSplitterWithWrongFile_4
+org.apache.camel.dataformat.zipfile.ZipSplitter		0.71428573
+org.apache.camel.dataformat.zipfile.ZipIterator		0.04597701
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/dataformat/zipfile/ZipSplitterRouteIssueTest_testSplitter_j
+org.apache.camel.dataformat.zipfile.ZipSplitter		0.85714287
+org.apache.camel.dataformat.zipfile.ZipIterator		0.6781609
+org.apache.camel.dataformat.zipfile.ZipInputStreamWrapper		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/dataformat/zipfile/ZipSplitterRouteTest
+ZipSplitterRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/dataformat/zipfile/ZipSplitterRouteTest_testSplitter_5
+org.apache.camel.dataformat.zipfile.ZipSplitter		0.85714287
+org.apache.camel.dataformat.zipfile.ZipInputStreamWrapper		0.8
+org.apache.camel.dataformat.zipfile.ZipIterator		0.7586207
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/dataformat/zipfile/test-SpringZipSplitterRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/dataformat/zipfile/test-ZipFileDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/dataformat/zipfile/test-ZipFileMultipleFilesSplitterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/dataformat/zipfile/test-ZipFileSplitOneFileTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/dataformat/zipfile/test-ZipSplitterRouteIssueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/dataformat/zipfile/test-ZipSplitterRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/processor/aggregate/zipfile/AggregationStrategyWithFilenameHeaderTest
+AggregationStrategyWithFilenameHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/processor/aggregate/zipfile/AggregationStrategyWithFilenameHeaderTest_testSplitter_3
+testSplitter
+org.apache.camel.processor.aggregate.zipfile.ZipAggregationStrategy.DeleteZipFileOnCompletion		0.8
+org.apache.camel.processor.aggregate.zipfile.ZipAggregationStrategy		0.41129032
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/processor/aggregate/zipfile/AggregationStrategyWithPreservationTest
+AggregationStrategyWithPreservationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/processor/aggregate/zipfile/AggregationStrategyWithPreservationTest_testSplitter_0
+testSplitter
+org.apache.camel.processor.aggregate.zipfile.ZipAggregationStrategy.DeleteZipFileOnCompletion		0.8
+org.apache.camel.processor.aggregate.zipfile.ZipAggregationStrategy		0.48387095
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/processor/aggregate/zipfile/ZipAggregationStrategyEmptyFileTest
+ZipAggregationStrategyEmptyFileTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/processor/aggregate/zipfile/ZipAggregationStrategyEmptyFileTest_testEmptyFile_2
+testEmptyFile
+org.apache.camel.processor.aggregate.zipfile.ZipAggregationStrategy.DeleteZipFileOnCompletion		0.4
+org.apache.camel.processor.aggregate.zipfile.ZipAggregationStrategy		0.29032257
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/processor/aggregate/zipfile/ZipAggregationStrategyEmptyFileTest_testEmptyFile_7
+testEmptyFile
+org.apache.camel.processor.aggregate.zipfile.ZipAggregationStrategy.DeleteZipFileOnCompletion		0.8
+org.apache.camel.processor.aggregate.zipfile.ZipAggregationStrategy		0.4919355
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/processor/aggregate/zipfile/ZipAggregationStrategyTest
+ZipAggregationStrategyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/processor/aggregate/zipfile/ZipAggregationStrategyTest_testSplitter_e
+testSplitter
+org.apache.camel.processor.aggregate.zipfile.ZipAggregationStrategy.DeleteZipFileOnCompletion		0.8
+org.apache.camel.processor.aggregate.zipfile.ZipAggregationStrategy		0.48387095
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/processor/aggregate/zipfile/test-AggregationStrategyWithFilenameHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/processor/aggregate/zipfile/test-AggregationStrategyWithPreservationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/processor/aggregate/zipfile/test-ZipAggregationStrategyEmptyFileTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipfile/target/site/clover/org/apache/camel/processor/aggregate/zipfile/test-ZipAggregationStrategyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

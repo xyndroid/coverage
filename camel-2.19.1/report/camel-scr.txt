@@ -1,0 +1,42 @@
+./components/camel-scr/target/site/clover/org/apache/camel
+./components/camel-scr/target/site/clover/org/apache/camel/scr/AbstractCamelRunnerTest
+AbstractCamelRunnerTest		0.85714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-scr/target/site/clover/org/apache/camel/scr/AbstractCamelRunnerTest_testActivateDeactivate_5
+org.apache.camel.scr.AbstractCamelRunner		0.72043014
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-scr/target/site/clover/org/apache/camel/scr/AbstractCamelRunnerTest_testConfigure_1
+org.apache.camel.scr.AbstractCamelRunner		0.5752688
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-scr/target/site/clover/org/apache/camel/scr/AbstractCamelRunnerTest_testConversions_2
+org.apache.camel.scr.AbstractCamelRunner		0.13978495
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-scr/target/site/clover/org/apache/camel/scr/AbstractCamelRunnerTest_testDelayedStartCancel_4
+org.apache.camel.scr.AbstractCamelRunner		0.65591395
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-scr/target/site/clover/org/apache/camel/scr/AbstractCamelRunnerTest_testDelayedStart_6
+org.apache.camel.scr.AbstractCamelRunner		0.73655915
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-scr/target/site/clover/org/apache/camel/scr/AbstractCamelRunnerTest_testPrepareRunStop_3
+org.apache.camel.scr.AbstractCamelRunner		0.5913978
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-scr/target/site/clover/org/apache/camel/scr/ScrHelperTest
+ScrHelperTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-scr/target/site/clover/org/apache/camel/scr/ScrHelperTest_scrHelperTest_0
+org.apache.camel.scr.ScrHelper		0.84615386
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-scr/target/site/clover/org/apache/camel/scr/TestRouteBuilder
+TestRouteBuilder		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-scr/target/site/clover/org/apache/camel/scr/TestRouteBuilder2
+TestRouteBuilder2		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-scr/target/site/clover/org/apache/camel/scr/test-AbstractCamelRunnerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-scr/target/site/clover/org/apache/camel/scr/test-ScrHelperTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-scr/target/site/clover/org/apache/camel/scr/test-TestRouteBuilder
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-scr/target/site/clover/org/apache/camel/scr/test-TestRouteBuilder2
+-- -- -- -- -- -- -- -- -- -- -- -- --

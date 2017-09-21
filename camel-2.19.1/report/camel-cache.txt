@@ -1,0 +1,490 @@
+./components/camel-cache/target/site/clover/org/apache/camel
+./components/camel-cache/target/site/clover/org/apache/camel/component/BaseCacheTest
+BaseCacheTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheConfigurationFileTest
+CacheConfigurationFileTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheConfigurationFileTest_testConfigurationFile_g
+org.apache.camel.component.cache.CacheProducer		0.37037036
+org.apache.camel.component.cache.CacheEventListener		0.2820513
+org.apache.camel.component.cache.CacheManagerFactory		0.15384616
+org.apache.camel.component.cache.CacheConsumer		0.13333334
+org.apache.camel.component.cache.CacheEndpoint		0.104477614
+org.apache.camel.component.cache.CacheComponent		0.048780486
+org.apache.camel.component.cache.CacheConfiguration		0.03448276
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheConfigurationTest
+CacheConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheConfigurationTest_doURICheck_k
+org.apache.camel.component.cache.CacheComponent		0.2682927
+org.apache.camel.component.cache.CacheConfiguration		0.22413793
+org.apache.camel.component.cache.CacheEndpoint		0.08955224
+org.apache.camel.component.cache.CacheEventListenerRegistry		0.07692308
+org.apache.camel.component.cache.CacheLoaderRegistry		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheConsumerFIFOTest
+CacheConsumerFIFOTest		0.6315789
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheConsumerFIFOTest_testReceivingFileFromCache_d
+org.apache.camel.component.cache.CacheProducer		0.49074075
+org.apache.camel.component.cache.CacheEventListener		0.43589744
+org.apache.camel.component.cache.CacheConsumer		0.13333334
+org.apache.camel.component.cache.CacheEndpoint		0.104477614
+org.apache.camel.component.cache.CacheConfiguration		0.03448276
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheConsumerFIFOTest_testReceivingSerializedObjectFromCache_v
+org.apache.camel.component.cache.CacheProducer		0.49074075
+org.apache.camel.component.cache.CacheEventListener		0.43589744
+org.apache.camel.component.cache.CacheConsumer		0.13333334
+org.apache.camel.component.cache.CacheEndpoint		0.104477614
+org.apache.camel.component.cache.CacheConfiguration		0.03448276
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheConsumerTest
+CacheConsumerTest		0.875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheConsumerTest_testReceivingFileFromCache_13
+org.apache.camel.component.cache.CacheProducer		0.49074075
+org.apache.camel.component.cache.CacheEventListener		0.43589744
+org.apache.camel.component.cache.CacheConsumer		0.13333334
+org.apache.camel.component.cache.CacheEndpoint		0.104477614
+org.apache.camel.component.cache.CacheConfiguration		0.03448276
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheConsumerTest_testReceivingSerializedObjectFromCache_y
+org.apache.camel.component.cache.CacheProducer		0.49074075
+org.apache.camel.component.cache.CacheEventListener		0.43589744
+org.apache.camel.component.cache.CacheConsumer		0.13333334
+org.apache.camel.component.cache.CacheEndpoint		0.104477614
+org.apache.camel.component.cache.CacheConfiguration		0.03448276
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheManagerFactoryRefTest
+CacheManagerFactoryRefTest		1.0
+CacheManagerFactoryRefTest.TestingCacheManagerFactory		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheManagerFactoryRefTest_testConfig_9
+org.apache.camel.component.cache.CacheProducer		0.37037036
+org.apache.camel.component.cache.CacheConfiguration		0.03448276
+org.apache.camel.component.cache.CacheEndpoint		0.029850746
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheProducerTest
+CacheProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheProducerTest_testAddingDataElementEternal_1
+org.apache.camel.component.cache.CacheConfiguration		0.51724136
+org.apache.camel.component.cache.CacheManagerFactory		0.5
+org.apache.camel.component.cache.CacheComponent		0.46341464
+org.apache.camel.component.cache.CacheProducer		0.4537037
+org.apache.camel.component.cache.CacheEventListenerRegistry		0.3846154
+org.apache.camel.component.cache.CacheLoaderRegistry		0.3846154
+org.apache.camel.component.cache.FileCacheManagerFactory		0.375
+org.apache.camel.component.cache.CacheEndpoint		0.35820895
+org.apache.camel.component.cache.EHCacheUtil		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheProducerTest_testAddingDataElementIdle_5
+org.apache.camel.component.cache.CacheConfiguration		0.51724136
+org.apache.camel.component.cache.CacheManagerFactory		0.5
+org.apache.camel.component.cache.CacheComponent		0.46341464
+org.apache.camel.component.cache.CacheProducer		0.4537037
+org.apache.camel.component.cache.CacheEventListenerRegistry		0.3846154
+org.apache.camel.component.cache.CacheLoaderRegistry		0.3846154
+org.apache.camel.component.cache.FileCacheManagerFactory		0.375
+org.apache.camel.component.cache.CacheEndpoint		0.35820895
+org.apache.camel.component.cache.EHCacheUtil		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheProducerTest_testAddingDataElementTimeToLive_t
+org.apache.camel.component.cache.CacheConfiguration		0.51724136
+org.apache.camel.component.cache.CacheManagerFactory		0.5
+org.apache.camel.component.cache.CacheComponent		0.46341464
+org.apache.camel.component.cache.CacheProducer		0.4537037
+org.apache.camel.component.cache.CacheEventListenerRegistry		0.3846154
+org.apache.camel.component.cache.CacheLoaderRegistry		0.3846154
+org.apache.camel.component.cache.FileCacheManagerFactory		0.375
+org.apache.camel.component.cache.CacheEndpoint		0.35820895
+org.apache.camel.component.cache.EHCacheUtil		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheProducerTest_testAddingDataToCacheDoesFailOnEmptyBody_6
+org.apache.camel.component.cache.CacheConfiguration		0.51724136
+org.apache.camel.component.cache.CacheComponent		0.46341464
+org.apache.camel.component.cache.CacheManagerFactory		0.46153846
+org.apache.camel.component.cache.CacheEventListenerRegistry		0.3846154
+org.apache.camel.component.cache.CacheLoaderRegistry		0.3846154
+org.apache.camel.component.cache.FileCacheManagerFactory		0.375
+org.apache.camel.component.cache.CacheEndpoint		0.35820895
+org.apache.camel.component.cache.CacheProducer		0.30555555
+org.apache.camel.component.cache.EHCacheUtil		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheProducerTest_testAddingDataToCacheWithNonStringCacheKey_s
+org.apache.camel.component.cache.CacheConfiguration		0.51724136
+org.apache.camel.component.cache.CacheManagerFactory		0.5
+org.apache.camel.component.cache.CacheComponent		0.46341464
+org.apache.camel.component.cache.CacheProducer		0.44444445
+org.apache.camel.component.cache.CacheEventListenerRegistry		0.3846154
+org.apache.camel.component.cache.CacheLoaderRegistry		0.3846154
+org.apache.camel.component.cache.FileCacheManagerFactory		0.375
+org.apache.camel.component.cache.CacheEndpoint		0.35820895
+org.apache.camel.component.cache.EHCacheUtil		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheProducerTest_testAddingDataToCache_e
+org.apache.camel.component.cache.CacheConfiguration		0.51724136
+org.apache.camel.component.cache.CacheComponent		0.46341464
+org.apache.camel.component.cache.CacheManagerFactory		0.46153846
+org.apache.camel.component.cache.CacheProducer		0.44444445
+org.apache.camel.component.cache.CacheEventListenerRegistry		0.3846154
+org.apache.camel.component.cache.CacheLoaderRegistry		0.3846154
+org.apache.camel.component.cache.FileCacheManagerFactory		0.375
+org.apache.camel.component.cache.CacheEndpoint		0.35820895
+org.apache.camel.component.cache.EHCacheUtil		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheProducerTest_testAddingSerializableDataToCache_14
+org.apache.camel.component.cache.CacheConfiguration		0.51724136
+org.apache.camel.component.cache.CacheComponent		0.46341464
+org.apache.camel.component.cache.CacheManagerFactory		0.46153846
+org.apache.camel.component.cache.CacheProducer		0.44444445
+org.apache.camel.component.cache.CacheEventListenerRegistry		0.3846154
+org.apache.camel.component.cache.CacheLoaderRegistry		0.3846154
+org.apache.camel.component.cache.FileCacheManagerFactory		0.375
+org.apache.camel.component.cache.CacheEndpoint		0.35820895
+org.apache.camel.component.cache.EHCacheUtil		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheProducerTest_testCheckDataFromCacheNegativeTest_2
+org.apache.camel.component.cache.CacheProducer		0.5925926
+org.apache.camel.component.cache.CacheConfiguration		0.51724136
+org.apache.camel.component.cache.CacheManagerFactory		0.5
+org.apache.camel.component.cache.CacheComponent		0.46341464
+org.apache.camel.component.cache.CacheEndpoint		0.41791046
+org.apache.camel.component.cache.CacheEventListenerRegistry		0.3846154
+org.apache.camel.component.cache.CacheLoaderRegistry		0.3846154
+org.apache.camel.component.cache.FileCacheManagerFactory		0.375
+org.apache.camel.component.cache.EHCacheUtil		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheProducerTest_testCheckDataFromCache_0
+org.apache.camel.component.cache.CacheProducer		0.5925926
+org.apache.camel.component.cache.CacheConfiguration		0.51724136
+org.apache.camel.component.cache.CacheManagerFactory		0.5
+org.apache.camel.component.cache.CacheComponent		0.46341464
+org.apache.camel.component.cache.CacheEndpoint		0.41791046
+org.apache.camel.component.cache.CacheEventListenerRegistry		0.3846154
+org.apache.camel.component.cache.CacheLoaderRegistry		0.3846154
+org.apache.camel.component.cache.FileCacheManagerFactory		0.375
+org.apache.camel.component.cache.EHCacheUtil		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheProducerTest_testCheckExpiredDataFromCache_n
+org.apache.camel.component.cache.CacheProducer		0.5925926
+org.apache.camel.component.cache.CacheConfiguration		0.55172414
+org.apache.camel.component.cache.CacheManagerFactory		0.5
+org.apache.camel.component.cache.CacheComponent		0.46341464
+org.apache.camel.component.cache.CacheEndpoint		0.41791046
+org.apache.camel.component.cache.CacheEventListenerRegistry		0.3846154
+org.apache.camel.component.cache.CacheLoaderRegistry		0.3846154
+org.apache.camel.component.cache.FileCacheManagerFactory		0.375
+org.apache.camel.component.cache.EHCacheUtil		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheProducerTest_testDeletingAllDataFromCacheDoesNotFailOnEmptyBody_o
+org.apache.camel.component.cache.CacheConfiguration		0.51724136
+org.apache.camel.component.cache.CacheComponent		0.46341464
+org.apache.camel.component.cache.CacheManagerFactory		0.46153846
+org.apache.camel.component.cache.CacheEndpoint		0.3880597
+org.apache.camel.component.cache.CacheEventListenerRegistry		0.3846154
+org.apache.camel.component.cache.CacheLoaderRegistry		0.3846154
+org.apache.camel.component.cache.FileCacheManagerFactory		0.375
+org.apache.camel.component.cache.CacheProducer		0.30555555
+org.apache.camel.component.cache.EHCacheUtil		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheProducerTest_testDeletingAllDataFromCache_f
+org.apache.camel.component.cache.CacheConfiguration		0.51724136
+org.apache.camel.component.cache.CacheComponent		0.46341464
+org.apache.camel.component.cache.CacheManagerFactory		0.46153846
+org.apache.camel.component.cache.CacheEndpoint		0.3880597
+org.apache.camel.component.cache.CacheEventListenerRegistry		0.3846154
+org.apache.camel.component.cache.CacheLoaderRegistry		0.3846154
+org.apache.camel.component.cache.FileCacheManagerFactory		0.375
+org.apache.camel.component.cache.CacheProducer		0.30555555
+org.apache.camel.component.cache.EHCacheUtil		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheProducerTest_testDeletingDataFromCacheDoesNotFailOnEmptyBody_12
+org.apache.camel.component.cache.CacheConfiguration		0.51724136
+org.apache.camel.component.cache.CacheComponent		0.46341464
+org.apache.camel.component.cache.CacheManagerFactory		0.46153846
+org.apache.camel.component.cache.CacheEventListenerRegistry		0.3846154
+org.apache.camel.component.cache.CacheLoaderRegistry		0.3846154
+org.apache.camel.component.cache.FileCacheManagerFactory		0.375
+org.apache.camel.component.cache.CacheEndpoint		0.35820895
+org.apache.camel.component.cache.CacheProducer		0.32407406
+org.apache.camel.component.cache.EHCacheUtil		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheProducerTest_testDeletingDataFromCache_15
+org.apache.camel.component.cache.CacheConfiguration		0.51724136
+org.apache.camel.component.cache.CacheComponent		0.46341464
+org.apache.camel.component.cache.CacheManagerFactory		0.46153846
+org.apache.camel.component.cache.CacheEventListenerRegistry		0.3846154
+org.apache.camel.component.cache.CacheLoaderRegistry		0.3846154
+org.apache.camel.component.cache.FileCacheManagerFactory		0.375
+org.apache.camel.component.cache.CacheEndpoint		0.35820895
+org.apache.camel.component.cache.CacheProducer		0.32407406
+org.apache.camel.component.cache.EHCacheUtil		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheProducerTest_testQueringDataFromCacheUsingUrlParametersMixed_3
+org.apache.camel.component.cache.CacheProducer		0.6018519
+org.apache.camel.component.cache.CacheEndpoint		0.53731346
+org.apache.camel.component.cache.CacheConfiguration		0.51724136
+org.apache.camel.component.cache.CacheManagerFactory		0.5
+org.apache.camel.component.cache.CacheComponent		0.46341464
+org.apache.camel.component.cache.CacheEventListenerRegistry		0.3846154
+org.apache.camel.component.cache.CacheLoaderRegistry		0.3846154
+org.apache.camel.component.cache.FileCacheManagerFactory		0.375
+org.apache.camel.component.cache.EHCacheUtil		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheProducerTest_testQueringDataFromCacheUsingUrlParametersOverrided_r
+org.apache.camel.component.cache.CacheProducer		0.5833333
+org.apache.camel.component.cache.CacheConfiguration		0.51724136
+org.apache.camel.component.cache.CacheManagerFactory		0.5
+org.apache.camel.component.cache.CacheEndpoint		0.47761193
+org.apache.camel.component.cache.CacheComponent		0.46341464
+org.apache.camel.component.cache.CacheEventListenerRegistry		0.3846154
+org.apache.camel.component.cache.CacheLoaderRegistry		0.3846154
+org.apache.camel.component.cache.FileCacheManagerFactory		0.375
+org.apache.camel.component.cache.EHCacheUtil		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheProducerTest_testQueringDataFromCacheUsingUrlParameters_j
+org.apache.camel.component.cache.CacheProducer		0.5833333
+org.apache.camel.component.cache.CacheEndpoint		0.53731346
+org.apache.camel.component.cache.CacheConfiguration		0.51724136
+org.apache.camel.component.cache.CacheManagerFactory		0.5
+org.apache.camel.component.cache.CacheComponent		0.46341464
+org.apache.camel.component.cache.CacheEventListenerRegistry		0.3846154
+org.apache.camel.component.cache.CacheLoaderRegistry		0.3846154
+org.apache.camel.component.cache.FileCacheManagerFactory		0.375
+org.apache.camel.component.cache.EHCacheUtil		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheProducerTest_testQueringDataFromCache_i
+org.apache.camel.component.cache.CacheProducer		0.5833333
+org.apache.camel.component.cache.CacheConfiguration		0.51724136
+org.apache.camel.component.cache.CacheManagerFactory		0.5
+org.apache.camel.component.cache.CacheComponent		0.46341464
+org.apache.camel.component.cache.CacheEndpoint		0.41791046
+org.apache.camel.component.cache.CacheEventListenerRegistry		0.3846154
+org.apache.camel.component.cache.CacheLoaderRegistry		0.3846154
+org.apache.camel.component.cache.FileCacheManagerFactory		0.375
+org.apache.camel.component.cache.EHCacheUtil		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheProducerTest_testQueringNonExistingDataFromCacheDoesNotFailOnEmptyBody_11
+org.apache.camel.component.cache.CacheConfiguration		0.51724136
+org.apache.camel.component.cache.CacheManagerFactory		0.5
+org.apache.camel.component.cache.CacheComponent		0.46341464
+org.apache.camel.component.cache.CacheEndpoint		0.4477612
+org.apache.camel.component.cache.CacheProducer		0.4074074
+org.apache.camel.component.cache.CacheEventListenerRegistry		0.3846154
+org.apache.camel.component.cache.CacheLoaderRegistry		0.3846154
+org.apache.camel.component.cache.FileCacheManagerFactory		0.375
+org.apache.camel.component.cache.EHCacheUtil		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheProducerTest_testQueringNonExistingDataFromCache_m
+org.apache.camel.component.cache.CacheConfiguration		0.51724136
+org.apache.camel.component.cache.CacheManagerFactory		0.5
+org.apache.camel.component.cache.CacheComponent		0.46341464
+org.apache.camel.component.cache.CacheEndpoint		0.4477612
+org.apache.camel.component.cache.CacheProducer		0.4074074
+org.apache.camel.component.cache.CacheEventListenerRegistry		0.3846154
+org.apache.camel.component.cache.CacheLoaderRegistry		0.3846154
+org.apache.camel.component.cache.FileCacheManagerFactory		0.375
+org.apache.camel.component.cache.EHCacheUtil		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheProducerTest_testUnknownOperationDoesNotFailOnEmptyBody_b
+org.apache.camel.component.cache.CacheConfiguration		0.51724136
+org.apache.camel.component.cache.CacheComponent		0.46341464
+org.apache.camel.component.cache.CacheManagerFactory		0.46153846
+org.apache.camel.component.cache.CacheEventListenerRegistry		0.3846154
+org.apache.camel.component.cache.CacheLoaderRegistry		0.3846154
+org.apache.camel.component.cache.FileCacheManagerFactory		0.375
+org.apache.camel.component.cache.CacheEndpoint		0.35820895
+org.apache.camel.component.cache.CacheProducer		0.33333334
+org.apache.camel.component.cache.EHCacheUtil		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheProducerTest_testUnknownOperation_a
+org.apache.camel.component.cache.CacheConfiguration		0.51724136
+org.apache.camel.component.cache.CacheComponent		0.46341464
+org.apache.camel.component.cache.CacheManagerFactory		0.46153846
+org.apache.camel.component.cache.CacheEventListenerRegistry		0.3846154
+org.apache.camel.component.cache.CacheLoaderRegistry		0.3846154
+org.apache.camel.component.cache.FileCacheManagerFactory		0.375
+org.apache.camel.component.cache.CacheEndpoint		0.35820895
+org.apache.camel.component.cache.CacheProducer		0.33333334
+org.apache.camel.component.cache.EHCacheUtil		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheProducerTest_testUpdatingDataInCacheDoesFailOnEmptyBody_h
+org.apache.camel.component.cache.CacheConfiguration		0.51724136
+org.apache.camel.component.cache.CacheComponent		0.46341464
+org.apache.camel.component.cache.CacheManagerFactory		0.46153846
+org.apache.camel.component.cache.CacheEventListenerRegistry		0.3846154
+org.apache.camel.component.cache.CacheLoaderRegistry		0.3846154
+org.apache.camel.component.cache.FileCacheManagerFactory		0.375
+org.apache.camel.component.cache.CacheEndpoint		0.35820895
+org.apache.camel.component.cache.CacheProducer		0.32407406
+org.apache.camel.component.cache.EHCacheUtil		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheProducerTest_testUpdatingDataInCache_l
+org.apache.camel.component.cache.CacheConfiguration		0.51724136
+org.apache.camel.component.cache.CacheComponent		0.46341464
+org.apache.camel.component.cache.CacheProducer		0.46296296
+org.apache.camel.component.cache.CacheManagerFactory		0.46153846
+org.apache.camel.component.cache.CacheEventListenerRegistry		0.3846154
+org.apache.camel.component.cache.CacheLoaderRegistry		0.3846154
+org.apache.camel.component.cache.FileCacheManagerFactory		0.375
+org.apache.camel.component.cache.CacheEndpoint		0.35820895
+org.apache.camel.component.cache.EHCacheUtil		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheRegistryRefTest
+CacheRegistryRefTest		0.975
+CacheRegistryRefTest.TestingCacheManagerFactory		0.0
+CacheRegistryRefTest.TestLoader		0.45454547
+CacheRegistryRefTest.TestCacheEventListener		0.41666666
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheRegistryRefTest_testConfig_u
+org.apache.camel.component.cache.CacheProducer		0.37037036
+org.apache.camel.component.cache.CacheEventListenerRegistry		0.15384616
+org.apache.camel.component.cache.CacheLoaderRegistry		0.15384616
+org.apache.camel.component.cache.CacheManagerFactory		0.15384616
+org.apache.camel.component.cache.CacheConfiguration		0.10344828
+org.apache.camel.component.cache.CacheEndpoint		0.05970149
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheRoutesManagementTest
+CacheRoutesManagementTest		1.0
+CacheRoutesManagementTest.TestingCacheManagerFactory		0.875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/CacheRoutesManagementTest_testConfig_z
+org.apache.camel.component.cache.CacheProducer		0.37037036
+org.apache.camel.component.cache.CacheManagerFactory		0.26923078
+org.apache.camel.component.cache.CacheEndpoint		0.104477614
+org.apache.camel.component.cache.CacheComponent		0.07317073
+org.apache.camel.component.cache.CacheConfiguration		0.03448276
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/DefaultCacheManagerFactoryTest
+DefaultCacheManagerFactoryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/DefaultCacheManagerFactoryTest_testEHCacheCompatiblity_16
+org.apache.camel.component.cache.CacheManagerFactory		0.7692308
+org.apache.camel.component.cache.DefaultCacheManagerFactory		0.7368421
+org.apache.camel.component.cache.EHCacheUtil		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/DefaultCacheManagerFactoryTest_testEHCacheCompatiblity_x
+org.apache.camel.component.cache.DefaultCacheManagerFactory		0.5263158
+org.apache.camel.component.cache.CacheManagerFactory		0.42307693
+org.apache.camel.component.cache.EHCacheUtil		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/DefaultCacheManagerFactoryTest_testFailSafeEHCacheManager_10
+org.apache.camel.component.cache.DefaultCacheManagerFactory		0.5263158
+org.apache.camel.component.cache.CacheManagerFactory		0.42307693
+org.apache.camel.component.cache.EHCacheUtil		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/DefaultCacheManagerFactoryTest_testNoProvidedConfiguration_q
+org.apache.camel.component.cache.CacheManagerFactory		0.42307693
+org.apache.camel.component.cache.DefaultCacheManagerFactory		0.42105263
+org.apache.camel.component.cache.EHCacheUtil		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/EHCacheUtilTest
+EHCacheUtilTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/EHCacheUtilTest_testCreateCacheManagers_4
+org.apache.camel.component.cache.EHCacheUtil		0.5714286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/FileCacheManagerFactoyRefTest
+FileCacheManagerFactoyRefTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/FileCacheManagerFactoyRefTest_testConfig_8
+org.apache.camel.component.cache.CacheProducer		0.37037036
+org.apache.camel.component.cache.CacheConfiguration		0.03448276
+org.apache.camel.component.cache.CacheEndpoint		0.029850746
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/ObjectCacheProducerTest
+ObjectCacheProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/ObjectCacheProducerTest_testAddingMultipleDataInCacheAndGettingBack_w
+org.apache.camel.component.cache.CacheConfiguration		0.70689654
+org.apache.camel.component.cache.CacheProducer		0.6203704
+org.apache.camel.component.cache.CacheComponent		0.6097561
+org.apache.camel.component.cache.DefaultCacheManagerFactory		0.5263158
+org.apache.camel.component.cache.CacheManagerFactory		0.5
+org.apache.camel.component.cache.CacheEventListenerRegistry		0.46153846
+org.apache.camel.component.cache.CacheLoaderRegistry		0.46153846
+org.apache.camel.component.cache.CacheEndpoint		0.41791046
+org.apache.camel.component.cache.EHCacheUtil		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/test-CacheConfigurationFileTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/test-CacheConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/test-CacheConsumerFIFOTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/test-CacheConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/test-CacheManagerFactoryRefTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/test-CacheManagerFactoryRefTest_TestingCacheManagerFactory
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/test-CacheProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/test-CacheRegistryRefTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/test-CacheRegistryRefTest_TestCacheEventListener
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/test-CacheRegistryRefTest_TestLoader
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/test-CacheRegistryRefTest_TestingCacheManagerFactory
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/test-CacheRoutesManagementTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/test-CacheRoutesManagementTest_TestingCacheManagerFactory
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/test-DefaultCacheManagerFactoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/test-EHCacheUtilTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/test-FileCacheManagerFactoyRefTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/cache/test-ObjectCacheProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/component/test-BaseCacheTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/processor/cache/CacheBasedBodyReplacerTest
+CacheBasedBodyReplacerTest		0.82051283
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/processor/cache/CacheBasedBodyReplacerTest_testCacheBasedBodyReplacer_c
+org.apache.camel.processor.cache.CacheValidate		0.57894737
+org.apache.camel.component.cache.CacheProducer		0.37037036
+org.apache.camel.component.cache.CacheEventListener		0.2820513
+org.apache.camel.processor.cache.CacheBasedMessageBodyReplacer		0.23529412
+org.apache.camel.component.cache.CacheConsumer		0.13333334
+org.apache.camel.component.cache.CacheEndpoint		0.104477614
+org.apache.camel.component.cache.CacheConfiguration		0.03448276
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/processor/cache/CacheBasedTokenReplacerTest
+CacheBasedTokenReplacerTest		0.85714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/processor/cache/CacheBasedTokenReplacerTest_testCacheBasedTokenReplacer_p
+org.apache.camel.processor.cache.CacheValidate		0.57894737
+org.apache.camel.component.cache.CacheProducer		0.37037036
+org.apache.camel.processor.cache.CacheBasedTokenReplacer		0.3529412
+org.apache.camel.component.cache.CacheEventListener		0.2820513
+org.apache.camel.component.cache.CacheConsumer		0.13333334
+org.apache.camel.component.cache.CacheEndpoint		0.104477614
+org.apache.camel.component.cache.CacheConfiguration		0.03448276
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/processor/cache/CacheBasedXPathElementReplacerTest
+CacheBasedXPathElementReplacerTest		0.84090906
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/processor/cache/CacheBasedXPathElementReplacerTest_testCacheBasedXPathElementReplacer_7
+org.apache.camel.processor.cache.CacheValidate		0.57894737
+org.apache.camel.processor.cache.CacheBasedXPathReplacer		0.47619048
+org.apache.camel.component.cache.CacheProducer		0.37037036
+org.apache.camel.component.cache.CacheEventListener		0.2820513
+org.apache.camel.component.cache.CacheConsumer		0.13333334
+org.apache.camel.component.cache.CacheEndpoint		0.104477614
+org.apache.camel.component.cache.CacheConfiguration		0.03448276
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/processor/cache/test-CacheBasedBodyReplacerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/processor/cache/test-CacheBasedTokenReplacerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cache/target/site/clover/org/apache/camel/processor/cache/test-CacheBasedXPathElementReplacerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

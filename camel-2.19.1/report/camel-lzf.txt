@@ -1,0 +1,15 @@
+./components/camel-lzf/target/site/clover/org/apache/camel
+./components/camel-lzf/target/site/clover/org/apache/camel/dataformat/lzf/LZFDataFormatTest
+LZFDataFormatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-lzf/target/site/clover/org/apache/camel/dataformat/lzf/LZFDataFormatTest_testMarshalTextToLzf_1
+org.apache.camel.dataformat.lzf.LZFDataFormat		0.29166666
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-lzf/target/site/clover/org/apache/camel/dataformat/lzf/LZFDataFormatTest_testParallelUnMarshalTextToLzf_2
+org.apache.camel.dataformat.lzf.LZFDataFormat		0.625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-lzf/target/site/clover/org/apache/camel/dataformat/lzf/LZFDataFormatTest_testUnMarshalTextToLzf_0
+org.apache.camel.dataformat.lzf.LZFDataFormat		0.625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-lzf/target/site/clover/org/apache/camel/dataformat/lzf/test-LZFDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

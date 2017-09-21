@@ -1,0 +1,840 @@
+./components/camel-smpp/target/site/clover/org/apache/camel
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/AbstractSmppCommandTest
+AbstractSmppCommandTest		0.95
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/AbstractSmppCommandTest_constructor_36
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/AbstractSmppCommandTest_determineTypeClass_3c
+org.apache.camel.component.smpp.AbstractSmppCommand		0.04255319
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/AbstractSmppCommandTest_getResponseMessage_1a
+org.apache.camel.component.smpp.AbstractSmppCommand		0.08510638
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/MessageReceiverListenerImplTest
+MessageReceiverListenerImplTest		0.97619045
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/MessageReceiverListenerImplTest_onAcceptAlertNotificationSuccess_5
+org.apache.camel.component.smpp.MessageReceiverListenerImpl		0.13461539
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/MessageReceiverListenerImplTest_onAcceptDataSmSuccess_3p
+org.apache.camel.component.smpp.MessageReceiverListenerImpl		0.17307693
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/MessageReceiverListenerImplTest_onAcceptDeliverSmException_z
+org.apache.camel.component.smpp.MessageReceiverListenerImpl		0.17307693
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/Smpp8BitSplitterTest
+Smpp8BitSplitterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/Smpp8BitSplitterTest_splitShortMessageWith160Character_32
+org.apache.camel.component.smpp.Smpp8BitSplitter		1.0
+org.apache.camel.component.smpp.SmppSplitter		0.25396827
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/Smpp8BitSplitterTest_splitShortMessageWith161Character_l
+org.apache.camel.component.smpp.Smpp8BitSplitter		1.0
+org.apache.camel.component.smpp.SmppSplitter		0.84126985
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppBindingTest
+SmppBindingTest		0.98333335
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppBindingTest_constructorSmppConfigurationShouldSetTheSmppConfiguration_2l
+org.apache.camel.component.smpp.SmppBinding		0.021857923
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppBindingTest_createSmppCancelSmCommand_s
+org.apache.camel.component.smpp.SmppCommandType		0.516129
+org.apache.camel.component.smpp.SmppCancelSmCommand		0.033333335
+org.apache.camel.component.smpp.AbstractSmppCommand		0.031914894
+org.apache.camel.component.smpp.SmppBinding		0.021857923
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppBindingTest_createSmppDataSmCommand_a
+org.apache.camel.component.smpp.SmppCommandType		0.58064514
+org.apache.camel.component.smpp.AbstractSmppCommand		0.031914894
+org.apache.camel.component.smpp.SmppBinding		0.021857923
+org.apache.camel.component.smpp.SmppDataSmCommand		0.013157895
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppBindingTest_createSmppMessageFrom8bitDataCodingDeliverSmShouldNotModifyBody_1l
+org.apache.camel.component.smpp.SmppBinding		0.15846995
+org.apache.camel.component.smpp.SmppMessage		0.055555556
+org.apache.camel.component.smpp.SmppConfiguration		0.024691358
+org.apache.camel.component.smpp.SmppUtils		0.010869565
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppBindingTest_createSmppMessageFromAlertNotificationShouldReturnASmppMessage_27
+org.apache.camel.component.smpp.SmppMessage		0.12962963
+org.apache.camel.component.smpp.SmppBinding		0.07103825
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppBindingTest_createSmppMessageFromDataSmShouldReturnASmppMessage_2z
+org.apache.camel.component.smpp.SmppMessage		0.12962963
+org.apache.camel.component.smpp.SmppBinding		0.09289618
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppBindingTest_createSmppMessageFromDeliverSmShouldReturnASmppMessage_2q
+org.apache.camel.component.smpp.SmppBinding		0.14754099
+org.apache.camel.component.smpp.SmppMessage		0.055555556
+org.apache.camel.component.smpp.SmppConfiguration		0.012345679
+org.apache.camel.component.smpp.SmppUtils		0.010869565
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppBindingTest_createSmppMessageFromDeliverSmWithPayloadInOptionalParameterShouldReturnASmppMessage_c
+org.apache.camel.component.smpp.SmppBinding		0.17486338
+org.apache.camel.component.smpp.SmppMessage		0.055555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppBindingTest_createSmppMessageFromDeliveryReceiptShouldReturnASmppMessage_11
+org.apache.camel.component.smpp.SmppBinding		0.14754099
+org.apache.camel.component.smpp.SmppMessage		0.055555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppBindingTest_createSmppMessageFromDeliveryReceiptWithOptionalParametersShouldReturnASmppMessage_15
+org.apache.camel.component.smpp.SmppBinding		0.49726775
+org.apache.camel.component.smpp.SmppMessage		0.055555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppBindingTest_createSmppMessageFromDeliveryReceiptWithPayloadInOptionalParameterShouldReturnASmppMessage_3g
+org.apache.camel.component.smpp.SmppBinding		0.3442623
+org.apache.camel.component.smpp.SmppMessage		0.055555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppBindingTest_createSmppMessageFromDeliveryReceiptWithoutShortMessageShouldNotThrowException_k
+org.apache.camel.component.smpp.SmppBinding		0.27322406
+org.apache.camel.component.smpp.SmppMessage		0.055555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppBindingTest_createSmppQuerySmCommand_3q
+org.apache.camel.component.smpp.SmppCommandType		0.516129
+org.apache.camel.component.smpp.SmppQuerySmCommand		0.045454547
+org.apache.camel.component.smpp.AbstractSmppCommand		0.031914894
+org.apache.camel.component.smpp.SmppBinding		0.021857923
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppBindingTest_createSmppReplaceSmCommand_10
+org.apache.camel.component.smpp.SmppCommandType		0.516129
+org.apache.camel.component.smpp.AbstractSmppCommand		0.031914894
+org.apache.camel.component.smpp.SmppReplaceSmCommand		0.031746034
+org.apache.camel.component.smpp.SmppSmCommand		0.0234375
+org.apache.camel.component.smpp.SmppBinding		0.021857923
+org.apache.camel.component.smpp.SmppConfiguration		0.012345679
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppBindingTest_createSmppSubmitMultiCommand_1f
+org.apache.camel.component.smpp.SmppCommandType		0.516129
+org.apache.camel.component.smpp.AbstractSmppCommand		0.031914894
+org.apache.camel.component.smpp.SmppSmCommand		0.0234375
+org.apache.camel.component.smpp.SmppBinding		0.021857923
+org.apache.camel.component.smpp.SmppConfiguration		0.012345679
+org.apache.camel.component.smpp.SmppSubmitMultiCommand		0.01183432
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppBindingTest_createSmppSubmitSmCommand_14
+org.apache.camel.component.smpp.SmppCommandType		0.38709676
+org.apache.camel.component.smpp.AbstractSmppCommand		0.031914894
+org.apache.camel.component.smpp.SmppSmCommand		0.0234375
+org.apache.camel.component.smpp.SmppBinding		0.021857923
+org.apache.camel.component.smpp.SmppSubmitSmCommand		0.013986014
+org.apache.camel.component.smpp.SmppConfiguration		0.012345679
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppBindingTest_emptyConstructorShouldSetTheSmppConfiguration_1u
+org.apache.camel.component.smpp.SmppBinding		0.010928961
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppBindingTest_getterShouldReturnTheSetValues_8
+org.apache.camel.component.smpp.SmppBinding		0.021857923
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppCancelSmCommandTest
+SmppCancelSmCommandTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppCancelSmCommandTest_executeWithConfigurationData_b
+org.apache.camel.component.smpp.SmppCancelSmCommand		0.6666667
+org.apache.camel.component.smpp.SmppConfiguration		0.086419754
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppCancelSmCommandTest_execute_1b
+org.apache.camel.component.smpp.SmppCancelSmCommand		0.6666667
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppCommandTypeTest
+SmppCommandTypeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppCommandTypeTest_createSmppCancelSmCommand_6
+org.apache.camel.component.smpp.SmppCommandType		0.4516129
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppCommandTypeTest_createSmppDataSmCommand_2r
+org.apache.camel.component.smpp.SmppCommandType		0.4516129
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppCommandTypeTest_createSmppQuerySmCommand_34
+org.apache.camel.component.smpp.SmppCommandType		0.4516129
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppCommandTypeTest_createSmppReplaceSmCommand_2a
+org.apache.camel.component.smpp.SmppCommandType		0.4516129
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppCommandTypeTest_createSmppSubmitMultiCommand_1d
+org.apache.camel.component.smpp.SmppCommandType		0.4516129
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppCommandTypeTest_createSmppSubmitSmCommand_1t
+org.apache.camel.component.smpp.SmppCommandType		0.32258064
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppComponentTest
+SmppComponentTest		0.990099
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppComponentTest_allowEmptySystemTypeAndServiceTypeOption_3i
+org.apache.camel.component.smpp.SmppComponent		0.5294118
+org.apache.camel.component.smpp.SmppConfiguration		0.14197531
+org.apache.camel.component.smpp.SmppEndpoint		0.09615385
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppComponentTest_constructorCamelContextShouldSetTheContext_13
+org.apache.camel.component.smpp.SmppComponent		0.05882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppComponentTest_constructorSmppConfigurationShouldSetTheConfiguration_y
+org.apache.camel.component.smpp.SmppComponent		0.20588236
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppComponentTest_createEndpointSmppConfigurationShouldReturnASmppEndpoint_r
+org.apache.camel.component.smpp.SmppEndpoint		0.34615386
+org.apache.camel.component.smpp.SmppComponent		0.11764706
+org.apache.camel.component.smpp.SmppConfiguration		0.049382716
+org.apache.camel.component.smpp.SmppBinding		0.010928961
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppComponentTest_createEndpointStringSmppConfigurationShouldReturnASmppEndpoint_1y
+org.apache.camel.component.smpp.SmppEndpoint		0.30769232
+org.apache.camel.component.smpp.SmppComponent		0.05882353
+org.apache.camel.component.smpp.SmppConfiguration		0.049382716
+org.apache.camel.component.smpp.SmppBinding		0.010928961
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppComponentTest_createEndpointStringStringMapShouldReturnASmppEndpoint_3d
+org.apache.camel.component.smpp.SmppComponent		0.47058824
+org.apache.camel.component.smpp.SmppEndpoint		0.30769232
+org.apache.camel.component.smpp.SmppConfiguration		0.16666667
+org.apache.camel.component.smpp.SmppBinding		0.010928961
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppComponentTest_createEndpointStringStringMapShouldReturnASmppsEndpoint_3a
+org.apache.camel.component.smpp.SmppComponent		0.47058824
+org.apache.camel.component.smpp.SmppEndpoint		0.30769232
+org.apache.camel.component.smpp.SmppConfiguration		0.18518518
+org.apache.camel.component.smpp.SmppBinding		0.010928961
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppComponentTest_createEndpointStringStringMapWithoutACamelContextShouldReturnASmppEndpoint_33
+org.apache.camel.component.smpp.SmppComponent		0.4117647
+org.apache.camel.component.smpp.SmppEndpoint		0.30769232
+org.apache.camel.component.smpp.SmppConfiguration		0.16666667
+org.apache.camel.component.smpp.SmppBinding		0.010928961
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppComponentTest_createEndpointWithSessionStateListener_1m
+org.apache.camel.component.smpp.SmppComponent		0.47058824
+org.apache.camel.component.smpp.SmppEndpoint		0.13461539
+org.apache.camel.component.smpp.SmppConfiguration		0.12962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppComponentTest_getterShouldReturnTheSetValues_26
+org.apache.camel.component.smpp.SmppComponent		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppConfigurationTest
+SmppConfigurationTest		0.99285716
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppConfigurationTest_cloneShouldReturnAnEqualInstance_3o
+org.apache.camel.component.smpp.SmppConfiguration		0.77160496
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppConfigurationTest_getterShouldReturnTheConfigureValuesFromURI_2g
+org.apache.camel.component.smpp.SmppConfiguration		0.11111111
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppConfigurationTest_getterShouldReturnTheDefaultValues_2w
+org.apache.camel.component.smpp.SmppConfiguration		0.37037036
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppConfigurationTest_getterShouldReturnTheSetValues_35
+org.apache.camel.component.smpp.SmppConfiguration		0.75308645
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppConfigurationTest_toStringShouldListAllInstanceVariables_2x
+org.apache.camel.component.smpp.SmppConfiguration		0.012345679
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppConnectionFactoryTest
+SmppConnectionFactoryTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppConsumerTest
+SmppConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppConsumerTest_addressRangeFromConfigurationIsUsed_v
+org.apache.camel.component.smpp.SmppConsumer		0.20987654
+org.apache.camel.component.smpp.SmppConfiguration		0.11111111
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppConsumerTest_doStartShouldStartANewSmppSession_21
+org.apache.camel.component.smpp.SmppConsumer		0.20987654
+org.apache.camel.component.smpp.SmppConfiguration		0.09876543
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppConsumerTest_doStartShouldStartANewSmppSession_23
+org.apache.camel.component.smpp.SmppConsumer		0.20987654
+org.apache.camel.component.smpp.SmppConfiguration		0.09876543
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppConsumerTest_doStopShouldNotCloseTheSMPPSessionIfItIsNull_1j
+org.apache.camel.component.smpp.SmppConsumer		0.14814815
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppConsumerTest_getterShouldReturnTheSetValues_16
+org.apache.camel.component.smpp.SmppConsumer		0.049382716
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppDataSmCommandTest
+SmppDataSmCommandTest		0.9913793
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppDataSmCommandTest_executeWithConfigurationData_d
+org.apache.camel.component.smpp.SmppDataSmCommand		0.41447368
+org.apache.camel.component.smpp.SmppConfiguration		0.11111111
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppDataSmCommandTest_executeWithOptionalParameterNewStyle_20
+org.apache.camel.component.smpp.SmppDataSmCommand		0.69078946
+org.apache.camel.component.smpp.AbstractSmppCommand		0.40425533
+org.apache.camel.component.smpp.SmppConfiguration		0.11111111
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppDataSmCommandTest_executeWithOptionalParameter_3t
+org.apache.camel.component.smpp.SmppDataSmCommand		0.7105263
+org.apache.camel.component.smpp.AbstractSmppCommand		0.5212766
+org.apache.camel.component.smpp.SmppConfiguration		0.11111111
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppDataSmCommandTest_execute_3u
+org.apache.camel.component.smpp.SmppDataSmCommand		0.41447368
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+org.apache.camel.component.smpp.SmppConfiguration		0.012345679
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppDefaultSplitterTest
+SmppDefaultSplitterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppDefaultSplitterTest_splitShortMessageWith160Character_3l
+org.apache.camel.component.smpp.SmppDefaultSplitter		1.0
+org.apache.camel.component.smpp.SmppSplitter		0.25396827
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppDefaultSplitterTest_splitShortMessageWith161Character_3s
+org.apache.camel.component.smpp.SmppDefaultSplitter		1.0
+org.apache.camel.component.smpp.SmppSplitter		0.84126985
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppEndpointTest
+SmppEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppEndpointTest_createConsumerShouldReturnASmppConsumer_2u
+org.apache.camel.component.smpp.SmppConsumer		0.086419754
+org.apache.camel.component.smpp.MessageReceiverListenerImpl		0.07692308
+org.apache.camel.component.smpp.SmppEndpoint		0.07692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppEndpointTest_createEndpointUriShouldReturnTheEndpointUri_g
+org.apache.camel.component.smpp.SmppEndpoint		0.15384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppEndpointTest_createEndpointUriWithoutUserShouldReturnTheEndpointUri_2y
+org.apache.camel.component.smpp.SmppEndpoint		0.15384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppEndpointTest_createOnAcceptAlertNotificationExchangeWithExchangePattern_2c
+org.apache.camel.component.smpp.SmppEndpoint		0.17307693
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppEndpointTest_createOnAcceptAlertNotificationExchange_2f
+org.apache.camel.component.smpp.SmppEndpoint		0.21153846
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppEndpointTest_createOnAcceptDataSmWithExchangePattern_u
+org.apache.camel.component.smpp.SmppEndpoint		0.17307693
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppEndpointTest_createOnAcceptDataSm_7
+org.apache.camel.component.smpp.SmppEndpoint		0.21153846
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppEndpointTest_createOnAcceptDeliverSmExchange_f
+org.apache.camel.component.smpp.SmppEndpoint		0.21153846
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppEndpointTest_createOnAcceptDeliverSmWithExchangePattern_1q
+org.apache.camel.component.smpp.SmppEndpoint		0.17307693
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppEndpointTest_createProducerShouldReturnASmppProducer_2s
+org.apache.camel.component.smpp.SmppEndpoint		0.03846154
+org.apache.camel.component.smpp.SmppProducer		0.033898305
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppEndpointTest_getConfigurationShouldReturnTheSetValue_3r
+org.apache.camel.component.smpp.SmppEndpoint		0.03846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppEndpointTest_getConnectionStringShouldReturnTheConnectionString_3b
+org.apache.camel.component.smpp.SmppEndpoint		0.115384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppEndpointTest_getConnectionStringWithoutUserShouldReturnTheConnectionString_e
+org.apache.camel.component.smpp.SmppEndpoint		0.115384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppEndpointTest_isLenientPropertiesShouldReturnTrue_1o
+org.apache.camel.component.smpp.SmppEndpoint		0.03846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppEndpointTest_isSingletonShouldReturnTrue_3k
+org.apache.camel.component.smpp.SmppEndpoint		0.03846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppMessageTest
+SmppMessageTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppMessageTest_alertNotificationConstructorShouldReturnAnInstanceWithACommandAndHeaderAttributes_30
+org.apache.camel.component.smpp.SmppMessage		0.12962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppMessageTest_createBodyShouldNotMangle8bitDataCodingShortMessage_1z
+org.apache.camel.component.smpp.SmppMessage		0.25925925
+org.apache.camel.component.smpp.SmppConfiguration		0.024691358
+org.apache.camel.component.smpp.SmppUtils		0.010869565
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppMessageTest_createBodyShouldReturnNullIfTheCommandIsNotAMessageRequest_1
+org.apache.camel.component.smpp.SmppMessage		0.12962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppMessageTest_createBodyShouldReturnNullIfTheCommandIsNull_18
+org.apache.camel.component.smpp.SmppMessage		0.11111111
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppMessageTest_createBodyShouldReturnTheShortMessageIfTheCommandIsAMessageRequest_3
+org.apache.camel.component.smpp.SmppMessage		0.35185185
+org.apache.camel.component.smpp.SmppConfiguration		0.012345679
+org.apache.camel.component.smpp.SmppUtils		0.010869565
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppMessageTest_emptyConstructorShouldReturnAnInstanceWithoutACommand_h
+org.apache.camel.component.smpp.SmppMessage		0.074074075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppMessageTest_newInstanceShouldReturnAnInstanceWithoutACommand_w
+org.apache.camel.component.smpp.SmppMessage		0.11111111
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppMessageTest_testSmppMessageDataSm_1p
+org.apache.camel.component.smpp.SmppMessage		0.12962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppMessageTest_testSmppMessageDeliverReceipt_1c
+org.apache.camel.component.smpp.SmppMessage		0.12962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppMessageTest_testSmppMessageDeliverSm_2v
+org.apache.camel.component.smpp.SmppMessage		0.12962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppMessageTest_toStringShouldReturnTheBodyIfTheCommandIsNull_2m
+org.apache.camel.component.smpp.SmppMessage		0.18518518
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppMessageTest_toStringShouldReturnTheShortMessageIfTheCommandIsNotNull_38
+org.apache.camel.component.smpp.SmppMessage		0.12962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppNLSTSplitterTest
+SmppNLSTSplitterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppNLSTSplitterTest_splitShortMessageWith156Character_j
+org.apache.camel.component.smpp.SmppNLSTSplitter		0.7692308
+org.apache.camel.component.smpp.SmppSplitter		0.3015873
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppNLSTSplitterTest_splitTurkishShortMessageWith155Character_17
+org.apache.camel.component.smpp.SmppNLSTSplitter		0.25
+org.apache.camel.component.smpp.SmppSplitter		0.1904762
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppProducerLazySessionCreationTest
+SmppProducerLazySessionCreationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppProducerLazySessionCreationTest_doStartShouldNotCreateTheSmppSession_9
+org.apache.camel.component.smpp.SmppProducer		0.084745765
+org.apache.camel.component.smpp.SmppConfiguration		0.012345679
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppProducerLazySessionCreationTest_processShouldCreateTheSmppSessionWithTheSystemIdAndPasswordFromTheExchange_q
+org.apache.camel.component.smpp.SmppProducer		0.3644068
+org.apache.camel.component.smpp.SmppConfiguration		0.14814815
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppProducerLazySessionCreationTest_processShouldCreateTheSmppSession_2
+org.apache.camel.component.smpp.SmppProducer		0.33898306
+org.apache.camel.component.smpp.SmppConfiguration		0.12345679
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppProducerTest
+SmppProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppProducerTest_doStartShouldStartANewSmppSession_1e
+org.apache.camel.component.smpp.SmppProducer		0.20338982
+org.apache.camel.component.smpp.SmppConfiguration		0.12345679
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppProducerTest_doStopShouldCloseTheSMPPSession_n
+org.apache.camel.component.smpp.SmppProducer		0.29661018
+org.apache.camel.component.smpp.SmppConfiguration		0.12345679
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppProducerTest_doStopShouldNotCloseTheSMPPSessionIfItIsNull_0
+org.apache.camel.component.smpp.SmppProducer		0.10169491
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppProducerTest_getterShouldReturnTheSetValues_3j
+org.apache.camel.component.smpp.SmppProducer		0.033898305
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppProducerTest_processInOnlyShouldExecuteTheCommand_22
+org.apache.camel.component.smpp.SmppProducer		0.26271185
+org.apache.camel.component.smpp.SmppConfiguration		0.12345679
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppQuerySmCommandTest
+SmppQuerySmCommandTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppQuerySmCommandTest_executeWithConfigurationData_3h
+org.apache.camel.component.smpp.SmppQuerySmCommand		0.72727275
+org.apache.camel.component.smpp.SmppUtils		0.10326087
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+org.apache.camel.component.smpp.SmppConfiguration		0.037037037
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppQuerySmCommandTest_execute_2b
+org.apache.camel.component.smpp.SmppQuerySmCommand		0.72727275
+org.apache.camel.component.smpp.SmppUtils		0.10326087
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppReplaceSmCommandTest
+SmppReplaceSmCommandTest		0.992
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppReplaceSmCommandTest_bodyWithGSM8bitDataCodingNotModified_1k
+org.apache.camel.component.smpp.SmppReplaceSmCommand		0.5714286
+org.apache.camel.component.smpp.SmppSmCommand		0.0703125
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+org.apache.camel.component.smpp.SmppConfiguration		0.049382716
+org.apache.camel.component.smpp.SmppUtils		0.010869565
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppReplaceSmCommandTest_bodyWithLatin1DataCodingNarrowedToCharset_12
+org.apache.camel.component.smpp.SmppReplaceSmCommand		0.5714286
+org.apache.camel.component.smpp.SmppSmCommand		0.3203125
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+org.apache.camel.component.smpp.SmppConfiguration		0.061728396
+org.apache.camel.component.smpp.SmppUtils		0.010869565
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppReplaceSmCommandTest_bodyWithSMPP8bitDataCodingNotModified_2p
+org.apache.camel.component.smpp.SmppReplaceSmCommand		0.5714286
+org.apache.camel.component.smpp.SmppSmCommand		0.0703125
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+org.apache.camel.component.smpp.SmppConfiguration		0.049382716
+org.apache.camel.component.smpp.SmppUtils		0.010869565
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppReplaceSmCommandTest_bodyWithSmscDefaultDataCodingNarrowedToCharset_2h
+org.apache.camel.component.smpp.SmppReplaceSmCommand		0.5714286
+org.apache.camel.component.smpp.SmppSmCommand		0.3203125
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+org.apache.camel.component.smpp.SmppConfiguration		0.061728396
+org.apache.camel.component.smpp.SmppUtils		0.010869565
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppReplaceSmCommandTest_eightBitDataCodingOverridesDefaultAlphabet_1r
+org.apache.camel.component.smpp.SmppReplaceSmCommand		0.5714286
+org.apache.camel.component.smpp.SmppSmCommand		0.0703125
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+org.apache.camel.component.smpp.SmppConfiguration		0.049382716
+org.apache.camel.component.smpp.SmppUtils		0.010869565
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppReplaceSmCommandTest_executeWithConfigurationData_2o
+org.apache.camel.component.smpp.SmppReplaceSmCommand		0.5873016
+org.apache.camel.component.smpp.SmppSmCommand		0.328125
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+org.apache.camel.component.smpp.SmppConfiguration		0.061728396
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppReplaceSmCommandTest_executeWithValidityPeriodAsString_24
+org.apache.camel.component.smpp.SmppReplaceSmCommand		0.6666667
+org.apache.camel.component.smpp.SmppSmCommand		0.328125
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+org.apache.camel.component.smpp.SmppConfiguration		0.012345679
+org.apache.camel.component.smpp.SmppUtils		0.010869565
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppReplaceSmCommandTest_execute_25
+org.apache.camel.component.smpp.SmppReplaceSmCommand		0.6984127
+org.apache.camel.component.smpp.SmppSmCommand		0.328125
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+org.apache.camel.component.smpp.SmppConfiguration		0.012345679
+org.apache.camel.component.smpp.SmppUtils		0.010869565
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppReplaceSmCommandTest_latin1DataCodingOverridesEightBitAlphabet_2e
+org.apache.camel.component.smpp.SmppReplaceSmCommand		0.5714286
+org.apache.camel.component.smpp.SmppSmCommand		0.328125
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+org.apache.camel.component.smpp.SmppConfiguration		0.061728396
+org.apache.camel.component.smpp.SmppUtils		0.010869565
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppSplitterTest
+SmppSplitterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppSplitterTest_splitShortMessageWith160Character_2k
+org.apache.camel.component.smpp.SmppSplitter		0.25396827
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppSplitterTest_splitShortMessageWith161Character_28
+org.apache.camel.component.smpp.SmppSplitter		0.84126985
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppSubmitMultiCommandTest
+SmppSubmitMultiCommandTest		0.9954338
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppSubmitMultiCommandTest_bodyWithGSM8bitDataCodingNotModified_1h
+org.apache.camel.component.smpp.SmppDefaultSplitter		1.0
+org.apache.camel.component.smpp.SmppSubmitMultiCommand		0.6331361
+org.apache.camel.component.smpp.SmppSmCommand		0.3828125
+org.apache.camel.component.smpp.SmppSplitter		0.22222222
+org.apache.camel.component.smpp.SmppConfiguration		0.14814815
+org.apache.camel.component.smpp.SmppUtils		0.13586956
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppSubmitMultiCommandTest_bodyWithLatin1DataCodingNarrowedToCharset_2j
+org.apache.camel.component.smpp.SmppDefaultSplitter		1.0
+org.apache.camel.component.smpp.SmppSubmitMultiCommand		0.6331361
+org.apache.camel.component.smpp.SmppSmCommand		0.46875
+org.apache.camel.component.smpp.SmppSplitter		0.22222222
+org.apache.camel.component.smpp.SmppConfiguration		0.14814815
+org.apache.camel.component.smpp.SmppUtils		0.13586956
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppSubmitMultiCommandTest_bodyWithSMPP8bitDataCodingNotModified_1x
+org.apache.camel.component.smpp.SmppDefaultSplitter		1.0
+org.apache.camel.component.smpp.SmppSubmitMultiCommand		0.6331361
+org.apache.camel.component.smpp.SmppSmCommand		0.3828125
+org.apache.camel.component.smpp.SmppSplitter		0.22222222
+org.apache.camel.component.smpp.SmppConfiguration		0.14814815
+org.apache.camel.component.smpp.SmppUtils		0.13586956
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppSubmitMultiCommandTest_bodyWithSmscDefaultDataCodingNarrowedToCharset_p
+org.apache.camel.component.smpp.SmppDefaultSplitter		1.0
+org.apache.camel.component.smpp.SmppSubmitMultiCommand		0.6331361
+org.apache.camel.component.smpp.SmppSmCommand		0.46875
+org.apache.camel.component.smpp.SmppSplitter		0.22222222
+org.apache.camel.component.smpp.SmppConfiguration		0.14814815
+org.apache.camel.component.smpp.SmppUtils		0.13586956
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppSubmitMultiCommandTest_eightBitDataCodingOverridesDefaultAlphabet_19
+org.apache.camel.component.smpp.SmppDefaultSplitter		1.0
+org.apache.camel.component.smpp.SmppSubmitMultiCommand		0.6331361
+org.apache.camel.component.smpp.SmppSmCommand		0.390625
+org.apache.camel.component.smpp.SmppSplitter		0.22222222
+org.apache.camel.component.smpp.SmppConfiguration		0.14814815
+org.apache.camel.component.smpp.SmppUtils		0.13586956
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppSubmitMultiCommandTest_executeWithConfigurationData_29
+org.apache.camel.component.smpp.SmppDefaultSplitter		1.0
+org.apache.camel.component.smpp.SmppSubmitMultiCommand		0.6804734
+org.apache.camel.component.smpp.SmppSmCommand		0.4765625
+org.apache.camel.component.smpp.SmppSplitter		0.22222222
+org.apache.camel.component.smpp.SmppConfiguration		0.16049382
+org.apache.camel.component.smpp.SmppUtils		0.13586956
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppSubmitMultiCommandTest_executeWithOptionalParameterNewStyle_3e
+org.apache.camel.component.smpp.SmppDefaultSplitter		1.0
+org.apache.camel.component.smpp.SmppSubmitMultiCommand		0.6745562
+org.apache.camel.component.smpp.SmppSmCommand		0.4765625
+org.apache.camel.component.smpp.AbstractSmppCommand		0.40425533
+org.apache.camel.component.smpp.SmppSplitter		0.22222222
+org.apache.camel.component.smpp.SmppUtils		0.14673913
+org.apache.camel.component.smpp.SmppConfiguration		0.037037037
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppSubmitMultiCommandTest_executeWithOptionalParameter_2t
+org.apache.camel.component.smpp.SmppDefaultSplitter		1.0
+org.apache.camel.component.smpp.SmppSubmitMultiCommand		0.6923077
+org.apache.camel.component.smpp.AbstractSmppCommand		0.5106383
+org.apache.camel.component.smpp.SmppSmCommand		0.4765625
+org.apache.camel.component.smpp.SmppSplitter		0.22222222
+org.apache.camel.component.smpp.SmppUtils		0.14673913
+org.apache.camel.component.smpp.SmppConfiguration		0.037037037
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppSubmitMultiCommandTest_executeWithValidityPeriodAsString_2d
+org.apache.camel.component.smpp.SmppDefaultSplitter		1.0
+org.apache.camel.component.smpp.SmppSubmitMultiCommand		0.6745562
+org.apache.camel.component.smpp.SmppSmCommand		0.4765625
+org.apache.camel.component.smpp.SmppSplitter		0.22222222
+org.apache.camel.component.smpp.SmppUtils		0.14673913
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+org.apache.camel.component.smpp.SmppConfiguration		0.037037037
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppSubmitMultiCommandTest_execute_t
+org.apache.camel.component.smpp.SmppDefaultSplitter		1.0
+org.apache.camel.component.smpp.SmppSubmitMultiCommand		0.6863905
+org.apache.camel.component.smpp.SmppSmCommand		0.4765625
+org.apache.camel.component.smpp.SmppSplitter		0.22222222
+org.apache.camel.component.smpp.SmppUtils		0.14673913
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+org.apache.camel.component.smpp.SmppConfiguration		0.037037037
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppSubmitMultiCommandTest_latin1DataCodingOverridesEightBitAlphabet_4
+org.apache.camel.component.smpp.Smpp8BitSplitter		1.0
+org.apache.camel.component.smpp.SmppSubmitMultiCommand		0.6331361
+org.apache.camel.component.smpp.SmppSmCommand		0.4609375
+org.apache.camel.component.smpp.SmppSplitter		0.22222222
+org.apache.camel.component.smpp.SmppConfiguration		0.14814815
+org.apache.camel.component.smpp.SmppUtils		0.13586956
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppSubmitSmCommandTest
+SmppSubmitSmCommandTest		0.9310345
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppSubmitSmCommandTest_alphabetUpdatesDataCoding_x
+org.apache.camel.component.smpp.Smpp8BitSplitter		1.0
+org.apache.camel.component.smpp.SmppSubmitSmCommand		0.6293706
+org.apache.camel.component.smpp.SmppSmCommand		0.3828125
+org.apache.camel.component.smpp.SmppUtils		0.3043478
+org.apache.camel.component.smpp.SmppSplitter		0.22222222
+org.apache.camel.component.smpp.SmppConfiguration		0.14814815
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppSubmitSmCommandTest_bodyWithGSM8bitDataCodingNotModified_1i
+org.apache.camel.component.smpp.SmppDefaultSplitter		1.0
+org.apache.camel.component.smpp.SmppSubmitSmCommand		0.61538464
+org.apache.camel.component.smpp.SmppSmCommand		0.3828125
+org.apache.camel.component.smpp.SmppUtils		0.3043478
+org.apache.camel.component.smpp.SmppSplitter		0.22222222
+org.apache.camel.component.smpp.SmppConfiguration		0.14814815
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppSubmitSmCommandTest_bodyWithLatin1DataCodingNarrowedToCharset_1s
+org.apache.camel.component.smpp.SmppDefaultSplitter		1.0
+org.apache.camel.component.smpp.SmppSubmitSmCommand		0.61538464
+org.apache.camel.component.smpp.SmppSmCommand		0.46875
+org.apache.camel.component.smpp.SmppUtils		0.3043478
+org.apache.camel.component.smpp.SmppSplitter		0.22222222
+org.apache.camel.component.smpp.SmppConfiguration		0.14814815
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppSubmitSmCommandTest_bodyWithSMPP8bitDataCodingNotModified_i
+org.apache.camel.component.smpp.SmppDefaultSplitter		1.0
+org.apache.camel.component.smpp.SmppSubmitSmCommand		0.61538464
+org.apache.camel.component.smpp.SmppSmCommand		0.3828125
+org.apache.camel.component.smpp.SmppUtils		0.3043478
+org.apache.camel.component.smpp.SmppSplitter		0.22222222
+org.apache.camel.component.smpp.SmppConfiguration		0.14814815
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppSubmitSmCommandTest_bodyWithSmscDefaultDataCodingNarrowedToCharset_37
+org.apache.camel.component.smpp.SmppDefaultSplitter		1.0
+org.apache.camel.component.smpp.SmppSubmitSmCommand		0.61538464
+org.apache.camel.component.smpp.SmppSmCommand		0.46875
+org.apache.camel.component.smpp.SmppUtils		0.3043478
+org.apache.camel.component.smpp.SmppSplitter		0.22222222
+org.apache.camel.component.smpp.SmppConfiguration		0.14814815
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppSubmitSmCommandTest_eightBitDataCodingOverridesDefaultAlphabet_2i
+org.apache.camel.component.smpp.SmppDefaultSplitter		1.0
+org.apache.camel.component.smpp.SmppSubmitSmCommand		0.61538464
+org.apache.camel.component.smpp.SmppSmCommand		0.390625
+org.apache.camel.component.smpp.SmppUtils		0.3043478
+org.apache.camel.component.smpp.SmppSplitter		0.22222222
+org.apache.camel.component.smpp.SmppConfiguration		0.14814815
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppSubmitSmCommandTest_executeLongBodyRejection_31
+org.apache.camel.component.smpp.SmppDefaultSplitter		1.0
+org.apache.camel.component.smpp.SmppSplitter		0.8095238
+org.apache.camel.component.smpp.SmppSplittingPolicy		0.72727275
+org.apache.camel.component.smpp.SmppSmCommand		0.546875
+org.apache.camel.component.smpp.SmppSubmitSmCommand		0.4125874
+org.apache.camel.component.smpp.SmppException		0.33333334
+org.apache.camel.component.smpp.SmppConfiguration		0.16049382
+org.apache.camel.component.smpp.SmppUtils		0.010869565
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppSubmitSmCommandTest_executeLongBodyTruncation_3n
+org.apache.camel.component.smpp.SmppDefaultSplitter		1.0
+org.apache.camel.component.smpp.SmppSplitter		0.8095238
+org.apache.camel.component.smpp.SmppSplittingPolicy		0.72727275
+org.apache.camel.component.smpp.SmppSubmitSmCommand		0.6293706
+org.apache.camel.component.smpp.SmppSmCommand		0.5390625
+org.apache.camel.component.smpp.SmppUtils		0.3043478
+org.apache.camel.component.smpp.SmppConfiguration		0.16049382
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppSubmitSmCommandTest_executeWithConfigurationData_39
+org.apache.camel.component.smpp.SmppDefaultSplitter		1.0
+org.apache.camel.component.smpp.SmppSubmitSmCommand		0.6293706
+org.apache.camel.component.smpp.SmppSmCommand		0.4765625
+org.apache.camel.component.smpp.SmppUtils		0.3043478
+org.apache.camel.component.smpp.SmppSplitter		0.22222222
+org.apache.camel.component.smpp.SmppConfiguration		0.16049382
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppSubmitSmCommandTest_executeWithOptionalParameterNewStyle_1v
+org.apache.camel.component.smpp.SmppDefaultSplitter		1.0
+org.apache.camel.component.smpp.SmppSubmitSmCommand		0.66433567
+org.apache.camel.component.smpp.SmppSmCommand		0.4765625
+org.apache.camel.component.smpp.AbstractSmppCommand		0.40425533
+org.apache.camel.component.smpp.SmppUtils		0.3152174
+org.apache.camel.component.smpp.SmppSplitter		0.22222222
+org.apache.camel.component.smpp.SmppConfiguration		0.037037037
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppSubmitSmCommandTest_executeWithOptionalParameter_o
+org.apache.camel.component.smpp.SmppDefaultSplitter		1.0
+org.apache.camel.component.smpp.SmppSubmitSmCommand		0.6853147
+org.apache.camel.component.smpp.AbstractSmppCommand		0.5106383
+org.apache.camel.component.smpp.SmppSmCommand		0.4765625
+org.apache.camel.component.smpp.SmppUtils		0.3152174
+org.apache.camel.component.smpp.SmppSplitter		0.22222222
+org.apache.camel.component.smpp.SmppConfiguration		0.037037037
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppSubmitSmCommandTest_executeWithValidityPeriodAsString_3f
+org.apache.camel.component.smpp.SmppDefaultSplitter		1.0
+org.apache.camel.component.smpp.SmppSubmitSmCommand		0.66433567
+org.apache.camel.component.smpp.SmppSmCommand		0.4765625
+org.apache.camel.component.smpp.SmppUtils		0.3152174
+org.apache.camel.component.smpp.SmppSplitter		0.22222222
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+org.apache.camel.component.smpp.SmppConfiguration		0.037037037
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppSubmitSmCommandTest_execute_1w
+org.apache.camel.component.smpp.SmppDefaultSplitter		1.0
+org.apache.camel.component.smpp.SmppSubmitSmCommand		0.67832166
+org.apache.camel.component.smpp.SmppSmCommand		0.4765625
+org.apache.camel.component.smpp.SmppUtils		0.3152174
+org.apache.camel.component.smpp.SmppSplitter		0.22222222
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+org.apache.camel.component.smpp.SmppConfiguration		0.037037037
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppSubmitSmCommandTest_latin1DataCodingOverridesEightBitAlphabet_1n
+org.apache.camel.component.smpp.Smpp8BitSplitter		1.0
+org.apache.camel.component.smpp.SmppSubmitSmCommand		0.61538464
+org.apache.camel.component.smpp.SmppSmCommand		0.4609375
+org.apache.camel.component.smpp.SmppUtils		0.3043478
+org.apache.camel.component.smpp.SmppSplitter		0.22222222
+org.apache.camel.component.smpp.SmppConfiguration		0.14814815
+org.apache.camel.component.smpp.AbstractSmppCommand		0.06382979
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppUcs2SplitterTest
+SmppUcs2SplitterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppUcs2SplitterTest_splitShortMessageWith70Character_2n
+org.apache.camel.component.smpp.SmppUcs2Splitter		1.0
+org.apache.camel.component.smpp.SmppSplitter		0.25396827
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppUcs2SplitterTest_splitShortMessageWith71Character_3m
+org.apache.camel.component.smpp.SmppUcs2Splitter		1.0
+org.apache.camel.component.smpp.SmppSplitter		0.84126985
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppUtilsTest
+SmppUtilsTest		0.95238096
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppUtilsTest_formatTime_m
+org.apache.camel.component.smpp.SmppUtils		0.010869565
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/SmppUtilsTest_string2Date_1g
+org.apache.camel.component.smpp.SmppUtils		0.10326087
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/integration/SmppComponentIntegrationTest
+SmppComponentIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/integration/SmppComponentSpringIntegrationTest
+SmppComponentSpringIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/integration/SmppConsumerReconnectIntegrationTest
+SmppConsumerReconnectIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/integration/SmppProducerReconnectIntegrationTest
+SmppProducerReconnectIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/integration/test-SmppComponentIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/integration/test-SmppComponentSpringIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/integration/test-SmppConsumerReconnectIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/integration/test-SmppProducerReconnectIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/test-AbstractSmppCommandTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/test-MessageReceiverListenerImplTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/test-Smpp8BitSplitterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/test-SmppBindingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/test-SmppCancelSmCommandTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/test-SmppCommandTypeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/test-SmppComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/test-SmppConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/test-SmppConnectionFactoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/test-SmppConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/test-SmppDataSmCommandTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/test-SmppDefaultSplitterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/test-SmppEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/test-SmppMessageTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/test-SmppNLSTSplitterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/test-SmppProducerLazySessionCreationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/test-SmppProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/test-SmppQuerySmCommandTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/test-SmppReplaceSmCommandTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/test-SmppSplitterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/test-SmppSubmitMultiCommandTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/test-SmppSubmitSmCommandTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/test-SmppUcs2SplitterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-smpp/target/site/clover/org/apache/camel/component/smpp/test-SmppUtilsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

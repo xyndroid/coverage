@@ -1,0 +1,83 @@
+./components/camel-routebox/target/site/clover/org/apache/camel
+./components/camel-routebox/target/site/clover/org/apache/camel/component/routebox/RouteboxDefaultContextAndRouteBuilderTest
+RouteboxDefaultContextAndRouteBuilderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-routebox/target/site/clover/org/apache/camel/component/routebox/RouteboxDefaultContextAndRouteBuilderTest_testRouteboxUsingDefaultContextAndRouteBuilder_0
+org.apache.camel.component.routebox.direct.RouteboxDirectEndpoint		0.84615386
+org.apache.camel.component.routebox.direct.RouteboxDirectConsumer		0.74418604
+org.apache.camel.component.routebox.RouteboxServiceSupport		0.65
+org.apache.camel.component.routebox.RouteboxConfiguration		0.4964539
+org.apache.camel.component.routebox.strategy.RouteboxDispatcher		0.46753246
+org.apache.camel.component.routebox.direct.RouteboxDirectProducer		0.36507937
+org.apache.camel.component.routebox.RouteboxEndpoint		0.35714287
+org.apache.camel.component.routebox.RouteboxComponent		0.34146342
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-routebox/target/site/clover/org/apache/camel/component/routebox/RouteboxDirectProducerOnlyTest
+RouteboxDirectProducerOnlyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-routebox/target/site/clover/org/apache/camel/component/routebox/RouteboxDirectProducerOnlyTest_testRouteboxDirectProducerOnlyRequests_1
+org.apache.camel.component.routebox.RouteboxServiceSupport		0.55
+org.apache.camel.component.routebox.RouteboxConfiguration		0.5177305
+org.apache.camel.component.routebox.strategy.RouteboxDispatcher		0.46753246
+org.apache.camel.component.routebox.direct.RouteboxDirectProducer		0.44444445
+org.apache.camel.component.routebox.RouteboxEndpoint		0.35714287
+org.apache.camel.component.routebox.direct.RouteboxDirectEndpoint		0.34615386
+org.apache.camel.component.routebox.RouteboxComponent		0.34146342
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-routebox/target/site/clover/org/apache/camel/component/routebox/RouteboxDirectTest
+RouteboxDirectTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-routebox/target/site/clover/org/apache/camel/component/routebox/RouteboxDirectTest_testRouteboxDirectAsyncRequests_4
+org.apache.camel.component.routebox.direct.RouteboxDirectEndpoint		0.84615386
+org.apache.camel.component.routebox.direct.RouteboxDirectConsumer		0.74418604
+org.apache.camel.component.routebox.RouteboxServiceSupport		0.55
+org.apache.camel.component.routebox.RouteboxConfiguration		0.4822695
+org.apache.camel.component.routebox.strategy.RouteboxDispatcher		0.46753246
+org.apache.camel.component.routebox.direct.RouteboxDirectProducer		0.36507937
+org.apache.camel.component.routebox.RouteboxEndpoint		0.35714287
+org.apache.camel.component.routebox.RouteboxComponent		0.34146342
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-routebox/target/site/clover/org/apache/camel/component/routebox/RouteboxDispatchMapTest
+RouteboxDispatchMapTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-routebox/target/site/clover/org/apache/camel/component/routebox/RouteboxDispatchMapTest_testRouteboxUsingDispatchMap_2
+org.apache.camel.component.routebox.direct.RouteboxDirectEndpoint		0.84615386
+org.apache.camel.component.routebox.direct.RouteboxDirectConsumer		0.74418604
+org.apache.camel.component.routebox.RouteboxServiceSupport		0.65
+org.apache.camel.component.routebox.RouteboxConfiguration		0.4822695
+org.apache.camel.component.routebox.strategy.RouteboxDispatcher		0.48051947
+org.apache.camel.component.routebox.direct.RouteboxDirectProducer		0.36507937
+org.apache.camel.component.routebox.RouteboxEndpoint		0.35714287
+org.apache.camel.component.routebox.RouteboxComponent		0.34146342
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-routebox/target/site/clover/org/apache/camel/component/routebox/RouteboxSedaTest
+RouteboxSedaTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-routebox/target/site/clover/org/apache/camel/component/routebox/RouteboxSedaTest_testRouteboxSedaAsyncRequests_3
+org.apache.camel.component.routebox.seda.RouteboxSedaConsumer		0.76119405
+org.apache.camel.component.routebox.RouteboxComponent		0.73170733
+org.apache.camel.component.routebox.RouteboxServiceSupport		0.6
+org.apache.camel.component.routebox.seda.RouteboxSedaEndpoint		0.6
+org.apache.camel.component.routebox.seda.RouteboxSedaProducer		0.5588235
+org.apache.camel.component.routebox.RouteboxConfiguration		0.5248227
+org.apache.camel.component.routebox.strategy.RouteboxDispatcher		0.46753246
+org.apache.camel.component.routebox.RouteboxEndpoint		0.35714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-routebox/target/site/clover/org/apache/camel/component/routebox/demo/RouteboxDemoTestSupport
+RouteboxDemoTestSupport		1.0
+RouteboxDemoTestSupport.SimpleRouteDispatchStrategy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-routebox/target/site/clover/org/apache/camel/component/routebox/demo/test-RouteboxDemoTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-routebox/target/site/clover/org/apache/camel/component/routebox/demo/test-RouteboxDemoTestSupport_SimpleRouteDispatchStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-routebox/target/site/clover/org/apache/camel/component/routebox/test-RouteboxDefaultContextAndRouteBuilderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-routebox/target/site/clover/org/apache/camel/component/routebox/test-RouteboxDirectProducerOnlyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-routebox/target/site/clover/org/apache/camel/component/routebox/test-RouteboxDirectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-routebox/target/site/clover/org/apache/camel/component/routebox/test-RouteboxDispatchMapTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-routebox/target/site/clover/org/apache/camel/component/routebox/test-RouteboxSedaTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

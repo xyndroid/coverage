@@ -1,0 +1,96 @@
+./components/camel-swagger-java/target/site/clover/org/apache/camel
+./components/camel-swagger-java/target/site/clover/org/apache/camel/swagger/RestSwaggerReaderApiDocsOverrideTest
+RestSwaggerReaderApiDocsOverrideTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-swagger-java/target/site/clover/org/apache/camel/swagger/RestSwaggerReaderApiDocsOverrideTest_testReaderRead_5
+org.apache.camel.swagger.RestSwaggerReader.VerbOrdering		0.7647059
+org.apache.camel.swagger.SwaggerHelper		0.46153846
+org.apache.camel.swagger.RestSwaggerReader		0.3363431
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-swagger-java/target/site/clover/org/apache/camel/swagger/RestSwaggerReaderApiDocsTest
+RestSwaggerReaderApiDocsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-swagger-java/target/site/clover/org/apache/camel/swagger/RestSwaggerReaderApiDocsTest_testReaderRead_d
+org.apache.camel.swagger.RestSwaggerReader.VerbOrdering		0.7647059
+org.apache.camel.swagger.SwaggerHelper		0.46153846
+org.apache.camel.swagger.RestSwaggerReader		0.30248308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-swagger-java/target/site/clover/org/apache/camel/swagger/RestSwaggerReaderDayOfWeekTest
+RestSwaggerReaderDayOfWeekTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-swagger-java/target/site/clover/org/apache/camel/swagger/RestSwaggerReaderDayOfWeekTest_testReaderRead_2
+org.apache.camel.swagger.RestModelConverters		0.7777778
+org.apache.camel.swagger.RestSwaggerReader		0.46275395
+org.apache.camel.swagger.SwaggerHelper		0.46153846
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-swagger-java/target/site/clover/org/apache/camel/swagger/RestSwaggerReaderModelBookOrderTest
+RestSwaggerReaderModelBookOrderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-swagger-java/target/site/clover/org/apache/camel/swagger/RestSwaggerReaderModelBookOrderTest_testReaderRead_b
+org.apache.camel.swagger.RestModelConverters		0.8888889
+org.apache.camel.swagger.RestSwaggerReader.VerbOrdering		0.7647059
+org.apache.camel.swagger.SwaggerHelper		0.46153846
+org.apache.camel.swagger.RestSwaggerReader		0.44469526
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-swagger-java/target/site/clover/org/apache/camel/swagger/RestSwaggerReaderModelTest
+RestSwaggerReaderModelTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-swagger-java/target/site/clover/org/apache/camel/swagger/RestSwaggerReaderModelTest_testReaderRead_4
+org.apache.camel.swagger.RestSwaggerReader.VerbOrdering		0.88235295
+org.apache.camel.swagger.RestModelConverters		0.7777778
+org.apache.camel.swagger.SwaggerHelper		0.7692308
+org.apache.camel.swagger.RestSwaggerReader		0.489842
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-swagger-java/target/site/clover/org/apache/camel/swagger/RestSwaggerReaderPropertyPlaceholderTest
+RestSwaggerReaderPropertyPlaceholderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-swagger-java/target/site/clover/org/apache/camel/swagger/RestSwaggerReaderPropertyPlaceholderTest_testReaderRead_1
+org.apache.camel.swagger.RestSwaggerReader.VerbOrdering		0.7647059
+org.apache.camel.swagger.SwaggerHelper		0.46153846
+org.apache.camel.swagger.RestSwaggerReader		0.34085777
+org.apache.camel.swagger.RestSwaggerSupport		0.12955466
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-swagger-java/target/site/clover/org/apache/camel/swagger/RestSwaggerReaderTest
+RestSwaggerReaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-swagger-java/target/site/clover/org/apache/camel/swagger/RestSwaggerReaderTest_testReaderRead_8
+org.apache.camel.swagger.RestSwaggerReader.VerbOrdering		0.7647059
+org.apache.camel.swagger.SwaggerHelper		0.46153846
+org.apache.camel.swagger.RestSwaggerReader		0.34085777
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-swagger-java/target/site/clover/org/apache/camel/swagger/SwaggerRestProducerFactoryTest
+SwaggerRestProducerFactoryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-swagger-java/target/site/clover/org/apache/camel/swagger/SwaggerRestProducerFactoryTest_shouldLoadSwaggerPetStoreModel_9
+org.apache.camel.swagger.SwaggerRestProducerFactory		0.057971016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-swagger-java/target/site/clover/org/apache/camel/swagger/producer/RestSwaggerGetTest
+RestSwaggerGetTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-swagger-java/target/site/clover/org/apache/camel/swagger/producer/RestSwaggerGetTest_testSwaggerGet_f
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-swagger-java/target/site/clover/org/apache/camel/swagger/producer/RestSwaggerGetUriParamTest
+RestSwaggerGetUriParamTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-swagger-java/target/site/clover/org/apache/camel/swagger/producer/RestSwaggerGetUriParamTest_testSwaggerGet_h
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-swagger-java/target/site/clover/org/apache/camel/swagger/producer/test-RestSwaggerGetTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-swagger-java/target/site/clover/org/apache/camel/swagger/producer/test-RestSwaggerGetUriParamTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-swagger-java/target/site/clover/org/apache/camel/swagger/test-RestSwaggerReaderApiDocsOverrideTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-swagger-java/target/site/clover/org/apache/camel/swagger/test-RestSwaggerReaderApiDocsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-swagger-java/target/site/clover/org/apache/camel/swagger/test-RestSwaggerReaderDayOfWeekTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-swagger-java/target/site/clover/org/apache/camel/swagger/test-RestSwaggerReaderModelBookOrderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-swagger-java/target/site/clover/org/apache/camel/swagger/test-RestSwaggerReaderModelTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-swagger-java/target/site/clover/org/apache/camel/swagger/test-RestSwaggerReaderPropertyPlaceholderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-swagger-java/target/site/clover/org/apache/camel/swagger/test-RestSwaggerReaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-swagger-java/target/site/clover/org/apache/camel/swagger/test-SwaggerRestProducerFactoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

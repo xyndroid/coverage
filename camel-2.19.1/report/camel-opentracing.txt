@@ -1,0 +1,456 @@
+./components/camel-opentracing/target/site/clover/org/apache/camel
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/ABCRouteTest
+ABCRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/ABCRouteTest_testRoute_1h
+org.apache.camel.opentracing.decorators.AbstractInternalSpanDecorator		1.0
+org.apache.camel.opentracing.ActiveSpanManager.Holder		1.0
+org.apache.camel.opentracing.ActiveSpanManager		0.875
+org.apache.camel.opentracing.OpenTracingTracer.OpenTracingLogListener		0.8181818
+org.apache.camel.opentracing.OpenTracingTracer.OpenTracingEventNotifier		0.8039216
+org.apache.camel.opentracing.OpenTracingTracer.OpenTracingRoutePolicy		0.6785714
+org.apache.camel.opentracing.propagation.CamelHeadersExtractAdapter		0.6666667
+org.apache.camel.opentracing.propagation.CamelHeadersInjectAdapter		0.6666667
+org.apache.camel.opentracing.decorators.LogSpanDecorator		0.5
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.44
+org.apache.camel.opentracing.OpenTracingTracer		0.08064516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/ActiveSpanManagerTest
+ActiveSpanManagerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/ActiveSpanManagerTest_testCreateChild_c
+org.apache.camel.opentracing.ActiveSpanManager.Holder		1.0
+org.apache.camel.opentracing.ActiveSpanManager		0.75
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/ActiveSpanManagerTest_testCurrentSpan_1k
+org.apache.camel.opentracing.ActiveSpanManager.Holder		1.0
+org.apache.camel.opentracing.ActiveSpanManager		0.875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/ActiveSpanManagerTest_testIsolatedConcurrentExchanges_5
+org.apache.camel.opentracing.ActiveSpanManager.Holder		1.0
+org.apache.camel.opentracing.ActiveSpanManager		0.75
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/ActiveSpanManagerTest_testNoSpan_o
+org.apache.camel.opentracing.ActiveSpanManager		0.3125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/CamelOpenTracingTestSupport
+CamelOpenTracingTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/ClientRecipientListRouteTest
+ClientRecipientListRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/ClientRecipientListRouteTest_testRoute_9
+org.apache.camel.opentracing.decorators.AbstractInternalSpanDecorator		1.0
+org.apache.camel.opentracing.ActiveSpanManager.Holder		1.0
+org.apache.camel.opentracing.ActiveSpanManager		0.875
+org.apache.camel.opentracing.OpenTracingTracer.OpenTracingLogListener		0.8181818
+org.apache.camel.opentracing.OpenTracingTracer.OpenTracingEventNotifier		0.7254902
+org.apache.camel.opentracing.OpenTracingTracer.OpenTracingRoutePolicy		0.6785714
+org.apache.camel.opentracing.propagation.CamelHeadersExtractAdapter		0.6666667
+org.apache.camel.opentracing.propagation.CamelHeadersInjectAdapter		0.6666667
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.44
+org.apache.camel.opentracing.OpenTracingTracer		0.08064516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/MulticastParallelRouteTest
+MulticastParallelRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/MulticastParallelRouteTest_testRoute_2
+org.apache.camel.opentracing.decorators.AbstractInternalSpanDecorator		1.0
+org.apache.camel.opentracing.ActiveSpanManager.Holder		1.0
+org.apache.camel.opentracing.ActiveSpanManager		0.875
+org.apache.camel.opentracing.OpenTracingTracer.OpenTracingLogListener		0.8181818
+org.apache.camel.opentracing.OpenTracingTracer.OpenTracingEventNotifier		0.7254902
+org.apache.camel.opentracing.OpenTracingTracer.OpenTracingRoutePolicy		0.6785714
+org.apache.camel.opentracing.propagation.CamelHeadersExtractAdapter		0.6666667
+org.apache.camel.opentracing.propagation.CamelHeadersInjectAdapter		0.6666667
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.44
+org.apache.camel.opentracing.OpenTracingTracer		0.08064516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/MulticastRouteTest
+MulticastRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/MulticastRouteTest_testRoute_1p
+org.apache.camel.opentracing.decorators.AbstractInternalSpanDecorator		1.0
+org.apache.camel.opentracing.ActiveSpanManager.Holder		1.0
+org.apache.camel.opentracing.ActiveSpanManager		0.875
+org.apache.camel.opentracing.OpenTracingTracer.OpenTracingLogListener		0.8181818
+org.apache.camel.opentracing.OpenTracingTracer.OpenTracingEventNotifier		0.7254902
+org.apache.camel.opentracing.OpenTracingTracer.OpenTracingRoutePolicy		0.6785714
+org.apache.camel.opentracing.propagation.CamelHeadersExtractAdapter		0.6666667
+org.apache.camel.opentracing.propagation.CamelHeadersInjectAdapter		0.6666667
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.44
+org.apache.camel.opentracing.OpenTracingTracer		0.08064516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/OpentracingSpanCollectorInRegistryTest
+OpentracingSpanCollectorInRegistryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/OpentracingSpanCollectorInRegistryTest_testZipkinConfiguration_3
+org.apache.camel.opentracing.OpenTracingTracer		0.032258064
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/RouteConcurrentTest
+RouteConcurrentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/RouteConcurrentTest_testConcurrentInvocationsOfRoute_0
+org.apache.camel.opentracing.decorators.AbstractInternalSpanDecorator		1.0
+org.apache.camel.opentracing.ActiveSpanManager.Holder		1.0
+org.apache.camel.opentracing.ActiveSpanManager		0.875
+org.apache.camel.opentracing.OpenTracingTracer.OpenTracingLogListener		0.8181818
+org.apache.camel.opentracing.OpenTracingTracer.OpenTracingEventNotifier		0.7254902
+org.apache.camel.opentracing.OpenTracingTracer.OpenTracingRoutePolicy		0.6785714
+org.apache.camel.opentracing.propagation.CamelHeadersExtractAdapter		0.6666667
+org.apache.camel.opentracing.propagation.CamelHeadersInjectAdapter		0.6666667
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.46
+org.apache.camel.opentracing.OpenTracingTracer		0.08064516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/RouteConcurrentTest_testSingleInvocationsOfRoute_12
+org.apache.camel.opentracing.decorators.AbstractInternalSpanDecorator		1.0
+org.apache.camel.opentracing.ActiveSpanManager.Holder		1.0
+org.apache.camel.opentracing.ActiveSpanManager		0.875
+org.apache.camel.opentracing.OpenTracingTracer.OpenTracingLogListener		0.8181818
+org.apache.camel.opentracing.OpenTracingTracer.OpenTracingEventNotifier		0.7254902
+org.apache.camel.opentracing.OpenTracingTracer.OpenTracingRoutePolicy		0.6785714
+org.apache.camel.opentracing.propagation.CamelHeadersExtractAdapter		0.6666667
+org.apache.camel.opentracing.propagation.CamelHeadersInjectAdapter		0.6666667
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.46
+org.apache.camel.opentracing.OpenTracingTracer		0.08064516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/SpanTestData
+SpanTestData		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/SpringOpenTracingSimpleRouteTest
+SpringOpenTracingSimpleRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/SpringOpenTracingSimpleRouteTest_testRoute_1o
+org.apache.camel.opentracing.decorators.AbstractInternalSpanDecorator		1.0
+org.apache.camel.opentracing.ActiveSpanManager.Holder		1.0
+org.apache.camel.opentracing.ActiveSpanManager		0.875
+org.apache.camel.opentracing.OpenTracingTracer.OpenTracingLogListener		0.8181818
+org.apache.camel.opentracing.OpenTracingTracer.OpenTracingEventNotifier		0.7254902
+org.apache.camel.opentracing.OpenTracingTracer.OpenTracingRoutePolicy		0.6785714
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.44
+org.apache.camel.opentracing.propagation.CamelHeadersExtractAdapter		0.33333334
+org.apache.camel.opentracing.propagation.CamelHeadersInjectAdapter		0.22222222
+org.apache.camel.opentracing.OpenTracingTracer		0.08064516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/TestSEDASpanDecorator
+TestSEDASpanDecorator		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/TwoServiceTest
+TwoServiceTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/TwoServiceTest_testRoute_a
+org.apache.camel.opentracing.decorators.AbstractInternalSpanDecorator		1.0
+org.apache.camel.opentracing.ActiveSpanManager.Holder		1.0
+org.apache.camel.opentracing.ActiveSpanManager		0.875
+org.apache.camel.opentracing.OpenTracingTracer.OpenTracingLogListener		0.8181818
+org.apache.camel.opentracing.OpenTracingTracer.OpenTracingEventNotifier		0.7254902
+org.apache.camel.opentracing.OpenTracingTracer.OpenTracingRoutePolicy		0.6785714
+org.apache.camel.opentracing.propagation.CamelHeadersExtractAdapter		0.6666667
+org.apache.camel.opentracing.propagation.CamelHeadersInjectAdapter		0.6666667
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.44
+org.apache.camel.opentracing.OpenTracingTracer		0.08064516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/agent/InstallOpenTracingTracerRuleTest
+InstallOpenTracingTracerRuleTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/agent/test-InstallOpenTracingTracerRuleTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/AbstractHttpSpanDecoratorTest
+AbstractHttpSpanDecoratorTest		0.8803419
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/AbstractHttpSpanDecoratorTest_testGetHttpURLFromEndpointUriWithAdditionalScheme_k
+org.apache.camel.opentracing.decorators.AbstractHttpSpanDecorator		0.19642857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/AbstractHttpSpanDecoratorTest_testGetHttpURLFromEndpointUri_b
+org.apache.camel.opentracing.decorators.AbstractHttpSpanDecorator		0.19642857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/AbstractHttpSpanDecoratorTest_testGetHttpURLFromHeaderUri_15
+org.apache.camel.opentracing.decorators.AbstractHttpSpanDecorator		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/AbstractHttpSpanDecoratorTest_testGetHttpURLFromHeaderUrl_14
+org.apache.camel.opentracing.decorators.AbstractHttpSpanDecorator		0.08928572
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/AbstractHttpSpanDecoratorTest_testGetMethodBodyNotNull_q
+org.apache.camel.opentracing.decorators.AbstractHttpSpanDecorator		0.19642857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/AbstractHttpSpanDecoratorTest_testGetMethodDefault_1
+org.apache.camel.opentracing.decorators.AbstractHttpSpanDecorator		0.19642857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/AbstractHttpSpanDecoratorTest_testGetMethodFromMethodHeader_r
+org.apache.camel.opentracing.decorators.AbstractHttpSpanDecorator		0.08928572
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/AbstractHttpSpanDecoratorTest_testGetMethodQueryStringHeader_10
+org.apache.camel.opentracing.decorators.AbstractHttpSpanDecorator		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/AbstractHttpSpanDecoratorTest_testGetMethodQueryStringInEndpoint_u
+org.apache.camel.opentracing.decorators.AbstractHttpSpanDecorator		0.16071428
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/AbstractHttpSpanDecoratorTest_testGetOperationName_w
+org.apache.camel.opentracing.decorators.AbstractHttpSpanDecorator		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/AbstractHttpSpanDecoratorTest_testPostResponseCode_n
+org.apache.camel.opentracing.decorators.AbstractHttpSpanDecorator		0.14285715
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.06
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/AbstractHttpSpanDecoratorTest_testPreUri_1c
+org.apache.camel.opentracing.decorators.AbstractHttpSpanDecorator		0.4642857
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.06
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/AbstractMessagingSpanDecoratorTest
+AbstractMessagingSpanDecoratorTest		0.8064516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/AbstractMessagingSpanDecoratorTest_testOperationName_t
+org.apache.camel.opentracing.decorators.AbstractMessagingSpanDecorator		0.22222222
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/AbstractMessagingSpanDecoratorTest_testPreMessageBusDestination_v
+org.apache.camel.opentracing.decorators.AbstractMessagingSpanDecorator		0.5555556
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.26
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/AbstractMessagingSpanDecoratorTest_testPreMessageId_7
+org.apache.camel.opentracing.decorators.AbstractMessagingSpanDecorator		0.5
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.22
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/AbstractSpanDecoratorTest
+AbstractSpanDecoratorTest		0.8666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/AbstractSpanDecoratorTest_testGetOperationName_1l
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/AbstractSpanDecoratorTest_testPostExchangeFailed_y
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.22
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/AbstractSpanDecoratorTest_testPre_e
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.06
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/AbstractSpanDecoratorTest_testStripSchemeAndOptions_h
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.16
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/AbstractSpanDecoratorTest_testStripSchemeNoOptionsWithSlashes_1i
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/AbstractSpanDecoratorTest_testStripSchemeNoOptions_f
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.16
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/AwsSnsSpanDecoratorTest
+AwsSnsSpanDecoratorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/AwsSnsSpanDecoratorTest_testGetMessageId_m
+org.apache.camel.opentracing.decorators.AwsSnsSpanDecorator		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/AwsSqsSpanDecoratorTest
+AwsSqsSpanDecoratorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/AwsSqsSpanDecoratorTest_testGetMessageId_1b
+org.apache.camel.opentracing.decorators.AwsSqsSpanDecorator		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/CometdSpanDecoratorTest
+CometdSpanDecoratorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/CometdSpanDecoratorTest_testGetDestination_1g
+org.apache.camel.opentracing.decorators.CometdSpanDecorator		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/CqlSpanDecoratorTest
+CqlSpanDecoratorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/CqlSpanDecoratorTest_testPreCqlFromHeader_g
+org.apache.camel.opentracing.decorators.CqlSpanDecorator		0.5
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.06
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/CqlSpanDecoratorTest_testPreCqlFromUri_1d
+org.apache.camel.opentracing.decorators.CqlSpanDecorator		0.7
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/ElasticsearchSpanDecoratorTest
+ElasticsearchSpanDecoratorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/ElasticsearchSpanDecoratorTest_testOperationName_18
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.24
+org.apache.camel.opentracing.decorators.ElasticsearchSpanDecorator		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/ElasticsearchSpanDecoratorTest_testPre_4
+org.apache.camel.opentracing.decorators.ElasticsearchSpanDecorator		0.55
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/IronmqSpanDecoratorTest
+IronmqSpanDecoratorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/IronmqSpanDecoratorTest_testGetMessageId_l
+org.apache.camel.opentracing.decorators.IronmqSpanDecorator		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/JdbcSpanDecoratorTest
+JdbcSpanDecoratorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/JdbcSpanDecoratorTest_testPre_19
+org.apache.camel.opentracing.decorators.JdbcSpanDecorator		0.7
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.06
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/JmsSpanDecoratorTest
+JmsSpanDecoratorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/JmsSpanDecoratorTest_testGetMessageId_1e
+org.apache.camel.opentracing.decorators.JmsSpanDecorator		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/KafkaSpanDecoratorTest
+KafkaSpanDecoratorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/KafkaSpanDecoratorTest_testGetDestinationHeaderTopic_8
+org.apache.camel.opentracing.decorators.KafkaSpanDecorator		0.1764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/KafkaSpanDecoratorTest_testGetDestinationNoHeaderTopic_d
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.24
+org.apache.camel.opentracing.decorators.KafkaSpanDecorator		0.23529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/KafkaSpanDecoratorTest_testPre_1q
+org.apache.camel.opentracing.decorators.KafkaSpanDecorator		0.7647059
+org.apache.camel.opentracing.decorators.AbstractMessagingSpanDecorator		0.5555556
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.32
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/MongoDBSpanDecoratorTest
+MongoDBSpanDecoratorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/MongoDBSpanDecoratorTest_testGetOperationName_z
+org.apache.camel.opentracing.decorators.MongoDBSpanDecorator		0.3
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.24
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/MongoDBSpanDecoratorTest_testPre_1n
+org.apache.camel.opentracing.decorators.MongoDBSpanDecorator		0.55
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/MongoDBSpanDecoratorTest_testToQueryParameters_11
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.24
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/MqttSpanDecoratorTest
+MqttSpanDecoratorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/MqttSpanDecoratorTest_testGetDestinationPublish_1a
+org.apache.camel.opentracing.decorators.MqttSpanDecorator		0.5833333
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.24
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/MqttSpanDecoratorTest_testGetDestinationSubscribe_j
+org.apache.camel.opentracing.decorators.MqttSpanDecorator		0.5
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.24
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/MqttSpanDecoratorTest_testGetOperationName_p
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.2
+org.apache.camel.opentracing.decorators.MqttSpanDecorator		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/RabbitmqSpanDecoratorTest
+RabbitmqSpanDecoratorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/RabbitmqSpanDecoratorTest_testGetDestinationHeaderTopic_1m
+org.apache.camel.opentracing.decorators.RabbitmqSpanDecorator		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/RestSpanDecoratorTest
+RestSpanDecoratorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/RestSpanDecoratorTest_testGetOperation_17
+org.apache.camel.opentracing.decorators.RestSpanDecorator		0.296875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/RestSpanDecoratorTest_testGetParametersNone_16
+org.apache.camel.opentracing.decorators.RestSpanDecorator		0.109375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/RestSpanDecoratorTest_testGetParameters_1f
+org.apache.camel.opentracing.decorators.RestSpanDecorator		0.265625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/RestSpanDecoratorTest_testGetPath_i
+org.apache.camel.opentracing.decorators.RestSpanDecorator		0.265625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/RestSpanDecoratorTest_testPreBooleanParameter_6
+org.apache.camel.opentracing.decorators.RestSpanDecorator		0.71875
+org.apache.camel.opentracing.decorators.AbstractHttpSpanDecorator		0.4642857
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.06
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/RestSpanDecoratorTest_testPreNumberParameter_s
+org.apache.camel.opentracing.decorators.RestSpanDecorator		0.6875
+org.apache.camel.opentracing.decorators.AbstractHttpSpanDecorator		0.4642857
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.06
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/RestSpanDecoratorTest_testPreStringParameter_1r
+org.apache.camel.opentracing.decorators.RestSpanDecorator		0.65625
+org.apache.camel.opentracing.decorators.AbstractHttpSpanDecorator		0.4642857
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.06
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/SqlSpanDecoratorTest
+SqlSpanDecoratorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/SqlSpanDecoratorTest_testPre_1j
+org.apache.camel.opentracing.decorators.SqlSpanDecorator		0.7
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.06
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/StompSpanDecoratorTest
+StompSpanDecoratorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/StompSpanDecoratorTest_testGetDestination_x
+org.apache.camel.opentracing.decorators.StompSpanDecorator		0.6666667
+org.apache.camel.opentracing.decorators.AbstractSpanDecorator		0.16
+org.apache.camel.opentracing.decorators.AbstractMessagingSpanDecorator		0.11111111
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/TimerSpanDecoratorTest
+TimerSpanDecoratorTest		0.71428573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/TimerSpanDecoratorTest_testGetOperationName_13
+org.apache.camel.opentracing.decorators.TimerSpanDecorator		0.5555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/test-AbstractHttpSpanDecoratorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/test-AbstractMessagingSpanDecoratorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/test-AbstractSpanDecoratorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/test-AwsSnsSpanDecoratorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/test-AwsSqsSpanDecoratorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/test-CometdSpanDecoratorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/test-CqlSpanDecoratorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/test-ElasticsearchSpanDecoratorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/test-IronmqSpanDecoratorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/test-JdbcSpanDecoratorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/test-JmsSpanDecoratorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/test-KafkaSpanDecoratorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/test-MongoDBSpanDecoratorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/test-MqttSpanDecoratorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/test-RabbitmqSpanDecoratorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/test-RestSpanDecoratorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/test-SqlSpanDecoratorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/test-StompSpanDecoratorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/decorators/test-TimerSpanDecoratorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/test-ABCRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/test-ActiveSpanManagerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/test-CamelOpenTracingTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/test-ClientRecipientListRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/test-MulticastParallelRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/test-MulticastRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/test-OpentracingSpanCollectorInRegistryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/test-RouteConcurrentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/test-SpanTestData
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/test-SpringOpenTracingSimpleRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/test-TestSEDASpanDecorator
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-opentracing/target/site/clover/org/apache/camel/opentracing/test-TwoServiceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

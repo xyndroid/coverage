@@ -1,0 +1,55 @@
+./components/camel-vertx/target/site/clover/org/apache/camel
+./components/camel-vertx/target/site/clover/org/apache/camel/component/vertx/VertxBaseTestSupport
+VertxBaseTestSupport		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-vertx/target/site/clover/org/apache/camel/component/vertx/VertxMultipleConsumerTest
+VertxMultipleConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-vertx/target/site/clover/org/apache/camel/component/vertx/VertxMultipleConsumerTest_shouldSendMessageToMultpleConsumers_3
+org.apache.camel.component.vertx.VertxHelper		0.73333335
+org.apache.camel.component.vertx.VertxProducer		0.5945946
+org.apache.camel.component.vertx.VertxEndpoint		0.4848485
+org.apache.camel.component.vertx.VertxConsumer		0.27083334
+org.apache.camel.component.vertx.VertxComponent		0.02173913
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-vertx/target/site/clover/org/apache/camel/component/vertx/VertxRequestReplyTest
+VertxRequestReplyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-vertx/target/site/clover/org/apache/camel/component/vertx/VertxRequestReplyTest_testVertxMessages_2
+org.apache.camel.component.vertx.VertxProducer.CamelReplyHandler		0.84615386
+org.apache.camel.component.vertx.VertxHelper		0.8
+org.apache.camel.component.vertx.VertxProducer		0.45945945
+org.apache.camel.component.vertx.VertxConsumer		0.375
+org.apache.camel.component.vertx.VertxEndpoint		0.36363637
+org.apache.camel.component.vertx.VertxComponent		0.02173913
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-vertx/target/site/clover/org/apache/camel/component/vertx/VertxRoutePubSubTest
+VertxRoutePubSubTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-vertx/target/site/clover/org/apache/camel/component/vertx/VertxRoutePubSubTest_testVertxMessages_0
+org.apache.camel.component.vertx.VertxHelper		0.73333335
+org.apache.camel.component.vertx.VertxProducer		0.5945946
+org.apache.camel.component.vertx.VertxEndpoint		0.4848485
+org.apache.camel.component.vertx.VertxConsumer		0.27083334
+org.apache.camel.component.vertx.VertxComponent		0.02173913
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-vertx/target/site/clover/org/apache/camel/component/vertx/VertxRouteTest
+VertxRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-vertx/target/site/clover/org/apache/camel/component/vertx/VertxRouteTest_testVertxMessages_1
+org.apache.camel.component.vertx.VertxHelper		0.73333335
+org.apache.camel.component.vertx.VertxProducer		0.5945946
+org.apache.camel.component.vertx.VertxEndpoint		0.4848485
+org.apache.camel.component.vertx.VertxConsumer		0.27083334
+org.apache.camel.component.vertx.VertxComponent		0.02173913
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-vertx/target/site/clover/org/apache/camel/component/vertx/test-VertxBaseTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-vertx/target/site/clover/org/apache/camel/component/vertx/test-VertxMultipleConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-vertx/target/site/clover/org/apache/camel/component/vertx/test-VertxRequestReplyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-vertx/target/site/clover/org/apache/camel/component/vertx/test-VertxRoutePubSubTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-vertx/target/site/clover/org/apache/camel/component/vertx/test-VertxRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

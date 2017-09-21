@@ -1,0 +1,462 @@
+./components/camel-websocket/target/site/clover/org/apache/camel
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/DefaultWebsocketTest
+DefaultWebsocketTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/DefaultWebsocketTest_testGetConnectionKey_17
+org.apache.camel.component.websocket.DefaultWebsocket		0.23684211
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/DefaultWebsocketTest_testGetConnectionKey_n
+org.apache.camel.component.websocket.DefaultWebsocket		0.23684211
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/DefaultWebsocketTest_testGetConnection_15
+org.apache.camel.component.websocket.DefaultWebsocket		0.23684211
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/DefaultWebsocketTest_testGetConnection_1n
+org.apache.camel.component.websocket.DefaultWebsocket		0.23684211
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/DefaultWebsocketTest_testOnClose_13
+org.apache.camel.component.websocket.DefaultWebsocket		0.078947365
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/DefaultWebsocketTest_testOnMessageWithNullConsumer_1g
+org.apache.camel.component.websocket.DefaultWebsocket		0.28947368
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/DefaultWebsocketTest_testOnMessage_1p
+org.apache.camel.component.websocket.DefaultWebsocket		0.18421052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/DefaultWebsocketTest_testOnOpen_1d
+org.apache.camel.component.websocket.DefaultWebsocket		0.18421052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/MemoryWebsocketStoreTest
+MemoryWebsocketStoreTest		0.98630136
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/MemoryWebsocketStoreTest_testAddNullValue_k
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.17857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/MemoryWebsocketStoreTest_testAdd_1e
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/MemoryWebsocketStoreTest_testGetAll_1m
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/MemoryWebsocketStoreTest_testGetString_6
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/MemoryWebsocketStoreTest_testRemoveDefaultWebsocketKeyNotSet_4
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.64285713
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/MemoryWebsocketStoreTest_testRemoveDefaultWebsocket_h
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.5714286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/MemoryWebsocketStoreTest_testRemoveNotExisting_1h
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.5714286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/MemoryWebsocketStoreTest_testRemoveStringNotExisting_1a
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.5714286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/MemoryWebsocketStoreTest_testRemoveString_2
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.5714286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/NodeSynchronizationImplTest
+NodeSynchronizationImplTest		0.9846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/NodeSynchronizationImplTest_testAddNullValue_1q
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/NodeSynchronizationImplTest_testAddSocketMemoryAndGlobal_1c
+org.apache.camel.component.websocket.DefaultNodeSynchronization		0.5
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.5
+org.apache.camel.component.websocket.DefaultWebsocket		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/NodeSynchronizationImplTest_testAddSocketMemoryOnly_1
+org.apache.camel.component.websocket.DefaultNodeSynchronization		0.5
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.5
+org.apache.camel.component.websocket.DefaultWebsocket		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/NodeSynchronizationImplTest_testRemoveDefaultWebsocketKeyNotSet_l
+org.apache.camel.component.websocket.DefaultNodeSynchronization		0.75
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.64285713
+org.apache.camel.component.websocket.DefaultWebsocket		0.15789473
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/NodeSynchronizationImplTest_testRemoveDefaultWebsocket_g
+org.apache.camel.component.websocket.DefaultNodeSynchronization		0.75
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.5714286
+org.apache.camel.component.websocket.DefaultWebsocket		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/NodeSynchronizationImplTest_testRemoveNotExisting_3
+org.apache.camel.component.websocket.DefaultNodeSynchronization		0.75
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.5714286
+org.apache.camel.component.websocket.DefaultWebsocket		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/NodeSynchronizationImplTest_testRemoveStringNotExisting_w
+org.apache.camel.component.websocket.DefaultNodeSynchronization		0.75
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.5714286
+org.apache.camel.component.websocket.DefaultWebsocket		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/NodeSynchronizationImplTest_testRemoveString_b
+org.apache.camel.component.websocket.DefaultNodeSynchronization		0.75
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.5714286
+org.apache.camel.component.websocket.DefaultWebsocket		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketClientCamelRouteTest
+WebsocketClientCamelRouteTest		0.90909094
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketClientCamelRouteTest_testWSHttpCall_10
+org.apache.camel.component.websocket.DefaultWebsocketFactory		1.0
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.53571427
+org.apache.camel.component.websocket.DefaultWebsocket		0.5263158
+org.apache.camel.component.websocket.WebsocketConsumer		0.48
+org.apache.camel.component.websocket.WebsocketProducer		0.27906978
+org.apache.camel.component.websocket.DefaultNodeSynchronization		0.25
+org.apache.camel.component.websocket.WebsocketComponentServlet		0.114285715
+org.apache.camel.component.websocket.WebsocketEndpoint		0.03809524
+org.apache.camel.component.websocket.WebsocketComponent		0.010869565
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketComponentRouteExampleTest
+WebsocketComponentRouteExampleTest		0.8965517
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketComponentRouteExampleTest_testWSHttpCall_9
+org.apache.camel.component.websocket.DefaultWebsocketFactory		1.0
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.60714287
+org.apache.camel.component.websocket.DefaultWebsocket		0.6052632
+org.apache.camel.component.websocket.DefaultNodeSynchronization		0.5
+org.apache.camel.component.websocket.WebsocketConsumer		0.48
+org.apache.camel.component.websocket.WebsocketProducer		0.27906978
+org.apache.camel.component.websocket.WebsocketComponentServlet		0.114285715
+org.apache.camel.component.websocket.WebsocketEndpoint		0.03809524
+org.apache.camel.component.websocket.WebsocketComponent		0.010869565
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketComponentServletTest
+WebsocketComponentServletTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketComponentServletTest_testDoWebSocketConnectConsumerIsNull_c
+org.apache.camel.component.websocket.DefaultWebsocketFactory		1.0
+org.apache.camel.component.websocket.DefaultWebsocket		0.28947368
+org.apache.camel.component.websocket.WebsocketComponentServlet		0.25714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketComponentServletTest_testDoWebSocketConnect_z
+org.apache.camel.component.websocket.DefaultWebsocketFactory		1.0
+org.apache.camel.component.websocket.WebsocketComponentServlet		0.31428573
+org.apache.camel.component.websocket.DefaultWebsocket		0.28947368
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketComponentServletTest_testGetConsumer_11
+org.apache.camel.component.websocket.WebsocketComponentServlet		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketComponentServletTest_testGetConsumer_14
+org.apache.camel.component.websocket.WebsocketComponentServlet		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketComponentTest
+WebsocketComponentTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketConsumerRouteTest
+WebsocketConsumerRouteTest		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketConsumerTest
+WebsocketConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketConsumerTest_testSendExchangeWithException_u
+org.apache.camel.component.websocket.WebsocketConsumer		0.52
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketConsumerTest_testSendExchangeWithExchangeExceptionIsNull_a
+org.apache.camel.component.websocket.WebsocketConsumer		0.48
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketConsumerTest_testSendExchange_e
+org.apache.camel.component.websocket.WebsocketConsumer		0.48
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketEndpointConfigurationTest
+WebsocketEndpointConfigurationTest		0.7222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketEndpointConfigurationTest_testSetServletInitalparameters_19
+org.apache.camel.component.websocket.WebsocketComponent.ConnectorRef		0.6666667
+org.apache.camel.component.websocket.WebsocketEndpoint		0.60952383
+org.apache.camel.component.websocket.WebsocketComponent		0.45434782
+org.apache.camel.component.websocket.WebsocketComponentServlet		0.37142858
+org.apache.camel.component.websocket.WebsocketConsumer		0.28
+org.apache.camel.component.websocket.DefaultNodeSynchronization		0.25
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.035714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketEndpointConfigurationTest_testSetServletNoMinThreadsNoMaxThreadsNoThreadPool_12
+org.apache.camel.component.websocket.WebsocketComponent.ConnectorRef		0.6666667
+org.apache.camel.component.websocket.WebsocketEndpoint		0.53333336
+org.apache.camel.component.websocket.WebsocketComponent		0.3478261
+org.apache.camel.component.websocket.WebsocketConsumer		0.2
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.035714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketEndpointConfigurationTest_testSetServletNoMinThreadsNoMaxThreadsNoThreadPool_o
+org.apache.camel.component.websocket.WebsocketComponent.ConnectorRef		0.6666667
+org.apache.camel.component.websocket.WebsocketEndpoint		0.53333336
+org.apache.camel.component.websocket.WebsocketComponent		0.3478261
+org.apache.camel.component.websocket.WebsocketConsumer		0.2
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.035714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketEndpointConfigurationTest_testSetServletNoMinThreadsNoMaxThreadsNoThreadPool_t
+org.apache.camel.component.websocket.WebsocketComponent.ConnectorRef		0.6666667
+org.apache.camel.component.websocket.WebsocketEndpoint		0.53333336
+org.apache.camel.component.websocket.WebsocketComponent		0.3478261
+org.apache.camel.component.websocket.WebsocketConsumer		0.2
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.035714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketEndpointConfigurationTest_testSetServletThreadPool_d
+org.apache.camel.component.websocket.WebsocketComponent.ConnectorRef		0.6666667
+org.apache.camel.component.websocket.WebsocketEndpoint		0.5714286
+org.apache.camel.component.websocket.WebsocketComponent		0.41956523
+org.apache.camel.component.websocket.WebsocketComponentServlet		0.37142858
+org.apache.camel.component.websocket.WebsocketConsumer		0.28
+org.apache.camel.component.websocket.DefaultNodeSynchronization		0.25
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.035714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketEndpointTest
+WebsocketEndpointTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketProducerRouteExampleTest
+WebsocketProducerRouteExampleTest		0.9019608
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketProducerRouteExampleTest_testWSBytesHttpCall_1l
+org.apache.camel.component.websocket.DefaultWebsocketFactory		1.0
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.60714287
+org.apache.camel.component.websocket.DefaultNodeSynchronization		0.5
+org.apache.camel.component.websocket.DefaultWebsocket		0.47368422
+org.apache.camel.component.websocket.WebsocketProducer		0.4496124
+org.apache.camel.component.websocket.WebsocketComponentServlet		0.114285715
+org.apache.camel.component.websocket.WebsocketEndpoint		0.03809524
+org.apache.camel.component.websocket.WebsocketComponent		0.010869565
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketProducerRouteExampleTest_testWSHttpCall_j
+org.apache.camel.component.websocket.DefaultWebsocketFactory		1.0
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.60714287
+org.apache.camel.component.websocket.DefaultNodeSynchronization		0.5
+org.apache.camel.component.websocket.DefaultWebsocket		0.47368422
+org.apache.camel.component.websocket.WebsocketProducer		0.42635658
+org.apache.camel.component.websocket.WebsocketComponentServlet		0.114285715
+org.apache.camel.component.websocket.WebsocketEndpoint		0.03809524
+org.apache.camel.component.websocket.WebsocketComponent		0.010869565
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketProducerRouteExampleTest_testWSHttpCall_m
+org.apache.camel.component.websocket.DefaultWebsocketFactory		1.0
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.53571427
+org.apache.camel.component.websocket.DefaultWebsocket		0.34210527
+org.apache.camel.component.websocket.DefaultNodeSynchronization		0.25
+org.apache.camel.component.websocket.WebsocketProducer		0.2015504
+org.apache.camel.component.websocket.WebsocketComponentServlet		0.114285715
+org.apache.camel.component.websocket.WebsocketEndpoint		0.01904762
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketProducerRouteRestartTest
+WebsocketProducerRouteRestartTest		0.95454544
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketProducerRouteRestartTest_testWSRemoveAddRoute_1j
+org.apache.camel.component.websocket.DefaultWebsocketFactory		1.0
+org.apache.camel.component.websocket.WebsocketComponent.ConnectorRef		0.8333333
+org.apache.camel.component.websocket.DefaultNodeSynchronization		0.75
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.71428573
+org.apache.camel.component.websocket.WebsocketProducer		0.53488374
+org.apache.camel.component.websocket.WebsocketEndpoint		0.53333336
+org.apache.camel.component.websocket.DefaultWebsocket		0.47368422
+org.apache.camel.component.websocket.WebsocketComponent		0.43695652
+org.apache.camel.component.websocket.WebsocketComponentServlet		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketProducerRouteRestartTest_testWSRemoveAddRoute_s
+org.apache.camel.component.websocket.DefaultWebsocketFactory		1.0
+org.apache.camel.component.websocket.WebsocketComponent.ConnectorRef		0.8333333
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.64285713
+org.apache.camel.component.websocket.WebsocketEndpoint		0.53333336
+org.apache.camel.component.websocket.DefaultNodeSynchronization		0.5
+org.apache.camel.component.websocket.WebsocketComponent		0.43695652
+org.apache.camel.component.websocket.DefaultWebsocket		0.34210527
+org.apache.camel.component.websocket.WebsocketProducer		0.31007752
+org.apache.camel.component.websocket.WebsocketComponentServlet		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketProducerRouteRestartTest_testWSStopStartRoute_8
+org.apache.camel.component.websocket.DefaultWebsocketFactory		1.0
+org.apache.camel.component.websocket.WebsocketComponent.ConnectorRef		0.8333333
+org.apache.camel.component.websocket.DefaultNodeSynchronization		0.75
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.71428573
+org.apache.camel.component.websocket.WebsocketProducer		0.53488374
+org.apache.camel.component.websocket.DefaultWebsocket		0.47368422
+org.apache.camel.component.websocket.WebsocketEndpoint		0.4
+org.apache.camel.component.websocket.WebsocketComponent		0.32826087
+org.apache.camel.component.websocket.WebsocketComponentServlet		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketProducerRouteRestartTest_testWSSuspendResumeRoute_q
+org.apache.camel.component.websocket.DefaultWebsocketFactory		1.0
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.60714287
+org.apache.camel.component.websocket.DefaultNodeSynchronization		0.5
+org.apache.camel.component.websocket.DefaultWebsocket		0.47368422
+org.apache.camel.component.websocket.WebsocketProducer		0.42635658
+org.apache.camel.component.websocket.WebsocketComponentServlet		0.114285715
+org.apache.camel.component.websocket.WebsocketEndpoint		0.03809524
+org.apache.camel.component.websocket.WebsocketComponent		0.010869565
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketProducerTest
+WebsocketProducerTest		0.98224854
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketProducerTest_testIsSendToAllSetHeaderNull_1k
+org.apache.camel.component.websocket.WebsocketProducer		0.031007752
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketProducerTest_testIsSendToAllSet_16
+org.apache.camel.component.websocket.WebsocketProducer		0.031007752
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketProducerTest_testProcessMultipleMessages_1b
+org.apache.camel.component.websocket.WebsocketProducer		0.3488372
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketProducerTest_testProcessSingleMessageNoConnectionKey_1f
+org.apache.camel.component.websocket.WebsocketSendException		0.5
+org.apache.camel.component.websocket.WebsocketProducer		0.11627907
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketProducerTest_testProcessSingleMessageWithException_p
+org.apache.camel.component.websocket.WebsocketSendException		0.5
+org.apache.camel.component.websocket.WebsocketProducer		0.27906978
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketProducerTest_testProcessSingleMessage_y
+org.apache.camel.component.websocket.WebsocketProducer		0.24031007
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketProducerTest_testSendMessageConnetionIsClosed_v
+org.apache.camel.component.websocket.WebsocketProducer		0.03875969
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketProducerTest_testSendMessage_i
+org.apache.camel.component.websocket.WebsocketProducer		0.069767445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketProducerTest_testSendToAllWithException_f
+org.apache.camel.component.websocket.WebsocketSendException		0.5
+org.apache.camel.component.websocket.WebsocketProducer		0.37209302
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketProducerTest_testSendToAll_18
+org.apache.camel.component.websocket.WebsocketProducer		0.25581396
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketRouteExampleTest
+WebsocketRouteExampleTest		0.89285713
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketRouteExampleTest_testWSHttpCall_r
+org.apache.camel.component.websocket.DefaultWebsocketFactory		1.0
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.60714287
+org.apache.camel.component.websocket.DefaultWebsocket		0.6052632
+org.apache.camel.component.websocket.DefaultNodeSynchronization		0.5
+org.apache.camel.component.websocket.WebsocketConsumer		0.48
+org.apache.camel.component.websocket.WebsocketProducer		0.27906978
+org.apache.camel.component.websocket.WebsocketComponentServlet		0.114285715
+org.apache.camel.component.websocket.WebsocketEndpoint		0.03809524
+org.apache.camel.component.websocket.WebsocketComponent		0.010869565
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketSSLContextGlobalRouteExampleTest
+WebsocketSSLContextGlobalRouteExampleTest		0.942029
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketSSLContextGlobalRouteExampleTest_testWSHttpCall_5
+org.apache.camel.component.websocket.DefaultWebsocketFactory		1.0
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.60714287
+org.apache.camel.component.websocket.DefaultWebsocket		0.6052632
+org.apache.camel.component.websocket.DefaultNodeSynchronization		0.5
+org.apache.camel.component.websocket.WebsocketConsumer		0.48
+org.apache.camel.component.websocket.WebsocketProducer		0.27906978
+org.apache.camel.component.websocket.WebsocketComponentServlet		0.114285715
+org.apache.camel.component.websocket.WebsocketEndpoint		0.03809524
+org.apache.camel.component.websocket.WebsocketComponent		0.010869565
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketSSLContextInUriRouteExampleTest
+WebsocketSSLContextInUriRouteExampleTest		0.9411765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketSSLContextInUriRouteExampleTest_testWSHttpCall_0
+org.apache.camel.component.websocket.DefaultWebsocketFactory		1.0
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.60714287
+org.apache.camel.component.websocket.DefaultWebsocket		0.6052632
+org.apache.camel.component.websocket.DefaultNodeSynchronization		0.5
+org.apache.camel.component.websocket.WebsocketConsumer		0.48
+org.apache.camel.component.websocket.WebsocketProducer		0.27906978
+org.apache.camel.component.websocket.WebsocketComponentServlet		0.114285715
+org.apache.camel.component.websocket.WebsocketEndpoint		0.03809524
+org.apache.camel.component.websocket.WebsocketComponent		0.010869565
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketSSLRouteExampleTest
+WebsocketSSLRouteExampleTest		0.9402985
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketSSLRouteExampleTest_testWSHttpCall_7
+org.apache.camel.component.websocket.DefaultWebsocketFactory		1.0
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.60714287
+org.apache.camel.component.websocket.DefaultWebsocket		0.6052632
+org.apache.camel.component.websocket.DefaultNodeSynchronization		0.5
+org.apache.camel.component.websocket.WebsocketConsumer		0.48
+org.apache.camel.component.websocket.WebsocketProducer		0.27906978
+org.apache.camel.component.websocket.WebsocketComponentServlet		0.114285715
+org.apache.camel.component.websocket.WebsocketEndpoint		0.03809524
+org.apache.camel.component.websocket.WebsocketComponent		0.010869565
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketTwoRoutesExampleTest
+WebsocketTwoRoutesExampleTest		0.875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketTwoRoutesExampleTest_testWSHttpCallEcho_x
+org.apache.camel.component.websocket.DefaultWebsocketFactory		1.0
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.60714287
+org.apache.camel.component.websocket.DefaultWebsocket		0.6052632
+org.apache.camel.component.websocket.DefaultNodeSynchronization		0.5
+org.apache.camel.component.websocket.WebsocketConsumer		0.48
+org.apache.camel.component.websocket.WebsocketProducer		0.27906978
+org.apache.camel.component.websocket.WebsocketComponentServlet		0.114285715
+org.apache.camel.component.websocket.WebsocketEndpoint		0.03809524
+org.apache.camel.component.websocket.WebsocketComponent		0.010869565
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketTwoRoutesToSIndividualAndBroadcastEndpointExampleTest
+WebsocketTwoRoutesToSIndividualAndBroadcastEndpointExampleTest		0.9032258
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketTwoRoutesToSIndividualAndBroadcastEndpointExampleTest_testWSHttpCallEcho_1i
+org.apache.camel.component.websocket.DefaultWebsocketFactory		1.0
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.6785714
+org.apache.camel.component.websocket.DefaultWebsocket		0.6052632
+org.apache.camel.component.websocket.WebsocketProducer		0.56589144
+org.apache.camel.component.websocket.DefaultNodeSynchronization		0.5
+org.apache.camel.component.websocket.WebsocketConsumer		0.48
+org.apache.camel.component.websocket.WebsocketComponentServlet		0.114285715
+org.apache.camel.component.websocket.WebsocketEndpoint		0.03809524
+org.apache.camel.component.websocket.WebsocketComponent		0.010869565
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketTwoRoutesToSameEndpointExampleTest
+WebsocketTwoRoutesToSameEndpointExampleTest		0.9032258
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/WebsocketTwoRoutesToSameEndpointExampleTest_testWSHttpCallEcho_1o
+org.apache.camel.component.websocket.DefaultWebsocketFactory		1.0
+org.apache.camel.component.websocket.MemoryWebsocketStore		0.60714287
+org.apache.camel.component.websocket.WebsocketProducer		0.56589144
+org.apache.camel.component.websocket.DefaultWebsocket		0.5263158
+org.apache.camel.component.websocket.WebsocketConsumer		0.48
+org.apache.camel.component.websocket.DefaultNodeSynchronization		0.25
+org.apache.camel.component.websocket.WebsocketComponentServlet		0.114285715
+org.apache.camel.component.websocket.WebsocketEndpoint		0.03809524
+org.apache.camel.component.websocket.WebsocketComponent		0.010869565
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/test-DefaultWebsocketTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/test-MemoryWebsocketStoreTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/test-NodeSynchronizationImplTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/test-WebsocketClientCamelRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/test-WebsocketComponentRouteExampleTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/test-WebsocketComponentServletTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/test-WebsocketComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/test-WebsocketConsumerRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/test-WebsocketConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/test-WebsocketEndpointConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/test-WebsocketEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/test-WebsocketProducerRouteExampleTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/test-WebsocketProducerRouteRestartTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/test-WebsocketProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/test-WebsocketRouteExampleTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/test-WebsocketSSLContextGlobalRouteExampleTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/test-WebsocketSSLContextInUriRouteExampleTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/test-WebsocketSSLRouteExampleTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/test-WebsocketTwoRoutesExampleTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/test-WebsocketTwoRoutesToSIndividualAndBroadcastEndpointExampleTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-websocket/target/site/clover/org/apache/camel/component/websocket/test-WebsocketTwoRoutesToSameEndpointExampleTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

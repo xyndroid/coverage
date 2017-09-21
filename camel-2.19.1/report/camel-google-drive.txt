@@ -1,0 +1,93 @@
+./components/camel-google-drive/target/site/clover/org/apache/camel
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/AbstractGoogleDriveTestSupport
+AbstractGoogleDriveTestSupport		0.5294118
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/CustomClientFactoryTest
+CustomClientFactoryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/CustomClientFactoryTest_testClientFactoryUpdated_1
+testClientFactoryUpdated
+org.apache.camel.component.google.drive.GoogleDriveEndpoint		0.029411765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/DriveAboutIntegrationTest
+DriveAboutIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/DriveAppsIntegrationTest
+DriveAppsIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/DriveChangesIntegrationTest
+DriveChangesIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/DriveChildrenIntegrationTest
+DriveChildrenIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/DriveCommentsIntegrationTest
+DriveCommentsIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/DriveConfigurationTest
+DriveConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/DriveConfigurationTest_testConfiguration_2
+testConfiguration
+org.apache.camel.component.google.drive.GoogleDriveConfiguration		0.3125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/DriveFilesIntegrationTest
+DriveFilesIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/DrivePermissionsIntegrationTest
+DrivePermissionsIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/DrivePropertiesIntegrationTest
+DrivePropertiesIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/DriveRepliesIntegrationTest
+DriveRepliesIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/DriveRevisionsIntegrationTest
+DriveRevisionsIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/FileConverterIntegrationTest
+FileConverterIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/FilesConsumerIntegrationTest
+FilesConsumerIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/GoogleDriveFilesConverterTest
+GoogleDriveFilesConverterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/GoogleDriveFilesConverterTest_converterTest_0
+converterTest
+org.apache.camel.component.google.drive.GoogleDriveFilesConverter		0.24
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/test-AbstractGoogleDriveTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/test-CustomClientFactoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/test-DriveAboutIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/test-DriveAppsIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/test-DriveChangesIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/test-DriveChildrenIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/test-DriveCommentsIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/test-DriveConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/test-DriveFilesIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/test-DrivePermissionsIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/test-DrivePropertiesIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/test-DriveRepliesIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/test-DriveRevisionsIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/test-FileConverterIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/test-FilesConsumerIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-drive/target/site/clover/org/apache/camel/component/google/drive/test-GoogleDriveFilesConverterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

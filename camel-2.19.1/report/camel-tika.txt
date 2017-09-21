@@ -1,0 +1,39 @@
+./components/camel-tika/target/site/clover/org/apache/camel
+./components/camel-tika/target/site/clover/org/apache/camel/component/tika/TikaDetectTest
+TikaDetectTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tika/target/site/clover/org/apache/camel/component/tika/TikaDetectTest_testDocumentDetect_1
+org.apache.camel.component.tika.TikaProducer		0.24691358
+org.apache.camel.component.tika.TikaConfiguration		0.08695652
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tika/target/site/clover/org/apache/camel/component/tika/TikaDetectTest_testImageDetect_6
+org.apache.camel.component.tika.TikaProducer		0.24691358
+org.apache.camel.component.tika.TikaConfiguration		0.08695652
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tika/target/site/clover/org/apache/camel/component/tika/TikaParseTest
+TikaParseTest		0.9775281
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tika/target/site/clover/org/apache/camel/component/tika/TikaParseTest_testDocumentParseWithEncoding_0
+org.apache.camel.component.tika.TikaProducer		0.60493827
+org.apache.camel.component.tika.TikaConfiguration		0.17391305
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tika/target/site/clover/org/apache/camel/component/tika/TikaParseTest_testDocumentParse_3
+org.apache.camel.component.tika.TikaProducer		0.60493827
+org.apache.camel.component.tika.TikaConfiguration		0.17391305
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tika/target/site/clover/org/apache/camel/component/tika/TikaParseTest_testEmptyConfigDocumentParse_5
+org.apache.camel.component.tika.TikaProducer		0.5802469
+org.apache.camel.component.tika.TikaConfiguration		0.17391305
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tika/target/site/clover/org/apache/camel/component/tika/TikaParseTest_testImageParse_2
+org.apache.camel.component.tika.TikaProducer		0.60493827
+org.apache.camel.component.tika.TikaConfiguration		0.17391305
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tika/target/site/clover/org/apache/camel/component/tika/TikaParseTest_testRegistryConfigDocumentParse_4
+org.apache.camel.component.tika.TikaProducer		0.5802469
+org.apache.camel.component.tika.TikaConfiguration		0.17391305
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tika/target/site/clover/org/apache/camel/component/tika/test-TikaDetectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-tika/target/site/clover/org/apache/camel/component/tika/test-TikaParseTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

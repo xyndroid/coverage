@@ -1,0 +1,26 @@
+./hbase-examples/target/site/clover/org/apache/hadoop/hbase
+./hbase-examples/target/site/clover/org/apache/hadoop/hbase/coprocessor/example/TestBulkDeleteProtocol
+TestBulkDeleteProtocol		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-examples/target/site/clover/org/apache/hadoop/hbase/coprocessor/example/TestRowCountEndpoint
+TestRowCountEndpoint		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-examples/target/site/clover/org/apache/hadoop/hbase/coprocessor/example/TestZooKeeperScanPolicyObserver
+TestZooKeeperScanPolicyObserver		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-examples/target/site/clover/org/apache/hadoop/hbase/coprocessor/example/test-TestBulkDeleteProtocol
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-examples/target/site/clover/org/apache/hadoop/hbase/coprocessor/example/test-TestRowCountEndpoint
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-examples/target/site/clover/org/apache/hadoop/hbase/coprocessor/example/test-TestZooKeeperScanPolicyObserver
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-examples/target/site/clover/org/apache/hadoop/hbase/mapreduce/TestMapReduceExamples
+TestMapReduceExamples		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-examples/target/site/clover/org/apache/hadoop/hbase/mapreduce/test-TestMapReduceExamples
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-examples/target/site/clover/org/apache/hadoop/hbase/types/TestPBCell
+TestPBCell		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-examples/target/site/clover/org/apache/hadoop/hbase/types/test-TestPBCell
+-- -- -- -- -- -- -- -- -- -- -- -- --

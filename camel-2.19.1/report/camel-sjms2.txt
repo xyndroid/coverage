@@ -1,0 +1,180 @@
+./components/camel-sjms2/target/site/clover/org/apache/camel
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/SimpleJms2ComponentTest
+SimpleJms2ComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/SimpleJms2ComponentTest_testHelloWorld_v
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/Sjms2ComponentRestartTest
+Sjms2ComponentRestartTest		0.6
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/Sjms2ComponentRestartTest_testRestartWithStopStart_d
+org.apache.camel.component.sjms2.Sjms2Component		1.0
+org.apache.camel.component.sjms2.Sjms2Endpoint		0.5
+org.apache.camel.component.sjms2.jms.Jms2ObjectFactory		0.35714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/Sjms2ComponentRestartTest_testRestartWithSuspendResume_6
+org.apache.camel.component.sjms2.Sjms2Component		1.0
+org.apache.camel.component.sjms2.Sjms2Endpoint		0.5
+org.apache.camel.component.sjms2.jms.Jms2ObjectFactory		0.35714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/Sjms2ComponentRestartTest_testRestartWithSuspendResume_c
+org.apache.camel.component.sjms2.Sjms2Component		1.0
+org.apache.camel.component.sjms2.Sjms2Endpoint		0.5
+org.apache.camel.component.sjms2.jms.Jms2ObjectFactory		0.35714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/Sjms2ComponentRestartTest_testRestartWithSuspendResume_u
+org.apache.camel.component.sjms2.Sjms2Component		1.0
+org.apache.camel.component.sjms2.Sjms2Endpoint		0.5
+org.apache.camel.component.sjms2.jms.Jms2ObjectFactory		0.35714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/Sjms2EndpointConnectionSettingsTest
+Sjms2EndpointConnectionSettingsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/Sjms2EndpointConnectionSettingsTest_testConnectionCount_g
+org.apache.camel.component.sjms2.Sjms2Component		1.0
+org.apache.camel.component.sjms2.Sjms2Endpoint		0.22727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/Sjms2EndpointConnectionSettingsTest_testConnectionFactory_9
+org.apache.camel.component.sjms2.Sjms2Component		1.0
+org.apache.camel.component.sjms2.Sjms2Endpoint		0.22727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/Sjms2EndpointConnectionSettingsTest_testConnectionResource_4
+org.apache.camel.component.sjms2.Sjms2Component		1.0
+org.apache.camel.component.sjms2.Sjms2Endpoint		0.13636364
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/Sjms2EndpointNameOverrideTest
+Sjms2EndpointNameOverrideTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/Sjms2EndpointNameOverrideTest_testDefaults_f
+org.apache.camel.component.sjms2.Sjms2Component		0.5
+org.apache.camel.component.sjms2.Sjms2Endpoint		0.22727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/Sjms2EndpointNameOverrideTest_testQueueEndpoint_e
+org.apache.camel.component.sjms2.Sjms2Component		0.5
+org.apache.camel.component.sjms2.Sjms2Endpoint		0.22727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/Sjms2EndpointNameOverrideTest_testTopicEndpoint_2
+org.apache.camel.component.sjms2.Sjms2Component		0.5
+org.apache.camel.component.sjms2.Sjms2Endpoint		0.22727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/Sjms2EndpointTest
+Sjms2EndpointTest		0.97196263
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/Sjms2EndpointTest_testAsyncProducer_n
+org.apache.camel.component.sjms2.Sjms2Component		0.5
+org.apache.camel.component.sjms2.Sjms2Endpoint		0.22727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/Sjms2EndpointTest_testDefaultExchangePattern_7
+org.apache.camel.component.sjms2.Sjms2Component		0.5
+org.apache.camel.component.sjms2.Sjms2Endpoint		0.22727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/Sjms2EndpointTest_testDefaults_1
+org.apache.camel.component.sjms2.Sjms2Component		0.5
+org.apache.camel.component.sjms2.Sjms2Endpoint		0.22727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/Sjms2EndpointTest_testDestinationName_r
+org.apache.camel.component.sjms2.Sjms2Component		0.5
+org.apache.camel.component.sjms2.Sjms2Endpoint		0.22727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/Sjms2EndpointTest_testInOnlyExchangePattern_k
+org.apache.camel.component.sjms2.Sjms2Component		0.5
+org.apache.camel.component.sjms2.Sjms2Endpoint		0.22727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/Sjms2EndpointTest_testInOutExchangePattern_p
+org.apache.camel.component.sjms2.Sjms2Component		0.5
+org.apache.camel.component.sjms2.Sjms2Endpoint		0.22727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/Sjms2EndpointTest_testJndiStyleEndpointName_5
+org.apache.camel.component.sjms2.Sjms2Component		0.5
+org.apache.camel.component.sjms2.Sjms2Endpoint		0.22727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/Sjms2EndpointTest_testNamedReplyToAndMEPMatch_h
+org.apache.camel.component.sjms2.Sjms2Component		0.5
+org.apache.camel.component.sjms2.Sjms2Endpoint		0.22727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/Sjms2EndpointTest_testNamedReplyToAndMEPMismatch_t
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/Sjms2EndpointTest_testNamedReplyTo_a
+org.apache.camel.component.sjms2.Sjms2Component		0.5
+org.apache.camel.component.sjms2.Sjms2Endpoint		0.22727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/Sjms2EndpointTest_testQueueEndpoint_i
+org.apache.camel.component.sjms2.Sjms2Component		0.5
+org.apache.camel.component.sjms2.Sjms2Endpoint		0.22727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/Sjms2EndpointTest_testSetTransacted_m
+org.apache.camel.component.sjms2.Sjms2Component		0.5
+org.apache.camel.component.sjms2.Sjms2Endpoint		0.22727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/Sjms2EndpointTest_testTransactedBatchCountDefault_0
+org.apache.camel.component.sjms2.Sjms2Component		0.5
+org.apache.camel.component.sjms2.Sjms2Endpoint		0.22727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/Sjms2EndpointTest_testTransactedBatchCountModified_8
+org.apache.camel.component.sjms2.Sjms2Component		0.5
+org.apache.camel.component.sjms2.Sjms2Endpoint		0.22727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/Sjms2EndpointTest_testTransactedBatchTimeoutDefault_b
+org.apache.camel.component.sjms2.Sjms2Component		0.5
+org.apache.camel.component.sjms2.Sjms2Endpoint		0.22727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/Sjms2EndpointTest_testTransactedBatchTimeoutModified_o
+org.apache.camel.component.sjms2.Sjms2Component		0.5
+org.apache.camel.component.sjms2.Sjms2Endpoint		0.22727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/Sjms2EndpointTest_testUnsupportedMessageExchangePattern_q
+org.apache.camel.component.sjms2.Sjms2Component		0.5
+org.apache.camel.component.sjms2.Sjms2Endpoint		0.13636364
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/consumer/InOnlyTopicDurableConsumerTest
+InOnlyTopicDurableConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/consumer/InOnlyTopicDurableConsumerTest_testDurableTopic_j
+testDurableTopic
+org.apache.camel.component.sjms2.Sjms2Component		0.5
+org.apache.camel.component.sjms2.Sjms2Endpoint		0.22727273
+org.apache.camel.component.sjms2.jms.Jms2ObjectFactory		0.15714286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/consumer/InOnlyTopicSharedConsumerTest
+InOnlyTopicSharedConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/consumer/InOnlyTopicSharedConsumerTest_testSynchronous_s
+testSynchronous
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/consumer/test-InOnlyTopicDurableConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/consumer/test-InOnlyTopicSharedConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/producer/InOnlyQueueProducerTest
+InOnlyQueueProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/producer/InOnlyQueueProducerTest_testInOnlyQueueProducer_l
+testInOnlyQueueProducer
+org.apache.camel.component.sjms2.jms.Jms2ObjectFactory		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/producer/InOnlyTopicProducerTest
+InOnlyTopicProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/producer/InOnlyTopicProducerTest_testInOnlyTopicProducerProducer_3
+testInOnlyTopicProducerProducer
+org.apache.camel.component.sjms2.jms.Jms2ObjectFactory		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/producer/test-InOnlyQueueProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/producer/test-InOnlyTopicProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/support/Jms2TestSupport
+Jms2TestSupport		0.87323946
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/support/test-Jms2TestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/test-SimpleJms2ComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/test-Sjms2ComponentRestartTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/test-Sjms2EndpointConnectionSettingsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/test-Sjms2EndpointNameOverrideTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms2/target/site/clover/org/apache/camel/component/sjms2/test-Sjms2EndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

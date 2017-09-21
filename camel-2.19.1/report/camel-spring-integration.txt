@@ -1,0 +1,113 @@
+./components/camel-spring-integration/target/site/clover/org/apache/camel
+./components/camel-spring-integration/target/site/clover/org/apache/camel/component/spring/integration/SpringIntegrationChannelConverterTest
+SpringIntegrationChannelConverterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-integration/target/site/clover/org/apache/camel/component/spring/integration/SpringIntegrationChannelConverterTest_testSendingOneWayMessage_c
+testSendingOneWayMessage
+org.apache.camel.component.spring.integration.SpringIntegrationMessage		0.6976744
+org.apache.camel.component.spring.integration.SpringIntegrationConsumer		0.1369863
+org.apache.camel.component.spring.integration.SpringIntegrationEndpoint		0.057142857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-integration/target/site/clover/org/apache/camel/component/spring/integration/SpringIntegrationMessageTest
+SpringIntegrationMessageTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-integration/target/site/clover/org/apache/camel/component/spring/integration/SpringIntegrationMessageTest_testCopyFrom_6
+testCopyFrom
+org.apache.camel.component.spring.integration.SpringIntegrationMessage		0.53488374
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-integration/target/site/clover/org/apache/camel/component/spring/integration/SpringIntegrationOneWayConsumerTest
+SpringIntegrationOneWayConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-integration/target/site/clover/org/apache/camel/component/spring/integration/SpringIntegrationOneWayConsumerTest_testSendingOneWayMessage_9
+testSendingOneWayMessage
+org.apache.camel.component.spring.integration.SpringIntegrationMessage		0.6976744
+org.apache.camel.component.spring.integration.SpringIntegrationConsumer		0.1369863
+org.apache.camel.component.spring.integration.SpringIntegrationEndpoint		0.057142857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-integration/target/site/clover/org/apache/camel/component/spring/integration/SpringIntegrationProducerTest
+SpringIntegrationProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-integration/target/site/clover/org/apache/camel/component/spring/integration/SpringIntegrationProducerTest_testSendingOneWayMessage_8
+testSendingOneWayMessage
+org.apache.camel.component.spring.integration.SpringIntegrationProducer		0.5106383
+org.apache.camel.component.spring.integration.SpringIntegrationBinding		0.45454547
+org.apache.camel.component.spring.integration.SpringIntegrationEndpoint		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-integration/target/site/clover/org/apache/camel/component/spring/integration/SpringIntegrationProducerTest_testSendingTwoWayMessage_b
+testSendingTwoWayMessage
+org.apache.camel.component.spring.integration.SpringIntegrationProducer		0.7446808
+org.apache.camel.component.spring.integration.SpringIntegrationBinding		0.72727275
+org.apache.camel.component.spring.integration.SpringIntegrationEndpoint		0.34285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-integration/target/site/clover/org/apache/camel/component/spring/integration/SpringIntegrationTwoWayConsumerTest
+SpringIntegrationTwoWayConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-integration/target/site/clover/org/apache/camel/component/spring/integration/SpringIntegrationTwoWayConsumerTest_testSendingTwoWayMessage_1
+testSendingTwoWayMessage
+org.apache.camel.component.spring.integration.SpringIntegrationMessage		0.3488372
+org.apache.camel.component.spring.integration.SpringIntegrationConsumer		0.30136988
+org.apache.camel.component.spring.integration.SpringIntegrationBinding		0.18181819
+org.apache.camel.component.spring.integration.SpringIntegrationEndpoint		0.057142857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-integration/target/site/clover/org/apache/camel/component/spring/integration/adapter/CamelSourceAdapterTest
+CamelSourceAdapterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-integration/target/site/clover/org/apache/camel/component/spring/integration/adapter/CamelSourceAdapterTest_testSendingOneWayMessage_0
+org.apache.camel.component.spring.integration.SpringIntegrationBinding		0.45454547
+org.apache.camel.component.spring.integration.adapter.CamelSourceAdapter.ConsumerProcessor		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-integration/target/site/clover/org/apache/camel/component/spring/integration/adapter/CamelSourceAdapterTest_testSendingTwoWayMessage_7
+org.apache.camel.component.spring.integration.adapter.CamelSourceAdapter.ConsumerProcessor		0.8
+org.apache.camel.component.spring.integration.SpringIntegrationBinding		0.72727275
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-integration/target/site/clover/org/apache/camel/component/spring/integration/adapter/CamelTargetAdapterTest
+CamelTargetAdapterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-integration/target/site/clover/org/apache/camel/component/spring/integration/adapter/CamelTargetAdapterTest_testSendingOneWayMessage_2
+org.apache.camel.component.spring.integration.adapter.CamelTargetAdapter		0.5283019
+org.apache.camel.component.spring.integration.adapter.AbstractCamelAdapter		0.5
+org.apache.camel.component.spring.integration.SpringIntegrationBinding		0.27272728
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-integration/target/site/clover/org/apache/camel/component/spring/integration/adapter/CamelTargetAdapterTest_testSendingTwoWayMessageWithMessageAddress_5
+org.apache.camel.component.spring.integration.adapter.CamelTargetAdapter		0.6603774
+org.apache.camel.component.spring.integration.adapter.AbstractCamelAdapter		0.5
+org.apache.camel.component.spring.integration.SpringIntegrationBinding		0.45454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-integration/target/site/clover/org/apache/camel/component/spring/integration/adapter/CamelTargetAdapterTest_testSendingTwoWayMessage_3
+org.apache.camel.component.spring.integration.adapter.CamelTargetAdapter		0.6037736
+org.apache.camel.component.spring.integration.adapter.AbstractCamelAdapter		0.5
+org.apache.camel.component.spring.integration.SpringIntegrationBinding		0.45454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-integration/target/site/clover/org/apache/camel/component/spring/integration/adapter/ConfigurationTest
+ConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-integration/target/site/clover/org/apache/camel/component/spring/integration/adapter/ConfigurationTest_testCamelSourceEndpoint_4
+org.apache.camel.component.spring.integration.adapter.config.CamelSourceAdapterParser		1.0
+org.apache.camel.component.spring.integration.adapter.config.NamespaceHandler		1.0
+org.apache.camel.component.spring.integration.adapter.AbstractCamelAdapter		1.0
+org.apache.camel.component.spring.integration.adapter.config.AbstractCamelContextBeanDefinitionParaser		0.82758623
+org.apache.camel.component.spring.integration.adapter.CamelSourceAdapter		0.7
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-integration/target/site/clover/org/apache/camel/component/spring/integration/adapter/ConfigurationTest_testCamelTragetEndpoint_a
+org.apache.camel.component.spring.integration.adapter.config.CamelTargetAdapterParser		1.0
+org.apache.camel.component.spring.integration.adapter.config.NamespaceHandler		1.0
+org.apache.camel.component.spring.integration.adapter.config.AbstractCamelContextBeanDefinitionParaser		0.82758623
+org.apache.camel.component.spring.integration.adapter.AbstractCamelAdapter		0.6666667
+org.apache.camel.component.spring.integration.adapter.CamelTargetAdapter		0.0754717
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-integration/target/site/clover/org/apache/camel/component/spring/integration/adapter/test-CamelSourceAdapterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-integration/target/site/clover/org/apache/camel/component/spring/integration/adapter/test-CamelTargetAdapterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-integration/target/site/clover/org/apache/camel/component/spring/integration/adapter/test-ConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-integration/target/site/clover/org/apache/camel/component/spring/integration/test-SpringIntegrationChannelConverterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-integration/target/site/clover/org/apache/camel/component/spring/integration/test-SpringIntegrationMessageTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-integration/target/site/clover/org/apache/camel/component/spring/integration/test-SpringIntegrationOneWayConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-integration/target/site/clover/org/apache/camel/component/spring/integration/test-SpringIntegrationProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-integration/target/site/clover/org/apache/camel/component/spring/integration/test-SpringIntegrationTwoWayConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

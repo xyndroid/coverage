@@ -1,0 +1,1343 @@
+./components/camel-hazelcast/target/site/clover/org/apache/camel
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastAtomicnumberProducerForSpringTest
+HazelcastAtomicnumberProducerForSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastAtomicnumberProducerForSpringTest_testCompareAndSet_42
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.atomicnumber.HazelcastAtomicnumberProducer		0.30357143
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.275
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastAtomicnumberProducerForSpringTest_testDecrement_2i
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.275
+org.apache.camel.component.hazelcast.atomicnumber.HazelcastAtomicnumberProducer		0.23214285
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastAtomicnumberProducerForSpringTest_testDestroy_2r
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2625
+org.apache.camel.component.hazelcast.atomicnumber.HazelcastAtomicnumberProducer		0.23214285
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastAtomicnumberProducerForSpringTest_testGetAndAdd_f
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.275
+org.apache.camel.component.hazelcast.atomicnumber.HazelcastAtomicnumberProducer		0.25
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastAtomicnumberProducerForSpringTest_testGet_3b
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.7625
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.atomicnumber.HazelcastAtomicnumberProducer		0.23214285
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastAtomicnumberProducerForSpringTest_testIncrement_12
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.275
+org.apache.camel.component.hazelcast.atomicnumber.HazelcastAtomicnumberProducer		0.23214285
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastAtomicnumberProducerForSpringTest_testSet_0
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2625
+org.apache.camel.component.hazelcast.atomicnumber.HazelcastAtomicnumberProducer		0.23214285
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastAtomicnumberProducerTest
+HazelcastAtomicnumberProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastAtomicnumberProducerTest_testCompareAndSet_a
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.atomicnumber.HazelcastAtomicnumberProducer		0.30357143
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.25
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastAtomicnumberProducerTest_testDecrement_14
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.25
+org.apache.camel.component.hazelcast.atomicnumber.HazelcastAtomicnumberProducer		0.23214285
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastAtomicnumberProducerTest_testDestroy_38
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2375
+org.apache.camel.component.hazelcast.atomicnumber.HazelcastAtomicnumberProducer		0.23214285
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastAtomicnumberProducerTest_testGetAndAdd_1u
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.25
+org.apache.camel.component.hazelcast.atomicnumber.HazelcastAtomicnumberProducer		0.25
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastAtomicnumberProducerTest_testGet_2b
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.25
+org.apache.camel.component.hazelcast.atomicnumber.HazelcastAtomicnumberProducer		0.23214285
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastAtomicnumberProducerTest_testIncrement_44
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.25
+org.apache.camel.component.hazelcast.atomicnumber.HazelcastAtomicnumberProducer		0.23214285
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastAtomicnumberProducerTest_testSetWithOperationName_3p
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.775
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.72727275
+org.apache.camel.component.hazelcast.atomicnumber.HazelcastAtomicnumberProducer		0.23214285
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastAtomicnumberProducerTest_testSetWithOperationNumber_26
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.72727275
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2875
+org.apache.camel.component.hazelcast.atomicnumber.HazelcastAtomicnumberProducer		0.23214285
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastAtomicnumberProducerTest_testSet_g
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2375
+org.apache.camel.component.hazelcast.atomicnumber.HazelcastAtomicnumberProducer		0.23214285
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastAtomicnumberProducerTest_testWithInvalidOperationName_3i
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.1375
+org.apache.camel.component.hazelcast.atomicnumber.HazelcastAtomicnumberProducer		0.10714286
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastCamelSpringTestSupport
+HazelcastCamelSpringTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastCamelTestSupport
+HazelcastCamelTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastComponentInstanceReferenceNameSpringTest
+HazelcastComponentInstanceReferenceNameSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastComponentInstanceReferenceNameSpringTest_testComparePutAndGet_3t
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.7875
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.25185186
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastComponentInstanceReferenceSpringTest
+HazelcastComponentInstanceReferenceSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastComponentInstanceReferenceSpringTest_testComparePutAndGet_56
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.7875
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.25185186
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastConfigurationTest
+HazelcastConfigurationTest		0.96236557
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastConfigurationTest_testCustomConfigurationReference_c
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.42857143
+org.apache.camel.component.hazelcast.HazelcastComponent		0.3653846
+org.apache.camel.component.hazelcast.map.HazelcastMapEndpoint		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastConfigurationTest_testCustomConfigurationUri_19
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.42857143
+org.apache.camel.component.hazelcast.HazelcastComponent		0.40384614
+org.apache.camel.component.hazelcast.map.HazelcastMapEndpoint		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastConfigurationTest_testDefaultConfiguration_1v
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.42857143
+org.apache.camel.component.hazelcast.HazelcastComponent		0.3846154
+org.apache.camel.component.hazelcast.map.HazelcastMapEndpoint		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastConfigurationTest_testMix_4d
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.5
+org.apache.camel.component.hazelcast.HazelcastComponent		0.43269232
+org.apache.camel.component.hazelcast.map.HazelcastMapEndpoint		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastConfigurationTest_testNamedInstanceWithConfigurationUri_s
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.42857143
+org.apache.camel.component.hazelcast.HazelcastComponent		0.40865386
+org.apache.camel.component.hazelcast.map.HazelcastMapEndpoint		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastConfigurationTest_testNamedInstance_3k
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.5
+org.apache.camel.component.hazelcast.HazelcastComponent		0.29326922
+org.apache.camel.component.hazelcast.map.HazelcastMapEndpoint		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastErrorMessagesTest
+HazelcastErrorMessagesTest		0.8965517
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastErrorMessagesTest_testAtomicNumberConsumer_17
+org.apache.camel.component.hazelcast.atomicnumber.HazelcastAtomicnumberEndpoint		0.6666667
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.35714287
+org.apache.camel.component.hazelcast.HazelcastComponent		0.35096154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastErrorMessagesTest_testInstanceProducer_3w
+org.apache.camel.component.hazelcast.instance.HazelcastInstanceEndpoint		0.5
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.42857143
+org.apache.camel.component.hazelcast.HazelcastComponent		0.35096154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastErrorMessagesTest_testUriPrefix_1m
+org.apache.camel.component.hazelcast.HazelcastComponent		0.33173078
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastInstanceConsumerTest
+HazelcastInstanceConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastInstanceConsumerTest_testAddInstance_3g
+org.apache.camel.component.hazelcast.instance.HazelcastInstanceConsumer.HazelcastMembershipListener		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.5375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastInstanceConsumerTest_testRemoveInstance_3j
+org.apache.camel.component.hazelcast.instance.HazelcastInstanceConsumer.HazelcastMembershipListener		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastListConsumerTest
+HazelcastListConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastListConsumerTest_add_1h
+org.apache.camel.component.hazelcast.listener.CamelListener		0.45454547
+org.apache.camel.component.hazelcast.listener.CamelItemListener		0.33333334
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.0875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastListConsumerTest_remove_36
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.575
+org.apache.camel.component.hazelcast.listener.CamelListener		0.45454547
+org.apache.camel.component.hazelcast.listener.CamelItemListener		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastListProducerTest
+HazelcastListProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastListProducerTest_addAll_4z
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2375
+org.apache.camel.component.hazelcast.list.HazelcastListProducer		0.19512194
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastListProducerTest_addValueWithOperationName_2p
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.72727275
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2875
+org.apache.camel.component.hazelcast.list.HazelcastListProducer		0.19512194
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastListProducerTest_addValueWithOperationNumber_53
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.72727275
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2875
+org.apache.camel.component.hazelcast.list.HazelcastListProducer		0.19512194
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastListProducerTest_addValue_3o
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2375
+org.apache.camel.component.hazelcast.list.HazelcastListProducer		0.19512194
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastListProducerTest_clearList_1k
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2375
+org.apache.camel.component.hazelcast.list.HazelcastListProducer		0.15853658
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastListProducerTest_getValueWithIdx_1t
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.25
+org.apache.camel.component.hazelcast.list.HazelcastListProducer		0.19512194
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastListProducerTest_removeAll_3a
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2375
+org.apache.camel.component.hazelcast.list.HazelcastListProducer		0.17073171
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastListProducerTest_removeValueWithIdx_3c
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2375
+org.apache.camel.component.hazelcast.list.HazelcastListProducer		0.23170732
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastListProducerTest_removeValueWithoutIdx_5b
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2375
+org.apache.camel.component.hazelcast.list.HazelcastListProducer		0.19512194
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastListProducerTest_removeValue_34
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2375
+org.apache.camel.component.hazelcast.list.HazelcastListProducer		0.19512194
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastListProducerTest_retainAll_d
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2375
+org.apache.camel.component.hazelcast.list.HazelcastListProducer		0.17073171
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastListProducerTest_setValueWithIdx_5e
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2375
+org.apache.camel.component.hazelcast.list.HazelcastListProducer		0.23170732
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastListProducerTest_testWithInvalidOperation_45
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.625
+org.apache.camel.component.hazelcast.list.HazelcastListProducer		0.07317073
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapConsumerTest
+HazelcastMapConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapConsumerTest_testAdd_2a
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.575
+org.apache.camel.component.hazelcast.listener.CamelListener		0.5
+org.apache.camel.component.hazelcast.listener.CamelMapListener		0.15384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapConsumerTest_testEnict_1z
+org.apache.camel.component.hazelcast.listener.CamelListener		0.5
+org.apache.camel.component.hazelcast.listener.CamelMapListener		0.15384616
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.0875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapConsumerTest_testEvict_13
+org.apache.camel.component.hazelcast.listener.CamelListener		0.5
+org.apache.camel.component.hazelcast.listener.CamelMapListener		0.15384616
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.0875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapConsumerTest_testRemove_57
+org.apache.camel.component.hazelcast.listener.CamelListener		0.5
+org.apache.camel.component.hazelcast.listener.CamelMapListener		0.15384616
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.0875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapConsumerTest_testUpdate_4t
+org.apache.camel.component.hazelcast.listener.CamelListener		0.5
+org.apache.camel.component.hazelcast.listener.CamelMapListener		0.15384616
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.0875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerForSpringTest
+HazelcastMapProducerForSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerForSpringTest_testClear_2e
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2625
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.18518518
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerForSpringTest_testContainsKey_3
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2875
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.19259259
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerForSpringTest_testContainsValue_7
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.275
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.19259259
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerForSpringTest_testDelete_1p
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.275
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.19259259
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerForSpringTest_testEvictAll_2h
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2625
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.18518518
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerForSpringTest_testEvict_t
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.275
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.19259259
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerForSpringTest_testGetAllEmptySet_32
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2875
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.19259259
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerForSpringTest_testGetAllOnlyOneKey_m
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2875
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.19259259
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerForSpringTest_testGet_2o
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2875
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.19259259
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerForSpringTest_testPutIfAbsentWithTtl_i
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.7625
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.22962964
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerForSpringTest_testPutIfAbsent_54
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.275
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.21481481
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerForSpringTest_testPut_2u
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.275
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.21481481
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerForSpringTest_testQuery_1g
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.275
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.22222222
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerForSpringTest_testUpdate_1a
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.275
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.22962964
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerTest
+HazelcastMapProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerTest_testClear_1r
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2375
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.18518518
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerTest_testContainsKey_50
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2625
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.19259259
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerTest_testContainsValue_k
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.25
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.19259259
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerTest_testDelete_2l
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.25
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.19259259
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerTest_testEmptyQuery_e
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.25
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.21481481
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerTest_testEvictAll_3n
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2375
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.18518518
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerTest_testEvict_3v
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.25
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.19259259
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerTest_testGetAllEmptySet_5
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2625
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.19259259
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerTest_testGetAllOnlyOneKey_2x
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2625
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.19259259
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerTest_testGet_4u
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2625
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.19259259
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerTest_testPutIfAbsentWithTtl_4x
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.25
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.22962964
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerTest_testPutIfAbsent_4h
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.25
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.21481481
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerTest_testPutWithOperationName_2g
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.72727275
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.3
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.21481481
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerTest_testPutWithOperationNumber_2q
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.72727275
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.3
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.21481481
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerTest_testPutWithTTL_51
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.25
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.22962964
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerTest_testPut_49
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.25
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.21481481
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerTest_testQuery_27
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.25
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.22222222
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerTest_testUpdateOldValue_3z
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.25
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.23703703
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerTest_testUpdate_j
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.25
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.22962964
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMapProducerTest_testWithInvalidOperation_4f
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.625
+org.apache.camel.component.hazelcast.map.HazelcastMapProducer		0.13333334
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMultimapConsumerTest
+HazelcastMultimapConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMultimapConsumerTest_testAdd_3d
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.575
+org.apache.camel.component.hazelcast.listener.CamelListener		0.5
+org.apache.camel.component.hazelcast.listener.CamelEntryListener		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMultimapConsumerTest_testEvict_4n
+org.apache.camel.component.hazelcast.listener.CamelListener		0.5
+org.apache.camel.component.hazelcast.listener.CamelEntryListener		0.16666667
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.0875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMultimapConsumerTest_testRemove_2w
+org.apache.camel.component.hazelcast.listener.CamelListener		0.5
+org.apache.camel.component.hazelcast.listener.CamelEntryListener		0.16666667
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.0875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMultimapProducerForSpringTest
+HazelcastMultimapProducerForSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMultimapProducerForSpringTest_testContainsKey_3h
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2875
+org.apache.camel.component.hazelcast.multimap.HazelcastMultimapProducer		0.24561404
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMultimapProducerForSpringTest_testContainsValue_5c
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.275
+org.apache.camel.component.hazelcast.multimap.HazelcastMultimapProducer		0.24561404
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMultimapProducerForSpringTest_testDelete_37
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.275
+org.apache.camel.component.hazelcast.multimap.HazelcastMultimapProducer		0.24561404
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMultimapProducerForSpringTest_testGet_55
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.775
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.multimap.HazelcastMultimapProducer		0.24561404
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMultimapProducerForSpringTest_testPut_4c
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.275
+org.apache.camel.component.hazelcast.multimap.HazelcastMultimapProducer		0.2631579
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMultimapProducerForSpringTest_testRemoveValue_59
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.275
+org.apache.camel.component.hazelcast.multimap.HazelcastMultimapProducer		0.24561404
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMultimapProducerForSpringTest_testValueCount_1d
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2875
+org.apache.camel.component.hazelcast.multimap.HazelcastMultimapProducer		0.24561404
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMultimapProducerTest
+HazelcastMultimapProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMultimapProducerTest_testClear_3x
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2375
+org.apache.camel.component.hazelcast.multimap.HazelcastMultimapProducer		0.22807017
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMultimapProducerTest_testContainsKey_3l
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2625
+org.apache.camel.component.hazelcast.multimap.HazelcastMultimapProducer		0.24561404
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMultimapProducerTest_testContainsValue_30
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.25
+org.apache.camel.component.hazelcast.multimap.HazelcastMultimapProducer		0.24561404
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMultimapProducerTest_testDelete_4l
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.25
+org.apache.camel.component.hazelcast.multimap.HazelcastMultimapProducer		0.24561404
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMultimapProducerTest_testGet_8
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2625
+org.apache.camel.component.hazelcast.multimap.HazelcastMultimapProducer		0.24561404
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMultimapProducerTest_testPutWithOperationName_20
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.72727275
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.3
+org.apache.camel.component.hazelcast.multimap.HazelcastMultimapProducer		0.2631579
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMultimapProducerTest_testPutWithOperationNumber_4i
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.72727275
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.3
+org.apache.camel.component.hazelcast.multimap.HazelcastMultimapProducer		0.2631579
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMultimapProducerTest_testPut_1w
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.multimap.HazelcastMultimapProducer		0.2631579
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.25
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMultimapProducerTest_testRemoveValue_3e
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.25
+org.apache.camel.component.hazelcast.multimap.HazelcastMultimapProducer		0.24561404
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMultimapProducerTest_testValueCount_2
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2625
+org.apache.camel.component.hazelcast.multimap.HazelcastMultimapProducer		0.24561404
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastMultimapProducerTest_testWithInvalidOperation_6
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.625
+org.apache.camel.component.hazelcast.multimap.HazelcastMultimapProducer		0.12280702
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastQueueConsumerTest
+HazelcastQueueConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastQueueConsumerTest_add_2v
+org.apache.camel.component.hazelcast.listener.CamelListener		0.45454547
+org.apache.camel.component.hazelcast.listener.CamelItemListener		0.33333334
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.0875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastQueueConsumerTest_remove_58
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.575
+org.apache.camel.component.hazelcast.listener.CamelListener		0.45454547
+org.apache.camel.component.hazelcast.listener.CamelItemListener		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastQueueProducerTest
+HazelcastQueueProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastQueueProducerTest_add_3m
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2375
+org.apache.camel.component.hazelcast.queue.HazelcastQueueProducer		0.21538462
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastQueueProducerTest_drainTo_4a
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.25
+org.apache.camel.component.hazelcast.queue.HazelcastQueueProducer		0.23076923
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastQueueProducerTest_noOperation_2z
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.queue.HazelcastQueueProducer		0.21538462
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2125
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastQueueProducerTest_offer_4o
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2375
+org.apache.camel.component.hazelcast.queue.HazelcastQueueProducer		0.21538462
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastQueueProducerTest_peek_2n
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.25
+org.apache.camel.component.hazelcast.queue.HazelcastQueueProducer		0.2
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastQueueProducerTest_poll_1f
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.25
+org.apache.camel.component.hazelcast.queue.HazelcastQueueProducer		0.2
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastQueueProducerTest_putWithOperationName_46
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.72727275
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2875
+org.apache.camel.component.hazelcast.queue.HazelcastQueueProducer		0.21538462
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastQueueProducerTest_putWithOperationNumber_18
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.72727275
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2875
+org.apache.camel.component.hazelcast.queue.HazelcastQueueProducer		0.21538462
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastQueueProducerTest_put_h
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2375
+org.apache.camel.component.hazelcast.queue.HazelcastQueueProducer		0.21538462
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastQueueProducerTest_remainingCapacity_2k
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.25
+org.apache.camel.component.hazelcast.queue.HazelcastQueueProducer		0.2
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastQueueProducerTest_removeSpecifiedValue_v
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.queue.HazelcastQueueProducer		0.24615385
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2375
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastQueueProducerTest_removeValue_2t
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.queue.HazelcastQueueProducer		0.24615385
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2375
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastQueueProducerTest_testWithInvalidOperation_41
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.625
+org.apache.camel.component.hazelcast.queue.HazelcastQueueProducer		0.092307694
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastReliableTopicConsumerTest
+HazelcastReliableTopicConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastReliableTopicConsumerTest_receive_29
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.575
+org.apache.camel.component.hazelcast.listener.CamelMessageListener		0.5
+org.apache.camel.component.hazelcast.listener.CamelListener		0.45454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastReliableTopicProducerTest
+HazelcastReliableTopicProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastReliableTopicProducerTest_noOperation_52
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.topic.HazelcastTopicProducer		0.5
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2125
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastReliableTopicProducerTest_publish_40
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.topic.HazelcastTopicProducer		0.5
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2375
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastReliableTopicProducerTest_testWithInvalidOperation_2f
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.625
+org.apache.camel.component.hazelcast.topic.HazelcastTopicProducer		0.1
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastReplicatedmapConsumerTest
+HazelcastReplicatedmapConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastReplicatedmapConsumerTest_testAdd_1q
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.575
+org.apache.camel.component.hazelcast.listener.CamelListener		0.5
+org.apache.camel.component.hazelcast.listener.CamelEntryListener		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastReplicatedmapConsumerTest_testEvict_y
+org.apache.camel.component.hazelcast.listener.CamelListener		0.5
+org.apache.camel.component.hazelcast.listener.CamelEntryListener		0.16666667
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.0875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastReplicatedmapConsumerTest_testRemove_2s
+org.apache.camel.component.hazelcast.listener.CamelListener		0.5
+org.apache.camel.component.hazelcast.listener.CamelEntryListener		0.16666667
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.0875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastReplicatedmapProducerForSpringTest
+HazelcastReplicatedmapProducerForSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastReplicatedmapProducerForSpringTest_testClear_l
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.replicatedmap.HazelcastReplicatedmapProducer		0.27659574
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2625
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastReplicatedmapProducerForSpringTest_testContainsKey_4r
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.replicatedmap.HazelcastReplicatedmapProducer		0.29787233
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2875
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastReplicatedmapProducerForSpringTest_testContainsValue_25
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.replicatedmap.HazelcastReplicatedmapProducer		0.29787233
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.275
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastReplicatedmapProducerForSpringTest_testDelete_2m
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.replicatedmap.HazelcastReplicatedmapProducer		0.29787233
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.275
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastReplicatedmapProducerForSpringTest_testGet_5a
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.775
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.replicatedmap.HazelcastReplicatedmapProducer		0.29787233
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastReplicatedmapProducerForSpringTest_testPut_1n
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.replicatedmap.HazelcastReplicatedmapProducer		0.31914893
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.275
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastReplicatedmapProducerTest
+HazelcastReplicatedmapProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastReplicatedmapProducerTest_testClear_x
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.replicatedmap.HazelcastReplicatedmapProducer		0.27659574
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2375
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastReplicatedmapProducerTest_testContainsKey_28
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.replicatedmap.HazelcastReplicatedmapProducer		0.29787233
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2625
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastReplicatedmapProducerTest_testContainsValue_5d
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.replicatedmap.HazelcastReplicatedmapProducer		0.29787233
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.25
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastReplicatedmapProducerTest_testDelete_4j
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.replicatedmap.HazelcastReplicatedmapProducer		0.29787233
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.25
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastReplicatedmapProducerTest_testGet_4v
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.replicatedmap.HazelcastReplicatedmapProducer		0.29787233
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2625
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastReplicatedmapProducerTest_testPutWithOperationName_4q
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.72727275
+org.apache.camel.component.hazelcast.replicatedmap.HazelcastReplicatedmapProducer		0.31914893
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.3
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastReplicatedmapProducerTest_testPutWithOperationNumber_4m
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.72727275
+org.apache.camel.component.hazelcast.replicatedmap.HazelcastReplicatedmapProducer		0.31914893
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.3
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastReplicatedmapProducerTest_testPut_23
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.replicatedmap.HazelcastReplicatedmapProducer		0.31914893
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.25
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastReplicatedmapProducerTest_testWithInvalidOperation_1s
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.625
+org.apache.camel.component.hazelcast.replicatedmap.HazelcastReplicatedmapProducer		0.14893617
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastRingbufferProducerForSpringTest
+HazelcastRingbufferProducerForSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastRingbufferProducerForSpringTest_testAdd_1o
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.7625
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.ringbuffer.HazelcastRingbufferProducer		0.30555555
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastRingbufferProducerForSpringTest_testCapacity_2y
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.ringbuffer.HazelcastRingbufferProducer		0.2777778
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.275
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastRingbufferProducerForSpringTest_testReadTail_2d
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.ringbuffer.HazelcastRingbufferProducer		0.2777778
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.275
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastRingbufferProducerForSpringTest_testRemainingCapacity_3r
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.ringbuffer.HazelcastRingbufferProducer		0.2777778
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.275
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastRingbufferProducerTest
+HazelcastRingbufferProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastRingbufferProducerTest_testAdd_4s
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.7375
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.ringbuffer.HazelcastRingbufferProducer		0.30555555
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastRingbufferProducerTest_testCapacity_35
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.ringbuffer.HazelcastRingbufferProducer		0.2777778
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.25
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastRingbufferProducerTest_testReadHead_w
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.ringbuffer.HazelcastRingbufferProducer		0.2777778
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.25
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastRingbufferProducerTest_testReadTail_1l
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.ringbuffer.HazelcastRingbufferProducer		0.2777778
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.25
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastRingbufferProducerTest_testRemainingCapacity_1i
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.ringbuffer.HazelcastRingbufferProducer		0.2777778
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.25
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSedaConcurrentConsumersTest
+HazelcastSedaConcurrentConsumersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSedaConcurrentConsumersTest_createConcurrentConsumers_1
+org.apache.camel.component.hazelcast.seda.HazelcastSedaProducer		0.82608694
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.5875
+org.apache.camel.component.hazelcast.seda.HazelcastSedaEndpoint		0.4
+org.apache.camel.component.hazelcast.seda.HazelcastSedaConsumer		0.24358974
+org.apache.camel.component.hazelcast.seda.HazelcastSedaConfiguration		0.24
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSedaConfigurationTest
+HazelcastSedaConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSedaConfigurationTest_createEndpointWithConcurrentConsumersParam_47
+org.apache.camel.component.hazelcast.seda.HazelcastSedaEndpoint		0.5
+org.apache.camel.component.hazelcast.seda.HazelcastSedaConfiguration		0.44
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.42857143
+org.apache.camel.component.hazelcast.HazelcastComponent		0.38942307
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSedaConfigurationTest_createEndpointWithNoParams_48
+org.apache.camel.component.hazelcast.seda.HazelcastSedaEndpoint		0.5
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.42857143
+org.apache.camel.component.hazelcast.HazelcastComponent		0.38942307
+org.apache.camel.component.hazelcast.seda.HazelcastSedaConfiguration		0.36
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSedaConfigurationTest_createEndpointWithPoolIntevalParam_1b
+org.apache.camel.component.hazelcast.seda.HazelcastSedaEndpoint		0.5
+org.apache.camel.component.hazelcast.seda.HazelcastSedaConfiguration		0.44
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.42857143
+org.apache.camel.component.hazelcast.HazelcastComponent		0.38942307
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSedaConfigurationTest_createEndpointWithTransferExchange_3f
+org.apache.camel.component.hazelcast.seda.HazelcastSedaEndpoint		0.5
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.42857143
+org.apache.camel.component.hazelcast.HazelcastComponent		0.38942307
+org.apache.camel.component.hazelcast.seda.HazelcastSedaConfiguration		0.36
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSedaFIFOTest
+HazelcastSedaFIFOTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSedaFIFOTest_fifoTesting_4k
+org.apache.camel.component.hazelcast.seda.HazelcastSedaProducer		0.82608694
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.5875
+org.apache.camel.component.hazelcast.seda.HazelcastSedaEndpoint		0.4
+org.apache.camel.component.hazelcast.seda.HazelcastSedaConsumer		0.24358974
+org.apache.camel.component.hazelcast.seda.HazelcastSedaConfiguration		0.24
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSedaInOnlyTest
+HazelcastSedaInOnlyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSedaInOnlyTest_sendInOnly_21
+org.apache.camel.component.hazelcast.seda.HazelcastSedaProducer		0.6956522
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.5875
+org.apache.camel.component.hazelcast.seda.HazelcastSedaConsumer		0.24358974
+org.apache.camel.component.hazelcast.seda.HazelcastSedaConfiguration		0.24
+org.apache.camel.component.hazelcast.seda.HazelcastSedaEndpoint		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSedaInOutTest
+HazelcastSedaInOutTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSedaInOutTest_sendInOut_16
+org.apache.camel.component.hazelcast.seda.HazelcastSedaProducer		0.6956522
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.5875
+org.apache.camel.component.hazelcast.seda.HazelcastSedaConsumer		0.24358974
+org.apache.camel.component.hazelcast.seda.HazelcastSedaConfiguration		0.24
+org.apache.camel.component.hazelcast.seda.HazelcastSedaEndpoint		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSedaInOutTransactedTest
+HazelcastSedaInOutTransactedTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSedaInOutTransactedTest_sendInOut_4e
+org.apache.camel.component.hazelcast.seda.HazelcastSedaProducer		0.6956522
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.5875
+org.apache.camel.component.hazelcast.seda.HazelcastSedaConsumer		0.33333334
+org.apache.camel.component.hazelcast.seda.HazelcastSedaConfiguration		0.24
+org.apache.camel.component.hazelcast.seda.HazelcastSedaEndpoint		0.1
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSedaSpringSupportTest
+HazelcastSedaSpringSupportTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSedaSpringSupportTest_simpleSend_2c
+org.apache.camel.component.hazelcast.seda.HazelcastSedaProducer		0.82608694
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.5875
+org.apache.camel.component.hazelcast.seda.HazelcastSedaEndpoint		0.4
+org.apache.camel.component.hazelcast.seda.HazelcastSedaConsumer		0.08974359
+org.apache.camel.component.hazelcast.seda.HazelcastSedaConfiguration		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSedaTransferExchangeTest
+HazelcastSedaTransferExchangeTest		0.96
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSedaTransferExchangeTest_testExchangeTransferDisabled_4y
+org.apache.camel.component.hazelcast.seda.HazelcastSedaProducer		0.6956522
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.5875
+org.apache.camel.component.hazelcast.seda.HazelcastSedaConsumer		0.24358974
+org.apache.camel.component.hazelcast.seda.HazelcastSedaConfiguration		0.24
+org.apache.camel.component.hazelcast.seda.HazelcastSedaEndpoint		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSedaTransferExchangeTest_testExchangeTransferEnabled_4w
+org.apache.camel.component.hazelcast.seda.HazelcastSedaProducer		0.6086956
+org.apache.camel.component.hazelcast.seda.HazelcastSedaConfiguration		0.24
+org.apache.camel.component.hazelcast.seda.HazelcastSedaConsumer		0.21794872
+org.apache.camel.component.hazelcast.seda.HazelcastSedaEndpoint		0.2
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSetConsumerTest
+HazelcastSetConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSetConsumerTest_add_1x
+org.apache.camel.component.hazelcast.listener.CamelListener		0.45454547
+org.apache.camel.component.hazelcast.listener.CamelItemListener		0.33333334
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.0875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSetConsumerTest_remove_1c
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.575
+org.apache.camel.component.hazelcast.listener.CamelListener		0.45454547
+org.apache.camel.component.hazelcast.listener.CamelItemListener		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSetProducerTest
+HazelcastSetProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSetProducerTest_addAll_3y
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2375
+org.apache.camel.component.hazelcast.set.HazelcastSetProducer		0.22727273
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSetProducerTest_addValueWithOperationName_p
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.72727275
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2875
+org.apache.camel.component.hazelcast.set.HazelcastSetProducer		0.22727273
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSetProducerTest_addValueWithOperationNumber_2j
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.72727275
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2875
+org.apache.camel.component.hazelcast.set.HazelcastSetProducer		0.22727273
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSetProducerTest_addValue_3u
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2375
+org.apache.camel.component.hazelcast.set.HazelcastSetProducer		0.22727273
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSetProducerTest_clearList_22
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2375
+org.apache.camel.component.hazelcast.set.HazelcastSetProducer		0.20454545
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSetProducerTest_removeAll_11
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2375
+org.apache.camel.component.hazelcast.set.HazelcastSetProducer		0.22727273
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSetProducerTest_removeValue_24
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2375
+org.apache.camel.component.hazelcast.set.HazelcastSetProducer		0.22727273
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSetProducerTest_retainAll_r
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2375
+org.apache.camel.component.hazelcast.set.HazelcastSetProducer		0.22727273
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastSetProducerTest_testWithInvalidOperation_1y
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.625
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+org.apache.camel.component.hazelcast.set.HazelcastSetProducer		0.045454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastTopicConsumerTest
+HazelcastTopicConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastTopicConsumerTest_receive_5g
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.575
+org.apache.camel.component.hazelcast.listener.CamelMessageListener		0.5
+org.apache.camel.component.hazelcast.listener.CamelListener		0.45454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastTopicProducerTest
+HazelcastTopicProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastTopicProducerTest_noOperation_4p
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.topic.HazelcastTopicProducer		0.5
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2125
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastTopicProducerTest_publish_b
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.topic.HazelcastTopicProducer		0.5
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.2375
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/HazelcastTopicProducerTest_testWithInvalidOperation_1e
+org.apache.camel.component.hazelcast.HazelcastDefaultProducer		0.6363636
+org.apache.camel.component.hazelcast.HazelcastComponentHelper		0.625
+org.apache.camel.component.hazelcast.topic.HazelcastTopicProducer		0.1
+org.apache.camel.component.hazelcast.HazelcastDefaultEndpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastAtomicnumberProducerForSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastAtomicnumberProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastCamelSpringTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastCamelTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastComponentInstanceReferenceNameSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastComponentInstanceReferenceSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastErrorMessagesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastInstanceConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastListConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastListProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastMapConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastMapProducerForSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastMapProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastMultimapConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastMultimapProducerForSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastMultimapProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastQueueConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastQueueProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastReliableTopicConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastReliableTopicProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastReplicatedmapConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastReplicatedmapProducerForSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastReplicatedmapProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastRingbufferProducerForSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastRingbufferProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastSedaConcurrentConsumersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastSedaConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastSedaFIFOTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastSedaInOnlyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastSedaInOutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastSedaInOutTransactedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastSedaSpringSupportTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastSedaTransferExchangeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastSetConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastSetProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastTopicConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/component/hazelcast/test-HazelcastTopicProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/processor/aggregate/hazelcast/HazelcastAggregationRepositoryCamelTestSupport
+HazelcastAggregationRepositoryCamelTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/processor/aggregate/hazelcast/HazelcastAggregationRepositoryConstructorsTest
+HazelcastAggregationRepositoryConstructorsTest		0.9677419
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/processor/aggregate/hazelcast/HazelcastAggregationRepositoryConstructorsTest_locallyInitializedHazelcastInstanceAdd_3s
+locallyInitializedHazelcastInstanceAdd
+org.apache.camel.processor.aggregate.hazelcast.HazelcastAggregationRepository		0.19902913
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/processor/aggregate/hazelcast/HazelcastAggregationRepositoryConstructorsTest_nonOptimisticRepoFailsOnOptimisticAdd_q
+nonOptimisticRepoFailsOnOptimisticAdd
+org.apache.camel.processor.aggregate.hazelcast.HazelcastAggregationRepository		0.13592233
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/processor/aggregate/hazelcast/HazelcastAggregationRepositoryConstructorsTest_optimisticRepoFailsForNonOptimisticAdd_9
+optimisticRepoFailsForNonOptimisticAdd
+org.apache.camel.processor.aggregate.hazelcast.HazelcastAggregationRepository		0.1553398
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/processor/aggregate/hazelcast/HazelcastAggregationRepositoryConstructorsTest_uninitializedHazelcastInstanceThrows_z
+uninitializedHazelcastInstanceThrows
+org.apache.camel.processor.aggregate.hazelcast.HazelcastAggregationRepository		0.106796116
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/processor/aggregate/hazelcast/HazelcastAggregationRepositoryOperationsTest
+HazelcastAggregationRepositoryOperationsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/processor/aggregate/hazelcast/HazelcastAggregationRepositoryOperationsTest_checkOptimisticAddOfNewExchange_1j
+checkOptimisticAddOfNewExchange
+org.apache.camel.processor.aggregate.hazelcast.HazelcastAggregationRepository		0.22330096
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/processor/aggregate/hazelcast/HazelcastAggregationRepositoryOperationsTest_checkOptimisticGet_4b
+checkOptimisticGet
+org.apache.camel.processor.aggregate.hazelcast.HazelcastAggregationRepository		0.24271844
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/processor/aggregate/hazelcast/HazelcastAggregationRepositoryOperationsTest_checkOptimisticPersistentRemove_31
+checkOptimisticPersistentRemove
+org.apache.camel.processor.aggregate.hazelcast.HazelcastAggregationRepository		0.36407766
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/processor/aggregate/hazelcast/HazelcastAggregationRepositoryOperationsTest_checkOptimisticPersistentRemove_u
+checkOptimisticPersistentRemove
+org.apache.camel.processor.aggregate.hazelcast.HazelcastAggregationRepository		0.24271844
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/processor/aggregate/hazelcast/HazelcastAggregationRepositoryOperationsTest_checkThreadSafeAddOfNewExchange_4g
+checkThreadSafeAddOfNewExchange
+org.apache.camel.processor.aggregate.hazelcast.HazelcastAggregationRepository		0.23786408
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/processor/aggregate/hazelcast/HazelcastAggregationRepositoryOperationsTest_checkThreadSafeGet_43
+checkThreadSafeGet
+org.apache.camel.processor.aggregate.hazelcast.HazelcastAggregationRepository		0.24757281
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/processor/aggregate/hazelcast/HazelcastAggregationRepositoryRecoverableRoutesTest
+HazelcastAggregationRepositoryRecoverableRoutesTest		1.0
+HazelcastAggregationRepositoryRecoverableRoutesTest.EverythingIsLostException		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/processor/aggregate/hazelcast/HazelcastAggregationRepositoryRecoverableRoutesTest_checkAggregationFromTwoRoutesWithRecovery_39
+checkAggregationFromTwoRoutesWithRecovery
+org.apache.camel.processor.aggregate.hazelcast.HazelcastAggregationRepository		0.38349515
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/processor/aggregate/hazelcast/HazelcastAggregationRepositoryRoutesTest
+HazelcastAggregationRepositoryRoutesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/processor/aggregate/hazelcast/HazelcastAggregationRepositoryRoutesTest_checkAggregationFromTwoRoutesNoRecovery_n
+checkAggregationFromTwoRoutesNoRecovery
+org.apache.camel.processor.aggregate.hazelcast.HazelcastAggregationRepository		0.30097088
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/processor/aggregate/hazelcast/HazelcastAggregationRepositoryRoutesTest_checkAggregationFromTwoRoutes_10
+checkAggregationFromTwoRoutes
+org.apache.camel.processor.aggregate.hazelcast.HazelcastAggregationRepository		0.38349515
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/processor/aggregate/hazelcast/test-HazelcastAggregationRepositoryCamelTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/processor/aggregate/hazelcast/test-HazelcastAggregationRepositoryConstructorsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/processor/aggregate/hazelcast/test-HazelcastAggregationRepositoryOperationsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/processor/aggregate/hazelcast/test-HazelcastAggregationRepositoryRecoverableRoutesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/processor/aggregate/hazelcast/test-HazelcastAggregationRepositoryRecoverableRoutesTest_EverythingIsLostException
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/processor/aggregate/hazelcast/test-HazelcastAggregationRepositoryRoutesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/processor/idempotent/hazelcast/HazelcastIdempotentRepositoryTest
+HazelcastIdempotentRepositoryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/processor/idempotent/hazelcast/HazelcastIdempotentRepositoryTest_testAdd_o
+testAdd
+org.apache.camel.processor.idempotent.hazelcast.HazelcastIdempotentRepository		0.15625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/processor/idempotent/hazelcast/HazelcastIdempotentRepositoryTest_testClear_15
+testClear
+org.apache.camel.processor.idempotent.hazelcast.HazelcastIdempotentRepository		0.3125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/processor/idempotent/hazelcast/HazelcastIdempotentRepositoryTest_testConfirm_3q
+testConfirm
+org.apache.camel.processor.idempotent.hazelcast.HazelcastIdempotentRepository		0.3125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/processor/idempotent/hazelcast/HazelcastIdempotentRepositoryTest_testContains_4
+testContains
+org.apache.camel.processor.idempotent.hazelcast.HazelcastIdempotentRepository		0.3125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/processor/idempotent/hazelcast/HazelcastIdempotentRepositoryTest_testRemove_5f
+testRemove
+org.apache.camel.processor.idempotent.hazelcast.HazelcastIdempotentRepository		0.21875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/processor/idempotent/hazelcast/HazelcastIdempotentRepositoryTest_testRepositoryInRoute_33
+testRepositoryInRoute
+org.apache.camel.processor.idempotent.hazelcast.HazelcastIdempotentRepository		0.3125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hazelcast/target/site/clover/org/apache/camel/processor/idempotent/hazelcast/test-HazelcastIdempotentRepositoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

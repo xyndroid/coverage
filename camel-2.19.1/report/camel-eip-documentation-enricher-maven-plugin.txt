@@ -1,0 +1,104 @@
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel/maven/CamelSpringNamespaceTest
+CamelSpringNamespaceTest		0.8181818
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel/maven/CamelSpringNamespaceTest_testGetPrefix_a
+org.apache.camel.maven.CamelSpringNamespace		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel/maven/CamelSpringNamespaceTest_testGetPrefixes_e
+org.apache.camel.maven.CamelSpringNamespace		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel/maven/CamelSpringNamespaceTest_testSchemaNamespace_8
+org.apache.camel.maven.CamelSpringNamespace		0.5714286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel/maven/DomFinderTest
+DomFinderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel/maven/DomFinderTest_testFindAttributesElements_f
+org.apache.camel.maven.DomFinder		0.5555556
+org.apache.camel.maven.XmlHelper		0.5
+org.apache.camel.maven.CamelSpringNamespace		0.42857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel/maven/DomFinderTest_testFindBaseType_5
+org.apache.camel.maven.DomFinder		0.5555556
+org.apache.camel.maven.XmlHelper		0.5
+org.apache.camel.maven.CamelSpringNamespace		0.42857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel/maven/DomFinderTest_testFindElementsAndTypes_1
+org.apache.camel.maven.DomFinder		0.5555556
+org.apache.camel.maven.XmlHelper		0.5
+org.apache.camel.maven.CamelSpringNamespace		0.42857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel/maven/EipDocumentationEnricherMojoTest
+EipDocumentationEnricherMojoTest		0.8833333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel/maven/EipDocumentationEnricherMojoTest_testExecuteCamelCoreDoesNotExist_9
+org.apache.camel.maven.EipDocumentationEnricherMojo		0.13725491
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel/maven/EipDocumentationEnricherMojoTest_testExecuteCamelCoreIsNotADirectory_d
+org.apache.camel.maven.EipDocumentationEnricherMojo		0.14705883
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel/maven/EipDocumentationEnricherMojoTest_testExecuteCamelCoreIsNull_c
+org.apache.camel.maven.EipDocumentationEnricherMojo		0.13725491
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel/maven/EipDocumentationEnricherMojoTest_testExecuteInputCamelSchemaDoesNotExist_h
+org.apache.camel.maven.EipDocumentationEnricherMojo		0.078431375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel/maven/EipDocumentationEnricherMojoTest_testExecuteInputCamelSchemaIsNotAFile_b
+org.apache.camel.maven.EipDocumentationEnricherMojo		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel/maven/EipDocumentationEnricherMojoTest_testExecuteInputCamelSchemaIsNull_6
+org.apache.camel.maven.EipDocumentationEnricherMojo		0.078431375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel/maven/EipDocumentationEnricherMojoTest_testExecutePathToModelDirIsNull_j
+org.apache.camel.maven.EipDocumentationEnricherMojo		0.039215688
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel/maven/PackageHelperTest
+PackageHelperTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel/maven/PackageHelperTest_testFileToString_0
+org.apache.camel.maven.PackageHelper		0.13043478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel/maven/PackageHelperTest_testFindJsonFiles_4
+org.apache.camel.maven.PackageHelper.CamelComponentsModelFilter		1.0
+org.apache.camel.maven.PackageHelper		0.5652174
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel/maven/XmlHelperTest
+XmlHelperTest		0.9
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel/maven/XmlHelperTest_testBuildNamespaceAwareDocument_g
+org.apache.camel.maven.XmlHelper		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel/maven/XmlHelperTest_testBuildTransformer_2
+org.apache.camel.maven.XmlHelper		0.3125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel/maven/XmlHelperTest_testBuildXPathNullPointerExpected_i
+org.apache.camel.maven.XmlHelper		0.1875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel/maven/XmlHelperTest_testBuildXPath_7
+org.apache.camel.maven.XmlHelper		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel/maven/integration/EIPDocumentationMojoTest
+EIPDocumentationMojoTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel/maven/integration/EIPDocumentationMojoTest_testExecuteMojo_3
+org.apache.camel.maven.DomFinder		1.0
+org.apache.camel.maven.PackageHelper.CamelComponentsModelFilter		1.0
+org.apache.camel.maven.XmlHelper		0.9375
+org.apache.camel.maven.EipDocumentationEnricherMojo		0.85294116
+org.apache.camel.maven.DocumentationEnricher		0.84615386
+org.apache.camel.maven.PackageHelper		0.6956522
+org.apache.camel.maven.CamelSpringNamespace		0.42857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel/maven/integration/test-EIPDocumentationMojoTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel/maven/test-CamelSpringNamespaceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel/maven/test-DomFinderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel/maven/test-EipDocumentationEnricherMojoTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel/maven/test-PackageHelperTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/maven/camel-eip-documentation-enricher-maven-plugin/target/site/clover/org/apache/camel/maven/test-XmlHelperTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,297 @@
+./components/camel-jackson/target/site/clover/org/apache/camel
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonBindingTest
+JacksonBindingTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonBindingTest_testMarshalAndUnmarshalPojo_ab
+org.apache.camel.component.jackson.JacksonDataFormat		0.07608695
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonConcurrentTest
+JacksonConcurrentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonConcurrentTest_testConcurrentProducers_7j
+org.apache.camel.component.jackson.JacksonDataFormat		0.07608695
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonConcurrentTest_testNoConcurrentProducers_49
+org.apache.camel.component.jackson.JacksonDataFormat		0.07608695
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonDataFormatTest
+JacksonDataFormatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonDataFormatTest_testList_3
+org.apache.camel.component.jackson.JacksonDataFormat		0.17753623
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonDataFormatTest_testMap_6y
+org.apache.camel.component.jackson.JacksonDataFormat		0.17753623
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonDataFormatTest_testString_8v
+org.apache.camel.component.jackson.JacksonDataFormat		0.17753623
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonIncludeDefaultTest
+JacksonIncludeDefaultTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonIncludeDefaultTest_testMmarshalPojo_7q
+org.apache.camel.component.jackson.JacksonDataFormat		0.025362318
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonIncludeNotNulllTest
+JacksonIncludeNotNulllTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonIncludeNotNulllTest_testMmarshalPojo_4a
+org.apache.camel.component.jackson.JacksonDataFormat		0.025362318
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonJAXBAnnotationTest
+JacksonJAXBAnnotationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonJAXBAnnotationTest_testMarshalJAXBObject_54
+org.apache.camel.component.jackson.JacksonDataFormat		0.07608695
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonJsonDataFormatTest
+JacksonJsonDataFormatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonJsonDataFormatTest_testMarshalAndUnmarshalMapWithPrettyPrint_bv
+org.apache.camel.component.jackson.JacksonDataFormat		0.07608695
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonJsonDataFormatTest_testMarshalAndUnmarshalMap_bz
+org.apache.camel.component.jackson.JacksonDataFormat		0.07608695
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonJsonDataFormatTest_testMarshalAndUnmarshalPojo_64
+org.apache.camel.component.jackson.JacksonDataFormat		0.07608695
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonMarshalAllowJMSTypeTest
+JacksonMarshalAllowJMSTypeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonMarshalAllowJMSTypeTest_testUnmarshalPojo_99
+org.apache.camel.component.jackson.JacksonDataFormat		0.057971016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonMarshalContentTypeHeaderTest
+JacksonMarshalContentTypeHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonMarshalContentTypeHeaderTest_testNo_dm
+org.apache.camel.component.jackson.JacksonDataFormat		0.014492754
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonMarshalContentTypeHeaderTest_testYes2_97
+org.apache.camel.component.jackson.JacksonDataFormat		0.025362318
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonMarshalContentTypeHeaderTest_testYes_6p
+org.apache.camel.component.jackson.JacksonDataFormat		0.025362318
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonMarshalTest
+JacksonMarshalTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonMarshalTest_testMarshalAndUnmarshalMapWithPrettyPrint_59
+org.apache.camel.component.jackson.JacksonDataFormat		0.07608695
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonMarshalTest_testMarshalAndUnmarshalMap_5n
+org.apache.camel.component.jackson.JacksonDataFormat		0.07608695
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonMarshalTest_testMarshalAndUnmarshalPojo_ac
+org.apache.camel.component.jackson.JacksonDataFormat		0.07608695
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonMarshalUnmarshalListTest
+JacksonMarshalUnmarshalListTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonMarshalUnmarshalListTest_testUnmarshalListPojoOneElement_11
+org.apache.camel.component.jackson.JacksonDataFormat		0.054347824
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonMarshalUnmarshalListTest_testUnmarshalListPojo_4f
+org.apache.camel.component.jackson.JacksonDataFormat		0.054347824
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonMarshalUnmarshalTypeHeaderNotAllowedTest
+JacksonMarshalUnmarshalTypeHeaderNotAllowedTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonMarshalUnmarshalTypeHeaderNotAllowedTest_testUnmarshalPojo_9
+org.apache.camel.component.jackson.JacksonDataFormat		0.050724637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonMarshalUnmarshalTypeHeaderTest
+JacksonMarshalUnmarshalTypeHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonMarshalUnmarshalTypeHeaderTest_testUnmarshalPojo_0
+org.apache.camel.component.jackson.JacksonDataFormat		0.050724637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonMarshalViewTest
+JacksonMarshalViewTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonMarshalViewTest_testMarshalAndUnmarshalPojoWithAnotherView_e
+org.apache.camel.component.jackson.JacksonDataFormat		0.07608695
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonMarshalViewTest_testMarshalAndUnmarshalPojoWithView_4r
+org.apache.camel.component.jackson.JacksonDataFormat		0.07608695
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonModuleRefTest
+JacksonModuleRefTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonModuleRefTest_testCustomModule_8t
+org.apache.camel.component.jackson.JacksonDataFormat		0.025362318
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonModuleTest
+JacksonModuleTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonModuleTest_testCustomModule_3a
+org.apache.camel.component.jackson.JacksonDataFormat		0.025362318
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonNameBindingTest
+JacksonNameBindingTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonNameBindingTest_testMarshalAndUnmarshalPojo_6g
+org.apache.camel.component.jackson.JacksonDataFormat		0.07608695
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonObjectListSplitTest
+JacksonObjectListSplitTest		1.0
+JacksonObjectListSplitTest.DummyObject		0.6
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonObjectListSplitTest_testJackson_7k
+org.apache.camel.component.jackson.JacksonDataFormat		0.054347824
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonObjectMapperTest
+JacksonObjectMapperTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonObjectMapperTest_testMarshalAndUnmarshalMapWithPrettyPrint_3q
+org.apache.camel.component.jackson.JacksonDataFormat		0.07608695
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonObjectMapperTest_testMarshalAndUnmarshalMap_e1
+org.apache.camel.component.jackson.JacksonDataFormat		0.07608695
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/JacksonObjectMapperTest_testMarshalAndUnmarshalPojo_7l
+org.apache.camel.component.jackson.JacksonDataFormat		0.07608695
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/ListJacksonUnmarshalDTest
+ListJacksonUnmarshalDTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/ListJacksonUnmarshalDTest_testUnmarshalListPojoOneElement_cg
+org.apache.camel.component.jackson.JacksonDataFormat		0.054347824
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/ListJacksonUnmarshalDTest_testUnmarshalListPojo_20
+org.apache.camel.component.jackson.JacksonDataFormat		0.054347824
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/SpringJacksonEnableFeatureTest
+SpringJacksonEnableFeatureTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/SpringJacksonEnableFeatureTest_testMarshal_5
+org.apache.camel.component.jackson.JacksonDataFormat		0.025362318
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/SpringJacksonJsonDataFormatTest
+SpringJacksonJsonDataFormatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/SpringJacksonJsonDataFormatTest_testMarshalAndUnmarshalAgeView_6j
+org.apache.camel.component.jackson.JacksonDataFormat		0.07608695
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/SpringJacksonJsonDataFormatTest_testMarshalAndUnmarshalMapWithPrettyPrint_82
+org.apache.camel.component.jackson.JacksonDataFormat		0.07608695
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/SpringJacksonJsonDataFormatTest_testMarshalAndUnmarshalMap_8s
+org.apache.camel.component.jackson.JacksonDataFormat		0.07608695
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/SpringJacksonJsonDataFormatTest_testMarshalAndUnmarshalPojo_7u
+org.apache.camel.component.jackson.JacksonDataFormat		0.07608695
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/SpringJacksonMarshalUnmarshalListTest
+SpringJacksonMarshalUnmarshalListTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/SpringJacksonMarshalUnmarshalListTest_testUnmarshalListPojoOneElement_8x
+org.apache.camel.component.jackson.JacksonDataFormat		0.054347824
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/SpringJacksonMarshalUnmarshalListTest_testUnmarshalListPojo_72
+org.apache.camel.component.jackson.JacksonDataFormat		0.054347824
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/TestJAXBPojo
+TestJAXBPojo		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/TestOtherPojo
+TestOtherPojo		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/TestPojo
+TestPojo		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/TestPojoView
+TestPojoView		0.6388889
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/converter/JacksonConversionsPojoTest
+JacksonConversionsPojoTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/converter/JacksonConversionsPojoTest_shouldConvertPojoToString_1g
+shouldConvertPojoToString
+org.apache.camel.component.jackson.converter.JacksonTypeConverters		0.43037975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/converter/JacksonConversionsSimpleTest
+JacksonConversionsSimpleTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/converter/JacksonConversionsSimpleTest_shouldNotConvertMapToNumber_8
+shouldNotConvertMapToNumber
+org.apache.camel.component.jackson.converter.JacksonTypeConverters		0.3164557
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/converter/JacksonConversionsSimpleTest_shouldNotConvertMapToPrimitive_40
+shouldNotConvertMapToPrimitive
+org.apache.camel.component.jackson.converter.JacksonTypeConverters		0.3164557
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/converter/JacksonConversionsSimpleTest_shouldNotConvertMapToString_an
+shouldNotConvertMapToString
+org.apache.camel.component.jackson.converter.JacksonTypeConverters		0.3164557
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/converter/JacksonConversionsTest
+JacksonConversionsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/converter/JacksonConversionsTest_shouldConvertMapToPojo_b4
+shouldConvertMapToPojo
+org.apache.camel.component.jackson.converter.JacksonTypeConverters		0.62025315
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/converter/test-JacksonConversionsPojoTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/converter/test-JacksonConversionsSimpleTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/converter/test-JacksonConversionsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/test-JacksonBindingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/test-JacksonConcurrentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/test-JacksonDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/test-JacksonIncludeDefaultTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/test-JacksonIncludeNotNulllTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/test-JacksonJAXBAnnotationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/test-JacksonJsonDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/test-JacksonMarshalAllowJMSTypeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/test-JacksonMarshalContentTypeHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/test-JacksonMarshalTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/test-JacksonMarshalUnmarshalListTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/test-JacksonMarshalUnmarshalTypeHeaderNotAllowedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/test-JacksonMarshalUnmarshalTypeHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/test-JacksonMarshalViewTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/test-JacksonModuleRefTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/test-JacksonModuleTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/test-JacksonNameBindingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/test-JacksonObjectListSplitTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/test-JacksonObjectListSplitTest_DummyObject
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/test-JacksonObjectMapperTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/test-ListJacksonUnmarshalDTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/test-SpringJacksonEnableFeatureTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/test-SpringJacksonJsonDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/test-SpringJacksonMarshalUnmarshalListTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/test-TestJAXBPojo
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/test-TestOtherPojo
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/test-TestPojo
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jackson/target/site/clover/org/apache/camel/component/jackson/test-TestPojoView
+-- -- -- -- -- -- -- -- -- -- -- -- --

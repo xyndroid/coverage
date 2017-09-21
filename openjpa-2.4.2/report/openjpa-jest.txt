@@ -1,0 +1,60 @@
+./openjpa-jest/target/clover/org/apache/openjpa
+./openjpa-jest/target/clover/org/apache/openjpa/persistence/jest/TestJEST
+TestJEST		0.9285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jest/target/clover/org/apache/openjpa/persistence/jest/TestJEST_testBadURL_1
+org.apache.openjpa.persistence.jest.ExceptionFormatter		1.0
+org.apache.openjpa.persistence.jest.JESTServlet		0.5735294
+org.apache.openjpa.persistence.jest.ProcessingException		0.54545456
+org.apache.openjpa.persistence.jest.JESTContext		0.375
+org.apache.openjpa.persistence.jest.PrototypeFactory		0.104166664
+org.apache.openjpa.persistence.jest.XMLFormatter		0.0815047
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jest/target/clover/org/apache/openjpa/persistence/jest/TestJEST_testBadURL_3
+org.apache.openjpa.persistence.jest.ExceptionFormatter		1.0
+org.apache.openjpa.persistence.jest.JESTServlet		0.5735294
+org.apache.openjpa.persistence.jest.ProcessingException		0.54545456
+org.apache.openjpa.persistence.jest.JESTContext		0.375
+org.apache.openjpa.persistence.jest.PrototypeFactory		0.104166664
+org.apache.openjpa.persistence.jest.XMLFormatter		0.0815047
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jest/target/clover/org/apache/openjpa/persistence/jest/TestJEST_testBadURL_5
+org.apache.openjpa.persistence.jest.ExceptionFormatter		1.0
+org.apache.openjpa.persistence.jest.JESTServlet		0.5735294
+org.apache.openjpa.persistence.jest.ProcessingException		0.54545456
+org.apache.openjpa.persistence.jest.JESTContext		0.375
+org.apache.openjpa.persistence.jest.PrototypeFactory		0.104166664
+org.apache.openjpa.persistence.jest.XMLFormatter		0.0815047
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jest/target/clover/org/apache/openjpa/persistence/jest/TestJEST_testDomain_0
+org.apache.openjpa.persistence.jest.MetamodelHelper.AttributeComparator		1.0
+org.apache.openjpa.persistence.jest.DomainCommand		0.84615386
+org.apache.openjpa.persistence.jest.PrototypeFactory		0.7916667
+org.apache.openjpa.persistence.jest.MetamodelHelper		0.6
+org.apache.openjpa.persistence.jest.JESTContext		0.30921054
+org.apache.openjpa.persistence.jest.AbstractCommand		0.28282827
+org.apache.openjpa.persistence.jest.JESTServlet		0.22058824
+org.apache.openjpa.persistence.jest.XMLFormatter		0.17868339
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jest/target/clover/org/apache/openjpa/persistence/jest/TestJEST_testDomain_2
+org.apache.openjpa.persistence.jest.MetamodelHelper.AttributeComparator		1.0
+org.apache.openjpa.persistence.jest.DomainCommand		0.84615386
+org.apache.openjpa.persistence.jest.PrototypeFactory		0.7916667
+org.apache.openjpa.persistence.jest.MetamodelHelper		0.6
+org.apache.openjpa.persistence.jest.JESTContext		0.30921054
+org.apache.openjpa.persistence.jest.AbstractCommand		0.28282827
+org.apache.openjpa.persistence.jest.JESTServlet		0.22058824
+org.apache.openjpa.persistence.jest.XMLFormatter		0.17868339
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jest/target/clover/org/apache/openjpa/persistence/jest/TestJEST_testDomain_4
+org.apache.openjpa.persistence.jest.MetamodelHelper.AttributeComparator		1.0
+org.apache.openjpa.persistence.jest.DomainCommand		0.84615386
+org.apache.openjpa.persistence.jest.PrototypeFactory		0.7916667
+org.apache.openjpa.persistence.jest.MetamodelHelper		0.6
+org.apache.openjpa.persistence.jest.JESTContext		0.30921054
+org.apache.openjpa.persistence.jest.AbstractCommand		0.28282827
+org.apache.openjpa.persistence.jest.JESTServlet		0.22058824
+org.apache.openjpa.persistence.jest.XMLFormatter		0.17868339
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-jest/target/clover/org/apache/openjpa/persistence/jest/test-TestJEST
+-- -- -- -- -- -- -- -- -- -- -- -- --

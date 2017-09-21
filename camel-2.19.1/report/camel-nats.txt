@@ -1,0 +1,31 @@
+./components/camel-nats/target/site/clover/org/apache/camel
+./components/camel-nats/target/site/clover/org/apache/camel/component/nats/NatsConsumerLoadTest
+NatsConsumerLoadTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-nats/target/site/clover/org/apache/camel/component/nats/NatsConsumerMaxMessagesQueueTest
+NatsConsumerMaxMessagesQueueTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-nats/target/site/clover/org/apache/camel/component/nats/NatsConsumerMaxMessagesTest
+NatsConsumerMaxMessagesTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-nats/target/site/clover/org/apache/camel/component/nats/NatsConsumerTest
+NatsConsumerTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-nats/target/site/clover/org/apache/camel/component/nats/NatsProducerTLSTest
+NatsProducerTLSTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-nats/target/site/clover/org/apache/camel/component/nats/NatsProducerTest
+NatsProducerTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-nats/target/site/clover/org/apache/camel/component/nats/test-NatsConsumerLoadTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-nats/target/site/clover/org/apache/camel/component/nats/test-NatsConsumerMaxMessagesQueueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-nats/target/site/clover/org/apache/camel/component/nats/test-NatsConsumerMaxMessagesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-nats/target/site/clover/org/apache/camel/component/nats/test-NatsConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-nats/target/site/clover/org/apache/camel/component/nats/test-NatsProducerTLSTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-nats/target/site/clover/org/apache/camel/component/nats/test-NatsProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

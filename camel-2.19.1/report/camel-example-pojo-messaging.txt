@@ -1,0 +1,10 @@
+./examples/camel-example-pojo-messaging/target/site/clover/org/apache/camel
+./examples/camel-example-pojo-messaging/target/site/clover/org/apache/camel/example/pojo_messaging/CamelContextTest
+CamelContextTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-pojo-messaging/target/site/clover/org/apache/camel/example/pojo_messaging/CamelContextTest_testCheckFiles_0
+org.apache.camel.example.pojo_messaging.DistributeRecordsBean		1.0
+org.apache.camel.example.pojo_messaging.SendFileRecordsToQueueBean		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-pojo-messaging/target/site/clover/org/apache/camel/example/pojo_messaging/test-CamelContextTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

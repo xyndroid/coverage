@@ -1,0 +1,90 @@
+./components/camel-bam/target/site/clover/org/apache/camel
+./components/camel-bam/target/site/clover/org/apache/camel/bam/BamRouteTest
+BamRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bam/target/site/clover/org/apache/camel/bam/BamRouteTest_testBam_2
+org.apache.camel.bam.model.ActivityDefinition		1.0
+org.apache.camel.bam.model.EntitySupport		1.0
+org.apache.camel.bam.EntityManagerTemplate		0.92
+org.apache.camel.bam.model.ProcessInstance		0.8913044
+org.apache.camel.bam.model.ActivityState		0.83950615
+org.apache.camel.bam.model.TemporalEntity		0.8333333
+org.apache.camel.bam.QueryUtils		0.6315789
+org.apache.camel.bam.EntityManagers		0.6111111
+org.apache.camel.bam.processor.JpaBamProcessor		0.6
+org.apache.camel.bam.rules.TemporalRule		0.53424656
+org.apache.camel.bam.rules.ProcessRules		0.5
+org.apache.camel.bam.processor.ActivityMonitorEngine		0.4915254
+org.apache.camel.bam.rules.ActivityRules		0.44444445
+org.apache.camel.bam.processor.JpaBamProcessorSupport		0.44186047
+org.apache.camel.bam.model.ProcessDefinition		0.42857143
+org.apache.camel.bam.processor.BamProcessorSupport		0.38356164
+org.apache.camel.bam.TimeExpression		0.33333334
+org.apache.camel.bam.processor.ProcessContext		0.26666668
+org.apache.camel.bam.ProcessBuilder		0.19791667
+org.apache.camel.bam.ActivityBuilder		0.102564104
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bam/target/site/clover/org/apache/camel/bam/EntityManagersTest
+EntityManagersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bam/target/site/clover/org/apache/camel/bam/EntityManagersTest_shouldCreateNewEntityManagerIfThereIsNoTransaction_3
+org.apache.camel.bam.EntityManagers		0.2777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bam/target/site/clover/org/apache/camel/bam/MultipleActivitiesConcurrentlyTest
+MultipleActivitiesConcurrentlyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bam/target/site/clover/org/apache/camel/bam/MultipleActivitiesConcurrentlyTest_testBam_0
+org.apache.camel.bam.model.ActivityDefinition		1.0
+org.apache.camel.bam.model.EntitySupport		1.0
+org.apache.camel.bam.EntityManagerTemplate		0.92
+org.apache.camel.bam.model.ProcessInstance		0.9130435
+org.apache.camel.bam.model.TemporalEntity		0.8333333
+org.apache.camel.bam.model.ActivityState		0.7777778
+org.apache.camel.bam.QueryUtils		0.6315789
+org.apache.camel.bam.EntityManagers		0.6111111
+org.apache.camel.bam.processor.JpaBamProcessor		0.6
+org.apache.camel.bam.rules.TemporalRule		0.56164384
+org.apache.camel.bam.rules.ProcessRules		0.5
+org.apache.camel.bam.processor.ActivityMonitorEngine		0.4915254
+org.apache.camel.bam.processor.JpaBamProcessorSupport		0.45348838
+org.apache.camel.bam.rules.ActivityRules		0.44444445
+org.apache.camel.bam.model.ProcessDefinition		0.42857143
+org.apache.camel.bam.processor.BamProcessorSupport		0.38356164
+org.apache.camel.bam.TimeExpression		0.33333334
+org.apache.camel.bam.processor.ProcessContext		0.26666668
+org.apache.camel.bam.ProcessBuilder		0.19791667
+org.apache.camel.bam.ActivityBuilder		0.102564104
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bam/target/site/clover/org/apache/camel/bam/MultipleProcessesTest
+MultipleProcessesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bam/target/site/clover/org/apache/camel/bam/MultipleProcessesTest_testBam_1
+org.apache.camel.bam.model.ActivityDefinition		1.0
+org.apache.camel.bam.model.EntitySupport		1.0
+org.apache.camel.bam.EntityManagerTemplate		0.92
+org.apache.camel.bam.model.ProcessInstance		0.9130435
+org.apache.camel.bam.model.TemporalEntity		0.8333333
+org.apache.camel.bam.model.ActivityState		0.7777778
+org.apache.camel.bam.QueryUtils		0.6315789
+org.apache.camel.bam.EntityManagers		0.6111111
+org.apache.camel.bam.processor.JpaBamProcessor		0.6
+org.apache.camel.bam.rules.TemporalRule		0.56164384
+org.apache.camel.bam.rules.ProcessRules		0.5
+org.apache.camel.bam.processor.ActivityMonitorEngine		0.4915254
+org.apache.camel.bam.processor.JpaBamProcessorSupport		0.45348838
+org.apache.camel.bam.rules.ActivityRules		0.44444445
+org.apache.camel.bam.model.ProcessDefinition		0.42857143
+org.apache.camel.bam.processor.BamProcessorSupport		0.38356164
+org.apache.camel.bam.TimeExpression		0.33333334
+org.apache.camel.bam.processor.ProcessContext		0.26666668
+org.apache.camel.bam.ProcessBuilder		0.19791667
+org.apache.camel.bam.ActivityBuilder		0.102564104
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bam/target/site/clover/org/apache/camel/bam/test-BamRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bam/target/site/clover/org/apache/camel/bam/test-EntityManagersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bam/target/site/clover/org/apache/camel/bam/test-MultipleActivitiesConcurrentlyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bam/target/site/clover/org/apache/camel/bam/test-MultipleProcessesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

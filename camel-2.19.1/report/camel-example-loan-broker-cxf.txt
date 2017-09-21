@@ -1,0 +1,15 @@
+./examples/camel-example-loan-broker-cxf/target/site/clover/org/apache/camel
+./examples/camel-example-loan-broker-cxf/target/site/clover/org/apache/camel/loanbroker/LoanBrokerWSTest
+LoanBrokerWSTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-loan-broker-cxf/target/site/clover/org/apache/camel/loanbroker/LoanBrokerWSTest_testInvocation_0
+org.apache.camel.loanbroker.credit.CreditAgency		1.0
+org.apache.camel.loanbroker.ReplyProcessor		1.0
+org.apache.camel.loanbroker.bank.BankQuote		1.0
+org.apache.camel.loanbroker.BankResponseAggregationStrategy		0.6666667
+org.apache.camel.loanbroker.CreditScoreProcessor		0.6
+org.apache.camel.loanbroker.bank.Bank		0.54545456
+org.apache.camel.loanbroker.Client		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-loan-broker-cxf/target/site/clover/org/apache/camel/loanbroker/test-LoanBrokerWSTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

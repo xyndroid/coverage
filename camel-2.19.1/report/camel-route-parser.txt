@@ -1,0 +1,266 @@
+./tooling/camel-route-parser/target/site/clover/org/apache/camel
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/MyLocalAddRouteBuilderTest
+MyLocalAddRouteBuilderTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/MyNettyTest
+MyNettyTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/MyRouteEmptyUriTest
+MyRouteEmptyUriTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/MyRouteTest
+MyRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/MyRouteTest_testFoo_n
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterCdiConcatRouteBuilderConfigureTest
+RoasterCdiConcatRouteBuilderConfigureTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterCdiConcatRouteBuilderConfigureTest_parse_7
+org.apache.camel.parser.ParserResult		0.42857143
+org.apache.camel.parser.helper.CamelJavaParserHelper		0.29983792
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterCdiRouteBuilderConfigureTest
+RoasterCdiRouteBuilderConfigureTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterCdiRouteBuilderConfigureTest_parse_1
+org.apache.camel.parser.ParserResult		0.42857143
+org.apache.camel.parser.helper.CamelJavaParserHelper		0.21555915
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterConcatFieldRouteBuilderConfigureTest
+RoasterConcatFieldRouteBuilderConfigureTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterConcatFieldRouteBuilderConfigureTest_parse_6
+org.apache.camel.parser.ParserResult		0.42857143
+org.apache.camel.parser.helper.CamelJavaParserHelper		0.26580226
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterEndpointInjectTest
+RoasterEndpointInjectTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterEndpointInjectTest_parse_k
+org.apache.camel.parser.ParserResult		0.61904764
+org.apache.camel.parser.RouteBuilderParser		0.5141509
+org.apache.camel.parser.model.CamelEndpointDetails		0.25490198
+org.apache.camel.parser.helper.CamelJavaParserHelper		0.22366288
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterFieldRouteBuilderConfigureTest
+RoasterFieldRouteBuilderConfigureTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterFieldRouteBuilderConfigureTest_parse_a
+org.apache.camel.parser.ParserResult		0.42857143
+org.apache.camel.parser.helper.CamelJavaParserHelper		0.2771475
+org.apache.camel.parser.roaster.StatementFieldSource		0.10309278
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterMethodCallRouteBuilderConfigureTest
+RoasterMethodCallRouteBuilderConfigureTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterMethodCallRouteBuilderConfigureTest_parse_3
+org.apache.camel.parser.ParserResult		0.42857143
+org.apache.camel.parser.helper.CamelJavaParserHelper		0.22204214
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterMyFieldMethodCallRouteBuilderConfigureTest
+RoasterMyFieldMethodCallRouteBuilderConfigureTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterMyFieldMethodCallRouteBuilderConfigureTest_parse_m
+org.apache.camel.parser.ParserResult		0.42857143
+org.apache.camel.parser.helper.CamelJavaParserHelper		0.29011345
+org.apache.camel.parser.roaster.StatementFieldSource		0.10309278
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterMyLocalAddRouteBuilderTest
+RoasterMyLocalAddRouteBuilderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterMyLocalAddRouteBuilderTest_parse_5
+org.apache.camel.parser.ParserResult		0.42857143
+org.apache.camel.parser.helper.CamelJavaParserHelper		0.273906
+org.apache.camel.parser.roaster.AnonymousMethodSource		0.045454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterMyNettyTest
+RoasterMyNettyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterMyNettyTest_parse_h
+org.apache.camel.parser.ParserResult		0.42857143
+org.apache.camel.parser.helper.CamelJavaParserHelper		0.38411668
+org.apache.camel.parser.roaster.StatementFieldSource		0.10309278
+org.apache.camel.parser.roaster.AnonymousMethodSource		0.045454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterNewLineConstRouteBuilderConfigureTest
+RoasterNewLineConstRouteBuilderConfigureTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterNewLineConstRouteBuilderConfigureTest_parse_2
+org.apache.camel.parser.ParserResult		0.42857143
+org.apache.camel.parser.helper.CamelJavaParserHelper		0.29821718
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterNewLineRouteBuilderConfigureTest
+RoasterNewLineRouteBuilderConfigureTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterNewLineRouteBuilderConfigureTest_parse_c
+org.apache.camel.parser.ParserResult		0.42857143
+org.apache.camel.parser.helper.CamelJavaParserHelper		0.22528364
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterRouteBuilderCamelTestSupportTest
+RoasterRouteBuilderCamelTestSupportTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterRouteBuilderCamelTestSupportTest_parse_e
+org.apache.camel.parser.ParserResult		0.42857143
+org.apache.camel.parser.helper.CamelJavaParserHelper		0.23176661
+org.apache.camel.parser.roaster.AnonymousMethodSource		0.045454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterRouteBuilderConfigureTest
+RoasterRouteBuilderConfigureTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterRouteBuilderConfigureTest_parse_f
+org.apache.camel.parser.ParserResult		0.42857143
+org.apache.camel.parser.helper.CamelJavaParserHelper		0.16855754
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterRouteBuilderEmptyUriTest
+RoasterRouteBuilderEmptyUriTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterRouteBuilderEmptyUriTest_parse_b
+org.apache.camel.parser.ParserResult		0.52380955
+org.apache.camel.parser.helper.CamelJavaParserHelper		0.2382496
+org.apache.camel.parser.roaster.AnonymousMethodSource		0.045454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterSimpleProcessorTest
+RoasterSimpleProcessorTest		0.9375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterSimpleProcessorTest_parse_j
+org.apache.camel.parser.ParserResult		0.61904764
+org.apache.camel.parser.RouteBuilderParser		0.29245284
+org.apache.camel.parser.helper.CamelJavaParserHelper		0.22042139
+org.apache.camel.parser.model.CamelEndpointDetails		0.21568628
+org.apache.camel.parser.roaster.AnonymousMethodSource		0.058441557
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterSimpleRouteBuilderConfigureTest
+RoasterSimpleRouteBuilderConfigureTest		0.9
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterSimpleRouteBuilderConfigureTest_parse_i
+org.apache.camel.parser.ParserResult		0.71428573
+org.apache.camel.parser.helper.CamelJavaParserHelper		0.14748785
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterSimpleToDTest
+RoasterSimpleToDTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterSimpleToDTest_parse_8
+org.apache.camel.parser.ParserResult		0.71428573
+org.apache.camel.parser.RouteBuilderParser		0.4056604
+org.apache.camel.parser.helper.CamelJavaParserHelper		0.25445706
+org.apache.camel.parser.model.CamelEndpointDetails		0.21568628
+org.apache.camel.parser.roaster.StatementFieldSource		0.10309278
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterSimpleToFTest
+RoasterSimpleToFTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterSimpleToFTest_parse_9
+org.apache.camel.parser.ParserResult		0.71428573
+org.apache.camel.parser.RouteBuilderParser		0.4056604
+org.apache.camel.parser.model.CamelEndpointDetails		0.21568628
+org.apache.camel.parser.helper.CamelJavaParserHelper		0.17017828
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterSplitTokenizeTest
+RoasterSplitTokenizeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/RoasterSplitTokenizeTest_parse_d
+org.apache.camel.parser.ParserResult		0.61904764
+org.apache.camel.parser.RouteBuilderParser		0.39150944
+org.apache.camel.parser.helper.CamelJavaParserHelper		0.23176661
+org.apache.camel.parser.model.CamelEndpointDetails		0.21568628
+org.apache.camel.parser.roaster.AnonymousMethodSource		0.058441557
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/SimpleProcessorTest
+SimpleProcessorTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/SplitTokenizeTest
+SplitTokenizeTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/test-MyLocalAddRouteBuilderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/test-MyNettyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/test-MyRouteEmptyUriTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/test-MyRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/test-RoasterCdiConcatRouteBuilderConfigureTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/test-RoasterCdiRouteBuilderConfigureTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/test-RoasterConcatFieldRouteBuilderConfigureTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/test-RoasterEndpointInjectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/test-RoasterFieldRouteBuilderConfigureTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/test-RoasterMethodCallRouteBuilderConfigureTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/test-RoasterMyFieldMethodCallRouteBuilderConfigureTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/test-RoasterMyLocalAddRouteBuilderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/test-RoasterMyNettyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/test-RoasterNewLineConstRouteBuilderConfigureTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/test-RoasterNewLineRouteBuilderConfigureTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/test-RoasterRouteBuilderCamelTestSupportTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/test-RoasterRouteBuilderConfigureTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/test-RoasterRouteBuilderEmptyUriTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/test-RoasterSimpleProcessorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/test-RoasterSimpleRouteBuilderConfigureTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/test-RoasterSimpleToDTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/test-RoasterSimpleToFTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/test-RoasterSplitTokenizeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/test-SimpleProcessorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/java/test-SplitTokenizeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/xml/FindElementInRoutesTest
+FindElementInRoutesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/xml/FindElementInRoutesTest_testXml_0
+org.apache.camel.parser.helper.XmlLineNumberParser		0.8333333
+org.apache.camel.parser.helper.CamelXmlHelper		0.35443038
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/xml/XmlFilterRouteTest
+XmlFilterRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/xml/XmlFilterRouteTest_testXml_l
+org.apache.camel.parser.helper.XmlLineNumberParser		0.75
+org.apache.camel.parser.model.CamelSimpleExpressionDetails		0.5294118
+org.apache.camel.parser.XmlRouteParser		0.29457363
+org.apache.camel.parser.helper.CamelXmlHelper		0.11392405
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/xml/XmlOnExceptionRouteTest
+XmlOnExceptionRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/xml/XmlOnExceptionRouteTest_testXml_4
+org.apache.camel.parser.helper.XmlLineNumberParser		0.75
+org.apache.camel.parser.XmlRouteParser		0.42635658
+org.apache.camel.parser.helper.CamelXmlHelper		0.33755276
+org.apache.camel.parser.model.CamelEndpointDetails		0.1764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/xml/XmlRouteTest
+XmlRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/xml/XmlRouteTest_testXml_g
+org.apache.camel.parser.helper.XmlLineNumberParser		0.75
+org.apache.camel.parser.XmlRouteParser		0.41860464
+org.apache.camel.parser.helper.CamelXmlHelper		0.24472573
+org.apache.camel.parser.model.CamelEndpointDetails		0.1764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/xml/test-FindElementInRoutesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/xml/test-XmlFilterRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/xml/test-XmlOnExceptionRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./tooling/camel-route-parser/target/site/clover/org/apache/camel/parser/xml/test-XmlRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

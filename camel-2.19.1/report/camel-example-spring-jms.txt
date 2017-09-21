@@ -1,0 +1,20 @@
+./examples/camel-example-spring-jms/target/site/clover/org/apache/camel
+./examples/camel-example-spring-jms/target/site/clover/org/apache/camel/example/SpringJmsClientRemotingServerTest
+SpringJmsClientRemotingServerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-spring-jms/target/site/clover/org/apache/camel/example/SpringJmsClientRemotingServerTest_testCamelRemotingInvocation_1
+org.apache.camel.example.server.Treble		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-spring-jms/target/site/clover/org/apache/camel/example/SpringJmsClientServerTest
+SpringJmsClientServerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-spring-jms/target/site/clover/org/apache/camel/example/SpringJmsClientServerTest_testCamelClientInvocation_0
+org.apache.camel.example.server.Treble		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-spring-jms/target/site/clover/org/apache/camel/example/SpringJmsClientServerTest_testCamelEndpointInvocation_2
+org.apache.camel.example.server.Treble		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-spring-jms/target/site/clover/org/apache/camel/example/test-SpringJmsClientRemotingServerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-spring-jms/target/site/clover/org/apache/camel/example/test-SpringJmsClientServerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,616 @@
+./components/camel-jpa/target/site/clover/org/apache/camel
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/AbstractJpaMethodTest
+AbstractJpaMethodTest		0.99019605
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaComponentTest
+JpaComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaComponentTest_testJpaComponentConsumerHasLockModeType_16
+org.apache.camel.component.jpa.JpaEndpoint		0.39461884
+org.apache.camel.component.jpa.JpaComponent		0.21875
+org.apache.camel.component.jpa.JpaConsumer		0.091194965
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaComponentTest_testJpaComponentCtr_1o
+org.apache.camel.component.jpa.JpaComponent		0.21875
+org.apache.camel.component.jpa.JpaEndpoint		0.089686096
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaComponentTest_testJpaComponentEMFandTM_1g
+org.apache.camel.component.jpa.JpaComponent		0.26041666
+org.apache.camel.component.jpa.JpaEndpoint		0.089686096
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaComponentTest_testJpaComponentEmptyPath_e
+org.apache.camel.component.jpa.JpaComponent		0.17708333
+org.apache.camel.component.jpa.JpaEndpoint		0.09865471
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaComponentTest_testJpaComponentWithPath_11
+org.apache.camel.component.jpa.JpaComponent		0.21875
+org.apache.camel.component.jpa.JpaEndpoint		0.10762332
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaEndpointTest
+JpaEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaEndpointTest_testJpaEndpointCtrUrlEMF_w
+org.apache.camel.component.jpa.JpaEndpoint		0.089686096
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaEndpointTest_testJpaEndpointCtrUrlEMFandTM_x
+org.apache.camel.component.jpa.JpaEndpoint		0.07174888
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaEndpointTest_testJpaEndpointCtrUrl_18
+org.apache.camel.component.jpa.JpaEndpoint		0.14349777
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaEndpointTest_testJpaEndpointCtr_t
+org.apache.camel.component.jpa.JpaEndpoint		0.15246637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaEndpointTest_testJpaEndpointCustomEMFandTM_o
+org.apache.camel.component.jpa.JpaEndpoint		0.089686096
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaTest
+JpaTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaTest_testProducerInsertsIntoDatabaseThenConsumerFiresMessageExchange_19
+org.apache.camel.component.jpa.JpaConsumer.DataHolder		1.0
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaConsumer		0.5974843
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaEndpoint		0.4529148
+org.apache.camel.component.jpa.JpaProducer		0.34615386
+org.apache.camel.component.jpa.QueryBuilder		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaUseMergeTest
+JpaUseMergeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaUseMergeTest_consumeEntity_1i
+org.apache.camel.component.jpa.JpaConsumer.DataHolder		1.0
+org.apache.camel.component.jpa.JpaConsumer		0.6006289
+org.apache.camel.component.jpa.JpaComponent		0.5520833
+org.apache.camel.component.jpa.JpaEndpoint		0.47085202
+org.apache.camel.component.jpa.QueryBuilder		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaUseMergeTest_produceExistingEntity_17
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaComponent		0.5520833
+org.apache.camel.component.jpa.JpaEndpoint		0.47085202
+org.apache.camel.component.jpa.JpaProducer		0.34615386
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaUseMergeTest_produceNewEntitiesFromArray_1n
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaComponent		0.5416667
+org.apache.camel.component.jpa.JpaEndpoint		0.4618834
+org.apache.camel.component.jpa.JpaProducer		0.32417583
+org.apache.camel.component.jpa.JpaConsumer		0.006289308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaUseMergeTest_produceNewEntitiesFromList_13
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaComponent		0.5520833
+org.apache.camel.component.jpa.JpaEndpoint		0.47085202
+org.apache.camel.component.jpa.JpaProducer		0.33516484
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaUseMergeTest_produceNewEntity_8
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaComponent		0.5520833
+org.apache.camel.component.jpa.JpaEndpoint		0.47085202
+org.apache.camel.component.jpa.JpaProducer		0.34615386
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaUsePersistTest
+JpaUsePersistTest		0.9411765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaUsePersistTest_consumeEntity_1e
+org.apache.camel.component.jpa.JpaConsumer.DataHolder		1.0
+org.apache.camel.component.jpa.JpaConsumer		0.6006289
+org.apache.camel.component.jpa.JpaComponent		0.5520833
+org.apache.camel.component.jpa.JpaEndpoint		0.47085202
+org.apache.camel.component.jpa.QueryBuilder		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaUsePersistTest_produceExistingEntityShouldThrowAnException_15
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaComponent		0.5520833
+org.apache.camel.component.jpa.JpaEndpoint		0.47085202
+org.apache.camel.component.jpa.JpaProducer		0.34065935
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaUsePersistTest_produceNewEntitiesFromArray_9
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaComponent		0.5416667
+org.apache.camel.component.jpa.JpaEndpoint		0.4618834
+org.apache.camel.component.jpa.JpaProducer		0.32967034
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaUsePersistTest_produceNewEntitiesFromList_10
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaComponent		0.5520833
+org.apache.camel.component.jpa.JpaEndpoint		0.47085202
+org.apache.camel.component.jpa.JpaProducer		0.34065935
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaUsePersistTest_produceNewEntity_c
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaComponent		0.5520833
+org.apache.camel.component.jpa.JpaEndpoint		0.47085202
+org.apache.camel.component.jpa.JpaProducer		0.34615386
+org.apache.camel.component.jpa.JpaConsumer		0.006289308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaUsingCustomPersistenceUnitTest
+JpaUsingCustomPersistenceUnitTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaUsingCustomPersistenceUnitTest_testProducerInsertsIntoDatabaseThenConsumerFiresMessageExchange_1j
+org.apache.camel.component.jpa.JpaConsumer.DataHolder		1.0
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaConsumer		0.5974843
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaEndpoint		0.4529148
+org.apache.camel.component.jpa.JpaProducer		0.34615386
+org.apache.camel.component.jpa.QueryBuilder		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaWithNamedQueryAndParametersTest
+JpaWithNamedQueryAndParametersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaWithNamedQueryAndParametersTest_testProducerInsertsIntoDatabaseThenConsumerFiresMessageExchange_1c
+org.apache.camel.component.jpa.JpaConsumer.DataHolder		1.0
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaConsumer		0.5157233
+org.apache.camel.component.jpa.JpaEndpoint		0.4529148
+org.apache.camel.component.jpa.JpaProducer		0.34615386
+org.apache.camel.component.jpa.QueryBuilder		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaWithNamedQueryTest
+JpaWithNamedQueryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaWithNamedQueryTest_testProducerInsertsIntoDatabaseThenConsumerFiresMessageExchange_14
+org.apache.camel.component.jpa.JpaConsumer.DataHolder		1.0
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaConsumer		0.6226415
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaEndpoint		0.44394618
+org.apache.camel.component.jpa.JpaProducer		0.34615386
+org.apache.camel.component.jpa.QueryBuilder		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaWithNativeQueryTest
+JpaWithNativeQueryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaWithNativeQueryTest_testProducerInsertsIntoDatabaseThenConsumerFiresMessageExchange_g
+org.apache.camel.component.jpa.JpaConsumer.DataHolder		1.0
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaConsumer		0.6352201
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaEndpoint		0.44394618
+org.apache.camel.component.jpa.JpaProducer		0.34615386
+org.apache.camel.component.jpa.QueryBuilder		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaWithNativeQueryWithResultClassTest
+JpaWithNativeQueryWithResultClassTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaWithNativeQueryWithResultClassTest_testProducerInsertsIntoDatabaseThenConsumerFiresMessageExchange_k
+org.apache.camel.component.jpa.JpaConsumer.DataHolder		1.0
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaConsumer		0.6352201
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaEndpoint		0.44394618
+org.apache.camel.component.jpa.JpaProducer		0.34615386
+org.apache.camel.component.jpa.QueryBuilder		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaWithQueryTest
+JpaWithQueryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/JpaWithQueryTest_testProducerInsertsIntoDatabaseThenConsumerFiresMessageExchange_1f
+org.apache.camel.component.jpa.JpaConsumer.DataHolder		1.0
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaConsumer		0.6163522
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaEndpoint		0.44394618
+org.apache.camel.component.jpa.JpaProducer		0.34615386
+org.apache.camel.component.jpa.QueryBuilder		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/QueryBuilderTest
+QueryBuilderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/QueryBuilderTest_testNamedQueryBuilder_a
+org.apache.camel.component.jpa.QueryBuilder		0.121212125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/QueryBuilderTest_testNativeQueryBuilder_y
+org.apache.camel.component.jpa.QueryBuilder		0.121212125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/QueryBuilderTest_testQueryBuilderWithParametersMap_l
+org.apache.camel.component.jpa.QueryBuilder		0.25757575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/QueryBuilderTest_testQueryBuilderWithParameters_1d
+org.apache.camel.component.jpa.QueryBuilder		0.28787878
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/QueryBuilderTest_testQueryBuilder_i
+org.apache.camel.component.jpa.QueryBuilder		0.121212125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/test-AbstractJpaMethodTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/test-JpaComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/test-JpaEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/test-JpaTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/test-JpaUseMergeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/test-JpaUsePersistTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/test-JpaUsingCustomPersistenceUnitTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/test-JpaWithNamedQueryAndParametersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/test-JpaWithNamedQueryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/test-JpaWithNativeQueryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/test-JpaWithNativeQueryWithResultClassTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/test-JpaWithQueryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/component/jpa/test-QueryBuilderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/interceptor/JpaTraceEventMessageTest
+JpaTraceEventMessageTest		0.9767442
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/interceptor/JpaTraceEventMessageTest_testSendTraceMessage_p
+org.apache.camel.processor.interceptor.jpa.JpaTraceEventMessage		0.94520545
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaComponent		0.5520833
+org.apache.camel.component.jpa.JpaEndpoint		0.39013454
+org.apache.camel.component.jpa.JpaProducer		0.34615386
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/interceptor/test-JpaTraceEventMessageTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/AbstractJpaTest
+AbstractJpaTest		0.972973
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/FileConsumerJpaIdempotentTest
+FileConsumerJpaIdempotentTest		0.9189189
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/FileConsumerJpaIdempotentTest_testFileConsumerJpaIdempotent_3
+org.apache.camel.processor.idempotent.jpa.MessageProcessed		0.8888889
+org.apache.camel.component.jpa.JpaHelper		0.47058824
+org.apache.camel.processor.idempotent.jpa.JpaMessageIdRepository		0.36
+org.apache.camel.component.jpa.JpaConsumer		0.006289308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaBatchConsumerTest
+JpaBatchConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaBatchConsumerTest_testBatchConsumer_b
+org.apache.camel.component.jpa.JpaConsumer.DataHolder		1.0
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaEndpoint		0.39910313
+org.apache.camel.component.jpa.JpaProducer		0.34615386
+org.apache.camel.component.jpa.JpaConsumer		0.34591195
+org.apache.camel.component.jpa.JpaComponent		0.19791667
+org.apache.camel.component.jpa.QueryBuilder		0.13636364
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaFlushOnSendTest
+JpaFlushOnSendTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaFlushOnSendTest_testRouteJpa_1l
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaProducer		0.25274727
+org.apache.camel.component.jpa.JpaEndpoint		0.09417041
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaIdempotentConsumerTest
+JpaIdempotentConsumerTest		0.975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaIdempotentConsumerTest_testDuplicateMessagesAreFilteredOut_j
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.9
+org.apache.camel.processor.idempotent.jpa.MessageProcessed		0.8888889
+org.apache.camel.component.jpa.JpaHelper		0.5882353
+org.apache.camel.processor.idempotent.jpa.JpaMessageIdRepository		0.36
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaIdempotentConsumerTest_testFailedExchangesNotAdded_r
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.9
+org.apache.camel.processor.idempotent.jpa.MessageProcessed		0.8888889
+org.apache.camel.component.jpa.JpaHelper		0.61764705
+org.apache.camel.processor.idempotent.jpa.JpaMessageIdRepository		0.488
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaNonTXRollbackTest
+JpaNonTXRollbackTest		0.9705882
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaNonTXRollbackTest_testNonTXRollback_1p
+org.apache.camel.component.jpa.JpaConsumer.DataHolder		1.0
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaConsumer		0.5880503
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaEndpoint		0.40807176
+org.apache.camel.component.jpa.JpaProducer		0.34615386
+org.apache.camel.component.jpa.JpaComponent		0.19791667
+org.apache.camel.component.jpa.QueryBuilder		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaPollingConsumerLockEntityTest
+JpaPollingConsumerLockEntityTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaPollingConsumerLockEntityTest_testPollingConsumerWithLock_1m
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaHelper		0.61764705
+org.apache.camel.component.jpa.JpaPollingConsumer		0.5214286
+org.apache.camel.component.jpa.JpaEndpoint		0.3721973
+org.apache.camel.component.jpa.JpaProducer		0.25274727
+org.apache.camel.component.jpa.JpaComponent		0.19791667
+org.apache.camel.component.jpa.QueryBuilder		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaPollingConsumerLockEntityTest_testPollingConsumerWithoutLock_0
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaHelper		0.61764705
+org.apache.camel.component.jpa.JpaPollingConsumer		0.5
+org.apache.camel.component.jpa.JpaEndpoint		0.3632287
+org.apache.camel.component.jpa.JpaProducer		0.25274727
+org.apache.camel.component.jpa.JpaComponent		0.19791667
+org.apache.camel.component.jpa.QueryBuilder		0.16666667
+org.apache.camel.component.jpa.JpaConsumer		0.006289308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaPollingConsumerTest
+JpaPollingConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaPollingConsumerTest_testPollingConsumer_2
+org.apache.camel.component.jpa.JpaPollingConsumer		0.5
+org.apache.camel.component.jpa.JpaComponent		0.48958334
+org.apache.camel.component.jpa.JpaHelper		0.47058824
+org.apache.camel.component.jpa.JpaEndpoint		0.29596412
+org.apache.camel.component.jpa.QueryBuilder		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaPollingConsumerTimeoutTest
+JpaPollingConsumerTimeoutTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaPollingConsumerTimeoutTest_testPollingConsumer_1k
+org.apache.camel.component.jpa.JpaComponent		0.5520833
+org.apache.camel.component.jpa.JpaPollingConsumer		0.55
+org.apache.camel.component.jpa.JpaHelper		0.47058824
+org.apache.camel.component.jpa.JpaEndpoint		0.30493274
+org.apache.camel.component.jpa.QueryBuilder		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaPreConsumedTest
+JpaPreConsumedTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaPreConsumedTest_testPreConsumed_12
+org.apache.camel.component.jpa.JpaConsumer.DataHolder		1.0
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaConsumer		0.31761006
+org.apache.camel.component.jpa.JpaProducer		0.25274727
+org.apache.camel.component.jpa.QueryBuilder		0.13636364
+org.apache.camel.component.jpa.JpaEndpoint		0.11210762
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaProducerConcurrentTest
+JpaProducerConcurrentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaProducerConcurrentTest_testConcurrentProducers_5
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaProducer		0.25274727
+org.apache.camel.component.jpa.JpaEndpoint		0.09417041
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaProducerConcurrentTest_testNoConcurrentProducers_v
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaProducer		0.25274727
+org.apache.camel.component.jpa.JpaEndpoint		0.09417041
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaProducerNoBodyTest
+JpaProducerNoBodyTest		0.9230769
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaProducerNoBodyTest_testRouteJpa_h
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaProducer		0.104395606
+org.apache.camel.component.jpa.JpaEndpoint		0.058295965
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaProducerPassingEntityManagerTest
+JpaProducerPassingEntityManagerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaProducerPassingEntityManagerTest_testRouteJpa_1a
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaHelper		0.64705884
+org.apache.camel.component.jpa.JpaProducer		0.25274727
+org.apache.camel.component.jpa.JpaEndpoint		0.20179372
+org.apache.camel.component.jpa.JpaComponent		0.19791667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaProducerRemoveTest
+JpaProducerRemoveTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaProducerRemoveTest_testRouteJpa_7
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaHelper		0.5882353
+org.apache.camel.component.jpa.JpaProducer		0.30769232
+org.apache.camel.component.jpa.JpaEndpoint		0.20179372
+org.apache.camel.component.jpa.JpaComponent		0.19791667
+org.apache.camel.component.jpa.JpaConsumer		0.006289308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaProducerWithQueryTest
+JpaProducerWithQueryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaProducerWithQueryTest_testProducerWithNamedQuery_f
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaProducer		0.54395604
+org.apache.camel.component.jpa.QueryBuilder		0.22727273
+org.apache.camel.component.jpa.JpaEndpoint		0.10313901
+org.apache.camel.component.jpa.JpaConsumer		0.006289308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaProducerWithQueryTest_testProducerWithNativeQueryAndResultClass_m
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaProducer		0.51648355
+org.apache.camel.component.jpa.QueryBuilder		0.22727273
+org.apache.camel.component.jpa.JpaEndpoint		0.10313901
+org.apache.camel.component.jpa.JpaConsumer		0.006289308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaProducerWithQueryTest_testProducerWithNativeQuery_1h
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaProducer		0.50549453
+org.apache.camel.component.jpa.QueryBuilder		0.16666667
+org.apache.camel.component.jpa.JpaEndpoint		0.10313901
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaProducerWithQueryTest_testProducerWithQuery_z
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaProducer		0.52747256
+org.apache.camel.component.jpa.QueryBuilder		0.22727273
+org.apache.camel.component.jpa.JpaEndpoint		0.10313901
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaRouteConsumeLockEntityTest
+JpaRouteConsumeLockEntityTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaRouteConsumeLockEntityTest_testRouteJpa_6
+org.apache.camel.component.jpa.JpaConsumer.DataHolder		1.0
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaConsumer		0.31761006
+org.apache.camel.component.jpa.JpaProducer		0.25274727
+org.apache.camel.component.jpa.QueryBuilder		0.13636364
+org.apache.camel.component.jpa.JpaEndpoint		0.11210762
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaRouteEndpointTest
+JpaRouteEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaRouteEndpointTest_testRouteJpa_1b
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaComponent		0.375
+org.apache.camel.component.jpa.JpaProducer		0.25274727
+org.apache.camel.component.jpa.JpaEndpoint		0.09417041
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaRouteMaximumResultsTest
+JpaRouteMaximumResultsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaRouteMaximumResultsTest_testRouteJpa_s
+org.apache.camel.component.jpa.JpaConsumer.DataHolder		1.0
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaConsumer		0.3207547
+org.apache.camel.component.jpa.JpaProducer		0.25274727
+org.apache.camel.component.jpa.QueryBuilder		0.13636364
+org.apache.camel.component.jpa.JpaEndpoint		0.11210762
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaRouteSharedEntityManagerTest
+JpaRouteSharedEntityManagerTest		1.0
+JpaRouteSharedEntityManagerTest.LatchProcessor		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaRouteSharedEntityManagerTest_testRouteJpaNotShared_u
+org.apache.camel.component.jpa.JpaConsumer.DataHolder		1.0
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaConsumer		0.5220126
+org.apache.camel.component.jpa.JpaProducer		0.25274727
+org.apache.camel.component.jpa.QueryBuilder		0.16666667
+org.apache.camel.component.jpa.JpaEndpoint		0.12107623
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaRouteSharedEntityManagerTest_testRouteJpaShared_1
+org.apache.camel.component.jpa.JpaConsumer.DataHolder		1.0
+org.apache.camel.component.jpa.JpaConsumer		0.5188679
+org.apache.camel.component.jpa.JpaHelper		0.44117647
+org.apache.camel.component.jpa.JpaProducer		0.24725275
+org.apache.camel.component.jpa.QueryBuilder		0.16666667
+org.apache.camel.component.jpa.JpaEndpoint		0.12107623
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaRouteSkipLockedEntityTest
+JpaRouteSkipLockedEntityTest		0.0
+JpaRouteSkipLockedEntityTest.WaitLatch		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaRouteTest
+JpaRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaRouteTest_testRouteJpa_4
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaProducer		0.25274727
+org.apache.camel.component.jpa.JpaEndpoint		0.09417041
+org.apache.camel.component.jpa.JpaComponent		0.041666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaRoutemaxMessagesPerPollTest
+JpaRoutemaxMessagesPerPollTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaRoutemaxMessagesPerPollTest_testRouteJpa_q
+org.apache.camel.component.jpa.JpaConsumer.DataHolder		1.0
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaConsumer		0.3490566
+org.apache.camel.component.jpa.JpaProducer		0.25274727
+org.apache.camel.component.jpa.QueryBuilder		0.13636364
+org.apache.camel.component.jpa.JpaEndpoint		0.11210762
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaTXRollbackTest
+JpaTXRollbackTest		0.96875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaTXRollbackTest_testTXRollback_n
+org.apache.camel.component.jpa.JpaConsumer.DataHolder		1.0
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaConsumer		0.5943396
+org.apache.camel.component.jpa.JpaHelper		0.5588235
+org.apache.camel.component.jpa.JpaEndpoint		0.40807176
+org.apache.camel.component.jpa.JpaProducer		0.34615386
+org.apache.camel.component.jpa.JpaComponent		0.19791667
+org.apache.camel.component.jpa.QueryBuilder		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaWireTapTest
+JpaWireTapTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/JpaWireTapTest_testRouteJpa_d
+org.apache.camel.component.jpa.JpaHelper		0.7647059
+org.apache.camel.component.jpa.JpaCloseEntityManagerOnCompletion		0.7
+org.apache.camel.component.jpa.JpaProducer		0.25274727
+org.apache.camel.component.jpa.JpaEndpoint		0.09417041
+org.apache.camel.component.jpa.JpaComponent		0.041666668
+org.apache.camel.component.jpa.JpaConsumer		0.006289308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/test-AbstractJpaTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/test-FileConsumerJpaIdempotentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/test-JpaBatchConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/test-JpaFlushOnSendTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/test-JpaIdempotentConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/test-JpaNonTXRollbackTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/test-JpaPollingConsumerLockEntityTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/test-JpaPollingConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/test-JpaPollingConsumerTimeoutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/test-JpaPreConsumedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/test-JpaProducerConcurrentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/test-JpaProducerNoBodyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/test-JpaProducerPassingEntityManagerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/test-JpaProducerRemoveTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/test-JpaProducerWithQueryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/test-JpaRouteConsumeLockEntityTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/test-JpaRouteEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/test-JpaRouteMaximumResultsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/test-JpaRouteSharedEntityManagerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/test-JpaRouteSharedEntityManagerTest_LatchProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/test-JpaRouteSkipLockedEntityTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/test-JpaRouteSkipLockedEntityTest_WaitLatch
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/test-JpaRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/test-JpaRoutemaxMessagesPerPollTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/test-JpaTXRollbackTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jpa/target/site/clover/org/apache/camel/processor/jpa/test-JpaWireTapTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

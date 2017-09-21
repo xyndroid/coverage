@@ -1,0 +1,764 @@
+./components/camel-spring-ws/target/site/clover/org/apache/camel
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/AddBreadcrumbHttpHeaderTestInterceptor
+AddBreadcrumbHttpHeaderTestInterceptor		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ConsumerBreadcrumbIdTest
+ConsumerBreadcrumbIdTest		0.95454544
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ConsumerBreadcrumbIdTest_consumeWebServiceWithPojoRequestWhichIsWithBreadcrumb_18
+consumeWebServiceWithPojoRequestWhichIsWithBreadcrumb
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ConsumerEndpointMappingByBeanNameRouteTest
+ConsumerEndpointMappingByBeanNameRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ConsumerEndpointMappingByBeanNameRouteTest_testBeanName_i
+testBeanName
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.60952383
+org.apache.camel.component.spring.ws.bean.CamelEndpointDispatcher		0.42857143
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.3529412
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.14285715
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.031007752
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.025
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ConsumerEndpointMappingResponseHandlingRouteTest
+ConsumerEndpointMappingResponseHandlingRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ConsumerEndpointMappingResponseHandlingRouteTest_testAction_1s
+testAction
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.74509805
+org.apache.camel.component.spring.ws.bean.WSACamelEndpointMapping		0.6818182
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.64761907
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.5416667
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.42857143
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.24489796
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.093023255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ConsumerEndpointMappingResponseHandlingRouteTest_testRootQName_b
+testRootQName
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.60952383
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.3529412
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.25833333
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.14285715
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.031007752
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ConsumerEndpointMappingResponseHandlingRouteTest_testSoapAction_1o
+testSoapAction
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.60952383
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.3529412
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.29166666
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.14285715
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.031007752
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ConsumerEndpointMappingResponseHandlingRouteTest_testTo_16
+testTo
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.74509805
+org.apache.camel.component.spring.ws.bean.WSACamelEndpointMapping		0.72727275
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.64761907
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.5416667
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.42857143
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.24489796
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.093023255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ConsumerEndpointMappingResponseHandlingRouteTest_testUriPathWildcard_m
+testUriPathWildcard
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.60952383
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.45
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.3529412
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.14285715
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.031007752
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ConsumerEndpointMappingResponseHandlingRouteTest_testUriPath_4
+testUriPath
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.60952383
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.475
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.3529412
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.14285715
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.031007752
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ConsumerEndpointMappingResponseHandlingRouteTest_testUri_q
+testUri
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.625
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.60952383
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.3529412
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.24489796
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.14285715
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.031007752
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ConsumerEndpointMappingResponseHandlingRouteTest_testXPath_14
+testXPath
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.60952383
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.55833334
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.3529412
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.24489796
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.14285715
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.031007752
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ConsumerEndpointMappingRouteTest
+ConsumerEndpointMappingRouteTest		0.9574468
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ConsumerEndpointMappingRouteTest_testRootQName_h
+testRootQName
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.60952383
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.44166666
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.42857143
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.3529412
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.031007752
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ConsumerEndpointMappingRouteTest_testSoapAction_1v
+testSoapAction
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.60952383
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.475
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.42857143
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.3529412
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.031007752
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ConsumerEndpointMappingRouteTest_testUriPathWildcard_21
+testUriPathWildcard
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.60952383
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.42857143
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.3529412
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.35
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.031007752
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ConsumerEndpointMappingRouteTest_testUriPath_6
+testUriPath
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.60952383
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.45
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.42857143
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.3529412
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.031007752
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ConsumerEndpointMappingRouteTest_testUri_1u
+testUri
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.625
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.60952383
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.42857143
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.3529412
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.24489796
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.031007752
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ConsumerEndpointMappingRouteTest_testWrongSoapAction_9
+testWrongSoapAction
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.5416667
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ConsumerEndpointMappingRouteTest_testWrongUri_11
+testWrongUri
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.5416667
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ConsumerEndpointMappingRouteTest_testXPath_0
+testXPath
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.60952383
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.55833334
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.42857143
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.3529412
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.24489796
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.031007752
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ConsumerExceptionPropagationRouteTest
+ConsumerExceptionPropagationRouteTest		0.72727275
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ConsumerExceptionPropagationRouteTest_consumeWebserviceAndTestForSoapFault_1p
+consumeWebserviceAndTestForSoapFault
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.51428574
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.15833333
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ConsumerMarshallingRouteTest
+ConsumerMarshallingRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ConsumerMarshallingRouteTest_consumeWebserviceWithPojoRequestAndPojoResponse_d
+consumeWebserviceWithPojoRequestAndPojoResponse
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.8627451
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.63809526
+org.apache.camel.component.spring.ws.SpringWebserviceProducer.DefaultWebserviceMessageCallback		0.5681818
+org.apache.camel.component.spring.ws.SpringWebserviceProducer		0.3152174
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.21666667
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.14285715
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.13953489
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ConsumerMarshallingRouteTest_consumeWebserviceWithPojoRequestAsInOnly_f
+consumeWebserviceWithPojoRequestAsInOnly
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.7647059
+org.apache.camel.component.spring.ws.SpringWebserviceProducer.DefaultWebserviceMessageCallback		0.5681818
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.552381
+org.apache.camel.component.spring.ws.SpringWebserviceProducer		0.3152174
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.23333333
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.14285715
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.12403101
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ConsumerMarshallingRouteTest_consumeWebserviceWithPojoRequestAsIn_l
+consumeWebserviceWithPojoRequestAsIn
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.8627451
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.63809526
+org.apache.camel.component.spring.ws.SpringWebserviceProducer.DefaultWebserviceMessageCallback		0.5681818
+org.apache.camel.component.spring.ws.SpringWebserviceProducer		0.3152174
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.23333333
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.14285715
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.13953489
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ConsumerMarshallingRouteTest_consumeWebserviceWithPojoRequest_1n
+consumeWebserviceWithPojoRequest
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.8627451
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.63809526
+org.apache.camel.component.spring.ws.SpringWebserviceProducer.DefaultWebserviceMessageCallback		0.5681818
+org.apache.camel.component.spring.ws.SpringWebserviceProducer		0.3152174
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.21666667
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.14285715
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.13953489
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/MessageFilterResolvingDefaultsTest
+MessageFilterResolvingDefaultsTest		0.9285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/MessageFilterResolvingDefaultsTest_isUsedDefaultFilter_1f
+isUsedDefaultFilter
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.7254902
+org.apache.camel.component.spring.ws.SpringWebserviceProducer.DefaultWebserviceMessageCallback		0.54545456
+org.apache.camel.component.spring.ws.SpringWebserviceProducer		0.19565217
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.093023255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/MessageFilterResolvingTest
+MessageFilterResolvingTest		0.95
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/MessageFilterResolvingTest_emptyTestHeaderAttribute_1d
+emptyTestHeaderAttribute
+org.apache.camel.component.spring.ws.SpringWebserviceProducer.DefaultWebserviceMessageCallback		0.54545456
+org.apache.camel.component.spring.ws.SpringWebserviceProducer		0.19565217
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.093023255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/MessageFilterResolvingTest_globalTestHeaderAttribute_v
+globalTestHeaderAttribute
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.7254902
+org.apache.camel.component.spring.ws.SpringWebserviceProducer.DefaultWebserviceMessageCallback		0.54545456
+org.apache.camel.component.spring.ws.SpringWebserviceProducer		0.19565217
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.093023255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/MessageFilterResolvingTest_localTestHeaderAttribute_r
+localTestHeaderAttribute
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.7254902
+org.apache.camel.component.spring.ws.SpringWebserviceProducer.DefaultWebserviceMessageCallback		0.54545456
+org.apache.camel.component.spring.ws.SpringWebserviceProducer		0.19565217
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.093023255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ProducerLocalRouteTest
+ProducerLocalRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ProducerLocalRouteTest_consumeStockQuoteWebserviceAndConvertResult_8
+consumeStockQuoteWebserviceAndConvertResult
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.74509805
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.60952383
+org.apache.camel.component.spring.ws.SpringWebserviceProducer.DefaultWebserviceMessageCallback		0.5681818
+org.apache.camel.component.spring.ws.SpringWebserviceProducer		0.3152174
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.21666667
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.14285715
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.13953489
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ProducerLocalRouteTest_consumeStockQuoteWebserviceAndPreserveHeaders_p
+consumeStockQuoteWebserviceAndPreserveHeaders
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.8627451
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.63809526
+org.apache.camel.component.spring.ws.SpringWebserviceProducer.DefaultWebserviceMessageCallback		0.5681818
+org.apache.camel.component.spring.ws.SpringWebserviceProducer		0.3152174
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.21666667
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.14285715
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.13953489
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ProducerLocalRouteTest_consumeStockQuoteWebserviceAndProvideEndpointUriByHeader_g
+consumeStockQuoteWebserviceAndProvideEndpointUriByHeader
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.74509805
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.60952383
+org.apache.camel.component.spring.ws.SpringWebserviceProducer.DefaultWebserviceMessageCallback		0.5681818
+org.apache.camel.component.spring.ws.SpringWebserviceProducer		0.3043478
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.21666667
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.14285715
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.13953489
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ProducerLocalRouteTest_consumeStockQuoteWebserviceInOnly_y
+consumeStockQuoteWebserviceInOnly
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.8627451
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.63809526
+org.apache.camel.component.spring.ws.SpringWebserviceProducer.DefaultWebserviceMessageCallback		0.5681818
+org.apache.camel.component.spring.ws.SpringWebserviceProducer		0.3152174
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.21666667
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.14285715
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.13953489
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ProducerLocalRouteTest_consumeStockQuoteWebserviceWithCamelStringSourceInput_1g
+consumeStockQuoteWebserviceWithCamelStringSourceInput
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.74509805
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.60952383
+org.apache.camel.component.spring.ws.SpringWebserviceProducer.DefaultWebserviceMessageCallback		0.5681818
+org.apache.camel.component.spring.ws.SpringWebserviceProducer		0.3152174
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.21666667
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.14285715
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.13953489
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ProducerLocalRouteTest_consumeStockQuoteWebserviceWithDefaultTemplate_7
+consumeStockQuoteWebserviceWithDefaultTemplate
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.74509805
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.60952383
+org.apache.camel.component.spring.ws.SpringWebserviceProducer.DefaultWebserviceMessageCallback		0.5681818
+org.apache.camel.component.spring.ws.SpringWebserviceProducer		0.3152174
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.21666667
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.14285715
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.13953489
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ProducerLocalRouteTest_consumeStockQuoteWebserviceWithNonDefaultMessageFactory_k
+consumeStockQuoteWebserviceWithNonDefaultMessageFactory
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.74509805
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.60952383
+org.apache.camel.component.spring.ws.SpringWebserviceProducer.DefaultWebserviceMessageCallback		0.5681818
+org.apache.camel.component.spring.ws.SpringWebserviceProducer		0.3152174
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.21666667
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.14285715
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.13953489
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ProducerLocalRouteTest_consumeStockQuoteWebservice_1m
+consumeStockQuoteWebservice
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.74509805
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.60952383
+org.apache.camel.component.spring.ws.SpringWebserviceProducer.DefaultWebserviceMessageCallback		0.5681818
+org.apache.camel.component.spring.ws.SpringWebserviceProducer		0.3152174
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.21666667
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.14285715
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.13953489
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ProducerRemoteRouteTest
+ProducerRemoteRouteTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/ProducerRemoteRouteTimeOutTest
+ProducerRemoteRouteTimeOutTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/SoapHeaderTest
+SoapHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/SoapHeaderTest_consumeStockQuoteWebserviceWithSoapHeader_10
+consumeStockQuoteWebserviceWithSoapHeader
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.8235294
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.64761907
+org.apache.camel.component.spring.ws.SpringWebserviceProducer.DefaultWebserviceMessageCallback		0.6136364
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.42857143
+org.apache.camel.component.spring.ws.SpringWebserviceProducer		0.3152174
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.21666667
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.13953489
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/SoapResponseAttachmentTest
+SoapResponseAttachmentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/SoapResponseAttachmentTest_consumeStockQuoteWebserviceWithSoapResponseAttachment_s
+consumeStockQuoteWebserviceWithSoapResponseAttachment
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.84313726
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.6761905
+org.apache.camel.component.spring.ws.SpringWebserviceProducer.DefaultWebserviceMessageCallback		0.6136364
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.42857143
+org.apache.camel.component.spring.ws.SpringWebserviceProducer		0.39130434
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.21666667
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.13953489
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/AbstractConsumerTests
+AbstractConsumerTests		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/AbstractWSATests
+AbstractWSATests		0.53846157
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/CamelDirectSenderTest
+CamelDirectSenderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/CamelDirectSenderTest_camelInvalid_20
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.74509805
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.64761907
+org.apache.camel.component.spring.ws.bean.WSACamelEndpointMapping		0.57575756
+org.apache.camel.component.spring.ws.bean.CamelDirectSender		0.53846157
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.42857143
+org.apache.camel.component.spring.ws.bean.CamelDirectConnection		0.4
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.093023255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/CamelDirectSenderTest_camelReceivedReplyTo_o
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.74509805
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.64761907
+org.apache.camel.component.spring.ws.bean.WSACamelEndpointMapping		0.57575756
+org.apache.camel.component.spring.ws.bean.CamelDirectSender		0.53846157
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.42857143
+org.apache.camel.component.spring.ws.bean.CamelDirectConnection		0.35
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.093023255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/CamelDirectSenderTest_customMessageIdGenerator_x
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.74509805
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.64761907
+org.apache.camel.component.spring.ws.bean.WSACamelEndpointMapping		0.57575756
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.42857143
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.093023255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/CamelDirectSenderTest_customSender_a
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.74509805
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.64761907
+org.apache.camel.component.spring.ws.bean.WSACamelEndpointMapping		0.5681818
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.42857143
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.093023255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/CamelDirectSenderTest_defaultMessageIdGenerator_1c
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.74509805
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.64761907
+org.apache.camel.component.spring.ws.bean.WSACamelEndpointMapping		0.57575756
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.42857143
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.093023255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/CamelDirectSenderTest_endpointSender_1w
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.74509805
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.64761907
+org.apache.camel.component.spring.ws.bean.WSACamelEndpointMapping		0.57575756
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.42857143
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.093023255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/ConsumerWSAEndpointMappingRouteTest
+ConsumerWSAEndpointMappingRouteTest		0.98275864
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/ConsumerWSAEndpointMappingRouteTest_testClassicalSoapHttpHeaderInterference_u
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.60952383
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.42857143
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.3529412
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.21666667
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.031007752
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/ConsumerWSAEndpointMappingRouteTest_testWSAddressingActionAndTo_1l
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.64761907
+org.apache.camel.component.spring.ws.bean.WSACamelEndpointMapping		0.6136364
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.42857143
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.3529412
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.15
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.093023255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/ConsumerWSAEndpointMappingRouteTest_testWSAddressingActionResponseActions_15
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.64761907
+org.apache.camel.component.spring.ws.bean.WSACamelEndpointMapping		0.6060606
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.42857143
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.3529412
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.15
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.093023255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/ConsumerWSAEndpointMappingRouteTest_testWSAddressingAction_1q
+org.apache.camel.component.spring.ws.bean.WSACamelEndpointMapping		0.6818182
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.64761907
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.42857143
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.3529412
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.15
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.093023255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/ConsumerWSAEndpointMappingRouteTest_testWSAddressingResolveActionMoreSpecif_1
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.64761907
+org.apache.camel.component.spring.ws.bean.WSACamelEndpointMapping		0.6136364
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.42857143
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.3529412
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.15
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.093023255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/ConsumerWSAEndpointMappingRouteTest_testWSAddressingResolveToMoreSpecif_3
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.64761907
+org.apache.camel.component.spring.ws.bean.WSACamelEndpointMapping		0.6136364
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.42857143
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.3529412
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.15
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.093023255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/ConsumerWSAEndpointMappingRouteTest_testWSAddressingToAndAction_1j
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.64761907
+org.apache.camel.component.spring.ws.bean.WSACamelEndpointMapping		0.6136364
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.42857143
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.3529412
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.15
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.093023255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/ConsumerWSAEndpointMappingRouteTest_testWSAddressingToResponseActions_22
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.64761907
+org.apache.camel.component.spring.ws.bean.WSACamelEndpointMapping		0.6060606
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.42857143
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.3529412
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.15
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.093023255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/ConsumerWSAEndpointMappingRouteTest_testWSAddressingTo_5
+org.apache.camel.component.spring.ws.bean.WSACamelEndpointMapping		0.72727275
+org.apache.camel.component.spring.ws.SpringWebserviceConsumer		0.64761907
+org.apache.camel.component.spring.ws.SpringWebserviceMessage		0.42857143
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.3529412
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.20408164
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.15
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.093023255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/ConsumerWSAEndpointMappingRouteTest_testWrongWSAddressingAction_1r
+org.apache.camel.component.spring.ws.bean.WSACamelEndpointMapping		0.3939394
+org.apache.camel.component.spring.ws.bean.CamelEndpointMapping		0.15
+org.apache.camel.component.spring.ws.type.EndpointMappingKey		0.08163265
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/ConsumerWSANewChannelParamsActionTests
+ConsumerWSANewChannelParamsActionTests		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/ConsumerWSANewChannelParamsToTests
+ConsumerWSANewChannelParamsToTests		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/ConsumerWSASameChannelParamsActionTests
+ConsumerWSASameChannelParamsActionTests		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/ConsumerWSASameChannelParamsToTests
+ConsumerWSASameChannelParamsToTests		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/ProducerParamsBasicTest
+ProducerParamsBasicTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/ProducerParamsBasicTest_testDefaulFaultTo_z
+org.apache.camel.component.spring.ws.SpringWebserviceProducer.DefaultWebserviceMessageCallback		0.6818182
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.64705884
+org.apache.camel.component.spring.ws.SpringWebserviceProducer		0.3152174
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.12403101
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/ProducerParamsBasicTest_testDefaultReplyTo_1a
+org.apache.camel.component.spring.ws.SpringWebserviceProducer.DefaultWebserviceMessageCallback		0.6818182
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.64705884
+org.apache.camel.component.spring.ws.SpringWebserviceProducer		0.3152174
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.12403101
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/ProducerParamsBasicTest_testEmptyReplyAndFaultAndActionMustBePresent_1k
+org.apache.camel.component.spring.ws.SpringWebserviceProducer.DefaultWebserviceMessageCallback		0.6818182
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.64705884
+org.apache.camel.component.spring.ws.SpringWebserviceProducer		0.3152174
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.12403101
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/ProducerParamsBasicTest_testFaultFollowsReply_t
+org.apache.camel.component.spring.ws.SpringWebserviceProducer.DefaultWebserviceMessageCallback		0.70454544
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.64705884
+org.apache.camel.component.spring.ws.SpringWebserviceProducer		0.3152174
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.12403101
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/ProducerParamsBasicTest_testFaultTo_1i
+org.apache.camel.component.spring.ws.SpringWebserviceProducer.DefaultWebserviceMessageCallback		0.70454544
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.64705884
+org.apache.camel.component.spring.ws.SpringWebserviceProducer		0.3152174
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.12403101
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/ProducerParamsBasicTest_testNoAction_19
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.64705884
+org.apache.camel.component.spring.ws.SpringWebserviceProducer.DefaultWebserviceMessageCallback		0.54545456
+org.apache.camel.component.spring.ws.SpringWebserviceProducer		0.3152174
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.12403101
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/ProducerParamsBasicTest_testReplyDoesntFollowFault_1e
+org.apache.camel.component.spring.ws.SpringWebserviceProducer.DefaultWebserviceMessageCallback		0.70454544
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.64705884
+org.apache.camel.component.spring.ws.SpringWebserviceProducer		0.3152174
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.12403101
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/ProducerParamsBasicTest_testReplyTo_n
+org.apache.camel.component.spring.ws.SpringWebserviceProducer.DefaultWebserviceMessageCallback		0.72727275
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.64705884
+org.apache.camel.component.spring.ws.SpringWebserviceProducer		0.3152174
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.12403101
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/ProducerParamsPrecedenceTest
+ProducerParamsPrecedenceTest		0.6896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/ProducerParamsPrecedenceTest_testFaultToPrecedence_2
+org.apache.camel.component.spring.ws.SpringWebserviceProducer.DefaultWebserviceMessageCallback		0.72727275
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.64705884
+org.apache.camel.component.spring.ws.SpringWebserviceProducer		0.3152174
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.07751938
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/ProducerParamsPrecedenceTest_testFaultTo_1b
+org.apache.camel.component.spring.ws.SpringWebserviceProducer.DefaultWebserviceMessageCallback		0.70454544
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.64705884
+org.apache.camel.component.spring.ws.SpringWebserviceProducer		0.3152174
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.12403101
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/ProducerParamsPrecedenceTest_testReplyToPrecedence_1h
+org.apache.camel.component.spring.ws.SpringWebserviceProducer.DefaultWebserviceMessageCallback		0.72727275
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.64705884
+org.apache.camel.component.spring.ws.SpringWebserviceProducer		0.3152174
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.07751938
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/ProducerParamsPrecedenceTest_testReplyTo_12
+org.apache.camel.component.spring.ws.SpringWebserviceProducer.DefaultWebserviceMessageCallback		0.72727275
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.64705884
+org.apache.camel.component.spring.ws.SpringWebserviceProducer		0.3152174
+org.apache.camel.component.spring.ws.SpringWebserviceConfiguration		0.12403101
+org.apache.camel.component.spring.ws.SpringWebserviceEndpoint		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/test-AbstractConsumerTests
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/test-AbstractWSATests
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/test-CamelDirectSenderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/test-ConsumerWSAEndpointMappingRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/test-ConsumerWSANewChannelParamsActionTests
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/test-ConsumerWSANewChannelParamsToTests
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/test-ConsumerWSASameChannelParamsActionTests
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/test-ConsumerWSASameChannelParamsToTests
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/test-ProducerParamsBasicTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/addressing/test-ProducerParamsPrecedenceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/filter/impl/BasicMessageFilterTest
+BasicMessageFilterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/filter/impl/BasicMessageFilterTest_consumerWithAttachment_1y
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.37254903
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/filter/impl/BasicMessageFilterTest_consumerWithHeader_e
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.8039216
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/filter/impl/BasicMessageFilterTest_nonSoapMessageShouldBeSkipped_1x
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.21568628
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/filter/impl/BasicMessageFilterTest_producerWithAttachment_1t
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.8039216
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/filter/impl/BasicMessageFilterTest_producerWithHeader_13
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.8235294
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/filter/impl/BasicMessageFilterTest_removeCamelInternalHeaderAttributes_c
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.64705884
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/filter/impl/BasicMessageFilterTest_testNullsWithExchange_17
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.21568628
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/filter/impl/BasicMessageFilterTest_testNulls_w
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/filter/impl/BasicMessageFilterTest_withoutAttachment_1z
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.88235295
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/filter/impl/BasicMessageFilterTest_withoutHeader_j
+org.apache.camel.component.spring.ws.filter.impl.BasicMessageFilter		0.43137255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/filter/impl/test-BasicMessageFilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/security/ProducerWss4JSecurityHeaderTest
+ProducerWss4JSecurityHeaderTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/security/ProducerWss4JSecurityHeaderTestInterceptor
+ProducerWss4JSecurityHeaderTestInterceptor		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/security/test-ProducerWss4JSecurityHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/security/test-ProducerWss4JSecurityHeaderTestInterceptor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/test-AddBreadcrumbHttpHeaderTestInterceptor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/test-ConsumerBreadcrumbIdTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/test-ConsumerEndpointMappingByBeanNameRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/test-ConsumerEndpointMappingResponseHandlingRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/test-ConsumerEndpointMappingRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/test-ConsumerExceptionPropagationRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/test-ConsumerMarshallingRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/test-MessageFilterResolvingDefaultsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/test-MessageFilterResolvingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/test-ProducerLocalRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/test-ProducerRemoteRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/test-ProducerRemoteRouteTimeOutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/test-SoapHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/test-SoapResponseAttachmentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/utils/TestUtil
+TestUtil		0.9285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-ws/target/site/clover/org/apache/camel/component/spring/ws/utils/test-TestUtil
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,32 @@
+./platforms/spring-boot/components-starter/camel-ribbon-starter/target/site/clover/org/apache/camel
+./platforms/spring-boot/components-starter/camel-ribbon-starter/target/site/clover/org/apache/camel/component/ribbon/springboot/cloud/RibbonLoadBalancerDisabledTest
+RibbonLoadBalancerDisabledTest		1.0
+RibbonLoadBalancerDisabledTest.TestConfiguration		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-ribbon-starter/target/site/clover/org/apache/camel/component/ribbon/springboot/cloud/RibbonLoadBalancerDisabledTest_testConfiguration_2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-ribbon-starter/target/site/clover/org/apache/camel/component/ribbon/springboot/cloud/RibbonLoadBalancerEnabledTest
+RibbonLoadBalancerEnabledTest		1.0
+RibbonLoadBalancerEnabledTest.TestConfiguration		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-ribbon-starter/target/site/clover/org/apache/camel/component/ribbon/springboot/cloud/RibbonLoadBalancerEnabledTest_testConfiguration_1
+org.apache.camel.component.ribbon.springboot.cloud.RibbonCloudAutoConfiguration		0.23529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-ribbon-starter/target/site/clover/org/apache/camel/component/ribbon/springboot/cloud/RibbonLoadBalancerTest
+RibbonLoadBalancerTest		0.75
+RibbonLoadBalancerTest.TestConfiguration		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-ribbon-starter/target/site/clover/org/apache/camel/component/ribbon/springboot/cloud/RibbonLoadBalancerTest_testLoadBalancer_0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-ribbon-starter/target/site/clover/org/apache/camel/component/ribbon/springboot/cloud/test-RibbonLoadBalancerDisabledTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-ribbon-starter/target/site/clover/org/apache/camel/component/ribbon/springboot/cloud/test-RibbonLoadBalancerDisabledTest_TestConfiguration
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-ribbon-starter/target/site/clover/org/apache/camel/component/ribbon/springboot/cloud/test-RibbonLoadBalancerEnabledTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-ribbon-starter/target/site/clover/org/apache/camel/component/ribbon/springboot/cloud/test-RibbonLoadBalancerEnabledTest_TestConfiguration
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-ribbon-starter/target/site/clover/org/apache/camel/component/ribbon/springboot/cloud/test-RibbonLoadBalancerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-ribbon-starter/target/site/clover/org/apache/camel/component/ribbon/springboot/cloud/test-RibbonLoadBalancerTest_TestConfiguration
+-- -- -- -- -- -- -- -- -- -- -- -- --

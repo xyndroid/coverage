@@ -1,0 +1,44 @@
+./platforms/camel-catalog-nexus/target/site/clover/org/apache/camel
+./platforms/camel-catalog-nexus/target/site/clover/org/apache/camel/catalog/nexus/LocalNexusComponentCatalogRepositoryTest
+LocalNexusComponentCatalogRepositoryTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-nexus/target/site/clover/org/apache/camel/catalog/nexus/LocalNexusComponentCatalogRepositoryTest_testLocalNexus_0
+org.apache.camel.catalog.nexus.BaseNexusRepository		0.60330576
+org.apache.camel.catalog.nexus.ComponentCatalogNexusRepository		0.47826087
+org.apache.camel.catalog.nexus.NexusArtifactDto		0.41666666
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-nexus/target/site/clover/org/apache/camel/catalog/nexus/LocalNexusComponentCatalogRepositoryTest_testLocalNexus_1
+org.apache.camel.catalog.nexus.BaseNexusRepository		0.60330576
+org.apache.camel.catalog.nexus.ComponentCatalogNexusRepository		0.47826087
+org.apache.camel.catalog.nexus.NexusArtifactDto		0.41666666
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-nexus/target/site/clover/org/apache/camel/catalog/nexus/LocalNexusComponentCatalogRepositoryTest_testLocalNexus_5
+org.apache.camel.catalog.nexus.BaseNexusRepository		0.60330576
+org.apache.camel.catalog.nexus.ComponentCatalogNexusRepository		0.47826087
+org.apache.camel.catalog.nexus.NexusArtifactDto		0.41666666
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-nexus/target/site/clover/org/apache/camel/catalog/nexus/LocalNexusConnectorRepositoryTest
+LocalNexusConnectorRepositoryTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-nexus/target/site/clover/org/apache/camel/catalog/nexus/LocalNexusConnectorRepositoryTest_testLocalNexus_2
+org.apache.camel.catalog.nexus.BaseNexusRepository		0.60330576
+org.apache.camel.catalog.nexus.ConnectorCatalogNexusRepository		0.56
+org.apache.camel.catalog.nexus.NexusArtifactDto		0.45833334
+org.apache.camel.catalog.nexus.ComponentCatalogNexusRepository		0.3043478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-nexus/target/site/clover/org/apache/camel/catalog/nexus/LocalNexusConnectorRepositoryTest_testLocalNexus_3
+org.apache.camel.catalog.nexus.BaseNexusRepository		0.60330576
+org.apache.camel.catalog.nexus.ConnectorCatalogNexusRepository		0.56
+org.apache.camel.catalog.nexus.NexusArtifactDto		0.45833334
+org.apache.camel.catalog.nexus.ComponentCatalogNexusRepository		0.3043478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-nexus/target/site/clover/org/apache/camel/catalog/nexus/LocalNexusConnectorRepositoryTest_testLocalNexus_4
+org.apache.camel.catalog.nexus.BaseNexusRepository		0.60330576
+org.apache.camel.catalog.nexus.ConnectorCatalogNexusRepository		0.56
+org.apache.camel.catalog.nexus.NexusArtifactDto		0.45833334
+org.apache.camel.catalog.nexus.ComponentCatalogNexusRepository		0.3043478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-nexus/target/site/clover/org/apache/camel/catalog/nexus/test-LocalNexusComponentCatalogRepositoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-nexus/target/site/clover/org/apache/camel/catalog/nexus/test-LocalNexusConnectorRepositoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

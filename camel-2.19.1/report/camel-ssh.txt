@@ -1,0 +1,90 @@
+./components/camel-ssh/target/site/clover/org/apache/camel
+./components/camel-ssh/target/site/clover/org/apache/camel/component/ssh/SshComponentConsumerTest
+SshComponentConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ssh/target/site/clover/org/apache/camel/component/ssh/SshComponentConsumerTest_testPollingConsumer_1
+org.apache.camel.component.ssh.SshResult		0.84615386
+org.apache.camel.component.ssh.SshHelper		0.6962025
+org.apache.camel.component.ssh.SshConsumer		0.4375
+org.apache.camel.component.ssh.SshConfiguration		0.21621622
+org.apache.camel.component.ssh.SshEndpoint		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ssh/target/site/clover/org/apache/camel/component/ssh/SshComponentErrorHandlingTest
+SshComponentErrorHandlingTest		0.9655172
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ssh/target/site/clover/org/apache/camel/component/ssh/SshComponentErrorHandlingTest_testRedelivery_6
+org.apache.camel.component.ssh.SshResult		0.84615386
+org.apache.camel.component.ssh.SshHelper		0.7468355
+org.apache.camel.component.ssh.SshProducer		0.46153846
+org.apache.camel.component.ssh.SshConfiguration		0.1891892
+org.apache.camel.component.ssh.SshEndpoint		0.03448276
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ssh/target/site/clover/org/apache/camel/component/ssh/SshComponentProducerTest
+SshComponentProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ssh/target/site/clover/org/apache/camel/component/ssh/SshComponentProducerTest_testConnectionTimeout_4
+org.apache.camel.component.ssh.SshProducer		0.26923078
+org.apache.camel.component.ssh.SshHelper		0.15189873
+org.apache.camel.component.ssh.SshConfiguration		0.08108108
+org.apache.camel.component.ssh.SshEndpoint		0.03448276
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ssh/target/site/clover/org/apache/camel/component/ssh/SshComponentProducerTest_testCredentialsAsHeaders_7
+org.apache.camel.component.ssh.SshResult		0.84615386
+org.apache.camel.component.ssh.SshHelper		0.721519
+org.apache.camel.component.ssh.SshProducer		0.42307693
+org.apache.camel.component.ssh.SshConfiguration		0.1891892
+org.apache.camel.component.ssh.SshEndpoint		0.03448276
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ssh/target/site/clover/org/apache/camel/component/ssh/SshComponentProducerTest_testProducer_3
+org.apache.camel.component.ssh.SshResult		0.84615386
+org.apache.camel.component.ssh.SshHelper		0.6962025
+org.apache.camel.component.ssh.SshProducer		0.42307693
+org.apache.camel.component.ssh.SshConfiguration		0.1891892
+org.apache.camel.component.ssh.SshEndpoint		0.03448276
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ssh/target/site/clover/org/apache/camel/component/ssh/SshComponentProducerTest_testReconnect_0
+org.apache.camel.component.ssh.SshResult		0.84615386
+org.apache.camel.component.ssh.SshHelper		0.6962025
+org.apache.camel.component.ssh.SshProducer		0.42307693
+org.apache.camel.component.ssh.SshConfiguration		0.1891892
+org.apache.camel.component.ssh.SshEndpoint		0.03448276
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ssh/target/site/clover/org/apache/camel/component/ssh/SshComponentSecurityTest
+SshComponentSecurityTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ssh/target/site/clover/org/apache/camel/component/ssh/SshComponentSecurityTest_testRsaFile_5
+org.apache.camel.component.ssh.SshResult		0.84615386
+org.apache.camel.component.ssh.SshHelper		0.62025315
+org.apache.camel.component.ssh.ResourceHelperKeyPairProvider		0.47272727
+org.apache.camel.component.ssh.SshProducer		0.42307693
+org.apache.camel.component.ssh.SshConfiguration		0.16216215
+org.apache.camel.component.ssh.SshEndpoint		0.03448276
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ssh/target/site/clover/org/apache/camel/component/ssh/SshComponentSecurityTest_testRsa_2
+org.apache.camel.component.ssh.SshResult		0.84615386
+org.apache.camel.component.ssh.SshHelper		0.6075949
+org.apache.camel.component.ssh.SshProducer		0.42307693
+org.apache.camel.component.ssh.SshConfiguration		0.1891892
+org.apache.camel.component.ssh.SshEndpoint		0.03448276
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ssh/target/site/clover/org/apache/camel/component/ssh/SshComponentTestSupport
+SshComponentTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ssh/target/site/clover/org/apache/camel/component/ssh/TestEchoCommandFactory
+TestEchoCommandFactory		1.0
+TestEchoCommandFactory.TestEchoCommand		0.875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ssh/target/site/clover/org/apache/camel/component/ssh/test-SshComponentConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ssh/target/site/clover/org/apache/camel/component/ssh/test-SshComponentErrorHandlingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ssh/target/site/clover/org/apache/camel/component/ssh/test-SshComponentProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ssh/target/site/clover/org/apache/camel/component/ssh/test-SshComponentSecurityTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ssh/target/site/clover/org/apache/camel/component/ssh/test-SshComponentTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ssh/target/site/clover/org/apache/camel/component/ssh/test-TestEchoCommandFactory
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ssh/target/site/clover/org/apache/camel/component/ssh/test-TestEchoCommandFactory_TestEchoCommand
+-- -- -- -- -- -- -- -- -- -- -- -- --

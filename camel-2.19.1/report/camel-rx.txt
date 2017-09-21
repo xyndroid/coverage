@@ -1,0 +1,132 @@
+./components/camel-rx/target/site/clover/org/apache/camel
+./components/camel-rx/target/site/clover/org/apache/camel/rx/CamelOperatorTest
+CamelOperatorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/CamelOperatorTest_testCamelOperator_5
+org.apache.camel.rx.support.EndpointSubscribeFunc		1.0
+org.apache.camel.rx.support.ProcessorToObserver		0.73333335
+org.apache.camel.rx.support.EndpointObservable		0.6
+org.apache.camel.rx.CamelOperator		0.53846157
+org.apache.camel.rx.support.EndpointSubscription		0.5
+org.apache.camel.rx.ReactiveCamel		0.3243243
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/LoginServiceObservableTest
+LoginServiceObservableTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/LoginServiceObservableTest_testBeanObservable_4
+org.apache.camel.rx.support.EndpointSubscribeFunc		1.0
+org.apache.camel.rx.support.ExchangeToBodyFunc1		1.0
+org.apache.camel.rx.support.ProcessorToObserver		0.73333335
+org.apache.camel.rx.support.EndpointObservable		0.6
+org.apache.camel.rx.ReactiveCamel		0.5405405
+org.apache.camel.rx.support.ObserverSender		0.39285713
+org.apache.camel.rx.support.EndpointSubscription		0.34210527
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/ObservableBodyTest
+ObservableBodyTest		1.0
+ObservableBodyTest.MyObservableBody		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/ObservableBodyTest_testUseObservableInRoute_8
+org.apache.camel.rx.support.ExchangeToBodyFunc1		0.6
+org.apache.camel.rx.support.ProcessorToObserver		0.53333336
+org.apache.camel.rx.support.ObservableProcessor		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/ObservableMessageTest
+ObservableMessageTest		1.0
+ObservableMessageTest.MyObservableMessage		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/ObservableMessageTest_testUseObservableInRoute_9
+org.apache.camel.rx.support.ProcessorToObserver		0.53333336
+org.apache.camel.rx.support.ExchangeToMessageFunc1		0.5
+org.apache.camel.rx.support.ObservableProcessor		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/RxTestSupport
+RxTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/SendToTest
+SendToTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/SendToTest_testSendObservableToEndpoint_2
+org.apache.camel.rx.support.ObserverSender		0.60714287
+org.apache.camel.rx.ReactiveCamel		0.21621622
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/SendToUoWTest
+SendToUoWTest		1.0
+SendToUoWTest.MyOnCompletion		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/SendToUoWTest_testSendObservableToEndpoint_3
+org.apache.camel.rx.support.ObserverSender		0.60714287
+org.apache.camel.rx.ReactiveCamel		0.21621622
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/ToObservableAndMapTest
+ToObservableAndMapTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/ToObservableAndMapTest_testConsume_7
+org.apache.camel.rx.support.EndpointSubscribeFunc		1.0
+org.apache.camel.rx.support.ExchangeToBodyFunc1		1.0
+org.apache.camel.rx.support.ProcessorToObserver		0.73333335
+org.apache.camel.rx.support.EndpointObservable		0.6
+org.apache.camel.rx.support.EndpointSubscription		0.34210527
+org.apache.camel.rx.ReactiveCamel		0.2972973
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/ToObservableBodyTest
+ToObservableBodyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/ToObservableBodyTest_testConsume_6
+org.apache.camel.rx.support.EndpointSubscribeFunc		1.0
+org.apache.camel.rx.support.ExchangeToBodyFunc1		1.0
+org.apache.camel.rx.support.ProcessorToObserver		0.73333335
+org.apache.camel.rx.support.EndpointObservable		0.6
+org.apache.camel.rx.support.EndpointSubscription		0.34210527
+org.apache.camel.rx.ReactiveCamel		0.24324325
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/ToObservableTest
+ToObservableTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/ToObservableTest_testConsume_0
+org.apache.camel.rx.support.EndpointSubscribeFunc		1.0
+org.apache.camel.rx.support.ExchangeToBodyFunc1		1.0
+org.apache.camel.rx.support.ProcessorToObserver		0.73333335
+org.apache.camel.rx.support.EndpointObservable		0.6
+org.apache.camel.rx.support.EndpointSubscription		0.34210527
+org.apache.camel.rx.ReactiveCamel		0.2972973
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/ToObservableUoWTest
+ToObservableUoWTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/ToObservableUoWTest_testConsumeUoW_1
+org.apache.camel.rx.support.EndpointSubscribeFunc		1.0
+org.apache.camel.rx.support.ExchangeToBodyFunc1		1.0
+org.apache.camel.rx.support.ProcessorToObserver		0.73333335
+org.apache.camel.rx.support.EndpointObservable		0.6
+org.apache.camel.rx.support.EndpointSubscription		0.34210527
+org.apache.camel.rx.ReactiveCamel		0.2972973
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/test-CamelOperatorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/test-LoginServiceObservableTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/test-ObservableBodyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/test-ObservableBodyTest_MyObservableBody
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/test-ObservableMessageTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/test-ObservableMessageTest_MyObservableMessage
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/test-RxTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/test-SendToTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/test-SendToUoWTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/test-SendToUoWTest_MyOnCompletion
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/test-ToObservableAndMapTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/test-ToObservableBodyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/test-ToObservableTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rx/target/site/clover/org/apache/camel/rx/test-ToObservableUoWTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,93 @@
+./hbase-hadoop-compat/target/site/clover/org/apache/hadoop/hbase
+./hbase-hadoop-compat/target/site/clover/org/apache/hadoop/hbase/TestCompatibilitySingletonFactory
+TestCompatibilitySingletonFactory		1.0
+TestCompatibilitySingletonFactory.TestCompatibilitySingletonFactoryCallable		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop-compat/target/site/clover/org/apache/hadoop/hbase/TestCompatibilitySingletonFactory_testGetInstance_1h
+org.apache.hadoop.hbase.CompatibilitySingletonFactory		0.53333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop-compat/target/site/clover/org/apache/hadoop/hbase/TestCompatibilitySingletonFactory_testGetInstance_1m
+org.apache.hadoop.hbase.CompatibilitySingletonFactory		0.53333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop-compat/target/site/clover/org/apache/hadoop/hbase/master/TestMetricsMasterSourceFactory
+TestMetricsMasterSourceFactory		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop-compat/target/site/clover/org/apache/hadoop/hbase/master/TestMetricsMasterSourceFactory_testGetInstanceNoHadoopCompat_de
+org.apache.hadoop.hbase.CompatibilitySingletonFactory		0.33333334
+org.apache.hadoop.hbase.CompatibilityFactory		0.074074075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop-compat/target/site/clover/org/apache/hadoop/hbase/master/TestMetricsMasterSourceFactory_testGetInstanceNoHadoopCompat_eu
+org.apache.hadoop.hbase.CompatibilitySingletonFactory		0.33333334
+org.apache.hadoop.hbase.CompatibilityFactory		0.074074075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop-compat/target/site/clover/org/apache/hadoop/hbase/master/test-TestMetricsMasterSourceFactory
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop-compat/target/site/clover/org/apache/hadoop/hbase/regionserver/TestMetricsRegionServerSourceFactory
+TestMetricsRegionServerSourceFactory		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop-compat/target/site/clover/org/apache/hadoop/hbase/regionserver/TestMetricsRegionServerSourceFactory_testGetInstanceNoHadoopCompat_5b
+org.apache.hadoop.hbase.CompatibilitySingletonFactory		0.33333334
+org.apache.hadoop.hbase.CompatibilityFactory		0.074074075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop-compat/target/site/clover/org/apache/hadoop/hbase/regionserver/TestMetricsRegionServerSourceFactory_testGetInstanceNoHadoopCompat_5s
+org.apache.hadoop.hbase.CompatibilitySingletonFactory		0.33333334
+org.apache.hadoop.hbase.CompatibilityFactory		0.074074075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop-compat/target/site/clover/org/apache/hadoop/hbase/regionserver/test-TestMetricsRegionServerSourceFactory
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop-compat/target/site/clover/org/apache/hadoop/hbase/regionserver/wal/TestMetricsWALSource
+TestMetricsWALSource		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop-compat/target/site/clover/org/apache/hadoop/hbase/regionserver/wal/TestMetricsWALSource_testGetInstanceNoHadoopCompat_51
+org.apache.hadoop.hbase.CompatibilitySingletonFactory		0.33333334
+org.apache.hadoop.hbase.CompatibilityFactory		0.074074075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop-compat/target/site/clover/org/apache/hadoop/hbase/regionserver/wal/TestMetricsWALSource_testGetInstanceNoHadoopCompat_5g
+org.apache.hadoop.hbase.CompatibilitySingletonFactory		0.33333334
+org.apache.hadoop.hbase.CompatibilityFactory		0.074074075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop-compat/target/site/clover/org/apache/hadoop/hbase/regionserver/wal/test-TestMetricsWALSource
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop-compat/target/site/clover/org/apache/hadoop/hbase/replication/regionserver/TestMetricsReplicationSourceFactory
+TestMetricsReplicationSourceFactory		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop-compat/target/site/clover/org/apache/hadoop/hbase/replication/regionserver/TestMetricsReplicationSourceFactory_testGetInstanceNoHadoopCompat_g7
+org.apache.hadoop.hbase.CompatibilitySingletonFactory		0.33333334
+org.apache.hadoop.hbase.CompatibilityFactory		0.074074075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop-compat/target/site/clover/org/apache/hadoop/hbase/replication/regionserver/TestMetricsReplicationSourceFactory_testGetInstanceNoHadoopCompat_i1
+org.apache.hadoop.hbase.CompatibilitySingletonFactory		0.33333334
+org.apache.hadoop.hbase.CompatibilityFactory		0.074074075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop-compat/target/site/clover/org/apache/hadoop/hbase/replication/regionserver/test-TestMetricsReplicationSourceFactory
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop-compat/target/site/clover/org/apache/hadoop/hbase/rest/TestMetricsRESTSource
+TestMetricsRESTSource		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop-compat/target/site/clover/org/apache/hadoop/hbase/rest/TestMetricsRESTSource_testGetInstanceNoHadoopCompat_26
+org.apache.hadoop.hbase.CompatibilitySingletonFactory		0.33333334
+org.apache.hadoop.hbase.CompatibilityFactory		0.074074075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop-compat/target/site/clover/org/apache/hadoop/hbase/rest/TestMetricsRESTSource_testGetInstanceNoHadoopCompat_2e
+org.apache.hadoop.hbase.CompatibilitySingletonFactory		0.33333334
+org.apache.hadoop.hbase.CompatibilityFactory		0.074074075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop-compat/target/site/clover/org/apache/hadoop/hbase/rest/test-TestMetricsRESTSource
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop-compat/target/site/clover/org/apache/hadoop/hbase/test-TestCompatibilitySingletonFactory
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop-compat/target/site/clover/org/apache/hadoop/hbase/test-TestCompatibilitySingletonFactory_TestCompatibilitySingletonFactoryCallable
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop-compat/target/site/clover/org/apache/hadoop/hbase/thrift/TestMetricsThriftServerSourceFactory
+TestMetricsThriftServerSourceFactory		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop-compat/target/site/clover/org/apache/hadoop/hbase/thrift/TestMetricsThriftServerSourceFactory_testGetInstanceNoHadoopCompat_2p
+org.apache.hadoop.hbase.CompatibilitySingletonFactory		0.33333334
+org.apache.hadoop.hbase.CompatibilityFactory		0.074074075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop-compat/target/site/clover/org/apache/hadoop/hbase/thrift/TestMetricsThriftServerSourceFactory_testGetInstanceNoHadoopCompat_2x
+org.apache.hadoop.hbase.CompatibilitySingletonFactory		0.33333334
+org.apache.hadoop.hbase.CompatibilityFactory		0.074074075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop-compat/target/site/clover/org/apache/hadoop/hbase/thrift/test-TestMetricsThriftServerSourceFactory
+-- -- -- -- -- -- -- -- -- -- -- -- --

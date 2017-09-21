@@ -1,0 +1,391 @@
+./components/camel-ignite/target/site/clover/org/apache/camel
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/AbstractIgniteTest
+AbstractIgniteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteCacheContinuousQueryTest
+IgniteCacheContinuousQueryTest		1.0
+IgniteCacheContinuousQueryTest.Person		0.7380952
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteCacheContinuousQueryTest_testContinuousQueryDoNotFireExistingEntries_3
+org.apache.camel.component.ignite.cache.IgniteCacheContinuousQueryConsumer		0.71014494
+org.apache.camel.component.ignite.cache.IgniteCacheEndpoint		0.24615385
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteCacheContinuousQueryTest_testContinuousQueryFireExistingEntriesWithQueryAndRemoteFilter_2
+org.apache.camel.component.ignite.cache.IgniteCacheContinuousQueryConsumer		0.68115944
+org.apache.camel.component.ignite.cache.IgniteCacheEndpoint		0.24615385
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteCacheContinuousQueryTest_testContinuousQueryFireExistingEntriesWithQuery_1a
+org.apache.camel.component.ignite.cache.IgniteCacheContinuousQueryConsumer		0.76811594
+org.apache.camel.component.ignite.cache.IgniteCacheEndpoint		0.24615385
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteCacheContinuousQueryTest_testContinuousQueryGroupedUpdates_n
+org.apache.camel.component.ignite.cache.IgniteCacheContinuousQueryConsumer		0.5507246
+org.apache.camel.component.ignite.cache.IgniteCacheEndpoint		0.24615385
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteCacheTest
+IgniteCacheTest		0.9910714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteCacheTest_testAddEntryDoNotPropagateIncomingBody_j
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.75
+org.apache.camel.component.ignite.IgniteHelper		0.5714286
+org.apache.camel.component.ignite.cache.IgniteCacheProducer		0.22857143
+org.apache.camel.component.ignite.cache.IgniteCacheEndpoint		0.21538462
+org.apache.camel.component.ignite.cache.IgniteCacheComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteCacheTest_testAddEntryNoCacheCreation_o
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.55
+org.apache.camel.component.ignite.cache.IgniteCacheEndpoint		0.24615385
+org.apache.camel.component.ignite.cache.IgniteCacheComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteCacheTest_testAddEntrySet_0
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.55
+org.apache.camel.component.ignite.cache.IgniteCacheEndpoint		0.21538462
+org.apache.camel.component.ignite.cache.IgniteCacheComponent		0.2
+org.apache.camel.component.ignite.cache.IgniteCacheProducer		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteCacheTest_testAddEntry_16
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.65
+org.apache.camel.component.ignite.IgniteHelper		0.5714286
+org.apache.camel.component.ignite.cache.IgniteCacheProducer		0.22857143
+org.apache.camel.component.ignite.cache.IgniteCacheEndpoint		0.21538462
+org.apache.camel.component.ignite.cache.IgniteCacheComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteCacheTest_testAddEntry_h
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.65
+org.apache.camel.component.ignite.IgniteHelper		0.5714286
+org.apache.camel.component.ignite.cache.IgniteCacheProducer		0.22857143
+org.apache.camel.component.ignite.cache.IgniteCacheEndpoint		0.21538462
+org.apache.camel.component.ignite.cache.IgniteCacheComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteCacheTest_testAddEntry_p
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.65
+org.apache.camel.component.ignite.IgniteHelper		0.5714286
+org.apache.camel.component.ignite.cache.IgniteCacheProducer		0.22857143
+org.apache.camel.component.ignite.cache.IgniteCacheEndpoint		0.21538462
+org.apache.camel.component.ignite.cache.IgniteCacheComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteCacheTest_testClearCache_19
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.65
+org.apache.camel.component.ignite.IgniteHelper		0.5714286
+org.apache.camel.component.ignite.cache.IgniteCacheEndpoint		0.21538462
+org.apache.camel.component.ignite.cache.IgniteCacheComponent		0.2
+org.apache.camel.component.ignite.cache.IgniteCacheProducer		0.17142858
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteCacheTest_testGetManyTreatCollectionsAsCacheObjects_d
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.75
+org.apache.camel.component.ignite.cache.IgniteCacheProducer		0.24761905
+org.apache.camel.component.ignite.cache.IgniteCacheEndpoint		0.21538462
+org.apache.camel.component.ignite.cache.IgniteCacheComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteCacheTest_testGetMany_m
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.65
+org.apache.camel.component.ignite.cache.IgniteCacheProducer		0.24761905
+org.apache.camel.component.ignite.cache.IgniteCacheEndpoint		0.21538462
+org.apache.camel.component.ignite.cache.IgniteCacheComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteCacheTest_testGetSize_12
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.55
+org.apache.camel.component.ignite.cache.IgniteCacheEndpoint		0.24615385
+org.apache.camel.component.ignite.cache.IgniteCacheProducer		0.22857143
+org.apache.camel.component.ignite.cache.IgniteCacheComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteCacheTest_testQuery_14
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.55
+org.apache.camel.component.ignite.cache.IgniteCacheProducer		0.22857143
+org.apache.camel.component.ignite.cache.IgniteCacheEndpoint		0.21538462
+org.apache.camel.component.ignite.cache.IgniteCacheComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteCacheTest_testRemoveEntry_13
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.65
+org.apache.camel.component.ignite.IgniteHelper		0.5714286
+org.apache.camel.component.ignite.cache.IgniteCacheProducer		0.26666668
+org.apache.camel.component.ignite.cache.IgniteCacheEndpoint		0.21538462
+org.apache.camel.component.ignite.cache.IgniteCacheComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteComputeTest
+IgniteComputeTest		0.98717946
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteComputeTest_testApply_b
+org.apache.camel.component.ignite.compute.IgniteComputeProducer.IgniteInCamelClosure		0.8235294
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.55
+org.apache.camel.component.ignite.compute.IgniteComputeEndpoint		0.36956522
+org.apache.camel.component.ignite.compute.IgniteComputeProducer		0.20547946
+org.apache.camel.component.ignite.compute.IgniteComputeComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteComputeTest_testBroadcast_l
+org.apache.camel.component.ignite.compute.IgniteComputeProducer.IgniteInCamelClosure		0.8235294
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.55
+org.apache.camel.component.ignite.compute.IgniteComputeEndpoint		0.36956522
+org.apache.camel.component.ignite.compute.IgniteComputeComponent		0.2
+org.apache.camel.component.ignite.compute.IgniteComputeProducer		0.1849315
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteComputeTest_testCall_r
+org.apache.camel.component.ignite.compute.IgniteComputeProducer.IgniteInCamelClosure		0.8235294
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.55
+org.apache.camel.component.ignite.compute.IgniteComputeEndpoint		0.36956522
+org.apache.camel.component.ignite.compute.IgniteComputeProducer		0.2260274
+org.apache.camel.component.ignite.compute.IgniteComputeComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteComputeTest_testExecuteWithWrongPayload_4
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.55
+org.apache.camel.component.ignite.compute.IgniteComputeEndpoint		0.41304347
+org.apache.camel.component.ignite.compute.IgniteComputeComponent		0.2
+org.apache.camel.component.ignite.compute.IgniteComputeProducer		0.15753424
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteComputeTest_testExecute_1
+org.apache.camel.component.ignite.compute.IgniteComputeProducer.IgniteInCamelClosure		0.8235294
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.55
+org.apache.camel.component.ignite.compute.IgniteComputeEndpoint		0.36956522
+org.apache.camel.component.ignite.compute.IgniteComputeComponent		0.2
+org.apache.camel.component.ignite.compute.IgniteComputeProducer		0.17123288
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteComputeTest_testRun_7
+org.apache.camel.component.ignite.compute.IgniteComputeProducer.IgniteInCamelClosure		0.8235294
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.55
+org.apache.camel.component.ignite.compute.IgniteComputeEndpoint		0.36956522
+org.apache.camel.component.ignite.compute.IgniteComputeComponent		0.2
+org.apache.camel.component.ignite.compute.IgniteComputeProducer		0.19178082
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteCreationTest
+IgniteCreationTest		0.9285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteCreationTest_testCAMEL11382_v
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteEventsTest
+IgniteEventsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteEventsTest_testConsumeAllEvents_6
+org.apache.camel.component.ignite.events.IgniteEventsConsumer		0.75
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.55
+org.apache.camel.component.ignite.events.IgniteEventsEndpoint		0.3888889
+org.apache.camel.component.ignite.events.IgniteEventsComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteEventsTest_testConsumeFilteredEventsInline_x
+org.apache.camel.component.ignite.events.IgniteEventsConsumer		0.75
+org.apache.camel.component.ignite.events.IgniteEventsEndpoint		0.5925926
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.55
+org.apache.camel.component.ignite.events.IgniteEventsComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteEventsTest_testConsumeFilteredEventsWithRef_9
+org.apache.camel.component.ignite.events.IgniteEventsConsumer		0.75
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.55
+org.apache.camel.component.ignite.events.IgniteEventsEndpoint		0.42592594
+org.apache.camel.component.ignite.events.IgniteEventsComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteIdGenTest
+IgniteIdGenTest		0.94285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteIdGenTest_testBatchSize_q
+org.apache.camel.component.ignite.idgen.IgniteIdGenEndpoint		0.6315789
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.6
+org.apache.camel.component.ignite.idgen.IgniteIdGenProducer		0.516129
+org.apache.camel.component.ignite.idgen.IgniteIdGenComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteIdGenTest_testDifferentOperation_e
+org.apache.camel.component.ignite.idgen.IgniteIdGenProducer		0.61290324
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.6
+org.apache.camel.component.ignite.idgen.IgniteIdGenEndpoint		0.5263158
+org.apache.camel.component.ignite.idgen.IgniteIdGenComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteIdGenTest_testInitialValue_15
+org.apache.camel.component.ignite.idgen.IgniteIdGenProducer		0.9032258
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.6
+org.apache.camel.component.ignite.idgen.IgniteIdGenEndpoint		0.5263158
+org.apache.camel.component.ignite.idgen.IgniteIdGenComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteIdGenTest_testOperations_i
+org.apache.camel.component.ignite.idgen.IgniteIdGenProducer		0.9032258
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.6
+org.apache.camel.component.ignite.idgen.IgniteIdGenEndpoint		0.5263158
+org.apache.camel.component.ignite.idgen.IgniteIdGenComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteMessagingTest
+IgniteMessagingTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteMessagingTest_testConsumerManyMessages_g
+org.apache.camel.component.ignite.messaging.IgniteMessagingConsumer		0.88461536
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.55
+org.apache.camel.component.ignite.messaging.IgniteMessagingEndpoint		0.35416666
+org.apache.camel.component.ignite.messaging.IgniteMessagingComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteMessagingTest_testProducerSendCollectionAsObject_s
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.9
+org.apache.camel.component.ignite.messaging.IgniteMessagingProducer		0.8181818
+org.apache.camel.component.ignite.IgniteHelper		0.5714286
+org.apache.camel.component.ignite.messaging.IgniteMessagingEndpoint		0.39583334
+org.apache.camel.component.ignite.messaging.IgniteMessagingComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteMessagingTest_testProducerSendManyMessagesOrdered_5
+org.apache.camel.component.ignite.messaging.IgniteMessagingProducer		0.72727275
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.7
+org.apache.camel.component.ignite.IgniteHelper		0.5714286
+org.apache.camel.component.ignite.messaging.IgniteMessagingEndpoint		0.5208333
+org.apache.camel.component.ignite.messaging.IgniteMessagingComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteMessagingTest_testProducerSendManyMessages_u
+org.apache.camel.component.ignite.messaging.IgniteMessagingProducer		0.8181818
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.8
+org.apache.camel.component.ignite.IgniteHelper		0.5714286
+org.apache.camel.component.ignite.messaging.IgniteMessagingEndpoint		0.39583334
+org.apache.camel.component.ignite.messaging.IgniteMessagingComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteMessagingTest_testProducerSendMessageTopicInHeader_f
+org.apache.camel.component.ignite.messaging.IgniteMessagingProducer		0.8181818
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.7
+org.apache.camel.component.ignite.IgniteHelper		0.5714286
+org.apache.camel.component.ignite.messaging.IgniteMessagingEndpoint		0.39583334
+org.apache.camel.component.ignite.messaging.IgniteMessagingComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteMessagingTest_testProducerSendMessage_17
+org.apache.camel.component.ignite.messaging.IgniteMessagingProducer		0.8181818
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.7
+org.apache.camel.component.ignite.IgniteHelper		0.5714286
+org.apache.camel.component.ignite.messaging.IgniteMessagingEndpoint		0.39583334
+org.apache.camel.component.ignite.messaging.IgniteMessagingComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteQueueTest
+IgniteQueueTest		0.9918033
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteQueueTest_testBoundedQueueAndOtherOperations_11
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.65
+org.apache.camel.component.ignite.queue.IgniteQueueProducer		0.56363636
+org.apache.camel.component.ignite.queue.IgniteQueueEndpoint		0.4888889
+org.apache.camel.component.ignite.queue.IgniteQueueComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteQueueTest_testCollectionsAsCacheObject_c
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.75
+org.apache.camel.component.ignite.queue.IgniteQueueEndpoint		0.35555556
+org.apache.camel.component.ignite.queue.IgniteQueueProducer		0.29090908
+org.apache.camel.component.ignite.queue.IgniteQueueComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteQueueTest_testOperations2_a
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.65
+org.apache.camel.component.ignite.queue.IgniteQueueProducer		0.36363637
+org.apache.camel.component.ignite.queue.IgniteQueueEndpoint		0.35555556
+org.apache.camel.component.ignite.queue.IgniteQueueComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteQueueTest_testOperations_w
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.55
+org.apache.camel.component.ignite.queue.IgniteQueueEndpoint		0.35555556
+org.apache.camel.component.ignite.queue.IgniteQueueProducer		0.26363635
+org.apache.camel.component.ignite.queue.IgniteQueueComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteQueueTest_testRetainSingle_k
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.55
+org.apache.camel.component.ignite.queue.IgniteQueueEndpoint		0.35555556
+org.apache.camel.component.ignite.queue.IgniteQueueProducer		0.24545455
+org.apache.camel.component.ignite.queue.IgniteQueueComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteQueueTest_testWithConfiguration_18
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.55
+org.apache.camel.component.ignite.queue.IgniteQueueEndpoint		0.37777779
+org.apache.camel.component.ignite.queue.IgniteQueueComponent		0.2
+org.apache.camel.component.ignite.queue.IgniteQueueProducer		0.17272727
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteSetTest
+IgniteSetTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteSetTest_testCollectionsAsCacheObject_t
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.75
+org.apache.camel.component.ignite.set.IgniteSetProducer		0.5081967
+org.apache.camel.component.ignite.set.IgniteSetEndpoint		0.41666666
+org.apache.camel.component.ignite.set.IgniteSetComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteSetTest_testOperations2_y
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.65
+org.apache.camel.component.ignite.set.IgniteSetProducer		0.6393443
+org.apache.camel.component.ignite.set.IgniteSetEndpoint		0.41666666
+org.apache.camel.component.ignite.set.IgniteSetComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteSetTest_testOperations_z
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.55
+org.apache.camel.component.ignite.set.IgniteSetProducer		0.45901638
+org.apache.camel.component.ignite.set.IgniteSetEndpoint		0.41666666
+org.apache.camel.component.ignite.set.IgniteSetComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteSetTest_testRetainSingle_10
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.55
+org.apache.camel.component.ignite.set.IgniteSetProducer		0.4262295
+org.apache.camel.component.ignite.set.IgniteSetEndpoint		0.41666666
+org.apache.camel.component.ignite.set.IgniteSetComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/IgniteSetTest_testWithConfiguration_8
+org.apache.camel.component.ignite.AbstractIgniteEndpoint		0.55
+org.apache.camel.component.ignite.set.IgniteSetEndpoint		0.44444445
+org.apache.camel.component.ignite.set.IgniteSetProducer		0.29508197
+org.apache.camel.component.ignite.set.IgniteSetComponent		0.2
+org.apache.camel.component.ignite.AbstractIgniteComponent		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/TestIgniteComputeResources
+TestIgniteComputeResources		0.94736844
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/test-AbstractIgniteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/test-IgniteCacheContinuousQueryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/test-IgniteCacheContinuousQueryTest_Person
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/test-IgniteCacheTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/test-IgniteComputeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/test-IgniteCreationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/test-IgniteEventsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/test-IgniteIdGenTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/test-IgniteMessagingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/test-IgniteQueueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/test-IgniteSetTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ignite/target/site/clover/org/apache/camel/component/ignite/test-TestIgniteComputeResources
+-- -- -- -- -- -- -- -- -- -- -- -- --

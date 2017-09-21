@@ -1,0 +1,50 @@
+./components/camel-google-calendar/target/site/clover/org/apache/camel
+./components/camel-google-calendar/target/site/clover/org/apache/camel/component/google/calendar/AbstractGoogleCalendarTestSupport
+AbstractGoogleCalendarTestSupport		0.04761905
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-calendar/target/site/clover/org/apache/camel/component/google/calendar/CalendarAclIntegrationTest
+CalendarAclIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-calendar/target/site/clover/org/apache/camel/component/google/calendar/CalendarCalendarListIntegrationTest
+CalendarCalendarListIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-calendar/target/site/clover/org/apache/camel/component/google/calendar/CalendarCalendarsIntegrationTest
+CalendarCalendarsIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-calendar/target/site/clover/org/apache/camel/component/google/calendar/CalendarColorsIntegrationTest
+CalendarColorsIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-calendar/target/site/clover/org/apache/camel/component/google/calendar/CalendarConfigurationTest
+CalendarConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-calendar/target/site/clover/org/apache/camel/component/google/calendar/CalendarConfigurationTest_testConfiguration_0
+testConfiguration
+org.apache.camel.component.google.calendar.GoogleCalendarConfiguration		0.22727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-calendar/target/site/clover/org/apache/camel/component/google/calendar/CalendarEventsIntegrationTest
+CalendarEventsIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-calendar/target/site/clover/org/apache/camel/component/google/calendar/CalendarFreebusyIntegrationTest
+CalendarFreebusyIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-calendar/target/site/clover/org/apache/camel/component/google/calendar/CalendarSettingsIntegrationTest
+CalendarSettingsIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-calendar/target/site/clover/org/apache/camel/component/google/calendar/test-AbstractGoogleCalendarTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-calendar/target/site/clover/org/apache/camel/component/google/calendar/test-CalendarAclIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-calendar/target/site/clover/org/apache/camel/component/google/calendar/test-CalendarCalendarListIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-calendar/target/site/clover/org/apache/camel/component/google/calendar/test-CalendarCalendarsIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-calendar/target/site/clover/org/apache/camel/component/google/calendar/test-CalendarColorsIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-calendar/target/site/clover/org/apache/camel/component/google/calendar/test-CalendarConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-calendar/target/site/clover/org/apache/camel/component/google/calendar/test-CalendarEventsIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-calendar/target/site/clover/org/apache/camel/component/google/calendar/test-CalendarFreebusyIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-calendar/target/site/clover/org/apache/camel/component/google/calendar/test-CalendarSettingsIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

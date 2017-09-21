@@ -1,0 +1,9 @@
+#!/bin/bash
+exec 3<path.to.index.html
+exec 4<module.names
+while read line3 <&3 && read line4 <&4
+do
+    `ruby ./parser.rb "."$line3 &> "./report/"$line4".txt"` 
+done
+exec 3<&-
+exec 4<&-

@@ -1,0 +1,15 @@
+./components/camel-drill/target/site/clover/org/apache/camel
+./components/camel-drill/target/site/clover/org/apache/camel/component/drill/EndpointTest
+EndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-drill/target/site/clover/org/apache/camel/component/drill/EndpointTest_testZKJdbcURL_0
+org.apache.camel.component.drill.DrillComponent		0.7777778
+org.apache.camel.component.drill.DrillEndpoint		0.7446808
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-drill/target/site/clover/org/apache/camel/component/drill/ProducerTest
+ProducerTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-drill/target/site/clover/org/apache/camel/component/drill/test-EndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-drill/target/site/clover/org/apache/camel/component/drill/test-ProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

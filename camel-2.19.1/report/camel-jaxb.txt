@@ -1,0 +1,534 @@
+./components/camel-jaxb/target/site/clover/org/apache/camel
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/ConcurrentJaxbDataFormatSchemaValidationTest
+ConcurrentJaxbDataFormatSchemaValidationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/ConcurrentJaxbDataFormatSchemaValidationTest_concurrentMarshallSuccess_76
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.19142857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/ConcurrentJaxbDataFormatSchemaValidationTest_concurrentUnmarshall_3s
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.074285716
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/FilteringXmlStreamWriterTest
+FilteringXmlStreamWriterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/FilteringXmlStreamWriterTest_testWriteAttribute2Args_es
+org.apache.camel.converter.jaxb.FilteringXmlStreamWriter		0.04109589
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/FilteringXmlStreamWriterTest_testWriteAttribute3Args_62
+org.apache.camel.converter.jaxb.FilteringXmlStreamWriter		0.04109589
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/FilteringXmlStreamWriterTest_testWriteAttribute4Args_l1
+org.apache.camel.converter.jaxb.FilteringXmlStreamWriter		0.04109589
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/FilteringXmlStreamWriterTest_testWriteCData_d7
+org.apache.camel.converter.jaxb.FilteringXmlStreamWriter		0.04109589
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/FilteringXmlStreamWriterTest_testWriteCharacters1Arg_cj
+org.apache.camel.converter.jaxb.FilteringXmlStreamWriter		0.04109589
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/FilteringXmlStreamWriterTest_testWriteCharacters3Args_2z
+org.apache.camel.converter.jaxb.FilteringXmlStreamWriter		0.04109589
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/FilteringXmlStreamWriterTest_testWriteComment_g6
+org.apache.camel.converter.jaxb.FilteringXmlStreamWriter		0.04109589
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/JaxbDataFormatMultipleNamespacesTest
+JaxbDataFormatMultipleNamespacesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/JaxbDataFormatMultipleNamespacesTest_testMarshallMultipleNamespaces_bf
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.18571429
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/JaxbDataFormatMultipleNamespacesTest_testUnarshallMultipleNamespaces_8i
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.068571426
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/JaxbDataFormatPartClassHeaderTest
+JaxbDataFormatPartClassHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/JaxbDataFormatPartClassHeaderTest_testMarshallIfPartClassSetInHeaders_5f
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.20857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/JaxbDataFormatPartClassTest
+JaxbDataFormatPartClassTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/JaxbDataFormatPartClassTest_testMarshallMultipleNamespaces_1h
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/JaxbDataFormatSchemaValidationSpringTest
+JaxbDataFormatSchemaValidationSpringTest		0.96153843
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/JaxbDataFormatSchemaValidationSpringTest_testMarshallSuccess_78
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.19142857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/JaxbDataFormatSchemaValidationSpringTest_testMarshallWithValidationException_f7
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.18285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/JaxbDataFormatSchemaValidationSpringTest_testUnmarshallSuccess_5
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.074285716
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/JaxbDataFormatSchemaValidationSpringTest_testUnmarshallWithValidationException_6n
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.074285716
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/JaxbDataFormatSchemaValidationTest
+JaxbDataFormatSchemaValidationTest		0.9655172
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/JaxbDataFormatSchemaValidationTest_testMarshallSuccess_fe
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.19142857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/JaxbDataFormatSchemaValidationTest_testMarshallWithValidationException_7o
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.18285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/JaxbDataFormatSchemaValidationTest_testUnmarshallSuccess_2y
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.074285716
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/JaxbDataFormatSchemaValidationTest_testUnmarshallWithValidationException_k
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.074285716
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/JaxbDataFormatTest
+JaxbDataFormatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/JaxbDataFormatTest_testNeedFilteringDisabledFiltering_a4
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.014285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/JaxbDataFormatTest_testNeedFilteringEnabledFiltering_2l
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.014285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/JaxbDataFormatTest_testNeedFilteringFalsePropagates_3z
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.008571428
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/JaxbDataFormatTest_testNeedFilteringTruePropagates_c1
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.008571428
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/NonXmlCharFiltererTest
+NonXmlCharFiltererTest		0.9104478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/NonXmlCharFiltererTest_testFilter1ArgFiltered_4a
+org.apache.camel.converter.jaxb.NonXmlCharFilterer		0.23684211
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/NonXmlCharFiltererTest_testFilter1ArgNonFiltered_aq
+org.apache.camel.converter.jaxb.NonXmlCharFilterer		0.18421052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/NonXmlCharFiltererTest_testFilter1ArgNullArg_b2
+org.apache.camel.converter.jaxb.NonXmlCharFilterer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/NonXmlCharFiltererTest_testFilter3ArgsNullArg_eb
+org.apache.camel.converter.jaxb.NonXmlCharFilterer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/NonXmlCharFiltererTest_testFilter3Args_1m
+org.apache.camel.converter.jaxb.NonXmlCharFilterer		0.42105263
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/NonXmlCharFiltererTest_testIsFilteredInvalidChars_6t
+org.apache.camel.converter.jaxb.NonXmlCharFilterer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/NonXmlCharFiltererTest_testIsFilteredValidChars_j5
+org.apache.camel.converter.jaxb.NonXmlCharFilterer		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/NonXmlFilterReaderTest
+NonXmlFilterReaderTest		1.0
+NonXmlFilterReaderTest.ConstantReader		0.85714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/NonXmlFilterReaderTest_testReadEOS_38
+org.apache.camel.converter.jaxb.NonXmlFilterReader		0.5555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/NonXmlFilterReaderTest_testRead_6v
+org.apache.camel.converter.jaxb.NonXmlFilterReader		0.6666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/test-ConcurrentJaxbDataFormatSchemaValidationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/test-FilteringXmlStreamWriterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/test-JaxbDataFormatMultipleNamespacesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/test-JaxbDataFormatPartClassHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/test-JaxbDataFormatPartClassTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/test-JaxbDataFormatSchemaValidationSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/test-JaxbDataFormatSchemaValidationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/test-JaxbDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/test-NonXmlCharFiltererTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/test-NonXmlFilterReaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/converter/jaxb/test-NonXmlFilterReaderTest_ConstantReader
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/DataFormatComponentTest
+DataFormatComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/DataFormatComponentTest_testMarshalPrettyPrint_fi
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.18571429
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/DataFormatComponentTest_testMarshalThenUnmarshalBean_ec
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.24
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/DataFormatConcurrentTest
+DataFormatConcurrentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/DataFormatConcurrentTest_testMarshallConcurrent_bw
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.2657143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/DataFormatConcurrentTest_testMarshallFallbackConcurrent_im
+org.apache.camel.converter.jaxb.FallbackTypeConverter		0.232
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/DataFormatConcurrentTest_testSendConcurrent_7w
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.18571429
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/DataFormatConcurrentTest_testUnmarshalConcurrent_gw
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.14857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/DataFormatConcurrentTest_testUnmarshalFallbackConcurrent_pa
+org.apache.camel.converter.jaxb.FallbackTypeConverter		0.24
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/DataFormatDataSetTest
+DataFormatDataSetTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/DataFormatDataSetTest_testConcurrentMarshall_fs
+org.apache.camel.converter.jaxb.FallbackTypeConverter		0.316
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.18571429
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/DataFormatTest
+DataFormatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/DataFormatTest_testMarshalPrettyPrint_ht
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.18571429
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/DataFormatTest_testMarshalThenUnmarshalBean_2e
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.24
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/JAXBConvertTest
+JAXBConvertTest		0.94285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/JAXBConvertTest_testConverterTwice_d6
+org.apache.camel.converter.jaxb.FallbackTypeConverter		0.24
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/JAXBConvertTest_testConverter_9v
+org.apache.camel.converter.jaxb.FallbackTypeConverter		0.236
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/JAXBConvertTest_testNoConversionForStreamCache_dr
+org.apache.camel.converter.jaxb.FallbackTypeConverter		0.084
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/JAXBConvertTest_testStreamShouldBeClosedEvenForException_1f
+org.apache.camel.converter.jaxb.FallbackTypeConverter		0.272
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/JAXBConvertTest_testStreamShouldBeClosed_14
+org.apache.camel.converter.jaxb.FallbackTypeConverter		0.236
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/JaxbConcurrentDataFormatTest
+JaxbConcurrentDataFormatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/JaxbConcurrentDataFormatTest_testConcurrentProducers_8c
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.24
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/JaxbConcurrentDataFormatTest_testNoConcurrentProducers_7i
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.24
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/JaxbErrorLogTest
+JaxbErrorLogTest		1.0
+JaxbErrorLogTest.FailingBean		1.0
+JaxbErrorLogTest.CannotMarshal		0.6666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/JaxbErrorLogTest_testErrorHandling_3t
+org.apache.camel.converter.jaxb.FallbackTypeConverter		0.252
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/RouteWithErrorHandlerTest
+RouteWithErrorHandlerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/RouteWithErrorHandlerTest_testNotWine_9
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.068571426
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/RouteWithErrorHandlerTest_testOk_5u
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.068571426
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/RouteWithErrorHandlerTest_testUnmarshalError_2u
+org.apache.camel.converter.jaxb.FallbackTypeConverter		0.4
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.068571426
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/SpringDataFormatPartialTest
+SpringDataFormatPartialTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/SpringDataFormatPartialTest_testPartialMarshal_53
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/SpringDataFormatPartialTest_testPartialUnmarshal_24
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.08285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/SpringDataFormatTest
+SpringDataFormatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/SpringDataFormatTest_testMarshalThenUnmarshalBean_a9
+org.apache.camel.converter.jaxb.FallbackTypeConverter		0.228
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.068571426
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/SpringDataFormatWithEncodingTest
+SpringDataFormatWithEncodingTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/SpringDataFormatWithEncodingTest_testMarshalWithEncodingPropertyInExchange_ds
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.18285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/SpringDataFormatWithEncodingTest_testMarshalWithEncoding_2h
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.18571429
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/SpringDataFormatWithMarshalAndUnmarshalUsingRefTest
+SpringDataFormatWithMarshalAndUnmarshalUsingRefTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/SpringDataFormatWithMarshalAndUnmarshalUsingRefTest_testMarshalThenUnmarshalBean_4h
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.24
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/SpringDataFormatWithMarshalAndUnmarshalUsingSpringBeanTest
+SpringDataFormatWithMarshalAndUnmarshalUsingSpringBeanTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/SpringDataFormatWithMarshalAndUnmarshalUsingSpringBeanTest_testMarshalThenUnmarshalBean_7k
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.24
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/UnmarshalTest
+UnmarshalTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/UnmarshalTest_testSendXmlAndUnmarshal_65
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.068571426
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/test-DataFormatComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/test-DataFormatConcurrentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/test-DataFormatDataSetTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/test-DataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/test-JAXBConvertTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/test-JaxbConcurrentDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/test-JaxbErrorLogTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/test-JaxbErrorLogTest_CannotMarshal
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/test-JaxbErrorLogTest_FailingBean
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/test-RouteWithErrorHandlerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/test-SpringDataFormatPartialTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/test-SpringDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/test-SpringDataFormatWithEncodingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/test-SpringDataFormatWithMarshalAndUnmarshalUsingRefTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/test-SpringDataFormatWithMarshalAndUnmarshalUsingSpringBeanTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/example/test-UnmarshalTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/CamelJaxbFallbackConverterTest
+CamelJaxbFallbackConverterTest		0.9444444
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/CamelJaxbFallbackConverterTest_testConverter_hx
+org.apache.camel.converter.jaxb.FallbackTypeConverter		0.424
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/CamelJaxbFallbackConverterTest_testFallbackConverterUnmarshalWithNonJAXBComplaintValue_2n
+org.apache.camel.converter.jaxb.FallbackTypeConverter		0.272
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/CamelJaxbFallbackConverterTest_testFallbackConverterWithoutObjectFactory_c6
+org.apache.camel.converter.jaxb.FallbackTypeConverter		0.368
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/CamelJaxbFallbackConverterTest_testFilteringConverter_82
+org.apache.camel.converter.jaxb.NonXmlFilterReader		1.0
+org.apache.camel.converter.jaxb.NonXmlCharFilterer		0.8947368
+org.apache.camel.converter.jaxb.FallbackTypeConverter		0.4
+org.apache.camel.converter.jaxb.FilteringXmlStreamWriter		0.23287672
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/CamelJaxbNoNamespaceSchemaLocationSpringTest
+CamelJaxbNoNamespaceSchemaLocationSpringTest		0.7777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/CamelJaxbNoNamespaceSchemaLocationSpringTest_testMarshalWithNoNamespaceSchemaLocation_p9
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.18857142
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/CamelJaxbNoNamespaceSchemaTest
+CamelJaxbNoNamespaceSchemaTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/CamelJaxbNoNamespaceSchemaTest_testMarshalWithNoNamespaceSchemaLocation_19
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.18857142
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/CamelJaxbSpringTest
+CamelJaxbSpringTest		0.7777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/CamelJaxbSpringTest_testCustomXmlStreamWriterAndFiltering_fm
+org.apache.camel.converter.jaxb.NonXmlCharFilterer		0.8947368
+org.apache.camel.converter.jaxb.FilteringXmlStreamWriter		0.23287672
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.20571429
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/CamelJaxbSpringTest_testCustomXmlStreamWriter_q
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.20285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/CamelJaxbSpringTest_testFilterNonXmlChars_h5
+org.apache.camel.converter.jaxb.NonXmlFilterReader		1.0
+org.apache.camel.converter.jaxb.NonXmlCharFilterer		0.42105263
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.08285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/CamelJaxbSpringTest_testMarshalBadCharsNoFiltering_45
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.18857142
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/CamelJaxbSpringTest_testMarshalBadCharsWithFiltering_ii
+org.apache.camel.converter.jaxb.NonXmlCharFilterer		0.8947368
+org.apache.camel.converter.jaxb.FilteringXmlStreamWriter		0.23287672
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.20285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/CamelJaxbSpringTest_testMarshalWithSchemaLocation_pp
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.18857142
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/CamelJaxbSpringTest_testUnmarshalBadCharsNoFiltering_v
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.06285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/CamelJaxbSpringTest_testUnmarshalBadCharsWithFiltering_50
+org.apache.camel.converter.jaxb.NonXmlFilterReader		1.0
+org.apache.camel.converter.jaxb.NonXmlCharFilterer		0.57894737
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.08285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/CamelJaxbSpringTest_testUnmarshal_h3
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/CamelJaxbTest
+CamelJaxbTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/CamelJaxbTest_testCustomXmlStreamWriterAndFiltering_ac
+org.apache.camel.converter.jaxb.NonXmlCharFilterer		0.8947368
+org.apache.camel.converter.jaxb.FilteringXmlStreamWriter		0.23287672
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.20571429
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/CamelJaxbTest_testCustomXmlStreamWriter_9u
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.20285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/CamelJaxbTest_testFilterNonXmlChars_le
+org.apache.camel.converter.jaxb.NonXmlFilterReader		1.0
+org.apache.camel.converter.jaxb.NonXmlCharFilterer		0.42105263
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.08285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/CamelJaxbTest_testMarshalBadCharsNoFiltering_db
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.18857142
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/CamelJaxbTest_testMarshalBadCharsWithFiltering_29
+org.apache.camel.converter.jaxb.NonXmlCharFilterer		0.8947368
+org.apache.camel.converter.jaxb.FilteringXmlStreamWriter		0.23287672
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.20285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/CamelJaxbTest_testMarshalWithSchemaLocation_1k
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.18857142
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/CamelJaxbTest_testUnmarshalBadCharsNoFiltering_3m
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.06285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/CamelJaxbTest_testUnmarshalBadCharsWithFiltering_g1
+org.apache.camel.converter.jaxb.NonXmlFilterReader		1.0
+org.apache.camel.converter.jaxb.NonXmlCharFilterer		0.57894737
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.08285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/CamelJaxbTest_testUnmarshal_7a
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/DirectBeanToBeanPersonTypeTest
+DirectBeanToBeanPersonTypeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/DirectBeanToBeanPersonTypeTest_testBeanToBean_dq
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/FallbackTypeConverterObjectFactoryDisabledTest
+FallbackTypeConverterObjectFactoryDisabledTest		0.90909094
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/FallbackTypeConverterObjectFactoryDisabledTest_testObjectFactoryFalse_3q
+org.apache.camel.converter.jaxb.FallbackTypeConverter		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/FallbackTypeConverterObjectFactoryEnabledTest
+FallbackTypeConverterObjectFactoryEnabledTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/FallbackTypeConverterObjectFactoryEnabledTest_testObjectFactoryTrue_68
+org.apache.camel.converter.jaxb.JaxbHelper		0.6969697
+org.apache.camel.converter.jaxb.FallbackTypeConverter		0.412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/FallbackTypeConverterShouldThrowExceptionTest
+FallbackTypeConverterShouldThrowExceptionTest		0.9722222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/FallbackTypeConverterShouldThrowExceptionTest_testAnotherJaxbModel_dy
+org.apache.camel.converter.jaxb.FallbackTypeConverter		0.46
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/FallbackTypeConverterShouldThrowExceptionTest_testJaxbModel_92
+org.apache.camel.converter.jaxb.FallbackTypeConverter		0.264
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/FallbackTypeConverterShouldThrowExceptionTest_testNoneJaxbModel_61
+org.apache.camel.converter.jaxb.FallbackTypeConverter		0.332
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/JaxbDataFormatIssueTest
+JaxbDataFormatIssueTest		1.0
+JaxbDataFormatIssueTest.Foo		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/JaxbDataFormatIssueTest_testJaxbMarshalling_mj
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.18285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/JaxbDataFormatMustBeJAXBElementTest
+JaxbDataFormatMustBeJAXBElementTest		0.96153843
+JaxbDataFormatMustBeJAXBElementTest.Foo		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/JaxbDataFormatMustBeJAXBElementTest_testJaxbMarshalling2_np
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.16
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/JaxbDataFormatMustBeJAXBElementTest_testJaxbMarshalling_80
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.18
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/JaxbMarshalNamespacePrefixMapperTest
+JaxbMarshalNamespacePrefixMapperTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/JaxbMarshalNamespacePrefixMapperTest_testNamespacePrefix_bp
+org.apache.camel.converter.jaxb.mapper.SunJaxb21NamespacePrefixMapper		0.78571427
+org.apache.camel.converter.jaxb.JaxbDataFormat		0.18857142
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/SplitterAndExceptionRouteTwistIssueTest
+SplitterAndExceptionRouteTwistIssueTest		1.0
+Twits		0.75
+Twit		0.6666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/SplitterAndExceptionRouteTwistIssueTest_testErrorHandlingJaxb_b6
+org.apache.camel.converter.jaxb.FallbackTypeConverter		0.236
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/SplitterAndExceptionRouteTwistIssueTest_testErrorHandlingPlumber_1s
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/TestXmlStreamWriter
+TestXmlStreamWriter		0.24242425
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/TimerBeanToBeanNotificationTypeTest
+TimerBeanToBeanNotificationTypeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/TimerBeanToBeanNotificationTypeTest_testBeanToBean_fz
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/test-CamelJaxbFallbackConverterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/test-CamelJaxbNoNamespaceSchemaLocationSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/test-CamelJaxbNoNamespaceSchemaTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/test-CamelJaxbSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/test-CamelJaxbTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/test-DirectBeanToBeanPersonTypeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/test-FallbackTypeConverterObjectFactoryDisabledTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/test-FallbackTypeConverterObjectFactoryEnabledTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/test-FallbackTypeConverterShouldThrowExceptionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/test-JaxbDataFormatIssueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/test-JaxbDataFormatIssueTest_Foo
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/test-JaxbDataFormatMustBeJAXBElementTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/test-JaxbDataFormatMustBeJAXBElementTest_Foo
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/test-JaxbMarshalNamespacePrefixMapperTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/test-SplitterAndExceptionRouteTwistIssueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/test-TestXmlStreamWriter
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jaxb/target/site/clover/org/apache/camel/jaxb/test-TimerBeanToBeanNotificationTypeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,1934 @@
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/TestContainerLaunchRPC
+TestContainerLaunchRPC		0.96875
+TestContainerLaunchRPC.DummyContainerManager		0.35714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/TestContainerLaunchRPC_testHadoopProtoRPCTimeout_14p
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationIdPBImpl		0.9047619
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.8235294
+org.apache.hadoop.yarn.api.records.impl.pb.NodeIdPBImpl		0.8095238
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationAttemptIdPBImpl		0.79310346
+org.apache.hadoop.yarn.factories.impl.pb.RpcServerFactoryPBImpl		0.78125
+org.apache.hadoop.yarn.ipc.HadoopYarnProtoRPC		0.75
+org.apache.hadoop.yarn.ipc.YarnRPC		0.75
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerIdPBImpl		0.7241379
+org.apache.hadoop.yarn.factories.impl.pb.RpcClientFactoryPBImpl		0.68292683
+org.apache.hadoop.yarn.factory.providers.RpcFactoryProvider		0.6666667
+org.apache.hadoop.yarn.api.protocolrecords.impl.pb.StartContainersRequestPBImpl		0.5131579
+org.apache.hadoop.yarn.api.records.impl.pb.ResourcePBImpl		0.5
+org.apache.hadoop.yarn.api.records.impl.pb.PriorityPBImpl		0.4814815
+org.apache.hadoop.yarn.security.ContainerTokenIdentifier		0.421875
+org.apache.hadoop.yarn.api.protocolrecords.impl.pb.StartContainerRequestPBImpl		0.3939394
+org.apache.hadoop.yarn.api.impl.pb.client.ContainerManagementProtocolPBClientImpl		0.35714287
+org.apache.hadoop.yarn.api.records.impl.pb.TokenPBImpl		0.35338345
+org.apache.hadoop.yarn.api.impl.pb.service.ContainerManagementProtocolPBServiceImpl		0.3043478
+org.apache.hadoop.yarn.ipc.RPCUtil		0.16981132
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerLaunchContextPBImpl		0.09375
+org.apache.hadoop.yarn.api.records.impl.pb.ProtoUtils		0.08955224
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/TestContainerLaunchRPC_testHadoopProtoRPCTimeout_s
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationIdPBImpl		0.9047619
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.8235294
+org.apache.hadoop.yarn.api.records.impl.pb.NodeIdPBImpl		0.8095238
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationAttemptIdPBImpl		0.79310346
+org.apache.hadoop.yarn.factories.impl.pb.RpcServerFactoryPBImpl		0.78125
+org.apache.hadoop.yarn.ipc.HadoopYarnProtoRPC		0.75
+org.apache.hadoop.yarn.ipc.YarnRPC		0.75
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerIdPBImpl		0.7241379
+org.apache.hadoop.yarn.factories.impl.pb.RpcClientFactoryPBImpl		0.68292683
+org.apache.hadoop.yarn.factory.providers.RpcFactoryProvider		0.6666667
+org.apache.hadoop.yarn.api.protocolrecords.impl.pb.StartContainersRequestPBImpl		0.5131579
+org.apache.hadoop.yarn.api.records.impl.pb.ResourcePBImpl		0.5
+org.apache.hadoop.yarn.api.records.impl.pb.PriorityPBImpl		0.4814815
+org.apache.hadoop.yarn.security.ContainerTokenIdentifier		0.421875
+org.apache.hadoop.yarn.api.protocolrecords.impl.pb.StartContainerRequestPBImpl		0.3939394
+org.apache.hadoop.yarn.api.impl.pb.client.ContainerManagementProtocolPBClientImpl		0.35714287
+org.apache.hadoop.yarn.api.records.impl.pb.TokenPBImpl		0.35338345
+org.apache.hadoop.yarn.api.impl.pb.service.ContainerManagementProtocolPBServiceImpl		0.3043478
+org.apache.hadoop.yarn.ipc.RPCUtil		0.16981132
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerLaunchContextPBImpl		0.09375
+org.apache.hadoop.yarn.api.records.impl.pb.ProtoUtils		0.08955224
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/TestRPC
+TestRPC		0.95384616
+TestRPC.DummyContainerManager		0.95238096
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/TestRPCFactories
+TestRPCFactories		0.7948718
+TestRPCFactories.AMRMProtocolTestImpl		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/TestRPCFactories_test_a4
+org.apache.hadoop.yarn.factories.impl.pb.RpcServerFactoryPBImpl		0.84375
+org.apache.hadoop.yarn.factories.impl.pb.RpcClientFactoryPBImpl		0.68292683
+org.apache.hadoop.yarn.api.impl.pb.client.ApplicationMasterProtocolPBClientImpl		0.115384616
+org.apache.hadoop.yarn.api.impl.pb.service.ApplicationMasterProtocolPBServiceImpl		0.08695652
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/TestRPCFactories_test_w
+org.apache.hadoop.yarn.factories.impl.pb.RpcServerFactoryPBImpl		0.84375
+org.apache.hadoop.yarn.factories.impl.pb.RpcClientFactoryPBImpl		0.68292683
+org.apache.hadoop.yarn.api.impl.pb.client.ApplicationMasterProtocolPBClientImpl		0.115384616
+org.apache.hadoop.yarn.api.impl.pb.service.ApplicationMasterProtocolPBServiceImpl		0.08695652
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/TestRPC_testHadoopProtoRPC_2a
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationIdPBImpl		0.9047619
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.8235294
+org.apache.hadoop.yarn.api.records.impl.pb.NodeIdPBImpl		0.8095238
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationAttemptIdPBImpl		0.79310346
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerIdPBImpl		0.79310346
+org.apache.hadoop.yarn.factories.impl.pb.RpcServerFactoryPBImpl		0.78125
+org.apache.hadoop.yarn.ipc.HadoopYarnProtoRPC		0.75
+org.apache.hadoop.yarn.ipc.YarnRPC		0.75
+org.apache.hadoop.yarn.api.impl.pb.service.ContainerManagementProtocolPBServiceImpl		0.73913044
+org.apache.hadoop.yarn.security.ContainerTokenIdentifier		0.71875
+org.apache.hadoop.yarn.api.protocolrecords.impl.pb.StartContainersRequestPBImpl		0.69736844
+org.apache.hadoop.yarn.factories.impl.pb.RpcClientFactoryPBImpl		0.68292683
+org.apache.hadoop.yarn.factory.providers.RpcFactoryProvider		0.6666667
+org.apache.hadoop.yarn.api.impl.pb.client.ContainerManagementProtocolPBClientImpl		0.64285713
+org.apache.hadoop.yarn.api.records.impl.pb.TokenPBImpl		0.6165413
+org.apache.hadoop.yarn.security.client.RMDelegationTokenIdentifier		0.6
+org.apache.hadoop.yarn.security.client.TimelineDelegationTokenIdentifier		0.6
+org.apache.hadoop.yarn.api.protocolrecords.impl.pb.StartContainerRequestPBImpl		0.53535354
+org.apache.hadoop.yarn.api.protocolrecords.impl.pb.GetContainerStatusesRequestPBImpl		0.5
+org.apache.hadoop.yarn.api.protocolrecords.impl.pb.StopContainersRequestPBImpl		0.5
+org.apache.hadoop.yarn.api.records.impl.pb.ResourcePBImpl		0.5
+org.apache.hadoop.yarn.api.records.impl.pb.PriorityPBImpl		0.4814815
+org.apache.hadoop.yarn.api.protocolrecords.impl.pb.GetContainerStatusesResponsePBImpl		0.4488189
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerStatusPBImpl		0.4385965
+org.apache.hadoop.yarn.ipc.RPCUtil		0.3773585
+org.apache.hadoop.yarn.api.records.impl.pb.ProtoUtils		0.2238806
+org.apache.hadoop.yarn.api.protocolrecords.impl.pb.StartContainersResponsePBImpl		0.13483146
+org.apache.hadoop.yarn.security.client.ClientToAMTokenIdentifier		0.12
+org.apache.hadoop.yarn.security.AMRMTokenIdentifier		0.12
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerLaunchContextPBImpl		0.09375
+org.apache.hadoop.yarn.security.NMTokenIdentifier		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/TestRPC_testHadoopProtoRPC_ex
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationIdPBImpl		0.9047619
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.8235294
+org.apache.hadoop.yarn.api.records.impl.pb.NodeIdPBImpl		0.8095238
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationAttemptIdPBImpl		0.79310346
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerIdPBImpl		0.79310346
+org.apache.hadoop.yarn.factories.impl.pb.RpcServerFactoryPBImpl		0.78125
+org.apache.hadoop.yarn.ipc.HadoopYarnProtoRPC		0.75
+org.apache.hadoop.yarn.ipc.YarnRPC		0.75
+org.apache.hadoop.yarn.api.impl.pb.service.ContainerManagementProtocolPBServiceImpl		0.73913044
+org.apache.hadoop.yarn.security.ContainerTokenIdentifier		0.71875
+org.apache.hadoop.yarn.api.protocolrecords.impl.pb.StartContainersRequestPBImpl		0.69736844
+org.apache.hadoop.yarn.factories.impl.pb.RpcClientFactoryPBImpl		0.68292683
+org.apache.hadoop.yarn.factory.providers.RpcFactoryProvider		0.6666667
+org.apache.hadoop.yarn.api.impl.pb.client.ContainerManagementProtocolPBClientImpl		0.64285713
+org.apache.hadoop.yarn.api.records.impl.pb.TokenPBImpl		0.6165413
+org.apache.hadoop.yarn.security.client.RMDelegationTokenIdentifier		0.6
+org.apache.hadoop.yarn.security.client.TimelineDelegationTokenIdentifier		0.6
+org.apache.hadoop.yarn.api.protocolrecords.impl.pb.StartContainerRequestPBImpl		0.53535354
+org.apache.hadoop.yarn.api.protocolrecords.impl.pb.GetContainerStatusesRequestPBImpl		0.5
+org.apache.hadoop.yarn.api.protocolrecords.impl.pb.StopContainersRequestPBImpl		0.5
+org.apache.hadoop.yarn.api.records.impl.pb.ResourcePBImpl		0.5
+org.apache.hadoop.yarn.api.records.impl.pb.PriorityPBImpl		0.4814815
+org.apache.hadoop.yarn.api.protocolrecords.impl.pb.GetContainerStatusesResponsePBImpl		0.4488189
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerStatusPBImpl		0.4385965
+org.apache.hadoop.yarn.ipc.RPCUtil		0.3773585
+org.apache.hadoop.yarn.api.records.impl.pb.ProtoUtils		0.2238806
+org.apache.hadoop.yarn.api.protocolrecords.impl.pb.StartContainersResponsePBImpl		0.13483146
+org.apache.hadoop.yarn.security.client.ClientToAMTokenIdentifier		0.12
+org.apache.hadoop.yarn.security.AMRMTokenIdentifier		0.12
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerLaunchContextPBImpl		0.09375
+org.apache.hadoop.yarn.security.NMTokenIdentifier		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/TestRPC_testUnknownCall_22
+org.apache.hadoop.yarn.ipc.HadoopYarnProtoRPC		0.75
+org.apache.hadoop.yarn.ipc.YarnRPC		0.75
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.7352941
+org.apache.hadoop.yarn.factory.providers.RpcFactoryProvider		0.6666667
+org.apache.hadoop.yarn.factories.impl.pb.RpcClientFactoryPBImpl		0.6585366
+org.apache.hadoop.yarn.ipc.RPCUtil		0.41509435
+org.apache.hadoop.yarn.factories.impl.pb.RpcServerFactoryPBImpl		0.328125
+org.apache.hadoop.yarn.api.protocolrecords.impl.pb.GetNewApplicationRequestPBImpl		0.28
+org.apache.hadoop.yarn.api.impl.pb.service.ContainerManagementProtocolPBServiceImpl		0.08695652
+org.apache.hadoop.yarn.api.impl.pb.client.ApplicationClientProtocolPBClientImpl		0.07272727
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/TestRPC_testUnknownCall_o2
+org.apache.hadoop.yarn.ipc.HadoopYarnProtoRPC		0.75
+org.apache.hadoop.yarn.ipc.YarnRPC		0.75
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.7352941
+org.apache.hadoop.yarn.factory.providers.RpcFactoryProvider		0.6666667
+org.apache.hadoop.yarn.factories.impl.pb.RpcClientFactoryPBImpl		0.6585366
+org.apache.hadoop.yarn.ipc.RPCUtil		0.41509435
+org.apache.hadoop.yarn.factories.impl.pb.RpcServerFactoryPBImpl		0.328125
+org.apache.hadoop.yarn.api.protocolrecords.impl.pb.GetNewApplicationRequestPBImpl		0.28
+org.apache.hadoop.yarn.api.impl.pb.service.ContainerManagementProtocolPBServiceImpl		0.08695652
+org.apache.hadoop.yarn.api.impl.pb.client.ApplicationClientProtocolPBClientImpl		0.07272727
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/TestRecordFactory
+TestRecordFactory		0.6666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/TestRecordFactory_testPbRecordFactory_117
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.8235294
+org.apache.hadoop.yarn.api.protocolrecords.impl.pb.AllocateRequestPBImpl		0.008695652
+org.apache.hadoop.yarn.api.protocolrecords.impl.pb.AllocateResponsePBImpl		0.005050505
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/TestRecordFactory_testPbRecordFactory_e
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.8235294
+org.apache.hadoop.yarn.api.protocolrecords.impl.pb.AllocateRequestPBImpl		0.008695652
+org.apache.hadoop.yarn.api.protocolrecords.impl.pb.AllocateResponsePBImpl		0.005050505
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/TestRpcFactoryProvider
+TestRpcFactoryProvider		0.84615386
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/TestRpcFactoryProvider_testFactoryProvider_9l
+org.apache.hadoop.yarn.factory.providers.RpcFactoryProvider		0.71428573
+org.apache.hadoop.yarn.factories.impl.pb.RpcClientFactoryPBImpl		0.07317073
+org.apache.hadoop.yarn.factories.impl.pb.RpcServerFactoryPBImpl		0.046875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/TestRpcFactoryProvider_testFactoryProvider_o
+org.apache.hadoop.yarn.factory.providers.RpcFactoryProvider		0.71428573
+org.apache.hadoop.yarn.factories.impl.pb.RpcClientFactoryPBImpl		0.07317073
+org.apache.hadoop.yarn.factories.impl.pb.RpcServerFactoryPBImpl		0.046875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/TestYarnUncaughtExceptionHandler
+TestYarnUncaughtExceptionHandler		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/TestYarnUncaughtExceptionHandler_testUncaughtExceptionHandlerWithError_11z
+org.apache.hadoop.yarn.YarnUncaughtExceptionHandler		0.5555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/TestYarnUncaughtExceptionHandler_testUncaughtExceptionHandlerWithError_3m
+org.apache.hadoop.yarn.YarnUncaughtExceptionHandler		0.5555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/TestYarnUncaughtExceptionHandler_testUncaughtExceptionHandlerWithOutOfMemoryError_1f
+org.apache.hadoop.yarn.YarnUncaughtExceptionHandler		0.6666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/TestYarnUncaughtExceptionHandler_testUncaughtExceptionHandlerWithOutOfMemoryError_js
+org.apache.hadoop.yarn.YarnUncaughtExceptionHandler		0.6666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/TestYarnUncaughtExceptionHandler_testUncaughtExceptionHandlerWithRuntimeException_33
+org.apache.hadoop.yarn.YarnUncaughtExceptionHandler		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/TestYarnUncaughtExceptionHandler_testUncaughtExceptionHandlerWithRuntimeException_gw
+org.apache.hadoop.yarn.YarnUncaughtExceptionHandler		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestAllocateRequest
+TestAllocateRequest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestAllocateRequest_testAllcoateRequestWithIncrease_2d
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.7647059
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerResourceIncreaseRequestPBImpl		0.686747
+org.apache.hadoop.yarn.api.records.impl.pb.ResourcePBImpl		0.625
+org.apache.hadoop.yarn.api.protocolrecords.impl.pb.AllocateRequestPBImpl		0.40434784
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestAllocateRequest_testAllcoateRequestWithIncrease_7s
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.7647059
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerResourceIncreaseRequestPBImpl		0.686747
+org.apache.hadoop.yarn.api.records.impl.pb.ResourcePBImpl		0.625
+org.apache.hadoop.yarn.api.protocolrecords.impl.pb.AllocateRequestPBImpl		0.40434784
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestAllocateRequest_testAllcoateRequestWithoutIncrease_1ai
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.8235294
+org.apache.hadoop.yarn.api.protocolrecords.impl.pb.AllocateRequestPBImpl		0.3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestAllocateRequest_testAllcoateRequestWithoutIncrease_2s
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.8235294
+org.apache.hadoop.yarn.api.protocolrecords.impl.pb.AllocateRequestPBImpl		0.3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestAllocateResponse
+TestAllocateResponse		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestAllocateResponse_testAllocateResponseWithIncDecContainers_2j
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.7647059
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerResourceDecreasePBImpl		0.6626506
+org.apache.hadoop.yarn.api.records.impl.pb.ResourcePBImpl		0.625
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerResourceIncreasePBImpl		0.5675676
+org.apache.hadoop.yarn.api.protocolrecords.impl.pb.AllocateResponsePBImpl		0.50757575
+org.apache.hadoop.yarn.api.records.impl.pb.ProtoUtils		0.029850746
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestAllocateResponse_testAllocateResponseWithIncDecContainers_ku
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.7647059
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerResourceDecreasePBImpl		0.6626506
+org.apache.hadoop.yarn.api.records.impl.pb.ResourcePBImpl		0.625
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerResourceIncreasePBImpl		0.5675676
+org.apache.hadoop.yarn.api.protocolrecords.impl.pb.AllocateResponsePBImpl		0.50757575
+org.apache.hadoop.yarn.api.records.impl.pb.ProtoUtils		0.029850746
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestAllocateResponse_testAllocateResponseWithoutIncDecContainers_9n
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.8235294
+org.apache.hadoop.yarn.api.protocolrecords.impl.pb.AllocateResponsePBImpl		0.40151516
+org.apache.hadoop.yarn.api.records.impl.pb.ProtoUtils		0.029850746
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestAllocateResponse_testAllocateResponseWithoutIncDecContainers_r
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.8235294
+org.apache.hadoop.yarn.api.protocolrecords.impl.pb.AllocateResponsePBImpl		0.40151516
+org.apache.hadoop.yarn.api.records.impl.pb.ProtoUtils		0.029850746
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestApplicationAttemptId
+TestApplicationAttemptId		0.89285713
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestApplicationAttemptId_testApplicationAttemptId_15
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationIdPBImpl		0.9047619
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.85294116
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationAttemptIdPBImpl		0.7241379
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestApplicationAttemptId_testApplicationAttemptId_ao
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationIdPBImpl		0.9047619
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.85294116
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationAttemptIdPBImpl		0.7241379
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestApplicationId
+TestApplicationId		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestApplicationId_testApplicationId_2y
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.85294116
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationIdPBImpl		0.8095238
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestApplicationId_testApplicationId_z9
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.85294116
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationIdPBImpl		0.8095238
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestApplicatonReport
+TestApplicatonReport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestApplicatonReport_testApplicationReport_f
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.85294116
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationAttemptIdPBImpl		0.62068963
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationIdPBImpl		0.61904764
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationReportPBImpl		0.41421568
+org.apache.hadoop.yarn.api.records.impl.pb.ProtoUtils		0.05970149
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestApplicatonReport_testApplicationReport_pe
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.85294116
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationAttemptIdPBImpl		0.62068963
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationIdPBImpl		0.61904764
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationReportPBImpl		0.41421568
+org.apache.hadoop.yarn.api.records.impl.pb.ProtoUtils		0.05970149
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestContainerId
+TestContainerId		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestContainerId_testContainerId_35
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationIdPBImpl		0.9047619
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.85294116
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationAttemptIdPBImpl		0.79310346
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerIdPBImpl		0.7241379
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestContainerId_testContainerId_e6
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationIdPBImpl		0.9047619
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.85294116
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationAttemptIdPBImpl		0.79310346
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerIdPBImpl		0.7241379
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestContainerResourceDecrease
+TestContainerResourceDecrease		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestContainerResourceDecrease_testResourceDecreaseContextWithNull_12y
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.8235294
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerResourceDecreasePBImpl		0.6506024
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestContainerResourceDecrease_testResourceDecreaseContextWithNull_c
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.8235294
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerResourceDecreasePBImpl		0.6506024
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestContainerResourceDecrease_testResourceDecreaseContext_2g
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationIdPBImpl		1.0
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationAttemptIdPBImpl		0.9655172
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerIdPBImpl		0.9655172
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerResourceDecreasePBImpl		0.7710843
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.7647059
+org.apache.hadoop.yarn.api.records.impl.pb.ResourcePBImpl		0.7
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestContainerResourceDecrease_testResourceDecreaseContext_kn
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationIdPBImpl		1.0
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationAttemptIdPBImpl		0.9655172
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerIdPBImpl		0.9655172
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerResourceDecreasePBImpl		0.7710843
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.7647059
+org.apache.hadoop.yarn.api.records.impl.pb.ResourcePBImpl		0.7
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestContainerResourceIncrease
+TestContainerResourceIncrease		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestContainerResourceIncreaseRequest
+TestContainerResourceIncreaseRequest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestContainerResourceIncreaseRequest_ContainerResourceIncreaseRequest_1d9
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationIdPBImpl		1.0
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationAttemptIdPBImpl		0.9655172
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerIdPBImpl		0.9655172
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerResourceIncreaseRequestPBImpl		0.7710843
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.7647059
+org.apache.hadoop.yarn.api.records.impl.pb.ResourcePBImpl		0.7
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestContainerResourceIncreaseRequest_ContainerResourceIncreaseRequest_i
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationIdPBImpl		1.0
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationAttemptIdPBImpl		0.9655172
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerIdPBImpl		0.9655172
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerResourceIncreaseRequestPBImpl		0.7710843
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.7647059
+org.apache.hadoop.yarn.api.records.impl.pb.ResourcePBImpl		0.7
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestContainerResourceIncreaseRequest_testResourceChangeContextWithNullField_31
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.8235294
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerResourceIncreaseRequestPBImpl		0.6506024
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestContainerResourceIncreaseRequest_testResourceChangeContextWithNullField_ds
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.8235294
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerResourceIncreaseRequestPBImpl		0.6506024
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestContainerResourceIncrease_testResourceIncreaseContextWithNull_18
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerResourceIncreasePBImpl		0.6306306
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.20588236
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestContainerResourceIncrease_testResourceIncreaseContextWithNull_os
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerResourceIncreasePBImpl		0.6306306
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.20588236
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestContainerResourceIncrease_testResourceIncreaseContext_9d
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationIdPBImpl		1.0
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationAttemptIdPBImpl		0.9655172
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerIdPBImpl		0.9655172
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.8235294
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerResourceIncreasePBImpl		0.7657658
+org.apache.hadoop.yarn.api.records.impl.pb.ResourcePBImpl		0.7
+org.apache.hadoop.yarn.api.records.impl.pb.TokenPBImpl		0.45864663
+org.apache.hadoop.yarn.api.records.impl.pb.ProtoUtils		0.1641791
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestContainerResourceIncrease_testResourceIncreaseContext_g
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationIdPBImpl		1.0
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationAttemptIdPBImpl		0.9655172
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerIdPBImpl		0.9655172
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.8235294
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerResourceIncreasePBImpl		0.7657658
+org.apache.hadoop.yarn.api.records.impl.pb.ResourcePBImpl		0.7
+org.apache.hadoop.yarn.api.records.impl.pb.TokenPBImpl		0.45864663
+org.apache.hadoop.yarn.api.records.impl.pb.ProtoUtils		0.1641791
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestGetApplicationsRequest
+TestGetApplicationsRequest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestGetApplicationsRequest_testGetApplicationsRequest_38
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.8235294
+org.apache.hadoop.yarn.api.protocolrecords.impl.pb.GetApplicationsRequestPBImpl		0.6599327
+org.apache.hadoop.yarn.api.records.impl.pb.ProtoUtils		0.08955224
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestGetApplicationsRequest_testGetApplicationsRequest_m8
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.8235294
+org.apache.hadoop.yarn.api.protocolrecords.impl.pb.GetApplicationsRequestPBImpl		0.6599327
+org.apache.hadoop.yarn.api.records.impl.pb.ProtoUtils		0.08955224
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestNodeId
+TestNodeId		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestNodeId_testNodeId_6
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.85294116
+org.apache.hadoop.yarn.api.records.impl.pb.NodeIdPBImpl		0.8095238
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/TestNodeId_testNodeId_91
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.85294116
+org.apache.hadoop.yarn.api.records.impl.pb.NodeIdPBImpl		0.8095238
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/records/impl/pb/TestSerializedExceptionPBImpl
+TestSerializedExceptionPBImpl		0.96153843
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/records/impl/pb/TestSerializedExceptionPBImpl_testBeforeInit_10
+org.apache.hadoop.yarn.api.records.impl.pb.SerializedExceptionPBImpl		0.13114753
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/records/impl/pb/TestSerializedExceptionPBImpl_testBeforeInit_im
+org.apache.hadoop.yarn.api.records.impl.pb.SerializedExceptionPBImpl		0.13114753
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/records/impl/pb/TestSerializedExceptionPBImpl_testDeserialize_1b
+org.apache.hadoop.yarn.api.records.impl.pb.SerializedExceptionPBImpl		0.48360655
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/records/impl/pb/TestSerializedExceptionPBImpl_testDeserialize_rp
+org.apache.hadoop.yarn.api.records.impl.pb.SerializedExceptionPBImpl		0.48360655
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/records/impl/pb/TestSerializedExceptionPBImpl_testSerializedException_12h
+org.apache.hadoop.yarn.api.records.impl.pb.SerializedExceptionPBImpl		0.4180328
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/records/impl/pb/TestSerializedExceptionPBImpl_testSerializedException_d
+org.apache.hadoop.yarn.api.records.impl.pb.SerializedExceptionPBImpl		0.4180328
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/records/timeline/TestTimelineRecords
+TestTimelineRecords		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/records/timeline/TestTimelineRecords_testEntities_32
+org.apache.hadoop.yarn.webapp.YarnJacksonJaxbJsonProvider		0.4
+org.apache.hadoop.yarn.util.timeline.TimelineUtils		0.3181818
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/records/timeline/TestTimelineRecords_testEntities_sp
+org.apache.hadoop.yarn.webapp.YarnJacksonJaxbJsonProvider		0.4
+org.apache.hadoop.yarn.util.timeline.TimelineUtils		0.3181818
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/records/timeline/TestTimelineRecords_testEvents_1y
+org.apache.hadoop.yarn.util.timeline.TimelineUtils		0.18181819
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/records/timeline/TestTimelineRecords_testEvents_bn
+org.apache.hadoop.yarn.util.timeline.TimelineUtils		0.18181819
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/records/timeline/TestTimelineRecords_testTimelinePutErrors_12
+org.apache.hadoop.yarn.util.timeline.TimelineUtils		0.18181819
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/api/records/timeline/TestTimelineRecords_testTimelinePutErrors_1o
+org.apache.hadoop.yarn.util.timeline.TimelineUtils		0.18181819
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/client/TestClientRMProxy
+TestClientRMProxy		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/client/TestClientRMProxy_testGetRMDelegationTokenService_2c
+org.apache.hadoop.yarn.client.ClientRMProxy		0.30232558
+org.apache.hadoop.yarn.client.RMProxy		0.012658228
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/client/TestClientRMProxy_testGetRMDelegationTokenService_p3
+org.apache.hadoop.yarn.client.ClientRMProxy		0.30232558
+org.apache.hadoop.yarn.client.RMProxy		0.012658228
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/conf/TestHAUtil
+TestHAUtil		0.95652175
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/conf/TestHAUtil_testGetConfKeyForRMInstance_30
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/conf/TestHAUtil_testGetConfKeyForRMInstance_lw
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/conf/TestHAUtil_testGetRMId_1ak
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/conf/TestHAUtil_testGetRMId_2v
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/conf/TestHAUtil_testGetRMServiceId_157
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/conf/TestHAUtil_testGetRMServiceId_2f
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/conf/TestHAUtil_testVerifyAndSetConfiguration_3n
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/conf/TestHAUtil_testVerifyAndSetConfiguration_v1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/conf/TestYarnConfiguration
+TestYarnConfiguration		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/conf/TestYarnConfiguration_testDefaultRMWebUrl_16g
+org.apache.hadoop.yarn.webapp.util.WebAppUtils		0.07438017
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/conf/TestYarnConfiguration_testDefaultRMWebUrl_3e
+org.apache.hadoop.yarn.webapp.util.WebAppUtils		0.07438017
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/conf/TestYarnConfiguration_testGetSocketAddressForNMWithHA_125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/conf/TestYarnConfiguration_testGetSocketAddressForNMWithHA_3p
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/conf/TestYarnConfiguration_testRMWebUrlSpecified_3h
+org.apache.hadoop.yarn.webapp.util.WebAppUtils		0.07438017
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/conf/TestYarnConfiguration_testRMWebUrlSpecified_mz
+org.apache.hadoop.yarn.webapp.util.WebAppUtils		0.07438017
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/ipc/TestRPCUtil
+TestRPCUtil		1.0
+TestRPCUtil.YarnTestException		1.0
+TestRPCUtil.YarnTestExceptionNoConstructor		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/ipc/TestRPCUtil_testRPCIOExceptionUnwrapping_36
+org.apache.hadoop.yarn.ipc.RPCUtil		0.16981132
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/ipc/TestRPCUtil_testRPCIOExceptionUnwrapping_88
+org.apache.hadoop.yarn.ipc.RPCUtil		0.16981132
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/ipc/TestRPCUtil_testRPCRuntimeExceptionUnwrapping_3
+org.apache.hadoop.yarn.ipc.RPCUtil		0.20754717
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/ipc/TestRPCUtil_testRPCRuntimeExceptionUnwrapping_tm
+org.apache.hadoop.yarn.ipc.RPCUtil		0.20754717
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/ipc/TestRPCUtil_testRPCServiceExceptionUnwrapping_2t
+org.apache.hadoop.yarn.ipc.RPCUtil		0.094339624
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/ipc/TestRPCUtil_testRPCServiceExceptionUnwrapping_l8
+org.apache.hadoop.yarn.ipc.RPCUtil		0.094339624
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/ipc/TestRPCUtil_testRemoteIOExceptionDerivativeUnwrapping_1h
+org.apache.hadoop.yarn.ipc.RPCUtil		0.41509435
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/ipc/TestRPCUtil_testRemoteIOExceptionDerivativeUnwrapping_2a
+org.apache.hadoop.yarn.ipc.RPCUtil		0.41509435
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/ipc/TestRPCUtil_testRemoteIOExceptionUnwrapping_2
+org.apache.hadoop.yarn.ipc.RPCUtil		0.41509435
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/ipc/TestRPCUtil_testRemoteIOExceptionUnwrapping_ny
+org.apache.hadoop.yarn.ipc.RPCUtil		0.41509435
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/ipc/TestRPCUtil_testRemoteRuntimeExceptionUnwrapping_1c
+org.apache.hadoop.yarn.ipc.RPCUtil		0.4528302
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/ipc/TestRPCUtil_testRemoteRuntimeExceptionUnwrapping_76
+org.apache.hadoop.yarn.ipc.RPCUtil		0.4528302
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/ipc/TestRPCUtil_testRemoteYarnExceptionDerivativeUnwrapping_18f
+org.apache.hadoop.yarn.ipc.RPCUtil		0.3773585
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/ipc/TestRPCUtil_testRemoteYarnExceptionDerivativeUnwrapping_a
+org.apache.hadoop.yarn.ipc.RPCUtil		0.3773585
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/ipc/TestRPCUtil_testRemoteYarnExceptionUnwrapping_156
+org.apache.hadoop.yarn.ipc.RPCUtil		0.3773585
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/ipc/TestRPCUtil_testRemoteYarnExceptionUnwrapping_2e
+org.apache.hadoop.yarn.ipc.RPCUtil		0.3773585
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/ipc/TestRPCUtil_testRemoteYarnExceptionWithoutStringConstructor_u
+org.apache.hadoop.yarn.ipc.RPCUtil		0.3207547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/ipc/TestRPCUtil_testRemoteYarnExceptionWithoutStringConstructor_z
+org.apache.hadoop.yarn.ipc.RPCUtil		0.3207547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/ipc/TestRPCUtil_testUnexpectedRemoteExceptionUnwrapping_1i
+org.apache.hadoop.yarn.ipc.RPCUtil		0.3207547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/ipc/TestRPCUtil_testUnexpectedRemoteExceptionUnwrapping_yf
+org.apache.hadoop.yarn.ipc.RPCUtil		0.3207547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/ipc/TestRPCUtil_testUnknownExceptionUnwrapping_37
+org.apache.hadoop.yarn.ipc.RPCUtil		0.33962265
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/ipc/TestRPCUtil_testUnknownExceptionUnwrapping_t2
+org.apache.hadoop.yarn.ipc.RPCUtil		0.33962265
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/logaggregation/TestAggregatedLogDeletionService
+TestAggregatedLogDeletionService		1.0
+TestAggregatedLogDeletionService.MockFileSystem		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/logaggregation/TestAggregatedLogDeletionService_testCheckInterval_26
+org.apache.hadoop.yarn.logaggregation.AggregatedLogDeletionService.LogDeletionTask		0.77272725
+org.apache.hadoop.yarn.logaggregation.AggregatedLogDeletionService		0.49122807
+org.apache.hadoop.yarn.logaggregation.LogAggregationUtils		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/logaggregation/TestAggregatedLogDeletionService_testCheckInterval_r8
+org.apache.hadoop.yarn.logaggregation.AggregatedLogDeletionService.LogDeletionTask		0.77272725
+org.apache.hadoop.yarn.logaggregation.AggregatedLogDeletionService		0.49122807
+org.apache.hadoop.yarn.logaggregation.LogAggregationUtils		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/logaggregation/TestAggregatedLogDeletionService_testDeletion_i0
+org.apache.hadoop.yarn.logaggregation.AggregatedLogDeletionService.LogDeletionTask		0.8636364
+org.apache.hadoop.yarn.logaggregation.LogAggregationUtils		0.125
+org.apache.hadoop.yarn.logaggregation.AggregatedLogDeletionService		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/logaggregation/TestAggregatedLogDeletionService_testDeletion_k
+org.apache.hadoop.yarn.logaggregation.AggregatedLogDeletionService.LogDeletionTask		0.8636364
+org.apache.hadoop.yarn.logaggregation.LogAggregationUtils		0.125
+org.apache.hadoop.yarn.logaggregation.AggregatedLogDeletionService		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/logaggregation/TestAggregatedLogDeletionService_testRefreshLogRetentionSettings_1a
+org.apache.hadoop.yarn.logaggregation.AggregatedLogDeletionService.LogDeletionTask		0.77272725
+org.apache.hadoop.yarn.logaggregation.AggregatedLogDeletionService		0.64912283
+org.apache.hadoop.yarn.logaggregation.LogAggregationUtils		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/logaggregation/TestAggregatedLogDeletionService_testRefreshLogRetentionSettings_v
+org.apache.hadoop.yarn.logaggregation.AggregatedLogDeletionService.LogDeletionTask		0.77272725
+org.apache.hadoop.yarn.logaggregation.AggregatedLogDeletionService		0.64912283
+org.apache.hadoop.yarn.logaggregation.LogAggregationUtils		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/logaggregation/TestAggregatedLogFormat
+TestAggregatedLogFormat		0.6158192
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/logaggregation/TestAggregatedLogFormat_testContainerLogsFileAccess_1k
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/logaggregation/TestAggregatedLogFormat_testContainerLogsFileAccess_2h
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/logaggregation/TestAggregatedLogFormat_testForCorruptedAggregatedLogs_2i
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat		1.0
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationIdPBImpl		0.9047619
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.8235294
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogValue		0.81632656
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationAttemptIdPBImpl		0.79310346
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerIdPBImpl		0.7241379
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogWriter		0.59574467
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogKey		0.42307693
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogReader		0.3409091
+org.apache.hadoop.yarn.util.ConverterUtils		0.04464286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/logaggregation/TestAggregatedLogFormat_testForCorruptedAggregatedLogs_u9
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat		1.0
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationIdPBImpl		0.9047619
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.8235294
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogValue		0.81632656
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationAttemptIdPBImpl		0.79310346
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerIdPBImpl		0.7241379
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogWriter		0.59574467
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogKey		0.42307693
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogReader		0.3409091
+org.apache.hadoop.yarn.util.ConverterUtils		0.04464286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/logaggregation/TestAggregatedLogFormat_testReadAcontainerLogs1_1w
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationIdPBImpl		0.9047619
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogValue		0.79591835
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationAttemptIdPBImpl		0.79310346
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerIdPBImpl		0.7241379
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogWriter		0.59574467
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogKey		0.34615386
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogReader		0.3409091
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.20588236
+org.apache.hadoop.yarn.util.ConverterUtils		0.04464286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/logaggregation/TestAggregatedLogFormat_testReadAcontainerLogs1_2t
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationIdPBImpl		0.9047619
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogValue		0.79591835
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationAttemptIdPBImpl		0.79310346
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerIdPBImpl		0.7241379
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogWriter		0.59574467
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogKey		0.34615386
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogReader		0.3409091
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.20588236
+org.apache.hadoop.yarn.util.ConverterUtils		0.04464286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/logaggregation/TestAggregatedLogsBlock
+TestAggregatedLogsBlock		0.973913
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/logaggregation/TestAggregatedLogsBlock_testAccessDenied_1s
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat		1.0
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogWriter		0.9361702
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationIdPBImpl		0.9047619
+org.apache.hadoop.yarn.logaggregation.LogAggregationUtils		0.875
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.85294116
+org.apache.hadoop.yarn.api.records.impl.pb.NodeIdPBImpl		0.8095238
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationAttemptIdPBImpl		0.79310346
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogValue		0.7346939
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerIdPBImpl		0.7241379
+org.apache.hadoop.yarn.server.security.ApplicationACLsManager		0.6111111
+org.apache.hadoop.yarn.security.AdminACLsManager		0.45454547
+org.apache.hadoop.yarn.webapp.log.AggregatedLogsBlock		0.36190477
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogKey		0.34615386
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogReader		0.33333334
+org.apache.hadoop.yarn.webapp.view.TextView		0.23076923
+org.apache.hadoop.yarn.util.ConverterUtils		0.21428572
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.1904762
+org.apache.hadoop.yarn.webapp.View		0.12048193
+org.apache.hadoop.yarn.util.StringHelper		0.04347826
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/logaggregation/TestAggregatedLogsBlock_testAccessDenied_s1
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat		1.0
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogWriter		0.9361702
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationIdPBImpl		0.9047619
+org.apache.hadoop.yarn.logaggregation.LogAggregationUtils		0.875
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.85294116
+org.apache.hadoop.yarn.api.records.impl.pb.NodeIdPBImpl		0.8095238
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationAttemptIdPBImpl		0.79310346
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogValue		0.7346939
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerIdPBImpl		0.7241379
+org.apache.hadoop.yarn.server.security.ApplicationACLsManager		0.6111111
+org.apache.hadoop.yarn.security.AdminACLsManager		0.45454547
+org.apache.hadoop.yarn.webapp.log.AggregatedLogsBlock		0.36190477
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogKey		0.34615386
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogReader		0.33333334
+org.apache.hadoop.yarn.webapp.view.TextView		0.23076923
+org.apache.hadoop.yarn.util.ConverterUtils		0.21428572
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.1904762
+org.apache.hadoop.yarn.webapp.View		0.12048193
+org.apache.hadoop.yarn.util.StringHelper		0.04347826
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/logaggregation/TestAggregatedLogsBlock_testAggregatedLogsBlock_186
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogWriter		0.9361702
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationIdPBImpl		0.9047619
+org.apache.hadoop.yarn.logaggregation.LogAggregationUtils		0.875
+org.apache.hadoop.yarn.api.records.impl.pb.NodeIdPBImpl		0.8095238
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationAttemptIdPBImpl		0.79310346
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.ContainerLogsReader		0.75
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogValue		0.7346939
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerIdPBImpl		0.7241379
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogKey		0.6923077
+org.apache.hadoop.yarn.webapp.log.AggregatedLogsBlock		0.62857145
+org.apache.hadoop.yarn.server.security.ApplicationACLsManager		0.6111111
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogReader		0.5378788
+org.apache.hadoop.yarn.security.AdminACLsManager		0.45454547
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.webapp.view.TextView		0.23076923
+org.apache.hadoop.yarn.util.ConverterUtils		0.21428572
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.20588236
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.1904762
+org.apache.hadoop.yarn.webapp.View		0.15662651
+org.apache.hadoop.yarn.util.StringHelper		0.04347826
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/logaggregation/TestAggregatedLogsBlock_testAggregatedLogsBlock_3o
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogWriter		0.9361702
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationIdPBImpl		0.9047619
+org.apache.hadoop.yarn.logaggregation.LogAggregationUtils		0.875
+org.apache.hadoop.yarn.api.records.impl.pb.NodeIdPBImpl		0.8095238
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationAttemptIdPBImpl		0.79310346
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.ContainerLogsReader		0.75
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogValue		0.7346939
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerIdPBImpl		0.7241379
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogKey		0.6923077
+org.apache.hadoop.yarn.webapp.log.AggregatedLogsBlock		0.62857145
+org.apache.hadoop.yarn.server.security.ApplicationACLsManager		0.6111111
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogReader		0.5378788
+org.apache.hadoop.yarn.security.AdminACLsManager		0.45454547
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.webapp.view.TextView		0.23076923
+org.apache.hadoop.yarn.util.ConverterUtils		0.21428572
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.20588236
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.1904762
+org.apache.hadoop.yarn.webapp.View		0.15662651
+org.apache.hadoop.yarn.util.StringHelper		0.04347826
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/logaggregation/TestAggregatedLogsBlock_testBadLogs_1z
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogWriter		0.9361702
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationIdPBImpl		0.9047619
+org.apache.hadoop.yarn.logaggregation.LogAggregationUtils		0.875
+org.apache.hadoop.yarn.api.records.impl.pb.NodeIdPBImpl		0.8095238
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationAttemptIdPBImpl		0.79310346
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogValue		0.7346939
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerIdPBImpl		0.7241379
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.webapp.log.AggregatedLogsBlock		0.2904762
+org.apache.hadoop.yarn.webapp.view.TextView		0.23076923
+org.apache.hadoop.yarn.util.ConverterUtils		0.21428572
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.20588236
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.1904762
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogKey		0.15384616
+org.apache.hadoop.yarn.webapp.View		0.12048193
+org.apache.hadoop.yarn.util.StringHelper		0.04347826
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogReader		0.022727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/logaggregation/TestAggregatedLogsBlock_testBadLogs_31
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogWriter		0.9361702
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationIdPBImpl		0.9047619
+org.apache.hadoop.yarn.logaggregation.LogAggregationUtils		0.875
+org.apache.hadoop.yarn.api.records.impl.pb.NodeIdPBImpl		0.8095238
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationAttemptIdPBImpl		0.79310346
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogValue		0.7346939
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerIdPBImpl		0.7241379
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.webapp.log.AggregatedLogsBlock		0.2904762
+org.apache.hadoop.yarn.webapp.view.TextView		0.23076923
+org.apache.hadoop.yarn.util.ConverterUtils		0.21428572
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.20588236
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.1904762
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogKey		0.15384616
+org.apache.hadoop.yarn.webapp.View		0.12048193
+org.apache.hadoop.yarn.util.StringHelper		0.04347826
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogReader		0.022727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/logaggregation/TestAggregatedLogsBlock_testNoLogs_1l
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogWriter		0.9361702
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationIdPBImpl		0.9047619
+org.apache.hadoop.yarn.logaggregation.LogAggregationUtils		0.875
+org.apache.hadoop.yarn.api.records.impl.pb.NodeIdPBImpl		0.8095238
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationAttemptIdPBImpl		0.79310346
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerIdPBImpl		0.7241379
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogKey		0.6923077
+org.apache.hadoop.yarn.server.security.ApplicationACLsManager		0.6111111
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogReader		0.5378788
+org.apache.hadoop.yarn.security.AdminACLsManager		0.45454547
+org.apache.hadoop.yarn.webapp.log.AggregatedLogsBlock		0.44761905
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.ContainerLogsReader		0.33333334
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogValue		0.2857143
+org.apache.hadoop.yarn.webapp.view.TextView		0.23076923
+org.apache.hadoop.yarn.util.ConverterUtils		0.21428572
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.20588236
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.1904762
+org.apache.hadoop.yarn.webapp.View		0.15662651
+org.apache.hadoop.yarn.util.StringHelper		0.04347826
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/logaggregation/TestAggregatedLogsBlock_testNoLogs_xs
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogWriter		0.9361702
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationIdPBImpl		0.9047619
+org.apache.hadoop.yarn.logaggregation.LogAggregationUtils		0.875
+org.apache.hadoop.yarn.api.records.impl.pb.NodeIdPBImpl		0.8095238
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationAttemptIdPBImpl		0.79310346
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerIdPBImpl		0.7241379
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogKey		0.6923077
+org.apache.hadoop.yarn.server.security.ApplicationACLsManager		0.6111111
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogReader		0.5378788
+org.apache.hadoop.yarn.security.AdminACLsManager		0.45454547
+org.apache.hadoop.yarn.webapp.log.AggregatedLogsBlock		0.44761905
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.ContainerLogsReader		0.33333334
+org.apache.hadoop.yarn.logaggregation.AggregatedLogFormat.LogValue		0.2857143
+org.apache.hadoop.yarn.webapp.view.TextView		0.23076923
+org.apache.hadoop.yarn.util.ConverterUtils		0.21428572
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.20588236
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.1904762
+org.apache.hadoop.yarn.webapp.View		0.15662651
+org.apache.hadoop.yarn.util.StringHelper		0.04347826
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestApplicationClassLoader
+TestApplicationClassLoader		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestApplicationClassLoader_testConstructUrlsFromClasspath_16
+org.apache.hadoop.yarn.util.ApplicationClassLoader		0.16935484
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestApplicationClassLoader_testConstructUrlsFromClasspath_f6
+org.apache.hadoop.yarn.util.ApplicationClassLoader		0.16935484
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestApplicationClassLoader_testGetResource_1p
+org.apache.hadoop.yarn.util.ApplicationClassLoader		0.19354838
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestApplicationClassLoader_testGetResource_di
+org.apache.hadoop.yarn.util.ApplicationClassLoader		0.19354838
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestApplicationClassLoader_testIsSystemClass_2n
+org.apache.hadoop.yarn.util.ApplicationClassLoader		0.2016129
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestApplicationClassLoader_testIsSystemClass_nd
+org.apache.hadoop.yarn.util.ApplicationClassLoader		0.2016129
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestConverterUtils
+TestConverterUtils		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestConverterUtils_testContainerIdNull_17f
+org.apache.hadoop.yarn.util.ConverterUtils		0.026785715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestConverterUtils_testContainerIdNull_1n
+org.apache.hadoop.yarn.util.ConverterUtils		0.026785715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestConverterUtils_testContainerId_2w
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationIdPBImpl		0.9047619
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.8235294
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationAttemptIdPBImpl		0.79310346
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerIdPBImpl		0.7241379
+org.apache.hadoop.yarn.util.ConverterUtils		0.13392857
+org.apache.hadoop.yarn.util.StringHelper		0.04347826
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestConverterUtils_testContainerId_6o
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationIdPBImpl		0.9047619
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.8235294
+org.apache.hadoop.yarn.api.records.impl.pb.ApplicationAttemptIdPBImpl		0.79310346
+org.apache.hadoop.yarn.api.records.impl.pb.ContainerIdPBImpl		0.7241379
+org.apache.hadoop.yarn.util.ConverterUtils		0.13392857
+org.apache.hadoop.yarn.util.StringHelper		0.04347826
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestConverterUtils_testConvertUrlWithNoPort_1
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.8235294
+org.apache.hadoop.yarn.api.records.impl.pb.URLPBImpl		0.48598132
+org.apache.hadoop.yarn.util.ConverterUtils		0.22321428
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestConverterUtils_testConvertUrlWithNoPort_9s
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.8235294
+org.apache.hadoop.yarn.api.records.impl.pb.URLPBImpl		0.48598132
+org.apache.hadoop.yarn.util.ConverterUtils		0.22321428
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestConverterUtils_testConvertUrlWithUserinfo_29
+org.apache.hadoop.yarn.api.records.impl.pb.URLPBImpl		0.53271025
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.2647059
+org.apache.hadoop.yarn.util.ConverterUtils		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestConverterUtils_testConvertUrlWithUserinfo_3j
+org.apache.hadoop.yarn.api.records.impl.pb.URLPBImpl		0.53271025
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.2647059
+org.apache.hadoop.yarn.util.ConverterUtils		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestFSDownload
+TestFSDownload		0.8159204
+TestFSDownload.TEST_FILE_TYPE		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestFSDownload_testDirDownload_21
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.8235294
+org.apache.hadoop.yarn.api.records.impl.pb.LocalResourcePBImpl		0.62676054
+org.apache.hadoop.yarn.api.records.impl.pb.URLPBImpl		0.40186915
+org.apache.hadoop.yarn.util.FSDownload		0.38938054
+org.apache.hadoop.yarn.util.ConverterUtils		0.16964285
+org.apache.hadoop.yarn.api.records.impl.pb.ProtoUtils		0.11940298
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestFSDownload_testDirDownload_yd
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.8235294
+org.apache.hadoop.yarn.api.records.impl.pb.LocalResourcePBImpl		0.62676054
+org.apache.hadoop.yarn.api.records.impl.pb.URLPBImpl		0.40186915
+org.apache.hadoop.yarn.util.FSDownload		0.38938054
+org.apache.hadoop.yarn.util.ConverterUtils		0.16964285
+org.apache.hadoop.yarn.api.records.impl.pb.ProtoUtils		0.11940298
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestFSDownload_testDownloadArchiveTgz_13
+org.apache.hadoop.yarn.api.records.impl.pb.LocalResourcePBImpl		0.5915493
+org.apache.hadoop.yarn.api.records.impl.pb.URLPBImpl		0.40186915
+org.apache.hadoop.yarn.util.FSDownload		0.38938054
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.2647059
+org.apache.hadoop.yarn.util.ConverterUtils		0.16964285
+org.apache.hadoop.yarn.api.records.impl.pb.ProtoUtils		0.11940298
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestFSDownload_testDownloadArchiveTgz_is
+org.apache.hadoop.yarn.api.records.impl.pb.LocalResourcePBImpl		0.5915493
+org.apache.hadoop.yarn.api.records.impl.pb.URLPBImpl		0.40186915
+org.apache.hadoop.yarn.util.FSDownload		0.38938054
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.2647059
+org.apache.hadoop.yarn.util.ConverterUtils		0.16964285
+org.apache.hadoop.yarn.api.records.impl.pb.ProtoUtils		0.11940298
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestFSDownload_testDownloadArchiveZip_11
+org.apache.hadoop.yarn.api.records.impl.pb.LocalResourcePBImpl		0.5915493
+org.apache.hadoop.yarn.api.records.impl.pb.URLPBImpl		0.40186915
+org.apache.hadoop.yarn.util.FSDownload		0.38053098
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.2647059
+org.apache.hadoop.yarn.util.ConverterUtils		0.16964285
+org.apache.hadoop.yarn.api.records.impl.pb.ProtoUtils		0.11940298
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestFSDownload_testDownloadArchiveZip_1i
+org.apache.hadoop.yarn.api.records.impl.pb.LocalResourcePBImpl		0.5915493
+org.apache.hadoop.yarn.api.records.impl.pb.URLPBImpl		0.40186915
+org.apache.hadoop.yarn.util.FSDownload		0.38053098
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.2647059
+org.apache.hadoop.yarn.util.ConverterUtils		0.16964285
+org.apache.hadoop.yarn.api.records.impl.pb.ProtoUtils		0.11940298
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestFSDownload_testDownloadArchive_1t
+org.apache.hadoop.yarn.api.records.impl.pb.LocalResourcePBImpl		0.5915493
+org.apache.hadoop.yarn.api.records.impl.pb.URLPBImpl		0.40186915
+org.apache.hadoop.yarn.util.FSDownload		0.38938054
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.2647059
+org.apache.hadoop.yarn.util.ConverterUtils		0.16964285
+org.apache.hadoop.yarn.api.records.impl.pb.ProtoUtils		0.11940298
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestFSDownload_testDownloadArchive_xy
+org.apache.hadoop.yarn.api.records.impl.pb.LocalResourcePBImpl		0.5915493
+org.apache.hadoop.yarn.api.records.impl.pb.URLPBImpl		0.40186915
+org.apache.hadoop.yarn.util.FSDownload		0.38938054
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.2647059
+org.apache.hadoop.yarn.util.ConverterUtils		0.16964285
+org.apache.hadoop.yarn.api.records.impl.pb.ProtoUtils		0.11940298
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestFSDownload_testDownloadBadPublic_1u
+org.apache.hadoop.yarn.api.records.impl.pb.LocalResourcePBImpl		0.49295774
+org.apache.hadoop.yarn.api.records.impl.pb.URLPBImpl		0.40186915
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.2647059
+org.apache.hadoop.yarn.util.FSDownload		0.24778761
+org.apache.hadoop.yarn.util.ConverterUtils		0.16964285
+org.apache.hadoop.yarn.api.records.impl.pb.ProtoUtils		0.08955224
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestFSDownload_testDownloadBadPublic_y6
+org.apache.hadoop.yarn.api.records.impl.pb.LocalResourcePBImpl		0.49295774
+org.apache.hadoop.yarn.api.records.impl.pb.URLPBImpl		0.40186915
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.2647059
+org.apache.hadoop.yarn.util.FSDownload		0.24778761
+org.apache.hadoop.yarn.util.ConverterUtils		0.16964285
+org.apache.hadoop.yarn.api.records.impl.pb.ProtoUtils		0.08955224
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestFSDownload_testDownloadPatternJar_19
+org.apache.hadoop.yarn.api.records.impl.pb.LocalResourcePBImpl		0.5915493
+org.apache.hadoop.yarn.api.records.impl.pb.URLPBImpl		0.40186915
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.2647059
+org.apache.hadoop.yarn.util.FSDownload		0.24778761
+org.apache.hadoop.yarn.util.ConverterUtils		0.16964285
+org.apache.hadoop.yarn.api.records.impl.pb.ProtoUtils		0.11940298
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestFSDownload_testDownloadPatternJar_bz
+org.apache.hadoop.yarn.api.records.impl.pb.LocalResourcePBImpl		0.5915493
+org.apache.hadoop.yarn.api.records.impl.pb.URLPBImpl		0.40186915
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.2647059
+org.apache.hadoop.yarn.util.FSDownload		0.24778761
+org.apache.hadoop.yarn.util.ConverterUtils		0.16964285
+org.apache.hadoop.yarn.api.records.impl.pb.ProtoUtils		0.11940298
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestFSDownload_testDownloadPublicWithStatCache_3j
+org.apache.hadoop.yarn.util.FSDownload		0.07079646
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestFSDownload_testDownloadPublicWithStatCache_f2
+org.apache.hadoop.yarn.util.FSDownload		0.07079646
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestFSDownload_testDownload_1g
+org.apache.hadoop.yarn.api.records.impl.pb.LocalResourcePBImpl		0.6197183
+org.apache.hadoop.yarn.api.records.impl.pb.URLPBImpl		0.40186915
+org.apache.hadoop.yarn.util.FSDownload		0.3318584
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.2647059
+org.apache.hadoop.yarn.util.ConverterUtils		0.16964285
+org.apache.hadoop.yarn.api.records.impl.pb.ProtoUtils		0.11940298
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestFSDownload_testDownload_b7
+org.apache.hadoop.yarn.api.records.impl.pb.LocalResourcePBImpl		0.6197183
+org.apache.hadoop.yarn.api.records.impl.pb.URLPBImpl		0.40186915
+org.apache.hadoop.yarn.util.FSDownload		0.3318584
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.2647059
+org.apache.hadoop.yarn.util.ConverterUtils		0.16964285
+org.apache.hadoop.yarn.api.records.impl.pb.ProtoUtils		0.11940298
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestFSDownload_testUniqueDestinationPath_1x
+org.apache.hadoop.yarn.api.records.impl.pb.LocalResourcePBImpl		0.47887325
+org.apache.hadoop.yarn.util.FSDownload		0.38938054
+org.apache.hadoop.yarn.api.records.impl.pb.URLPBImpl		0.34579438
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.2647059
+org.apache.hadoop.yarn.util.ConverterUtils		0.16964285
+org.apache.hadoop.yarn.api.records.impl.pb.ProtoUtils		0.11940298
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestFSDownload_testUniqueDestinationPath_jq
+org.apache.hadoop.yarn.api.records.impl.pb.LocalResourcePBImpl		0.47887325
+org.apache.hadoop.yarn.util.FSDownload		0.38938054
+org.apache.hadoop.yarn.api.records.impl.pb.URLPBImpl		0.34579438
+org.apache.hadoop.yarn.factories.impl.pb.RecordFactoryPBImpl		0.2647059
+org.apache.hadoop.yarn.util.ConverterUtils		0.16964285
+org.apache.hadoop.yarn.api.records.impl.pb.ProtoUtils		0.11940298
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestLinuxResourceCalculatorPlugin
+TestLinuxResourceCalculatorPlugin		1.0
+TestLinuxResourceCalculatorPlugin.FakeLinuxResourceCalculatorPlugin		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestLinuxResourceCalculatorPlugin_parsingProcMemFile_2u
+org.apache.hadoop.yarn.util.LinuxResourceCalculatorPlugin		0.32967034
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestLinuxResourceCalculatorPlugin_parsingProcMemFile_z5
+org.apache.hadoop.yarn.util.LinuxResourceCalculatorPlugin		0.32967034
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestLinuxResourceCalculatorPlugin_parsingProcStatAndCpuFile_1a
+org.apache.hadoop.yarn.util.LinuxResourceCalculatorPlugin		0.45604396
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestLinuxResourceCalculatorPlugin_parsingProcStatAndCpuFile_bs
+org.apache.hadoop.yarn.util.LinuxResourceCalculatorPlugin		0.45604396
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestProcfsBasedProcessTree
+TestProcfsBasedProcessTree		0.65789473
+TestProcfsBasedProcessTree.RogueTaskThread		0.0
+TestProcfsBasedProcessTree.ProcessStatInfo		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestProcfsBasedProcessTree_testCpuAndMemoryForProcessTree_10d
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree.ProcessTreeSmapMemInfo		1.0
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree.ProcessSmapMemoryInfo		0.925
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree.MemInfo		0.7777778
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree		0.64784056
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree.ProcessInfo		0.47058824
+org.apache.hadoop.yarn.util.ResourceCalculatorProcessTree		0.20833333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestProcfsBasedProcessTree_testCpuAndMemoryForProcessTree_3c
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree.ProcessTreeSmapMemInfo		1.0
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree.ProcessSmapMemoryInfo		0.925
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree.MemInfo		0.7777778
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree		0.64784056
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree.ProcessInfo		0.47058824
+org.apache.hadoop.yarn.util.ResourceCalculatorProcessTree		0.20833333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestProcfsBasedProcessTree_testDestroyProcessTree_2r
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree		0.096345514
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree.ProcessInfo		0.05882353
+org.apache.hadoop.yarn.util.ResourceCalculatorProcessTree		0.041666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestProcfsBasedProcessTree_testDestroyProcessTree_l1
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree		0.096345514
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree.ProcessInfo		0.05882353
+org.apache.hadoop.yarn.util.ResourceCalculatorProcessTree		0.041666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestProcfsBasedProcessTree_testMemForOlderProcesses_2b
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree.ProcessTreeSmapMemInfo		1.0
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree.ProcessSmapMemoryInfo		0.925
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree.MemInfo		0.7777778
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree		0.62458473
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree.ProcessInfo		0.44705883
+org.apache.hadoop.yarn.util.ResourceCalculatorProcessTree		0.20833333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestProcfsBasedProcessTree_testMemForOlderProcesses_3s
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree.ProcessTreeSmapMemInfo		1.0
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree.ProcessSmapMemoryInfo		0.925
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree.MemInfo		0.7777778
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree		0.62458473
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree.ProcessInfo		0.44705883
+org.apache.hadoop.yarn.util.ResourceCalculatorProcessTree		0.20833333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestProcfsBasedProcessTree_testProcessTreeDump_i4
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree.MemInfo		1.0
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree.ProcessSmapMemoryInfo		0.875
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree.ProcessTreeSmapMemInfo		0.84615386
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree.ProcessInfo		0.7411765
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree		0.4053156
+org.apache.hadoop.yarn.util.ResourceCalculatorProcessTree		0.041666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestProcfsBasedProcessTree_testProcessTreeDump_q
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree.MemInfo		1.0
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree.ProcessSmapMemoryInfo		0.875
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree.ProcessTreeSmapMemInfo		0.84615386
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree.ProcessInfo		0.7411765
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree		0.4053156
+org.apache.hadoop.yarn.util.ResourceCalculatorProcessTree		0.041666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestProcfsBasedProcessTree_testProcessTree_2p
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree		0.016611295
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestProcfsBasedProcessTree_testProcessTree_5i
+org.apache.hadoop.yarn.util.ProcfsBasedProcessTree		0.016611295
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestRackResolver
+TestRackResolver		0.9230769
+TestRackResolver.MyResolver		0.85714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestRackResolverScriptBasedMapping
+TestRackResolverScriptBasedMapping		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestRackResolverScriptBasedMapping_testScriptName_3i
+org.apache.hadoop.yarn.util.RackResolver		0.2972973
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestRackResolverScriptBasedMapping_testScriptName_ga
+org.apache.hadoop.yarn.util.RackResolver		0.2972973
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestRackResolver_testCaching_15
+org.apache.hadoop.yarn.util.RackResolver		0.7027027
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestRackResolver_testCaching_t
+org.apache.hadoop.yarn.util.RackResolver		0.7027027
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestResourceCalculatorProcessTree
+TestResourceCalculatorProcessTree		1.0
+TestResourceCalculatorProcessTree.EmptyProcessTree		0.15384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestResourceCalculatorProcessTree_testCreateInstance_3g
+org.apache.hadoop.yarn.util.ResourceCalculatorProcessTree		0.375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestResourceCalculatorProcessTree_testCreateInstance_mx
+org.apache.hadoop.yarn.util.ResourceCalculatorProcessTree		0.375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestResourceCalculatorProcessTree_testCreatedInstanceConfigured_i2
+org.apache.hadoop.yarn.util.ResourceCalculatorProcessTree		0.375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestResourceCalculatorProcessTree_testCreatedInstanceConfigured_m
+org.apache.hadoop.yarn.util.ResourceCalculatorProcessTree		0.375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestTimes
+TestTimes		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestTimes_testNegativeFinishTimes_2l
+org.apache.hadoop.yarn.util.Times		0.3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestTimes_testNegativeFinishTimes_dt
+org.apache.hadoop.yarn.util.Times		0.3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestTimes_testNegativeStartTimes_14n
+org.apache.hadoop.yarn.util.Times		0.45
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestTimes_testNegativeStartTimes_20
+org.apache.hadoop.yarn.util.Times		0.45
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestTimes_testNegativeStartandFinishTimes_2q
+org.apache.hadoop.yarn.util.Times		0.3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestTimes_testNegativeStartandFinishTimes_d0
+org.apache.hadoop.yarn.util.Times		0.3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestTimes_testPositiveStartandFinishTimes_d8
+org.apache.hadoop.yarn.util.Times		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestTimes_testPositiveStartandFinishTimes_n
+org.apache.hadoop.yarn.util.Times		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestWindowsBasedProcessTree
+TestWindowsBasedProcessTree		0.1724138
+TestWindowsBasedProcessTree.WindowsBasedProcessTreeTester		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestWindowsBasedProcessTree_tree_16h
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestWindowsBasedProcessTree_tree_3f
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestWindowsResourceCalculatorPlugin
+TestWindowsResourceCalculatorPlugin		1.0
+TestWindowsResourceCalculatorPlugin.WindowsResourceCalculatorPluginTester		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestWindowsResourceCalculatorPlugin_errorInGetSystemInfo_37
+org.apache.hadoop.yarn.util.WindowsResourceCalculatorPlugin		0.34666666
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestWindowsResourceCalculatorPlugin_errorInGetSystemInfo_z
+org.apache.hadoop.yarn.util.WindowsResourceCalculatorPlugin		0.34666666
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestWindowsResourceCalculatorPlugin_parseSystemInfoString_39
+org.apache.hadoop.yarn.util.WindowsResourceCalculatorPlugin		0.53333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestWindowsResourceCalculatorPlugin_parseSystemInfoString_tx
+org.apache.hadoop.yarn.util.WindowsResourceCalculatorPlugin		0.53333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestWindowsResourceCalculatorPlugin_refreshAndCpuUsage_34
+org.apache.hadoop.yarn.util.WindowsResourceCalculatorPlugin		0.5733333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestWindowsResourceCalculatorPlugin_refreshAndCpuUsage_5p
+org.apache.hadoop.yarn.util.WindowsResourceCalculatorPlugin		0.5733333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestYarnVersionInfo
+TestYarnVersionInfo		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestYarnVersionInfo_versionInfoGenerated_14
+org.apache.hadoop.yarn.util.YarnVersionInfo		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/util/TestYarnVersionInfo_versionInfoGenerated_18z
+org.apache.hadoop.yarn.util.YarnVersionInfo		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestParseRoute
+TestParseRoute		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestParseRoute_testDefaultAction_7
+org.apache.hadoop.yarn.webapp.WebApp		0.26086956
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestParseRoute_testDefaultAction_vt
+org.apache.hadoop.yarn.webapp.WebApp		0.26086956
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestParseRoute_testDefaultCapture_8
+org.apache.hadoop.yarn.webapp.WebApp		0.23188406
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestParseRoute_testDefaultCapture_hk
+org.apache.hadoop.yarn.webapp.WebApp		0.23188406
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestParseRoute_testDefaultController_3d
+org.apache.hadoop.yarn.webapp.WebApp		0.1884058
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestParseRoute_testDefaultController_td
+org.apache.hadoop.yarn.webapp.WebApp		0.1884058
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestParseRoute_testLeadingPaddings_2z
+org.apache.hadoop.yarn.webapp.WebApp		0.3115942
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestParseRoute_testLeadingPaddings_df
+org.apache.hadoop.yarn.webapp.WebApp		0.3115942
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestParseRoute_testMissingAction_3k
+org.apache.hadoop.yarn.webapp.WebApp		0.29710144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestParseRoute_testMissingAction_fd
+org.apache.hadoop.yarn.webapp.WebApp		0.29710144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestParseRoute_testMissingLeadingSlash_2k
+org.apache.hadoop.yarn.webapp.WebAppException		0.33333334
+org.apache.hadoop.yarn.webapp.WebApp		0.072463766
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestParseRoute_testMissingLeadingSlash_ct
+org.apache.hadoop.yarn.webapp.WebAppException		0.33333334
+org.apache.hadoop.yarn.webapp.WebApp		0.072463766
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestParseRoute_testNormalAction_24
+org.apache.hadoop.yarn.webapp.WebApp		0.29710144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestParseRoute_testNormalAction_kd
+org.apache.hadoop.yarn.webapp.WebApp		0.29710144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestParseRoute_testPartialCapture1_9
+org.apache.hadoop.yarn.webapp.WebApp		0.29710144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestParseRoute_testPartialCapture1_hj
+org.apache.hadoop.yarn.webapp.WebApp		0.29710144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestParseRoute_testPartialCapture2_27
+org.apache.hadoop.yarn.webapp.WebApp		0.29710144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestParseRoute_testPartialCapture2_sq
+org.apache.hadoop.yarn.webapp.WebApp		0.29710144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestParseRoute_testTrailingPaddings_1o
+org.apache.hadoop.yarn.webapp.WebApp		0.3115942
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestParseRoute_testTrailingPaddings_o5
+org.apache.hadoop.yarn.webapp.WebApp		0.3115942
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestSubViews
+TestSubViews		1.0
+TestSubViews.MainView		1.0
+TestSubViews.Sub1		1.0
+TestSubViews.Sub2		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestSubViews_testSubView_0
+org.apache.hadoop.yarn.webapp.view.HtmlPage.Page		1.0
+org.apache.hadoop.yarn.webapp.view.TextView		1.0
+org.apache.hadoop.yarn.webapp.view.HtmlPage		0.88235295
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.85714287
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.8181818
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.webapp.View		0.28915662
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.0952381
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestSubViews_testSubView_hd
+org.apache.hadoop.yarn.webapp.view.HtmlPage.Page		1.0
+org.apache.hadoop.yarn.webapp.view.TextView		1.0
+org.apache.hadoop.yarn.webapp.view.HtmlPage		0.88235295
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.85714287
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.8181818
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.webapp.View		0.28915662
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.0952381
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestWebApp
+TestWebApp		0.90434784
+TestWebApp.FooController		0.27272728
+TestWebApp.FooView		1.0
+TestWebApp.DefaultController		1.0
+TestWebApp.TablesView		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestWebApp_testCreateWithBindAddressNonZeroPort_9e
+org.apache.hadoop.yarn.webapp.WebApps		0.6
+org.apache.hadoop.yarn.webapp.WebApps.Builder		0.45962733
+org.apache.hadoop.yarn.security.AdminACLsManager		0.36363637
+org.apache.hadoop.yarn.webapp.WebAppException		0.33333334
+org.apache.hadoop.yarn.webapp.WebApp		0.19565217
+org.apache.hadoop.yarn.webapp.util.WebAppUtils		0.024793388
+org.apache.hadoop.yarn.webapp.Router		0.012121212
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestWebApp_testCreateWithBindAddressNonZeroPort_j
+org.apache.hadoop.yarn.webapp.WebApps		0.6
+org.apache.hadoop.yarn.webapp.WebApps.Builder		0.45962733
+org.apache.hadoop.yarn.security.AdminACLsManager		0.36363637
+org.apache.hadoop.yarn.webapp.WebAppException		0.33333334
+org.apache.hadoop.yarn.webapp.WebApp		0.19565217
+org.apache.hadoop.yarn.webapp.util.WebAppUtils		0.024793388
+org.apache.hadoop.yarn.webapp.Router		0.012121212
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestWebApp_testCreateWithNonZeroPort_ig
+org.apache.hadoop.yarn.webapp.WebApps		0.6
+org.apache.hadoop.yarn.security.AdminACLsManager		0.36363637
+org.apache.hadoop.yarn.webapp.WebApps.Builder		0.36024845
+org.apache.hadoop.yarn.webapp.WebAppException		0.33333334
+org.apache.hadoop.yarn.webapp.WebApp		0.10144927
+org.apache.hadoop.yarn.webapp.util.WebAppUtils		0.024793388
+org.apache.hadoop.yarn.webapp.Router		0.012121212
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestWebApp_testCreateWithNonZeroPort_x
+org.apache.hadoop.yarn.webapp.WebApps		0.6
+org.apache.hadoop.yarn.security.AdminACLsManager		0.36363637
+org.apache.hadoop.yarn.webapp.WebApps.Builder		0.36024845
+org.apache.hadoop.yarn.webapp.WebAppException		0.33333334
+org.apache.hadoop.yarn.webapp.WebApp		0.10144927
+org.apache.hadoop.yarn.webapp.util.WebAppUtils		0.024793388
+org.apache.hadoop.yarn.webapp.Router		0.012121212
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestWebApp_testCreateWithPort_2m
+org.apache.hadoop.yarn.webapp.WebApps		0.6
+org.apache.hadoop.yarn.webapp.WebApps.Builder		0.42857143
+org.apache.hadoop.yarn.security.AdminACLsManager		0.36363637
+org.apache.hadoop.yarn.webapp.WebApp		0.2536232
+org.apache.hadoop.yarn.webapp.Dispatcher		0.025806451
+org.apache.hadoop.yarn.webapp.util.WebAppUtils		0.024793388
+org.apache.hadoop.yarn.webapp.Router		0.012121212
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestWebApp_testCreateWithPort_h3
+org.apache.hadoop.yarn.webapp.WebApps		0.6
+org.apache.hadoop.yarn.webapp.WebApps.Builder		0.42857143
+org.apache.hadoop.yarn.security.AdminACLsManager		0.36363637
+org.apache.hadoop.yarn.webapp.WebApp		0.2536232
+org.apache.hadoop.yarn.webapp.Dispatcher		0.025806451
+org.apache.hadoop.yarn.webapp.util.WebAppUtils		0.024793388
+org.apache.hadoop.yarn.webapp.Router		0.012121212
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestWebApp_testCreate_2h
+org.apache.hadoop.yarn.webapp.WebApps		0.6
+org.apache.hadoop.yarn.webapp.WebApps.Builder		0.38509318
+org.apache.hadoop.yarn.security.AdminACLsManager		0.36363637
+org.apache.hadoop.yarn.webapp.WebApp		0.21014492
+org.apache.hadoop.yarn.webapp.util.WebAppUtils		0.024793388
+org.apache.hadoop.yarn.webapp.Router		0.012121212
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestWebApp_testCreate_cn
+org.apache.hadoop.yarn.webapp.WebApps		0.6
+org.apache.hadoop.yarn.webapp.WebApps.Builder		0.38509318
+org.apache.hadoop.yarn.security.AdminACLsManager		0.36363637
+org.apache.hadoop.yarn.webapp.WebApp		0.21014492
+org.apache.hadoop.yarn.webapp.util.WebAppUtils		0.024793388
+org.apache.hadoop.yarn.webapp.Router		0.012121212
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestWebApp_testCustomRoutes_23
+org.apache.hadoop.yarn.webapp.view.Html		1.0
+org.apache.hadoop.yarn.webapp.view.HtmlPage.Page		1.0
+org.apache.hadoop.yarn.webapp.view.TextView		1.0
+org.apache.hadoop.yarn.webapp.view.HtmlPage		0.88235295
+org.apache.hadoop.yarn.webapp.Router.Dest		0.875
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.85714287
+org.apache.hadoop.yarn.webapp.WebApp		0.8333333
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.8181818
+org.apache.hadoop.yarn.webapp.view.ErrorPage		0.75
+org.apache.hadoop.yarn.webapp.Router		0.73333335
+org.apache.hadoop.yarn.webapp.View		0.6385542
+org.apache.hadoop.yarn.util.StringHelper		0.6086956
+org.apache.hadoop.yarn.webapp.Dispatcher		0.516129
+org.apache.hadoop.yarn.webapp.view.TextPage		0.5
+org.apache.hadoop.yarn.webapp.WebApps.Builder		0.38509318
+org.apache.hadoop.yarn.security.AdminACLsManager		0.36363637
+org.apache.hadoop.yarn.webapp.view.JQueryUI		0.36363637
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.35714287
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.webapp.WebAppException		0.33333334
+org.apache.hadoop.yarn.webapp.Controller		0.22535211
+org.apache.hadoop.yarn.webapp.WebApps		0.2
+org.apache.hadoop.yarn.webapp.util.WebAppUtils		0.024793388
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestWebApp_testCustomRoutes_8f
+org.apache.hadoop.yarn.webapp.view.Html		1.0
+org.apache.hadoop.yarn.webapp.view.HtmlPage.Page		1.0
+org.apache.hadoop.yarn.webapp.view.TextView		1.0
+org.apache.hadoop.yarn.webapp.view.HtmlPage		0.88235295
+org.apache.hadoop.yarn.webapp.Router.Dest		0.875
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.85714287
+org.apache.hadoop.yarn.webapp.WebApp		0.8333333
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.8181818
+org.apache.hadoop.yarn.webapp.view.ErrorPage		0.75
+org.apache.hadoop.yarn.webapp.Router		0.73333335
+org.apache.hadoop.yarn.webapp.View		0.6385542
+org.apache.hadoop.yarn.util.StringHelper		0.6086956
+org.apache.hadoop.yarn.webapp.Dispatcher		0.516129
+org.apache.hadoop.yarn.webapp.view.TextPage		0.5
+org.apache.hadoop.yarn.webapp.WebApps.Builder		0.38509318
+org.apache.hadoop.yarn.security.AdminACLsManager		0.36363637
+org.apache.hadoop.yarn.webapp.view.JQueryUI		0.36363637
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.35714287
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.webapp.WebAppException		0.33333334
+org.apache.hadoop.yarn.webapp.Controller		0.22535211
+org.apache.hadoop.yarn.webapp.WebApps		0.2
+org.apache.hadoop.yarn.webapp.util.WebAppUtils		0.024793388
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestWebApp_testDefaultRoutes_17
+org.apache.hadoop.yarn.webapp.view.TextView		1.0
+org.apache.hadoop.yarn.webapp.Router.Dest		0.875
+org.apache.hadoop.yarn.webapp.Router		0.72727275
+org.apache.hadoop.yarn.webapp.WebApp		0.6304348
+org.apache.hadoop.yarn.webapp.view.TextPage		0.5
+org.apache.hadoop.yarn.webapp.Dispatcher		0.4064516
+org.apache.hadoop.yarn.webapp.WebApps		0.4
+org.apache.hadoop.yarn.webapp.WebApps.Builder		0.39130434
+org.apache.hadoop.yarn.security.AdminACLsManager		0.36363637
+org.apache.hadoop.yarn.webapp.View		0.36144578
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.2857143
+org.apache.hadoop.yarn.webapp.Controller		0.22535211
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.18181819
+org.apache.hadoop.yarn.util.StringHelper		0.13043478
+org.apache.hadoop.yarn.webapp.util.WebAppUtils		0.024793388
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestWebApp_testDefaultRoutes_1w
+org.apache.hadoop.yarn.webapp.view.TextView		1.0
+org.apache.hadoop.yarn.webapp.Router.Dest		0.875
+org.apache.hadoop.yarn.webapp.Router		0.72727275
+org.apache.hadoop.yarn.webapp.WebApp		0.6304348
+org.apache.hadoop.yarn.webapp.view.TextPage		0.5
+org.apache.hadoop.yarn.webapp.Dispatcher		0.4064516
+org.apache.hadoop.yarn.webapp.WebApps		0.4
+org.apache.hadoop.yarn.webapp.WebApps.Builder		0.39130434
+org.apache.hadoop.yarn.security.AdminACLsManager		0.36363637
+org.apache.hadoop.yarn.webapp.View		0.36144578
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.2857143
+org.apache.hadoop.yarn.webapp.Controller		0.22535211
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.18181819
+org.apache.hadoop.yarn.util.StringHelper		0.13043478
+org.apache.hadoop.yarn.webapp.util.WebAppUtils		0.024793388
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestWebApp_testServePathsNoName_1q
+org.apache.hadoop.yarn.webapp.WebApps		0.4
+org.apache.hadoop.yarn.webapp.WebApps.Builder		0.38509318
+org.apache.hadoop.yarn.security.AdminACLsManager		0.36363637
+org.apache.hadoop.yarn.webapp.WebApp		0.23913044
+org.apache.hadoop.yarn.webapp.util.WebAppUtils		0.024793388
+org.apache.hadoop.yarn.webapp.Router		0.012121212
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestWebApp_testServePathsNoName_xw
+org.apache.hadoop.yarn.webapp.WebApps		0.4
+org.apache.hadoop.yarn.webapp.WebApps.Builder		0.38509318
+org.apache.hadoop.yarn.security.AdminACLsManager		0.36363637
+org.apache.hadoop.yarn.webapp.WebApp		0.23913044
+org.apache.hadoop.yarn.webapp.util.WebAppUtils		0.024793388
+org.apache.hadoop.yarn.webapp.Router		0.012121212
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestWebApp_testServePaths_1cz
+org.apache.hadoop.yarn.webapp.WebApps		0.4
+org.apache.hadoop.yarn.webapp.WebApps.Builder		0.39130434
+org.apache.hadoop.yarn.security.AdminACLsManager		0.36363637
+org.apache.hadoop.yarn.webapp.WebApp		0.23913044
+org.apache.hadoop.yarn.webapp.util.WebAppUtils		0.024793388
+org.apache.hadoop.yarn.webapp.Router		0.012121212
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestWebApp_testServePaths_5
+org.apache.hadoop.yarn.webapp.WebApps		0.4
+org.apache.hadoop.yarn.webapp.WebApps.Builder		0.39130434
+org.apache.hadoop.yarn.security.AdminACLsManager		0.36363637
+org.apache.hadoop.yarn.webapp.WebApp		0.23913044
+org.apache.hadoop.yarn.webapp.util.WebAppUtils		0.024793388
+org.apache.hadoop.yarn.webapp.Router		0.012121212
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestWebApp_testYARNWebAppContext_55
+org.apache.hadoop.yarn.webapp.view.TextView		1.0
+org.apache.hadoop.yarn.webapp.Router.Dest		0.875
+org.apache.hadoop.yarn.webapp.WebApp		0.5072464
+org.apache.hadoop.yarn.webapp.view.TextPage		0.5
+org.apache.hadoop.yarn.webapp.WebApps		0.4
+org.apache.hadoop.yarn.webapp.Dispatcher		0.3935484
+org.apache.hadoop.yarn.webapp.WebApps.Builder		0.36645964
+org.apache.hadoop.yarn.security.AdminACLsManager		0.36363637
+org.apache.hadoop.yarn.webapp.Router		0.36363637
+org.apache.hadoop.yarn.webapp.View		0.36144578
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.2857143
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.18181819
+org.apache.hadoop.yarn.webapp.Controller		0.14084508
+org.apache.hadoop.yarn.util.StringHelper		0.08695652
+org.apache.hadoop.yarn.webapp.util.WebAppUtils		0.024793388
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/TestWebApp_testYARNWebAppContext_p
+org.apache.hadoop.yarn.webapp.view.TextView		1.0
+org.apache.hadoop.yarn.webapp.Router.Dest		0.875
+org.apache.hadoop.yarn.webapp.WebApp		0.5072464
+org.apache.hadoop.yarn.webapp.view.TextPage		0.5
+org.apache.hadoop.yarn.webapp.WebApps		0.4
+org.apache.hadoop.yarn.webapp.Dispatcher		0.3935484
+org.apache.hadoop.yarn.webapp.WebApps.Builder		0.36645964
+org.apache.hadoop.yarn.security.AdminACLsManager		0.36363637
+org.apache.hadoop.yarn.webapp.Router		0.36363637
+org.apache.hadoop.yarn.webapp.View		0.36144578
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.2857143
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.18181819
+org.apache.hadoop.yarn.webapp.Controller		0.14084508
+org.apache.hadoop.yarn.util.StringHelper		0.08695652
+org.apache.hadoop.yarn.webapp.util.WebAppUtils		0.024793388
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/test/TestWebAppTests
+TestWebAppTests		1.0
+TestWebAppTests.Foo		1.0
+TestWebAppTests.Bar		1.0
+TestWebAppTests.FooBar		1.0
+TestWebAppTests.ScopeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/test/TestWebAppTests_testCreateInjector2_1hf
+testCreateInjector2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/test/TestWebAppTests_testCreateInjector2_3l
+testCreateInjector2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/test/TestWebAppTests_testCreateInjector_b
+testCreateInjector
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/test/TestWebAppTests_testCreateInjector_pd
+testCreateInjector
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/test/TestWebAppTests_testInstances_28
+testInstances
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/test/TestWebAppTests_testInstances_k8
+testInstances
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/test/TestWebAppTests_testRequestScope_144
+testRequestScope
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/test/TestWebAppTests_testRequestScope_1j
+testRequestScope
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestCommonViews
+TestCommonViews		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestCommonViews_testErrorPage_25
+testErrorPage
+org.apache.hadoop.yarn.webapp.view.Html		1.0
+org.apache.hadoop.yarn.webapp.view.HtmlPage.Page		1.0
+org.apache.hadoop.yarn.webapp.view.TextView		1.0
+org.apache.hadoop.yarn.webapp.view.HtmlPage		0.88235295
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.85714287
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.8181818
+org.apache.hadoop.yarn.webapp.View		0.6385542
+org.apache.hadoop.yarn.util.StringHelper		0.6086956
+org.apache.hadoop.yarn.webapp.view.ErrorPage		0.5
+org.apache.hadoop.yarn.webapp.view.JQueryUI		0.36363637
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.23809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestCommonViews_testErrorPage_bx
+testErrorPage
+org.apache.hadoop.yarn.webapp.view.Html		1.0
+org.apache.hadoop.yarn.webapp.view.HtmlPage.Page		1.0
+org.apache.hadoop.yarn.webapp.view.TextView		1.0
+org.apache.hadoop.yarn.webapp.view.HtmlPage		0.88235295
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.85714287
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.8181818
+org.apache.hadoop.yarn.webapp.View		0.6385542
+org.apache.hadoop.yarn.util.StringHelper		0.6086956
+org.apache.hadoop.yarn.webapp.view.ErrorPage		0.5
+org.apache.hadoop.yarn.webapp.view.JQueryUI		0.36363637
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.23809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestCommonViews_testFooterBlock_3a
+testFooterBlock
+org.apache.hadoop.yarn.webapp.view.FooterBlock		1.0
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.85714287
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.8181818
+org.apache.hadoop.yarn.webapp.view.TextView		0.46153846
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.webapp.View		0.18072289
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.0952381
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestCommonViews_testFooterBlock_ma
+testFooterBlock
+org.apache.hadoop.yarn.webapp.view.FooterBlock		1.0
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.85714287
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.8181818
+org.apache.hadoop.yarn.webapp.view.TextView		0.46153846
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.webapp.View		0.18072289
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.0952381
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestCommonViews_testHeaderBlock_2x
+testHeaderBlock
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.85714287
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.8181818
+org.apache.hadoop.yarn.webapp.view.HeaderBlock		0.71428573
+org.apache.hadoop.yarn.webapp.view.TextView		0.46153846
+org.apache.hadoop.yarn.webapp.View		0.33734939
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.21428572
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestCommonViews_testHeaderBlock_6t
+testHeaderBlock
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.85714287
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.8181818
+org.apache.hadoop.yarn.webapp.view.HeaderBlock		0.71428573
+org.apache.hadoop.yarn.webapp.view.TextView		0.46153846
+org.apache.hadoop.yarn.webapp.View		0.33734939
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.21428572
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestCommonViews_testInfoBlock_19n
+testInfoBlock
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestCommonViews_testInfoBlock_1r
+testInfoBlock
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestCommonViews_testJQueryUI_1v
+testJQueryUI
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.85714287
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.8181818
+org.apache.hadoop.yarn.webapp.view.TextView		0.46153846
+org.apache.hadoop.yarn.util.StringHelper		0.4347826
+org.apache.hadoop.yarn.webapp.View		0.43373495
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.webapp.view.JQueryUI		0.26262626
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.23809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestCommonViews_testJQueryUI_2r
+testJQueryUI
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.85714287
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.8181818
+org.apache.hadoop.yarn.webapp.view.TextView		0.46153846
+org.apache.hadoop.yarn.util.StringHelper		0.4347826
+org.apache.hadoop.yarn.webapp.View		0.43373495
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.webapp.view.JQueryUI		0.26262626
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.23809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestHtmlBlock
+TestHtmlBlock		1.0
+TestHtmlBlock.TestBlock		1.0
+TestHtmlBlock.ShortBlock		1.0
+TestHtmlBlock.ShortPage		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestHtmlBlock_testShortBlock_fk
+testShortBlock
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.85714287
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.54545456
+org.apache.hadoop.yarn.webapp.view.TextView		0.46153846
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.webapp.WebAppException		0.33333334
+org.apache.hadoop.yarn.webapp.View		0.18072289
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.0952381
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestHtmlBlock_testShortBlock_y
+testShortBlock
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.85714287
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.54545456
+org.apache.hadoop.yarn.webapp.view.TextView		0.46153846
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.webapp.WebAppException		0.33333334
+org.apache.hadoop.yarn.webapp.View		0.18072289
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.0952381
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestHtmlBlock_testShortPage_2o
+testShortPage
+org.apache.hadoop.yarn.webapp.view.TextView		1.0
+org.apache.hadoop.yarn.webapp.view.HtmlPage.Page		0.875
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.85714287
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.8181818
+org.apache.hadoop.yarn.webapp.view.HtmlPage		0.7058824
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.webapp.WebAppException		0.33333334
+org.apache.hadoop.yarn.webapp.View		0.26506025
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.0952381
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestHtmlBlock_testShortPage_fn
+testShortPage
+org.apache.hadoop.yarn.webapp.view.TextView		1.0
+org.apache.hadoop.yarn.webapp.view.HtmlPage.Page		0.875
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.85714287
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.8181818
+org.apache.hadoop.yarn.webapp.view.HtmlPage		0.7058824
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.webapp.WebAppException		0.33333334
+org.apache.hadoop.yarn.webapp.View		0.26506025
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.0952381
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestHtmlBlock_testUsual_l
+testUsual
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.85714287
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.8181818
+org.apache.hadoop.yarn.webapp.view.TextView		0.46153846
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.webapp.View		0.18072289
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.0952381
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestHtmlBlock_testUsual_r
+testUsual
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.85714287
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.8181818
+org.apache.hadoop.yarn.webapp.view.TextView		0.46153846
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.webapp.View		0.18072289
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.0952381
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestHtmlPage
+TestHtmlPage		1.0
+TestHtmlPage.TestView		1.0
+TestHtmlPage.ShortView		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestHtmlPage_testShort_1d
+testShort
+org.apache.hadoop.yarn.webapp.view.TextView		1.0
+org.apache.hadoop.yarn.webapp.view.HtmlPage		0.9411765
+org.apache.hadoop.yarn.webapp.view.HtmlPage.Page		0.5
+org.apache.hadoop.yarn.webapp.WebAppException		0.33333334
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.18181819
+org.apache.hadoop.yarn.webapp.View		0.18072289
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.0952381
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestHtmlPage_testShort_y8
+testShort
+org.apache.hadoop.yarn.webapp.view.TextView		1.0
+org.apache.hadoop.yarn.webapp.view.HtmlPage		0.9411765
+org.apache.hadoop.yarn.webapp.view.HtmlPage.Page		0.5
+org.apache.hadoop.yarn.webapp.WebAppException		0.33333334
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.18181819
+org.apache.hadoop.yarn.webapp.View		0.18072289
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.0952381
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestHtmlPage_testUsual_1e
+testUsual
+org.apache.hadoop.yarn.webapp.view.TextView		1.0
+org.apache.hadoop.yarn.webapp.view.HtmlPage		0.88235295
+org.apache.hadoop.yarn.webapp.view.HtmlPage.Page		0.5
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.18181819
+org.apache.hadoop.yarn.webapp.View		0.18072289
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.0952381
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestHtmlPage_testUsual_xj
+testUsual
+org.apache.hadoop.yarn.webapp.view.TextView		1.0
+org.apache.hadoop.yarn.webapp.view.HtmlPage		0.88235295
+org.apache.hadoop.yarn.webapp.view.HtmlPage.Page		0.5
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.18181819
+org.apache.hadoop.yarn.webapp.View		0.18072289
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.0952381
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestInfoBlock
+TestInfoBlock		1.0
+TestInfoBlock.JavaScriptInfoBlock		0.7777778
+TestInfoBlock.MultilineInfoBlock		0.8
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestInfoBlock_testJavaScriptInfoBlock_9f
+testJavaScriptInfoBlock
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.85714287
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.8181818
+org.apache.hadoop.yarn.webapp.ResponseInfo.Item		0.7777778
+org.apache.hadoop.yarn.webapp.view.InfoBlock		0.625
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.webapp.ResponseInfo		0.3181818
+org.apache.hadoop.yarn.webapp.view.TextView		0.23076923
+org.apache.hadoop.yarn.webapp.View		0.12048193
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.0952381
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestInfoBlock_testJavaScriptInfoBlock_h
+testJavaScriptInfoBlock
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.85714287
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.8181818
+org.apache.hadoop.yarn.webapp.ResponseInfo.Item		0.7777778
+org.apache.hadoop.yarn.webapp.view.InfoBlock		0.625
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.webapp.ResponseInfo		0.3181818
+org.apache.hadoop.yarn.webapp.view.TextView		0.23076923
+org.apache.hadoop.yarn.webapp.View		0.12048193
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.0952381
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestInfoBlock_testMultilineInfoBlock_1c9
+testMultilineInfoBlock
+org.apache.hadoop.yarn.webapp.view.InfoBlock		0.875
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.85714287
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.8181818
+org.apache.hadoop.yarn.webapp.ResponseInfo.Item		0.7777778
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.webapp.ResponseInfo		0.3181818
+org.apache.hadoop.yarn.webapp.view.TextView		0.23076923
+org.apache.hadoop.yarn.webapp.View		0.12048193
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.0952381
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestInfoBlock_testMultilineInfoBlock_3b
+testMultilineInfoBlock
+org.apache.hadoop.yarn.webapp.view.InfoBlock		0.875
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.85714287
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.8181818
+org.apache.hadoop.yarn.webapp.ResponseInfo.Item		0.7777778
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.webapp.ResponseInfo		0.3181818
+org.apache.hadoop.yarn.webapp.view.TextView		0.23076923
+org.apache.hadoop.yarn.webapp.View		0.12048193
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.0952381
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestTwoColumnCssPage
+TestTwoColumnCssPage		0.5
+TestTwoColumnCssPage.TestController		0.0
+TestTwoColumnCssPage.TestView		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestTwoColumnCssPage_shouldNotThrow_4
+shouldNotThrow
+org.apache.hadoop.yarn.webapp.view.FooterBlock		1.0
+org.apache.hadoop.yarn.webapp.view.HtmlPage.Page		1.0
+org.apache.hadoop.yarn.webapp.view.LipsumBlock		1.0
+org.apache.hadoop.yarn.webapp.view.NavBlock		1.0
+org.apache.hadoop.yarn.webapp.view.TextView		1.0
+org.apache.hadoop.yarn.webapp.view.TwoColumnCssLayout		1.0
+org.apache.hadoop.yarn.webapp.view.HtmlPage		0.88235295
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.85714287
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.8181818
+org.apache.hadoop.yarn.webapp.view.HeaderBlock		0.71428573
+org.apache.hadoop.yarn.webapp.View		0.5421687
+org.apache.hadoop.yarn.util.StringHelper		0.5217391
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.webapp.view.JQueryUI		0.2929293
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.23809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestTwoColumnCssPage_shouldNotThrow_hf
+shouldNotThrow
+org.apache.hadoop.yarn.webapp.view.FooterBlock		1.0
+org.apache.hadoop.yarn.webapp.view.HtmlPage.Page		1.0
+org.apache.hadoop.yarn.webapp.view.LipsumBlock		1.0
+org.apache.hadoop.yarn.webapp.view.NavBlock		1.0
+org.apache.hadoop.yarn.webapp.view.TextView		1.0
+org.apache.hadoop.yarn.webapp.view.TwoColumnCssLayout		1.0
+org.apache.hadoop.yarn.webapp.view.HtmlPage		0.88235295
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.85714287
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.8181818
+org.apache.hadoop.yarn.webapp.view.HeaderBlock		0.71428573
+org.apache.hadoop.yarn.webapp.View		0.5421687
+org.apache.hadoop.yarn.util.StringHelper		0.5217391
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.webapp.view.JQueryUI		0.2929293
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.23809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestTwoColumnLayout
+TestTwoColumnLayout		0.5
+TestTwoColumnLayout.TestController		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestTwoColumnLayout_shouldNotThrow_1m
+shouldNotThrow
+org.apache.hadoop.yarn.webapp.view.FooterBlock		1.0
+org.apache.hadoop.yarn.webapp.view.HtmlPage.Page		1.0
+org.apache.hadoop.yarn.webapp.view.LipsumBlock		1.0
+org.apache.hadoop.yarn.webapp.view.NavBlock		1.0
+org.apache.hadoop.yarn.webapp.view.TextView		1.0
+org.apache.hadoop.yarn.webapp.view.HtmlPage		0.88235295
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.85714287
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.8181818
+org.apache.hadoop.yarn.webapp.view.HeaderBlock		0.71428573
+org.apache.hadoop.yarn.webapp.view.TwoColumnLayout		0.64
+org.apache.hadoop.yarn.webapp.View		0.5421687
+org.apache.hadoop.yarn.util.StringHelper		0.5217391
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.webapp.view.JQueryUI		0.2929293
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.23809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/clover/org/apache/hadoop/yarn/webapp/view/TestTwoColumnLayout_shouldNotThrow_dq
+shouldNotThrow
+org.apache.hadoop.yarn.webapp.view.FooterBlock		1.0
+org.apache.hadoop.yarn.webapp.view.HtmlPage.Page		1.0
+org.apache.hadoop.yarn.webapp.view.LipsumBlock		1.0
+org.apache.hadoop.yarn.webapp.view.NavBlock		1.0
+org.apache.hadoop.yarn.webapp.view.TextView		1.0
+org.apache.hadoop.yarn.webapp.view.HtmlPage		0.88235295
+org.apache.hadoop.yarn.webapp.view.HtmlBlock		0.85714287
+org.apache.hadoop.yarn.webapp.View.ViewContext		0.8181818
+org.apache.hadoop.yarn.webapp.view.HeaderBlock		0.71428573
+org.apache.hadoop.yarn.webapp.view.TwoColumnLayout		0.64
+org.apache.hadoop.yarn.webapp.View		0.5421687
+org.apache.hadoop.yarn.util.StringHelper		0.5217391
+org.apache.hadoop.yarn.webapp.view.HtmlBlock.Block		0.33333334
+org.apache.hadoop.yarn.webapp.view.JQueryUI		0.2929293
+org.apache.hadoop.yarn.webapp.Controller.RequestContext		0.23809524
+-- -- -- -- -- -- -- -- -- -- -- -- --

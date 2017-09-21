@@ -1,0 +1,588 @@
+./components/camel-spring-redis/target/site/clover/org/apache/camel
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisComponentSpringIntegrationTest
+RedisComponentSpringIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisConnectionTest
+RedisConnectionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisConnectionTest_shouldExecuteECHO_i
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.06666667
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisConnectionTest_shouldExecutePING_32
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisConnectionTest_shouldExecutePUBLISH_b
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisConnectionTest_shouldExecuteQUIT_13
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisConsumerIntegrationTest
+RedisConsumerIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisConsumerTest
+RedisConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisConsumerTest_consumerReceivesMessages_2m
+org.apache.camel.component.redis.RedisConsumer		0.35555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisConsumerTest_registerConsumerForTwoChannelTopics_33
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisHashTest
+RedisHashTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisHashTest_shouldExecuteHDEL_2o
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisHashTest_shouldExecuteHEXISTS_19
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisHashTest_shouldExecuteHGETALL_4
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.06666667
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisHashTest_shouldExecuteHGET_1f
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisHashTest_shouldExecuteHINCRBY_s
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.13333334
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisHashTest_shouldExecuteHKEYS_2t
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.06666667
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisHashTest_shouldExecuteHLEN_15
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.06666667
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisHashTest_shouldExecuteHMGET_2c
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisHashTest_shouldExecuteHMSET_2v
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisHashTest_shouldExecuteHSETNX_6
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.13333334
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisHashTest_shouldExecuteHVALS_1a
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.06666667
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisHashTest_shouldSetHashValue_1
+org.apache.camel.component.redis.ExchangeConverter		0.13333334
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisKeyTest
+RedisKeyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisKeyTest_shouldExecuteDEL_2l
+org.apache.camel.component.redis.ExchangeConverter		0.06666667
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisKeyTest_shouldExecuteEXISTS_c
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.06666667
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisKeyTest_shouldExecuteEXPIREAT_2s
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisKeyTest_shouldExecuteEXPIRE_k
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisKeyTest_shouldExecuteKEYS_9
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.06666667
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisKeyTest_shouldExecuteMOVE_o
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisKeyTest_shouldExecutePERSIST_14
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.06666667
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisKeyTest_shouldExecutePEXPIREAT_12
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisKeyTest_shouldExecutePEXPIRE_20
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisKeyTest_shouldExecuteRANDOMKEY_1z
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisKeyTest_shouldExecuteRENAMENX_2w
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisKeyTest_shouldExecuteRENAME_y
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisKeyTest_shouldExecuteSORT_2h
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.06666667
+org.apache.camel.component.redis.RedisClient		0.013274336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisKeyTest_shouldExecuteTTL_1m
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.06666667
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisKeyTest_shouldExecuteTYPE_23
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.06666667
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisListTest
+RedisListTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisListTest_shouldExecuteBLPOP_2x
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisListTest_shouldExecuteBRPOPLPUSH_x
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.13333334
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisListTest_shouldExecuteBRPOP_2p
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisListTest_shouldExecuteLINDEX_7
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisListTest_shouldExecuteLINSERTAFTER_2z
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.16666667
+org.apache.camel.component.redis.RedisClient		0.026548672
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisListTest_shouldExecuteLINSERTBEFORE_29
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.16666667
+org.apache.camel.component.redis.RedisClient		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisListTest_shouldExecuteLLEN_2d
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.06666667
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisListTest_shouldExecuteLPOP_2b
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.06666667
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisListTest_shouldExecuteLPUSH_1g
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisListTest_shouldExecuteLRANGE_2i
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.13333334
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisListTest_shouldExecuteLREM_n
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.13333334
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisListTest_shouldExecuteLSET_1c
+org.apache.camel.component.redis.ExchangeConverter		0.13333334
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisListTest_shouldExecuteLTRIM_1e
+org.apache.camel.component.redis.ExchangeConverter		0.13333334
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisListTest_shouldExecuteRPOPLPUSH_11
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisListTest_shouldExecuteRPOP_1x
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.06666667
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisListTest_shouldExecuteRPUSHX_0
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisListTest_shouldExecuteRPUSH_1o
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisProducerIntegrationTest
+RedisProducerIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSetTest
+RedisSetTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSetTest_shouldExecuteSADD_v
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSetTest_shouldExecuteSCARD_1u
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.06666667
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSetTest_shouldExecuteSDIFFSTORE_m
+org.apache.camel.component.redis.ExchangeConverter		0.13333334
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSetTest_shouldExecuteSDIFF_2f
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSetTest_shouldExecuteSINTERSTORE_2
+org.apache.camel.component.redis.ExchangeConverter		0.13333334
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSetTest_shouldExecuteSINTER_24
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSetTest_shouldExecuteSISMEMBER_l
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSetTest_shouldExecuteSMEMBERS_21
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.06666667
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSetTest_shouldExecuteSMOVE_q
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.13333334
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSetTest_shouldExecuteSPOP_1t
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.06666667
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSetTest_shouldExecuteSRANDMEMBER_1s
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.06666667
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSetTest_shouldExecuteSREM_1q
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSetTest_shouldExecuteSUNIONSTORE_g
+org.apache.camel.component.redis.ExchangeConverter		0.13333334
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSetTest_shouldExecuteSUNION_d
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSortedSetTest
+RedisSortedSetTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSortedSetTest_shouldExecuteZADD_16
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.13333334
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSortedSetTest_shouldExecuteZCARD_3
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.06666667
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSortedSetTest_shouldExecuteZCOUNT_2k
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.13333334
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSortedSetTest_shouldExecuteZINCRBY_1w
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.13333334
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSortedSetTest_shouldExecuteZINTERSTORE_17
+org.apache.camel.component.redis.ExchangeConverter		0.13333334
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSortedSetTest_shouldExecuteZRANGEBYSCORE_2g
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.13333334
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSortedSetTest_shouldExecuteZRANGEWithScores_2a
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.16666667
+org.apache.camel.component.redis.RedisClient		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSortedSetTest_shouldExecuteZRANGE_1i
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.16666667
+org.apache.camel.component.redis.RedisClient		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSortedSetTest_shouldExecuteZRANK_2u
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSortedSetTest_shouldExecuteZREMRANGEBYRANK_27
+org.apache.camel.component.redis.ExchangeConverter		0.13333334
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSortedSetTest_shouldExecuteZREMRANGEBYSCORE_25
+org.apache.camel.component.redis.ExchangeConverter		0.13333334
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSortedSetTest_shouldExecuteZREM_1n
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSortedSetTest_shouldExecuteZREVRANGEBYSCORE_e
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.13333334
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSortedSetTest_shouldExecuteZREVRANGEWithScores_1d
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.16666667
+org.apache.camel.component.redis.RedisClient		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSortedSetTest_shouldExecuteZREVRANGE_1r
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.16666667
+org.apache.camel.component.redis.RedisClient		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSortedSetTest_shouldExecuteZREVRANK_t
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisSortedSetTest_shouldExecuteZUNIONSTORE_1h
+org.apache.camel.component.redis.ExchangeConverter		0.13333334
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisStringTest
+RedisStringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisStringTest_shouldExecuteAPPEND_31
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisStringTest_shouldExecuteDECRBY_28
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisStringTest_shouldExecuteDECR_2q
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.06666667
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisStringTest_shouldExecuteGETBIT_10
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisStringTest_shouldExecuteGETRANGE_a
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.13333334
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisStringTest_shouldExecuteGETSET_2y
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisStringTest_shouldExecuteGET_2r
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.06666667
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisStringTest_shouldExecuteINCRBY_22
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisStringTest_shouldExecuteINCR_1k
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.06666667
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisStringTest_shouldExecuteMGET_j
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.06666667
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisStringTest_shouldExecuteMSETNX_f
+org.apache.camel.component.redis.ExchangeConverter		0.06666667
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisStringTest_shouldExecuteMSET_1l
+org.apache.camel.component.redis.ExchangeConverter		0.06666667
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisStringTest_shouldExecuteSETBIT_1j
+org.apache.camel.component.redis.ExchangeConverter		0.13333334
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisStringTest_shouldExecuteSETEX_2e
+org.apache.camel.component.redis.ExchangeConverter		0.13333334
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisStringTest_shouldExecuteSETNX_1b
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisStringTest_shouldExecuteSETRANGE_h
+org.apache.camel.component.redis.ExchangeConverter		0.13333334
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisStringTest_shouldExecuteSET_r
+org.apache.camel.component.redis.ExchangeConverter		0.1
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisStringTest_shouldExecuteSTRLEN_18
+org.apache.camel.component.redis.AbstractRedisProcessorCreator		0.47058824
+org.apache.camel.component.redis.ExchangeConverter		0.06666667
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisTestSupport
+RedisTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisTransactionTest
+RedisTransactionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisTransactionTest_shouldExecuteDISCARD_p
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisTransactionTest_shouldExecuteEXEC_z
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisTransactionTest_shouldExecuteMULTI_8
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisTransactionTest_shouldExecuteUNWATCH_2n
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/RedisTransactionTest_shouldExecuteWATCH_u
+org.apache.camel.component.redis.ExchangeConverter		0.06666667
+org.apache.camel.component.redis.RedisClient		0.0088495575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/processor/idempotent/RedisIdempotentRepositoryTest
+RedisIdempotentRepositoryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/processor/idempotent/RedisIdempotentRepositoryTest_shoulCheckForMembers_1v
+org.apache.camel.component.redis.processor.idempotent.RedisIdempotentRepository		0.051282052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/processor/idempotent/RedisIdempotentRepositoryTest_shouldAddKey_2j
+org.apache.camel.component.redis.processor.idempotent.RedisIdempotentRepository		0.15384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/processor/idempotent/RedisIdempotentRepositoryTest_shouldClearRepository_1p
+org.apache.camel.component.redis.processor.idempotent.RedisIdempotentRepository		0.051282052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/processor/idempotent/RedisIdempotentRepositoryTest_shouldRemoveKey_30
+org.apache.camel.component.redis.processor.idempotent.RedisIdempotentRepository		0.051282052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/processor/idempotent/RedisIdempotentRepositoryTest_shouldReturnProcessorName_1y
+org.apache.camel.component.redis.processor.idempotent.RedisIdempotentRepository		0.051282052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/processor/idempotent/RedisStringIdempotentRepositoryIntegrationTest
+RedisStringIdempotentRepositoryIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/processor/idempotent/RedisStringIdempotentRepositoryTest
+RedisStringIdempotentRepositoryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/processor/idempotent/RedisStringIdempotentRepositoryTest_shoulCheckForMembers_26
+org.apache.camel.component.redis.processor.idempotent.RedisStringIdempotentRepository		0.13513513
+org.apache.camel.component.redis.processor.idempotent.RedisIdempotentRepository		0.051282052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/processor/idempotent/RedisStringIdempotentRepositoryTest_shouldAddKey_5
+org.apache.camel.component.redis.processor.idempotent.RedisStringIdempotentRepository		0.21621622
+org.apache.camel.component.redis.processor.idempotent.RedisIdempotentRepository		0.051282052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/processor/idempotent/RedisStringIdempotentRepositoryTest_shouldReturnProcessorName_w
+org.apache.camel.component.redis.processor.idempotent.RedisIdempotentRepository		0.051282052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/processor/idempotent/test-RedisIdempotentRepositoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/processor/idempotent/test-RedisStringIdempotentRepositoryIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/processor/idempotent/test-RedisStringIdempotentRepositoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/test-RedisComponentSpringIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/test-RedisConnectionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/test-RedisConsumerIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/test-RedisConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/test-RedisHashTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/test-RedisKeyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/test-RedisListTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/test-RedisProducerIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/test-RedisSetTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/test-RedisSortedSetTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/test-RedisStringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/test-RedisTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-redis/target/site/clover/org/apache/camel/component/redis/test-RedisTransactionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

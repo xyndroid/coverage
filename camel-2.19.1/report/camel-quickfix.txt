@@ -1,0 +1,268 @@
+./components/camel-quickfix/target/site/clover/org/apache/camel
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjComponentTest
+QuickfixjComponentTest		0.98770493
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjComponentTest_componentStop_13
+org.apache.camel.component.quickfixj.QuickfixjComponent		0.6436782
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.5741445
+org.apache.camel.component.quickfixj.QuickfixjConsumer		0.375
+org.apache.camel.component.quickfixj.QuickfixjEndpoint		0.32051283
+org.apache.camel.component.quickfixj.QuickfixjEngine.Dispatcher		0.1632653
+org.apache.camel.component.quickfixj.MessageCorrelator		0.13043478
+org.apache.camel.component.quickfixj.converter.QuickfixjConverters		0.12857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjComponentTest_createEndpointAfterComponentStart_8
+org.apache.camel.component.quickfixj.QuickfixjComponent		0.62068963
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.54372627
+org.apache.camel.component.quickfixj.QuickfixjEngine.Dispatcher		0.1632653
+org.apache.camel.component.quickfixj.QuickfixjEndpoint		0.14102565
+org.apache.camel.component.quickfixj.MessageCorrelator		0.13043478
+org.apache.camel.component.quickfixj.converter.QuickfixjConverters		0.028571429
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjComponentTest_createEndpointBeforeComponentStart_c
+org.apache.camel.component.quickfixj.QuickfixjComponent		0.6091954
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.54372627
+org.apache.camel.component.quickfixj.QuickfixjEndpoint		0.21794872
+org.apache.camel.component.quickfixj.QuickfixjEngine.Dispatcher		0.1632653
+org.apache.camel.component.quickfixj.MessageCorrelator		0.13043478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjComponentTest_createEndpointsInLazyComponent_d
+org.apache.camel.component.quickfixj.QuickfixjComponent		0.6321839
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.5475285
+org.apache.camel.component.quickfixj.QuickfixjEndpoint		0.26923078
+org.apache.camel.component.quickfixj.QuickfixjEngine.Dispatcher		0.1632653
+org.apache.camel.component.quickfixj.MessageCorrelator		0.13043478
+org.apache.camel.component.quickfixj.converter.QuickfixjConverters		0.028571429
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjComponentTest_createEndpointsInNonLazyComponent_a
+org.apache.camel.component.quickfixj.QuickfixjComponent		0.6321839
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.5475285
+org.apache.camel.component.quickfixj.QuickfixjEndpoint		0.26923078
+org.apache.camel.component.quickfixj.QuickfixjEngine.Dispatcher		0.1632653
+org.apache.camel.component.quickfixj.MessageCorrelator		0.13043478
+org.apache.camel.component.quickfixj.converter.QuickfixjConverters		0.028571429
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjComponentTest_createEnginesLazily_17
+org.apache.camel.component.quickfixj.QuickfixjComponent		0.6091954
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.53992397
+org.apache.camel.component.quickfixj.QuickfixjEndpoint		0.24358974
+org.apache.camel.component.quickfixj.QuickfixjEngine.Dispatcher		0.1632653
+org.apache.camel.component.quickfixj.MessageCorrelator		0.13043478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjComponentTest_messagePublication_o
+org.apache.camel.component.quickfixj.QuickfixjProducer		0.7
+org.apache.camel.component.quickfixj.QuickfixjEndpoint		0.65384614
+org.apache.camel.component.quickfixj.QuickfixjComponent		0.6091954
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.581749
+org.apache.camel.component.quickfixj.QuickfixjEngine.Dispatcher		0.48979592
+org.apache.camel.component.quickfixj.QuickfixjConsumer		0.375
+org.apache.camel.component.quickfixj.MessageCorrelator		0.2173913
+org.apache.camel.component.quickfixj.converter.QuickfixjConverters		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjComponentTest_userSpecifiedQuickfixjPlugins_5
+org.apache.camel.component.quickfixj.QuickfixjComponent		0.6551724
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.37262356
+org.apache.camel.component.quickfixj.QuickfixjEngine.Dispatcher		0.1632653
+org.apache.camel.component.quickfixj.QuickfixjEndpoint		0.14102565
+org.apache.camel.component.quickfixj.MessageCorrelator		0.13043478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjConfigurationTest
+QuickfixjConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjConfigurationTest_testConfiguration_10
+org.apache.camel.component.quickfixj.QuickfixjConfiguration		0.5555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjConsumerTest
+QuickfixjConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjConsumerTest_processExchangeOnlyWhenStarted_e
+org.apache.camel.component.quickfixj.QuickfixjConsumer		0.40625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjConsumerTest_processInOutExchange_9
+org.apache.camel.component.quickfixj.QuickfixjConsumer		0.71875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjConsumerTest_setExceptionOnExchange_18
+org.apache.camel.component.quickfixj.QuickfixjConsumer		0.34375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjConsumerTest_setExceptionOnInOutExchange_y
+org.apache.camel.component.quickfixj.QuickfixjConsumer		0.71875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjConvertersTest
+QuickfixjConvertersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjConvertersTest_convertMessageWithRepeatingGroupsUsingExchangeDictionaryResource_v
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.5741445
+org.apache.camel.component.quickfixj.converter.QuickfixjConverters		0.17142858
+org.apache.camel.component.quickfixj.QuickfixjEngine.Dispatcher		0.1632653
+org.apache.camel.component.quickfixj.MessageCorrelator		0.13043478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjConvertersTest_convertMessageWithRepeatingGroupsUsingExchangeDictionary_7
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.5741445
+org.apache.camel.component.quickfixj.QuickfixjEngine.Dispatcher		0.1632653
+org.apache.camel.component.quickfixj.converter.QuickfixjConverters		0.14285715
+org.apache.camel.component.quickfixj.MessageCorrelator		0.13043478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjConvertersTest_convertMessageWithRepeatingGroupsUsingSessionID_k
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.5741445
+org.apache.camel.component.quickfixj.converter.QuickfixjConverters		0.24285714
+org.apache.camel.component.quickfixj.QuickfixjEngine.Dispatcher		0.1632653
+org.apache.camel.component.quickfixj.MessageCorrelator		0.13043478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjConvertersTest_convertMessageWithoutRepeatingGroups_m
+org.apache.camel.component.quickfixj.converter.QuickfixjConverters		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjConvertersTest_convertSessionID_x
+org.apache.camel.component.quickfixj.converter.QuickfixjConverters		0.028571429
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjConvertersTest_convertToExchangeWithNullMessage_3
+org.apache.camel.component.quickfixj.converter.QuickfixjConverters		0.15714286
+org.apache.camel.component.quickfixj.QuickfixjEndpoint		0.03846154
+org.apache.camel.component.quickfixj.QuickfixjComponent		0.022988506
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjConvertersTest_convertToExchange_0
+org.apache.camel.component.quickfixj.converter.QuickfixjConverters		0.18571429
+org.apache.camel.component.quickfixj.QuickfixjEndpoint		0.03846154
+org.apache.camel.component.quickfixj.QuickfixjComponent		0.022988506
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjEngineTest
+QuickfixjEngineTest		0.99256504
+QuickfixjEngineTest.EventRecord		0.46875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjEngineTest_ambiguousLog_15
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.19771864
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjEngineTest_ambiguousMessageStore_r
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.29277566
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjEngineTest_defaultAcceptor_h
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.5513308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjEngineTest_defaultInitiator_n
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.5513308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjEngineTest_enableJmxForAcceptor_2
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.5513308
+org.apache.camel.component.quickfixj.QuickfixjEngine.Dispatcher		0.1632653
+org.apache.camel.component.quickfixj.MessageCorrelator		0.13043478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjEngineTest_enableJmxForInitiator_g
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.5513308
+org.apache.camel.component.quickfixj.QuickfixjEngine.Dispatcher		0.1632653
+org.apache.camel.component.quickfixj.MessageCorrelator		0.13043478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjEngineTest_inferFileLog_11
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.5551331
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjEngineTest_inferFileStore_z
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.56273764
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjEngineTest_inferJdbcStoreAndLog_w
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.55893534
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjEngineTest_inferJdbcStoreViaJNDI_14
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.55893534
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjEngineTest_inferJdbcStoreWithInferredLog_f
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.55893534
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjEngineTest_inferSleepycatStore_t
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.5551331
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjEngineTest_inferSlf4jLog_4
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.55893534
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjEngineTest_minimalInitiatorAndAcceptor_i
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.5779468
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjEngineTest_missingSettingsResource_b
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.019011406
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjEngineTest_sessionEvents_j
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.6463878
+org.apache.camel.component.quickfixj.QuickfixjEngine.Dispatcher		0.5510204
+org.apache.camel.component.quickfixj.MessageCorrelator		0.2173913
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjEngineTest_threadPerSessionAcceptor_l
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.5475285
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjEngineTest_threadPerSessionInitiator_12
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.5475285
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjEngineTest_useExplicitComponentImplementations_s
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.34220532
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjLazyProducerTest
+QuickfixjLazyProducerTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjProducerTest
+QuickfixjProducerTest		0.97619045
+QuickfixjProducerTest.TestException		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjProducerTest_processInOnlyExchangeSendUnsuccessful_16
+org.apache.camel.component.quickfixj.QuickfixjProducer		0.55
+org.apache.camel.component.quickfixj.CannotSendException		0.5
+org.apache.camel.component.quickfixj.MessagePredicate		0.38235295
+org.apache.camel.component.quickfixj.MessageCorrelator		0.26086956
+org.apache.camel.component.quickfixj.MessageCorrelator.MessageCorrelationRule		0.15384616
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.0076045627
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjProducerTest_processInOnlyExchangeSuccess_u
+org.apache.camel.component.quickfixj.QuickfixjProducer		0.55
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjProducerTest_processInOutExchangeSendUnsuccessful_p
+org.apache.camel.component.quickfixj.QuickfixjProducer		0.6
+org.apache.camel.component.quickfixj.CannotSendException		0.5
+org.apache.camel.component.quickfixj.MessagePredicate		0.4117647
+org.apache.camel.component.quickfixj.MessageCorrelator		0.26086956
+org.apache.camel.component.quickfixj.MessageCorrelator.MessageCorrelationRule		0.23076923
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.0076045627
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjProducerTest_processInOutExchangeSuccess_6
+org.apache.camel.component.quickfixj.MessageCorrelator.MessageCorrelationRule		0.84615386
+org.apache.camel.component.quickfixj.MessageCorrelator		0.82608694
+org.apache.camel.component.quickfixj.MessagePredicate		0.7647059
+org.apache.camel.component.quickfixj.QuickfixjProducer		0.675
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.0076045627
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjProducerTest_setExceptionOnExchange_q
+org.apache.camel.component.quickfixj.QuickfixjProducer		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjSpringTest
+QuickfixjSpringTest		0.85714287
+QuickfixjSpringTest.CustomMessageFactory		0.6666667
+QuickfixjSpringTest.CustomNewOrderSingle		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/QuickfixjSpringTest_configureInSpring_1
+org.apache.camel.component.quickfixj.QuickfixjConfiguration		0.37037036
+org.apache.camel.component.quickfixj.QuickfixjComponent		0.04597701
+org.apache.camel.component.quickfixj.QuickfixjEngine		0.015209125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/TestSupport
+TestSupport		0.9777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/test-QuickfixjComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/test-QuickfixjConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/test-QuickfixjConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/test-QuickfixjConvertersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/test-QuickfixjEngineTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/test-QuickfixjEngineTest_EventRecord
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/test-QuickfixjLazyProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/test-QuickfixjProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/test-QuickfixjProducerTest_TestException
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/test-QuickfixjSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/test-QuickfixjSpringTest_CustomMessageFactory
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/test-QuickfixjSpringTest_CustomNewOrderSingle
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quickfix/target/site/clover/org/apache/camel/component/quickfixj/test-TestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --

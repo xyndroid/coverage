@@ -1,0 +1,12 @@
+./components/camel-spring-cloud/target/site/clover/org/apache/camel
+./components/camel-spring-cloud/target/site/clover/org/apache/camel/spring/cloud/CamelSpringCloudServiceCallRibbonTest
+CamelSpringCloudServiceCallRibbonTest		1.0
+CamelSpringCloudServiceCallRibbonTest.TestConfiguration		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-cloud/target/site/clover/org/apache/camel/spring/cloud/CamelSpringCloudServiceCallRibbonTest_testServiceCall_0
+org.apache.camel.spring.cloud.CamelSpringCloudServiceLoadBalancer		0.26666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-cloud/target/site/clover/org/apache/camel/spring/cloud/test-CamelSpringCloudServiceCallRibbonTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-cloud/target/site/clover/org/apache/camel/spring/cloud/test-CamelSpringCloudServiceCallRibbonTest_TestConfiguration
+-- -- -- -- -- -- -- -- -- -- -- -- --

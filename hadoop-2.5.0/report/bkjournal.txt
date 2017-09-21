@@ -1,0 +1,292 @@
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperAsHASharedDir
+TestBookKeeperAsHASharedDir		0.93604654
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperAsHASharedDir_testFailoverWithBK_c
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager.ZkConnectionWatcher		0.8
+org.apache.hadoop.contrib.bkjournal.MaxTxId		0.7804878
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream		0.7307692
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream.LedgerInputStream		0.7090909
+org.apache.hadoop.contrib.bkjournal.CurrentInprogress		0.7090909
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogOutputStream		0.6911765
+org.apache.hadoop.contrib.bkjournal.EditLogLedgerMetadata		0.5277778
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager		0.4362245
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperAsHASharedDir_testFailoverWithFailingBKCluster_2
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager.ZkConnectionWatcher		0.8
+org.apache.hadoop.contrib.bkjournal.MaxTxId		0.7804878
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream		0.7307692
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream.LedgerInputStream		0.7090909
+org.apache.hadoop.contrib.bkjournal.CurrentInprogress		0.7090909
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogOutputStream		0.6764706
+org.apache.hadoop.contrib.bkjournal.EditLogLedgerMetadata		0.5277778
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager		0.50510204
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperAsHASharedDir_testInitializeBKSharedEdits_1
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager.ZkConnectionWatcher		0.8
+org.apache.hadoop.contrib.bkjournal.MaxTxId		0.7804878
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream		0.7307692
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream.LedgerInputStream		0.7090909
+org.apache.hadoop.contrib.bkjournal.CurrentInprogress		0.7090909
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogOutputStream		0.7058824
+org.apache.hadoop.contrib.bkjournal.EditLogLedgerMetadata		0.5277778
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager		0.42857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperAsHASharedDir_testMultiplePrimariesStarted_k
+org.apache.hadoop.contrib.bkjournal.MaxTxId		0.80487806
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager.ZkConnectionWatcher		0.8
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogOutputStream		0.7794118
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream		0.7307692
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream.LedgerInputStream		0.7090909
+org.apache.hadoop.contrib.bkjournal.CurrentInprogress		0.7090909
+org.apache.hadoop.contrib.bkjournal.EditLogLedgerMetadata		0.5833333
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager		0.5280612
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperAsHASharedDir_testNameNodeMultipleSwitchesUsingBKJM_7
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager.ZkConnectionWatcher		0.8
+org.apache.hadoop.contrib.bkjournal.MaxTxId		0.7804878
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream		0.7307692
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream.LedgerInputStream		0.7090909
+org.apache.hadoop.contrib.bkjournal.CurrentInprogress		0.7090909
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogOutputStream		0.6911765
+org.apache.hadoop.contrib.bkjournal.EditLogLedgerMetadata		0.6018519
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager		0.4362245
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperConfiguration
+TestBookKeeperConfiguration		0.8769231
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperConfiguration_testDefaultBKAvailablePath_6
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager.ZkConnectionWatcher		0.8
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager		0.125
+org.apache.hadoop.contrib.bkjournal.MaxTxId		0.07317073
+org.apache.hadoop.contrib.bkjournal.CurrentInprogress		0.054545455
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperConfiguration_testWithConfiguringBKAvailablePath_l
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager.ZkConnectionWatcher		0.8
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager		0.125
+org.apache.hadoop.contrib.bkjournal.MaxTxId		0.07317073
+org.apache.hadoop.contrib.bkjournal.CurrentInprogress		0.054545455
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperEditLogStreams
+TestBookKeeperEditLogStreams		0.9130435
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperEditLogStreams_testEmptyInputStream_n
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream		0.17307693
+org.apache.hadoop.contrib.bkjournal.EditLogLedgerMetadata		0.1388889
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperHACheckpoints
+TestBookKeeperHACheckpoints		0.95238096
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperHACheckpoints_testBothNodesInStandbyState_x
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager.ZkConnectionWatcher		0.8
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream		0.7307692
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream.LedgerInputStream		0.7090909
+org.apache.hadoop.contrib.bkjournal.MaxTxId		0.68292683
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogOutputStream		0.5735294
+org.apache.hadoop.contrib.bkjournal.EditLogLedgerMetadata		0.5185185
+org.apache.hadoop.contrib.bkjournal.CurrentInprogress		0.36363637
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager		0.29336736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperHACheckpoints_testCheckpointCancellationDuringUpload_i
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager.ZkConnectionWatcher		0.8
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream		0.7692308
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream.LedgerInputStream		0.7090909
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogOutputStream		0.6911765
+org.apache.hadoop.contrib.bkjournal.MaxTxId		0.68292683
+org.apache.hadoop.contrib.bkjournal.CurrentInprogress		0.6545454
+org.apache.hadoop.contrib.bkjournal.EditLogLedgerMetadata		0.5648148
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager		0.4107143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperHACheckpoints_testCheckpointCancellation_v
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperHACheckpoints_testCheckpointWhenNoNewTransactionsHappened_u
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager.ZkConnectionWatcher		0.8
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream		0.7307692
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream.LedgerInputStream		0.7090909
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogOutputStream		0.6911765
+org.apache.hadoop.contrib.bkjournal.MaxTxId		0.68292683
+org.apache.hadoop.contrib.bkjournal.CurrentInprogress		0.56363636
+org.apache.hadoop.contrib.bkjournal.EditLogLedgerMetadata		0.5277778
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager		0.34438777
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperHACheckpoints_testReadsAllowedDuringCheckpoint_3
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream.LedgerInputStream		0.76363635
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream		0.7307692
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogOutputStream		0.6911765
+org.apache.hadoop.contrib.bkjournal.MaxTxId		0.6097561
+org.apache.hadoop.contrib.bkjournal.EditLogLedgerMetadata		0.5277778
+org.apache.hadoop.contrib.bkjournal.CurrentInprogress		0.5090909
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager		0.2372449
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperHACheckpoints_testSBNCheckpoints_w
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream		0.7307692
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream.LedgerInputStream		0.7090909
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogOutputStream		0.6911765
+org.apache.hadoop.contrib.bkjournal.MaxTxId		0.6097561
+org.apache.hadoop.contrib.bkjournal.EditLogLedgerMetadata		0.5277778
+org.apache.hadoop.contrib.bkjournal.CurrentInprogress		0.5090909
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager		0.2372449
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperHACheckpoints_testStandbyExceptionThrownDuringCheckpoint_e
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream.LedgerInputStream		0.76363635
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream		0.7307692
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogOutputStream		0.6911765
+org.apache.hadoop.contrib.bkjournal.MaxTxId		0.6097561
+org.apache.hadoop.contrib.bkjournal.EditLogLedgerMetadata		0.5277778
+org.apache.hadoop.contrib.bkjournal.CurrentInprogress		0.5090909
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager		0.23214285
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperJournalManager
+TestBookKeeperJournalManager		0.9510204
+TestBookKeeperJournalManager.ThreadStatus		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperJournalManager_testAllBookieFailure_9
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager.ZkConnectionWatcher		0.8
+org.apache.hadoop.contrib.bkjournal.MaxTxId		0.7804878
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream.LedgerInputStream		0.6909091
+org.apache.hadoop.contrib.bkjournal.CurrentInprogress		0.6909091
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogOutputStream		0.63235295
+org.apache.hadoop.contrib.bkjournal.EditLogLedgerMetadata		0.4351852
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager		0.4030612
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream		0.32692307
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperJournalManager_testConcurrentFormat_m
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager.ZkConnectionWatcher		0.8
+org.apache.hadoop.contrib.bkjournal.MaxTxId		0.7804878
+org.apache.hadoop.contrib.bkjournal.CurrentInprogress		0.6909091
+org.apache.hadoop.contrib.bkjournal.EditLogLedgerMetadata		0.5648148
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager		0.375
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogOutputStream		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperJournalManager_testCorruptInprogressNode_5
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager.ZkConnectionWatcher		0.8
+org.apache.hadoop.contrib.bkjournal.MaxTxId		0.7804878
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogOutputStream		0.7205882
+org.apache.hadoop.contrib.bkjournal.CurrentInprogress		0.7090909
+org.apache.hadoop.contrib.bkjournal.EditLogLedgerMetadata		0.37962964
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager		0.33673468
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperJournalManager_testEditLogFileNotExistsWhenReadingMetadata_s
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager.ZkConnectionWatcher		0.8
+org.apache.hadoop.contrib.bkjournal.MaxTxId		0.7804878
+org.apache.hadoop.contrib.bkjournal.CurrentInprogress		0.6909091
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogOutputStream		0.6764706
+org.apache.hadoop.contrib.bkjournal.EditLogLedgerMetadata		0.5185185
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager		0.3622449
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperJournalManager_testEmptyInprogressLedger_o
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager.ZkConnectionWatcher		0.8
+org.apache.hadoop.contrib.bkjournal.MaxTxId		0.7804878
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogOutputStream		0.7205882
+org.apache.hadoop.contrib.bkjournal.CurrentInprogress		0.7090909
+org.apache.hadoop.contrib.bkjournal.EditLogLedgerMetadata		0.39814815
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager		0.39540815
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperJournalManager_testEmptyInprogressNode_j
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager.ZkConnectionWatcher		0.8
+org.apache.hadoop.contrib.bkjournal.MaxTxId		0.7804878
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogOutputStream		0.7205882
+org.apache.hadoop.contrib.bkjournal.CurrentInprogress		0.7090909
+org.apache.hadoop.contrib.bkjournal.EditLogLedgerMetadata		0.39814815
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager		0.33673468
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperJournalManager_testNumberOfTransactionsWithGaps_h
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager.ZkConnectionWatcher		0.8
+org.apache.hadoop.contrib.bkjournal.MaxTxId		0.7804878
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogOutputStream		0.7205882
+org.apache.hadoop.contrib.bkjournal.CurrentInprogress		0.6909091
+org.apache.hadoop.contrib.bkjournal.EditLogLedgerMetadata		0.5462963
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager		0.40816328
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperJournalManager_testNumberOfTransactionsWithInprogressAtEnd_a
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager.ZkConnectionWatcher		0.8
+org.apache.hadoop.contrib.bkjournal.MaxTxId		0.7804878
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogOutputStream		0.7794118
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream.LedgerInputStream		0.6909091
+org.apache.hadoop.contrib.bkjournal.CurrentInprogress		0.6909091
+org.apache.hadoop.contrib.bkjournal.EditLogLedgerMetadata		0.6018519
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager		0.46938777
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream		0.32692307
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperJournalManager_testNumberOfTransactions_t
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager.ZkConnectionWatcher		0.8
+org.apache.hadoop.contrib.bkjournal.MaxTxId		0.7804878
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogOutputStream		0.7058824
+org.apache.hadoop.contrib.bkjournal.CurrentInprogress		0.6909091
+org.apache.hadoop.contrib.bkjournal.EditLogLedgerMetadata		0.5092593
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager		0.38265306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperJournalManager_testOneBookieFailure_f
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager.ZkConnectionWatcher		0.8
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogOutputStream		0.60294116
+org.apache.hadoop.contrib.bkjournal.MaxTxId		0.5609756
+org.apache.hadoop.contrib.bkjournal.CurrentInprogress		0.5090909
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager		0.2244898
+org.apache.hadoop.contrib.bkjournal.EditLogLedgerMetadata		0.1388889
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperJournalManager_testRefinalizeAlreadyFinalizedInprogress_r
+org.apache.hadoop.contrib.bkjournal.MaxTxId		0.80487806
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager.ZkConnectionWatcher		0.8
+org.apache.hadoop.contrib.bkjournal.CurrentInprogress		0.7090909
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogOutputStream		0.7058824
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream.LedgerInputStream		0.6909091
+org.apache.hadoop.contrib.bkjournal.EditLogLedgerMetadata		0.6388889
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager		0.41326532
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream		0.32692307
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperJournalManager_testSimpleRead_0
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager.ZkConnectionWatcher		0.8
+org.apache.hadoop.contrib.bkjournal.MaxTxId		0.7804878
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream.LedgerInputStream		0.76363635
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogOutputStream		0.7058824
+org.apache.hadoop.contrib.bkjournal.CurrentInprogress		0.6909091
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream		0.61538464
+org.apache.hadoop.contrib.bkjournal.EditLogLedgerMetadata		0.5277778
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager		0.39030612
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperJournalManager_testSimpleRecovery_d
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager.ZkConnectionWatcher		0.8
+org.apache.hadoop.contrib.bkjournal.MaxTxId		0.7804878
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogOutputStream		0.7647059
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream.LedgerInputStream		0.6909091
+org.apache.hadoop.contrib.bkjournal.CurrentInprogress		0.6909091
+org.apache.hadoop.contrib.bkjournal.EditLogLedgerMetadata		0.4351852
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager		0.4030612
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogInputStream		0.32692307
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperJournalManager_testSimpleWrite_8
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager.ZkConnectionWatcher		0.8
+org.apache.hadoop.contrib.bkjournal.MaxTxId		0.7804878
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogOutputStream		0.7058824
+org.apache.hadoop.contrib.bkjournal.CurrentInprogress		0.6909091
+org.apache.hadoop.contrib.bkjournal.EditLogLedgerMetadata		0.37962964
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager		0.3010204
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperJournalManager_testTwoWriters_4
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager.ZkConnectionWatcher		0.8
+org.apache.hadoop.contrib.bkjournal.MaxTxId		0.73170733
+org.apache.hadoop.contrib.bkjournal.CurrentInprogress		0.5272727
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogOutputStream		0.42647058
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager		0.22959183
+org.apache.hadoop.contrib.bkjournal.EditLogLedgerMetadata		0.1388889
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestBookKeeperJournalManager_testWriteRestartFrom1_g
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager.ZkConnectionWatcher		0.8
+org.apache.hadoop.contrib.bkjournal.MaxTxId		0.7804878
+org.apache.hadoop.contrib.bkjournal.BookKeeperEditLogOutputStream		0.7205882
+org.apache.hadoop.contrib.bkjournal.CurrentInprogress		0.6909091
+org.apache.hadoop.contrib.bkjournal.EditLogLedgerMetadata		0.37962964
+org.apache.hadoop.contrib.bkjournal.BookKeeperJournalManager		0.30612245
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestCurrentInprogress
+TestCurrentInprogress		0.90163934
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestCurrentInprogress_testReadShouldReturnNullAfterClear_b
+org.apache.hadoop.contrib.bkjournal.CurrentInprogress		0.6545454
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestCurrentInprogress_testReadShouldReturnTheZnodePathAfterUpdate_p
+org.apache.hadoop.contrib.bkjournal.CurrentInprogress		0.5272727
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/target/clover/org/apache/hadoop/contrib/bkjournal/TestCurrentInprogress_testUpdateShouldFailWithIOEIfVersionNumberChangedAfterRead_q
+org.apache.hadoop.contrib.bkjournal.CurrentInprogress		0.58181816
+-- -- -- -- -- -- -- -- -- -- -- -- --

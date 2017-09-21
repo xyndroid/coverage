@@ -1,0 +1,77 @@
+./components/camel-lumberjack/target/site/clover/org/apache/camel
+./components/camel-lumberjack/target/site/clover/org/apache/camel/component/lumberjack/LumberjackComponentGlobalSSLTest
+LumberjackComponentGlobalSSLTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-lumberjack/target/site/clover/org/apache/camel/component/lumberjack/LumberjackComponentGlobalSSLTest_shouldListenToMessagesOverSSL_0
+org.apache.camel.component.lumberjack.io.LumberjackMessage		1.0
+org.apache.camel.component.lumberjack.io.LumberjackSessionHandler		0.875
+org.apache.camel.component.lumberjack.io.LumberjackChannelInitializer		0.6875
+org.apache.camel.component.lumberjack.io.LumberjackFrameDecoder		0.6363636
+org.apache.camel.component.lumberjack.io.LumberjackMessageHandler		0.47619048
+org.apache.camel.component.lumberjack.LumberjackConsumer		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-lumberjack/target/site/clover/org/apache/camel/component/lumberjack/LumberjackComponentGlobalSSLTest_shouldListenToMessagesOverSSL_5
+org.apache.camel.component.lumberjack.io.LumberjackMessage		1.0
+org.apache.camel.component.lumberjack.io.LumberjackSessionHandler		0.875
+org.apache.camel.component.lumberjack.io.LumberjackChannelInitializer		0.6875
+org.apache.camel.component.lumberjack.io.LumberjackFrameDecoder		0.6363636
+org.apache.camel.component.lumberjack.io.LumberjackMessageHandler		0.47619048
+org.apache.camel.component.lumberjack.LumberjackConsumer		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-lumberjack/target/site/clover/org/apache/camel/component/lumberjack/LumberjackComponentSSLTest
+LumberjackComponentSSLTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-lumberjack/target/site/clover/org/apache/camel/component/lumberjack/LumberjackComponentSSLTest_shouldListenToMessagesOverSSL_4
+org.apache.camel.component.lumberjack.io.LumberjackMessage		1.0
+org.apache.camel.component.lumberjack.io.LumberjackSessionHandler		0.875
+org.apache.camel.component.lumberjack.io.LumberjackChannelInitializer		0.6875
+org.apache.camel.component.lumberjack.io.LumberjackFrameDecoder		0.6363636
+org.apache.camel.component.lumberjack.io.LumberjackMessageHandler		0.47619048
+org.apache.camel.component.lumberjack.LumberjackConsumer		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-lumberjack/target/site/clover/org/apache/camel/component/lumberjack/LumberjackComponentTest
+LumberjackComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-lumberjack/target/site/clover/org/apache/camel/component/lumberjack/LumberjackComponentTest_shouldListenToMessages_2
+org.apache.camel.component.lumberjack.io.LumberjackMessage		1.0
+org.apache.camel.component.lumberjack.io.LumberjackSessionHandler		0.875
+org.apache.camel.component.lumberjack.io.LumberjackFrameDecoder		0.6528926
+org.apache.camel.component.lumberjack.io.LumberjackChannelInitializer		0.5
+org.apache.camel.component.lumberjack.io.LumberjackMessageHandler		0.47619048
+org.apache.camel.component.lumberjack.LumberjackConsumer		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-lumberjack/target/site/clover/org/apache/camel/component/lumberjack/LumberjackDisconnectionTest
+LumberjackDisconnectionTest		1.0
+LumberjackDisconnectionTest.ErrorProcessor		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-lumberjack/target/site/clover/org/apache/camel/component/lumberjack/LumberjackDisconnectionTest_shouldDisconnectUponError_1
+org.apache.camel.component.lumberjack.io.LumberjackMessage		1.0
+org.apache.camel.component.lumberjack.io.LumberjackMessageHandler		0.6666667
+org.apache.camel.component.lumberjack.io.LumberjackSessionHandler		0.65625
+org.apache.camel.component.lumberjack.io.LumberjackFrameDecoder		0.6528926
+org.apache.camel.component.lumberjack.io.LumberjackChannelInitializer		0.5
+org.apache.camel.component.lumberjack.LumberjackConsumer		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-lumberjack/target/site/clover/org/apache/camel/component/lumberjack/io/LumberjackChannelInitializerTest
+LumberjackChannelInitializerTest		0.9310345
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-lumberjack/target/site/clover/org/apache/camel/component/lumberjack/io/LumberjackChannelInitializerTest_shouldDecodeTwoWindowsWithCompressedMessages_3
+shouldDecodeTwoWindowsWithCompressedMessages
+org.apache.camel.component.lumberjack.io.LumberjackMessage		1.0
+org.apache.camel.component.lumberjack.io.LumberjackSessionHandler		0.875
+org.apache.camel.component.lumberjack.io.LumberjackChannelInitializer		0.75
+org.apache.camel.component.lumberjack.io.LumberjackFrameDecoder		0.70247936
+org.apache.camel.component.lumberjack.io.LumberjackMessageHandler		0.47619048
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-lumberjack/target/site/clover/org/apache/camel/component/lumberjack/io/test-LumberjackChannelInitializerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-lumberjack/target/site/clover/org/apache/camel/component/lumberjack/test-LumberjackComponentGlobalSSLTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-lumberjack/target/site/clover/org/apache/camel/component/lumberjack/test-LumberjackComponentSSLTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-lumberjack/target/site/clover/org/apache/camel/component/lumberjack/test-LumberjackComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-lumberjack/target/site/clover/org/apache/camel/component/lumberjack/test-LumberjackDisconnectionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-lumberjack/target/site/clover/org/apache/camel/component/lumberjack/test-LumberjackDisconnectionTest_ErrorProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --

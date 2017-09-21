@@ -1,0 +1,145 @@
+./components/camel-freemarker/target/site/clover/org/apache/camel
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerBodyAsDomainObjectTest
+FreemarkerBodyAsDomainObjectTest		1.0
+FreemarkerBodyAsDomainObjectTest.MyPerson		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerBodyAsDomainObjectTest_testWithObject_c
+org.apache.camel.component.freemarker.FreemarkerEndpoint		0.43661973
+org.apache.camel.component.freemarker.FreemarkerComponent		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerConcurrentTest
+FreemarkerConcurrentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerConcurrentTest_testConcurrentProducers_j
+org.apache.camel.component.freemarker.FreemarkerEndpoint		0.43661973
+org.apache.camel.component.freemarker.FreemarkerComponent		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerConcurrentTest_testNoConcurrentProducers_e
+org.apache.camel.component.freemarker.FreemarkerEndpoint		0.43661973
+org.apache.camel.component.freemarker.FreemarkerComponent		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerContentCacheTest
+FreemarkerContentCacheTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerContentCacheTest_testCached_4
+org.apache.camel.component.freemarker.FreemarkerEndpoint		0.43661973
+org.apache.camel.component.freemarker.FreemarkerComponent		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerContentCacheTest_testClearCacheViaJmx_i
+org.apache.camel.component.freemarker.FreemarkerEndpoint		0.46478873
+org.apache.camel.component.freemarker.FreemarkerComponent		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerContentCacheTest_testNotCached_2
+org.apache.camel.component.freemarker.FreemarkerEndpoint		0.43661973
+org.apache.camel.component.freemarker.FreemarkerComponent		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerContentCacheTest_testTemplateUpdateDelay_0
+org.apache.camel.component.freemarker.FreemarkerEndpoint		0.43661973
+org.apache.camel.component.freemarker.FreemarkerComponent		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerEncodingTest
+FreemarkerEncodingTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerEncodingTest_testFreemarkerLetter_m
+org.apache.camel.component.freemarker.FreemarkerEndpoint		0.43661973
+org.apache.camel.component.freemarker.FreemarkerComponent		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerEndpointTest
+FreemarkerEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerEndpointTest_testFreemarkerDataModel_8
+org.apache.camel.component.freemarker.FreemarkerEndpoint		0.4225352
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerEndpointTest_testFreemarkerLetter_g
+org.apache.camel.component.freemarker.FreemarkerEndpoint		0.43661973
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerFileLetterTest
+FreemarkerFileLetterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerFileLetterTest_testFreemarkerLetter_o
+org.apache.camel.component.freemarker.FreemarkerEndpoint		0.43661973
+org.apache.camel.component.freemarker.FreemarkerComponent		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerLetterTest
+FreemarkerLetterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerLetterTest_testFreemarkerLetter_b
+org.apache.camel.component.freemarker.FreemarkerEndpoint		0.43661973
+org.apache.camel.component.freemarker.FreemarkerComponent		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerLetterWithoutHeaderTest
+FreemarkerLetterWithoutHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerLetterWithoutHeaderTest_testFreemarkerLetter_3
+org.apache.camel.component.freemarker.FreemarkerEndpoint		0.43661973
+org.apache.camel.component.freemarker.FreemarkerComponent		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerSetHeaderTest
+FreemarkerSetHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerSetHeaderTest_testSendingApple_5
+org.apache.camel.component.freemarker.FreemarkerEndpoint		0.43661973
+org.apache.camel.component.freemarker.FreemarkerComponent		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerSetHeaderTest_testSendingOrgane_9
+org.apache.camel.component.freemarker.FreemarkerEndpoint		0.43661973
+org.apache.camel.component.freemarker.FreemarkerComponent		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerTemplateInHeaderTest
+FreemarkerTemplateInHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerTemplateInHeaderTest_testReceivesBarResponse_a
+org.apache.camel.component.freemarker.FreemarkerEndpoint		0.4084507
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerTemplateInHeaderTest_testReceivesFooResponse_f
+org.apache.camel.component.freemarker.FreemarkerEndpoint		0.4084507
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerTemplateInHeaderTest_testRespectHeaderNamesCamelCase_6
+org.apache.camel.component.freemarker.FreemarkerEndpoint		0.4084507
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerTemplateInHeaderTest_testRespectHeaderNamesUpperCase_d
+org.apache.camel.component.freemarker.FreemarkerEndpoint		0.4084507
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerTest
+FreemarkerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerTest_testFreemarkerDataModel_1
+org.apache.camel.component.freemarker.FreemarkerEndpoint		0.4225352
+org.apache.camel.component.freemarker.FreemarkerComponent		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerTest_testFreemarkerLetter_n
+org.apache.camel.component.freemarker.FreemarkerEndpoint		0.43661973
+org.apache.camel.component.freemarker.FreemarkerComponent		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerValuesInPropertiesTest
+FreemarkerValuesInPropertiesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/FreemarkerValuesInPropertiesTest_testVelocityLetter_k
+org.apache.camel.component.freemarker.FreemarkerEndpoint		0.4084507
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/test-FreemarkerBodyAsDomainObjectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/test-FreemarkerBodyAsDomainObjectTest_MyPerson
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/test-FreemarkerConcurrentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/test-FreemarkerContentCacheTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/test-FreemarkerEncodingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/test-FreemarkerEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/test-FreemarkerFileLetterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/test-FreemarkerLetterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/test-FreemarkerLetterWithoutHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/test-FreemarkerSetHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/test-FreemarkerTemplateInHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/test-FreemarkerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-freemarker/target/site/clover/org/apache/camel/component/freemarker/test-FreemarkerValuesInPropertiesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

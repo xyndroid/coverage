@@ -1,0 +1,478 @@
+./components/camel-sql/target/site/clover/org/apache/camel
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SpringSqlEndpointLikeTest
+SpringSqlEndpointLikeTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SpringSqlMultilineTest
+SpringSqlMultilineTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlConsumerDeleteBatchCompleteTest
+SqlConsumerDeleteBatchCompleteTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlConsumerDeleteFailedTest
+SqlConsumerDeleteFailedTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlConsumerDeleteTest
+SqlConsumerDeleteTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlConsumerDeleteTransformTest
+SqlConsumerDeleteTransformTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlConsumerFromClasspathTest
+SqlConsumerFromClasspathTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlConsumerMaxMessagesPerPollTest
+SqlConsumerMaxMessagesPerPollTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlConsumerOutputTypeSelectListTest
+SqlConsumerOutputTypeSelectListTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlConsumerOutputTypeSelectListWithClassTest
+SqlConsumerOutputTypeSelectListWithClassTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlConsumerOutputTypeSelectOneTest
+SqlConsumerOutputTypeSelectOneTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlConsumerOutputTypeStreamListTest
+SqlConsumerOutputTypeStreamListTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlConsumerTest
+SqlConsumerTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlDataSourceRefTest
+SqlDataSourceRefTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlDataSourceTest
+SqlDataSourceTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlEndpointLikeTest
+SqlEndpointLikeTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlEndpointTest
+SqlEndpointTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlGeneratedKeysTest
+SqlGeneratedKeysTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlPreserveHeaderTest
+SqlPreserveHeaderTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlProducerAlwaysPopulateStatementFalseTest
+SqlProducerAlwaysPopulateStatementFalseTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlProducerAlwaysPopulateStatementTest
+SqlProducerAlwaysPopulateStatementTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlProducerAndInTest
+SqlProducerAndInTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlProducerConcurrentTest
+SqlProducerConcurrentTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlProducerExpressionParameterTest
+SqlProducerExpressionParameterTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlProducerInExpressionTest
+SqlProducerInExpressionTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlProducerInMultiExpressionTest
+SqlProducerInMultiExpressionTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlProducerInMultiQueryEndpointTest
+SqlProducerInMultiQueryEndpointTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlProducerInMultiTest
+SqlProducerInMultiTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlProducerInQueryEndpointTest
+SqlProducerInQueryEndpointTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlProducerInSimpleExpressionTest
+SqlProducerInSimpleExpressionTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlProducerInTest
+SqlProducerInTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlProducerInsertNullTest
+SqlProducerInsertNullTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlProducerJSONTest
+SqlProducerJSONTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlProducerNamedParameterNotExistTest
+SqlProducerNamedParameterNotExistTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlProducerNamedParameterTest
+SqlProducerNamedParameterTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlProducerNamedParametersTest
+SqlProducerNamedParametersTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlProducerNoopTest
+SqlProducerNoopTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlProducerNullBodyHeaderTest
+SqlProducerNullBodyHeaderTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlProducerNullBodyTest
+SqlProducerNullBodyTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlProducerOutputHeaderTest
+SqlProducerOutputHeaderTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlProducerOutputHeaderWithQueryTest
+SqlProducerOutputHeaderWithQueryTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlProducerOutputTypeSelectListTest
+SqlProducerOutputTypeSelectListTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlProducerOutputTypeSelectListWithClassTest
+SqlProducerOutputTypeSelectListWithClassTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlProducerOutputTypeSelectOneNoResultTest
+SqlProducerOutputTypeSelectOneNoResultTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlProducerOutputTypeSelectOneTest
+SqlProducerOutputTypeSelectOneTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlProducerOutputTypeStreamListTest
+SqlProducerOutputTypeStreamListTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlProducerParametersCountTest
+SqlProducerParametersCountTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlProducerSeparatorTest
+SqlProducerSeparatorTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlProducerUseMessageBodyForSqlTest
+SqlProducerUseMessageBodyForSqlTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlProducerWhereIssueClasspathTest
+SqlProducerWhereIssueClasspathTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlProducerWhereIssueTest
+SqlProducerWhereIssueTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlRouteTest
+SqlRouteTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/SqlTransactedRouteTest
+SqlTransactedRouteTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/stored/CallableStatementWrapperTest
+CallableStatementWrapperTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/stored/ParserTest
+ParserTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/stored/ProducerBatchTest
+ProducerBatchTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/stored/ProducerBodyArrayTest
+ProducerBodyArrayTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/stored/ProducerClasspathTest
+ProducerClasspathTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/stored/ProducerTest
+ProducerTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/stored/ProducerUseMessageBodyForTemplateTest
+ProducerUseMessageBodyForTemplateTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/stored/SqlStoredDataSourceTest
+SqlStoredDataSourceTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/stored/TemplateCacheTest
+TemplateCacheTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/stored/TestStoredProcedure
+TestStoredProcedure		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/stored/test-CallableStatementWrapperTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/stored/test-ParserTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/stored/test-ProducerBatchTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/stored/test-ProducerBodyArrayTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/stored/test-ProducerClasspathTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/stored/test-ProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/stored/test-ProducerUseMessageBodyForTemplateTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/stored/test-SqlStoredDataSourceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/stored/test-TemplateCacheTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/stored/test-TestStoredProcedure
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SpringSqlEndpointLikeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SpringSqlMultilineTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlConsumerDeleteBatchCompleteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlConsumerDeleteFailedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlConsumerDeleteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlConsumerDeleteTransformTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlConsumerFromClasspathTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlConsumerMaxMessagesPerPollTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlConsumerOutputTypeSelectListTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlConsumerOutputTypeSelectListWithClassTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlConsumerOutputTypeSelectOneTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlConsumerOutputTypeStreamListTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlDataSourceRefTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlDataSourceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlEndpointLikeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlGeneratedKeysTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlPreserveHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlProducerAlwaysPopulateStatementFalseTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlProducerAlwaysPopulateStatementTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlProducerAndInTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlProducerConcurrentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlProducerExpressionParameterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlProducerInExpressionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlProducerInMultiExpressionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlProducerInMultiQueryEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlProducerInMultiTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlProducerInQueryEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlProducerInSimpleExpressionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlProducerInTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlProducerInsertNullTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlProducerJSONTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlProducerNamedParameterNotExistTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlProducerNamedParameterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlProducerNamedParametersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlProducerNoopTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlProducerNullBodyHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlProducerNullBodyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlProducerOutputHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlProducerOutputHeaderWithQueryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlProducerOutputTypeSelectListTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlProducerOutputTypeSelectListWithClassTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlProducerOutputTypeSelectOneNoResultTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlProducerOutputTypeSelectOneTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlProducerOutputTypeStreamListTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlProducerParametersCountTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlProducerSeparatorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlProducerUseMessageBodyForSqlTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlProducerWhereIssueClasspathTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlProducerWhereIssueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/component/sql/test-SqlTransactedRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/AbstractJdbcAggregationTestSupport
+AbstractJdbcAggregationTestSupport		0.0
+AbstractJdbcAggregationTestSupport.MyAggregationStrategy		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/ClassLoadingAwareObjectInputStreamTest
+ClassLoadingAwareObjectInputStreamTest		0.0
+MyObject		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/JdbcAggregateCompletionIntervalTest
+JdbcAggregateCompletionIntervalTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/JdbcAggregateConcurrentDifferentGroupsTest
+JdbcAggregateConcurrentDifferentGroupsTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/JdbcAggregateConcurrentSameGroupTest
+JdbcAggregateConcurrentSameGroupTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/JdbcAggregateDiscardOnTimeoutTest
+JdbcAggregateDiscardOnTimeoutTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/JdbcAggregateForceCompletionHeaderTest
+JdbcAggregateForceCompletionHeaderTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/JdbcAggregateLoadAndRecoverTest
+JdbcAggregateLoadAndRecoverTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/JdbcAggregateLoadConcurrentTest
+JdbcAggregateLoadConcurrentTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/JdbcAggregateLoadTest
+JdbcAggregateLoadTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/JdbcAggregateNotLostRemovedWhenConfirmedTest
+JdbcAggregateNotLostRemovedWhenConfirmedTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/JdbcAggregateNotLostTest
+JdbcAggregateNotLostTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/JdbcAggregateRecoverDeadLetterChannelFailedTest
+JdbcAggregateRecoverDeadLetterChannelFailedTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/JdbcAggregateRecoverDeadLetterChannelTest
+JdbcAggregateRecoverDeadLetterChannelTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/JdbcAggregateRecoverTest
+JdbcAggregateRecoverTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/JdbcAggregateRecoverWithRedeliveryPolicyTest
+JdbcAggregateRecoverWithRedeliveryPolicyTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/JdbcAggregateRecoverWithSedaTest
+JdbcAggregateRecoverWithSedaTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/JdbcAggregateSerializedHeadersTest
+JdbcAggregateSerializedHeadersTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/JdbcAggregateTest
+JdbcAggregateTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/JdbcAggregateTimeoutCompletionRestartTest
+JdbcAggregateTimeoutCompletionRestartTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/JdbcAggregationRepositoryAlotDataTest
+JdbcAggregationRepositoryAlotDataTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/JdbcAggregationRepositoryMultipleRepoTest
+JdbcAggregationRepositoryMultipleRepoTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/JdbcAggregationRepositoryRecoverExistingTest
+JdbcAggregationRepositoryRecoverExistingTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/JdbcAggregationRepositoryTest
+JdbcAggregationRepositoryTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/JdbcExchangeSerializationTest
+JdbcExchangeSerializationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/JdbcGetNotFoundTest
+JdbcGetNotFoundTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/JdbcGrowIssueTest
+JdbcGrowIssueTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/JdbcSpringAggregateRecoverWithRedeliveryPolicyTest
+JdbcSpringAggregateRecoverWithRedeliveryPolicyTest		0.0
+JdbcSpringAggregateRecoverWithRedeliveryPolicyTest.MyFailProcessor		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/JdbcSpringAggregateTest
+JdbcSpringAggregateTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/test-AbstractJdbcAggregationTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/test-AbstractJdbcAggregationTestSupport_MyAggregationStrategy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/test-ClassLoadingAwareObjectInputStreamTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/test-JdbcAggregateCompletionIntervalTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/test-JdbcAggregateConcurrentDifferentGroupsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/test-JdbcAggregateConcurrentSameGroupTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/test-JdbcAggregateDiscardOnTimeoutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/test-JdbcAggregateForceCompletionHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/test-JdbcAggregateLoadAndRecoverTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/test-JdbcAggregateLoadConcurrentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/test-JdbcAggregateLoadTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/test-JdbcAggregateNotLostRemovedWhenConfirmedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/test-JdbcAggregateNotLostTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/test-JdbcAggregateRecoverDeadLetterChannelFailedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/test-JdbcAggregateRecoverDeadLetterChannelTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/test-JdbcAggregateRecoverTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/test-JdbcAggregateRecoverWithRedeliveryPolicyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/test-JdbcAggregateRecoverWithSedaTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/test-JdbcAggregateSerializedHeadersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/test-JdbcAggregateTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/test-JdbcAggregateTimeoutCompletionRestartTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/test-JdbcAggregationRepositoryAlotDataTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/test-JdbcAggregationRepositoryMultipleRepoTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/test-JdbcAggregationRepositoryRecoverExistingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/test-JdbcAggregationRepositoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/test-JdbcExchangeSerializationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/test-JdbcGetNotFoundTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/test-JdbcGrowIssueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/test-JdbcSpringAggregateRecoverWithRedeliveryPolicyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/test-JdbcSpringAggregateRecoverWithRedeliveryPolicyTest_MyFailProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/aggregate/jdbc/test-JdbcSpringAggregateTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/idempotent/jdbc/CustomizedJdbcMessageIdRepositoryTest
+CustomizedJdbcMessageIdRepositoryTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/idempotent/jdbc/JdbcMessageIdRepositoryTest
+JdbcMessageIdRepositoryTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/idempotent/jdbc/test-CustomizedJdbcMessageIdRepositoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sql/target/site/clover/org/apache/camel/processor/idempotent/jdbc/test-JdbcMessageIdRepositoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,12 @@
+./hadoop-tools/hadoop-datajoin/target/clover/org/apache/hadoop
+./hadoop-tools/hadoop-datajoin/target/clover/org/apache/hadoop/contrib/utils/join/TestDataJoin
+TestDataJoin		0.9716981
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-datajoin/target/clover/org/apache/hadoop/contrib/utils/join/TestDataJoin_testDataJoin_0
+testDataJoin
+org.apache.hadoop.contrib.utils.join.TaggedMapOutput		1.0
+org.apache.hadoop.contrib.utils.join.ArrayListBackedIterator		0.9411765
+org.apache.hadoop.contrib.utils.join.DataJoinReducerBase		0.9130435
+org.apache.hadoop.contrib.utils.join.DataJoinMapperBase		0.7419355
+org.apache.hadoop.contrib.utils.join.JobBase		0.5208333
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,733 @@
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestCompressionEmulationUtils
+TestCompressionEmulationUtils		0.98734176
+TestCompressionEmulationUtils.CustomInputFormat		0.7777778
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestCompressionEmulationUtils_testCompressibleGridmixRecord_1h
+org.apache.hadoop.mapred.gridmix.GridmixRecord		0.42857143
+org.apache.hadoop.mapred.gridmix.RandomTextDataGenerator		0.33333334
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil		0.27210885
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil.CompressionRatioLookupTable		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestCompressionEmulationUtils_testCompressionRatioStandardization_1t
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil		0.020408163
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestCompressionEmulationUtils_testCompressionRatios_m
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil.RandomTextDataMapper		1.0
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil.CompressionRatioLookupTable		1.0
+org.apache.hadoop.mapred.gridmix.GenerateData.GenSplit		0.9655172
+org.apache.hadoop.mapred.gridmix.RandomTextDataGenerator		0.8
+org.apache.hadoop.mapred.gridmix.GenerateData.GenDataFormat		0.4390244
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil		0.21768707
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestCompressionEmulationUtils_testComputeUncompressedInputBytes_9
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil		0.108843535
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestCompressionEmulationUtils_testExtractCompressionConfigs_1n
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil		0.1904762
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestCompressionEmulationUtils_testFileQueueDecompression_6
+org.apache.hadoop.mapred.gridmix.FileQueue		0.7209302
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil		0.2244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestCompressionEmulationUtils_testInputCompressionRatioConfiguration_1s
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil		0.027210884
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestCompressionEmulationUtils_testIntermediateCompressionRatioConfiguration_u
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil		0.027210884
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestCompressionEmulationUtils_testIsCompressionEmulationEnabled_w
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil		0.027210884
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestCompressionEmulationUtils_testOutputCompressionRatioConfiguration_g
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil		0.027210884
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestCompressionEmulationUtils_testPossiblyCompressedDecompressedStreams_1v
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil		0.2244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestCompressionEmulationUtils_testRandomCompressedTextDataGenerator_j
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil.RandomTextDataMapper		1.0
+org.apache.hadoop.mapred.gridmix.GenerateData.GenSplit		0.9655172
+org.apache.hadoop.mapred.gridmix.RandomTextDataGenerator		0.53333336
+org.apache.hadoop.mapred.gridmix.GenerateData.GenDataFormat		0.4390244
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil		0.21088435
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestDistCacheEmulation
+TestDistCacheEmulation		0.9807692
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestDistCacheEmulation_testDistCacheEmulationConfigurability_14
+org.apache.hadoop.mapred.gridmix.DistributedCacheEmulator		0.17127071
+org.apache.hadoop.mapred.gridmix.JobCreator		0.16216215
+org.apache.hadoop.mapred.gridmix.PseudoLocalFs		0.078125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestDistCacheEmulation_testDistCacheEmulator_4
+org.apache.hadoop.mapred.gridmix.DistributedCacheEmulator		0.39779004
+org.apache.hadoop.mapred.gridmix.PseudoLocalFs		0.390625
+org.apache.hadoop.mapred.gridmix.JobCreator		0.054054055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestDistCacheEmulation_testGenerateDistCacheData_12
+org.apache.hadoop.mapred.gridmix.GenerateDistCacheData		0.85714287
+org.apache.hadoop.mapred.gridmix.GenerateDistCacheData.GenDCDataFormat		0.7692308
+org.apache.hadoop.mapred.gridmix.DistributedCacheEmulator		0.6243094
+org.apache.hadoop.mapred.gridmix.JobCreator		0.16216215
+org.apache.hadoop.mapred.gridmix.GridmixJob		0.08947369
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestDistCacheEmulation_testSetupGenerateDistCacheData_f
+org.apache.hadoop.mapred.gridmix.DistributedCacheEmulator		0.64640886
+org.apache.hadoop.mapred.gridmix.JobCreator		0.16216215
+org.apache.hadoop.mapred.gridmix.GenerateDistCacheData.GenDCDataFormat		0.03846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestFilePool
+TestFilePool		0.9514563
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestFilePool_testPool_5
+org.apache.hadoop.mapred.gridmix.FilePool.LeafDesc		1.0
+org.apache.hadoop.mapred.gridmix.FilePool.MinFileFilter		1.0
+org.apache.hadoop.mapred.gridmix.FilePool.InnerDesc		0.9459459
+org.apache.hadoop.mapred.gridmix.FilePool		0.8181818
+org.apache.hadoop.mapred.gridmix.RandomAlgorithms.DenseIndexMapper		0.76
+org.apache.hadoop.mapred.gridmix.RandomAlgorithms.Selector		0.51724136
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestFilePool_testStriper_c
+org.apache.hadoop.mapred.gridmix.FilePool.MinFileFilter		1.0
+org.apache.hadoop.mapred.gridmix.FilePool		0.8181818
+org.apache.hadoop.mapred.gridmix.FilePool.InnerDesc		0.7162162
+org.apache.hadoop.mapred.gridmix.InputStriper		0.6818182
+org.apache.hadoop.mapred.gridmix.FilePool.LeafDesc		0.4347826
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestFilePool_testUnsuitable_1d
+org.apache.hadoop.mapred.gridmix.FilePool.MinFileFilter		0.7692308
+org.apache.hadoop.mapred.gridmix.FilePool		0.6363636
+org.apache.hadoop.mapred.gridmix.FilePool.InnerDesc		0.4054054
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestFileQueue
+TestFileQueue		0.9859155
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestFileQueue_testEmpty_2
+org.apache.hadoop.mapred.gridmix.FileQueue		0.23255815
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestFileQueue_testRepeat_i
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil.CompressionRatioLookupTable		0.9
+org.apache.hadoop.mapred.gridmix.FileQueue		0.74418604
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil		0.07482993
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestFileQueue_testUneven_1e
+org.apache.hadoop.mapred.gridmix.FileQueue		0.74418604
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil		0.07482993
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridMixClasses
+TestGridMixClasses		0.9930796
+TestGridMixClasses.FakeRecordLLReader		0.0
+TestGridMixClasses.FakeRecordReader		0.6666667
+TestGridMixClasses.LoadRecordGkGrWriter		0.8
+TestGridMixClasses.LoadRecordGkNullWriter		0.8
+TestGridMixClasses.LoadRecordWriter		0.8
+TestGridMixClasses.FakeRecordFactory		1.0
+TestGridMixClasses.FakeInputStream		0.52380955
+TestGridMixClasses.FakeFSDataInputStream		1.0
+TestGridMixClasses.FakeRawKeyValueIterator		0.8888889
+TestGridMixClasses.FakeRawComparator		0.25
+TestGridMixClasses.FakeJobSubmitter		1.0
+TestGridMixClasses.LoadRecordReduceWriter		0.0
+TestGridMixClasses.FakeRawKeyValueReducerIterator		0.8888889
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridMixClasses_testCompareGridmixJob_t
+org.apache.hadoop.mapred.gridmix.GridmixJob		0.5263158
+org.apache.hadoop.mapred.gridmix.LoadJob.ResourceUsageMatcherRunner.BoostingProgress		0.33333334
+org.apache.hadoop.mapred.gridmix.LoadJob.ResourceUsageMatcherRunner		0.23076923
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil		0.1632653
+org.apache.hadoop.mapred.gridmix.emulators.resourceusage.ResourceUsageMatcher		0.06666667
+org.apache.hadoop.mapred.gridmix.LoadJob		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridMixClasses_testGridmixJobSpecGroupingComparator_7
+org.apache.hadoop.mapred.gridmix.GridmixJob.SpecGroupingComparator		0.72727275
+org.apache.hadoop.mapred.gridmix.GridmixRecord		0.3197279
+org.apache.hadoop.mapred.gridmix.GridmixKey		0.224
+org.apache.hadoop.mapred.gridmix.GridmixKey.Spec		0.0882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridMixClasses_testGridmixSplit_q
+org.apache.hadoop.mapred.gridmix.GridmixSplit		0.9381443
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridMixClasses_testLoadJobLoadRecordReader_19
+org.apache.hadoop.mapred.gridmix.ReadRecordFactory		0.95652175
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil.CompressionRatioLookupTable		0.9
+org.apache.hadoop.mapred.gridmix.LoadJob.LoadRecordReader		0.875
+org.apache.hadoop.mapred.gridmix.FileQueue		0.7906977
+org.apache.hadoop.mapred.gridmix.AvgRecordFactory		0.63265306
+org.apache.hadoop.mapred.gridmix.GridmixRecord		0.17006803
+org.apache.hadoop.mapred.gridmix.LoadSplit		0.14049587
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil		0.07482993
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridMixClasses_testLoadJobLoadReducer_1a
+org.apache.hadoop.mapred.gridmix.GridmixKey.Spec		0.7941176
+org.apache.hadoop.mapred.gridmix.LoadJob.LoadReducer		0.7413793
+org.apache.hadoop.mapred.gridmix.LoadJob.ResourceUsageMatcherRunner.BoostingProgress		0.6666667
+org.apache.hadoop.mapred.gridmix.AvgRecordFactory		0.6122449
+org.apache.hadoop.mapred.gridmix.GridmixRecord		0.56462586
+org.apache.hadoop.mapred.gridmix.LoadJob.ResourceUsageMatcherRunner		0.53846157
+org.apache.hadoop.mapred.gridmix.GridmixKey		0.472
+org.apache.hadoop.mapred.gridmix.emulators.resourceusage.ResourceUsageMatcher		0.26666668
+org.apache.hadoop.mapred.gridmix.RandomTextDataGenerator		0.23333333
+org.apache.hadoop.mapred.gridmix.LoadJob.StatusReporter		0.21428572
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil		0.088435374
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil.CompressionRatioLookupTable		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridMixClasses_testLoadJobLoadSortComparator_11
+org.apache.hadoop.mapred.gridmix.GridmixRecord.Comparator		1.0
+org.apache.hadoop.mapred.gridmix.LoadJob.LoadSortComparator		0.96
+org.apache.hadoop.mapred.gridmix.GridmixKey.Comparator		0.9375
+org.apache.hadoop.mapred.gridmix.LoadJob.ResourceUsageMatcherRunner		0.07692308
+org.apache.hadoop.mapred.gridmix.emulators.resourceusage.ResourceUsageMatcher		0.06666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridMixClasses_testLoadMapper_p
+org.apache.hadoop.mapred.gridmix.LoadJob.LoadMapper		0.7307692
+org.apache.hadoop.mapred.gridmix.LoadJob.ResourceUsageMatcherRunner.BoostingProgress		0.6666667
+org.apache.hadoop.mapred.gridmix.LoadJob.StatusReporter		0.64285713
+org.apache.hadoop.mapred.gridmix.IntermediateRecordFactory		0.62222224
+org.apache.hadoop.mapred.gridmix.AvgRecordFactory		0.5510204
+org.apache.hadoop.mapred.gridmix.LoadJob.ResourceUsageMatcherRunner		0.53846157
+org.apache.hadoop.mapred.gridmix.GridmixKey.Spec		0.44117647
+org.apache.hadoop.mapred.gridmix.emulators.resourceusage.ResourceUsageMatcher		0.4
+org.apache.hadoop.mapred.gridmix.LoadSplit		0.38842976
+org.apache.hadoop.mapred.gridmix.GridmixKey		0.312
+org.apache.hadoop.mapred.gridmix.GridmixRecord		0.25170067
+org.apache.hadoop.mapred.gridmix.RandomTextDataGenerator		0.23333333
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil		0.088435374
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil.CompressionRatioLookupTable		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridMixClasses_testLoadSplit_1u
+org.apache.hadoop.mapred.gridmix.LoadSplit		0.94214875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridMixClasses_testReadRecordFactory_1z
+org.apache.hadoop.mapred.gridmix.ReadRecordFactory		0.7826087
+org.apache.hadoop.mapred.gridmix.GridmixRecord		0.1292517
+org.apache.hadoop.mapred.gridmix.GridmixKey		0.104
+org.apache.hadoop.mapred.gridmix.GridmixKey.Spec		0.029411765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridMixClasses_testSerialReaderThread_1
+org.apache.hadoop.mapred.gridmix.SerialJobFactory		0.78571427
+org.apache.hadoop.mapred.gridmix.SerialJobFactory.SerialReaderThread		0.75
+org.apache.hadoop.mapred.gridmix.SubmitterUserResolver		0.5555556
+org.apache.hadoop.mapred.gridmix.GridmixJob		0.4473684
+org.apache.hadoop.mapred.gridmix.JobFactory		0.36486486
+org.apache.hadoop.mapred.gridmix.JobFactory.FilterJobStory		0.35714287
+org.apache.hadoop.mapred.gridmix.LoadJob.ResourceUsageMatcherRunner.BoostingProgress		0.33333334
+org.apache.hadoop.mapred.gridmix.LoadJob.ResourceUsageMatcherRunner		0.23076923
+org.apache.hadoop.mapred.gridmix.JobCreator		0.21621622
+org.apache.hadoop.mapred.gridmix.JobSubmitter		0.21212122
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil		0.1632653
+org.apache.hadoop.mapred.gridmix.DistributedCacheEmulator		0.07734807
+org.apache.hadoop.mapred.gridmix.emulators.resourceusage.ResourceUsageMatcher		0.06666667
+org.apache.hadoop.mapred.gridmix.LoadJob		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridMixClasses_testSleepMapper_10
+org.apache.hadoop.mapred.gridmix.SleepJob.SleepMapper		0.9130435
+org.apache.hadoop.mapred.gridmix.LoadJob.ResourceUsageMatcherRunner.BoostingProgress		0.33333334
+org.apache.hadoop.mapred.gridmix.SleepJob.SleepSplit		0.24074075
+org.apache.hadoop.mapred.gridmix.LoadJob.ResourceUsageMatcherRunner		0.23076923
+org.apache.hadoop.mapred.gridmix.GridmixKey		0.192
+org.apache.hadoop.mapred.gridmix.GridmixRecord		0.13605443
+org.apache.hadoop.mapred.gridmix.GridmixKey.Spec		0.0882353
+org.apache.hadoop.mapred.gridmix.emulators.resourceusage.ResourceUsageMatcher		0.06666667
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil		0.013605442
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridMixClasses_testSleepReducer_1q
+org.apache.hadoop.mapred.gridmix.SleepJob.SleepReducer		0.92
+org.apache.hadoop.mapred.gridmix.GridmixKey.Spec		0.7941176
+org.apache.hadoop.mapred.gridmix.GridmixKey		0.4
+org.apache.hadoop.mapred.gridmix.GridmixRecord		0.39455783
+org.apache.hadoop.mapred.gridmix.LoadJob.ResourceUsageMatcherRunner.BoostingProgress		0.33333334
+org.apache.hadoop.mapred.gridmix.LoadJob.ResourceUsageMatcherRunner		0.23076923
+org.apache.hadoop.mapred.gridmix.emulators.resourceusage.ResourceUsageMatcher		0.06666667
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil		0.013605442
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridmixMemoryEmulation
+TestGridmixMemoryEmulation		0.99346405
+TestGridmixMemoryEmulation.FakeHeapUsageEmulatorCore		1.0
+TestGridmixMemoryEmulation.FakeHeapUsageEmulatorPlugin		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridmixMemoryEmulation_testHeapUsageEmulator_l
+org.apache.hadoop.mapred.gridmix.emulators.resourceusage.TotalHeapUsageEmulatorPlugin.DefaultHeapUsageEmulator		0.53846157
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridmixMemoryEmulation_testJavaHeapOptionsDisabled_1f
+org.apache.hadoop.mapred.gridmix.GridmixJob		0.29473683
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridmixMemoryEmulation_testJavaHeapOptions_1m
+org.apache.hadoop.mapred.gridmix.GridmixJob		0.1368421
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridmixMemoryEmulation_testTotalHeapUsageEmulatorPlugin_0
+org.apache.hadoop.mapred.gridmix.emulators.resourceusage.TotalHeapUsageEmulatorPlugin.DefaultHeapUsageEmulator		1.0
+org.apache.hadoop.mapred.gridmix.emulators.resourceusage.TotalHeapUsageEmulatorPlugin		0.84313726
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridmixRecord
+TestGridmixRecord		0.8677249
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridmixRecord_testBaseRecord_b
+org.apache.hadoop.mapred.gridmix.GridmixRecord.Comparator		0.8333333
+org.apache.hadoop.mapred.gridmix.GridmixRecord		0.7619048
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridmixRecord_testKeyData_1g
+org.apache.hadoop.mapred.gridmix.GridmixKey.Comparator		0.875
+org.apache.hadoop.mapred.gridmix.GridmixRecord		0.7482993
+org.apache.hadoop.mapred.gridmix.GridmixRecord.Comparator		0.6666667
+org.apache.hadoop.mapred.gridmix.GridmixKey		0.416
+org.apache.hadoop.mapred.gridmix.GridmixKey.Spec		0.029411765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridmixRecord_testKeySpec_1w
+org.apache.hadoop.mapred.gridmix.GridmixKey.Comparator		0.75
+org.apache.hadoop.mapred.gridmix.GridmixRecord		0.7482993
+org.apache.hadoop.mapred.gridmix.GridmixRecord.Comparator		0.6666667
+org.apache.hadoop.mapred.gridmix.GridmixKey		0.64
+org.apache.hadoop.mapred.gridmix.GridmixKey.Spec		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridmixStatistics
+TestGridmixStatistics		0.73255813
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridmixStatistics_testJobStats_13
+org.apache.hadoop.mapred.gridmix.Statistics.JobStats		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridmixStatistics_testStatistics_n
+org.apache.hadoop.mapred.gridmix.Statistics.JobStats		1.0
+org.apache.hadoop.mapred.gridmix.Statistics		0.675
+org.apache.hadoop.mapred.gridmix.Statistics.ClusterStats		0.46666667
+org.apache.hadoop.mapred.gridmix.Statistics.StatCollector		0.19444445
+org.apache.hadoop.mapred.gridmix.GridmixJob		0.010526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridmixSubmission
+TestGridmixSubmission		0.962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridmixSubmission_testMain_1y
+org.apache.hadoop.mapred.gridmix.Gridmix		0.21967213
+org.apache.hadoop.mapred.gridmix.Summarizer		0.15789473
+org.apache.hadoop.mapred.gridmix.ExecutionSummarizer		0.022058824
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridmixSubmission_testReplaySubmit_a
+org.apache.hadoop.mapred.gridmix.GenerateData.DataStatistics		1.0
+org.apache.hadoop.mapred.gridmix.ReplayJobFactory		1.0
+org.apache.hadoop.mapred.gridmix.Summarizer		1.0
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil.CompressionRatioLookupTable		0.9714286
+org.apache.hadoop.mapred.gridmix.LoadJob		0.9480519
+org.apache.hadoop.mapred.gridmix.ClusterSummarizer		0.9411765
+org.apache.hadoop.mapred.gridmix.FilePool		0.90909094
+org.apache.hadoop.mapred.gridmix.Statistics.JobStats		0.85714287
+org.apache.hadoop.mapred.gridmix.Statistics		0.85
+org.apache.hadoop.mapred.gridmix.FilePool.MinFileFilter		0.84615386
+org.apache.hadoop.mapred.gridmix.JobFactory.MinTaskInfo		0.8333333
+org.apache.hadoop.mapred.gridmix.ExecutionSummarizer		0.8235294
+org.apache.hadoop.mapred.gridmix.InputStriper		0.8030303
+org.apache.hadoop.mapred.gridmix.JobSubmitter		0.7878788
+org.apache.hadoop.mapred.gridmix.ReplayJobFactory.ReplayReaderThread		0.7837838
+org.apache.hadoop.mapred.gridmix.EchoUserResolver		0.75
+org.apache.hadoop.mapred.gridmix.Statistics.StatCollector		0.7222222
+org.apache.hadoop.mapred.gridmix.JobMonitor.MonitorThread		0.6666667
+org.apache.hadoop.mapred.gridmix.JobFactory.FilterJobStory		0.64285713
+org.apache.hadoop.mapred.gridmix.GridmixJob		0.6421053
+org.apache.hadoop.mapred.gridmix.JobSubmitter.SubmitTask		0.6
+org.apache.hadoop.mapred.gridmix.GenerateData.GenSplit		0.5862069
+org.apache.hadoop.mapred.gridmix.JobMonitor		0.55263156
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil		0.5510204
+org.apache.hadoop.mapred.gridmix.JobFactory		0.5135135
+org.apache.hadoop.mapred.gridmix.LoadJob.LoadInputFormat		0.5
+org.apache.hadoop.mapred.gridmix.Gridmix		0.49836066
+org.apache.hadoop.mapred.gridmix.FilePool.InnerDesc		0.47297296
+org.apache.hadoop.mapred.gridmix.Statistics.ClusterStats		0.46666667
+org.apache.hadoop.mapred.gridmix.GenerateData.GenDataFormat		0.4390244
+org.apache.hadoop.mapred.gridmix.FilePool.LeafDesc		0.4347826
+org.apache.hadoop.mapred.gridmix.GridmixJobSubmissionPolicy		0.35714287
+org.apache.hadoop.mapred.gridmix.LoadSplit		0.3553719
+org.apache.hadoop.mapred.gridmix.GenerateData		0.33962265
+org.apache.hadoop.mapred.gridmix.RandomTextDataGenerator		0.33333334
+org.apache.hadoop.mapred.gridmix.JobCreator		0.27027026
+org.apache.hadoop.mapred.gridmix.DistributedCacheEmulator		0.13259669
+org.apache.hadoop.mapred.gridmix.PseudoLocalFs		0.078125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridmixSubmission_testStressSubmit_15
+org.apache.hadoop.mapred.gridmix.GenerateData.DataStatistics		1.0
+org.apache.hadoop.mapred.gridmix.StressJobFactory.LoadStatus		1.0
+org.apache.hadoop.mapred.gridmix.Summarizer		1.0
+org.apache.hadoop.mapred.gridmix.LoadJob		0.96103895
+org.apache.hadoop.mapred.gridmix.ClusterSummarizer		0.9411765
+org.apache.hadoop.mapred.gridmix.FilePool		0.90909094
+org.apache.hadoop.mapred.gridmix.Statistics.JobStats		0.85714287
+org.apache.hadoop.mapred.gridmix.FilePool.MinFileFilter		0.84615386
+org.apache.hadoop.mapred.gridmix.Statistics		0.8375
+org.apache.hadoop.mapred.gridmix.JobFactory.MinTaskInfo		0.8333333
+org.apache.hadoop.mapred.gridmix.ExecutionSummarizer		0.8235294
+org.apache.hadoop.mapred.gridmix.InputStriper		0.8030303
+org.apache.hadoop.mapred.gridmix.Statistics.ClusterStats		0.8
+org.apache.hadoop.mapred.gridmix.JobSubmitter		0.7878788
+org.apache.hadoop.mapred.gridmix.StressJobFactory.StressReaderThread		0.75714284
+org.apache.hadoop.mapred.gridmix.EchoUserResolver		0.75
+org.apache.hadoop.mapred.gridmix.Statistics.StatCollector		0.7222222
+org.apache.hadoop.mapred.gridmix.JobMonitor.MonitorThread		0.6666667
+org.apache.hadoop.mapred.gridmix.GridmixJob		0.6421053
+org.apache.hadoop.mapred.gridmix.GenerateData.GenSplit		0.5862069
+org.apache.hadoop.mapred.gridmix.JobFactory.FilterJobStory		0.5714286
+org.apache.hadoop.mapred.gridmix.JobMonitor		0.55263156
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil		0.5510204
+org.apache.hadoop.mapred.gridmix.JobSubmitter.SubmitTask		0.54
+org.apache.hadoop.mapred.gridmix.JobFactory		0.5135135
+org.apache.hadoop.mapred.gridmix.LoadJob.LoadInputFormat		0.5
+org.apache.hadoop.mapred.gridmix.Gridmix		0.49836066
+org.apache.hadoop.mapred.gridmix.FilePool.InnerDesc		0.47297296
+org.apache.hadoop.mapred.gridmix.GenerateData.GenDataFormat		0.4390244
+org.apache.hadoop.mapred.gridmix.StressJobFactory		0.43835616
+org.apache.hadoop.mapred.gridmix.FilePool.LeafDesc		0.4347826
+org.apache.hadoop.mapred.gridmix.GridmixJobSubmissionPolicy		0.35714287
+org.apache.hadoop.mapred.gridmix.LoadSplit		0.3553719
+org.apache.hadoop.mapred.gridmix.GenerateData		0.33962265
+org.apache.hadoop.mapred.gridmix.RandomTextDataGenerator		0.33333334
+org.apache.hadoop.mapred.gridmix.JobCreator		0.27027026
+org.apache.hadoop.mapred.gridmix.DistributedCacheEmulator		0.13259669
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil.CompressionRatioLookupTable		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridmixSubmission_testTraceReader_1j
+org.apache.hadoop.mapred.gridmix.Summarizer		0.2631579
+org.apache.hadoop.mapred.gridmix.Gridmix		0.026229508
+org.apache.hadoop.mapred.gridmix.ExecutionSummarizer		0.022058824
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridmixSummary
+TestGridmixSummary		0.97590363
+TestGridmixSummary.FakeJobFactory		0.8
+TestGridmixSummary.FakeJobFactory.FakeJobStoryProducer		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridmixSummary_testClusterSummarizer_1o
+org.apache.hadoop.mapred.gridmix.ClusterSummarizer		0.61764705
+org.apache.hadoop.mapred.gridmix.Statistics.ClusterStats		0.46666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridmixSummary_testDataStatistics_1c
+org.apache.hadoop.mapred.gridmix.GenerateData.DataStatistics		1.0
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil.CompressionRatioLookupTable		0.9
+org.apache.hadoop.mapred.gridmix.GenerateData		0.43396226
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil		0.21088435
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestGridmixSummary_testExecutionSummarizer_17
+org.apache.hadoop.mapred.gridmix.GenerateData.DataStatistics		1.0
+org.apache.hadoop.mapred.gridmix.ExecutionSummarizer		0.7352941
+org.apache.hadoop.mapred.gridmix.Statistics.JobStats		0.71428573
+org.apache.hadoop.mapred.gridmix.GridmixJobSubmissionPolicy		0.42857143
+org.apache.hadoop.mapred.gridmix.JobFactory		0.17567568
+org.apache.hadoop.mapred.gridmix.JobCreator		0.054054055
+org.apache.hadoop.mapred.gridmix.Gridmix		0.006557377
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestHighRamJob
+TestHighRamJob		0.9354839
+TestHighRamJob.DummyGridmixJob		0.75
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestHighRamJob_testHighRamFeatureEmulation_e
+org.apache.hadoop.mapred.gridmix.GridmixJob		0.50526315
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestLoadJob
+TestLoadJob		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestLoadJob_testReplaySubmit_3
+org.apache.hadoop.mapred.gridmix.GenerateData.DataStatistics		1.0
+org.apache.hadoop.mapred.gridmix.ReplayJobFactory		1.0
+org.apache.hadoop.mapred.gridmix.Summarizer		1.0
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil.CompressionRatioLookupTable		0.9714286
+org.apache.hadoop.mapred.gridmix.LoadJob		0.96103895
+org.apache.hadoop.mapred.gridmix.ClusterSummarizer		0.9411765
+org.apache.hadoop.mapred.gridmix.FilePool		0.90909094
+org.apache.hadoop.mapred.gridmix.Statistics.JobStats		0.85714287
+org.apache.hadoop.mapred.gridmix.FilePool.MinFileFilter		0.84615386
+org.apache.hadoop.mapred.gridmix.Statistics		0.8375
+org.apache.hadoop.mapred.gridmix.JobFactory.MinTaskInfo		0.8333333
+org.apache.hadoop.mapred.gridmix.ExecutionSummarizer		0.8235294
+org.apache.hadoop.mapred.gridmix.InputStriper		0.8030303
+org.apache.hadoop.mapred.gridmix.JobSubmitter		0.7878788
+org.apache.hadoop.mapred.gridmix.ReplayJobFactory.ReplayReaderThread		0.7837838
+org.apache.hadoop.mapred.gridmix.EchoUserResolver		0.75
+org.apache.hadoop.mapred.gridmix.Statistics.StatCollector		0.7222222
+org.apache.hadoop.mapred.gridmix.JobMonitor.MonitorThread		0.6666667
+org.apache.hadoop.mapred.gridmix.JobFactory.FilterJobStory		0.64285713
+org.apache.hadoop.mapred.gridmix.GridmixJob		0.6421053
+org.apache.hadoop.mapred.gridmix.JobSubmitter.SubmitTask		0.6
+org.apache.hadoop.mapred.gridmix.GenerateData.GenSplit		0.5862069
+org.apache.hadoop.mapred.gridmix.JobMonitor		0.55263156
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil		0.5510204
+org.apache.hadoop.mapred.gridmix.JobFactory		0.5135135
+org.apache.hadoop.mapred.gridmix.LoadJob.LoadInputFormat		0.5
+org.apache.hadoop.mapred.gridmix.Gridmix		0.49836066
+org.apache.hadoop.mapred.gridmix.FilePool.InnerDesc		0.47297296
+org.apache.hadoop.mapred.gridmix.Statistics.ClusterStats		0.46666667
+org.apache.hadoop.mapred.gridmix.GenerateData.GenDataFormat		0.4390244
+org.apache.hadoop.mapred.gridmix.FilePool.LeafDesc		0.4347826
+org.apache.hadoop.mapred.gridmix.GridmixJobSubmissionPolicy		0.35714287
+org.apache.hadoop.mapred.gridmix.LoadSplit		0.3553719
+org.apache.hadoop.mapred.gridmix.GenerateData		0.33962265
+org.apache.hadoop.mapred.gridmix.RandomTextDataGenerator		0.33333334
+org.apache.hadoop.mapred.gridmix.JobCreator		0.27027026
+org.apache.hadoop.mapred.gridmix.DistributedCacheEmulator		0.13259669
+org.apache.hadoop.mapred.gridmix.PseudoLocalFs		0.078125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestLoadJob_testSerialSubmit_o
+org.apache.hadoop.mapred.gridmix.GenerateData.DataStatistics		1.0
+org.apache.hadoop.mapred.gridmix.Summarizer		1.0
+org.apache.hadoop.mapred.gridmix.LoadJob		0.96103895
+org.apache.hadoop.mapred.gridmix.ClusterSummarizer		0.9411765
+org.apache.hadoop.mapred.gridmix.FilePool		0.90909094
+org.apache.hadoop.mapred.gridmix.SerialJobFactory		0.85714287
+org.apache.hadoop.mapred.gridmix.Statistics.JobStats		0.85714287
+org.apache.hadoop.mapred.gridmix.FilePool.MinFileFilter		0.84615386
+org.apache.hadoop.mapred.gridmix.Statistics		0.8375
+org.apache.hadoop.mapred.gridmix.JobFactory.MinTaskInfo		0.8333333
+org.apache.hadoop.mapred.gridmix.ExecutionSummarizer		0.8235294
+org.apache.hadoop.mapred.gridmix.InputStriper		0.8030303
+org.apache.hadoop.mapred.gridmix.SerialJobFactory.SerialReaderThread		0.78846157
+org.apache.hadoop.mapred.gridmix.JobSubmitter		0.7878788
+org.apache.hadoop.mapred.gridmix.EchoUserResolver		0.75
+org.apache.hadoop.mapred.gridmix.Statistics.StatCollector		0.6666667
+org.apache.hadoop.mapred.gridmix.JobMonitor.MonitorThread		0.65384614
+org.apache.hadoop.mapred.gridmix.GridmixJob		0.6421053
+org.apache.hadoop.mapred.gridmix.GenerateData.GenSplit		0.5862069
+org.apache.hadoop.mapred.gridmix.JobFactory.FilterJobStory		0.5714286
+org.apache.hadoop.mapred.gridmix.JobMonitor		0.55263156
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil		0.5510204
+org.apache.hadoop.mapred.gridmix.JobSubmitter.SubmitTask		0.54
+org.apache.hadoop.mapred.gridmix.JobFactory		0.5135135
+org.apache.hadoop.mapred.gridmix.LoadJob.LoadInputFormat		0.5
+org.apache.hadoop.mapred.gridmix.Gridmix		0.49836066
+org.apache.hadoop.mapred.gridmix.FilePool.InnerDesc		0.47297296
+org.apache.hadoop.mapred.gridmix.GenerateData.GenDataFormat		0.4390244
+org.apache.hadoop.mapred.gridmix.FilePool.LeafDesc		0.4347826
+org.apache.hadoop.mapred.gridmix.Statistics.ClusterStats		0.4
+org.apache.hadoop.mapred.gridmix.GridmixJobSubmissionPolicy		0.35714287
+org.apache.hadoop.mapred.gridmix.LoadSplit		0.3553719
+org.apache.hadoop.mapred.gridmix.GenerateData		0.33962265
+org.apache.hadoop.mapred.gridmix.RandomTextDataGenerator		0.33333334
+org.apache.hadoop.mapred.gridmix.JobCreator		0.27027026
+org.apache.hadoop.mapred.gridmix.DistributedCacheEmulator		0.13259669
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil.CompressionRatioLookupTable		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestPseudoLocalFs
+TestPseudoLocalFs		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestPseudoLocalFs_testPseudoLocalFsFileNames_1l
+org.apache.hadoop.mapred.gridmix.PseudoLocalFs		0.78125
+org.apache.hadoop.mapred.gridmix.PseudoLocalFs.RandomInputStream		0.084745765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestPseudoLocalFs_testPseudoLocalFsFileSize_8
+org.apache.hadoop.mapred.gridmix.PseudoLocalFs.RandomInputStream		0.55932206
+org.apache.hadoop.mapred.gridmix.PseudoLocalFs		0.53125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestRandomAlgorithm
+TestRandomAlgorithm		0.969697
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestRandomAlgorithm_testRandomSelectSelector_k
+org.apache.hadoop.mapred.gridmix.RandomAlgorithms.DenseIndexMapper		0.92
+org.apache.hadoop.mapred.gridmix.RandomAlgorithms.SparseIndexMapper		0.8
+org.apache.hadoop.mapred.gridmix.RandomAlgorithms.Selector		0.79310346
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestRandomAlgorithm_testRandomSelect_1r
+org.apache.hadoop.mapred.gridmix.RandomAlgorithms		1.0
+org.apache.hadoop.mapred.gridmix.RandomAlgorithms.DenseIndexMapper		0.76
+org.apache.hadoop.mapred.gridmix.RandomAlgorithms.SparseIndexMapper		0.6666667
+org.apache.hadoop.mapred.gridmix.RandomAlgorithms.Selector		0.55172414
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestRandomTextDataGenerator
+TestRandomTextDataGenerator		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestRandomTextDataGenerator_testRandomTextDataGeneratorRepeatability_1b
+org.apache.hadoop.mapred.gridmix.RandomTextDataGenerator		0.3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestRandomTextDataGenerator_testRandomTextDataGeneratorUniqueness_1k
+org.apache.hadoop.mapred.gridmix.RandomTextDataGenerator		0.3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestRandomTextDataGenerator_testRandomTextDataGenerator_z
+org.apache.hadoop.mapred.gridmix.RandomTextDataGenerator		0.3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestRecordFactory
+TestRecordFactory		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestRecordFactory_testAvg_20
+org.apache.hadoop.mapred.gridmix.AvgRecordFactory		0.59183675
+org.apache.hadoop.mapred.gridmix.GridmixRecord		0.34013605
+org.apache.hadoop.mapred.gridmix.GridmixKey		0.184
+org.apache.hadoop.mapred.gridmix.GridmixKey.Spec		0.029411765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestRecordFactory_testRandom_16
+org.apache.hadoop.mapred.gridmix.AvgRecordFactory		0.6122449
+org.apache.hadoop.mapred.gridmix.GridmixRecord		0.3605442
+org.apache.hadoop.mapred.gridmix.GridmixKey		0.184
+org.apache.hadoop.mapred.gridmix.GridmixKey.Spec		0.029411765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestRecordFactory_testZero_1p
+org.apache.hadoop.mapred.gridmix.AvgRecordFactory		0.6122449
+org.apache.hadoop.mapred.gridmix.GridmixRecord		0.34013605
+org.apache.hadoop.mapred.gridmix.GridmixKey		0.184
+org.apache.hadoop.mapred.gridmix.GridmixKey.Spec		0.029411765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestResourceUsageEmulators
+TestResourceUsageEmulators		0.8467742
+TestResourceUsageEmulators.TestResourceUsageEmulatorPlugin		0.7826087
+TestResourceUsageEmulators.TestOthers		1.0
+TestResourceUsageEmulators.TestCpu		1.0
+TestResourceUsageEmulators.FakeResourceUsageMonitor		1.0
+TestResourceUsageEmulators.FakeProgressive		1.0
+TestResourceUsageEmulators.DummyReporter		0.0
+TestResourceUsageEmulators.FakeResourceUsageMatcherRunner		0.0
+TestResourceUsageEmulators.FakeCpuUsageEmulatorCore		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestResourceUsageEmulators_testCpuUsageEmulator_d
+org.apache.hadoop.mapred.gridmix.emulators.resourceusage.CumulativeCpuUsageEmulatorPlugin.DefaultCpuUsageEmulator		0.6666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestResourceUsageEmulators_testCumulativeCpuUsageEmulatorPlugin_v
+org.apache.hadoop.mapred.gridmix.emulators.resourceusage.CumulativeCpuUsageEmulatorPlugin		0.9019608
+org.apache.hadoop.mapred.gridmix.emulators.resourceusage.CumulativeCpuUsageEmulatorPlugin.DefaultCpuUsageEmulator		0.8333333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestResourceUsageEmulators_testResourceUsageMatcherRunner_r
+org.apache.hadoop.mapred.gridmix.emulators.resourceusage.ResourceUsageMatcher		0.53333336
+org.apache.hadoop.mapred.gridmix.LoadJob.ResourceUsageMatcherRunner		0.3846154
+org.apache.hadoop.mapred.gridmix.LoadJob.ResourceUsageMatcherRunner.BoostingProgress		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestResourceUsageEmulators_testResourceUsageMatcher_y
+org.apache.hadoop.mapred.gridmix.emulators.resourceusage.ResourceUsageMatcher		0.53333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestSleepJob
+TestSleepJob		0.9298246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestSleepJob_testMapTasksOnlySleepJobs_s
+org.apache.hadoop.mapred.gridmix.RandomAlgorithms.DenseIndexMapper		0.92
+org.apache.hadoop.mapred.gridmix.SleepJob		0.8023256
+org.apache.hadoop.mapred.gridmix.RandomAlgorithms.Selector		0.7586207
+org.apache.hadoop.mapred.gridmix.GridmixJob		0.48947367
+org.apache.hadoop.mapred.gridmix.SleepJob.SleepSplit		0.42592594
+org.apache.hadoop.mapred.gridmix.JobCreator		0.1891892
+org.apache.hadoop.mapred.gridmix.SleepJob.SleepInputFormat		0.06451613
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestSleepJob_testRandomLocation_h
+org.apache.hadoop.mapred.gridmix.RandomAlgorithms.DenseIndexMapper		0.92
+org.apache.hadoop.mapred.gridmix.RandomAlgorithms.Selector		0.7586207
+org.apache.hadoop.mapred.gridmix.SleepJob		0.6627907
+org.apache.hadoop.mapred.gridmix.JobCreator		0.5675676
+org.apache.hadoop.mapred.gridmix.GridmixJob		0.5
+org.apache.hadoop.mapred.gridmix.SleepJob.SleepSplit		0.16666667
+org.apache.hadoop.mapred.gridmix.SleepJob.SleepInputFormat		0.06451613
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestSleepJob_testReplaySubmit_1i
+org.apache.hadoop.mapred.gridmix.GenerateData.DataStatistics		1.0
+org.apache.hadoop.mapred.gridmix.ReplayJobFactory		1.0
+org.apache.hadoop.mapred.gridmix.Summarizer		1.0
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil.CompressionRatioLookupTable		0.9714286
+org.apache.hadoop.mapred.gridmix.ClusterSummarizer		0.9411765
+org.apache.hadoop.mapred.gridmix.SleepJob		0.872093
+org.apache.hadoop.mapred.gridmix.Statistics.JobStats		0.85714287
+org.apache.hadoop.mapred.gridmix.Statistics		0.85
+org.apache.hadoop.mapred.gridmix.FilePool.MinFileFilter		0.84615386
+org.apache.hadoop.mapred.gridmix.RandomAlgorithms.DenseIndexMapper		0.84
+org.apache.hadoop.mapred.gridmix.ExecutionSummarizer		0.8235294
+org.apache.hadoop.mapred.gridmix.JobSubmitter		0.7878788
+org.apache.hadoop.mapred.gridmix.ReplayJobFactory.ReplayReaderThread		0.7837838
+org.apache.hadoop.mapred.gridmix.RandomAlgorithms.Selector		0.7586207
+org.apache.hadoop.mapred.gridmix.EchoUserResolver		0.75
+org.apache.hadoop.mapred.gridmix.Statistics.StatCollector		0.7222222
+org.apache.hadoop.mapred.gridmix.JobFactory.FilterJobStory		0.71428573
+org.apache.hadoop.mapred.gridmix.JobMonitor.MonitorThread		0.6666667
+org.apache.hadoop.mapred.gridmix.GridmixJob		0.6263158
+org.apache.hadoop.mapred.gridmix.JobSubmitter.SubmitTask		0.6
+org.apache.hadoop.mapred.gridmix.FilePool		0.59090906
+org.apache.hadoop.mapred.gridmix.GenerateData.GenSplit		0.5862069
+org.apache.hadoop.mapred.gridmix.JobMonitor		0.55263156
+org.apache.hadoop.mapred.gridmix.Gridmix		0.49836066
+org.apache.hadoop.mapred.gridmix.Statistics.ClusterStats		0.46666667
+org.apache.hadoop.mapred.gridmix.SleepJob.SleepSplit		0.46296296
+org.apache.hadoop.mapred.gridmix.GenerateData.GenDataFormat		0.4390244
+org.apache.hadoop.mapred.gridmix.JobFactory		0.43243244
+org.apache.hadoop.mapred.gridmix.GridmixJobSubmissionPolicy		0.35714287
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil		0.3537415
+org.apache.hadoop.mapred.gridmix.FilePool.InnerDesc		0.35135135
+org.apache.hadoop.mapred.gridmix.JobCreator		0.35135135
+org.apache.hadoop.mapred.gridmix.GenerateData		0.33962265
+org.apache.hadoop.mapred.gridmix.RandomTextDataGenerator		0.33333334
+org.apache.hadoop.mapred.gridmix.FilePool.LeafDesc		0.13043478
+org.apache.hadoop.mapred.gridmix.DistributedCacheEmulator		0.1160221
+org.apache.hadoop.mapred.gridmix.PseudoLocalFs		0.078125
+org.apache.hadoop.mapred.gridmix.SleepJob.SleepInputFormat		0.06451613
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestSleepJob_testSerialSubmit_18
+org.apache.hadoop.mapred.gridmix.GenerateData.DataStatistics		1.0
+org.apache.hadoop.mapred.gridmix.ReplayJobFactory		1.0
+org.apache.hadoop.mapred.gridmix.Summarizer		1.0
+org.apache.hadoop.mapred.gridmix.ClusterSummarizer		0.9411765
+org.apache.hadoop.mapred.gridmix.RandomAlgorithms.DenseIndexMapper		0.92
+org.apache.hadoop.mapred.gridmix.Statistics.JobStats		0.85714287
+org.apache.hadoop.mapred.gridmix.FilePool.MinFileFilter		0.84615386
+org.apache.hadoop.mapred.gridmix.Statistics		0.8375
+org.apache.hadoop.mapred.gridmix.ExecutionSummarizer		0.8235294
+org.apache.hadoop.mapred.gridmix.SleepJob		0.8023256
+org.apache.hadoop.mapred.gridmix.JobSubmitter		0.7878788
+org.apache.hadoop.mapred.gridmix.ReplayJobFactory.ReplayReaderThread		0.7837838
+org.apache.hadoop.mapred.gridmix.RandomAlgorithms.Selector		0.7586207
+org.apache.hadoop.mapred.gridmix.EchoUserResolver		0.75
+org.apache.hadoop.mapred.gridmix.Statistics.StatCollector		0.7222222
+org.apache.hadoop.mapred.gridmix.JobFactory.FilterJobStory		0.71428573
+org.apache.hadoop.mapred.gridmix.JobMonitor.MonitorThread		0.6666667
+org.apache.hadoop.mapred.gridmix.GridmixJob		0.6263158
+org.apache.hadoop.mapred.gridmix.JobSubmitter.SubmitTask		0.6
+org.apache.hadoop.mapred.gridmix.FilePool		0.59090906
+org.apache.hadoop.mapred.gridmix.GenerateData.GenSplit		0.5862069
+org.apache.hadoop.mapred.gridmix.JobMonitor		0.55263156
+org.apache.hadoop.mapred.gridmix.Gridmix		0.49836066
+org.apache.hadoop.mapred.gridmix.GenerateData.GenDataFormat		0.4390244
+org.apache.hadoop.mapred.gridmix.JobFactory		0.43243244
+org.apache.hadoop.mapred.gridmix.SleepJob.SleepSplit		0.42592594
+org.apache.hadoop.mapred.gridmix.Statistics.ClusterStats		0.4
+org.apache.hadoop.mapred.gridmix.GridmixJobSubmissionPolicy		0.35714287
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil		0.3537415
+org.apache.hadoop.mapred.gridmix.FilePool.InnerDesc		0.35135135
+org.apache.hadoop.mapred.gridmix.JobCreator		0.35135135
+org.apache.hadoop.mapred.gridmix.GenerateData		0.33962265
+org.apache.hadoop.mapred.gridmix.RandomTextDataGenerator		0.33333334
+org.apache.hadoop.mapred.gridmix.FilePool.LeafDesc		0.13043478
+org.apache.hadoop.mapred.gridmix.DistributedCacheEmulator		0.1160221
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil.CompressionRatioLookupTable		0.071428575
+org.apache.hadoop.mapred.gridmix.SleepJob.SleepInputFormat		0.06451613
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestSleepJob_testStressSubmit_1x
+org.apache.hadoop.mapred.gridmix.GenerateData.DataStatistics		1.0
+org.apache.hadoop.mapred.gridmix.ReplayJobFactory		1.0
+org.apache.hadoop.mapred.gridmix.Summarizer		1.0
+org.apache.hadoop.mapred.gridmix.ClusterSummarizer		0.9411765
+org.apache.hadoop.mapred.gridmix.RandomAlgorithms.DenseIndexMapper		0.92
+org.apache.hadoop.mapred.gridmix.Statistics.JobStats		0.85714287
+org.apache.hadoop.mapred.gridmix.Statistics		0.85
+org.apache.hadoop.mapred.gridmix.FilePool.MinFileFilter		0.84615386
+org.apache.hadoop.mapred.gridmix.ExecutionSummarizer		0.8235294
+org.apache.hadoop.mapred.gridmix.SleepJob		0.8023256
+org.apache.hadoop.mapred.gridmix.JobSubmitter		0.7878788
+org.apache.hadoop.mapred.gridmix.ReplayJobFactory.ReplayReaderThread		0.7837838
+org.apache.hadoop.mapred.gridmix.RandomAlgorithms.Selector		0.7586207
+org.apache.hadoop.mapred.gridmix.EchoUserResolver		0.75
+org.apache.hadoop.mapred.gridmix.Statistics.StatCollector		0.7222222
+org.apache.hadoop.mapred.gridmix.JobFactory.FilterJobStory		0.71428573
+org.apache.hadoop.mapred.gridmix.JobMonitor.MonitorThread		0.6666667
+org.apache.hadoop.mapred.gridmix.GridmixJob		0.6263158
+org.apache.hadoop.mapred.gridmix.JobSubmitter.SubmitTask		0.6
+org.apache.hadoop.mapred.gridmix.FilePool		0.59090906
+org.apache.hadoop.mapred.gridmix.GenerateData.GenSplit		0.5862069
+org.apache.hadoop.mapred.gridmix.JobMonitor		0.55263156
+org.apache.hadoop.mapred.gridmix.Gridmix		0.49836066
+org.apache.hadoop.mapred.gridmix.GenerateData.GenDataFormat		0.4390244
+org.apache.hadoop.mapred.gridmix.JobFactory		0.43243244
+org.apache.hadoop.mapred.gridmix.SleepJob.SleepSplit		0.42592594
+org.apache.hadoop.mapred.gridmix.Statistics.ClusterStats		0.4
+org.apache.hadoop.mapred.gridmix.GridmixJobSubmissionPolicy		0.35714287
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil		0.3537415
+org.apache.hadoop.mapred.gridmix.FilePool.InnerDesc		0.35135135
+org.apache.hadoop.mapred.gridmix.JobCreator		0.35135135
+org.apache.hadoop.mapred.gridmix.GenerateData		0.33962265
+org.apache.hadoop.mapred.gridmix.RandomTextDataGenerator		0.33333334
+org.apache.hadoop.mapred.gridmix.FilePool.LeafDesc		0.13043478
+org.apache.hadoop.mapred.gridmix.DistributedCacheEmulator		0.1160221
+org.apache.hadoop.mapred.gridmix.CompressionEmulationUtil.CompressionRatioLookupTable		0.071428575
+org.apache.hadoop.mapred.gridmix.SleepJob.SleepInputFormat		0.06451613
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestUserResolve
+TestUserResolve		0.9807692
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestUserResolve_testRoundRobinResolver_21
+org.apache.hadoop.mapred.gridmix.RoundRobinUserResolver		0.84126985
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-tools/hadoop-gridmix/target/clover/org/apache/hadoop/mapred/gridmix/TestUserResolve_testSubmitterResolver_x
+org.apache.hadoop.mapred.gridmix.SubmitterUserResolver		0.7777778
+-- -- -- -- -- -- -- -- -- -- -- -- --

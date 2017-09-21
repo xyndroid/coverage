@@ -1,0 +1,30 @@
+./platforms/camel-catalog-rest/target/site/clover/org/apache/camel
+./platforms/camel-catalog-rest/target/site/clover/org/apache/camel/catalog/rest/CamelCatalogRestTest
+CamelCatalogRestTest		0.94736844
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-rest/target/site/clover/org/apache/camel/catalog/rest/CamelCatalogRestTest_testComponentJSonSchema_3
+org.apache.camel.catalog.rest.CamelCatalogRest		0.025641026
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-rest/target/site/clover/org/apache/camel/catalog/rest/CamelCatalogRestTest_testFindComponentLabels_2
+org.apache.camel.catalog.rest.CamelCatalogRest		0.025641026
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-rest/target/site/clover/org/apache/camel/catalog/rest/CamelCatalogSwaggerTest
+CamelCatalogSwaggerTest		0.962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-rest/target/site/clover/org/apache/camel/catalog/rest/CamelCatalogSwaggerTest_testSwagger_0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-rest/target/site/clover/org/apache/camel/catalog/rest/CamelConnectorCatalogRestTest
+CamelConnectorCatalogRestTest		0.95
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-rest/target/site/clover/org/apache/camel/catalog/rest/CamelConnectorCatalogRestTest_testEmptyFindConnectors_4
+org.apache.camel.catalog.rest.CamelConnectorCatalogRest		0.11111111
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-rest/target/site/clover/org/apache/camel/catalog/rest/CamelConnectorCatalogRestTest_testFindConnectors_1
+org.apache.camel.catalog.rest.CamelConnectorCatalogRest		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-rest/target/site/clover/org/apache/camel/catalog/rest/test-CamelCatalogRestTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-rest/target/site/clover/org/apache/camel/catalog/rest/test-CamelCatalogSwaggerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/camel-catalog-rest/target/site/clover/org/apache/camel/catalog/rest/test-CamelConnectorCatalogRestTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

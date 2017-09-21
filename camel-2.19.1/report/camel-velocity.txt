@@ -1,0 +1,263 @@
+./components/camel-velocity/target/site/clover/org/apache/camel
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityBodyAsDomainObjectTest
+VelocityBodyAsDomainObjectTest		1.0
+VelocityBodyAsDomainObjectTest.MyPerson		0.8
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityBodyAsDomainObjectTest_testWithObject_e
+org.apache.camel.component.velocity.CamelVelocityClasspathResourceLoader		0.8181818
+org.apache.camel.component.velocity.VelocityEndpoint		0.5555556
+org.apache.camel.component.velocity.CamelVelocityDelegateClassLoader		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityConcurrentTest
+VelocityConcurrentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityConcurrentTest_testConcurrentProducers_q
+org.apache.camel.component.velocity.CamelVelocityClasspathResourceLoader		0.8181818
+org.apache.camel.component.velocity.VelocityEndpoint		0.5648148
+org.apache.camel.component.velocity.CamelVelocityDelegateClassLoader		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityConcurrentTest_testNoConcurrentProducers_v
+org.apache.camel.component.velocity.CamelVelocityClasspathResourceLoader		0.8181818
+org.apache.camel.component.velocity.VelocityEndpoint		0.5555556
+org.apache.camel.component.velocity.CamelVelocityDelegateClassLoader		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityContentCacheTest
+VelocityContentCacheTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityContentCacheTest_testCachedIsDefault_x
+org.apache.camel.component.velocity.CamelVelocityClasspathResourceLoader		0.8181818
+org.apache.camel.component.velocity.VelocityEndpoint		0.5648148
+org.apache.camel.component.velocity.CamelVelocityDelegateClassLoader		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityContentCacheTest_testCached_t
+org.apache.camel.component.velocity.CamelVelocityClasspathResourceLoader		0.8181818
+org.apache.camel.component.velocity.VelocityEndpoint		0.5648148
+org.apache.camel.component.velocity.CamelVelocityDelegateClassLoader		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityContentCacheTest_testClearCacheViaJmx_4
+org.apache.camel.component.velocity.CamelVelocityClasspathResourceLoader		0.8181818
+org.apache.camel.component.velocity.VelocityEndpoint		0.5648148
+org.apache.camel.component.velocity.CamelVelocityDelegateClassLoader		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityContentCacheTest_testNotCached_5
+org.apache.camel.component.velocity.CamelVelocityClasspathResourceLoader		0.8181818
+org.apache.camel.component.velocity.VelocityEndpoint		0.5648148
+org.apache.camel.component.velocity.CamelVelocityDelegateClassLoader		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityDynamicTemplateTest
+VelocityDynamicTemplateTest		1.0
+VelocityDynamicTemplateTest.MyBean		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityDynamicTemplateTest_testVelocityLetter_a
+org.apache.camel.component.velocity.CamelVelocityClasspathResourceLoader		1.0
+org.apache.camel.component.velocity.VelocityComponent		0.7222222
+org.apache.camel.component.velocity.VelocityEndpoint		0.6111111
+org.apache.camel.component.velocity.CamelVelocityDelegateClassLoader		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityEncodingTest
+VelocityEncodingTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityEncodingTest_testVelocityLetter_d
+org.apache.camel.component.velocity.CamelVelocityClasspathResourceLoader		0.8181818
+org.apache.camel.component.velocity.VelocityEndpoint		0.5555556
+org.apache.camel.component.velocity.CamelVelocityDelegateClassLoader		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityEndpointTest
+VelocityEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityEndpointTest_testVelocityContext_b
+org.apache.camel.component.velocity.CamelVelocityClasspathResourceLoader		0.8181818
+org.apache.camel.component.velocity.VelocityEndpoint		0.5092593
+org.apache.camel.component.velocity.CamelVelocityDelegateClassLoader		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityEndpointTest_testVelocityLetter_8
+org.apache.camel.component.velocity.CamelVelocityClasspathResourceLoader		0.8181818
+org.apache.camel.component.velocity.VelocityEndpoint		0.5555556
+org.apache.camel.component.velocity.CamelVelocityDelegateClassLoader		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityFileLetterTest
+VelocityFileLetterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityFileLetterTest_testVelocityLetter_p
+org.apache.camel.component.velocity.CamelVelocityClasspathResourceLoader		1.0
+org.apache.camel.component.velocity.VelocityEndpoint		0.5555556
+org.apache.camel.component.velocity.CamelVelocityDelegateClassLoader		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityFileLetterWithPropertyTest
+VelocityFileLetterWithPropertyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityFileLetterWithPropertyTest_testVelocityLetter_o
+org.apache.camel.component.velocity.CamelVelocityClasspathResourceLoader		1.0
+org.apache.camel.component.velocity.VelocityEndpoint		0.5555556
+org.apache.camel.component.velocity.CamelVelocityDelegateClassLoader		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityLetterTest
+VelocityLetterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityLetterTest_testVelocityLetter_s
+org.apache.camel.component.velocity.CamelVelocityClasspathResourceLoader		1.0
+org.apache.camel.component.velocity.VelocityEndpoint		0.5555556
+org.apache.camel.component.velocity.CamelVelocityDelegateClassLoader		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityLetterWithPaserTest
+VelocityLetterWithPaserTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityLetterWithPaserTest_testVelocityLetter_j
+org.apache.camel.component.velocity.VelocityEndpoint		0.6018519
+org.apache.camel.component.velocity.CamelVelocityDelegateClassLoader		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityLetterWithoutHeaderTest
+VelocityLetterWithoutHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityLetterWithoutHeaderTest_testVelocityLetter_1
+org.apache.camel.component.velocity.CamelVelocityClasspathResourceLoader		0.8181818
+org.apache.camel.component.velocity.VelocityEndpoint		0.5555556
+org.apache.camel.component.velocity.CamelVelocityDelegateClassLoader		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityMethodInvokationTest
+VelocityMethodInvokationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityMethodInvokationTest_testVelocityLetter_f
+org.apache.camel.component.velocity.CamelVelocityClasspathResourceLoader		0.8181818
+org.apache.camel.component.velocity.VelocityEndpoint		0.5555556
+org.apache.camel.component.velocity.CamelVelocityDelegateClassLoader		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityOverridesPropertiesTest
+VelocityOverridesPropertiesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityOverridesPropertiesTest_testOverridingProperties_n
+org.apache.camel.component.velocity.CamelVelocityClasspathResourceLoader		0.8181818
+org.apache.camel.component.velocity.VelocityEndpoint		0.6018519
+org.apache.camel.component.velocity.CamelVelocityDelegateClassLoader		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocitySetHeaderTest
+VelocitySetHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocitySetHeaderTest_testSendingApple_w
+org.apache.camel.component.velocity.CamelVelocityClasspathResourceLoader		0.8181818
+org.apache.camel.component.velocity.VelocityEndpoint		0.5555556
+org.apache.camel.component.velocity.CamelVelocityDelegateClassLoader		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocitySetHeaderTest_testSendingOrgane_0
+org.apache.camel.component.velocity.CamelVelocityClasspathResourceLoader		0.8181818
+org.apache.camel.component.velocity.VelocityEndpoint		0.5555556
+org.apache.camel.component.velocity.CamelVelocityDelegateClassLoader		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocitySetTemplateViaHeaderTest
+VelocitySetTemplateViaHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocitySetTemplateViaHeaderTest_testVelocityLetter_g
+org.apache.camel.component.velocity.CamelVelocityClasspathResourceLoader		1.0
+org.apache.camel.component.velocity.VelocityEndpoint		0.7037037
+org.apache.camel.component.velocity.VelocityComponent		0.5
+org.apache.camel.component.velocity.CamelVelocityDelegateClassLoader		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocitySomeValuesNotInExchangeTest
+VelocitySomeValuesNotInExchangeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocitySomeValuesNotInExchangeTest_testWithAllValues_l
+org.apache.camel.component.velocity.CamelVelocityClasspathResourceLoader		0.8181818
+org.apache.camel.component.velocity.VelocityEndpoint		0.5555556
+org.apache.camel.component.velocity.CamelVelocityDelegateClassLoader		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocitySomeValuesNotInExchangeTest_testWithSomeValues_k
+org.apache.camel.component.velocity.CamelVelocityClasspathResourceLoader		0.8181818
+org.apache.camel.component.velocity.VelocityEndpoint		0.5555556
+org.apache.camel.component.velocity.CamelVelocityDelegateClassLoader		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocitySupplementalContextTest
+VelocitySupplementalContextTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocitySupplementalContextTest_testCamelRoute_3
+org.apache.camel.component.velocity.CamelVelocityClasspathResourceLoader		0.8181818
+org.apache.camel.component.velocity.VelocityEndpoint		0.5462963
+org.apache.camel.component.velocity.CamelVelocityDelegateClassLoader		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityTemplateInHeaderTest
+VelocityTemplateInHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityTemplateInHeaderTest_testReceivesBarResponse_h
+org.apache.camel.component.velocity.CamelVelocityClasspathResourceLoader		0.8181818
+org.apache.camel.component.velocity.VelocityEndpoint		0.537037
+org.apache.camel.component.velocity.CamelVelocityDelegateClassLoader		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityTemplateInHeaderTest_testReceivesFooResponse_r
+org.apache.camel.component.velocity.CamelVelocityClasspathResourceLoader		0.8181818
+org.apache.camel.component.velocity.VelocityEndpoint		0.537037
+org.apache.camel.component.velocity.CamelVelocityDelegateClassLoader		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityTemplateInHeaderTest_testRespectHeaderNamesCamelCase_z
+org.apache.camel.component.velocity.CamelVelocityClasspathResourceLoader		0.8181818
+org.apache.camel.component.velocity.VelocityEndpoint		0.537037
+org.apache.camel.component.velocity.CamelVelocityDelegateClassLoader		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityTemplateInHeaderTest_testRespectHeaderNamesUpperCase_7
+org.apache.camel.component.velocity.CamelVelocityClasspathResourceLoader		0.8181818
+org.apache.camel.component.velocity.VelocityEndpoint		0.537037
+org.apache.camel.component.velocity.CamelVelocityDelegateClassLoader		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityTest
+VelocityTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityTest_testVelocityContext_2
+org.apache.camel.component.velocity.CamelVelocityClasspathResourceLoader		0.8181818
+org.apache.camel.component.velocity.VelocityEndpoint		0.5092593
+org.apache.camel.component.velocity.CamelVelocityDelegateClassLoader		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityTest_testVelocityLetter_6
+org.apache.camel.component.velocity.CamelVelocityClasspathResourceLoader		0.8181818
+org.apache.camel.component.velocity.VelocityEndpoint		0.5555556
+org.apache.camel.component.velocity.CamelVelocityDelegateClassLoader		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityValuesInPropertiesTest
+VelocityValuesInPropertiesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/VelocityValuesInPropertiesTest_testVelocityLetter_c
+org.apache.camel.component.velocity.CamelVelocityClasspathResourceLoader		0.8181818
+org.apache.camel.component.velocity.VelocityEndpoint		0.537037
+org.apache.camel.component.velocity.CamelVelocityDelegateClassLoader		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/test-VelocityBodyAsDomainObjectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/test-VelocityBodyAsDomainObjectTest_MyPerson
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/test-VelocityConcurrentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/test-VelocityContentCacheTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/test-VelocityDynamicTemplateTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/test-VelocityDynamicTemplateTest_MyBean
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/test-VelocityEncodingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/test-VelocityEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/test-VelocityFileLetterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/test-VelocityFileLetterWithPropertyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/test-VelocityLetterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/test-VelocityLetterWithPaserTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/test-VelocityLetterWithoutHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/test-VelocityMethodInvokationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/test-VelocityOverridesPropertiesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/test-VelocitySetHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/test-VelocitySetTemplateViaHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/test-VelocitySomeValuesNotInExchangeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/test-VelocitySupplementalContextTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/test-VelocityTemplateInHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/test-VelocityTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-velocity/target/site/clover/org/apache/camel/component/velocity/test-VelocityValuesInPropertiesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

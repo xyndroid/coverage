@@ -1,0 +1,22 @@
+./platforms/spring-boot/components-starter/camel-core-starter/target/site/clover/org/apache/camel
+./platforms/spring-boot/components-starter/camel-core-starter/target/site/clover/org/apache/camel/component/test/springboot/TestComponentAutoConfiguration
+TestComponentAutoConfiguration		0.0
+TestComponentAutoConfiguration.Condition		0.8181818
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-core-starter/target/site/clover/org/apache/camel/component/test/springboot/TestComponentConfiguration
+TestComponentConfiguration		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-core-starter/target/site/clover/org/apache/camel/model/rest/springboot/CamelRestTest
+CamelRestTest		1.0
+CamelRestTest.TestConfiguration		1.0
+CamelRestTest.TestConsumerFactory		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-core-starter/target/site/clover/org/apache/camel/model/rest/springboot/CamelRestTest_test_2
+test
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-core-starter/target/site/clover/org/apache/camel/model/rest/springboot/test-CamelRestTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-core-starter/target/site/clover/org/apache/camel/model/rest/springboot/test-CamelRestTest_TestConfiguration
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./platforms/spring-boot/components-starter/camel-core-starter/target/site/clover/org/apache/camel/model/rest/springboot/test-CamelRestTest_TestConsumerFactory
+-- -- -- -- -- -- -- -- -- -- -- -- --

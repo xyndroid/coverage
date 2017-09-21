@@ -1,0 +1,887 @@
+./components/camel-reactive-streams/target/site/clover/org/apache/camel
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/BackpressurePublisherRoutePolicyTest
+BackpressurePublisherRoutePolicyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/BackpressurePublisherRoutePolicyTest_testThatBackpressureCausesTemporaryRouteStop_11
+testThatBackpressureCausesTemporaryRouteStop
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.85714287
+org.apache.camel.component.reactive.streams.ReactiveStreamsComponent		0.73333335
+org.apache.camel.component.reactive.streams.util.ReactiveStreamsServiceCreationHelper		0.73333335
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.68421054
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.63829786
+org.apache.camel.component.reactive.streams.engine.UnwrappingPublisher		0.6363636
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.59090906
+org.apache.camel.component.reactive.streams.engine.ReactiveStreamsEngineConfiguration		0.53846157
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.3888889
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.11931818
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/BackpressurePublisherRoutePolicyTest_testThatRouteRestartsOnUnsubscription_1n
+testThatRouteRestartsOnUnsubscription
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.85714287
+org.apache.camel.component.reactive.streams.ReactiveStreamsComponent		0.73333335
+org.apache.camel.component.reactive.streams.util.ReactiveStreamsServiceCreationHelper		0.73333335
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.71929824
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.67424244
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.63829786
+org.apache.camel.component.reactive.streams.engine.UnwrappingPublisher		0.6363636
+org.apache.camel.component.reactive.streams.engine.ReactiveStreamsEngineConfiguration		0.53846157
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.3888889
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.11931818
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/BackpressureStrategyTest
+BackpressureStrategyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/BackpressureStrategyTest_testBackpressureBufferStrategy_m
+testBackpressureBufferStrategy
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.85714287
+org.apache.camel.component.reactive.streams.ReactiveStreamsComponent		0.73333335
+org.apache.camel.component.reactive.streams.util.ReactiveStreamsServiceCreationHelper		0.73333335
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.7017544
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.6666667
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.63829786
+org.apache.camel.component.reactive.streams.engine.UnwrappingPublisher		0.6363636
+org.apache.camel.component.reactive.streams.engine.ReactiveStreamsEngineConfiguration		0.53846157
+org.apache.camel.component.reactive.streams.util.ConvertingPublisher		0.4814815
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.3888889
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.11931818
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/BackpressureStrategyTest_testBackpressureDropStrategyInEndpoint_19
+testBackpressureDropStrategyInEndpoint
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.85714287
+org.apache.camel.component.reactive.streams.ReactiveStreamsConverter		0.8181818
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.77272725
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.75438595
+org.apache.camel.component.reactive.streams.ReactiveStreamsComponent		0.73333335
+org.apache.camel.component.reactive.streams.util.ReactiveStreamsServiceCreationHelper		0.73333335
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.63829786
+org.apache.camel.component.reactive.streams.engine.UnwrappingPublisher		0.6363636
+org.apache.camel.component.reactive.streams.ReactiveStreamsDiscardedException		0.6
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.5555556
+org.apache.camel.component.reactive.streams.engine.ReactiveStreamsEngineConfiguration		0.53846157
+org.apache.camel.component.reactive.streams.util.ConvertingPublisher		0.4814815
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.44444445
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.11931818
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/BackpressureStrategyTest_testBackpressureDropStrategy_1o
+testBackpressureDropStrategy
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.ReactiveStreamsComponent		0.8666667
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.85714287
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.74242425
+org.apache.camel.component.reactive.streams.util.ReactiveStreamsServiceCreationHelper		0.73333335
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.7017544
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.63829786
+org.apache.camel.component.reactive.streams.engine.UnwrappingPublisher		0.6363636
+org.apache.camel.component.reactive.streams.ReactiveStreamsDiscardedException		0.6
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.5555556
+org.apache.camel.component.reactive.streams.engine.ReactiveStreamsEngineConfiguration		0.53846157
+org.apache.camel.component.reactive.streams.util.ConvertingPublisher		0.4814815
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.3888889
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.11931818
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/BackpressureStrategyTest_testBackpressureLatestStrategy_0
+testBackpressureLatestStrategy
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.ReactiveStreamsComponent		0.8666667
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.85714287
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.74242425
+org.apache.camel.component.reactive.streams.util.ReactiveStreamsServiceCreationHelper		0.73333335
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.7017544
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.63829786
+org.apache.camel.component.reactive.streams.engine.UnwrappingPublisher		0.6363636
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.6111111
+org.apache.camel.component.reactive.streams.ReactiveStreamsDiscardedException		0.6
+org.apache.camel.component.reactive.streams.engine.ReactiveStreamsEngineConfiguration		0.53846157
+org.apache.camel.component.reactive.streams.util.ConvertingPublisher		0.4814815
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.3888889
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.11931818
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/BackpressureSubscriberTest
+BackpressureSubscriberTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/BackpressureSubscriberTest_testBackpressure_p
+testBackpressure
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.util.ConvertingSubscriber		0.61538464
+org.apache.camel.component.reactive.streams.engine.CamelSubscriber		0.43548387
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.33333334
+org.apache.camel.component.reactive.streams.ReactiveStreamsConsumer		0.3090909
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.2982456
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.23404256
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.21212122
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.11111111
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.08522727
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/BackpressureSubscriberTest_testParallelSlowBackpressure_3
+testParallelSlowBackpressure
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.util.ConvertingSubscriber		0.61538464
+org.apache.camel.component.reactive.streams.engine.CamelSubscriber		0.4516129
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.33333334
+org.apache.camel.component.reactive.streams.ReactiveStreamsConsumer		0.3090909
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.2982456
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.23404256
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.21212122
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.11111111
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.08522727
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/BackpressureSubscriberTest_testSlowerBackpressure_y
+testSlowerBackpressure
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.util.ConvertingSubscriber		0.61538464
+org.apache.camel.component.reactive.streams.engine.CamelSubscriber		0.4516129
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.33333334
+org.apache.camel.component.reactive.streams.ReactiveStreamsConsumer		0.3090909
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.2982456
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.23404256
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.21212122
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.11111111
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.08522727
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/BasicPublisherTest
+BasicPublisherTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/BasicPublisherTest_testMultipleSubscriptions_1k
+testMultipleSubscriptions
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.85714287
+org.apache.camel.component.reactive.streams.ReactiveStreamsComponent		0.73333335
+org.apache.camel.component.reactive.streams.util.ReactiveStreamsServiceCreationHelper		0.73333335
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.71929824
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.6666667
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.63829786
+org.apache.camel.component.reactive.streams.engine.UnwrappingPublisher		0.6363636
+org.apache.camel.component.reactive.streams.engine.ReactiveStreamsEngineConfiguration		0.53846157
+org.apache.camel.component.reactive.streams.util.ConvertingPublisher		0.4814815
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.3888889
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.11931818
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/BasicPublisherTest_testOnlyOneCamelProducerPerPublisher_q
+testOnlyOneCamelProducerPerPublisher
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.95238096
+org.apache.camel.component.reactive.streams.ReactiveStreamsComponent		0.73333335
+org.apache.camel.component.reactive.streams.util.ReactiveStreamsServiceCreationHelper		0.73333335
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.59574467
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.57894737
+org.apache.camel.component.reactive.streams.engine.ReactiveStreamsEngineConfiguration		0.53846157
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.3888889
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.21212122
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/BasicPublisherTest_testWorking_1e
+testWorking
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.85714287
+org.apache.camel.component.reactive.streams.ReactiveStreamsComponent		0.73333335
+org.apache.camel.component.reactive.streams.util.ReactiveStreamsServiceCreationHelper		0.73333335
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.6666667
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.63829786
+org.apache.camel.component.reactive.streams.engine.UnwrappingPublisher		0.6363636
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.59090906
+org.apache.camel.component.reactive.streams.engine.ReactiveStreamsEngineConfiguration		0.53846157
+org.apache.camel.component.reactive.streams.util.ConvertingPublisher		0.4814815
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.3888889
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.11931818
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/BasicSubscriberTest
+BasicSubscriberTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/BasicSubscriberTest_testWorking_16
+testWorking
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.54545456
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.3859649
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.3809524
+org.apache.camel.component.reactive.streams.engine.CamelSubscriber		0.27419356
+org.apache.camel.component.reactive.streams.ReactiveStreamsConsumer		0.25454545
+org.apache.camel.component.reactive.streams.util.ConvertingSubscriber		0.23076923
+org.apache.camel.component.reactive.streams.engine.UnwrappingPublisher		0.21212122
+org.apache.camel.component.reactive.streams.util.ConvertingPublisher		0.2037037
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.055555556
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.03409091
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/BeanCallTest
+BeanCallTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/BeanCallTest_beanCallEmptyPublisherTest_14
+beanCallEmptyPublisherTest
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.ReactiveStreamsConverter		0.8181818
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.33333334
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.2982456
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.21212122
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.util.UnwrapStreamProcessor		0.13333334
+org.apache.camel.component.reactive.streams.util.MonoPublisher		0.10526316
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.03409091
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/BeanCallTest_beanCallHeaderMappingTest_h
+beanCallHeaderMappingTest
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.ReactiveStreamsConverter		0.8181818
+org.apache.camel.component.reactive.streams.util.MonoPublisher		0.68421054
+org.apache.camel.component.reactive.streams.util.UnwrapStreamProcessor		0.5555556
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.33333334
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.2982456
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.21212122
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.03409091
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/BeanCallTest_beanCallStdReturnTypeTest_w
+beanCallStdReturnTypeTest
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.ReactiveStreamsConverter		0.8181818
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.33333334
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.2982456
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.21212122
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.util.UnwrapStreamProcessor		0.13333334
+org.apache.camel.component.reactive.streams.util.MonoPublisher		0.10526316
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.03409091
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/BeanCallTest_beanCallTest_4
+beanCallTest
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.ReactiveStreamsConverter		0.8181818
+org.apache.camel.component.reactive.streams.util.MonoPublisher		0.68421054
+org.apache.camel.component.reactive.streams.util.UnwrapStreamProcessor		0.5555556
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.33333334
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.2982456
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.21212122
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.03409091
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/BeanCallTest_beanCallTwoElementsTest_o
+beanCallTwoElementsTest
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.ReactiveStreamsConverter		0.8181818
+org.apache.camel.component.reactive.streams.util.MonoPublisher		0.68421054
+org.apache.camel.component.reactive.streams.util.UnwrapStreamProcessor		0.5555556
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.33333334
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.2982456
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.21212122
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.03409091
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/BeanCallTest_beanCallWithErrorTest_e
+beanCallWithErrorTest
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.ReactiveStreamsConverter		0.8181818
+org.apache.camel.component.reactive.streams.util.MonoPublisher		0.7894737
+org.apache.camel.component.reactive.streams.util.UnwrapStreamProcessor		0.4888889
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.33333334
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.2982456
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.21212122
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.03409091
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/CamelReactiveStreamsTest
+CamelReactiveStreamsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/CamelReactiveStreamsTest_testDefaultService_x
+testDefaultService
+org.apache.camel.component.reactive.streams.util.ReactiveStreamsServiceCreationHelper		0.6666667
+org.apache.camel.component.reactive.streams.engine.ReactiveStreamsEngineConfiguration		0.53846157
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.5319149
+org.apache.camel.component.reactive.streams.ReactiveStreamsComponent		0.26666668
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.039772727
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/CamelReactiveStreamsTest_testNamedServiceResolvedUsingFactory_5
+testNamedServiceResolvedUsingFactory
+org.apache.camel.component.reactive.streams.util.ReactiveStreamsServiceCreationHelper		0.6666667
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.5319149
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/CamelReactiveStreamsTest_testOnlyOneNamedService_t
+testOnlyOneNamedService
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.5531915
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/CamelReactiveStreamsTest_testOnlyOneService_c
+testOnlyOneService
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.68085104
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/CamelReactiveStreamsTest_testSameDefaultServiceReturned_18
+testSameDefaultServiceReturned
+org.apache.camel.component.reactive.streams.util.ReactiveStreamsServiceCreationHelper		0.6666667
+org.apache.camel.component.reactive.streams.engine.ReactiveStreamsEngineConfiguration		0.53846157
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.5319149
+org.apache.camel.component.reactive.streams.ReactiveStreamsComponent		0.26666668
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.039772727
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/CamelReactiveStreamsTest_testSameNamedServiceReturnedFromRegistry_a
+testSameNamedServiceReturnedFromRegistry
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.5106383
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/CamelReactiveStreamsTest_testSameServiceReturnedFromRegistry_1l
+testSameServiceReturnedFromRegistry
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.61702126
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/ConcurrentConsumersTest
+ConcurrentConsumersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/ConcurrentConsumersTest_testMultipleConsumers_10
+testMultipleConsumers
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.util.ConvertingSubscriber		0.61538464
+org.apache.camel.component.reactive.streams.engine.CamelSubscriber		0.4516129
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.33333334
+org.apache.camel.component.reactive.streams.ReactiveStreamsConsumer		0.3090909
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.2982456
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.23404256
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.21212122
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.11111111
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.08522727
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/ConcurrentConsumersTest_testSingleConsumer_1g
+testSingleConsumer
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.util.ConvertingSubscriber		0.61538464
+org.apache.camel.component.reactive.streams.engine.CamelSubscriber		0.43548387
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.33333334
+org.apache.camel.component.reactive.streams.ReactiveStreamsConsumer		0.3090909
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.2982456
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.23404256
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.21212122
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.11111111
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.08522727
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/DelayedMonoPublisherTest
+DelayedMonoPublisherTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/DelayedMonoPublisherTest_testAlreadyAvailable_1f
+testAlreadyAvailable
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher.MonoSubscription		0.6666667
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher		0.5555556
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.33333334
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.2982456
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.21212122
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.03409091
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/DelayedMonoPublisherTest_testAvailableLater_b
+testAvailableLater
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher.MonoSubscription		0.7222222
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher		0.6031746
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.33333334
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.2982456
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.21212122
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.03409091
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/DelayedMonoPublisherTest_testAvailableSoon_z
+testAvailableSoon
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher.MonoSubscription		0.6111111
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher		0.41269842
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/DelayedMonoPublisherTest_testDataOrExceptionAllowed2_1h
+testDataOrExceptionAllowed2
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher		0.31746033
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/DelayedMonoPublisherTest_testDataOrExceptionAllowed_k
+testDataOrExceptionAllowed
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher		0.34920636
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/DelayedMonoPublisherTest_testDelayedRequest_r
+testDelayedRequest
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher.MonoSubscription		0.7222222
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher		0.6031746
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.33333334
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.2982456
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.21212122
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.03409091
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/DelayedMonoPublisherTest_testExceptionAlreadyAvailable_i
+testExceptionAlreadyAvailable
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher.MonoSubscription		0.5833333
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher		0.41269842
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/DelayedMonoPublisherTest_testMultipleSubscribersMixedArrivalException_13
+testMultipleSubscribersMixedArrivalException
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher.MonoSubscription		0.6944444
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher		0.6031746
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.33333334
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.2982456
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.21212122
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.03409091
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/DelayedMonoPublisherTest_testMultipleSubscribersMixedArrival_6
+testMultipleSubscribersMixedArrival
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher.MonoSubscription		0.7222222
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher		0.6031746
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.33333334
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.2982456
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.21212122
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.03409091
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/DelayedMonoPublisherTest_testMultipleSubscribers_l
+testMultipleSubscribers
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher.MonoSubscription		0.7222222
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher		0.6031746
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.33333334
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.2982456
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.21212122
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.03409091
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/DelayedMonoPublisherTest_testOnlyOneDataAllowed_1
+testOnlyOneDataAllowed
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher		0.26984128
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/DelayedMonoPublisherTest_testOnlyOneExceptionAllowed_j
+testOnlyOneExceptionAllowed
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher		0.26984128
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/DirectClientAPITest
+DirectClientAPITest		1.0
+DirectClientAPITest.SampleBean		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/DirectClientAPITest_testDirectCallFromCamelWithConversion_8
+testDirectCallFromCamelWithConversion
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.util.MonoPublisher		0.68421054
+org.apache.camel.component.reactive.streams.util.ConvertingPublisher		0.5555556
+org.apache.camel.component.reactive.streams.util.UnwrapStreamProcessor		0.5555556
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.33333334
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.2982456
+org.apache.camel.component.reactive.streams.ReactiveStreamsComponent		0.26666668
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.21212122
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/DirectClientAPITest_testDirectCallFromCamel_17
+testDirectCallFromCamel
+org.apache.camel.component.reactive.streams.util.MonoPublisher		0.68421054
+org.apache.camel.component.reactive.streams.util.UnwrapStreamProcessor		0.6666667
+org.apache.camel.component.reactive.streams.ReactiveStreamsComponent		0.26666668
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.045454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/DirectClientAPITest_testDirectCallOverload_7
+testDirectCallOverload
+org.apache.camel.component.reactive.streams.ReactiveStreamsConverter		0.8181818
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher.MonoSubscription		0.6666667
+org.apache.camel.component.reactive.streams.ReactiveStreamsComponent		0.6
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher		0.5555556
+org.apache.camel.component.reactive.streams.util.ConvertingPublisher		0.5555556
+org.apache.camel.component.reactive.streams.ReactiveStreamsConsumer		0.45454547
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.3888889
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.2215909
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.19148937
+org.apache.camel.component.reactive.streams.engine.CamelSubscriber		0.14516129
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/DirectClientAPITest_testDirectCallWithExchangeOverload_d
+testDirectCallWithExchangeOverload
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.ReactiveStreamsConverter		0.8181818
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher.MonoSubscription		0.6666667
+org.apache.camel.component.reactive.streams.ReactiveStreamsComponent		0.6
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher		0.5555556
+org.apache.camel.component.reactive.streams.ReactiveStreamsConsumer		0.45454547
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.3888889
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.33333334
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.2982456
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.24431819
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.21212122
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.19148937
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.CamelSubscriber		0.14516129
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/DirectClientAPITest_testDirectCallWithExchange_1q
+testDirectCallWithExchange
+org.apache.camel.component.reactive.streams.ReactiveStreamsConverter		0.8181818
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher.MonoSubscription		0.6666667
+org.apache.camel.component.reactive.streams.ReactiveStreamsComponent		0.6
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher		0.5555556
+org.apache.camel.component.reactive.streams.ReactiveStreamsConsumer		0.45454547
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.3888889
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.2215909
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.19148937
+org.apache.camel.component.reactive.streams.engine.CamelSubscriber		0.14516129
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/DirectClientAPITest_testDirectCall_2
+testDirectCall
+org.apache.camel.component.reactive.streams.ReactiveStreamsConverter		0.8181818
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher.MonoSubscription		0.6666667
+org.apache.camel.component.reactive.streams.ReactiveStreamsComponent		0.6
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher		0.5555556
+org.apache.camel.component.reactive.streams.util.ConvertingPublisher		0.5555556
+org.apache.camel.component.reactive.streams.ReactiveStreamsConsumer		0.45454547
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.3888889
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.23295455
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.19148937
+org.apache.camel.component.reactive.streams.engine.CamelSubscriber		0.14516129
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/DirectClientAPITest_testDirectSendAndForget_s
+testDirectSendAndForget
+org.apache.camel.component.reactive.streams.util.ConvertingSubscriber		0.61538464
+org.apache.camel.component.reactive.streams.ReactiveStreamsComponent		0.6
+org.apache.camel.component.reactive.streams.engine.CamelSubscriber		0.516129
+org.apache.camel.component.reactive.streams.ReactiveStreamsConsumer		0.5090909
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.5
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.19148937
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/DirectClientAPITest_testFromDirectOnHotContext_1c
+testFromDirectOnHotContext
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.85714287
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.6666667
+org.apache.camel.component.reactive.streams.engine.UnwrappingPublisher		0.6363636
+org.apache.camel.component.reactive.streams.ReactiveStreamsComponent		0.6
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.59090906
+org.apache.camel.component.reactive.streams.util.ConvertingPublisher		0.4814815
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.3888889
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.19148937
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.11931818
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/DirectClientAPITest_testFromDirect_f
+testFromDirect
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.85714287
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.6666667
+org.apache.camel.component.reactive.streams.engine.UnwrappingPublisher		0.6363636
+org.apache.camel.component.reactive.streams.ReactiveStreamsComponent		0.6
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.52272725
+org.apache.camel.component.reactive.streams.util.ConvertingPublisher		0.4814815
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.3888889
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.19148937
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.11931818
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/DirectClientAPITest_testProxiedDirectCall_1i
+testProxiedDirectCall
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.ReactiveStreamsConverter		0.8181818
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher.MonoSubscription		0.7222222
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher		0.6031746
+org.apache.camel.component.reactive.streams.ReactiveStreamsComponent		0.6
+org.apache.camel.component.reactive.streams.util.ConvertingPublisher		0.5555556
+org.apache.camel.component.reactive.streams.ReactiveStreamsConsumer		0.45454547
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.3888889
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.26704547
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.24561404
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.21212122
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.19148937
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.CamelSubscriber		0.14516129
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/EventTypeTest
+EventTypeTest		0.9444444
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/EventTypeTest_testOnCompleteHeaderForwarded_n
+testOnCompleteHeaderForwarded
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.ReactiveStreamsComponent		0.73333335
+org.apache.camel.component.reactive.streams.util.ReactiveStreamsServiceCreationHelper		0.73333335
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.63829786
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.5555556
+org.apache.camel.component.reactive.streams.engine.ReactiveStreamsEngineConfiguration		0.53846157
+org.apache.camel.component.reactive.streams.ReactiveStreamsConsumer		0.45454547
+org.apache.camel.component.reactive.streams.engine.CamelSubscriber		0.38709676
+org.apache.camel.component.reactive.streams.util.ConvertingSubscriber		0.3846154
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.24561404
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.21212122
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.14772727
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/EventTypeTest_testOnCompleteHeaderNotForwarded_1d
+testOnCompleteHeaderNotForwarded
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.ReactiveStreamsComponent		0.73333335
+org.apache.camel.component.reactive.streams.util.ReactiveStreamsServiceCreationHelper		0.73333335
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.63829786
+org.apache.camel.component.reactive.streams.engine.ReactiveStreamsEngineConfiguration		0.53846157
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.5
+org.apache.camel.component.reactive.streams.engine.CamelSubscriber		0.38709676
+org.apache.camel.component.reactive.streams.util.ConvertingSubscriber		0.3846154
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.33333334
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.2982456
+org.apache.camel.component.reactive.streams.ReactiveStreamsConsumer		0.29090908
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.21212122
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.14772727
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/EventTypeTest_testOnErrorHeaderForwarded_1m
+testOnErrorHeaderForwarded
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.ReactiveStreamsComponent		0.73333335
+org.apache.camel.component.reactive.streams.util.ReactiveStreamsServiceCreationHelper		0.73333335
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.63829786
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.5555556
+org.apache.camel.component.reactive.streams.engine.ReactiveStreamsEngineConfiguration		0.53846157
+org.apache.camel.component.reactive.streams.ReactiveStreamsConsumer		0.47272727
+org.apache.camel.component.reactive.streams.util.ConvertingSubscriber		0.46153846
+org.apache.camel.component.reactive.streams.engine.CamelSubscriber		0.4032258
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.24561404
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.21212122
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.14772727
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/EventTypeTest_testOnErrorHeaderNotForwarded_g
+testOnErrorHeaderNotForwarded
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.ReactiveStreamsComponent		0.73333335
+org.apache.camel.component.reactive.streams.util.ReactiveStreamsServiceCreationHelper		0.73333335
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.63829786
+org.apache.camel.component.reactive.streams.engine.ReactiveStreamsEngineConfiguration		0.53846157
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.5
+org.apache.camel.component.reactive.streams.util.ConvertingSubscriber		0.46153846
+org.apache.camel.component.reactive.streams.engine.CamelSubscriber		0.4032258
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.33333334
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.2982456
+org.apache.camel.component.reactive.streams.ReactiveStreamsConsumer		0.29090908
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.21212122
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.14772727
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/EventTypeTest_testOnNextHeaderForwarded_u
+testOnNextHeaderForwarded
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.ReactiveStreamsComponent		0.73333335
+org.apache.camel.component.reactive.streams.util.ReactiveStreamsServiceCreationHelper		0.73333335
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.63829786
+org.apache.camel.component.reactive.streams.util.ConvertingSubscriber		0.61538464
+org.apache.camel.component.reactive.streams.engine.ReactiveStreamsEngineConfiguration		0.53846157
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.5
+org.apache.camel.component.reactive.streams.engine.CamelSubscriber		0.4919355
+org.apache.camel.component.reactive.streams.ReactiveStreamsConsumer		0.45454547
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.33333334
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.2982456
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.21212122
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.14772727
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/ExchangeRequestTest
+ExchangeRequestTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/ExchangeRequestTest_testInteraction_12
+testInteraction
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher.MonoSubscription		0.6388889
+org.apache.camel.component.reactive.streams.util.ConvertingPublisher		0.4814815
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher		0.41269842
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.23404256
+org.apache.camel.component.reactive.streams.ReactiveStreamsConsumer		0.21818182
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.14772727
+org.apache.camel.component.reactive.streams.engine.CamelSubscriber		0.016129032
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/ExchangeRequestTest_testMultipleInteractions_1b
+testMultipleInteractions
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher.MonoSubscription		0.6666667
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher		0.5555556
+org.apache.camel.component.reactive.streams.util.ConvertingPublisher		0.5555556
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.33333334
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.2982456
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.23404256
+org.apache.camel.component.reactive.streams.ReactiveStreamsConsumer		0.21818182
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.21212122
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.18181819
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.CamelSubscriber		0.016129032
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/ExchangeRequestTest_testStreamRequest_15
+testStreamRequest
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher.MonoSubscription		0.6388889
+org.apache.camel.component.reactive.streams.engine.DelayedMonoPublisher		0.41269842
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.24561404
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.23404256
+org.apache.camel.component.reactive.streams.ReactiveStreamsConsumer		0.21818182
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.21212122
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.1590909
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.14285715
+org.apache.camel.component.reactive.streams.engine.CamelSubscriber		0.016129032
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/PublisherTypeConversionTest
+PublisherTypeConversionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/PublisherTypeConversionTest_testConversion_1a
+testConversion
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.8095238
+org.apache.camel.component.reactive.streams.ReactiveStreamsComponent		0.73333335
+org.apache.camel.component.reactive.streams.util.ReactiveStreamsServiceCreationHelper		0.73333335
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.64912283
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.63829786
+org.apache.camel.component.reactive.streams.engine.UnwrappingPublisher		0.6363636
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.59090906
+org.apache.camel.component.reactive.streams.engine.ReactiveStreamsEngineConfiguration		0.53846157
+org.apache.camel.component.reactive.streams.util.ConvertingPublisher		0.4814815
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.3888889
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.13068181
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/platforms/AbstractPlatformTestSupport
+AbstractPlatformTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/platforms/ReactorCorePlatformTest
+ReactorCorePlatformTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/platforms/ReactorCorePlatformTest_testPublisher_v
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.7619048
+org.apache.camel.component.reactive.streams.ReactiveStreamsComponent		0.73333335
+org.apache.camel.component.reactive.streams.util.ReactiveStreamsServiceCreationHelper		0.73333335
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.63829786
+org.apache.camel.component.reactive.streams.engine.UnwrappingPublisher		0.6363636
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.61403507
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.59090906
+org.apache.camel.component.reactive.streams.engine.ReactiveStreamsEngineConfiguration		0.53846157
+org.apache.camel.component.reactive.streams.util.ConvertingPublisher		0.4814815
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.3888889
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.11931818
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/platforms/ReactorCorePlatformTest_testSubscriber_1r
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.ReactiveStreamsComponent		0.73333335
+org.apache.camel.component.reactive.streams.util.ReactiveStreamsServiceCreationHelper		0.73333335
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.63829786
+org.apache.camel.component.reactive.streams.util.ConvertingSubscriber		0.61538464
+org.apache.camel.component.reactive.streams.engine.ReactiveStreamsEngineConfiguration		0.53846157
+org.apache.camel.component.reactive.streams.engine.CamelSubscriber		0.516129
+org.apache.camel.component.reactive.streams.ReactiveStreamsConsumer		0.5090909
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.5
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.33333334
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.2982456
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.21212122
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.14772727
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/platforms/RxJava2PlatformTest
+RxJava2PlatformTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/platforms/RxJava2PlatformTest_testPublisher_9
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.7619048
+org.apache.camel.component.reactive.streams.ReactiveStreamsComponent		0.73333335
+org.apache.camel.component.reactive.streams.util.ReactiveStreamsServiceCreationHelper		0.73333335
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.63829786
+org.apache.camel.component.reactive.streams.engine.UnwrappingPublisher		0.6363636
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.61403507
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.59090906
+org.apache.camel.component.reactive.streams.engine.ReactiveStreamsEngineConfiguration		0.53846157
+org.apache.camel.component.reactive.streams.util.ConvertingPublisher		0.4814815
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.3888889
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.11931818
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/platforms/RxJava2PlatformTest_testSubscriber_1p
+org.apache.camel.component.reactive.streams.engine.StreamPayload		1.0
+org.apache.camel.component.reactive.streams.ReactiveStreamsComponent		0.73333335
+org.apache.camel.component.reactive.streams.util.ReactiveStreamsServiceCreationHelper		0.73333335
+org.apache.camel.component.reactive.streams.api.CamelReactiveStreams		0.63829786
+org.apache.camel.component.reactive.streams.util.ConvertingSubscriber		0.61538464
+org.apache.camel.component.reactive.streams.engine.ReactiveStreamsEngineConfiguration		0.53846157
+org.apache.camel.component.reactive.streams.engine.CamelSubscriber		0.516129
+org.apache.camel.component.reactive.streams.ReactiveStreamsConsumer		0.5090909
+org.apache.camel.component.reactive.streams.ReactiveStreamsEndpoint		0.5
+org.apache.camel.component.reactive.streams.engine.CamelPublisher		0.24561404
+org.apache.camel.component.reactive.streams.engine.CamelSubscription		0.21212122
+org.apache.camel.component.reactive.streams.ReactiveStreamsBackpressureStrategy		0.16666667
+org.apache.camel.component.reactive.streams.engine.DefaultCamelReactiveStreamsService		0.14772727
+org.apache.camel.component.reactive.streams.ReactiveStreamsProducer		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/platforms/test-AbstractPlatformTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/platforms/test-ReactorCorePlatformTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/platforms/test-RxJava2PlatformTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/support/ReactiveStreamsTestService
+ReactiveStreamsTestService		0.15384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/support/ReactiveStreamsTestSupport
+ReactiveStreamsTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/support/TestPublisher
+TestPublisher		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/support/TestSubscriber
+TestSubscriber		0.8333333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/support/test-ReactiveStreamsTestService
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/support/test-ReactiveStreamsTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/support/test-TestPublisher
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/support/test-TestSubscriber
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/tck/CamelPublisherConversionVerificationTest
+CamelPublisherConversionVerificationTest		0.9411765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/tck/CamelPublisherVerificationTest
+CamelPublisherVerificationTest		0.9411765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/tck/CamelSubscriberConversionVerificationTest
+CamelSubscriberConversionVerificationTest		0.93333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/tck/CamelSubscriberVerificationTest
+CamelSubscriberVerificationTest		0.9411765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/tck/test-CamelPublisherConversionVerificationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/tck/test-CamelPublisherVerificationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/tck/test-CamelSubscriberConversionVerificationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/tck/test-CamelSubscriberVerificationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/test-BackpressurePublisherRoutePolicyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/test-BackpressureStrategyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/test-BackpressureSubscriberTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/test-BasicPublisherTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/test-BasicSubscriberTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/test-BeanCallTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/test-CamelReactiveStreamsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/test-ConcurrentConsumersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/test-DelayedMonoPublisherTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/test-DirectClientAPITest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/test-DirectClientAPITest_SampleBean
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/test-EventTypeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/test-ExchangeRequestTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-reactive-streams/target/site/clover/org/apache/camel/component/reactive/streams/test-PublisherTypeConversionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

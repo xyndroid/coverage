@@ -1,0 +1,277 @@
+./components/camel-kubernetes/target/site/clover/org/apache/camel
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/KubernetesTestSupport
+KubernetesTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/cloud/ServiceCallClientRouteTest
+ServiceCallClientRouteTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/cloud/ServiceCallEnvironmentRouteTest
+ServiceCallEnvironmentRouteTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/cloud/SpringServiceCallClientRouteTest
+SpringServiceCallClientRouteTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/cloud/SpringServiceCallDnsRouteTest
+SpringServiceCallDnsRouteTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/cloud/SpringServiceCallEnvironmentRouteTest
+SpringServiceCallEnvironmentRouteTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/cloud/test-ServiceCallClientRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/cloud/test-ServiceCallEnvironmentRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/cloud/test-SpringServiceCallClientRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/cloud/test-SpringServiceCallDnsRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/cloud/test-SpringServiceCallEnvironmentRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/consumer/KubernetesNamespacesConsumerTest
+KubernetesNamespacesConsumerTest		0.27083334
+KubernetesNamespacesConsumerTest.KubernertesProcessor		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/consumer/KubernetesNamespacesConsumerTest_createAndDeletePod_x
+createAndDeletePod
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/consumer/KubernetesNodesConsumerTest
+KubernetesNodesConsumerTest		0.27659574
+KubernetesNodesConsumerTest.KubernertesProcessor		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/consumer/KubernetesNodesConsumerTest_createAndDeletePod_9
+createAndDeletePod
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/consumer/KubernetesPodsConsumerTest
+KubernetesPodsConsumerTest		0.27659574
+KubernetesPodsConsumerTest.KubernertesProcessor		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/consumer/KubernetesPodsConsumerTest_createAndDeletePod_q
+createAndDeletePod
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/consumer/KubernetesReplicationControllersConsumerTest
+KubernetesReplicationControllersConsumerTest		0.31707317
+KubernetesReplicationControllersConsumerTest.KubernertesProcessor		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/consumer/KubernetesReplicationControllersConsumerTest_createAndDeleteReplicationController_1a
+createAndDeleteReplicationController
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/consumer/KubernetesServicesConsumerTest
+KubernetesServicesConsumerTest		0.2888889
+KubernetesServicesConsumerTest.KubernertesProcessor		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/consumer/KubernetesServicesConsumerTest_createAndDeleteService_v
+createAndDeleteService
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/consumer/test-KubernetesNamespacesConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/consumer/test-KubernetesNamespacesConsumerTest_KubernertesProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/consumer/test-KubernetesNodesConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/consumer/test-KubernetesNodesConsumerTest_KubernertesProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/consumer/test-KubernetesPodsConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/consumer/test-KubernetesPodsConsumerTest_KubernertesProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/consumer/test-KubernetesReplicationControllersConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/consumer/test-KubernetesReplicationControllersConsumerTest_KubernertesProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/consumer/test-KubernetesServicesConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/consumer/test-KubernetesServicesConsumerTest_KubernertesProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesBuildConfigsProducerTest
+KubernetesBuildConfigsProducerTest		0.52
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesBuildConfigsProducerTest_listByLabelsTest_d
+listByLabelsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesBuildConfigsProducerTest_listTest_o
+listTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesBuildsProducerTest
+KubernetesBuildsProducerTest		0.52
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesBuildsProducerTest_listByLabelsTest_6
+listByLabelsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesBuildsProducerTest_listTest_10
+listTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesConfigMapsProducerTest
+KubernetesConfigMapsProducerTest		0.2962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesConfigMapsProducerTest_createGetAndDeleteConfigMap_0
+createGetAndDeleteConfigMap
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesConfigMapsProducerTest_getConfigMapTest_17
+getConfigMapTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesConfigMapsProducerTest_listByLabelsTest_12
+listByLabelsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesConfigMapsProducerTest_listTest_p
+listTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesNamespacesProducerTest
+KubernetesNamespacesProducerTest		0.27272728
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesNamespacesProducerTest_createAndDeleteNamespace_7
+createAndDeleteNamespace
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesNamespacesProducerTest_createListByLabelsAndDeleteNamespace_k
+createListByLabelsAndDeleteNamespace
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesNamespacesProducerTest_getNamespace_l
+getNamespace
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesNamespacesProducerTest_listTest_w
+listTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesNodesProducerTest
+KubernetesNodesProducerTest		0.52
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesNodesProducerTest_listByLabelsTest_4
+listByLabelsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesNodesProducerTest_listTest_1
+listTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesPersistentVolumesClaimsProducerTest
+KubernetesPersistentVolumesClaimsProducerTest		0.24358974
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesPersistentVolumesClaimsProducerTest_createListAndDeletePersistentVolumeClaim_e
+createListAndDeletePersistentVolumeClaim
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesPersistentVolumesClaimsProducerTest_listByLabelsTest_y
+listByLabelsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesPersistentVolumesClaimsProducerTest_listTest_16
+listTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesPersistentVolumesProducerTest
+KubernetesPersistentVolumesProducerTest		0.5416667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesPersistentVolumesProducerTest_listByLabelsTest_f
+listByLabelsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesPersistentVolumesProducerTest_listTest_11
+listTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesPodsProducerTest
+KubernetesPodsProducerTest		0.2580645
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesPodsProducerTest_createAndDeletePod_c
+createAndDeletePod
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesPodsProducerTest_getPodTest_19
+getPodTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesPodsProducerTest_listByLabelsTest_15
+listByLabelsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesPodsProducerTest_listTest_13
+listTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesReplicationControllersProducerTest
+KubernetesReplicationControllersProducerTest		0.23015873
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesReplicationControllersProducerTest_createAndDeleteReplicationController_m
+createAndDeleteReplicationController
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesReplicationControllersProducerTest_createScaleAndDeleteReplicationController_z
+createScaleAndDeleteReplicationController
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesReplicationControllersProducerTest_getReplicationControllerTest_i
+getReplicationControllerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesReplicationControllersProducerTest_listByLabelsTest_g
+listByLabelsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesReplicationControllersProducerTest_listTest_n
+listTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesResourcesQuotaProducerTest
+KubernetesResourcesQuotaProducerTest		0.34042552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesResourcesQuotaProducerTest_createAndDeleteResourceQuota_h
+createAndDeleteResourceQuota
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesResourcesQuotaProducerTest_listTest_t
+listTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesSecretsProducerTest
+KubernetesSecretsProducerTest		0.4477612
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesSecretsProducerTest_createAndDeleteSecret_8
+createAndDeleteSecret
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesSecretsProducerTest_getSecretTest_b
+getSecretTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesSecretsProducerTest_listByLabelsTest_2
+listByLabelsTest
+org.apache.camel.component.kubernetes.producer.KubernetesSecretsProducer		0.2254902
+org.apache.camel.component.kubernetes.KubernetesEndpoint		0.099236645
+org.apache.camel.component.kubernetes.KubernetesConfiguration		0.039215688
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesSecretsProducerTest_listTest_s
+listTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesServiceAccountsProducerTest
+KubernetesServiceAccountsProducerTest		0.29850745
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesServiceAccountsProducerTest_createAndDeleteServiceAccount_5
+createAndDeleteServiceAccount
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesServiceAccountsProducerTest_listByLabelsTest_18
+listByLabelsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesServiceAccountsProducerTest_listTest_j
+listTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesServicesProducerTest
+KubernetesServicesProducerTest		0.26373628
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesServicesProducerTest_createAndDeleteService_a
+createAndDeleteService
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesServicesProducerTest_getServiceTest_14
+getServiceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesServicesProducerTest_listByLabelsTest_r
+listByLabelsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/KubernetesServicesProducerTest_listTest_3
+listTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/test-KubernetesBuildConfigsProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/test-KubernetesBuildsProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/test-KubernetesConfigMapsProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/test-KubernetesNamespacesProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/test-KubernetesNodesProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/test-KubernetesPersistentVolumesClaimsProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/test-KubernetesPersistentVolumesProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/test-KubernetesPodsProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/test-KubernetesReplicationControllersProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/test-KubernetesResourcesQuotaProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/test-KubernetesSecretsProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/test-KubernetesServiceAccountsProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/producer/test-KubernetesServicesProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-kubernetes/target/site/clover/org/apache/camel/component/kubernetes/test-KubernetesTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --

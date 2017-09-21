@@ -1,0 +1,12 @@
+./examples/camel-example-loan-broker-jms/target/site/clover/org/apache/camel
+./examples/camel-example-loan-broker-jms/target/site/clover/org/apache/camel/loanbroker/LoanBrokerQueueTest
+LoanBrokerQueueTest		0.9444444
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-loan-broker-jms/target/site/clover/org/apache/camel/loanbroker/LoanBrokerQueueTest_testClientInvocation_0
+org.apache.camel.loanbroker.CreditAgencyProcessor		1.0
+org.apache.camel.loanbroker.ReplyProcessor		1.0
+org.apache.camel.loanbroker.BankResponseAggregationStrategy		0.8333333
+org.apache.camel.loanbroker.bank.BankProcessor		0.7
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-loan-broker-jms/target/site/clover/org/apache/camel/loanbroker/test-LoanBrokerQueueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

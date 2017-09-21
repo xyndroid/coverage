@@ -1,0 +1,161 @@
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/TestProxyUriUtils
+TestProxyUriUtils		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/TestProxyUriUtils_testGetPathAndQuery_1w
+testGetPathAndQuery
+org.apache.hadoop.yarn.server.webproxy.ProxyUriUtils		0.43037975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/TestProxyUriUtils_testGetPathAndQuery_b
+testGetPathAndQuery
+org.apache.hadoop.yarn.server.webproxy.ProxyUriUtils		0.43037975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/TestProxyUriUtils_testGetPathApplicationIdBad_8
+testGetPathApplicationIdBad
+org.apache.hadoop.yarn.server.webproxy.ProxyUriUtils		0.050632913
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/TestProxyUriUtils_testGetPathApplicationIdBad_j
+testGetPathApplicationIdBad
+org.apache.hadoop.yarn.server.webproxy.ProxyUriUtils		0.050632913
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/TestProxyUriUtils_testGetPathApplicationIdString_20
+testGetPathApplicationIdString
+org.apache.hadoop.yarn.server.webproxy.ProxyUriUtils		0.17721519
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/TestProxyUriUtils_testGetPathApplicationIdString_c
+testGetPathApplicationIdString
+org.apache.hadoop.yarn.server.webproxy.ProxyUriUtils		0.17721519
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/TestProxyUriUtils_testGetPathApplicationId_3e
+testGetPathApplicationId
+org.apache.hadoop.yarn.server.webproxy.ProxyUriUtils		0.101265825
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/TestProxyUriUtils_testGetPathApplicationId_f
+testGetPathApplicationId
+org.apache.hadoop.yarn.server.webproxy.ProxyUriUtils		0.101265825
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/TestProxyUriUtils_testGetProxyUriFromPluginsReturnsNullIfNoPlugins_2
+testGetProxyUriFromPluginsReturnsNullIfNoPlugins
+org.apache.hadoop.yarn.server.webproxy.ProxyUriUtils		0.050632913
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/TestProxyUriUtils_testGetProxyUriFromPluginsReturnsNullIfNoPlugins_4d
+testGetProxyUriFromPluginsReturnsNullIfNoPlugins
+org.apache.hadoop.yarn.server.webproxy.ProxyUriUtils		0.050632913
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/TestProxyUriUtils_testGetProxyUriFromPluginsReturnsValidUriWhenAble_0
+testGetProxyUriFromPluginsReturnsValidUriWhenAble
+org.apache.hadoop.yarn.server.webproxy.ProxyUriUtils		0.101265825
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/TestProxyUriUtils_testGetProxyUriFromPluginsReturnsValidUriWhenAble_2i
+testGetProxyUriFromPluginsReturnsValidUriWhenAble
+org.apache.hadoop.yarn.server.webproxy.ProxyUriUtils		0.101265825
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/TestProxyUriUtils_testGetProxyUriNull_3
+testGetProxyUriNull
+org.apache.hadoop.yarn.server.webproxy.ProxyUriUtils		0.24050634
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/TestProxyUriUtils_testGetProxyUriNull_k
+testGetProxyUriNull
+org.apache.hadoop.yarn.server.webproxy.ProxyUriUtils		0.24050634
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/TestProxyUriUtils_testGetProxyUri_1s
+testGetProxyUri
+org.apache.hadoop.yarn.server.webproxy.ProxyUriUtils		0.24050634
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/TestProxyUriUtils_testGetProxyUri_4
+testGetProxyUri
+org.apache.hadoop.yarn.server.webproxy.ProxyUriUtils		0.24050634
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/TestWebAppProxyServer
+TestWebAppProxyServer		0.95
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/TestWebAppProxyServer_testBindAddress_11
+testBindAddress
+org.apache.hadoop.yarn.server.webproxy.WebAppProxyServer		0.06666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/TestWebAppProxyServer_testBindAddress_9
+testBindAddress
+org.apache.hadoop.yarn.server.webproxy.WebAppProxyServer		0.06666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/TestWebAppProxyServer_testStart_6h
+testStart
+org.apache.hadoop.yarn.server.webproxy.WebAppProxy		0.21428572
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/TestWebAppProxyServer_testStart_7
+testStart
+org.apache.hadoop.yarn.server.webproxy.WebAppProxy		0.21428572
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/TestWebAppProxyServlet
+TestWebAppProxyServlet		0.95327103
+TestWebAppProxyServlet.TestServlet		0.14285715
+TestWebAppProxyServlet.WebAppProxyServerForTest		1.0
+TestWebAppProxyServlet.WebAppProxyForTest		0.8947368
+TestWebAppProxyServlet.AppReportFetcherForTest		0.94285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/TestWebAppProxyServlet_testWebAppProxyServerMainMethod_5
+testWebAppProxyServerMainMethod
+org.apache.hadoop.yarn.server.webproxy.WebAppProxyServer		0.6666667
+org.apache.hadoop.yarn.server.webproxy.WebAppProxy		0.64285713
+org.apache.hadoop.yarn.server.webproxy.AppReportFetcher		0.44444445
+org.apache.hadoop.yarn.server.webproxy.WebAppProxyServlet		0.14619882
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/TestWebAppProxyServlet_testWebAppProxyServerMainMethod_78
+testWebAppProxyServerMainMethod
+org.apache.hadoop.yarn.server.webproxy.WebAppProxyServer		0.6666667
+org.apache.hadoop.yarn.server.webproxy.WebAppProxy		0.64285713
+org.apache.hadoop.yarn.server.webproxy.AppReportFetcher		0.44444445
+org.apache.hadoop.yarn.server.webproxy.WebAppProxyServlet		0.14619882
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/TestWebAppProxyServlet_testWebAppProxyServlet_3b
+testWebAppProxyServlet
+org.apache.hadoop.yarn.server.webproxy.WebAppProxyServlet.Page		1.0
+org.apache.hadoop.yarn.server.webproxy.WebAppProxyServlet		0.8128655
+org.apache.hadoop.yarn.server.webproxy.ProxyUriUtils		0.6075949
+org.apache.hadoop.yarn.server.webproxy.AppReportFetcher		0.44444445
+org.apache.hadoop.yarn.server.webproxy.WebAppProxy		0.42857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/TestWebAppProxyServlet_testWebAppProxyServlet_d
+testWebAppProxyServlet
+org.apache.hadoop.yarn.server.webproxy.WebAppProxyServlet.Page		1.0
+org.apache.hadoop.yarn.server.webproxy.WebAppProxyServlet		0.8128655
+org.apache.hadoop.yarn.server.webproxy.ProxyUriUtils		0.6075949
+org.apache.hadoop.yarn.server.webproxy.AppReportFetcher		0.44444445
+org.apache.hadoop.yarn.server.webproxy.WebAppProxy		0.42857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/amfilter/TestAmFilter
+TestAmFilter		0.9814815
+TestAmFilter.TestAmIpFilter		0.85714287
+TestAmFilter.DummyFilterConfig		0.4
+TestAmFilter.HttpServletResponseForTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/amfilter/TestAmFilterInitializer
+TestAmFilterInitializer		1.0
+TestAmFilterInitializer.MockAmFilterInitializer		1.0
+TestAmFilterInitializer.MockFilterContainer		0.6666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/amfilter/TestAmFilterInitializer_testGetProxyHostsAndPortsForAmFilter_2z
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/amfilter/TestAmFilterInitializer_testGetProxyHostsAndPortsForAmFilter_6
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/amfilter/TestAmFilterInitializer_testInitFilter_4g
+org.apache.hadoop.yarn.server.webproxy.amfilter.AmFilterInitializer		0.8888889
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/amfilter/TestAmFilterInitializer_testInitFilter_a
+org.apache.hadoop.yarn.server.webproxy.amfilter.AmFilterInitializer		0.8888889
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/amfilter/TestAmFilter_filterNullCookies_72
+org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/amfilter/TestAmFilter_filterNullCookies_e
+org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/amfilter/TestAmFilter_testFilter_1
+org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpPrincipal		1.0
+org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpServletRequestWrapper		1.0
+org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter		0.6847826
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/clover/org/apache/hadoop/yarn/server/webproxy/amfilter/TestAmFilter_testFilter_2
+org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpPrincipal		1.0
+org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpServletRequestWrapper		1.0
+org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter		0.6847826
+-- -- -- -- -- -- -- -- -- -- -- -- --

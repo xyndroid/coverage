@@ -1,0 +1,26 @@
+./examples/camel-example-cdi-xml/target/site/clover/org/apache/camel
+./examples/camel-example-cdi-xml/target/site/clover/org/apache/camel/example/cdi/xml/CdiXmlTest
+CdiXmlTest		0.875
+CdiXmlTest.RescueMission		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cdi-xml/target/site/clover/org/apache/camel/example/cdi/xml/CdiXmlTest_takeTheBluePill_1
+takeTheBluePill
+org.apache.camel.example.cdi.xml.Application		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cdi-xml/target/site/clover/org/apache/camel/example/cdi/xml/CdiXmlTest_takeTheRedPill_4
+takeTheRedPill
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cdi-xml/target/site/clover/org/apache/camel/example/cdi/xml/CdiXmlTest_verifyRescue_0
+verifyRescue
+org.apache.camel.example.cdi.xml.Application		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cdi-xml/target/site/clover/org/apache/camel/example/cdi/xml/CdiXmlTest_verifyRescue_2
+verifyRescue
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cdi-xml/target/site/clover/org/apache/camel/example/cdi/xml/CdiXmlTest_verifyRescue_3
+verifyRescue
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cdi-xml/target/site/clover/org/apache/camel/example/cdi/xml/test-CdiXmlTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./examples/camel-example-cdi-xml/target/site/clover/org/apache/camel/example/cdi/xml/test-CdiXmlTest_RescueMission
+-- -- -- -- -- -- -- -- -- -- -- -- --

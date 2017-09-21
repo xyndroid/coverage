@@ -1,0 +1,1847 @@
+./components/camel-mllp/target/site/clover/org/apache/camel
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpExceptionTest
+MllpExceptionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpExceptionTest_testLogPhiDefault_3k
+org.apache.camel.component.mllp.MllpComponent		0.38181818
+org.apache.camel.component.mllp.MllpException		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpExceptionTest_testLogPhiDisabled_1a
+org.apache.camel.component.mllp.MllpException		0.2
+org.apache.camel.component.mllp.MllpComponent		0.054545455
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpExceptionTest_testLogPhiEnabled_49
+org.apache.camel.component.mllp.MllpComponent		0.38181818
+org.apache.camel.component.mllp.MllpException		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpExceptionTest_testNullHl7Acknowledgement_s
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.MllpException		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpExceptionTest_testNullHl7Message_43
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.MllpException		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpExceptionTest_testNullHl7Payloads_5y
+org.apache.camel.component.mllp.MllpException		0.2
+org.apache.camel.component.mllp.MllpComponent		0.12727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpProducerConsumerLoopbackTest
+MllpProducerConsumerLoopbackTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpProducerConsumerLoopbackTest_testLoopbackWithMultipleMessages_i
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerator		0.63529414
+org.apache.camel.component.mllp.MllpTcpClientProducer		0.5371429
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.5348101
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.44155845
+org.apache.camel.component.mllp.MllpComponent		0.3272727
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25980392
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.2
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.10227273
+org.apache.camel.component.mllp.MllpEndpoint		0.10091743
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpProducerConsumerLoopbackTest_testLoopbackWithOneMessage_1t
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerator		0.63529414
+org.apache.camel.component.mllp.MllpTcpClientProducer		0.5314286
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.51265824
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.44155845
+org.apache.camel.component.mllp.MllpComponent		0.3272727
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25980392
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.2
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.MllpEndpoint		0.10091743
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpClientProducerAcknowledgementTest
+MllpTcpClientProducerAcknowledgementTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpClientProducerAcknowledgementTest_testApplicationAcceptAcknowledgement_6
+org.apache.camel.component.mllp.MllpTcpClientProducer		0.5314286
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+org.apache.camel.component.mllp.MllpEndpoint		0.036697246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpClientProducerAcknowledgementTest_testApplicationErrorAcknowledgement_3c
+org.apache.camel.component.mllp.MllpNegativeAcknowledgementException		0.5
+org.apache.camel.component.mllp.MllpTcpClientProducer		0.4857143
+org.apache.camel.component.mllp.MllpComponent		0.38181818
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.MllpApplicationErrorAcknowledgementException		0.33333334
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.MllpException		0.2
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+org.apache.camel.component.mllp.MllpEndpoint		0.036697246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpClientProducerAcknowledgementTest_testApplicationRejectAcknowledgement_52
+org.apache.camel.component.mllp.MllpNegativeAcknowledgementException		0.5
+org.apache.camel.component.mllp.MllpTcpClientProducer		0.4857143
+org.apache.camel.component.mllp.MllpComponent		0.38181818
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.MllpApplicationRejectAcknowledgementException		0.33333334
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.MllpException		0.2
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+org.apache.camel.component.mllp.MllpEndpoint		0.036697246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpClientProducerAcknowledgementTest_testEmptyAcknowledgement_3e
+org.apache.camel.component.mllp.MllpTcpClientProducer		0.36571428
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+org.apache.camel.component.mllp.MllpEndpoint		0.036697246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpClientProducerAcknowledgementTest_testInvalidAcknowledgementContainingEmbeddedEndOfBlock_2e
+org.apache.camel.component.mllp.MllpTcpClientProducer		0.5314286
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+org.apache.camel.component.mllp.MllpEndpoint		0.036697246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpClientProducerAcknowledgementTest_testInvalidAcknowledgementContainingEmbeddedStartOfBlock_3z
+org.apache.camel.component.mllp.MllpTcpClientProducer		0.5314286
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+org.apache.camel.component.mllp.MllpEndpoint		0.036697246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpClientProducerAcknowledgementTest_testInvalidAcknowledgement_5p
+org.apache.camel.component.mllp.MllpTcpClientProducer		0.41714287
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+org.apache.camel.component.mllp.MllpEndpoint		0.036697246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpClientProducerAcknowledgementValidationTest
+MllpTcpClientProducerAcknowledgementValidationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpClientProducerAcknowledgementValidationTest_testApplicationAcceptAcknowledgement_f
+org.apache.camel.component.mllp.impl.Hl7Util		0.55
+org.apache.camel.component.mllp.MllpTcpClientProducer		0.5485714
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+org.apache.camel.component.mllp.MllpEndpoint		0.036697246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpClientProducerAcknowledgementValidationTest_testApplicationErrorAcknowledgement_o
+org.apache.camel.component.mllp.impl.Hl7Util		0.55
+org.apache.camel.component.mllp.MllpTcpClientProducer		0.50285715
+org.apache.camel.component.mllp.MllpNegativeAcknowledgementException		0.5
+org.apache.camel.component.mllp.MllpComponent		0.38181818
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.MllpApplicationErrorAcknowledgementException		0.33333334
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.MllpException		0.2
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+org.apache.camel.component.mllp.MllpEndpoint		0.036697246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpClientProducerAcknowledgementValidationTest_testApplicationRejectAcknowledgement_1x
+org.apache.camel.component.mllp.impl.Hl7Util		0.55
+org.apache.camel.component.mllp.MllpTcpClientProducer		0.50285715
+org.apache.camel.component.mllp.MllpNegativeAcknowledgementException		0.5
+org.apache.camel.component.mllp.MllpComponent		0.38181818
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.MllpApplicationRejectAcknowledgementException		0.33333334
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.MllpException		0.2
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+org.apache.camel.component.mllp.MllpEndpoint		0.036697246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpClientProducerAcknowledgementValidationTest_testEmptyAcknowledgement_11
+org.apache.camel.component.mllp.MllpInvalidAcknowledgementException		0.5
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.MllpTcpClientProducer		0.32
+org.apache.camel.component.mllp.impl.Hl7Util		0.25
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.MllpException		0.2
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+org.apache.camel.component.mllp.MllpEndpoint		0.036697246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpClientProducerAcknowledgementValidationTest_testInvalidAcknowledgementContainingEmbeddedEndOfBlock_39
+org.apache.camel.component.mllp.impl.Hl7Util		0.55
+org.apache.camel.component.mllp.MllpInvalidAcknowledgementException		0.5
+org.apache.camel.component.mllp.MllpComponent		0.38181818
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.MllpTcpClientProducer		0.32
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.MllpException		0.2
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+org.apache.camel.component.mllp.MllpEndpoint		0.036697246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpClientProducerAcknowledgementValidationTest_testInvalidAcknowledgementContainingEmbeddedStartOfBlock_4r
+org.apache.camel.component.mllp.impl.Hl7Util		0.55
+org.apache.camel.component.mllp.MllpInvalidAcknowledgementException		0.5
+org.apache.camel.component.mllp.MllpComponent		0.38181818
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.MllpTcpClientProducer		0.32
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.MllpException		0.2
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+org.apache.camel.component.mllp.MllpEndpoint		0.036697246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpClientProducerAcknowledgementValidationTest_testInvalidAcknowledgement_17
+org.apache.camel.component.mllp.MllpInvalidAcknowledgementException		0.5
+org.apache.camel.component.mllp.MllpComponent		0.38181818
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.impl.Hl7Util		0.35
+org.apache.camel.component.mllp.MllpTcpClientProducer		0.32
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.MllpException		0.2
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+org.apache.camel.component.mllp.MllpEndpoint		0.036697246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpClientProducerBlueprintTest
+MllpTcpClientProducerBlueprintTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpClientProducerBlueprintTest_testSendMultipleMessages_18
+org.apache.camel.component.mllp.MllpTcpClientProducer		0.5371429
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+org.apache.camel.component.mllp.MllpEndpoint		0.036697246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpClientProducerConnectionErrorTest
+MllpTcpClientProducerConnectionErrorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpClientProducerConnectionErrorTest_testConnectionClosedBeforeReadingAcknowledgement_4i
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.MllpTcpClientProducer		0.29142857
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.21710527
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.MllpException		0.18
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.15196079
+org.apache.camel.component.mllp.MllpReceiveAcknowledgementException		0.125
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+org.apache.camel.component.mllp.MllpEndpoint		0.036697246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpClientProducerConnectionErrorTest_testConnectionClosedBeforeSendingHL7Message_33
+org.apache.camel.component.mllp.MllpTcpClientProducer		0.5714286
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.34210527
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.29411766
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.MllpException		0.18
+org.apache.camel.component.mllp.MllpReceiveAcknowledgementException		0.125
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+org.apache.camel.component.mllp.MllpEndpoint		0.036697246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpClientProducerConnectionErrorTest_testConnectionResetBeforeReadingAcknowledgement_3h
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.MllpTcpClientProducer		0.29142857
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.21710527
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.MllpException		0.18
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.15196079
+org.apache.camel.component.mllp.MllpReceiveAcknowledgementException		0.125
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+org.apache.camel.component.mllp.MllpEndpoint		0.036697246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpClientProducerConnectionErrorTest_testConnectionResetBeforeSendingHL7Message_2j
+org.apache.camel.component.mllp.MllpTcpClientProducer		0.5542857
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.41558442
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.33552632
+org.apache.camel.component.mllp.MllpWriteException		0.25
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.MllpException		0.18
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+org.apache.camel.component.mllp.MllpEndpoint		0.036697246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpClientProducerTest
+MllpTcpClientProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpClientProducerTest_testAcknowledgementReadTimeout_2q
+org.apache.camel.component.mllp.MllpComponent		0.38181818
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.33552632
+org.apache.camel.component.mllp.MllpTcpClientProducer		0.29714286
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.29411766
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.MllpException		0.2
+org.apache.camel.component.mllp.MllpAcknowledgementTimeoutException		0.11111111
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+org.apache.camel.component.mllp.MllpEndpoint		0.036697246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpClientProducerTest_testAcknowledgementReceiveTimeout_15
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.MllpTcpClientProducer		0.29714286
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.21710527
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.MllpException		0.18
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.12745099
+org.apache.camel.component.mllp.MllpAcknowledgementTimeoutException		0.11111111
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+org.apache.camel.component.mllp.MllpEndpoint		0.036697246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpClientProducerTest_testMissingEndOfBlockByte_3a
+org.apache.camel.component.mllp.MllpTcpClientProducer		0.5714286
+org.apache.camel.component.mllp.MllpComponent		0.38181818
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.36842105
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.3627451
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.MllpException		0.2
+org.apache.camel.component.mllp.MllpAcknowledgementTimeoutException		0.11111111
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+org.apache.camel.component.mllp.MllpEndpoint		0.036697246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpClientProducerTest_testMissingEndOfDataByte_55
+org.apache.camel.component.mllp.MllpTcpClientProducer		0.5714286
+org.apache.camel.component.mllp.MllpComponent		0.38181818
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.36842105
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.3627451
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.MllpException		0.2
+org.apache.camel.component.mllp.MllpAcknowledgementTimeoutException		0.11111111
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+org.apache.camel.component.mllp.MllpEndpoint		0.036697246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpClientProducerTest_testNoResponseOnFirstMessage_41
+org.apache.camel.component.mllp.MllpTcpClientProducer		0.5942857
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.33552632
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.27450982
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.MllpException		0.18
+org.apache.camel.component.mllp.MllpAcknowledgementTimeoutException		0.11111111
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+org.apache.camel.component.mllp.MllpEndpoint		0.036697246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpClientProducerTest_testNoResponseOnNthMessage_5
+org.apache.camel.component.mllp.MllpTcpClientProducer		0.5714286
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.33552632
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.27450982
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.MllpException		0.18
+org.apache.camel.component.mllp.MllpAcknowledgementTimeoutException		0.11111111
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+org.apache.camel.component.mllp.MllpEndpoint		0.036697246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpClientProducerTest_testSendMultipleMessages_56
+org.apache.camel.component.mllp.MllpTcpClientProducer		0.5371429
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+org.apache.camel.component.mllp.MllpEndpoint		0.036697246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpClientProducerTest_testSendSingleMessage_n
+org.apache.camel.component.mllp.MllpTcpClientProducer		0.5314286
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+org.apache.camel.component.mllp.MllpEndpoint		0.036697246
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerAcknowledgementTest
+MllpTcpServerConsumerAcknowledgementTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerAcknowledgementTest_testAcknowledgementDeliveryFailure_5u
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerator		0.63529414
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.5031645
+org.apache.camel.component.mllp.MllpAcknowledgementDeliveryException		0.5
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.4025974
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.4
+org.apache.camel.component.mllp.MllpComponent		0.38181818
+org.apache.camel.component.mllp.MllpException		0.32
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.2
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.MllpEndpoint		0.06422018
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerAcknowledgementTest_testReceiveSingleMessage_58
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerator		0.63529414
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.49050632
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.MllpComponent		0.3272727
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.2
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.MllpEndpoint		0.06422018
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerBindTimeoutTest
+MllpTcpServerConsumerBindTimeoutTest		0.9655172
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerBindTimeoutTest_testReceiveSingleMessage_0
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerator		0.63529414
+org.apache.camel.component.mllp.MllpComponent		0.6181818
+org.apache.camel.component.mllp.MllpTcpServerConsumer		0.53846157
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.51265824
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.33766234
+org.apache.camel.component.mllp.MllpEndpoint		0.3119266
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.3090909
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerBlueprintTest
+MllpTcpServerConsumerBlueprintTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerBlueprintTest_testReceiveMultipleMessages_2x
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerator		0.63529414
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.5348101
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.MllpComponent		0.3272727
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.2
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.MllpEndpoint		0.06422018
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerConnectionTest
+MllpTcpServerConsumerConnectionTest		0.9206349
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerConnectionTest_testConnectThenCloseWithoutData_4y
+org.apache.camel.component.mllp.MllpTcpServerConsumer		0.44230768
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.38181818
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.32894737
+org.apache.camel.component.mllp.MllpEndpoint		0.25688073
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.1764706
+org.apache.camel.component.mllp.MllpReceiveException		0.16666667
+org.apache.camel.component.mllp.MllpException		0.16
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.15506329
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.051948052
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.03409091
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerConnectionTest_testConnectThenResetWithoutData_v
+org.apache.camel.component.mllp.MllpTcpServerConsumer		0.44230768
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.37272727
+org.apache.camel.component.mllp.MllpEndpoint		0.25688073
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.21710527
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.17156863
+org.apache.camel.component.mllp.MllpReceiveException		0.16666667
+org.apache.camel.component.mllp.MllpException		0.16
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.15506329
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.051948052
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.03409091
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerConnectionTest_testIdleConnection_5k
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerator		0.63529414
+org.apache.camel.component.mllp.MllpComponent		0.6181818
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.56329113
+org.apache.camel.component.mllp.MllpTcpServerConsumer		0.44230768
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.33552632
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.3090909
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.28431374
+org.apache.camel.component.mllp.MllpEndpoint		0.25688073
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerMessageHeadersTest
+MllpTcpServerConsumerMessageHeadersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerMessageHeadersTest_testHl7HeadersDisabled_1l
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerator		0.63529414
+org.apache.camel.component.mllp.MllpComponent		0.6181818
+org.apache.camel.component.mllp.MllpTcpServerConsumer		0.44230768
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.34810126
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.33766234
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.3090909
+org.apache.camel.component.mllp.MllpEndpoint		0.29357797
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerMessageHeadersTest_testHl7HeadersEnabled_1u
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerator		0.63529414
+org.apache.camel.component.mllp.MllpComponent		0.6181818
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.51265824
+org.apache.camel.component.mllp.MllpTcpServerConsumer		0.44230768
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.33766234
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.3090909
+org.apache.camel.component.mllp.MllpEndpoint		0.29357797
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerMessageValidationTest
+MllpTcpServerConsumerMessageValidationTest		0.9936306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerMessageValidationTest_testInvalidMessageContainingEmbeddedEndOfBlock_53
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerator		0.65882355
+org.apache.camel.component.mllp.impl.Hl7Util		0.6
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.5664557
+org.apache.camel.component.mllp.MllpInvalidMessageException		0.5
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.2
+org.apache.camel.component.mllp.MllpException		0.18
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.MllpEndpoint		0.06422018
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerMessageValidationTest_testInvalidMessage_d
+org.apache.camel.component.mllp.MllpInvalidMessageException		0.5
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.36392406
+org.apache.camel.component.mllp.impl.Hl7Util		0.35
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerationException		0.27272728
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerator		0.24705882
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.2
+org.apache.camel.component.mllp.MllpException		0.18
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.MllpEndpoint		0.06422018
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.051948052
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.03409091
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerMessageValidationTest_testMessageContainingEmbeddedEndOfBlock_1b
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerator		0.63529414
+org.apache.camel.component.mllp.impl.Hl7Util		0.55
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.54746836
+org.apache.camel.component.mllp.MllpInvalidMessageException		0.5
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.2
+org.apache.camel.component.mllp.MllpException		0.18
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.MllpEndpoint		0.06422018
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerMessageValidationTest_testMessageContainingEmbeddedStartOfBlock_19
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerator		0.63529414
+org.apache.camel.component.mllp.impl.Hl7Util		0.55
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.54746836
+org.apache.camel.component.mllp.MllpInvalidMessageException		0.5
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.2
+org.apache.camel.component.mllp.MllpException		0.18
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.MllpEndpoint		0.06422018
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerMessageValidationTest_testMessageReadTimeout_1m
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.34868422
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.29411766
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.2
+org.apache.camel.component.mllp.MllpException		0.18
+org.apache.camel.component.mllp.MllpTimeoutException		0.14285715
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.1392405
+org.apache.camel.component.mllp.MllpEndpoint		0.06422018
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.051948052
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.03409091
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerMessageValidationTest_testNthInvalidMessage_4k
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerator		0.69411767
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.60126585
+org.apache.camel.component.mllp.impl.Hl7Util		0.6
+org.apache.camel.component.mllp.MllpInvalidMessageException		0.5
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerationException		0.27272728
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.2
+org.apache.camel.component.mllp.MllpException		0.18
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.MllpEndpoint		0.06422018
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerMessageValidationTest_testNthMessageContainingEmbeddedStartOfBlock_2h
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerator		0.65882355
+org.apache.camel.component.mllp.impl.Hl7Util		0.6
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.5664557
+org.apache.camel.component.mllp.MllpInvalidMessageException		0.5
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.2
+org.apache.camel.component.mllp.MllpException		0.18
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.MllpEndpoint		0.06422018
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerMessageValidationTest_testOpenMllpEnvelopeWithReset_4u
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerator		0.63529414
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.56962025
+org.apache.camel.component.mllp.impl.Hl7Util		0.55
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.3627451
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.3618421
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.2
+org.apache.camel.component.mllp.MllpException		0.18
+org.apache.camel.component.mllp.MllpTimeoutException		0.14285715
+org.apache.camel.component.mllp.MllpEndpoint		0.06422018
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerMessageValidationTest_testReceiveMultipleMessages_3v
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerator		0.63529414
+org.apache.camel.component.mllp.impl.Hl7Util		0.55
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.5443038
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.MllpComponent		0.3272727
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.2
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.MllpEndpoint		0.06422018
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerMessageValidationTest_testReceiveSingleMessageWithDelayAfterConnection_1s
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerator		0.63529414
+org.apache.camel.component.mllp.impl.Hl7Util		0.55
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.5443038
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.MllpComponent		0.3272727
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.23636363
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.MllpEndpoint		0.06422018
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerMessageValidationTest_testReceiveSingleMessage_4f
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerator		0.63529414
+org.apache.camel.component.mllp.impl.Hl7Util		0.55
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.5443038
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.MllpComponent		0.3272727
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.2
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.MllpEndpoint		0.06422018
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerMulitpleTcpPacketTest
+MllpTcpServerConsumerMulitpleTcpPacketTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerMulitpleTcpPacketTest_testReceiveMultipleMessages_1y
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerator		0.63529414
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.5348101
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.4019608
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.MllpComponent		0.3272727
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.2
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.17763157
+org.apache.camel.component.mllp.MllpEndpoint		0.06422018
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerMulitpleTcpPacketTest_testReceiveSingleMessage_3r
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerator		0.63529414
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.51265824
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.33766234
+org.apache.camel.component.mllp.MllpComponent		0.3272727
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.2
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.MllpEndpoint		0.06422018
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerTest
+MllpTcpServerConsumerTest		0.9925373
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerTest_testInvalidMessageContainingEmbeddedEndOfBlock_a
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerator		0.63529414
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.5348101
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.MllpComponent		0.3272727
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.2
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.MllpEndpoint		0.06422018
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerTest_testInvalidMessage_u
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.2278481
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.2
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.MllpEndpoint		0.06422018
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.051948052
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.03409091
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerTest_testMessageContainingEmbeddedEndOfBlock_16
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerator		0.63529414
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.51265824
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.33766234
+org.apache.camel.component.mllp.MllpComponent		0.3272727
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.2
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.MllpEndpoint		0.06422018
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerTest_testMessageContainingEmbeddedStartOfBlock_22
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerator		0.63529414
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.51265824
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.33766234
+org.apache.camel.component.mllp.MllpComponent		0.3272727
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.2
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.MllpEndpoint		0.06422018
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerTest_testMessageReadTimeout_1q
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.34868422
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.29411766
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.2
+org.apache.camel.component.mllp.MllpException		0.18
+org.apache.camel.component.mllp.MllpTimeoutException		0.14285715
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.12658228
+org.apache.camel.component.mllp.MllpEndpoint		0.06422018
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.051948052
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.03409091
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerTest_testNthInvalidMessage_62
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerator		0.67058825
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.56962025
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.MllpComponent		0.3272727
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerationException		0.27272728
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.2
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.MllpEndpoint		0.06422018
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerTest_testNthMessageContainingEmbeddedStartOfBlock_31
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerator		0.63529414
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.5348101
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.MllpComponent		0.3272727
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.2
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.MllpEndpoint		0.06422018
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerTest_testOpenMllpEnvelopeWithReset_3s
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerator		0.63529414
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.5601266
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.3627451
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.3618421
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.2
+org.apache.camel.component.mllp.MllpException		0.18
+org.apache.camel.component.mllp.MllpTimeoutException		0.14285715
+org.apache.camel.component.mllp.MllpEndpoint		0.06422018
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerTest_testReceiveMultipleMessages_4p
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerator		0.63529414
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.5348101
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.MllpComponent		0.3272727
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.2
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.MllpEndpoint		0.06422018
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerTest_testReceiveSingleMessageWithDelayAfterConnection_5c
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerator		0.63529414
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.51265824
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.33766234
+org.apache.camel.component.mllp.MllpComponent		0.3272727
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.23636363
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.MllpEndpoint		0.06422018
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerTest_testReceiveSingleMessage_g
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerator		0.63529414
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.51265824
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.33766234
+org.apache.camel.component.mllp.MllpComponent		0.3272727
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.2
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.MllpEndpoint		0.06422018
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerTransactionTest
+MllpTcpServerConsumerTransactionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerTransactionTest_testAcknowledgementWriteFailure_64
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerator		0.63529414
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.5727848
+org.apache.camel.component.mllp.MllpAcknowledgementDeliveryException		0.5
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.4025974
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.4
+org.apache.camel.component.mllp.MllpException		0.4
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.33552632
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.29411766
+org.apache.camel.component.mllp.MllpReceiveException		0.16666667
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.16363636
+org.apache.camel.component.mllp.MllpEndpoint		0.06422018
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/MllpTcpServerConsumerTransactionTest_testReceiveSingleMessage_5a
+org.apache.camel.processor.mllp.Hl7AcknowledgementGenerator		0.63529414
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ClientSocketThread		0.5348101
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.36363637
+org.apache.camel.component.mllp.MllpComponent		0.3272727
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25
+org.apache.camel.component.mllp.MllpTcpServerConsumer.ServerSocketThread		0.16363636
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+org.apache.camel.component.mllp.MllpEndpoint		0.06422018
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.056818184
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/Hl7UtilTest
+Hl7UtilTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/Hl7UtilTest_testGenerateInvalidPayloadExceptionMessageWithEmbeddedEndOfBlock_54
+testGenerateInvalidPayloadExceptionMessageWithEmbeddedEndOfBlock
+org.apache.camel.component.mllp.impl.Hl7Util		0.55
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/Hl7UtilTest_testGenerateInvalidPayloadExceptionMessageWithEmbeddedStartOfBlock_5g
+testGenerateInvalidPayloadExceptionMessageWithEmbeddedStartOfBlock
+org.apache.camel.component.mllp.impl.Hl7Util		0.55
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/Hl7UtilTest_testGenerateInvalidPayloadExceptionMessageWithEmptyPayload_27
+testGenerateInvalidPayloadExceptionMessageWithEmptyPayload
+org.apache.camel.component.mllp.impl.Hl7Util		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/Hl7UtilTest_testGenerateInvalidPayloadExceptionMessageWithInvalidStartingSegment_45
+testGenerateInvalidPayloadExceptionMessageWithInvalidStartingSegment
+org.apache.camel.component.mllp.impl.Hl7Util		0.35
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/Hl7UtilTest_testGenerateInvalidPayloadExceptionMessageWithLengthLargerThanArraySize_57
+testGenerateInvalidPayloadExceptionMessageWithLengthLargerThanArraySize
+org.apache.camel.component.mllp.impl.Hl7Util		0.475
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/Hl7UtilTest_testGenerateInvalidPayloadExceptionMessageWithLengthSmallerThanArraySize_3y
+testGenerateInvalidPayloadExceptionMessageWithLengthSmallerThanArraySize
+org.apache.camel.component.mllp.impl.Hl7Util		0.35
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/Hl7UtilTest_testGenerateInvalidPayloadExceptionMessageWithNullPayload_5v
+testGenerateInvalidPayloadExceptionMessageWithNullPayload
+org.apache.camel.component.mllp.impl.Hl7Util		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/Hl7UtilTest_testGenerateInvalidPayloadExceptionMessage_2r
+testGenerateInvalidPayloadExceptionMessage
+org.apache.camel.component.mllp.impl.Hl7Util		0.55
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpBufferedSocketAcknowledgementWriterTest
+MllpBufferedSocketAcknowledgementWriterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpBufferedSocketAcknowledgementWriterTest_testGetOutputStreamFailure_2t
+testGetOutputStreamFailure
+org.apache.camel.component.mllp.MllpComponent		0.38181818
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.35064936
+org.apache.camel.component.mllp.MllpException		0.34
+org.apache.camel.component.mllp.MllpAcknowledgementDeliveryException		0.25
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.022727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpBufferedSocketAcknowledgementWriterTest_testWriteAcknowledgementFailure_1e
+testWriteAcknowledgementFailure
+org.apache.camel.component.mllp.MllpComponent		0.38181818
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.35064936
+org.apache.camel.component.mllp.MllpException		0.34
+org.apache.camel.component.mllp.MllpAcknowledgementDeliveryException		0.25
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.022727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpBufferedSocketAcknowledgementWriterTest_testWriteAcknowledgement_2g
+testWriteAcknowledgement
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.3116883
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.022727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpBufferedSocketAcknowledgementWriterTest_testWriteEmptyAcknowledgement_p
+testWriteEmptyAcknowledgement
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.3116883
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.022727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpBufferedSocketAcknowledgementWriterTest_testWriteNullAcknowledgement_r
+testWriteNullAcknowledgement
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.2857143
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.022727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpBufferedSocketAcknowledgementWriterTest_testWriteToClosedSocket_5t
+testWriteToClosedSocket
+org.apache.camel.component.mllp.MllpComponent		0.38181818
+org.apache.camel.component.mllp.MllpException		0.34
+org.apache.camel.component.mllp.MllpAcknowledgementDeliveryException		0.25
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.14285715
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.022727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpBufferedSocketAcknowledgementWriterTest_testWriteToUnconnectedSocket_48
+testWriteToUnconnectedSocket
+org.apache.camel.component.mllp.MllpComponent		0.38181818
+org.apache.camel.component.mllp.MllpException		0.34
+org.apache.camel.component.mllp.MllpAcknowledgementDeliveryException		0.25
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.116883114
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.022727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpBufferedSocketMessageWriterTest
+MllpBufferedSocketMessageWriterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpBufferedSocketMessageWriterTest_testGetOutputStreamFailure_2u
+testGetOutputStreamFailure
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.35064936
+org.apache.camel.component.mllp.MllpException		0.32
+org.apache.camel.component.mllp.MllpWriteException		0.25
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.022727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpBufferedSocketMessageWriterTest_testWriteEmptyMessage_5j
+testWriteEmptyMessage
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.3116883
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.022727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpBufferedSocketMessageWriterTest_testWriteFailure_1f
+testWriteFailure
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.35064936
+org.apache.camel.component.mllp.MllpException		0.32
+org.apache.camel.component.mllp.MllpWriteException		0.25
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.022727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpBufferedSocketMessageWriterTest_testWriteMessage_5x
+testWriteMessage
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.3116883
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.022727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpBufferedSocketMessageWriterTest_testWriteNullMessage_3n
+testWriteNullMessage
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.2857143
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.022727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpBufferedSocketMessageWriterTest_testWriteToClosedSocket_26
+testWriteToClosedSocket
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.MllpException		0.32
+org.apache.camel.component.mllp.MllpWriteException		0.25
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.14285715
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.022727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpBufferedSocketMessageWriterTest_testWriteToUnconnectedSocket_5i
+testWriteToUnconnectedSocket
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.MllpException		0.32
+org.apache.camel.component.mllp.MllpWriteException		0.25
+org.apache.camel.component.mllp.impl.MllpBufferedSocketWriter		0.116883114
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.022727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest
+MllpSocketAcknowledgementReaderTest		0.9315589
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testEndOfStreamOnFirstAdditionalReadWithPartialPayload_67
+testEndOfStreamOnFirstAdditionalReadWithPartialPayload
+org.apache.camel.component.mllp.MllpComponent		0.38181818
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.34210527
+org.apache.camel.component.mllp.MllpException		0.34
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.26960784
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.MllpReceiveAcknowledgementException		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testEndOfStreamOnFirstAdditionalRead_28
+testEndOfStreamOnFirstAdditionalRead
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.MllpException		0.34
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.3026316
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.26960784
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.MllpReceiveAcknowledgementException		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testEndOfStreamOnInitialRead_j
+testEndOfStreamOnInitialRead
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.MllpException		0.32
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.21052632
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.MllpReceiveAcknowledgementException		0.125
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testEndOfStreamOnSecondAdditionalReadWithPartialPayload_3l
+testEndOfStreamOnSecondAdditionalReadWithPartialPayload
+org.apache.camel.component.mllp.MllpComponent		0.38181818
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.34210527
+org.apache.camel.component.mllp.MllpException		0.34
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.31862745
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.MllpReceiveAcknowledgementException		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testGetInputStreamFailure_t
+testGetInputStreamFailure
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.MllpException		0.32
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.21052632
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.MllpReceiveAcknowledgementException		0.125
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.078431375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testIOExceptionOnFirstAdditionalReadWithPartialPayload_66
+testIOExceptionOnFirstAdditionalReadWithPartialPayload
+org.apache.camel.component.mllp.MllpComponent		0.38181818
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.34210527
+org.apache.camel.component.mllp.MllpException		0.34
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.2647059
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.MllpReceiveAcknowledgementException		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testIOExceptionOnFirstAdditionalRead_4w
+testIOExceptionOnFirstAdditionalRead
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.MllpException		0.34
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.3026316
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.2647059
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.MllpReceiveAcknowledgementException		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testIOExceptionOnInitialRead_4c
+testIOExceptionOnInitialRead
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.MllpException		0.32
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.21052632
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.MllpReceiveAcknowledgementException		0.125
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.1127451
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testIOExceptionOnSecondAdditionalReadWithPartialPayload_12
+testIOExceptionOnSecondAdditionalReadWithPartialPayload
+org.apache.camel.component.mllp.MllpComponent		0.38181818
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.34210527
+org.apache.camel.component.mllp.MllpException		0.34
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.31862745
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.MllpReceiveAcknowledgementException		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testLeadingOutOfBandBytesSeparateEnvelopingAndMessagePackets_1v
+testLeadingOutOfBandBytesSeparateEnvelopingAndMessagePackets
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.34313726
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.19736843
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testLeadingOutOfBandBytesWithEmptyMessageWithSeparateEnvelopingPackets_2m
+testLeadingOutOfBandBytesWithEmptyMessageWithSeparateEnvelopingPackets
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.32843137
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.18421052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testLeadingOutOfBandBytesWithEmptyMessage_3j
+testLeadingOutOfBandBytesWithEmptyMessage
+org.apache.camel.component.mllp.MllpComponent		0.27272728
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.24019608
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.15789473
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testLeadingOutOfBandBytesWithMultipleMessagePackets_1o
+testLeadingOutOfBandBytesWithMultipleMessagePackets
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.34313726
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.19078948
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testLeadingOutOfBandBytes_5b
+testLeadingOutOfBandBytes
+org.apache.camel.component.mllp.MllpComponent		0.27272728
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.24019608
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.15789473
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testReadEmptyMessageWithSeparateEnvelopingPackets_68
+testReadEmptyMessageWithSeparateEnvelopingPackets
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.31862745
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.16447368
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testReadEmptyMessage_35
+testReadEmptyMessage
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.21568628
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testReadMessageWithMultipleMessagePackets_5f
+testReadMessageWithMultipleMessagePackets
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.33333334
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.17105263
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testReadMessageWithSeparateEnvelopingAndMessagePackets_2y
+testReadMessageWithSeparateEnvelopingAndMessagePackets
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.33333334
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.17763157
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testReadMessage_4x
+testReadMessage
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.21568628
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testSocketExceptionOnFirstAdditionalReadWithPartialPayload_2o
+testSocketExceptionOnFirstAdditionalReadWithPartialPayload
+org.apache.camel.component.mllp.MllpComponent		0.38181818
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.34210527
+org.apache.camel.component.mllp.MllpException		0.34
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.2647059
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.MllpReceiveAcknowledgementException		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testSocketExceptionOnFirstAdditionalRead_4l
+testSocketExceptionOnFirstAdditionalRead
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.MllpException		0.34
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.3026316
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.2647059
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.MllpReceiveAcknowledgementException		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testSocketExceptionOnInitialRead_14
+testSocketExceptionOnInitialRead
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.MllpException		0.32
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.21052632
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.MllpReceiveAcknowledgementException		0.125
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.1127451
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testSocketExceptionOnSecondAdditionalReadWithPartialPayload_9
+testSocketExceptionOnSecondAdditionalReadWithPartialPayload
+org.apache.camel.component.mllp.MllpComponent		0.38181818
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.34210527
+org.apache.camel.component.mllp.MllpException		0.34
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.31862745
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.MllpReceiveAcknowledgementException		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testTimeoutOnFirstAdditionalReadWithPartialPayload_42
+testTimeoutOnFirstAdditionalReadWithPartialPayload
+org.apache.camel.component.mllp.MllpComponent		0.38181818
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.34210527
+org.apache.camel.component.mllp.MllpException		0.34
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25980392
+org.apache.camel.component.mllp.MllpAcknowledgementTimeoutException		0.22222222
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testTimeoutOnFirstAdditionalRead_20
+testTimeoutOnFirstAdditionalRead
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.MllpException		0.34
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.3026316
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25980392
+org.apache.camel.component.mllp.MllpAcknowledgementTimeoutException		0.22222222
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testTimeoutOnInitialReadWithStartOfBlock_2w
+testTimeoutOnInitialReadWithStartOfBlock
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.MllpException		0.34
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.3026316
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25980392
+org.apache.camel.component.mllp.MllpAcknowledgementTimeoutException		0.22222222
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testTimeoutOnInitialRead_5m
+testTimeoutOnInitialRead
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.MllpException		0.32
+org.apache.camel.component.mllp.MllpAcknowledgementTimeoutException		0.22222222
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.09313726
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.032894738
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testTimeoutOnSecondAdditionalReadWithPartialPayload_2v
+testTimeoutOnSecondAdditionalReadWithPartialPayload
+org.apache.camel.component.mllp.MllpComponent		0.38181818
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.34210527
+org.apache.camel.component.mllp.MllpException		0.34
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.3137255
+org.apache.camel.component.mllp.MllpAcknowledgementTimeoutException		0.22222222
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testTrailingOutOfBandBytesSeparateEnvelopingAndMessagePackets_c
+testTrailingOutOfBandBytesSeparateEnvelopingAndMessagePackets
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.37254903
+org.apache.camel.component.mllp.MllpComponent		0.27272728
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.17763157
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testTrailingOutOfBandBytesWithEmptyMessageWithSeparateEnvelopingPackets_29
+testTrailingOutOfBandBytesWithEmptyMessageWithSeparateEnvelopingPackets
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.35784313
+org.apache.camel.component.mllp.MllpComponent		0.27272728
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.16447368
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testTrailingOutOfBandBytesWithEmptyMessage_4g
+testTrailingOutOfBandBytesWithEmptyMessage
+org.apache.camel.component.mllp.MllpComponent		0.27272728
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.24019608
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.15789473
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testTrailingOutOfBandBytesWithMultipleMessagePackets_1h
+testTrailingOutOfBandBytesWithMultipleMessagePackets
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.37254903
+org.apache.camel.component.mllp.MllpComponent		0.27272728
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.17105263
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementReaderTest_testTrailingOutOfBandBytes_4t
+testTrailingOutOfBandBytes
+org.apache.camel.component.mllp.MllpComponent		0.27272728
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.24019608
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.15789473
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementWriterTest
+MllpSocketAcknowledgementWriterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementWriterTest_testGetOutputStreamFailure_4b
+testGetOutputStreamFailure
+org.apache.camel.component.mllp.MllpComponent		0.38181818
+org.apache.camel.component.mllp.MllpException		0.34
+org.apache.camel.component.mllp.MllpAcknowledgementDeliveryException		0.25
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.18181819
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementWriterTest_testWriteAcknowledgementFailure_5d
+testWriteAcknowledgementFailure
+org.apache.camel.component.mllp.MllpComponent		0.38181818
+org.apache.camel.component.mllp.MllpException		0.34
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.26136363
+org.apache.camel.component.mllp.MllpAcknowledgementDeliveryException		0.25
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementWriterTest_testWriteAcknowledgement_21
+testWriteAcknowledgement
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.2840909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementWriterTest_testWriteEmptyAcknowledgement_4j
+testWriteEmptyAcknowledgement
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.27272728
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementWriterTest_testWriteEndOfMessageFailure_2b
+testWriteEndOfMessageFailure
+org.apache.camel.component.mllp.MllpComponent		0.38181818
+org.apache.camel.component.mllp.MllpException		0.34
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.3181818
+org.apache.camel.component.mllp.MllpAcknowledgementDeliveryException		0.25
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementWriterTest_testWriteNullAcknowledgement_1z
+testWriteNullAcknowledgement
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementWriterTest_testWriteStartOfBlockFailure_3f
+testWriteStartOfBlockFailure
+org.apache.camel.component.mllp.MllpComponent		0.38181818
+org.apache.camel.component.mllp.MllpException		0.34
+org.apache.camel.component.mllp.MllpAcknowledgementDeliveryException		0.25
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.20454545
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementWriterTest_testWriteToClosedSocket_2i
+testWriteToClosedSocket
+org.apache.camel.component.mllp.MllpComponent		0.38181818
+org.apache.camel.component.mllp.MllpException		0.34
+org.apache.camel.component.mllp.MllpAcknowledgementDeliveryException		0.25
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.14772727
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketAcknowledgementWriterTest_testWriteToUnconnectedSocket_36
+testWriteToUnconnectedSocket
+org.apache.camel.component.mllp.MllpComponent		0.38181818
+org.apache.camel.component.mllp.MllpException		0.34
+org.apache.camel.component.mllp.MllpAcknowledgementDeliveryException		0.25
+org.apache.camel.component.mllp.MllpAcknowledgementException		0.2
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest
+MllpSocketMessageReaderTest		0.9346154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testEndOfStreamOnFirstAdditionalReadWithPartialPayload_5z
+testEndOfStreamOnFirstAdditionalReadWithPartialPayload
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.34210527
+org.apache.camel.component.mllp.MllpException		0.32
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.31862745
+org.apache.camel.component.mllp.MllpReceiveException		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testEndOfStreamOnFirstAdditionalRead_1w
+testEndOfStreamOnFirstAdditionalRead
+org.apache.camel.component.mllp.MllpException		0.32
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.3026316
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.26960784
+org.apache.camel.component.mllp.MllpReceiveException		0.16666667
+org.apache.camel.component.mllp.MllpComponent		0.12727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testEndOfStreamOnInitialRead_65
+testEndOfStreamOnInitialRead
+org.apache.camel.component.mllp.MllpException		0.3
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.21052632
+org.apache.camel.component.mllp.MllpReceiveException		0.16666667
+org.apache.camel.component.mllp.MllpComponent		0.12727273
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testEndOfStreamOnSecondAdditionalReadWithPartialPayload_3u
+testEndOfStreamOnSecondAdditionalReadWithPartialPayload
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.34210527
+org.apache.camel.component.mllp.MllpException		0.32
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.31862745
+org.apache.camel.component.mllp.MllpReceiveException		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testGetInputStreamFailure_2k
+testGetInputStreamFailure
+org.apache.camel.component.mllp.MllpException		0.3
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.21052632
+org.apache.camel.component.mllp.MllpReceiveException		0.16666667
+org.apache.camel.component.mllp.MllpComponent		0.12727273
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.078431375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testIOExceptionOnFirstAdditionalReadWithPartialPayload_2a
+testIOExceptionOnFirstAdditionalReadWithPartialPayload
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.34210527
+org.apache.camel.component.mllp.MllpException		0.32
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.31862745
+org.apache.camel.component.mllp.MllpReceiveException		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testIOExceptionOnFirstAdditionalRead_3m
+testIOExceptionOnFirstAdditionalRead
+org.apache.camel.component.mllp.MllpException		0.32
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.3026316
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.2647059
+org.apache.camel.component.mllp.MllpReceiveException		0.16666667
+org.apache.camel.component.mllp.MllpComponent		0.12727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testIOExceptionOnInitialRead_10
+testIOExceptionOnInitialRead
+org.apache.camel.component.mllp.MllpException		0.3
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.21052632
+org.apache.camel.component.mllp.MllpReceiveException		0.16666667
+org.apache.camel.component.mllp.MllpComponent		0.12727273
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.1127451
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testIOExceptionOnSecondAdditionalReadWithPartialPayload_x
+testIOExceptionOnSecondAdditionalReadWithPartialPayload
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.34210527
+org.apache.camel.component.mllp.MllpException		0.32
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.31862745
+org.apache.camel.component.mllp.MllpReceiveException		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testLeadingOutOfBandBytesSeparateEnvelopingAndMessagePackets_1p
+testLeadingOutOfBandBytesSeparateEnvelopingAndMessagePackets
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.34313726
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.19736843
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testLeadingOutOfBandBytesWithEmptyMessageWithSeparateEnvelopingPackets_2s
+testLeadingOutOfBandBytesWithEmptyMessageWithSeparateEnvelopingPackets
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.32843137
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.18421052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testLeadingOutOfBandBytesWithEmptyMessage_4s
+testLeadingOutOfBandBytesWithEmptyMessage
+org.apache.camel.component.mllp.MllpComponent		0.27272728
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.24019608
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.15789473
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testLeadingOutOfBandBytesWithMultipleMessagePackets_4z
+testLeadingOutOfBandBytesWithMultipleMessagePackets
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.34313726
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.19078948
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testLeadingOutOfBandBytes_3d
+testLeadingOutOfBandBytes
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.34313726
+org.apache.camel.component.mllp.MllpComponent		0.27272728
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.18421052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testReadEmptyMessageWithSeparateEnvelopingPackets_8
+testReadEmptyMessageWithSeparateEnvelopingPackets
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.31862745
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.16447368
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testReadEmptyMessage_4a
+testReadEmptyMessage
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.21568628
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.1513158
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testReadMessageWithMultipleMessagePackets_5r
+testReadMessageWithMultipleMessagePackets
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.33333334
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.17105263
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testReadMessageWithSeparateEnvelopingAndMessagePackets_3b
+testReadMessageWithSeparateEnvelopingAndMessagePackets
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.33333334
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.17763157
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testReadMessage_61
+testReadMessage
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.31862745
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.17763157
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testSocketExceptionOnFirstAdditionalReadWithPartialPayload_1c
+testSocketExceptionOnFirstAdditionalReadWithPartialPayload
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.34210527
+org.apache.camel.component.mllp.MllpException		0.32
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.31862745
+org.apache.camel.component.mllp.MllpReceiveException		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testSocketExceptionOnFirstAdditionalRead_1k
+testSocketExceptionOnFirstAdditionalRead
+org.apache.camel.component.mllp.MllpException		0.32
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.3026316
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.2647059
+org.apache.camel.component.mllp.MllpReceiveException		0.16666667
+org.apache.camel.component.mllp.MllpComponent		0.12727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testSocketExceptionOnInitialRead_w
+testSocketExceptionOnInitialRead
+org.apache.camel.component.mllp.MllpException		0.3
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.21052632
+org.apache.camel.component.mllp.MllpReceiveException		0.16666667
+org.apache.camel.component.mllp.MllpComponent		0.12727273
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.1127451
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testSocketExceptionOnSecondAdditionalReadWithPartialPayload_3
+testSocketExceptionOnSecondAdditionalReadWithPartialPayload
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.34210527
+org.apache.camel.component.mllp.MllpException		0.32
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.31862745
+org.apache.camel.component.mllp.MllpReceiveException		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testTimeoutOnFirstAdditionalReadWithPartialPayload_51
+testTimeoutOnFirstAdditionalReadWithPartialPayload
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.34210527
+org.apache.camel.component.mllp.MllpException		0.32
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.3137255
+org.apache.camel.component.mllp.MllpTimeoutException		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testTimeoutOnFirstAdditionalRead_60
+testTimeoutOnFirstAdditionalRead
+org.apache.camel.component.mllp.MllpException		0.32
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.3026316
+org.apache.camel.component.mllp.MllpTimeoutException		0.2857143
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25980392
+org.apache.camel.component.mllp.MllpComponent		0.12727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testTimeoutOnInitialReadWithStartOfBlock_5h
+testTimeoutOnInitialReadWithStartOfBlock
+org.apache.camel.component.mllp.MllpException		0.32
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.3026316
+org.apache.camel.component.mllp.MllpTimeoutException		0.2857143
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.25980392
+org.apache.camel.component.mllp.MllpComponent		0.12727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testTimeoutOnInitialRead_4n
+testTimeoutOnInitialRead
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.10294118
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.032894738
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testTimeoutOnSecondAdditionalReadWithPartialPayload_m
+testTimeoutOnSecondAdditionalReadWithPartialPayload
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.34210527
+org.apache.camel.component.mllp.MllpException		0.32
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.3137255
+org.apache.camel.component.mllp.MllpTimeoutException		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testTrailingOutOfBandBytesSeparateEnvelopingAndMessagePackets_1j
+testTrailingOutOfBandBytesSeparateEnvelopingAndMessagePackets
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.37254903
+org.apache.camel.component.mllp.MllpComponent		0.27272728
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.17763157
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testTrailingOutOfBandBytesWithEmptyMessageWithSeparateEnvelopingPackets_25
+testTrailingOutOfBandBytesWithEmptyMessageWithSeparateEnvelopingPackets
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.35784313
+org.apache.camel.component.mllp.MllpComponent		0.27272728
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.16447368
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testTrailingOutOfBandBytesWithEmptyMessage_4o
+testTrailingOutOfBandBytesWithEmptyMessage
+org.apache.camel.component.mllp.MllpComponent		0.27272728
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.24019608
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.15789473
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testTrailingOutOfBandBytesWithMultipleMessagePackets_37
+testTrailingOutOfBandBytesWithMultipleMessagePackets
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.37254903
+org.apache.camel.component.mllp.MllpComponent		0.27272728
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.17105263
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageReaderTest_testTrailingOutOfBandBytes_3t
+testTrailingOutOfBandBytes
+org.apache.camel.component.mllp.impl.MllpSocketReader		0.34313726
+org.apache.camel.component.mllp.MllpComponent		0.27272728
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.17763157
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageWriterTest
+MllpSocketMessageWriterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageWriterTest_testGetOutputStreamFailure_1i
+testGetOutputStreamFailure
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.MllpException		0.34
+org.apache.camel.component.mllp.MllpWriteException		0.25
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.18181819
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageWriterTest_testWriteEmptyMessage_47
+testWriteEmptyMessage
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.27272728
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageWriterTest_testWriteEndOfMessageFailure_3o
+testWriteEndOfMessageFailure
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.MllpException		0.34
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.3181818
+org.apache.camel.component.mllp.MllpWriteException		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageWriterTest_testWriteMessageFailure_y
+testWriteMessageFailure
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.MllpException		0.34
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.26136363
+org.apache.camel.component.mllp.MllpWriteException		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageWriterTest_testWriteMessage_2p
+testWriteMessage
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.2840909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageWriterTest_testWriteNullMessage_2
+testWriteNullMessage
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageWriterTest_testWriteStartOfBlockFailure_b
+testWriteStartOfBlockFailure
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.MllpException		0.34
+org.apache.camel.component.mllp.MllpWriteException		0.25
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.20454545
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageWriterTest_testWriteToClosedSocket_h
+testWriteToClosedSocket
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.MllpException		0.32
+org.apache.camel.component.mllp.MllpWriteException		0.25
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.14772727
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketMessageWriterTest_testWriteToUnconnectedSocket_4
+testWriteToUnconnectedSocket
+org.apache.camel.component.mllp.MllpComponent		0.4181818
+org.apache.camel.component.mllp.MllpException		0.32
+org.apache.camel.component.mllp.MllpWriteException		0.25
+org.apache.camel.component.mllp.impl.MllpSocketWriter		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketReaderTestSupport
+MllpSocketReaderTestSupport		0.57894737
+MllpSocketReaderTestSupport.FakeSocket		0.47619048
+MllpSocketReaderTestSupport.FakeSocketInputStream		0.58
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilExceptionHandlingTest
+MllpSocketUtilExceptionHandlingTest		1.0
+MllpSocketUtilExceptionHandlingTest.FakeSocket		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilExceptionHandlingTest_testCloseWithLoggerAndReason_2z
+testCloseWithLoggerAndReason
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.29605263
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilExceptionHandlingTest_testCloseWithLogger_23
+testCloseWithLogger
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.29605263
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilExceptionHandlingTest_testClose_1
+testClose
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.27631578
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilExceptionHandlingTest_testResetWithLoggerAndReason_z
+testResetWithLoggerAndReason
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.23026316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilExceptionHandlingTest_testResetWithLogger_1r
+testResetWithLogger
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.23026316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilExceptionHandlingTest_testReset_3q
+testReset
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilFindXxxOfBlockTest
+MllpSocketUtilFindXxxOfBlockTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilFindXxxOfBlockTest_testFindEndOfMessageWithDummyPayloadAndStartOfBlock_2f
+testFindEndOfMessageWithDummyPayloadAndStartOfBlock
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.09210526
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilFindXxxOfBlockTest_testFindEndOfMessageWithDummyPayload_4h
+testFindEndOfMessageWithDummyPayload
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.09210526
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilFindXxxOfBlockTest_testFindEndOfMessageWithEndOfBlockAfterLength_5e
+testFindEndOfMessageWithEndOfBlockAfterLength
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.078947365
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilFindXxxOfBlockTest_testFindEndOfMessageWithEndOfBlockButMissingEndOfData_4d
+testFindEndOfMessageWithEndOfBlockButMissingEndOfData
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilFindXxxOfBlockTest_testFindEndOfMessageWithHl7PayloadAndStartOfBlock_4e
+testFindEndOfMessageWithHl7PayloadAndStartOfBlock
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.09210526
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilFindXxxOfBlockTest_testFindEndOfMessageWithHl7Payload_34
+testFindEndOfMessageWithHl7Payload
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.09210526
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilFindXxxOfBlockTest_testFindEndOfMessageWithLengthLargerThanArraySize_63
+testFindEndOfMessageWithLengthLargerThanArraySize
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.065789476
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilFindXxxOfBlockTest_testFindEndOfMessageWithLengthSmallerThanArraySize_3g
+testFindEndOfMessageWithLengthSmallerThanArraySize
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.078947365
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilFindXxxOfBlockTest_testFindEndOfMessageWithMissingEndOfBlock_3i
+testFindEndOfMessageWithMissingEndOfBlock
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilFindXxxOfBlockTest_testFindEndOfMessageWithNullPayload_40
+testFindEndOfMessageWithNullPayload
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilFindXxxOfBlockTest_testFindEndOfMessageWithStartOfBlockAndEndOfBlockButMissingEndOfData_30
+testFindEndOfMessageWithStartOfBlockAndEndOfBlockButMissingEndOfData
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilFindXxxOfBlockTest_testFindEndOfMessageWithStartOfBlockButMissingEndOfBlock_5o
+testFindEndOfMessageWithStartOfBlockButMissingEndOfBlock
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilFindXxxOfBlockTest_testFindEndOfMessagekWithOnlyEndOfBlockAndEndOfData_50
+testFindEndOfMessagekWithOnlyEndOfBlockAndEndOfData
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.09210526
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilFindXxxOfBlockTest_testFindEndOfMessagekWithOnlyEndOfBlock_1n
+testFindEndOfMessagekWithOnlyEndOfBlock
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.065789476
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilFindXxxOfBlockTest_testFindEndOfMessagekWithOnlyEndOfData_5q
+testFindEndOfMessagekWithOnlyEndOfData
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.065789476
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilFindXxxOfBlockTest_testFindStartOfBlockWithDummyPayload_69
+testFindStartOfBlockWithDummyPayload
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.078947365
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilFindXxxOfBlockTest_testFindStartOfBlockWithHl7Payload_59
+testFindStartOfBlockWithHl7Payload
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.078947365
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilFindXxxOfBlockTest_testFindStartOfBlockWithLengthLargerThanArraySize_3w
+testFindStartOfBlockWithLengthLargerThanArraySize
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.05263158
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilFindXxxOfBlockTest_testFindStartOfBlockWithLengthSmallerThanArraySize_3x
+testFindStartOfBlockWithLengthSmallerThanArraySize
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.05263158
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilFindXxxOfBlockTest_testFindStartOfBlockWithMissingStartOfBlock_5l
+testFindStartOfBlockWithMissingStartOfBlock
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.08552632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilFindXxxOfBlockTest_testFindStartOfBlockWithNullPayload_24
+testFindStartOfBlockWithNullPayload
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilFindXxxOfBlockTest_testFindStartOfBlockWithOnlyStartOfBlock_32
+testFindStartOfBlockWithOnlyStartOfBlock
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.078947365
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilFindXxxOfBlockTest_testFindStartOfBlockWithStartOfBlockAfterLength_2c
+testFindStartOfBlockWithStartOfBlockAfterLength
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.059210528
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilSocketTest
+MllpSocketUtilSocketTest		0.9448819
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilSocketTest_testCloseWithClosedSocket_13
+testCloseWithClosedSocket
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.019736841
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilSocketTest_testCloseWithLoggerAndReason_1d
+testCloseWithLoggerAndReason
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.2236842
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilSocketTest_testCloseWithLogger_3p
+testCloseWithLogger
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.2236842
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilSocketTest_testCloseWithResetSocket_2n
+testCloseWithResetSocket
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.019736841
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilSocketTest_testCloseWithUnconnectedSocket_2l
+testCloseWithUnconnectedSocket
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.019736841
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilSocketTest_testClose_46
+testClose
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.20394737
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilSocketTest_testGetAddressStringWithClosedSocket_5s
+testGetAddressStringWithClosedSocket
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.09210526
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilSocketTest_testGetAddressStringWithUnconnectedSocket_e
+testGetAddressStringWithUnconnectedSocket
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.078947365
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilSocketTest_testGetAddressString_44
+testGetAddressString
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.09210526
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilSocketTest_testResetWithClosedSocket_4m
+testResetWithClosedSocket
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.019736841
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilSocketTest_testResetWithLoggerAndReason_l
+testResetWithLoggerAndReason
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.18421052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilSocketTest_testResetWithLogger_k
+testResetWithLogger
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.18421052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilSocketTest_testResetWithResetSocket_q
+testResetWithResetSocket
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.019736841
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilSocketTest_testResetWithUnconnectedSocket_5w
+testResetWithUnconnectedSocket
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.019736841
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilSocketTest_testReset_5n
+testReset
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.16447368
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilSocketTest_testSetSoTimeoutWithClosedSocket_38
+testSetSoTimeoutWithClosedSocket
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.16447368
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilSocketTest_testSetSoTimeoutWithLoggerAndReason_1g
+testSetSoTimeoutWithLoggerAndReason
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.032894738
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilSocketTest_testSetSoTimeoutWithLogger_4q
+testSetSoTimeoutWithLogger
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.032894738
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilSocketTest_testSetSoTimeoutWithResetSocket_7
+testSetSoTimeoutWithResetSocket
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.18421052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilSocketTest_testSetSoTimeoutWithUnconnectedSocket_2d
+testSetSoTimeoutWithUnconnectedSocket
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.032894738
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketUtilSocketTest_testSetSoTimeout_4v
+testSetSoTimeout
+org.apache.camel.component.mllp.impl.MllpSocketUtil		0.032894738
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/MllpSocketWriterTestSupport
+MllpSocketWriterTestSupport		1.0
+MllpSocketWriterTestSupport.FakeSocket		0.88235295
+MllpSocketWriterTestSupport.FakeSocketOutputStream		0.93939394
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/test-Hl7UtilTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/test-MllpBufferedSocketAcknowledgementWriterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/test-MllpBufferedSocketMessageWriterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/test-MllpSocketAcknowledgementReaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/test-MllpSocketAcknowledgementWriterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/test-MllpSocketMessageReaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/test-MllpSocketMessageWriterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/test-MllpSocketReaderTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/test-MllpSocketReaderTestSupport_FakeSocket
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/test-MllpSocketReaderTestSupport_FakeSocketInputStream
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/test-MllpSocketUtilExceptionHandlingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/test-MllpSocketUtilExceptionHandlingTest_FakeSocket
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/test-MllpSocketUtilFindXxxOfBlockTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/test-MllpSocketUtilSocketTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/test-MllpSocketWriterTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/test-MllpSocketWriterTestSupport_FakeSocket
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/impl/test-MllpSocketWriterTestSupport_FakeSocketOutputStream
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/test-MllpExceptionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/test-MllpProducerConsumerLoopbackTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/test-MllpTcpClientProducerAcknowledgementTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/test-MllpTcpClientProducerAcknowledgementValidationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/test-MllpTcpClientProducerBlueprintTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/test-MllpTcpClientProducerConnectionErrorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/test-MllpTcpClientProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/test-MllpTcpServerConsumerAcknowledgementTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/test-MllpTcpServerConsumerBindTimeoutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/test-MllpTcpServerConsumerBlueprintTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/test-MllpTcpServerConsumerConnectionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/test-MllpTcpServerConsumerMessageHeadersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/test-MllpTcpServerConsumerMessageValidationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/test-MllpTcpServerConsumerMulitpleTcpPacketTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/test-MllpTcpServerConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/component/mllp/test-MllpTcpServerConsumerTransactionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/test/tcp/JavaSocketTests
+JavaSocketTests		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mllp/target/site/clover/org/apache/camel/test/tcp/test-JavaSocketTests
+-- -- -- -- -- -- -- -- -- -- -- -- --

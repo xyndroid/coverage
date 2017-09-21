@@ -1,0 +1,826 @@
+./openjpa-kernel/target/clover/org/apache/openjpa
+./openjpa-kernel/target/clover/org/apache/openjpa/conf/TestSpecification
+TestSpecification		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/conf/TestSpecification_testEqualityByName_1e
+org.apache.openjpa.conf.Specification		0.34920636
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/conf/TestSpecification_testEqualityByName_1h
+org.apache.openjpa.conf.Specification		0.34920636
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/conf/TestSpecification_testStaticConstruction_1c
+org.apache.openjpa.conf.Specification		0.3809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/conf/TestSpecification_testStaticConstruction_1f
+org.apache.openjpa.conf.Specification		0.3809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/conf/TestSpecification_testVersionCompare_1j
+org.apache.openjpa.conf.Specification		0.3809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/conf/TestSpecification_testVersionCompare_1m
+org.apache.openjpa.conf.Specification		0.3809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/conf/test-TestSpecification
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/ee/TestOSGiManagedRuntime
+TestOSGiManagedRuntime		0.6122449
+TestOSGiManagedRuntime.TestBundleContext		0.5555556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/ee/TestOSGiManagedRuntime_testTxnServiceDiscoveryPostStartPostStop_1
+org.apache.openjpa.ee.OSGiManagedRuntime		0.7222222
+org.apache.openjpa.ee.OSGiManagedRuntime.Listener		0.6666667
+org.apache.openjpa.util.InternalException		0.15789473
+org.apache.openjpa.util.OpenJPAException		0.07575758
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/ee/TestOSGiManagedRuntime_testTxnServiceDiscoveryPostStartPreStop_18
+org.apache.openjpa.ee.OSGiManagedRuntime.Listener		1.0
+org.apache.openjpa.ee.OSGiManagedRuntime		0.6388889
+org.apache.openjpa.util.InternalException		0.15789473
+org.apache.openjpa.util.OpenJPAException		0.07575758
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/ee/TestOSGiManagedRuntime_testTxnServiceDiscoveryPostStartPreStop_1b
+org.apache.openjpa.ee.OSGiManagedRuntime.Listener		1.0
+org.apache.openjpa.ee.OSGiManagedRuntime		0.6388889
+org.apache.openjpa.util.InternalException		0.15789473
+org.apache.openjpa.util.OpenJPAException		0.07575758
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/ee/TestOSGiManagedRuntime_testTxnServiceDiscoveryPreStartPostStop_15
+org.apache.openjpa.ee.OSGiManagedRuntime.Listener		0.73333335
+org.apache.openjpa.ee.OSGiManagedRuntime		0.6666667
+org.apache.openjpa.util.InternalException		0.15789473
+org.apache.openjpa.util.OpenJPAException		0.07575758
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/ee/TestOSGiManagedRuntime_testTxnServiceDiscoveryPreStartPostStop_18
+org.apache.openjpa.ee.OSGiManagedRuntime.Listener		0.73333335
+org.apache.openjpa.ee.OSGiManagedRuntime		0.6666667
+org.apache.openjpa.util.InternalException		0.15789473
+org.apache.openjpa.util.OpenJPAException		0.07575758
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/ee/TestOSGiManagedRuntime_testTxnServiceDiscoveryPreStartPreStop_p
+org.apache.openjpa.ee.OSGiManagedRuntime		0.75
+org.apache.openjpa.ee.OSGiManagedRuntime.Listener		0.2
+org.apache.openjpa.util.InternalException		0.15789473
+org.apache.openjpa.util.OpenJPAException		0.07575758
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/ee/TestOSGiManagedRuntime_testTxnServiceDiscoveryPreStartPreStop_r
+org.apache.openjpa.ee.OSGiManagedRuntime		0.75
+org.apache.openjpa.ee.OSGiManagedRuntime.Listener		0.2
+org.apache.openjpa.util.InternalException		0.15789473
+org.apache.openjpa.util.OpenJPAException		0.07575758
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/ee/TestWASManagedRuntime
+TestWASManagedRuntime		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/ee/TestWASManagedRuntime_testInterfaceAdded_1u
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/ee/TestWASManagedRuntime_testInterfaceAdded_1y
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/ee/test-TestOSGiManagedRuntime
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/ee/test-TestOSGiManagedRuntime_TestBundleContext
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/ee/test-TestWASManagedRuntime
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/enhance/TestAsmAdaptor
+TestAsmAdaptor		0.77272725
+TestAsmAdaptor.NotEnhanced		1.0
+TestAsmAdaptor.TransitivelyEnhanced		1.0
+TestAsmAdaptor.Enhanced		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/enhance/TestAsmAdaptor_isEnhanced_20
+org.apache.openjpa.enhance.AsmAdaptor.EnhancedStatusException		1.0
+org.apache.openjpa.enhance.AsmAdaptor		0.37179488
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/enhance/TestAsmAdaptor_isEnhanced_26
+org.apache.openjpa.enhance.AsmAdaptor.EnhancedStatusException		1.0
+org.apache.openjpa.enhance.AsmAdaptor		0.37179488
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/enhance/TestGetDeclaredMethod
+TestGetDeclaredMethod		0.90909094
+TestGetDeclaredMethod.Iface		1.0
+TestGetDeclaredMethod.Impl		0.0
+TestGetDeclaredMethod.Other		0.0
+TestGetDeclaredMethod.GenericsIface		1.0
+TestGetDeclaredMethod.GenericsImpl		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/enhance/TestGetDeclaredMethod_testGenerics_1q
+org.apache.openjpa.enhance.Reflection		0.027444255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/enhance/TestGetDeclaredMethod_testGenerics_1t
+org.apache.openjpa.enhance.Reflection		0.027444255
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/enhance/TestGetDeclaredMethod_testGetDeclaredMethod_m
+org.apache.openjpa.enhance.Reflection		0.04974271
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/enhance/TestGetDeclaredMethod_testGetDeclaredMethod_o
+org.apache.openjpa.enhance.Reflection		0.04974271
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/enhance/TestGetDeclaredMethod_testMostDerived_3
+org.apache.openjpa.enhance.Reflection		0.030874785
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/enhance/TestPCSubclassNameConversion
+TestPCSubclassNameConversion		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/enhance/TestPCSubclassNameConversion_testPCSubclassNameConversion_1o
+org.apache.openjpa.enhance.PCEnhancer		0.009657321
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/enhance/TestPCSubclassNameConversion_testPCSubclassNameConversion_1r
+org.apache.openjpa.enhance.PCEnhancer		0.009657321
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/enhance/test-TestAsmAdaptor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/enhance/test-TestAsmAdaptor_Enhanced
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/enhance/test-TestAsmAdaptor_NotEnhanced
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/enhance/test-TestAsmAdaptor_TransitivelyEnhanced
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/enhance/test-TestGetDeclaredMethod
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/enhance/test-TestGetDeclaredMethod_GenericsIface
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/enhance/test-TestGetDeclaredMethod_GenericsImpl
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/enhance/test-TestGetDeclaredMethod_Iface
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/enhance/test-TestGetDeclaredMethod_Impl
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/enhance/test-TestGetDeclaredMethod_Other
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/enhance/test-TestPCSubclassNameConversion
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/meta/TestAccessCode
+TestAccessCode		0.9264706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/meta/TestAccessCode_testCompatibleField_x
+org.apache.openjpa.meta.AccessCode		0.42753622
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/meta/TestAccessCode_testCompatibleField_z
+org.apache.openjpa.meta.AccessCode		0.42753622
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/meta/TestAccessCode_testExplicit_g
+org.apache.openjpa.meta.AccessCode		0.014492754
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/meta/TestAccessCode_testExplicit_h
+org.apache.openjpa.meta.AccessCode		0.014492754
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/meta/TestAccessCode_testField_1n
+org.apache.openjpa.meta.AccessCode		0.014492754
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/meta/TestAccessCode_testField_1q
+org.apache.openjpa.meta.AccessCode		0.014492754
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/meta/TestAccessCode_testMixed_s
+org.apache.openjpa.meta.AccessCode		0.014492754
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/meta/TestAccessCode_testMixed_u
+org.apache.openjpa.meta.AccessCode		0.014492754
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/meta/TestAccessCode_testProperty_q
+org.apache.openjpa.meta.AccessCode		0.014492754
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/meta/TestAccessCode_testProperty_s
+org.apache.openjpa.meta.AccessCode		0.014492754
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/meta/TestAccessCode_testToString_12
+org.apache.openjpa.meta.AccessCode		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/meta/TestAccessCode_testToString_15
+org.apache.openjpa.meta.AccessCode		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/meta/TestAccessCode_testValidClassCodes_1f
+org.apache.openjpa.meta.AccessCode		0.23188406
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/meta/TestAccessCode_testValidClassCodes_1i
+org.apache.openjpa.meta.AccessCode		0.23188406
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/meta/TestAccessCode_testValidFieldCodes_1v
+org.apache.openjpa.meta.AccessCode		0.26811594
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/meta/TestAccessCode_testValidFieldCodes_1z
+org.apache.openjpa.meta.AccessCode		0.26811594
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/meta/TestJavaTypes
+TestJavaTypes		1.0
+TestJavaTypes.TypesHolder		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/meta/TestJavaTypes_testIsPrimitiveDefault_l
+org.apache.openjpa.meta.JavaTypes		0.10687023
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/meta/TestJavaTypes_testIsPrimitiveDefault_n
+org.apache.openjpa.meta.JavaTypes		0.10687023
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/meta/TestMemberProvider
+TestMemberProvider		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/meta/TestMemberProvider_testField_k
+org.apache.openjpa.meta.FieldMetaData.MemberProvider		0.62857145
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/meta/TestMemberProvider_testField_m
+org.apache.openjpa.meta.FieldMetaData.MemberProvider		0.62857145
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/meta/TestMemberProvider_testMethod_13
+org.apache.openjpa.meta.FieldMetaData.MemberProvider		0.6857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/meta/TestMemberProvider_testMethod_16
+org.apache.openjpa.meta.FieldMetaData.MemberProvider		0.6857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/meta/test-TestAccessCode
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/meta/test-TestJavaTypes
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/meta/test-TestJavaTypes_TypesHolder
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/meta/test-TestMemberProvider
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager
+TestProxyManager		0.9722222
+TestProxyManager.CustomList		1.0
+TestProxyManager.CustomSet		1.0
+TestProxyManager.CustomSortedSet		1.0
+TestProxyManager.CustomComparatorSortedSet		1.0
+TestProxyManager.CustomMap		1.0
+TestProxyManager.CustomSortedMap		1.0
+TestProxyManager.CustomComparatorSortedMap		1.0
+TestProxyManager.CustomComparator		1.0
+TestProxyManager.CustomDate		1.0
+TestProxyManager.CustomBean		1.0
+TestProxyManager.CustomCopyConstructorBean		1.0
+TestProxyManager.NonproxyableBean		1.0
+TestProxyManager.NonproxyableBean2		1.0
+TestProxyManager.CustomCalendar		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testBeanMethodsProxied_1z
+org.apache.openjpa.util.GeneratedClasses		0.375
+org.apache.openjpa.util.ProxyManagerImpl		0.251944
+org.apache.openjpa.util.Proxies		0.073529415
+org.apache.openjpa.util.ImplHelper		0.025316456
+org.apache.openjpa.enhance.PCRegistry		0.021052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testBeanMethodsProxied_25
+org.apache.openjpa.util.GeneratedClasses		0.375
+org.apache.openjpa.util.ProxyManagerImpl		0.251944
+org.apache.openjpa.util.Proxies		0.073529415
+org.apache.openjpa.util.ImplHelper		0.025316456
+org.apache.openjpa.enhance.PCRegistry		0.021052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCalendarAbstractClassProxy_e
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.20139968
+org.apache.openjpa.util.Proxies		0.073529415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCalendarAbstractClassProxy_f
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.20139968
+org.apache.openjpa.util.Proxies		0.073529415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCalendarMethodsProxied_1a
+org.apache.openjpa.util.GeneratedClasses		0.5
+org.apache.openjpa.util.ProxyManagerImpl		0.2037325
+org.apache.openjpa.util.Proxies		0.073529415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCalendarMethodsProxied_1d
+org.apache.openjpa.util.GeneratedClasses		0.5
+org.apache.openjpa.util.ProxyManagerImpl		0.2037325
+org.apache.openjpa.util.Proxies		0.073529415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCloneProxyCalendar_1m
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.20139968
+org.apache.openjpa.util.Proxies		0.073529415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCloneProxyCalendar_1p
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.20139968
+org.apache.openjpa.util.Proxies		0.073529415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCloneProxyCollection_1k
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.30482116
+org.apache.openjpa.util.Proxies		0.11764706
+org.apache.openjpa.util.CollectionChangeTrackerImpl		0.109375
+org.apache.openjpa.util.ProxyCollections		0.083333336
+org.apache.openjpa.util.AbstractChangeTracker		0.06140351
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCloneProxyCollection_1n
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.30482116
+org.apache.openjpa.util.Proxies		0.11764706
+org.apache.openjpa.util.CollectionChangeTrackerImpl		0.109375
+org.apache.openjpa.util.ProxyCollections		0.083333336
+org.apache.openjpa.util.AbstractChangeTracker		0.06140351
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCloneProxyDate_f
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.19051322
+org.apache.openjpa.util.Proxies		0.073529415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCloneProxyDate_g
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.19051322
+org.apache.openjpa.util.Proxies		0.073529415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCloneProxyMap_11
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyMaps		0.35443038
+org.apache.openjpa.util.ProxyMaps.ProxyEntrySetImpl		0.33333334
+org.apache.openjpa.util.ProxyManagerImpl		0.30248833
+org.apache.openjpa.util.MapChangeTrackerImpl		0.14666666
+org.apache.openjpa.util.Proxies		0.11764706
+org.apache.openjpa.util.AbstractChangeTracker		0.096491225
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCloneProxyMap_14
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyMaps		0.35443038
+org.apache.openjpa.util.ProxyMaps.ProxyEntrySetImpl		0.33333334
+org.apache.openjpa.util.ProxyManagerImpl		0.30248833
+org.apache.openjpa.util.MapChangeTrackerImpl		0.14666666
+org.apache.openjpa.util.Proxies		0.11764706
+org.apache.openjpa.util.AbstractChangeTracker		0.096491225
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCollectionInterfaceProxy_t
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.30948678
+org.apache.openjpa.util.CollectionChangeTrackerImpl		0.078125
+org.apache.openjpa.util.AbstractChangeTracker		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCollectionInterfaceProxy_v
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.30948678
+org.apache.openjpa.util.CollectionChangeTrackerImpl		0.078125
+org.apache.openjpa.util.AbstractChangeTracker		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopyBeans_1w
+org.apache.openjpa.util.GeneratedClasses		0.375
+org.apache.openjpa.util.ProxyManagerImpl		0.24494557
+org.apache.openjpa.util.Proxies		0.073529415
+org.apache.openjpa.util.ImplHelper		0.025316456
+org.apache.openjpa.enhance.PCRegistry		0.021052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopyBeans_20
+org.apache.openjpa.util.GeneratedClasses		0.375
+org.apache.openjpa.util.ProxyManagerImpl		0.24494557
+org.apache.openjpa.util.Proxies		0.073529415
+org.apache.openjpa.util.ImplHelper		0.025316456
+org.apache.openjpa.enhance.PCRegistry		0.021052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopyCalendars_d
+org.apache.openjpa.util.GeneratedClasses		0.5
+org.apache.openjpa.util.ProxyManagerImpl		0.19984448
+org.apache.openjpa.util.Proxies		0.073529415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopyCalendars_e
+org.apache.openjpa.util.GeneratedClasses		0.5
+org.apache.openjpa.util.ProxyManagerImpl		0.19984448
+org.apache.openjpa.util.Proxies		0.073529415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopyDates_w
+org.apache.openjpa.util.GeneratedClasses		0.5
+org.apache.openjpa.util.ProxyManagerImpl		0.19906688
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopyDates_y
+org.apache.openjpa.util.GeneratedClasses		0.5
+org.apache.openjpa.util.ProxyManagerImpl		0.19906688
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopyLists_23
+org.apache.openjpa.util.GeneratedClasses		0.5
+org.apache.openjpa.util.ProxyManagerImpl		0.30793157
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopyLists_2a
+org.apache.openjpa.util.GeneratedClasses		0.5
+org.apache.openjpa.util.ProxyManagerImpl		0.30793157
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopyMaps_1r
+org.apache.openjpa.util.GeneratedClasses		0.5
+org.apache.openjpa.util.ProxyManagerImpl		0.30326593
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopyMaps_1u
+org.apache.openjpa.util.GeneratedClasses		0.5
+org.apache.openjpa.util.ProxyManagerImpl		0.30326593
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopyNullBean_a
+org.apache.openjpa.util.ProxyManagerImpl		0.00311042
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopyNullBean_b
+org.apache.openjpa.util.ProxyManagerImpl		0.00311042
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopyNullCalendar_6
+org.apache.openjpa.util.ProxyManagerImpl		0.00311042
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopyNullCalendar_7
+org.apache.openjpa.util.ProxyManagerImpl		0.00311042
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopyNullCollection_n
+org.apache.openjpa.util.ProxyManagerImpl		0.00311042
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopyNullCollection_p
+org.apache.openjpa.util.ProxyManagerImpl		0.00311042
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopyNullDate_1d
+org.apache.openjpa.util.ProxyManagerImpl		0.00311042
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopyNullDate_1g
+org.apache.openjpa.util.ProxyManagerImpl		0.00311042
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopyNullMap_1i
+org.apache.openjpa.util.ProxyManagerImpl		0.00311042
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopyNullMap_1l
+org.apache.openjpa.util.ProxyManagerImpl		0.00311042
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopyProxyBean_r
+org.apache.openjpa.util.GeneratedClasses		0.375
+org.apache.openjpa.util.ProxyManagerImpl		0.24105754
+org.apache.openjpa.util.Proxies		0.073529415
+org.apache.openjpa.util.ImplHelper		0.025316456
+org.apache.openjpa.enhance.PCRegistry		0.021052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopyProxyBean_t
+org.apache.openjpa.util.GeneratedClasses		0.375
+org.apache.openjpa.util.ProxyManagerImpl		0.24105754
+org.apache.openjpa.util.Proxies		0.073529415
+org.apache.openjpa.util.ImplHelper		0.025316456
+org.apache.openjpa.enhance.PCRegistry		0.021052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopyProxyCalendar_v
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.20606531
+org.apache.openjpa.util.Proxies		0.073529415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopyProxyCalendar_x
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.20606531
+org.apache.openjpa.util.Proxies		0.073529415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopyProxyCollection_0
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.31181958
+org.apache.openjpa.util.Proxies		0.11764706
+org.apache.openjpa.util.CollectionChangeTrackerImpl		0.109375
+org.apache.openjpa.util.ProxyCollections		0.077380955
+org.apache.openjpa.util.AbstractChangeTracker		0.06140351
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopyProxyDate_1x
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.19517885
+org.apache.openjpa.util.Proxies		0.073529415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopyProxyDate_23
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.19517885
+org.apache.openjpa.util.Proxies		0.073529415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopyProxyMap_10
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.30948678
+org.apache.openjpa.util.ProxyMaps.ProxyEntrySetImpl		0.25490198
+org.apache.openjpa.util.ProxyMaps		0.17721519
+org.apache.openjpa.util.Proxies		0.11764706
+org.apache.openjpa.util.MapChangeTrackerImpl		0.093333334
+org.apache.openjpa.util.AbstractChangeTracker		0.06140351
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopyProxyMap_12
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.30948678
+org.apache.openjpa.util.ProxyMaps.ProxyEntrySetImpl		0.25490198
+org.apache.openjpa.util.ProxyMaps		0.17721519
+org.apache.openjpa.util.Proxies		0.11764706
+org.apache.openjpa.util.MapChangeTrackerImpl		0.093333334
+org.apache.openjpa.util.AbstractChangeTracker		0.06140351
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopySets_o
+org.apache.openjpa.util.GeneratedClasses		0.5
+org.apache.openjpa.util.ProxyManagerImpl		0.30637637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopySets_q
+org.apache.openjpa.util.GeneratedClasses		0.5
+org.apache.openjpa.util.ProxyManagerImpl		0.30637637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopySortedMaps_9
+org.apache.openjpa.util.GeneratedClasses		0.5
+org.apache.openjpa.util.ProxyManagerImpl		0.30948678
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopySortedMaps_a
+org.apache.openjpa.util.GeneratedClasses		0.5
+org.apache.openjpa.util.ProxyManagerImpl		0.30948678
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopySortedSets_8
+org.apache.openjpa.util.GeneratedClasses		0.5
+org.apache.openjpa.util.ProxyManagerImpl		0.31337482
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testCopySortedSets_9
+org.apache.openjpa.util.GeneratedClasses		0.5
+org.apache.openjpa.util.ProxyManagerImpl		0.31337482
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testDateMethodsProxied_b
+org.apache.openjpa.util.GeneratedClasses		0.5
+org.apache.openjpa.util.ProxyManagerImpl		0.19595645
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testDateMethodsProxied_c
+org.apache.openjpa.util.GeneratedClasses		0.5
+org.apache.openjpa.util.ProxyManagerImpl		0.19595645
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testIsUnproxyable_1t
+org.apache.openjpa.util.GeneratedClasses		0.375
+org.apache.openjpa.util.ProxyManagerImpl		0.2651633
+org.apache.openjpa.util.Proxies		0.073529415
+org.apache.openjpa.util.ImplHelper		0.025316456
+org.apache.openjpa.enhance.PCRegistry		0.021052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testIsUnproxyable_1x
+org.apache.openjpa.util.GeneratedClasses		0.375
+org.apache.openjpa.util.ProxyManagerImpl		0.2651633
+org.apache.openjpa.util.Proxies		0.073529415
+org.apache.openjpa.util.ImplHelper		0.025316456
+org.apache.openjpa.enhance.PCRegistry		0.021052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testLinkedListMethodsProxied_c
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.30559877
+org.apache.openjpa.util.CollectionChangeTrackerImpl		0.078125
+org.apache.openjpa.util.AbstractChangeTracker		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testLinkedListMethodsProxied_d
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.30559877
+org.apache.openjpa.util.CollectionChangeTrackerImpl		0.078125
+org.apache.openjpa.util.AbstractChangeTracker		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testListChangeTracker_17
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.30482116
+org.apache.openjpa.util.CollectionChangeTrackerImpl		0.140625
+org.apache.openjpa.util.AbstractChangeTracker		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testListChangeTracker_1a
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.30482116
+org.apache.openjpa.util.CollectionChangeTrackerImpl		0.140625
+org.apache.openjpa.util.AbstractChangeTracker		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testListInterfaceProxy_i
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.30948678
+org.apache.openjpa.util.CollectionChangeTrackerImpl		0.078125
+org.apache.openjpa.util.AbstractChangeTracker		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testListInterfaceProxy_k
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.30948678
+org.apache.openjpa.util.CollectionChangeTrackerImpl		0.078125
+org.apache.openjpa.util.AbstractChangeTracker		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testListMethodsProxied_1l
+org.apache.openjpa.util.GeneratedClasses		0.5
+org.apache.openjpa.util.ProxyManagerImpl		0.31104198
+org.apache.openjpa.util.CollectionChangeTrackerImpl		0.078125
+org.apache.openjpa.util.AbstractChangeTracker		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testListMethodsProxied_1o
+org.apache.openjpa.util.GeneratedClasses		0.5
+org.apache.openjpa.util.ProxyManagerImpl		0.31104198
+org.apache.openjpa.util.CollectionChangeTrackerImpl		0.078125
+org.apache.openjpa.util.AbstractChangeTracker		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testMapMethodsProxied_1y
+org.apache.openjpa.util.GeneratedClasses		0.5
+org.apache.openjpa.util.ProxyManagerImpl		0.31493002
+org.apache.openjpa.util.MapChangeTrackerImpl		0.04
+org.apache.openjpa.util.AbstractChangeTracker		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testMapMethodsProxied_24
+org.apache.openjpa.util.GeneratedClasses		0.5
+org.apache.openjpa.util.ProxyManagerImpl		0.31493002
+org.apache.openjpa.util.MapChangeTrackerImpl		0.04
+org.apache.openjpa.util.AbstractChangeTracker		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testNonproxyableBean_19
+org.apache.openjpa.util.GeneratedClasses		0.1875
+org.apache.openjpa.util.ProxyManagerImpl		0.09486781
+org.apache.openjpa.util.ImplHelper		0.025316456
+org.apache.openjpa.enhance.PCRegistry		0.021052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testNonproxyableBean_1c
+org.apache.openjpa.util.GeneratedClasses		0.1875
+org.apache.openjpa.util.ProxyManagerImpl		0.09486781
+org.apache.openjpa.util.ImplHelper		0.025316456
+org.apache.openjpa.enhance.PCRegistry		0.021052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testPropertiesMethodsProxied_16
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.2978227
+org.apache.openjpa.util.MapChangeTrackerImpl		0.04
+org.apache.openjpa.util.AbstractChangeTracker		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testPropertiesMethodsProxied_19
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.2978227
+org.apache.openjpa.util.MapChangeTrackerImpl		0.04
+org.apache.openjpa.util.AbstractChangeTracker		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testProxyCustomDefaultScopedList_1h
+org.apache.openjpa.enhance.PCRegistry		0.021052632
+org.apache.openjpa.util.ProxyManagerImpl		0.014774495
+org.apache.openjpa.util.ImplHelper		0.012658228
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testProxyCustomDefaultScopedList_1k
+org.apache.openjpa.enhance.PCRegistry		0.021052632
+org.apache.openjpa.util.ProxyManagerImpl		0.014774495
+org.apache.openjpa.util.ImplHelper		0.012658228
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testProxyCustomDefaultScopedType_1p
+org.apache.openjpa.enhance.PCRegistry		0.021052632
+org.apache.openjpa.util.ProxyManagerImpl		0.014774495
+org.apache.openjpa.util.ImplHelper		0.012658228
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testProxyCustomDefaultScopedType_1s
+org.apache.openjpa.enhance.PCRegistry		0.021052632
+org.apache.openjpa.util.ProxyManagerImpl		0.014774495
+org.apache.openjpa.util.ImplHelper		0.012658228
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testQueueInterfaceProxy_j
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.31026438
+org.apache.openjpa.util.CollectionChangeTrackerImpl		0.078125
+org.apache.openjpa.util.AbstractChangeTracker		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testQueueInterfaceProxy_l
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.31026438
+org.apache.openjpa.util.CollectionChangeTrackerImpl		0.078125
+org.apache.openjpa.util.AbstractChangeTracker		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testQueueMethodsProxied_10
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.30559877
+org.apache.openjpa.util.CollectionChangeTrackerImpl		0.078125
+org.apache.openjpa.util.AbstractChangeTracker		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testQueueMethodsProxied_y
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.30559877
+org.apache.openjpa.util.CollectionChangeTrackerImpl		0.078125
+org.apache.openjpa.util.AbstractChangeTracker		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testSetChangeTracker_11
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.30482116
+org.apache.openjpa.util.CollectionChangeTrackerImpl		0.140625
+org.apache.openjpa.util.AbstractChangeTracker		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testSetChangeTracker_z
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.30482116
+org.apache.openjpa.util.CollectionChangeTrackerImpl		0.140625
+org.apache.openjpa.util.AbstractChangeTracker		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testSetInterfaceProxy_h
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.30948678
+org.apache.openjpa.util.CollectionChangeTrackerImpl		0.078125
+org.apache.openjpa.util.AbstractChangeTracker		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testSetInterfaceProxy_i
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.30948678
+org.apache.openjpa.util.CollectionChangeTrackerImpl		0.078125
+org.apache.openjpa.util.AbstractChangeTracker		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testSetMethodsProxied_7
+org.apache.openjpa.util.GeneratedClasses		0.5
+org.apache.openjpa.util.ProxyManagerImpl		0.31726283
+org.apache.openjpa.util.CollectionChangeTrackerImpl		0.078125
+org.apache.openjpa.util.AbstractChangeTracker		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testSetMethodsProxied_8
+org.apache.openjpa.util.GeneratedClasses		0.5
+org.apache.openjpa.util.ProxyManagerImpl		0.31726283
+org.apache.openjpa.util.CollectionChangeTrackerImpl		0.078125
+org.apache.openjpa.util.AbstractChangeTracker		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testSortedSetInterfaceProxy_1g
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.30948678
+org.apache.openjpa.util.CollectionChangeTrackerImpl		0.078125
+org.apache.openjpa.util.AbstractChangeTracker		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testSortedSetInterfaceProxy_1j
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.30948678
+org.apache.openjpa.util.CollectionChangeTrackerImpl		0.078125
+org.apache.openjpa.util.AbstractChangeTracker		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testVectorMethodsProxied_u
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.30637637
+org.apache.openjpa.util.CollectionChangeTrackerImpl		0.078125
+org.apache.openjpa.util.AbstractChangeTracker		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestProxyManager_testVectorMethodsProxied_w
+org.apache.openjpa.util.GeneratedClasses		0.4375
+org.apache.openjpa.util.ProxyManagerImpl		0.30637637
+org.apache.openjpa.util.CollectionChangeTrackerImpl		0.078125
+org.apache.openjpa.util.AbstractChangeTracker		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestResultShape
+TestResultShape		0.9191176
+TestResultShape.Foo		0.44444445
+TestResultShape.Bar		0.625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestResultShape_testArrayIsMutable_22
+org.apache.openjpa.kernel.ResultShape		0.44378698
+org.apache.openjpa.kernel.FillStrategy.Array		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestResultShape_testArrayIsMutable_29
+org.apache.openjpa.kernel.ResultShape		0.44378698
+org.apache.openjpa.kernel.FillStrategy.Array		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestResultShape_testFill2_5
+org.apache.openjpa.kernel.FillStrategy.Array		0.8
+org.apache.openjpa.kernel.FillStrategy.Assign		0.75
+org.apache.openjpa.kernel.ResultShape		0.6863905
+org.apache.openjpa.kernel.FillStrategy.NewInstance		0.3846154
+org.apache.openjpa.kernel.Filters		0.056565657
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestResultShape_testFill_2
+org.apache.openjpa.kernel.FillStrategy.Assign		0.75
+org.apache.openjpa.kernel.ResultShape		0.65680474
+org.apache.openjpa.kernel.FillStrategy.NewInstance		0.3846154
+org.apache.openjpa.kernel.Filters		0.02929293
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestResultShape_testGetCompositeTypes_14
+org.apache.openjpa.kernel.ResultShape		0.6035503
+org.apache.openjpa.kernel.FillStrategy.Array		0.4
+org.apache.openjpa.kernel.FillStrategy.NewInstance		0.102564104
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestResultShape_testGetCompositeTypes_17
+org.apache.openjpa.kernel.ResultShape		0.6035503
+org.apache.openjpa.kernel.FillStrategy.Array		0.4
+org.apache.openjpa.kernel.FillStrategy.NewInstance		0.102564104
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestResultShape_testMethodImpliesMapStrategy_4
+org.apache.openjpa.kernel.FillStrategy.Map		0.23529412
+org.apache.openjpa.kernel.ResultShape		0.12426036
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestResultShape_testPrimitiveShapeIsImmutable_1s
+org.apache.openjpa.kernel.FillStrategy.Array		0.4
+org.apache.openjpa.kernel.ResultShape		0.20118344
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestResultShape_testPrimitiveShapeIsImmutable_1w
+org.apache.openjpa.kernel.FillStrategy.Array		0.4
+org.apache.openjpa.kernel.ResultShape		0.20118344
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestResultShape_testRecursiveNestingIsNotAllowed_21
+org.apache.openjpa.kernel.ResultShape		0.44970414
+org.apache.openjpa.kernel.FillStrategy.Array		0.4
+org.apache.openjpa.kernel.FillStrategy.NewInstance		0.102564104
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestResultShape_testRecursiveNestingIsNotAllowed_28
+org.apache.openjpa.kernel.ResultShape		0.44970414
+org.apache.openjpa.kernel.FillStrategy.Array		0.4
+org.apache.openjpa.kernel.FillStrategy.NewInstance		0.102564104
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestResultShape_testShapeWithConstrcutorStrategy_1b
+org.apache.openjpa.kernel.ResultShape		0.13609467
+org.apache.openjpa.kernel.FillStrategy.NewInstance		0.051282052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/TestResultShape_testShapeWithConstrcutorStrategy_1e
+org.apache.openjpa.kernel.ResultShape		0.13609467
+org.apache.openjpa.kernel.FillStrategy.NewInstance		0.051282052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/test-TestProxyManager
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/test-TestProxyManager_CustomBean
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/test-TestProxyManager_CustomCalendar
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/test-TestProxyManager_CustomComparator
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/test-TestProxyManager_CustomComparatorSortedMap
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/test-TestProxyManager_CustomComparatorSortedSet
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/test-TestProxyManager_CustomCopyConstructorBean
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/test-TestProxyManager_CustomDate
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/test-TestProxyManager_CustomList
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/test-TestProxyManager_CustomMap
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/test-TestProxyManager_CustomSet
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/test-TestProxyManager_CustomSortedMap
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/test-TestProxyManager_CustomSortedSet
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/test-TestProxyManager_NonproxyableBean
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/test-TestProxyManager_NonproxyableBean2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/test-TestResultShape
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/test-TestResultShape_Bar
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-kernel/target/clover/org/apache/openjpa/util/test-TestResultShape_Foo
+-- -- -- -- -- -- -- -- -- -- -- -- --

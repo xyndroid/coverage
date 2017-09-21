@@ -1,0 +1,88 @@
+./components/camel-xmlrpc/target/site/clover/org/apache/camel
+./components/camel-xmlrpc/target/site/clover/org/apache/camel/component/xmlrpc/XmlRpcComponentTest
+XmlRpcComponentTest		0.9767442
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlrpc/target/site/clover/org/apache/camel/component/xmlrpc/XmlRpcComponentTest_testXmlRpcFaultMessage_5
+org.apache.camel.component.xmlrpc.XmlRpcComponent		0.7777778
+org.apache.camel.component.xmlrpc.XmlRpcEndpoint		0.6111111
+org.apache.camel.component.xmlrpc.XmlRpcProducer		0.60784316
+org.apache.camel.component.xmlrpc.XmlRpcAsyncCallback		0.5833333
+org.apache.camel.component.xmlrpc.XmlRpcConfiguration		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlrpc/target/site/clover/org/apache/camel/component/xmlrpc/XmlRpcComponentTest_testXmlRpcResponseMessage_8
+org.apache.camel.component.xmlrpc.XmlRpcAsyncCallback		0.6666667
+org.apache.camel.component.xmlrpc.XmlRpcProducer		0.47058824
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlrpc/target/site/clover/org/apache/camel/component/xmlrpc/XmlRpcComponentTest_verifyHeadersPreservedAsync_2
+org.apache.camel.component.xmlrpc.XmlRpcAsyncCallback		0.6666667
+org.apache.camel.component.xmlrpc.XmlRpcProducer		0.23529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlrpc/target/site/clover/org/apache/camel/component/xmlrpc/XmlRpcComponentTest_verifyHeadersPreservedSync_4
+org.apache.camel.component.xmlrpc.XmlRpcProducer		0.23529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlrpc/target/site/clover/org/apache/camel/component/xmlrpc/XmlRpcEndpointTest
+XmlRpcEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlrpc/target/site/clover/org/apache/camel/component/xmlrpc/XmlRpcEndpointTest_testClientConfigurer_b
+org.apache.camel.component.xmlrpc.XmlRpcComponent		1.0
+org.apache.camel.component.xmlrpc.XmlRpcEndpoint		0.537037
+org.apache.camel.component.xmlrpc.XmlRpcConfiguration		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlrpc/target/site/clover/org/apache/camel/component/xmlrpc/XmlRpcEndpointTest_testEndpointSetting_1
+org.apache.camel.component.xmlrpc.XmlRpcComponent		1.0
+org.apache.camel.component.xmlrpc.XmlRpcConfiguration		0.60714287
+org.apache.camel.component.xmlrpc.XmlRpcEndpoint		0.44444445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlrpc/target/site/clover/org/apache/camel/component/xmlrpc/converter/XmlRpcConverterTest
+XmlRpcConverterTest		0.9375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlrpc/target/site/clover/org/apache/camel/component/xmlrpc/converter/XmlRpcConverterTest_testToXmlRpcRequestWithoutOperationName_a
+testToXmlRpcRequestWithoutOperationName
+org.apache.camel.component.xmlrpc.converter.XmlRpcConverter		0.33333334
+org.apache.camel.component.xmlrpc.XmlRpcRequestImpl		0.23809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlrpc/target/site/clover/org/apache/camel/component/xmlrpc/converter/XmlRpcConverterTest_testToXmlRpcRequest_6
+testToXmlRpcRequest
+org.apache.camel.component.xmlrpc.XmlRpcRequestImpl		0.5714286
+org.apache.camel.component.xmlrpc.converter.XmlRpcConverter		0.44444445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlrpc/target/site/clover/org/apache/camel/component/xmlrpc/converter/test-XmlRpcConverterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlrpc/target/site/clover/org/apache/camel/component/xmlrpc/test-XmlRpcComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlrpc/target/site/clover/org/apache/camel/component/xmlrpc/test-XmlRpcEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlrpc/target/site/clover/org/apache/camel/dataformat/xmlrpc/SpringXmlRpcDataFormatTest
+SpringXmlRpcDataFormatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlrpc/target/site/clover/org/apache/camel/dataformat/xmlrpc/SpringXmlRpcDataFormatTest_testRequestMessage_3
+org.apache.camel.dataformat.xmlrpc.XmlRpcWriter		0.8666667
+org.apache.camel.component.xmlrpc.XmlRpcRequestImpl		0.71428573
+org.apache.camel.dataformat.xmlrpc.XmlRpcDataFormat		0.38636363
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlrpc/target/site/clover/org/apache/camel/dataformat/xmlrpc/SpringXmlRpcDataFormatTest_testResponseMessage_7
+org.apache.camel.dataformat.xmlrpc.XmlRpcDataFormat		0.39772728
+org.apache.camel.dataformat.xmlrpc.XmlRpcWriter		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlrpc/target/site/clover/org/apache/camel/dataformat/xmlrpc/XmlRpcDataFormatTest
+XmlRpcDataFormatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlrpc/target/site/clover/org/apache/camel/dataformat/xmlrpc/XmlRpcDataFormatTest_testRequestMessageFromList_c
+org.apache.camel.dataformat.xmlrpc.XmlRpcWriter		0.8666667
+org.apache.camel.component.xmlrpc.XmlRpcRequestImpl		0.71428573
+org.apache.camel.component.xmlrpc.converter.XmlRpcConverter		0.44444445
+org.apache.camel.dataformat.xmlrpc.XmlRpcDataFormat		0.38636363
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlrpc/target/site/clover/org/apache/camel/dataformat/xmlrpc/XmlRpcDataFormatTest_testRequestMessage_0
+org.apache.camel.dataformat.xmlrpc.XmlRpcWriter		0.8666667
+org.apache.camel.component.xmlrpc.XmlRpcRequestImpl		0.71428573
+org.apache.camel.dataformat.xmlrpc.XmlRpcDataFormat		0.38636363
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlrpc/target/site/clover/org/apache/camel/dataformat/xmlrpc/XmlRpcDataFormatTest_testResponseMessage_9
+org.apache.camel.dataformat.xmlrpc.XmlRpcDataFormat		0.39772728
+org.apache.camel.dataformat.xmlrpc.XmlRpcWriter		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlrpc/target/site/clover/org/apache/camel/dataformat/xmlrpc/test-SpringXmlRpcDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmlrpc/target/site/clover/org/apache/camel/dataformat/xmlrpc/test-XmlRpcDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

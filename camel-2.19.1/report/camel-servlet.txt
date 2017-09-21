@@ -1,0 +1,442 @@
+./components/camel-servlet/target/site/clover/org/apache/camel
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/ExposedServletEndpointURIToJMXTest
+ExposedServletEndpointURIToJMXTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/ExposedServletEndpointURIToJMXTest_exposedEndpointURIShouldContainContextAndOptions_t
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/HttpClientRouteExampleSpringTest
+HttpClientRouteExampleSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/HttpClientRouteExampleSpringTest_testHttpRestricMethod_s
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.ServletEndpoint		0.46938777
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/HttpClientRouteSpringTest
+HttpClientRouteSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/HttpClientRouteSpringTest_testCreateSerlvetEndpointProducer_b
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/HttpClientRouteSpringTest_testHttpClient_1e
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.ServletEndpoint		0.46938777
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/HttpClientRouteSpringTest_testHttpConverter_1b
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.ServletEndpoint		0.46938777
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/HttpClientRouteSpringTest_testHttpRestricMethod_19
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.ServletEndpoint		0.46938777
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/HttpClientRouteSpringTest_testHttpUnicodeResponseWithObjectResponse_c
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.ServletEndpoint		0.46938777
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/HttpClientRouteSpringTest_testHttpUnicodeResponseWithStringResponse_w
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.ServletEndpoint		0.46938777
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/HttpClientRouteTest
+HttpClientRouteTest		0.9677419
+HttpClientRouteTest.MyServletRoute		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/HttpClientRouteTest_testCreateSerlvetEndpointProducer_1h
+org.apache.camel.component.servlet.ServletComponent		0.3147208
+org.apache.camel.component.servlet.ServletEndpoint		0.26530612
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/HttpClientRouteTest_testHttpClient_4
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.ServletEndpoint		0.46938777
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/HttpClientRouteTest_testHttpConverter_j
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.ServletEndpoint		0.46938777
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/HttpClientRouteTest_testHttpRestricMethod_10
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.ServletEndpoint		0.46938777
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/HttpClientRouteTest_testHttpUnicodeResponseWithObjectResponse_m
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.ServletEndpoint		0.46938777
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/HttpClientRouteTest_testHttpUnicodeResponseWithStringResponse_3
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.ServletEndpoint		0.46938777
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/MultiServletConsumerTest
+MultiServletConsumerTest		0.9230769
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/MultiServletConsumerTest_testMultiServletsConsumersCannotAccessEachOther_p
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+org.apache.camel.component.servlet.ServletEndpoint		0.040816326
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/MultiServletConsumerTest_testMultiServletsConsumers_12
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.ServletEndpoint		0.46938777
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/ServletAsyncArquillianTest
+ServletAsyncArquillianTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/ServletAsyncArquillianTest_testHello_1f
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.ServletEndpoint		0.42857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/ServletCamelRouterTestSupport
+ServletCamelRouterTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/ServletNoSlashNeededTest
+ServletNoSlashNeededTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/ServletNoSlashNeededTest_testNoSlashNeeded_d
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.ServletEndpoint		0.46938777
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/ServletRootPathTest
+ServletRootPathTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/ServletRootPathTest_testRootPath_o
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.ServletEndpoint		0.46938777
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/ServletSetBodyTest
+ServletSetBodyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/ServletSetBodyTest_testSetBody_7
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.ServletEndpoint		0.46938777
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/ServletTransferExceptionTest
+ServletTransferExceptionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/ServletTransferExceptionTest_testTransferException_18
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.ServletEndpoint		0.46938777
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletBindingModeAutoWithJsonTest
+RestServletBindingModeAutoWithJsonTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletBindingModeAutoWithJsonTest_testServletProducerGet_l
+testServletProducerGet
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.ServletRestHttpBinding		0.30555555
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+org.apache.camel.component.servlet.ServletEndpoint		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletBindingModeAutoWithXmlTest
+RestServletBindingModeAutoWithXmlTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletBindingModeAutoWithXmlTest_testServletProducerGet_1a
+testServletProducerGet
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.ServletRestHttpBinding		0.30555555
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+org.apache.camel.component.servlet.ServletEndpoint		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletBindingModeJsonTest
+RestServletBindingModeJsonTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletBindingModeJsonTest_testBindingModeWrong_5
+testBindingModeWrong
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.ServletRestHttpBinding		0.30555555
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+org.apache.camel.component.servlet.ServletEndpoint		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletBindingModeJsonTest_testBindingMode_9
+testBindingMode
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.ServletRestHttpBinding		0.30555555
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+org.apache.camel.component.servlet.ServletEndpoint		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletBindingModeJsonWithContractTest
+RestServletBindingModeJsonWithContractTest		1.0
+RestServletBindingModeJsonWithContractTest.MyTypeConverters		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletBindingModeJsonWithContractTest_testBindingModeJsonWithContract_a
+testBindingModeJsonWithContract
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.ServletRestHttpBinding		0.30555555
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+org.apache.camel.component.servlet.ServletEndpoint		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletBindingModeOffWithContractTest
+RestServletBindingModeOffWithContractTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletBindingModeOffWithContractTest_testBindingModeOffWithContract_1d
+testBindingModeOffWithContract
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.ServletRestHttpBinding		0.30555555
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+org.apache.camel.component.servlet.ServletEndpoint		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletBindingModeXmlTest
+RestServletBindingModeXmlTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletBindingModeXmlTest_testBindingModeWrong_y
+testBindingModeWrong
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.ServletRestHttpBinding		0.30555555
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+org.apache.camel.component.servlet.ServletEndpoint		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletBindingModeXmlTest_testBindingMode_e
+testBindingMode
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.ServletRestHttpBinding		0.30555555
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+org.apache.camel.component.servlet.ServletEndpoint		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletGetTest
+RestServletGetTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletGetTest_testServletProducerGet_8
+testServletProducerGet
+org.apache.camel.component.servlet.ServletRestHttpBinding		0.75
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+org.apache.camel.component.servlet.ServletEndpoint		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletGetWildcardsTest
+RestServletGetWildcardsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletGetWildcardsTest_testServletProducerGetWildcards_17
+testServletProducerGetWildcards
+org.apache.camel.component.servlet.ServletRestHttpBinding		0.75
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+org.apache.camel.component.servlet.ServletEndpoint		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletGetWildcardsTest_testServletProducerGet_11
+testServletProducerGet
+org.apache.camel.component.servlet.ServletRestHttpBinding		0.75
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+org.apache.camel.component.servlet.ServletEndpoint		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletOptionsTest
+RestServletOptionsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletOptionsTest_testServletOptions_n
+testServletOptions
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+org.apache.camel.component.servlet.ServletEndpoint		0.040816326
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletPojoInOutTest
+RestServletPojoInOutTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletPojoInOutTest_testServletPojoGet_q
+testServletPojoGet
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.ServletRestHttpBinding		0.30555555
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+org.apache.camel.component.servlet.ServletEndpoint		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletPojoInOutTest_testServletPojoInOut_r
+testServletPojoInOut
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.ServletRestHttpBinding		0.30555555
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+org.apache.camel.component.servlet.ServletEndpoint		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletPostJsonJaxbPojoTest
+RestServletPostJsonJaxbPojoTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletPostJsonJaxbPojoTest_testPostJaxbPojo_15
+testPostJaxbPojo
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.ServletRestHttpBinding		0.30555555
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+org.apache.camel.component.servlet.ServletEndpoint		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletPostJsonPojoListTest
+RestServletPostJsonPojoListTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletPostJsonPojoListTest_testPostJaxbPojo_2
+testPostJaxbPojo
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.ServletRestHttpBinding		0.30555555
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+org.apache.camel.component.servlet.ServletEndpoint		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletPostJsonPojoTest
+RestServletPostJsonPojoTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletPostJsonPojoTest_testPostJaxbPojo_f
+testPostJaxbPojo
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.ServletRestHttpBinding		0.30555555
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+org.apache.camel.component.servlet.ServletEndpoint		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletPostXmlJaxbPojoTest
+RestServletPostXmlJaxbPojoTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletPostXmlJaxbPojoTest_testPostJaxbPojoNoContentType_g
+testPostJaxbPojoNoContentType
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.ServletRestHttpBinding		0.30555555
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+org.apache.camel.component.servlet.ServletEndpoint		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletPostXmlJaxbPojoTest_testPostJaxbPojo_6
+testPostJaxbPojo
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.ServletRestHttpBinding		0.30555555
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+org.apache.camel.component.servlet.ServletEndpoint		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletVerbTest
+RestServletVerbTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletVerbTest_testDelete_13
+testDelete
+org.apache.camel.component.servlet.ServletRestHttpBinding		0.75
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+org.apache.camel.component.servlet.ServletEndpoint		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletVerbTest_testGetAll_x
+testGetAll
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.ServletRestHttpBinding		0.30555555
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+org.apache.camel.component.servlet.ServletEndpoint		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletVerbTest_testGetOne_z
+testGetOne
+org.apache.camel.component.servlet.ServletRestHttpBinding		0.75
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+org.apache.camel.component.servlet.ServletEndpoint		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletVerbTest_testPost_h
+testPost
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.ServletRestHttpBinding		0.30555555
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+org.apache.camel.component.servlet.ServletEndpoint		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/RestServletVerbTest_testPut_1c
+testPut
+org.apache.camel.component.servlet.ServletRestHttpBinding		0.75
+org.apache.camel.component.servlet.ServletConsumer		0.5
+org.apache.camel.component.servlet.CamelHttpTransportServlet		0.45
+org.apache.camel.component.servlet.DefaultHttpRegistry		0.22222222
+org.apache.camel.component.servlet.ServletEndpoint		0.12244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/test-RestServletBindingModeAutoWithJsonTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/test-RestServletBindingModeAutoWithXmlTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/test-RestServletBindingModeJsonTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/test-RestServletBindingModeJsonWithContractTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/test-RestServletBindingModeJsonWithContractTest_MyTypeConverters
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/test-RestServletBindingModeOffWithContractTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/test-RestServletBindingModeXmlTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/test-RestServletGetTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/test-RestServletGetWildcardsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/test-RestServletOptionsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/test-RestServletPojoInOutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/test-RestServletPostJsonJaxbPojoTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/test-RestServletPostJsonPojoListTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/test-RestServletPostJsonPojoTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/test-RestServletPostXmlJaxbPojoTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/rest/test-RestServletVerbTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/test-ExposedServletEndpointURIToJMXTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/test-HttpClientRouteExampleSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/test-HttpClientRouteSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/test-HttpClientRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/test-HttpClientRouteTest_MyServletRoute
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/test-MultiServletConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/test-ServletAsyncArquillianTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/test-ServletCamelRouterTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/test-ServletNoSlashNeededTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/test-ServletRootPathTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/test-ServletSetBodyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-servlet/target/site/clover/org/apache/camel/component/servlet/test-ServletTransferExceptionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

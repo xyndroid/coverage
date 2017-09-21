@@ -1,0 +1,64 @@
+./openjpa-slice/target/clover/org/apache/openjpa
+./openjpa-slice/target/clover/org/apache/openjpa/slice/PersistenceTestCase
+PersistenceTestCase		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-slice/target/clover/org/apache/openjpa/slice/SingleEMFTestCase
+SingleEMFTestCase		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-slice/target/clover/org/apache/openjpa/slice/SliceTestCase
+SliceTestCase		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-slice/target/clover/org/apache/openjpa/slice/TestBasic
+TestBasic		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-slice/target/clover/org/apache/openjpa/slice/TestBulkDelete
+TestBulkDelete		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-slice/target/clover/org/apache/openjpa/slice/TestConfiguration
+TestConfiguration		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-slice/target/clover/org/apache/openjpa/slice/TestQuery
+TestQuery		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-slice/target/clover/org/apache/openjpa/slice/TestQueryMultiThreaded
+TestQueryMultiThreaded		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-slice/target/clover/org/apache/openjpa/slice/TestQueryTargetPolicy
+TestQueryTargetPolicy		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-slice/target/clover/org/apache/openjpa/slice/TestReplication
+TestReplication		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-slice/target/clover/org/apache/openjpa/slice/TestTransaction
+TestTransaction		0.0
+TestTransaction.CarDistributorPolicy		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-slice/target/clover/org/apache/openjpa/slice/TestXA
+TestXA		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-slice/target/clover/org/apache/openjpa/slice/test-PersistenceTestCase
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-slice/target/clover/org/apache/openjpa/slice/test-SingleEMFTestCase
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-slice/target/clover/org/apache/openjpa/slice/test-SliceTestCase
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-slice/target/clover/org/apache/openjpa/slice/test-TestBasic
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-slice/target/clover/org/apache/openjpa/slice/test-TestBulkDelete
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-slice/target/clover/org/apache/openjpa/slice/test-TestConfiguration
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-slice/target/clover/org/apache/openjpa/slice/test-TestQuery
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-slice/target/clover/org/apache/openjpa/slice/test-TestQueryMultiThreaded
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-slice/target/clover/org/apache/openjpa/slice/test-TestQueryTargetPolicy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-slice/target/clover/org/apache/openjpa/slice/test-TestReplication
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-slice/target/clover/org/apache/openjpa/slice/test-TestTransaction
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-slice/target/clover/org/apache/openjpa/slice/test-TestTransaction_CarDistributorPolicy
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-slice/target/clover/org/apache/openjpa/slice/test-TestXA
+-- -- -- -- -- -- -- -- -- -- -- -- --

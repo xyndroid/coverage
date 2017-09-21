@@ -1,0 +1,65 @@
+./components/camel-google-pubsub/target/site/clover/org/apache/camel
+./components/camel-google-pubsub/target/site/clover/org/apache/camel/component/google/pubsub/PubsubTestSupport
+PubsubTestSupport		0.52
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-pubsub/target/site/clover/org/apache/camel/component/google/pubsub/integration/AckModeNoneTest
+AckModeNoneTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-pubsub/target/site/clover/org/apache/camel/component/google/pubsub/integration/AcknowledgementTest
+AcknowledgementTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-pubsub/target/site/clover/org/apache/camel/component/google/pubsub/integration/BodyTypesTest
+BodyTypesTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-pubsub/target/site/clover/org/apache/camel/component/google/pubsub/integration/GroupedExchangeRoundtripTest
+GroupedExchangeRoundtripTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-pubsub/target/site/clover/org/apache/camel/component/google/pubsub/integration/PubsubConnectionFactoryTest
+PubsubConnectionFactoryTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-pubsub/target/site/clover/org/apache/camel/component/google/pubsub/integration/SingleExchangeRoundtripTest
+SingleExchangeRoundtripTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-pubsub/target/site/clover/org/apache/camel/component/google/pubsub/integration/test-AckModeNoneTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-pubsub/target/site/clover/org/apache/camel/component/google/pubsub/integration/test-AcknowledgementTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-pubsub/target/site/clover/org/apache/camel/component/google/pubsub/integration/test-BodyTypesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-pubsub/target/site/clover/org/apache/camel/component/google/pubsub/integration/test-GroupedExchangeRoundtripTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-pubsub/target/site/clover/org/apache/camel/component/google/pubsub/integration/test-PubsubConnectionFactoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-pubsub/target/site/clover/org/apache/camel/component/google/pubsub/integration/test-SingleExchangeRoundtripTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-pubsub/target/site/clover/org/apache/camel/component/google/pubsub/test-PubsubTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-pubsub/target/site/clover/org/apache/camel/component/google/pubsub/unit/PubsubComponentTest
+PubsubComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-pubsub/target/site/clover/org/apache/camel/component/google/pubsub/unit/PubsubComponentTest_testComponentConfiguration_2
+org.apache.camel.component.google.pubsub.GooglePubsubComponent		0.17391305
+org.apache.camel.component.google.pubsub.GooglePubsubConnectionFactory		0.03846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-pubsub/target/site/clover/org/apache/camel/component/google/pubsub/unit/PubsubEndpointTest
+PubsubEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-pubsub/target/site/clover/org/apache/camel/component/google/pubsub/unit/PubsubEndpointTest_testEndpointConfiguration_0
+org.apache.camel.component.google.pubsub.GooglePubsubConsumer.PubsubPoller		0.22222222
+org.apache.camel.component.google.pubsub.GooglePubsubEndpoint		0.19672132
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-pubsub/target/site/clover/org/apache/camel/component/google/pubsub/unit/PubsubProducerTest
+PubsubProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-pubsub/target/site/clover/org/apache/camel/component/google/pubsub/unit/PubsubProducerTest_testProducerConfiguration_1
+org.apache.camel.component.google.pubsub.GooglePubsubEndpoint		0.29508197
+org.apache.camel.component.google.pubsub.GooglePubsubComponent		0.17391305
+org.apache.camel.component.google.pubsub.GooglePubsubProducer		0.11111111
+org.apache.camel.component.google.pubsub.GooglePubsubConnectionFactory		0.057692308
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-pubsub/target/site/clover/org/apache/camel/component/google/pubsub/unit/test-PubsubComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-pubsub/target/site/clover/org/apache/camel/component/google/pubsub/unit/test-PubsubEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-google-pubsub/target/site/clover/org/apache/camel/component/google/pubsub/unit/test-PubsubProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

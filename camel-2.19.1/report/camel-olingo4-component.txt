@@ -1,0 +1,26 @@
+./components/camel-olingo4/camel-olingo4-component/target/site/clover/org/apache/camel
+./components/camel-olingo4/camel-olingo4-component/target/site/clover/org/apache/camel/component/olingo4/AbstractOlingo4TestSupport
+AbstractOlingo4TestSupport		0.96428573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-olingo4/camel-olingo4-component/target/site/clover/org/apache/camel/component/olingo4/Olingo4ComponentTest
+Olingo4ComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-olingo4/camel-olingo4-component/target/site/clover/org/apache/camel/component/olingo4/Olingo4ComponentTest_testBatch_1
+org.apache.camel.component.olingo4.Olingo4Producer		0.5555556
+org.apache.camel.component.olingo4.Olingo4AppWrapper		0.5
+org.apache.camel.component.olingo4.Olingo4Endpoint		0.20212767
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-olingo4/camel-olingo4-component/target/site/clover/org/apache/camel/component/olingo4/Olingo4ComponentTest_testCreateUpdateDelete_0
+org.apache.camel.component.olingo4.Olingo4Producer		0.6388889
+org.apache.camel.component.olingo4.Olingo4Endpoint		0.20212767
+org.apache.camel.component.olingo4.Olingo4AppWrapper		0.1521739
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-olingo4/camel-olingo4-component/target/site/clover/org/apache/camel/component/olingo4/Olingo4ComponentTest_testRead_2
+org.apache.camel.component.olingo4.Olingo4Producer		0.5555556
+org.apache.camel.component.olingo4.Olingo4Endpoint		0.20212767
+org.apache.camel.component.olingo4.Olingo4AppWrapper		0.1521739
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-olingo4/camel-olingo4-component/target/site/clover/org/apache/camel/component/olingo4/test-AbstractOlingo4TestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-olingo4/camel-olingo4-component/target/site/clover/org/apache/camel/component/olingo4/test-Olingo4ComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

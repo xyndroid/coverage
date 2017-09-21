@@ -1,0 +1,166 @@
+./components/camel-jt400/target/site/clover/org/apache/camel
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400ComponentDefaultConnectionPoolTest
+Jt400ComponentDefaultConnectionPoolTest		0.875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400ComponentDefaultConnectionPoolTest_testDefaultConnectionPoolIsCreated_f
+org.apache.camel.component.jt400.Jt400Component		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400ComponentDefaultConnectionPoolTest_testDefaultConnectionPoolIsOfExpectedType_m
+org.apache.camel.component.jt400.Jt400Component		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400ComponentDefaultSecureConnectionPoolTest
+Jt400ComponentDefaultSecureConnectionPoolTest		0.875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400ComponentDefaultSecureConnectionPoolTest_testDefaultConnectionPoolIsCreated_k
+org.apache.camel.component.jt400.Jt400Component		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400ComponentDefaultSecureConnectionPoolTest_testDefaultConnectionPoolIsOfExpectedType_0
+org.apache.camel.component.jt400.Jt400Component		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400ComponentTest
+Jt400ComponentTest		0.96153843
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400ComponentTest_testCreateDatqEndpoint_r
+org.apache.camel.component.jt400.Jt400Component		0.3529412
+org.apache.camel.component.jt400.Jt400Configuration		0.09836066
+org.apache.camel.component.jt400.Jt400Endpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400ComponentTest_testCreateDatqSecuredEndpoint_4
+org.apache.camel.component.jt400.Jt400Component		0.3529412
+org.apache.camel.component.jt400.Jt400Configuration		0.13114753
+org.apache.camel.component.jt400.Jt400Endpoint		0.1122449
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400ComponentTest_testCreateEndpointForOtherObjectType_8
+org.apache.camel.component.jt400.Jt400Component		0.47058824
+org.apache.camel.component.jt400.Jt400Configuration		0.08196721
+org.apache.camel.component.jt400.Jt400Endpoint		0.05102041
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400ComponentTest_testCreatePgmEndpoint_j
+org.apache.camel.component.jt400.Jt400Component		0.3529412
+org.apache.camel.component.jt400.Jt400Configuration		0.09836066
+org.apache.camel.component.jt400.Jt400Endpoint		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400ComponentTest_testCreatePgmSecuredEndpoint_1
+org.apache.camel.component.jt400.Jt400Component		0.3529412
+org.apache.camel.component.jt400.Jt400Configuration		0.13114753
+org.apache.camel.component.jt400.Jt400Endpoint		0.1122449
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400ConfigurationConnectionTest
+Jt400ConfigurationConnectionTest		0.94736844
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400ConfigurationConnectionTest_testCssid_q
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400ConfigurationConnectionTest_testGuiAvailable_c
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400ConfigurationConnectionTest_testSystemName_v
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400ConfigurationConnectionTest_testUserId_2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400ConfigurationSecureConnectionTest
+Jt400ConfigurationSecureConnectionTest		0.95
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400ConfigurationSecureConnectionTest_testCssid_9
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400ConfigurationSecureConnectionTest_testGuiAvailable_n
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400ConfigurationSecureConnectionTest_testSystemName_o
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400ConfigurationSecureConnectionTest_testUserId_p
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400ConfigurationTest
+Jt400ConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400ConfigurationTest_testDefaultCcsid_t
+org.apache.camel.component.jt400.Jt400Configuration		0.016393442
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400ConfigurationTest_testDefaultFormat_7
+org.apache.camel.component.jt400.Jt400Configuration		0.016393442
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400ConfigurationTest_testDefaultGuiAvailable_h
+org.apache.camel.component.jt400.Jt400Configuration		0.016393442
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400ConfigurationTest_testDefaultSecured_b
+org.apache.camel.component.jt400.Jt400Configuration		0.016393442
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400ConfigurationTest_testObjectPath_i
+org.apache.camel.component.jt400.Jt400Configuration		0.016393442
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400ConfigurationTest_testPassword_5
+org.apache.camel.component.jt400.Jt400Configuration		0.016393442
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400ConfigurationTest_testSystemName_a
+org.apache.camel.component.jt400.Jt400Configuration		0.016393442
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400ConfigurationTest_testUserID_e
+org.apache.camel.component.jt400.Jt400Configuration		0.016393442
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400DataQueueConsumerTest
+Jt400DataQueueConsumerTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400DataQueueProducerTest
+Jt400DataQueueProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400DataQueueProducerTest_testToStringHidesPassword_g
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400EndpointTest
+Jt400EndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400EndpointTest_testSystemConfiguration_6
+org.apache.camel.component.jt400.Jt400Configuration		0.14754099
+org.apache.camel.component.jt400.Jt400Endpoint		0.040816326
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400EndpointTest_testToString_3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400PgmEndpointTest
+Jt400PgmEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400PgmEndpointTest_testSystemConfiguration_u
+org.apache.camel.component.jt400.Jt400Endpoint		0.1632653
+org.apache.camel.component.jt400.Jt400Configuration		0.114754096
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400PgmEndpointTest_testToString_d
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400PgmRouteTest
+Jt400PgmRouteTest		0.2580645
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400PgmRouteTest_testBasicTest_s
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400RouteTest
+Jt400RouteTest		0.47058824
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400RouteTest_testBasicTest_l
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400SecureTestSupport
+Jt400SecureTestSupport		0.9411765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/Jt400TestSupport
+Jt400TestSupport		0.9411765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/test-Jt400ComponentDefaultConnectionPoolTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/test-Jt400ComponentDefaultSecureConnectionPoolTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/test-Jt400ComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/test-Jt400ConfigurationConnectionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/test-Jt400ConfigurationSecureConnectionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/test-Jt400ConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/test-Jt400DataQueueConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/test-Jt400DataQueueProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/test-Jt400EndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/test-Jt400PgmEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/test-Jt400PgmRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/test-Jt400RouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/test-Jt400SecureTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-jt400/target/site/clover/org/apache/camel/component/jt400/test-Jt400TestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --

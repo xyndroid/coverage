@@ -1,0 +1,542 @@
+./components/camel-docker/target/site/clover/org/apache/camel
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/DockerClientProfileTest
+DockerClientProfileTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/DockerClientProfileTest_clientProfileTest_t
+org.apache.camel.component.docker.DockerClientProfile		0.299639
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/DockerConfigurationTest
+DockerConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/DockerConfigurationTest_testPropertyFromHeader_1
+org.apache.camel.component.docker.DockerHelper		0.078947365
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/DockerConfigurationTest_testPropertyfromEndpointProperties_o
+org.apache.camel.component.docker.DockerHelper		0.20175439
+org.apache.camel.component.docker.DockerConfiguration		0.05263158
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/DockerHelperTest
+DockerHelperTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/DockerHelperTest_transformHeaderTestFromHeader_0
+org.apache.camel.component.docker.DockerHelper		0.078947365
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/RemoveImageCmdUriTest
+RemoveImageCmdUriTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/consumer/DockerEventsConsumerTest
+DockerEventsConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/consumer/DockerEventsConsumerTest_testEvent_11
+testEvent
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/consumer/DockerStatsConsumerTest
+DockerStatsConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/consumer/DockerStatsConsumerTest_testStats_z
+testStats
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/consumer/test-DockerEventsConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/consumer/test-DockerStatsConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/AttachContainerCmdHeaderTest
+AttachContainerCmdHeaderTest		0.9655172
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/AttachContainerCmdHeaderTest_attachContainerHeaderTest_w
+attachContainerHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.DockerHelper		0.21929824
+org.apache.camel.component.docker.producer.AsyncDockerProducer		0.16923077
+org.apache.camel.component.docker.DockerComponent		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/AuthCmdHeaderTest
+AuthCmdHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/AuthCmdHeaderTest_authHeaderTest_c
+authHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.DockerHelper		0.20175439
+org.apache.camel.component.docker.DockerComponent		0.08
+org.apache.camel.component.docker.producer.DockerProducer		0.03156146
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/BaseDockerHeaderTest
+BaseDockerHeaderTest		0.9677419
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/BuildImageCmdHeaderTest
+BuildImageCmdHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/BuildImageCmdHeaderTest_buildImageFromFileHeaderTest_g
+buildImageFromFileHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.DockerHelper		0.21929824
+org.apache.camel.component.docker.producer.AsyncDockerProducer		0.17307693
+org.apache.camel.component.docker.DockerComponent		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/BuildImageCmdHeaderTest_buildImageFromInputStreamHeaderTest_8
+buildImageFromInputStreamHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.DockerHelper		0.21929824
+org.apache.camel.component.docker.producer.AsyncDockerProducer		0.16538462
+org.apache.camel.component.docker.DockerComponent		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/CommitContainerCmdHeaderTest
+CommitContainerCmdHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/CommitContainerCmdHeaderTest_commitContainerHeaderTest_l
+commitContainerHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.DockerHelper		0.28070176
+org.apache.camel.component.docker.producer.DockerProducer		0.1744186
+org.apache.camel.component.docker.DockerComponent		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/CopyFileContainerCmdHeaderTest
+CopyFileContainerCmdHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/CopyFileContainerCmdHeaderTest_copyFileFromContainerHeaderTest_p
+copyFileFromContainerHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.DockerHelper		0.21929824
+org.apache.camel.component.docker.DockerComponent		0.08
+org.apache.camel.component.docker.producer.DockerProducer		0.03820598
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/CreateContainerCmdHeaderTest
+CreateContainerCmdHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/CreateContainerCmdHeaderTest_createContainerHeaderTest_k
+createContainerHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerHelper		0.42982456
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.producer.DockerProducer		0.20099668
+org.apache.camel.component.docker.DockerComponent		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/CreateImageCmdHeaderTest
+CreateImageCmdHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/CreateImageCmdHeaderTest_createImageHeaderTest_f
+createImageHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.DockerHelper		0.21929824
+org.apache.camel.component.docker.DockerComponent		0.08
+org.apache.camel.component.docker.producer.DockerProducer		0.03156146
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/DiffContainerCmdHeaderTest
+DiffContainerCmdHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/DiffContainerCmdHeaderTest_containerDiffHeaderTest_6
+containerDiffHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.DockerHelper		0.21929824
+org.apache.camel.component.docker.DockerComponent		0.08
+org.apache.camel.component.docker.producer.DockerProducer		0.036544852
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/ExecCreateCmdHeaderTest
+ExecCreateCmdHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/ExecCreateCmdHeaderTest_execCreateHeaderTest_i
+execCreateHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.DockerHelper		0.28070176
+org.apache.camel.component.docker.DockerComponent		0.08
+org.apache.camel.component.docker.producer.DockerProducer		0.061461795
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/ExecStartCmdHeaderTest
+ExecStartCmdHeaderTest		0.9411765
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/ExecStartCmdHeaderTest_execCreateHeaderTest_m
+execCreateHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.DockerHelper		0.21929824
+org.apache.camel.component.docker.producer.AsyncDockerProducer		0.11923077
+org.apache.camel.component.docker.DockerComponent		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/InfoCmdHeaderTest
+InfoCmdHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/InfoCmdHeaderTest_infoHeaderTest_5
+infoHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.DockerHelper		0.20175439
+org.apache.camel.component.docker.DockerComponent		0.08
+org.apache.camel.component.docker.producer.DockerProducer		0.024916943
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/InspectContainerCmdHeaderTest
+InspectContainerCmdHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/InspectContainerCmdHeaderTest_inspectContainerHeaderTest_r
+inspectContainerHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.DockerHelper		0.21929824
+org.apache.camel.component.docker.DockerComponent		0.08
+org.apache.camel.component.docker.producer.DockerProducer		0.028239202
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/InspectImageCmdHeaderTest
+InspectImageCmdHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/InspectImageCmdHeaderTest_listImageHeaderTest_q
+listImageHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.DockerHelper		0.21929824
+org.apache.camel.component.docker.DockerComponent		0.08
+org.apache.camel.component.docker.producer.DockerProducer		0.028239202
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/KillContainerCmdHeaderTest
+KillContainerCmdHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/KillContainerCmdHeaderTest_stopContainerHeaderTest_2
+stopContainerHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.DockerHelper		0.21929824
+org.apache.camel.component.docker.DockerComponent		0.08
+org.apache.camel.component.docker.producer.DockerProducer		0.034883723
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/ListContainersCmdHeaderTest
+ListContainersCmdHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/ListContainersCmdHeaderTest_listContainerHeaderTest_n
+listContainerHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.DockerHelper		0.21929824
+org.apache.camel.component.docker.DockerComponent		0.08
+org.apache.camel.component.docker.producer.DockerProducer		0.058139537
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/ListImagesCmdHeaderTest
+ListImagesCmdHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/ListImagesCmdHeaderTest_listImageHeaderTest_y
+listImageHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.DockerHelper		0.21929824
+org.apache.camel.component.docker.DockerComponent		0.08
+org.apache.camel.component.docker.producer.DockerProducer		0.03820598
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/LogContainerCmdHeaderTest
+LogContainerCmdHeaderTest		0.96875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/LogContainerCmdHeaderTest_logContainerHeaderTest_x
+logContainerHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.DockerHelper		0.21929824
+org.apache.camel.component.docker.producer.AsyncDockerProducer		0.18461539
+org.apache.camel.component.docker.DockerComponent		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/PauseContainerCmdHeaderTest
+PauseContainerCmdHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/PauseContainerCmdHeaderTest_pauseHeaderTest_s
+pauseHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.DockerHelper		0.21929824
+org.apache.camel.component.docker.DockerComponent		0.08
+org.apache.camel.component.docker.producer.DockerProducer		0.028239202
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/PingCmdHeaderTest
+PingCmdHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/PingCmdHeaderTest_pingHeaderTest_d
+pingHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.DockerHelper		0.20175439
+org.apache.camel.component.docker.DockerComponent		0.08
+org.apache.camel.component.docker.producer.DockerProducer		0.024916943
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/PullImageCmdHeaderTest
+PullImageCmdHeaderTest		0.95
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/PullImageCmdHeaderTest_pullImageHeaderTest_a
+pullImageHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.DockerHelper		0.21929824
+org.apache.camel.component.docker.producer.AsyncDockerProducer		0.13461539
+org.apache.camel.component.docker.DockerComponent		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/PushImageCmdHeaderTest
+PushImageCmdHeaderTest		0.96153843
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/PushImageCmdHeaderTest_pushImageHeaderTest_3
+pushImageHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.DockerHelper		0.21929824
+org.apache.camel.component.docker.producer.AsyncDockerProducer		0.11923077
+org.apache.camel.component.docker.DockerComponent		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/RemoveContainerCmdHeaderTest
+RemoveContainerCmdHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/RemoveContainerCmdHeaderTest_removeContainerHeaderTest_4
+removeContainerHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.DockerHelper		0.21929824
+org.apache.camel.component.docker.DockerComponent		0.08
+org.apache.camel.component.docker.producer.DockerProducer		0.04152824
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/RemoveImageCmdHeaderTest
+RemoveImageCmdHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/RemoveImageCmdHeaderTest_removeImageHeaderTest_9
+removeImageHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.DockerHelper		0.21929824
+org.apache.camel.component.docker.DockerComponent		0.08
+org.apache.camel.component.docker.producer.DockerProducer		0.04152824
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/RestartContainerCmdHeaderTest
+RestartContainerCmdHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/RestartContainerCmdHeaderTest_restartContainerHeaderTest_7
+restartContainerHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.DockerHelper		0.21929824
+org.apache.camel.component.docker.DockerComponent		0.08
+org.apache.camel.component.docker.producer.DockerProducer		0.03322259
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/SearchImagesCmdHeaderTest
+SearchImagesCmdHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/SearchImagesCmdHeaderTest_searchImagesHeaderTest_10
+searchImagesHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.DockerHelper		0.21929824
+org.apache.camel.component.docker.DockerComponent		0.08
+org.apache.camel.component.docker.producer.DockerProducer		0.028239202
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/StartContainerCmdHeaderTest
+StartContainerCmdHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/StartContainerCmdHeaderTest_startContainerHeaderTest_b
+startContainerHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.DockerHelper		0.21929824
+org.apache.camel.component.docker.DockerComponent		0.08
+org.apache.camel.component.docker.producer.DockerProducer		0.028239202
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/StopContainerCmdHeaderTest
+StopContainerCmdHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/StopContainerCmdHeaderTest_stopContainerHeaderTest_12
+stopContainerHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.DockerHelper		0.21929824
+org.apache.camel.component.docker.DockerComponent		0.08
+org.apache.camel.component.docker.producer.DockerProducer		0.03322259
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/TagImageCmdHeaderTest
+TagImageCmdHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/TagImageCmdHeaderTest_tagImageHeaderTest_v
+tagImageHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.DockerHelper		0.21929824
+org.apache.camel.component.docker.DockerComponent		0.08
+org.apache.camel.component.docker.producer.DockerProducer		0.03986711
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/TopContainerCmdHeaderTest
+TopContainerCmdHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/TopContainerCmdHeaderTest_topContainerHeaderTest_j
+topContainerHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.DockerHelper		0.21929824
+org.apache.camel.component.docker.DockerComponent		0.08
+org.apache.camel.component.docker.producer.DockerProducer		0.034883723
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/UnpauseContainerCmdHeaderTest
+UnpauseContainerCmdHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/UnpauseContainerCmdHeaderTest_unpauseHeaderTest_h
+unpauseHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.DockerHelper		0.21929824
+org.apache.camel.component.docker.DockerComponent		0.08
+org.apache.camel.component.docker.producer.DockerProducer		0.028239202
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/VersionCmdHeaderTest
+VersionCmdHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/VersionCmdHeaderTest_pingHeaderTest_u
+pingHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.DockerHelper		0.20175439
+org.apache.camel.component.docker.DockerComponent		0.08
+org.apache.camel.component.docker.producer.DockerProducer		0.024916943
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/WaitContainerCmdHeaderTest
+WaitContainerCmdHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/WaitContainerCmdHeaderTest_waitContainerHeaderTest_e
+waitContainerHeaderTest
+org.apache.camel.component.docker.DockerClientFactory		0.5147059
+org.apache.camel.component.docker.DockerClientProfile		0.45126355
+org.apache.camel.component.docker.DockerConfiguration		0.42105263
+org.apache.camel.component.docker.DockerHelper		0.21929824
+org.apache.camel.component.docker.producer.AsyncDockerProducer		0.09615385
+org.apache.camel.component.docker.DockerComponent		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-AttachContainerCmdHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-AuthCmdHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-BaseDockerHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-BuildImageCmdHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-CommitContainerCmdHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-CopyFileContainerCmdHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-CreateContainerCmdHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-CreateImageCmdHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-DiffContainerCmdHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-ExecCreateCmdHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-ExecStartCmdHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-InfoCmdHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-InspectContainerCmdHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-InspectImageCmdHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-KillContainerCmdHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-ListContainersCmdHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-ListImagesCmdHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-LogContainerCmdHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-PauseContainerCmdHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-PingCmdHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-PullImageCmdHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-PushImageCmdHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-RemoveContainerCmdHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-RemoveImageCmdHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-RestartContainerCmdHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-SearchImagesCmdHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-StartContainerCmdHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-StopContainerCmdHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-TagImageCmdHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-TopContainerCmdHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-UnpauseContainerCmdHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-VersionCmdHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/headers/test-WaitContainerCmdHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/it/DockerCustomCmdExecFactoryTestIT
+DockerCustomCmdExecFactoryTestIT		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/it/DockerITTestSupport
+DockerITTestSupport		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/it/DockerNettyCmdExecFactoryTestIT
+DockerNettyCmdExecFactoryTestIT		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/it/DockerProducerTestIT
+DockerProducerTestIT		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/it/DockerStatsConsumerTestIT
+DockerStatsConsumerTestIT		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/it/test-DockerCustomCmdExecFactoryTestIT
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/it/test-DockerITTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/it/test-DockerNettyCmdExecFactoryTestIT
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/it/test-DockerProducerTestIT
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/it/test-DockerStatsConsumerTestIT
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/test-DockerClientProfileTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/test-DockerConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/test-DockerHelperTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/test-RemoveImageCmdUriTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/util/DockerTestUtils
+DockerTestUtils		0.962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-docker/target/site/clover/org/apache/camel/component/docker/util/test-DockerTestUtils
+-- -- -- -- -- -- -- -- -- -- -- -- --

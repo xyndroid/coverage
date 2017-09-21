@@ -1,0 +1,93 @@
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/target/clover/org/apache/hadoop
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/target/clover/org/apache/hadoop/mapred/TestFadvisedFileRegion
+TestFadvisedFileRegion		0.89705884
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/target/clover/org/apache/hadoop/mapred/TestFadvisedFileRegion_testCustomShuffleTransfer_18
+org.apache.hadoop.mapred.FadvisedFileRegion		0.6865672
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/target/clover/org/apache/hadoop/mapred/TestFadvisedFileRegion_testCustomShuffleTransfer_8
+org.apache.hadoop.mapred.FadvisedFileRegion		0.6865672
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/target/clover/org/apache/hadoop/mapred/TestShuffleHandler
+TestShuffleHandler		0.71022725
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/target/clover/org/apache/hadoop/mapred/TestShuffleHandler_testClientClosesConnection_1
+org.apache.hadoop.mapred.ShuffleHandler.ShuffleMetrics		0.71428573
+org.apache.hadoop.mapred.ShuffleHandler.HttpPipelineFactory		0.68
+org.apache.hadoop.mapred.ShuffleHandler.Shuffle		0.33969465
+org.apache.hadoop.mapred.ShuffleHandler		0.296875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/target/clover/org/apache/hadoop/mapred/TestShuffleHandler_testClientClosesConnection_2a
+org.apache.hadoop.mapred.ShuffleHandler.ShuffleMetrics		0.71428573
+org.apache.hadoop.mapred.ShuffleHandler.HttpPipelineFactory		0.68
+org.apache.hadoop.mapred.ShuffleHandler.Shuffle		0.33969465
+org.apache.hadoop.mapred.ShuffleHandler		0.296875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/target/clover/org/apache/hadoop/mapred/TestShuffleHandler_testIncompatibleShuffleVersion_5
+org.apache.hadoop.mapred.ShuffleHandler.HttpPipelineFactory		0.68
+org.apache.hadoop.mapred.ShuffleHandler		0.30729166
+org.apache.hadoop.mapred.ShuffleHandler.Shuffle		0.27862597
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/target/clover/org/apache/hadoop/mapred/TestShuffleHandler_testIncompatibleShuffleVersion_8
+org.apache.hadoop.mapred.ShuffleHandler.HttpPipelineFactory		0.68
+org.apache.hadoop.mapred.ShuffleHandler		0.30729166
+org.apache.hadoop.mapred.ShuffleHandler.Shuffle		0.27862597
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/target/clover/org/apache/hadoop/mapred/TestShuffleHandler_testKeepAlive_7
+org.apache.hadoop.mapred.ShuffleHandler.HttpPipelineFactory		0.56
+org.apache.hadoop.mapred.ShuffleHandler.Shuffle		0.3053435
+org.apache.hadoop.mapred.ShuffleHandler		0.234375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/target/clover/org/apache/hadoop/mapred/TestShuffleHandler_testKeepAlive_s
+org.apache.hadoop.mapred.ShuffleHandler.HttpPipelineFactory		0.56
+org.apache.hadoop.mapred.ShuffleHandler.Shuffle		0.3053435
+org.apache.hadoop.mapred.ShuffleHandler		0.234375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/target/clover/org/apache/hadoop/mapred/TestShuffleHandler_testMapFileAccess_17
+org.apache.hadoop.mapred.ShuffleHandler.ShuffleMetrics		0.71428573
+org.apache.hadoop.mapred.ShuffleHandler.Shuffle		0.057251908
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/target/clover/org/apache/hadoop/mapred/TestShuffleHandler_testMapFileAccess_3
+org.apache.hadoop.mapred.ShuffleHandler.ShuffleMetrics		0.71428573
+org.apache.hadoop.mapred.ShuffleHandler.Shuffle		0.057251908
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/target/clover/org/apache/hadoop/mapred/TestShuffleHandler_testMaxConnections_3
+org.apache.hadoop.mapred.ShuffleHandler.ShuffleMetrics		0.71428573
+org.apache.hadoop.mapred.ShuffleHandler.HttpPipelineFactory		0.68
+org.apache.hadoop.mapred.ShuffleHandler.Shuffle		0.33587787
+org.apache.hadoop.mapred.ShuffleHandler		0.296875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/target/clover/org/apache/hadoop/mapred/TestShuffleHandler_testMaxConnections_4
+org.apache.hadoop.mapred.ShuffleHandler.ShuffleMetrics		0.71428573
+org.apache.hadoop.mapred.ShuffleHandler.HttpPipelineFactory		0.68
+org.apache.hadoop.mapred.ShuffleHandler.Shuffle		0.33587787
+org.apache.hadoop.mapred.ShuffleHandler		0.296875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/target/clover/org/apache/hadoop/mapred/TestShuffleHandler_testRecovery_2
+org.apache.hadoop.mapred.ShuffleHandler.LevelDBLogger		1.0
+org.apache.hadoop.mapred.ShuffleHandler		0.78125
+org.apache.hadoop.mapred.ShuffleHandler.HttpPipelineFactory		0.68
+org.apache.hadoop.mapred.ShuffleHandler.Shuffle		0.4389313
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/target/clover/org/apache/hadoop/mapred/TestShuffleHandler_testRecovery_i
+org.apache.hadoop.mapred.ShuffleHandler.LevelDBLogger		1.0
+org.apache.hadoop.mapred.ShuffleHandler		0.78125
+org.apache.hadoop.mapred.ShuffleHandler.HttpPipelineFactory		0.68
+org.apache.hadoop.mapred.ShuffleHandler.Shuffle		0.4389313
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/target/clover/org/apache/hadoop/mapred/TestShuffleHandler_testSerializeMeta_6
+org.apache.hadoop.mapred.ShuffleHandler		0.046875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/target/clover/org/apache/hadoop/mapred/TestShuffleHandler_testSerializeMeta_d
+org.apache.hadoop.mapred.ShuffleHandler		0.046875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/target/clover/org/apache/hadoop/mapred/TestShuffleHandler_testShuffleMetrics_0
+org.apache.hadoop.mapred.ShuffleHandler.ShuffleMetrics		1.0
+org.apache.hadoop.mapred.ShuffleHandler.Shuffle		0.057251908
+org.apache.hadoop.mapred.ShuffleHandler		0.015625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/target/clover/org/apache/hadoop/mapred/TestShuffleHandler_testShuffleMetrics_1r
+org.apache.hadoop.mapred.ShuffleHandler.ShuffleMetrics		1.0
+org.apache.hadoop.mapred.ShuffleHandler.Shuffle		0.057251908
+org.apache.hadoop.mapred.ShuffleHandler		0.015625
+-- -- -- -- -- -- -- -- -- -- -- -- --

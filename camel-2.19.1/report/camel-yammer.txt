@@ -1,0 +1,132 @@
+./components/camel-yammer/target/site/clover/org/apache/camel
+./components/camel-yammer/target/site/clover/org/apache/camel/component/yammer/TestApiRequestor
+TestApiRequestor		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-yammer/target/site/clover/org/apache/camel/component/yammer/YammerComponentTestSupport
+YammerComponentTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-yammer/target/site/clover/org/apache/camel/component/yammer/YammerMessageAndUserRouteTest
+YammerMessageAndUserRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-yammer/target/site/clover/org/apache/camel/component/yammer/YammerMessageAndUserRouteTest_testConsumeAllMessages_3
+org.apache.camel.component.yammer.YammerFunctionType		0.85714287
+org.apache.camel.component.yammer.model.EmailAddress		0.75
+org.apache.camel.component.yammer.YammerUserPollingConsumer		0.61538464
+org.apache.camel.component.yammer.model.Body		0.5714286
+org.apache.camel.component.yammer.model.Contact		0.5555556
+org.apache.camel.component.yammer.model.User		0.52
+org.apache.camel.component.yammer.model.Message		0.5116279
+org.apache.camel.component.yammer.model.Name		0.42857143
+org.apache.camel.component.yammer.model.Stats		0.42857143
+org.apache.camel.component.yammer.model.Im		0.4
+org.apache.camel.component.yammer.model.LikedBy		0.4
+org.apache.camel.component.yammer.model.Settings		0.33333334
+org.apache.camel.component.yammer.YammerConfiguration		0.32142857
+org.apache.camel.component.yammer.YammerEndpoint		0.25
+org.apache.camel.component.yammer.model.Messages		0.22222222
+org.apache.camel.component.yammer.YammerMessagePollingConsumer		0.14606741
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-yammer/target/site/clover/org/apache/camel/component/yammer/YammerMessageProducerRouteTest
+YammerMessageProducerRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-yammer/target/site/clover/org/apache/camel/component/yammer/YammerMessageProducerRouteTest_testCreateMessage_1
+org.apache.camel.component.yammer.model.Body		0.5714286
+org.apache.camel.component.yammer.model.Message		0.5116279
+org.apache.camel.component.yammer.model.Name		0.42857143
+org.apache.camel.component.yammer.model.LikedBy		0.4
+org.apache.camel.component.yammer.YammerMessageProducer		0.30769232
+org.apache.camel.component.yammer.model.Messages		0.22222222
+org.apache.camel.component.yammer.YammerConfiguration		0.10714286
+org.apache.camel.component.yammer.YammerEndpoint		0.0625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-yammer/target/site/clover/org/apache/camel/component/yammer/YammerMessageRouteTest
+YammerMessageRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-yammer/target/site/clover/org/apache/camel/component/yammer/YammerMessageRouteTest_testConsumeAllMessages_5
+org.apache.camel.component.yammer.model.Body		0.5714286
+org.apache.camel.component.yammer.model.Message		0.5116279
+org.apache.camel.component.yammer.model.Name		0.42857143
+org.apache.camel.component.yammer.model.LikedBy		0.4
+org.apache.camel.component.yammer.model.Messages		0.22222222
+org.apache.camel.component.yammer.YammerMessagePollingConsumer		0.11235955
+org.apache.camel.component.yammer.YammerConfiguration		0.10714286
+org.apache.camel.component.yammer.YammerEndpoint		0.0625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-yammer/target/site/clover/org/apache/camel/component/yammer/YammerMessagesConsumerOptionTest
+YammerMessagesConsumerOptionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-yammer/target/site/clover/org/apache/camel/component/yammer/YammerMessagesConsumerOptionTest_testOptions_6
+org.apache.camel.component.yammer.YammerConfiguration		0.14285715
+org.apache.camel.component.yammer.YammerEndpoint		0.0625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-yammer/target/site/clover/org/apache/camel/component/yammer/YammerMultipleUsersRouteTest
+YammerMultipleUsersRouteTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-yammer/target/site/clover/org/apache/camel/component/yammer/YammerRelationshipConsumerOptionTest
+YammerRelationshipConsumerOptionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-yammer/target/site/clover/org/apache/camel/component/yammer/YammerRelationshipConsumerOptionTest_testOptions_4
+org.apache.camel.component.yammer.YammerEndpoint		0.0625
+org.apache.camel.component.yammer.YammerConfiguration		0.035714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-yammer/target/site/clover/org/apache/camel/component/yammer/YammerRelationshipInJsonRouteTest
+YammerRelationshipInJsonRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-yammer/target/site/clover/org/apache/camel/component/yammer/YammerRelationshipInJsonRouteTest_testConsumeAllUsers_2
+org.apache.camel.component.yammer.YammerRelationshipPollingConsumer		0.25
+org.apache.camel.component.yammer.YammerConfiguration		0.10714286
+org.apache.camel.component.yammer.YammerEndpoint		0.0625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-yammer/target/site/clover/org/apache/camel/component/yammer/YammerRelationshipRouteTest
+YammerRelationshipRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-yammer/target/site/clover/org/apache/camel/component/yammer/YammerRelationshipRouteTest_testConsumeAllUsers_7
+org.apache.camel.component.yammer.model.Relationships		0.5714286
+org.apache.camel.component.yammer.model.Stats		0.42857143
+org.apache.camel.component.yammer.YammerRelationshipPollingConsumer		0.22727273
+org.apache.camel.component.yammer.model.User		0.17333333
+org.apache.camel.component.yammer.YammerConfiguration		0.10714286
+org.apache.camel.component.yammer.YammerEndpoint		0.0625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-yammer/target/site/clover/org/apache/camel/component/yammer/YammerUserPollEnrichRouteTest
+YammerUserPollEnrichRouteTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-yammer/target/site/clover/org/apache/camel/component/yammer/YammerUserRouteTest
+YammerUserRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-yammer/target/site/clover/org/apache/camel/component/yammer/YammerUserRouteTest_testConsumeAllUsers_0
+org.apache.camel.component.yammer.YammerFunctionType		0.85714287
+org.apache.camel.component.yammer.model.EmailAddress		0.75
+org.apache.camel.component.yammer.model.Contact		0.5555556
+org.apache.camel.component.yammer.model.User		0.52
+org.apache.camel.component.yammer.model.Stats		0.42857143
+org.apache.camel.component.yammer.model.Im		0.4
+org.apache.camel.component.yammer.model.Settings		0.33333334
+org.apache.camel.component.yammer.YammerUserPollingConsumer		0.26923078
+org.apache.camel.component.yammer.YammerConfiguration		0.14285715
+org.apache.camel.component.yammer.YammerEndpoint		0.0625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-yammer/target/site/clover/org/apache/camel/component/yammer/test-TestApiRequestor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-yammer/target/site/clover/org/apache/camel/component/yammer/test-YammerComponentTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-yammer/target/site/clover/org/apache/camel/component/yammer/test-YammerMessageAndUserRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-yammer/target/site/clover/org/apache/camel/component/yammer/test-YammerMessageProducerRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-yammer/target/site/clover/org/apache/camel/component/yammer/test-YammerMessageRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-yammer/target/site/clover/org/apache/camel/component/yammer/test-YammerMessagesConsumerOptionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-yammer/target/site/clover/org/apache/camel/component/yammer/test-YammerMultipleUsersRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-yammer/target/site/clover/org/apache/camel/component/yammer/test-YammerRelationshipConsumerOptionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-yammer/target/site/clover/org/apache/camel/component/yammer/test-YammerRelationshipInJsonRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-yammer/target/site/clover/org/apache/camel/component/yammer/test-YammerRelationshipRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-yammer/target/site/clover/org/apache/camel/component/yammer/test-YammerUserPollEnrichRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-yammer/target/site/clover/org/apache/camel/component/yammer/test-YammerUserRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

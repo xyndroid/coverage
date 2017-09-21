@@ -1,0 +1,56 @@
+./components/camel-grpc/target/site/clover/org/apache/camel
+./components/camel-grpc/target/site/clover/org/apache/camel/component/grpc/GrpcProducerAsyncTest
+GrpcProducerAsyncTest		0.987013
+GrpcProducerAsyncTest.PingPongImpl		0.875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-grpc/target/site/clover/org/apache/camel/component/grpc/GrpcProducerAsyncTest_testPingAsyncAsyncMethodInvocation_0
+org.apache.camel.component.grpc.client.GrpcResponseAggregationStreamObserver		0.75
+org.apache.camel.component.grpc.GrpcUtils		0.16216215
+org.apache.camel.component.grpc.GrpcProducer		0.09615385
+org.apache.camel.component.grpc.GrpcConfiguration		0.0625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-grpc/target/site/clover/org/apache/camel/component/grpc/GrpcProducerAsyncTest_testPingAsyncSyncMethodInvocation_4
+org.apache.camel.component.grpc.client.GrpcResponseAggregationStreamObserver		0.75
+org.apache.camel.component.grpc.GrpcUtils		0.16216215
+org.apache.camel.component.grpc.GrpcProducer		0.07692308
+org.apache.camel.component.grpc.GrpcConfiguration		0.0625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-grpc/target/site/clover/org/apache/camel/component/grpc/GrpcProducerAsyncTest_testPingSyncAsyncMethodInvocation_3
+org.apache.camel.component.grpc.client.GrpcResponseAggregationStreamObserver		0.75
+org.apache.camel.component.grpc.GrpcUtils		0.10810811
+org.apache.camel.component.grpc.GrpcProducer		0.07692308
+org.apache.camel.component.grpc.GrpcConfiguration		0.0625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-grpc/target/site/clover/org/apache/camel/component/grpc/GrpcProducerAsyncTest_testPingSyncSyncMethodInvocation_5
+org.apache.camel.component.grpc.client.GrpcResponseAggregationStreamObserver		0.75
+org.apache.camel.component.grpc.GrpcUtils		0.10810811
+org.apache.camel.component.grpc.GrpcProducer		0.07692308
+org.apache.camel.component.grpc.GrpcConfiguration		0.0625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-grpc/target/site/clover/org/apache/camel/component/grpc/GrpcProducerSyncTest
+GrpcProducerSyncTest		0.98
+GrpcProducerSyncTest.PingPongImpl		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-grpc/target/site/clover/org/apache/camel/component/grpc/GrpcProducerSyncTest_testPingSyncAsyncMethodInvocation_2
+org.apache.camel.component.grpc.GrpcUtils		0.1891892
+org.apache.camel.component.grpc.GrpcProducer		0.07692308
+org.apache.camel.component.grpc.GrpcConfiguration		0.0625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-grpc/target/site/clover/org/apache/camel/component/grpc/GrpcProducerSyncTest_testPingSyncSyncMethodInvocation_6
+org.apache.camel.component.grpc.GrpcUtils		0.10810811
+org.apache.camel.component.grpc.GrpcProducer		0.07692308
+org.apache.camel.component.grpc.GrpcConfiguration		0.0625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-grpc/target/site/clover/org/apache/camel/component/grpc/GrpcProducerSyncTest_testPingSyncSyncMultipleInvocation_1
+org.apache.camel.component.grpc.GrpcUtils		0.10810811
+org.apache.camel.component.grpc.GrpcProducer		0.07692308
+org.apache.camel.component.grpc.GrpcConfiguration		0.0625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-grpc/target/site/clover/org/apache/camel/component/grpc/test-GrpcProducerAsyncTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-grpc/target/site/clover/org/apache/camel/component/grpc/test-GrpcProducerAsyncTest_PingPongImpl
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-grpc/target/site/clover/org/apache/camel/component/grpc/test-GrpcProducerSyncTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-grpc/target/site/clover/org/apache/camel/component/grpc/test-GrpcProducerSyncTest_PingPongImpl
+-- -- -- -- -- -- -- -- -- -- -- -- --

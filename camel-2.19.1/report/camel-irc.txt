@@ -1,0 +1,135 @@
+./components/camel-irc/target/site/clover/org/apache/camel
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/IrcConfigurationTest
+IrcConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/IrcConfigurationTest_testConfigureFormat1_c
+org.apache.camel.component.irc.IrcChannel		0.65
+org.apache.camel.component.irc.IrcConfiguration		0.37321937
+org.apache.camel.component.irc.IrcComponent		0.15
+org.apache.camel.component.irc.IrcEndpoint		0.053097345
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/IrcConfigurationTest_testConfigureFormat2_f
+org.apache.camel.component.irc.IrcChannel		0.65
+org.apache.camel.component.irc.IrcConfiguration		0.4131054
+org.apache.camel.component.irc.IrcComponent		0.15
+org.apache.camel.component.irc.IrcEndpoint		0.053097345
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/IrcConfigurationTest_testConfigureFormat3_8
+org.apache.camel.component.irc.IrcChannel		0.65
+org.apache.camel.component.irc.IrcConfiguration		0.43019944
+org.apache.camel.component.irc.IrcComponent		0.15
+org.apache.camel.component.irc.IrcEndpoint		0.053097345
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/IrcConfigurationTest_testConfigureFormat4_d
+org.apache.camel.component.irc.IrcChannel		0.8
+org.apache.camel.component.irc.IrcConfiguration		0.47578347
+org.apache.camel.component.irc.IrcComponent		0.15
+org.apache.camel.component.irc.IrcEndpoint		0.053097345
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/IrcConfigurationTest_testConfigureFormat5_6
+org.apache.camel.component.irc.IrcChannel		0.8
+org.apache.camel.component.irc.IrcConfiguration		0.47863248
+org.apache.camel.component.irc.IrcComponent		0.15
+org.apache.camel.component.irc.IrcEndpoint		0.053097345
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/IrcConfigurationTest_testConfigureFormat6_g
+org.apache.camel.component.irc.IrcChannel		0.75
+org.apache.camel.component.irc.IrcConfiguration		0.47578347
+org.apache.camel.component.irc.IrcComponent		0.15
+org.apache.camel.component.irc.IrcEndpoint		0.053097345
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/IrcConfigurationTest_testInvalidUriConversion_1
+org.apache.camel.component.irc.IrcChannel		0.65
+org.apache.camel.component.irc.IrcConfiguration		0.5669516
+org.apache.camel.component.irc.IrcComponent		0.15
+org.apache.camel.component.irc.IrcEndpoint		0.053097345
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/IrcConsumerTest
+IrcConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/IrcConsumerTest_doStartTest_e
+org.apache.camel.component.irc.IrcConsumer		0.28947368
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/IrcConsumerTest_doStopTest_2
+org.apache.camel.component.irc.IrcConsumer		0.21052632
+org.apache.camel.component.irc.IrcChannel		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/IrcEndpointTest
+IrcEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/IrcEndpointTest_doHandleIrcErrorNickInUse_5
+org.apache.camel.component.irc.IrcEndpoint		0.30088496
+org.apache.camel.component.irc.IrcChannel		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/IrcEndpointTest_doJoinChannelTestKey_7
+org.apache.camel.component.irc.IrcChannel		0.2
+org.apache.camel.component.irc.IrcEndpoint		0.14159292
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/IrcEndpointTest_doJoinChannelTestNoKey_3
+org.apache.camel.component.irc.IrcChannel		0.2
+org.apache.camel.component.irc.IrcEndpoint		0.14159292
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/IrcEndpointTest_doJoinChannels_0
+org.apache.camel.component.irc.IrcChannel		0.2
+org.apache.camel.component.irc.IrcEndpoint		0.19469027
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/IrcMultiChannelRouteTest
+IrcMultiChannelRouteTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/IrcOnReplyTest
+IrcOnReplyTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/IrcPrivmsgTest
+IrcPrivmsgTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/IrcProducerTest
+IrcProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/IrcProducerTest_doStartTest_9
+org.apache.camel.component.irc.IrcProducer		0.16071428
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/IrcProducerTest_doStopTest_a
+org.apache.camel.component.irc.IrcProducer		0.14285715
+org.apache.camel.component.irc.IrcChannel		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/IrcProducerTest_processTestException_4
+org.apache.camel.component.irc.IrcProducer		0.10714286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/IrcProducerTest_processTest_b
+org.apache.camel.component.irc.IrcProducer		0.48214287
+org.apache.camel.component.irc.IrcChannel		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/IrcRouteTest
+IrcRouteTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/IrcsListUsersIntegrationTest
+IrcsListUsersIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/IrcsRouteTest
+IrcsRouteTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/IrcsWithSslContextParamsRouteTest
+IrcsWithSslContextParamsRouteTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/test-IrcConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/test-IrcConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/test-IrcEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/test-IrcMultiChannelRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/test-IrcOnReplyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/test-IrcPrivmsgTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/test-IrcProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/test-IrcRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/test-IrcsListUsersIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/test-IrcsRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-irc/target/site/clover/org/apache/camel/component/irc/test-IrcsWithSslContextParamsRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

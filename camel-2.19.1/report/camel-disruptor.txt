@@ -1,0 +1,1448 @@
+./components/camel-disruptor/target/site/clover/org/apache/camel
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/BasicDisruptorComponentTest
+BasicDisruptorComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/BasicDisruptorComponentTest_testProduce_2k
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorProducer		0.3409091
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.17699115
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DirectRequestReplyAndDisruptorInOnlyTest
+DirectRequestReplyAndDisruptorInOnlyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DirectRequestReplyAndDisruptorInOnlyTest_testInOut_1o
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		0.4
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.35714287
+org.apache.camel.component.disruptor.DisruptorProducer		0.22727273
+org.apache.camel.component.disruptor.DisruptorConsumer		0.20967741
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorAsyncRouteTest
+DisruptorAsyncRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorAsyncRouteTest_testSendAsync_22
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorProducer		0.4431818
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorBlockWhenFullTest
+DisruptorBlockWhenFullTest		0.95238096
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorBlockWhenFullTest_testDisruptorBlockingWhenFull_19
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorProducer		0.3409091
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.21238938
+org.apache.camel.component.disruptor.DisruptorReference		0.069518715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorBlockWhenFullTest_testDisruptorExceptionWhenFull_w
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorComponent		0.45528457
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		0.4
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.35714287
+org.apache.camel.component.disruptor.DisruptorProducer		0.35227272
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.33628318
+org.apache.camel.component.disruptor.DisruptorConsumer		0.20967741
+org.apache.camel.component.disruptor.DisruptorReference		0.112299465
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorBufferingTest
+DisruptorBufferingTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorBufferingTest_testDisruptorBufferingWhileWaitingOnFirstConsumer_n
+org.apache.camel.component.disruptor.ExchangeEventFactory		1.0
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.875
+org.apache.camel.component.disruptor.DisruptorReference.BlockingExchangeEventHandler		0.8
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.78571427
+org.apache.camel.component.disruptor.DisruptorReference.DelayedExecutor		0.75
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.54545456
+org.apache.camel.component.disruptor.DisruptorReference		0.54545456
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.5132743
+org.apache.camel.component.disruptor.DisruptorProducerType		0.5
+org.apache.camel.component.disruptor.DisruptorWaitStrategy		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer		0.48387095
+org.apache.camel.component.disruptor.DisruptorComponent		0.45528457
+org.apache.camel.component.disruptor.DisruptorProducer		0.3409091
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorBufferingTest_testDisruptorBufferingWhileWaitingOnNextConsumer_1q
+org.apache.camel.component.disruptor.ExchangeEventFactory		1.0
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.875
+org.apache.camel.component.disruptor.DisruptorReference.BlockingExchangeEventHandler		0.8
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.78571427
+org.apache.camel.component.disruptor.DisruptorReference.DelayedExecutor		0.75
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorReference		0.61497325
+org.apache.camel.component.disruptor.DisruptorConsumer		0.5967742
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.5663717
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.54545456
+org.apache.camel.component.disruptor.DisruptorProducerType		0.5
+org.apache.camel.component.disruptor.DisruptorWaitStrategy		0.5
+org.apache.camel.component.disruptor.DisruptorComponent		0.45528457
+org.apache.camel.component.disruptor.DisruptorProducer		0.3409091
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorComplexInOutTest
+DisruptorComplexInOutTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorComplexInOutTest_testInOut_1p
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorProducer		0.4431818
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorComponentReferenceEndpointTest
+DisruptorComponentReferenceEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorComponentReferenceEndpointTest_testDisruptorComponentReference_18
+org.apache.camel.component.disruptor.ExchangeEventFactory		1.0
+org.apache.camel.component.disruptor.DisruptorReference.DelayedExecutor		0.75
+org.apache.camel.component.disruptor.DisruptorReference		0.6631016
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.54545456
+org.apache.camel.component.disruptor.DisruptorComponent		0.52845526
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.5132743
+org.apache.camel.component.disruptor.DisruptorProducerType		0.5
+org.apache.camel.component.disruptor.DisruptorWaitStrategy		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.375
+org.apache.camel.component.disruptor.DisruptorConsumer		0.33870968
+org.apache.camel.component.disruptor.DisruptorReference.BlockingExchangeEventHandler		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorConcurrentConsumersNPEIssueTest
+DisruptorConcurrentConsumersNPEIssueTest		0.92
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorConcurrentConsumersNPEIssueTest_testSendToDisruptor_1x
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.625
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorComponent		0.45528457
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.36283186
+org.apache.camel.component.disruptor.DisruptorProducer		0.3409091
+org.apache.camel.component.disruptor.DisruptorConsumer		0.29032257
+org.apache.camel.component.disruptor.DisruptorReference		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorConcurrentConsumersNPEIssueTest_testStartThird_p
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.625
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorComponent		0.45528457
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.36283186
+org.apache.camel.component.disruptor.DisruptorProducer		0.3409091
+org.apache.camel.component.disruptor.DisruptorConsumer		0.29032257
+org.apache.camel.component.disruptor.DisruptorReference		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorConcurrentConsumersTest
+DisruptorConcurrentConsumersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorConcurrentConsumersTest_testSendToDisruptor_1l
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.625
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorProducer		0.3409091
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.17699115
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorConcurrentTest
+DisruptorConcurrentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorConcurrentTest_testDisruptorConcurrentInOnlyWithAsync_1u
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.625
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorComponent		0.45528457
+org.apache.camel.component.disruptor.DisruptorProducer		0.3409091
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.30088496
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorReference		0.09090909
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.045454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorConcurrentTest_testDisruptorConcurrentInOnly_17
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.625
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorComponent		0.45528457
+org.apache.camel.component.disruptor.DisruptorProducer		0.3409091
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.30088496
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorReference		0.09090909
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.045454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorConcurrentTest_testDisruptorConcurrentInOutWithAsync_l
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.625
+org.apache.camel.component.disruptor.DisruptorProducer		0.57954544
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorComponent		0.45528457
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.31858408
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorReference		0.09090909
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.045454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorConcurrentTest_testDisruptorConcurrentInOut_8
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.625
+org.apache.camel.component.disruptor.DisruptorProducer		0.5568182
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorComponent		0.45528457
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.32743362
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorReference		0.09090909
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.045454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorConfigureTest
+DisruptorConfigureTest		0.9848485
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorConfigureTest_testConcurrentConsumersConfigured_2e
+org.apache.camel.component.disruptor.ExchangeEventFactory		1.0
+org.apache.camel.component.disruptor.DisruptorReference.DelayedExecutor		0.75
+org.apache.camel.component.disruptor.DisruptorComponent		0.5934959
+org.apache.camel.component.disruptor.DisruptorProducerType		0.5
+org.apache.camel.component.disruptor.DisruptorWaitStrategy		0.5
+org.apache.camel.component.disruptor.DisruptorReference		0.36898395
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.22727273
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.17699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorConfigureTest_testDefaultConcurrentConsumersComponentProperty_1c
+org.apache.camel.component.disruptor.ExchangeEventFactory		1.0
+org.apache.camel.component.disruptor.DisruptorReference.DelayedExecutor		0.75
+org.apache.camel.component.disruptor.DisruptorComponent		0.60162604
+org.apache.camel.component.disruptor.DisruptorProducerType		0.5
+org.apache.camel.component.disruptor.DisruptorWaitStrategy		0.5
+org.apache.camel.component.disruptor.DisruptorReference		0.36898395
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.22727273
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.17699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorConfigureTest_testDefaultMultipleConsumersComponentProperty_1d
+org.apache.camel.component.disruptor.ExchangeEventFactory		1.0
+org.apache.camel.component.disruptor.DisruptorReference.DelayedExecutor		0.75
+org.apache.camel.component.disruptor.DisruptorComponent		0.60162604
+org.apache.camel.component.disruptor.DisruptorProducerType		0.5
+org.apache.camel.component.disruptor.DisruptorWaitStrategy		0.5
+org.apache.camel.component.disruptor.DisruptorReference		0.36898395
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.22727273
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.19469027
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorConfigureTest_testDefaultProducerTypeComponentProperty_2s
+org.apache.camel.component.disruptor.ExchangeEventFactory		1.0
+org.apache.camel.component.disruptor.DisruptorReference.DelayedExecutor		0.75
+org.apache.camel.component.disruptor.DisruptorComponent		0.60162604
+org.apache.camel.component.disruptor.DisruptorProducerType		0.5
+org.apache.camel.component.disruptor.DisruptorWaitStrategy		0.5
+org.apache.camel.component.disruptor.DisruptorReference		0.37967914
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.22727273
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.17699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorConfigureTest_testDefaultWaitStrategyComponentProperty_7
+org.apache.camel.component.disruptor.ExchangeEventFactory		1.0
+org.apache.camel.component.disruptor.DisruptorReference.DelayedExecutor		0.75
+org.apache.camel.component.disruptor.DisruptorComponent		0.60162604
+org.apache.camel.component.disruptor.DisruptorProducerType		0.5
+org.apache.camel.component.disruptor.DisruptorWaitStrategy		0.5
+org.apache.camel.component.disruptor.DisruptorReference		0.37967914
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.22727273
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.17699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorConfigureTest_testDefaults_s
+org.apache.camel.component.disruptor.ExchangeEventFactory		1.0
+org.apache.camel.component.disruptor.DisruptorReference.DelayedExecutor		0.75
+org.apache.camel.component.disruptor.DisruptorComponent		0.58536583
+org.apache.camel.component.disruptor.DisruptorProducerType		0.5
+org.apache.camel.component.disruptor.DisruptorWaitStrategy		0.5
+org.apache.camel.component.disruptor.DisruptorReference		0.40106952
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.28318584
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.22727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorConfigureTest_testIllegalSizeZeroConfigured_20
+org.apache.camel.component.disruptor.DisruptorComponent		0.24390244
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorConfigureTest_testMultipleConsumersConfigured_2h
+org.apache.camel.component.disruptor.ExchangeEventFactory		1.0
+org.apache.camel.component.disruptor.DisruptorReference.DelayedExecutor		0.75
+org.apache.camel.component.disruptor.DisruptorComponent		0.5934959
+org.apache.camel.component.disruptor.DisruptorProducerType		0.5
+org.apache.camel.component.disruptor.DisruptorWaitStrategy		0.5
+org.apache.camel.component.disruptor.DisruptorReference		0.36898395
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.22727273
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.17699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorConfigureTest_testProducerTypeConfigured_14
+org.apache.camel.component.disruptor.ExchangeEventFactory		1.0
+org.apache.camel.component.disruptor.DisruptorReference.DelayedExecutor		0.75
+org.apache.camel.component.disruptor.DisruptorComponent		0.5934959
+org.apache.camel.component.disruptor.DisruptorProducerType		0.5
+org.apache.camel.component.disruptor.DisruptorWaitStrategy		0.5
+org.apache.camel.component.disruptor.DisruptorReference		0.37967914
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.22727273
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.17699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorConfigureTest_testSizeConfigured_2c
+org.apache.camel.component.disruptor.ExchangeEventFactory		1.0
+org.apache.camel.component.disruptor.DisruptorReference.DelayedExecutor		0.75
+org.apache.camel.component.disruptor.DisruptorComponent		0.58536583
+org.apache.camel.component.disruptor.DisruptorProducerType		0.5
+org.apache.camel.component.disruptor.DisruptorWaitStrategy		0.5
+org.apache.camel.component.disruptor.DisruptorReference		0.4171123
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.22727273
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.21238938
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorConfigureTest_testSizeThroughBufferSizeComponentProperty_24
+org.apache.camel.component.disruptor.ExchangeEventFactory		1.0
+org.apache.camel.component.disruptor.DisruptorReference.DelayedExecutor		0.75
+org.apache.camel.component.disruptor.DisruptorComponent		0.58536583
+org.apache.camel.component.disruptor.DisruptorProducerType		0.5
+org.apache.camel.component.disruptor.DisruptorWaitStrategy		0.5
+org.apache.camel.component.disruptor.DisruptorReference		0.4171123
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.22727273
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.21238938
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorConfigureTest_testWaitForTaskToCompleteConfigured_q
+org.apache.camel.component.disruptor.ExchangeEventFactory		1.0
+org.apache.camel.component.disruptor.DisruptorReference.DelayedExecutor		0.75
+org.apache.camel.component.disruptor.DisruptorComponent		0.5934959
+org.apache.camel.component.disruptor.DisruptorProducerType		0.5
+org.apache.camel.component.disruptor.DisruptorWaitStrategy		0.5
+org.apache.camel.component.disruptor.DisruptorReference		0.36898395
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.22727273
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.19469027
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorConfigureTest_testWaitStrategyConfigured_2j
+org.apache.camel.component.disruptor.ExchangeEventFactory		1.0
+org.apache.camel.component.disruptor.DisruptorReference.DelayedExecutor		0.75
+org.apache.camel.component.disruptor.DisruptorComponent		0.5934959
+org.apache.camel.component.disruptor.DisruptorProducerType		0.5
+org.apache.camel.component.disruptor.DisruptorWaitStrategy		0.5
+org.apache.camel.component.disruptor.DisruptorReference		0.37967914
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.22727273
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.17699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorConsumerSuspendResumeTest
+DisruptorConsumerSuspendResumeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorConsumerSuspendResumeTest_testSuspendResume_d
+org.apache.camel.component.disruptor.ExchangeEventFactory		1.0
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.9285714
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.875
+org.apache.camel.component.disruptor.DisruptorReference.BlockingExchangeEventHandler		0.8
+org.apache.camel.component.disruptor.DisruptorReference.DelayedExecutor		0.75
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.54545456
+org.apache.camel.component.disruptor.DisruptorReference		0.5240642
+org.apache.camel.component.disruptor.DisruptorProducerType		0.5
+org.apache.camel.component.disruptor.DisruptorWaitStrategy		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer		0.46774194
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.36283186
+org.apache.camel.component.disruptor.DisruptorProducer		0.3409091
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorFromRouteIdTest
+DisruptorFromRouteIdTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorFromRouteIdTest_testDisruptorFromRouteId_u
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		0.4
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.35714287
+org.apache.camel.component.disruptor.DisruptorProducer		0.3409091
+org.apache.camel.component.disruptor.DisruptorConsumer		0.22580644
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.17699115
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.045454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorInOnlyChainedTest
+DisruptorInOnlyChainedTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorInOnlyChainedTest_testInOnlyDisruptorChained_b
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorProducer		0.3409091
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.17699115
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorInOnlyTest
+DisruptorInOnlyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorInOnlyTest_testInOnly_21
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorProducer		0.22727273
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.045454547
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorInOutBigChainedTest
+DisruptorInOutBigChainedTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorInOutBigChainedTest_testInOutBigDisruptorChained_23
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorProducer		0.5568182
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.17699115
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorInOutChainedTest
+DisruptorInOutChainedTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorInOutChainedTest_testInOutDisruptorChained_1v
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorProducer		0.5568182
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.17699115
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.045454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorInOutChainedTimeoutTest
+DisruptorInOutChainedTimeoutTest		0.93333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorInOutChainedTimeoutTest_testDisruptorInOutChainedTimeout_v
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorProducer		0.60227275
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorComponent		0.46341464
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.31858408
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorReference		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorInOutChainedWithOnCompletionTest
+DisruptorInOutChainedWithOnCompletionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorInOutChainedWithOnCompletionTest_testInOutDisruptorChainedWithCustomOnCompletion_16
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorProducer		0.5568182
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.17699115
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorInOutTest
+DisruptorInOutTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorInOutTest_testInOut_1
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorProducer		0.4431818
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.045454547
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorInOutWithErrorDeadLetterChannelTest
+DisruptorInOutWithErrorDeadLetterChannelTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorInOutWithErrorDeadLetterChannelTest_testInOutWithErrorUsingDLC_1z
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorProducer		0.4431818
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorInOutWithErrorTest
+DisruptorInOutWithErrorTest		0.9230769
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorInOutWithErrorTest_testInOutWithError_2f
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorProducer		0.4431818
+org.apache.camel.component.disruptor.DisruptorConsumer		0.24193548
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorMultipleConsumersTest
+DisruptorMultipleConsumersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorMultipleConsumersTest_testDisruptorMultipleConsumersNewAdded_10
+org.apache.camel.component.disruptor.ExchangeEventFactory		1.0
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.875
+org.apache.camel.component.disruptor.ExchangeEvent		0.8333333
+org.apache.camel.component.disruptor.DisruptorReference.DelayedExecutor		0.75
+org.apache.camel.component.disruptor.MultipleConsumerSynchronizedExchange		0.6875
+org.apache.camel.component.disruptor.DisruptorConsumer		0.5967742
+org.apache.camel.component.disruptor.DisruptorReference		0.56684494
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.54545456
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.539823
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorProducerType		0.5
+org.apache.camel.component.disruptor.DisruptorWaitStrategy		0.5
+org.apache.camel.component.disruptor.DisruptorComponent		0.45528457
+org.apache.camel.component.disruptor.DisruptorProducer		0.3409091
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorMultipleConsumersTest_testDisruptorMultipleConsumers_1k
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.8333333
+org.apache.camel.component.disruptor.MultipleConsumerSynchronizedExchange		0.6875
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorComponent		0.45528457
+org.apache.camel.component.disruptor.DisruptorProducer		0.3409091
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.30088496
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorReference		0.09090909
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.045454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorNoConsumerTest
+DisruptorNoConsumerTest		0.90909094
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorNoConsumerTest_testInOnly_1r
+org.apache.camel.component.disruptor.ExchangeEvent		0.5
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		0.4
+org.apache.camel.component.disruptor.DisruptorProducer		0.22727273
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.21428572
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorNoConsumerTest_testInOut_11
+org.apache.camel.component.disruptor.ExchangeEvent		0.5
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		0.4
+org.apache.camel.component.disruptor.DisruptorProducer		0.38636363
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.21428572
+org.apache.camel.component.disruptor.DisruptorReference.BlockingExchangeEventHandler		0.2
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.045454547
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorRemoveRouteThenAddAgainTest
+DisruptorRemoveRouteThenAddAgainTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorRemoveRouteThenAddAgainTest_testRemoveRouteAndThenAddAgain_a
+org.apache.camel.component.disruptor.ExchangeEventFactory		1.0
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.875
+org.apache.camel.component.disruptor.DisruptorReference		0.7593583
+org.apache.camel.component.disruptor.DisruptorReference.DelayedExecutor		0.75
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.6460177
+org.apache.camel.component.disruptor.DisruptorConsumer		0.5967742
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.54545456
+org.apache.camel.component.disruptor.DisruptorComponent		0.50406504
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorProducerType		0.5
+org.apache.camel.component.disruptor.DisruptorWaitStrategy		0.5
+org.apache.camel.component.disruptor.DisruptorProducer		0.36363637
+org.apache.camel.component.disruptor.DisruptorReference.BlockingExchangeEventHandler		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorRingBufferTest
+DisruptorRingBufferTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorRingBufferTest_testQueue_29
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.625
+org.apache.camel.component.disruptor.DisruptorComponent		0.5203252
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorProducer		0.3409091
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.30088496
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorReference		0.101604275
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorRouteTest
+DisruptorRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorRouteTest_testDisruptorQueue_e
+org.apache.camel.component.disruptor.ExchangeEventFactory		1.0
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.875
+org.apache.camel.component.disruptor.DisruptorReference		0.7593583
+org.apache.camel.component.disruptor.DisruptorReference.DelayedExecutor		0.75
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.67256635
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorConsumer		0.5967742
+org.apache.camel.component.disruptor.DisruptorComponent		0.55284554
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.54545456
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorProducerType		0.5
+org.apache.camel.component.disruptor.DisruptorWaitStrategy		0.5
+org.apache.camel.component.disruptor.DisruptorProducer		0.36363637
+org.apache.camel.component.disruptor.DisruptorReference.BlockingExchangeEventHandler		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorRouteTest_testThatShowsEndpointResolutionIsNotConsistent_2p
+org.apache.camel.component.disruptor.ExchangeEventFactory		1.0
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.875
+org.apache.camel.component.disruptor.DisruptorReference		0.7593583
+org.apache.camel.component.disruptor.DisruptorReference.DelayedExecutor		0.75
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.67256635
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorConsumer		0.5967742
+org.apache.camel.component.disruptor.DisruptorComponent		0.55284554
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.54545456
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorProducerType		0.5
+org.apache.camel.component.disruptor.DisruptorWaitStrategy		0.5
+org.apache.camel.component.disruptor.DisruptorProducer		0.36363637
+org.apache.camel.component.disruptor.DisruptorReference.BlockingExchangeEventHandler		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorShouldNotUseSameThreadTest
+DisruptorShouldNotUseSameThreadTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorShouldNotUseSameThreadTest_testNotUseSameThread_2b
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		0.4
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.35714287
+org.apache.camel.component.disruptor.DisruptorProducer		0.22727273
+org.apache.camel.component.disruptor.DisruptorConsumer		0.20967741
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.045454547
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorTimeoutDisabledTest
+DisruptorTimeoutDisabledTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorTimeoutDisabledTest_testDisruptorNoTimeout_5
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorProducer		0.52272725
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorComponent		0.46341464
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.31858408
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorReference		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorTimeoutTest
+DisruptorTimeoutTest		0.96428573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorTimeoutTest_testDisruptorNoTimeout_c
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorProducer		0.5568182
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.17699115
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorTimeoutTest_testDisruptorTimeout_1e
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorProducer		0.5
+org.apache.camel.component.disruptor.DisruptorComponent		0.46341464
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		0.4
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.35714287
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.31858408
+org.apache.camel.component.disruptor.DisruptorConsumer		0.20967741
+org.apache.camel.component.disruptor.DisruptorReference		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorTimeoutTest_testDisruptorTimeout_25
+org.apache.camel.component.disruptor.DisruptorProducer		0.5
+org.apache.camel.component.disruptor.ExchangeEvent		0.5
+org.apache.camel.component.disruptor.DisruptorComponent		0.46341464
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		0.4
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.31858408
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.21428572
+org.apache.camel.component.disruptor.DisruptorReference.BlockingExchangeEventHandler		0.2
+org.apache.camel.component.disruptor.DisruptorReference		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorUnitOfWorkTest
+DisruptorUnitOfWorkTest		1.0
+DisruptorUnitOfWorkTest.MyUOWProcessor		0.7
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorUnitOfWorkTest_testDisruptorUOW_6
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorProducer		0.22727273
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.045454547
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorWaitClaimStrategyComponentTest
+DisruptorWaitClaimStrategyComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorWaitClaimStrategyComponentTest_testProduce_15
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		0.4
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.35714287
+org.apache.camel.component.disruptor.DisruptorProducer		0.3409091
+org.apache.camel.component.disruptor.DisruptorConsumer		0.20967741
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.17699115
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.045454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorWaitClaimStrategyComponentTest_testProduce_1n
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorProducer		0.3181818
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.17699115
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorWaitClaimStrategyComponentTest_testProduce_2o
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorProducer		0.3181818
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.17699115
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.045454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorWaitClaimStrategyComponentTest_testProduce_2q
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorProducer		0.3181818
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.17699115
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.045454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorWaitClaimStrategyComponentTest_testProduce_f
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		0.4
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.35714287
+org.apache.camel.component.disruptor.DisruptorProducer		0.3409091
+org.apache.camel.component.disruptor.DisruptorConsumer		0.20967741
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.17699115
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.045454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorWaitClaimStrategyComponentTest_testProduce_i
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		0.4
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.35714287
+org.apache.camel.component.disruptor.DisruptorProducer		0.3409091
+org.apache.camel.component.disruptor.DisruptorConsumer		0.20967741
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.17699115
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.045454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorWaitClaimStrategyComponentTest_testProduce_o
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorProducer		0.32954547
+org.apache.camel.component.disruptor.DisruptorConsumer		0.24193548
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.17699115
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.045454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorWaitClaimStrategyComponentTest_testProduce_t
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		0.4
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.35714287
+org.apache.camel.component.disruptor.DisruptorProducer		0.3409091
+org.apache.camel.component.disruptor.DisruptorConsumer		0.20967741
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.17699115
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorWaitForTaskAsPropertyTest
+DisruptorWaitForTaskAsPropertyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorWaitForTaskAsPropertyTest_testInOnly_2g
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorProducer		0.23863636
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorWaitForTaskAsPropertyTest_testInOut_1f
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorProducer		0.45454547
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorWaitForTaskCompleteOnCompletionTest
+DisruptorWaitForTaskCompleteOnCompletionTest		0.8695652
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorWaitForTaskCompleteOnCompletionTest_testAlways_2m
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorProducer		0.4431818
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorWaitForTaskCompleteTest
+DisruptorWaitForTaskCompleteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorWaitForTaskCompleteTest_testInOnly_1i
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorProducer		0.4431818
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorWaitForTaskCompleteTest_testInOut_27
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorProducer		0.4431818
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.045454547
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorWaitForTaskIfReplyExpectedTest
+DisruptorWaitForTaskIfReplyExpectedTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorWaitForTaskIfReplyExpectedTest_testInOnly_1j
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorProducer		0.22727273
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorWaitForTaskIfReplyExpectedTest_testInOut_1s
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorProducer		0.4431818
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorWaitForTaskNeverOnCompletionTest
+DisruptorWaitForTaskNeverOnCompletionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorWaitForTaskNeverOnCompletionTest_testNever_h
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorProducer		0.22727273
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorWaitForTaskNeverTest
+DisruptorWaitForTaskNeverTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorWaitForTaskNeverTest_testInOnly_28
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorProducer		0.22727273
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.045454547
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorWaitForTaskNeverTest_testInOut_y
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorProducer		0.22727273
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorWaitStrategyCreationTest
+DisruptorWaitStrategyCreationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/DisruptorWaitStrategyCreationTest_testCreateWaitStrategyInstance_1a
+org.apache.camel.component.disruptor.DisruptorWaitStrategy		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/FileDisruptorShutdownCompleteAllTasksTest
+FileDisruptorShutdownCompleteAllTasksTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/FileDisruptorShutdownCompleteAllTasksTest_testShutdownCompleteAllTasks_x
+org.apache.camel.component.disruptor.ExchangeEventFactory		1.0
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.875
+org.apache.camel.component.disruptor.DisruptorReference		0.7593583
+org.apache.camel.component.disruptor.DisruptorReference.DelayedExecutor		0.75
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.67256635
+org.apache.camel.component.disruptor.DisruptorComponent		0.6666667
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorConsumer		0.5967742
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.54545456
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorProducerType		0.5
+org.apache.camel.component.disruptor.DisruptorWaitStrategy		0.5
+org.apache.camel.component.disruptor.DisruptorProducer		0.36363637
+org.apache.camel.component.disruptor.DisruptorReference.BlockingExchangeEventHandler		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/MulticastDisruptorComponentTest
+MulticastDisruptorComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/MulticastDisruptorComponentTest_testMulticastProduce_3
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.MultipleConsumerSynchronizedExchange		0.4375
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.35714287
+org.apache.camel.component.disruptor.DisruptorProducer		0.3181818
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.17699115
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.045454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/SedaDisruptorCompareTest
+SedaDisruptorCompareTest		0.0
+SedaDisruptorCompareTest.ExchangeAwaiter		0.0
+SedaDisruptorCompareTest.ProducerThread		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-BasicDisruptorComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DirectRequestReplyAndDisruptorInOnlyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorAsyncRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorBlockWhenFullTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorBufferingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorComplexInOutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorComponentReferenceEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorConcurrentConsumersNPEIssueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorConcurrentConsumersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorConcurrentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorConfigureTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorConsumerSuspendResumeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorFromRouteIdTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorInOnlyChainedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorInOnlyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorInOutBigChainedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorInOutChainedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorInOutChainedTimeoutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorInOutChainedWithOnCompletionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorInOutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorInOutWithErrorDeadLetterChannelTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorInOutWithErrorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorMultipleConsumersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorNoConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorRemoveRouteThenAddAgainTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorRingBufferTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorShouldNotUseSameThreadTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorTimeoutDisabledTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorTimeoutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorUnitOfWorkTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorUnitOfWorkTest_MyUOWProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorWaitClaimStrategyComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorWaitForTaskAsPropertyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorWaitForTaskCompleteOnCompletionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorWaitForTaskCompleteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorWaitForTaskIfReplyExpectedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorWaitForTaskNeverOnCompletionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorWaitForTaskNeverTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-DisruptorWaitStrategyCreationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-FileDisruptorShutdownCompleteAllTasksTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-MulticastDisruptorComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-SedaDisruptorCompareTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-SedaDisruptorCompareTest_ExchangeAwaiter
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/test-SedaDisruptorCompareTest_ProducerThread
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmComponentReferenceEndpointTest
+DisruptorVmComponentReferenceEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmComponentReferenceEndpointTest_testDisruptorVmComponentReference_9
+testDisruptorVmComponentReference
+org.apache.camel.component.disruptor.ExchangeEventFactory		1.0
+org.apache.camel.component.disruptor.DisruptorReference.DelayedExecutor		0.75
+org.apache.camel.component.disruptor.DisruptorReference		0.6631016
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.54545456
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.5132743
+org.apache.camel.component.disruptor.DisruptorComponent		0.5121951
+org.apache.camel.component.disruptor.DisruptorProducerType		0.5
+org.apache.camel.component.disruptor.DisruptorWaitStrategy		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.375
+org.apache.camel.component.disruptor.DisruptorConsumer		0.33870968
+org.apache.camel.component.disruptor.vm.DisruptorVmComponent		0.2
+org.apache.camel.component.disruptor.DisruptorReference.BlockingExchangeEventHandler		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmConcurrentConsumersTest
+DisruptorVmConcurrentConsumersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmConcurrentConsumersTest_testSendToSeda_m
+testSendToSeda
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.625
+org.apache.camel.component.disruptor.vm.DisruptorVmComponent		0.5
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorComponent		0.46341464
+org.apache.camel.component.disruptor.DisruptorProducer		0.3409091
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.30088496
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorReference		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmDifferentOptionsOnConsumerAndProducerTest
+DisruptorVmDifferentOptionsOnConsumerAndProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmDifferentOptionsOnConsumerAndProducerTest_testSendToDisruptorVm_13
+testSendToDisruptorVm
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.625
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorProducer		0.22727273
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmInOnlyChainedTest
+DisruptorVmInOnlyChainedTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmInOnlyChainedTest_testInOnlyDisruptorVmChained_2d
+testInOnlyDisruptorVmChained
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorProducer		0.3409091
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.17699115
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmInOnlyTest
+DisruptorVmInOnlyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmInOnlyTest_testInOnly_1t
+testInOnly
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorProducer		0.22727273
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmInOutChainedTest
+DisruptorVmInOutChainedTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmInOutChainedTest_testInOutDisruptorVmChained_1b
+testInOutDisruptorVmChained
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorProducer		0.5568182
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorComponent		0.4390244
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.30088496
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.vm.DisruptorVmComponent		0.2
+org.apache.camel.component.disruptor.DisruptorReference		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmInOutChainedTimeoutTest
+DisruptorVmInOutChainedTimeoutTest		0.9444444
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmInOutChainedTimeoutTest_testDisruptorVmInOutChainedTimeout_2a
+testDisruptorVmInOutChainedTimeout
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorProducer		0.60227275
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorComponent		0.44715446
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.31858408
+org.apache.camel.component.disruptor.DisruptorConsumer		0.24193548
+org.apache.camel.component.disruptor.vm.DisruptorVmComponent		0.2
+org.apache.camel.component.disruptor.DisruptorReference		0.09090909
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.045454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmInOutTest
+DisruptorVmInOutTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmInOutTest_testInOut_2r
+testInOut
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorProducer		0.4431818
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmInOutWithErrorTest
+DisruptorVmInOutWithErrorTest		0.9375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmInOutWithErrorTest_testInOutWithError_1h
+testInOutWithError
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorProducer		0.4431818
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmMultipleConsumersIssueTest
+DisruptorVmMultipleConsumersIssueTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmMultipleConsumersIssueTest_testDisruptorVmMultipleConsumersIssue_2
+testDisruptorVmMultipleConsumersIssue
+org.apache.camel.component.disruptor.MultipleConsumerSynchronizedExchange		0.6875
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorProducer		0.4431818
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.045454547
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmMultipleContextsStartStopTest
+DisruptorVmMultipleContextsStartStopTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmMultipleContextsStartStopTest_testStartStop_1y
+testStartStop
+org.apache.camel.component.disruptor.ExchangeEventFactory		1.0
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.875
+org.apache.camel.component.disruptor.vm.DisruptorVmComponent		0.8
+org.apache.camel.component.disruptor.DisruptorReference.DelayedExecutor		0.75
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorReference		0.64171124
+org.apache.camel.component.disruptor.DisruptorConsumer		0.5967742
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.54545456
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.53097343
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorProducerType		0.5
+org.apache.camel.component.disruptor.DisruptorWaitStrategy		0.5
+org.apache.camel.component.disruptor.DisruptorComponent		0.49593496
+org.apache.camel.component.disruptor.DisruptorProducer		0.4431818
+org.apache.camel.component.disruptor.DisruptorReference.BlockingExchangeEventHandler		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmQueueTest
+DisruptorVmQueueTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmQueueTest_testQueue_2l
+testQueue
+org.apache.camel.component.disruptor.DisruptorComponent		0.50406504
+org.apache.camel.component.disruptor.ExchangeEvent		0.5
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		0.4
+org.apache.camel.component.disruptor.DisruptorProducer		0.3409091
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.30088496
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.21428572
+org.apache.camel.component.disruptor.vm.DisruptorVmComponent		0.2
+org.apache.camel.component.disruptor.DisruptorReference		0.101604275
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmShouldNotUseSameThreadTest
+DisruptorVmShouldNotUseSameThreadTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmShouldNotUseSameThreadTest_testNotUseSameThread_12
+testNotUseSameThread
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorProducer		0.22727273
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmSplitterTest
+DisruptorVmSplitterTest		1.0
+DisruptorVmSplitterTest.SplitWordsBean		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmSplitterTest_testSplitUsingMethodCall_g
+testSplitUsingMethodCall
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		0.4
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.35714287
+org.apache.camel.component.disruptor.DisruptorProducer		0.22727273
+org.apache.camel.component.disruptor.DisruptorConsumer		0.20967741
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmTimeoutIssueTest
+DisruptorVmTimeoutIssueTest		0.9166667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmTimeoutIssueTest_testDisruptorVmTimeoutWithAnotherDisruptorVm_1m
+testDisruptorVmTimeoutWithAnotherDisruptorVm
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorProducer		0.60227275
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.17699115
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.045454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmTimeoutIssueTest_testDisruptorVmTimeoutWithProcessor_j
+testDisruptorVmTimeoutWithProcessor
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.DisruptorProducer		0.5568182
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer		0.24193548
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.17699115
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.045454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmUseSameQueueTest
+DisruptorVmUseSameQueueTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmUseSameQueueTest_testDisruptorVmUseSameQueue_k
+testDisruptorVmUseSameQueue
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorProducer		0.22727273
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmWaitForTaskCompleteTest
+DisruptorVmWaitForTaskCompleteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmWaitForTaskCompleteTest_testInOnly_4
+testInOnly
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorProducer		0.4431818
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmWaitForTaskCompleteTest_testInOut_1g
+testInOut
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorProducer		0.4431818
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmWaitForTaskIfReplyExpectedTest
+DisruptorVmWaitForTaskIfReplyExpectedTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmWaitForTaskIfReplyExpectedTest_testInOnly_0
+testInOnly
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorProducer		0.22727273
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmWaitForTaskIfReplyExpectedTest_testInOut_2i
+testInOut
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorProducer		0.4431818
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmWaitForTaskNewerTest
+DisruptorVmWaitForTaskNewerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmWaitForTaskNewerTest_testInOnly_r
+testInOnly
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorProducer		0.22727273
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/DisruptorVmWaitForTaskNewerTest_testInOut_z
+testInOut
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		1.0
+org.apache.camel.component.disruptor.ExchangeEvent		0.6666667
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer.ConsumerEventHandler		0.5
+org.apache.camel.component.disruptor.DisruptorConsumer		0.2580645
+org.apache.camel.component.disruptor.DisruptorProducer		0.22727273
+org.apache.camel.component.disruptor.DisruptorReference		0.05882353
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.017699115
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/SameDisruptorVmQueueSizeAndNoSizeTest
+SameDisruptorVmQueueSizeAndNoSizeTest		0.8888889
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/SameDisruptorVmQueueSizeAndNoSizeTest_testSameQueueDifferentSizeBar_26
+testSameQueueDifferentSizeBar
+org.apache.camel.component.disruptor.DisruptorComponent		0.3902439
+org.apache.camel.component.disruptor.vm.DisruptorVmComponent		0.2
+org.apache.camel.component.disruptor.DisruptorReference		0.010695187
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/SameDisruptorVmQueueSizeAndNoSizeTest_testSameQueueDifferentSize_2n
+testSameQueueDifferentSize
+org.apache.camel.component.disruptor.DisruptorComponent		0.3902439
+org.apache.camel.component.disruptor.vm.DisruptorVmComponent		0.2
+org.apache.camel.component.disruptor.DisruptorReference		0.010695187
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/SameDisruptorVmQueueSizeAndNoSizeTest_testSameQueue_1w
+testSameQueue
+org.apache.camel.component.disruptor.ExchangeEvent		0.5
+org.apache.camel.component.disruptor.DisruptorComponent		0.44715446
+org.apache.camel.component.disruptor.SingleConsumerSynchronizedExchange		0.4
+org.apache.camel.component.disruptor.DisruptorProducer		0.35227272
+org.apache.camel.component.disruptor.DisruptorEndpoint		0.30088496
+org.apache.camel.component.disruptor.AbstractSynchronizedExchange		0.21428572
+org.apache.camel.component.disruptor.vm.DisruptorVmComponent		0.2
+org.apache.camel.component.disruptor.DisruptorReference.BlockingExchangeEventHandler		0.2
+org.apache.camel.component.disruptor.DisruptorReference		0.09090909
+org.apache.camel.component.disruptor.AbstractLifecycleAwareExchangeEventHandler		0.045454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/test-DisruptorVmComponentReferenceEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/test-DisruptorVmConcurrentConsumersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/test-DisruptorVmDifferentOptionsOnConsumerAndProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/test-DisruptorVmInOnlyChainedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/test-DisruptorVmInOnlyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/test-DisruptorVmInOutChainedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/test-DisruptorVmInOutChainedTimeoutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/test-DisruptorVmInOutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/test-DisruptorVmInOutWithErrorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/test-DisruptorVmMultipleConsumersIssueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/test-DisruptorVmMultipleContextsStartStopTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/test-DisruptorVmQueueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/test-DisruptorVmShouldNotUseSameThreadTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/test-DisruptorVmSplitterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/test-DisruptorVmSplitterTest_SplitWordsBean
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/test-DisruptorVmTimeoutIssueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/test-DisruptorVmUseSameQueueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/test-DisruptorVmWaitForTaskCompleteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/test-DisruptorVmWaitForTaskIfReplyExpectedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/test-DisruptorVmWaitForTaskNewerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-disruptor/target/site/clover/org/apache/camel/component/disruptor/vm/test-SameDisruptorVmQueueSizeAndNoSizeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

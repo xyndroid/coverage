@@ -1,0 +1,184 @@
+./components/camel-ibatis/target/site/clover/org/apache/camel
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisBatchConsumerTest
+IBatisBatchConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisBatchConsumerTest_testBatchConsumer_4
+org.apache.camel.component.ibatis.IBatisConsumer.DataHolder		1.0
+org.apache.camel.component.ibatis.IBatisConsumer		0.61333334
+org.apache.camel.component.ibatis.IBatisEndpoint		0.11764706
+org.apache.camel.component.ibatis.strategy.DefaultIBatisProcessingStategy		0.115384616
+org.apache.camel.component.ibatis.IBatisComponent		0.060606062
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisBatchConsumerTest_testBatchConsumer_a
+org.apache.camel.component.ibatis.IBatisConsumer.DataHolder		1.0
+org.apache.camel.component.ibatis.IBatisConsumer		0.58666664
+org.apache.camel.component.ibatis.IBatisEndpoint		0.11764706
+org.apache.camel.component.ibatis.strategy.DefaultIBatisProcessingStategy		0.115384616
+org.apache.camel.component.ibatis.IBatisComponent		0.060606062
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisConsumerIdleMessageTest
+IBatisConsumerIdleMessageTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisConsumerIdleMessageTest_testConsumeIdleMessages_0
+org.apache.camel.component.ibatis.IBatisConsumer		0.29333332
+org.apache.camel.component.ibatis.IBatisEndpoint		0.11764706
+org.apache.camel.component.ibatis.strategy.DefaultIBatisProcessingStategy		0.115384616
+org.apache.camel.component.ibatis.IBatisComponent		0.060606062
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisPollingDelayRouteTest
+IBatisPollingDelayRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisPollingDelayRouteTest_testSendAccountBean_1
+org.apache.camel.component.ibatis.IBatisProducer		0.1965812
+org.apache.camel.component.ibatis.IBatisEndpoint		0.0882353
+org.apache.camel.component.ibatis.IBatisComponent		0.060606062
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisQueryForDeleteTest
+IBatisQueryForDeleteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisQueryForDeleteTest_testDeleteNotFound_c
+org.apache.camel.component.ibatis.IBatisEndpoint		0.44117647
+org.apache.camel.component.ibatis.IBatisProducer		0.42735043
+org.apache.camel.component.ibatis.IBatisComponent		0.27272728
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisQueryForDeleteTest_testDelete_h
+org.apache.camel.component.ibatis.IBatisEndpoint		0.44117647
+org.apache.camel.component.ibatis.IBatisProducer		0.42735043
+org.apache.camel.component.ibatis.IBatisComponent		0.27272728
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisQueryForInsertTest
+IBatisQueryForInsertTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisQueryForInsertTest_testInsert_b
+org.apache.camel.component.ibatis.IBatisEndpoint		0.44117647
+org.apache.camel.component.ibatis.IBatisProducer		0.42735043
+org.apache.camel.component.ibatis.IBatisComponent		0.27272728
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisQueryForListTest
+IBatisQueryForListTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisQueryForListTest_testQueryForList_2
+org.apache.camel.component.ibatis.IBatisProducer		0.1965812
+org.apache.camel.component.ibatis.IBatisEndpoint		0.0882353
+org.apache.camel.component.ibatis.IBatisComponent		0.060606062
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisQueryForListWithSplitTest
+IBatisQueryForListWithSplitTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisQueryForListWithSplitTest_testQueryForList_6
+org.apache.camel.component.ibatis.IBatisProducer		0.1965812
+org.apache.camel.component.ibatis.IBatisEndpoint		0.0882353
+org.apache.camel.component.ibatis.IBatisComponent		0.060606062
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisQueryForObjectTest
+IBatisQueryForObjectTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisQueryForObjectTest_testQueryForNotFound_7
+org.apache.camel.component.ibatis.IBatisProducer		0.1965812
+org.apache.camel.component.ibatis.IBatisEndpoint		0.0882353
+org.apache.camel.component.ibatis.IBatisComponent		0.060606062
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisQueryForObjectTest_testQueryForObject_f
+org.apache.camel.component.ibatis.IBatisProducer		0.1965812
+org.apache.camel.component.ibatis.IBatisEndpoint		0.0882353
+org.apache.camel.component.ibatis.IBatisComponent		0.060606062
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisQueryForUpdateTest
+IBatisQueryForUpdateTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisQueryForUpdateTest_testUpdate_e
+org.apache.camel.component.ibatis.IBatisProducer		0.45299146
+org.apache.camel.component.ibatis.IBatisEndpoint		0.44117647
+org.apache.camel.component.ibatis.IBatisComponent		0.27272728
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisQueueTest
+IBatisQueueTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisQueueTest_testConsume_9
+org.apache.camel.component.ibatis.IBatisConsumer.DataHolder		1.0
+org.apache.camel.component.ibatis.strategy.DefaultIBatisProcessingStategy		0.7307692
+org.apache.camel.component.ibatis.IBatisConsumer		0.62666667
+org.apache.camel.component.ibatis.IBatisEndpoint		0.5
+org.apache.camel.component.ibatis.IBatisProducer		0.42735043
+org.apache.camel.component.ibatis.IBatisComponent		0.27272728
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisRouteEmptyResultSetTest
+IBatisRouteEmptyResultSetTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisRouteEmptyResultSetTest_testRouteEmptyResultSet_d
+org.apache.camel.component.ibatis.IBatisConsumer.DataHolder		1.0
+org.apache.camel.component.ibatis.IBatisConsumer		0.56
+org.apache.camel.component.ibatis.IBatisEndpoint		0.11764706
+org.apache.camel.component.ibatis.strategy.DefaultIBatisProcessingStategy		0.115384616
+org.apache.camel.component.ibatis.IBatisComponent		0.060606062
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisRouteTest
+IBatisRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisRouteTest_testSendAccountBean_8
+org.apache.camel.component.ibatis.IBatisProducer		0.43589744
+org.apache.camel.component.ibatis.IBatisEndpoint		0.19117647
+org.apache.camel.component.ibatis.IBatisComponent		0.060606062
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisShutdownAllTasksTest
+IBatisShutdownAllTasksTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisShutdownAllTasksTest_testShutdownAllTasks_5
+org.apache.camel.component.ibatis.IBatisConsumer.DataHolder		1.0
+org.apache.camel.component.ibatis.IBatisConsumer		0.6933333
+org.apache.camel.component.ibatis.IBatisComponent		0.121212125
+org.apache.camel.component.ibatis.IBatisEndpoint		0.11764706
+org.apache.camel.component.ibatis.strategy.DefaultIBatisProcessingStategy		0.115384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisShutdownCurrentTaskOnlyTest
+IBatisShutdownCurrentTaskOnlyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisShutdownCurrentTaskOnlyTest_testShutdownCompleteCurrentTaskOnly_3
+org.apache.camel.component.ibatis.IBatisConsumer.DataHolder		1.0
+org.apache.camel.component.ibatis.IBatisConsumer		0.61333334
+org.apache.camel.component.ibatis.IBatisComponent		0.121212125
+org.apache.camel.component.ibatis.IBatisEndpoint		0.11764706
+org.apache.camel.component.ibatis.strategy.DefaultIBatisProcessingStategy		0.115384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisTestSupport
+IBatisTestSupport		0.9444444
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisUnknownStatementTypeTest
+IBatisUnknownStatementTypeTest		0.90909094
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/IBatisUnknownStatementTypeTest_testStatementTypeNotSet_g
+org.apache.camel.component.ibatis.IBatisComponent		0.6969697
+org.apache.camel.component.ibatis.IBatisEndpoint		0.27941176
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/test-IBatisBatchConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/test-IBatisConsumerIdleMessageTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/test-IBatisPollingDelayRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/test-IBatisQueryForDeleteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/test-IBatisQueryForInsertTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/test-IBatisQueryForListTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/test-IBatisQueryForListWithSplitTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/test-IBatisQueryForObjectTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/test-IBatisQueryForUpdateTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/test-IBatisQueueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/test-IBatisRouteEmptyResultSetTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/test-IBatisRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/test-IBatisShutdownAllTasksTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/test-IBatisShutdownCurrentTaskOnlyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/test-IBatisTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ibatis/target/site/clover/org/apache/camel/component/ibatis/test-IBatisUnknownStatementTypeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,223 @@
+./components/camel-rss/target/site/clover/org/apache/camel
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/JettyTestServer
+JettyTestServer		0.9111111
+JettyTestServer.MyHttpServlet		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/RssEndpointTest
+RssEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/RssEndpointTest_testGrabbingListOfEntries_7
+org.apache.camel.component.rss.RssPollingConsumer		0.5
+org.apache.camel.component.rss.RssUtils		0.41666666
+org.apache.camel.component.rss.RssEndpoint		0.14814815
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/RssEntryPollingConsumerTest
+RssEntryPollingConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/RssEntryPollingConsumerTest_testListOfEntriesIsSplitIntoPieces_a
+org.apache.camel.component.rss.RssDateComparator		0.8
+org.apache.camel.component.rss.RssEntryPollingConsumer		0.5833333
+org.apache.camel.component.rss.UpdatedDateFilter		0.5588235
+org.apache.camel.component.rss.RssUtils		0.33333334
+org.apache.camel.component.rss.RssEndpoint		0.2962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/RssEntryPollingConsumerWithBasicAuthTest
+RssEntryPollingConsumerWithBasicAuthTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/RssEntryPollingConsumerWithBasicAuthTest_testListOfEntriesIsSplitIntoPieces_0
+org.apache.camel.component.rss.RssDateComparator		0.8
+org.apache.camel.component.rss.RssEntryPollingConsumer		0.5833333
+org.apache.camel.component.rss.UpdatedDateFilter		0.5588235
+org.apache.camel.component.rss.RssUtils		0.45833334
+org.apache.camel.component.rss.RssEndpoint		0.2962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/RssEntryPollingConsumerWithFilterTest
+RssEntryPollingConsumerWithFilterTest		1.0
+RssEntryPollingConsumerWithFilterTest.MyBean		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/RssEntryPollingConsumerWithFilterTest_testListOfEntriesIsSplitIntoPieces_i
+org.apache.camel.component.rss.UpdatedDateFilter		0.64705884
+org.apache.camel.component.rss.RssEntryPollingConsumer		0.45833334
+org.apache.camel.component.rss.RssUtils		0.33333334
+org.apache.camel.component.rss.RssEndpoint		0.2962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/RssEntrySortDefaultsTest
+RssEntrySortDefaultsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/RssEntrySortDefaultsTest_testSortedEntries_g
+org.apache.camel.component.rss.RssDateComparator		0.8
+org.apache.camel.component.rss.RssEntryPollingConsumer		0.7083333
+org.apache.camel.component.rss.UpdatedDateFilter		0.64705884
+org.apache.camel.component.rss.RssUtils		0.33333334
+org.apache.camel.component.rss.RssEndpoint		0.2962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/RssEntrySortDefaultsTest_testUnSortedEntries_3
+org.apache.camel.component.rss.RssDateComparator		0.8
+org.apache.camel.component.rss.UpdatedDateFilter		0.7941176
+org.apache.camel.component.rss.RssEntryPollingConsumer		0.7083333
+org.apache.camel.component.rss.RssUtils		0.33333334
+org.apache.camel.component.rss.RssEndpoint		0.2962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/RssEntrySortTest
+RssEntrySortTest		1.0
+RssEntrySortTest.MyBean		0.8888889
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/RssEntrySortTest_testSortedEntries_e
+org.apache.camel.component.rss.RssDateComparator		0.8
+org.apache.camel.component.rss.RssEntryPollingConsumer		0.7083333
+org.apache.camel.component.rss.UpdatedDateFilter		0.64705884
+org.apache.camel.component.rss.RssUtils		0.33333334
+org.apache.camel.component.rss.RssEndpoint		0.2962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/RssEntrySortTest_testUnSortedEntries_5
+org.apache.camel.component.rss.RssDateComparator		0.8
+org.apache.camel.component.rss.UpdatedDateFilter		0.7941176
+org.apache.camel.component.rss.RssEntryPollingConsumer		0.7083333
+org.apache.camel.component.rss.RssUtils		0.33333334
+org.apache.camel.component.rss.RssEndpoint		0.2962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/RssFilterTest
+RssFilterTest		1.0
+RssFilterTest.FilterBean		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/RssFilterTest_testFilterOutNonCamelPosts_c
+org.apache.camel.component.rss.UpdatedDateFilter		0.64705884
+org.apache.camel.component.rss.RssEntryPollingConsumer		0.45833334
+org.apache.camel.component.rss.RssUtils		0.33333334
+org.apache.camel.component.rss.RssEndpoint		0.2962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/RssHttpNoCamelParametersTest
+RssHttpNoCamelParametersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/RssHttpNoCamelParametersTest_testRssHttpNoCamelParametersAndOneFeedParameter_9
+org.apache.camel.component.rss.RssComponent		0.7894737
+org.apache.camel.component.rss.RssEndpoint		0.074074075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/RssHttpNoCamelParametersTest_testRssHttpNoCamelParameters_8
+org.apache.camel.component.rss.RssComponent		0.68421054
+org.apache.camel.component.rss.RssEndpoint		0.074074075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/RssMultipleEndpointsIssueTest
+RssMultipleEndpointsIssueTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/RssPollingConsumerTest
+RssPollingConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/RssPollingConsumerTest_testGrabbingListOfEntries_6
+org.apache.camel.component.rss.RssPollingConsumer		0.5
+org.apache.camel.component.rss.RssUtils		0.41666666
+org.apache.camel.component.rss.RssEndpoint		0.14814815
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/RssPollingConsumerWithBasicAuthTest
+RssPollingConsumerWithBasicAuthTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/RssPollingConsumerWithBasicAuthTest_testGrabbingListOfEntries_b
+org.apache.camel.component.rss.RssUtils		0.5416667
+org.apache.camel.component.rss.RssPollingConsumer		0.5
+org.apache.camel.component.rss.RssEndpoint		0.14814815
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/RssPollingConsumerWithFeedHeaderDisabledTest
+RssPollingConsumerWithFeedHeaderDisabledTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/RssPollingConsumerWithFeedHeaderDisabledTest_testNoFeedInHeader_2
+org.apache.camel.component.rss.RssPollingConsumer		0.5
+org.apache.camel.component.rss.RssUtils		0.41666666
+org.apache.camel.component.rss.RssEndpoint		0.14814815
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/RssUriEncodingIssueTest
+RssUriEncodingIssueTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/UpdatedDateFilterTest
+UpdatedDateFilterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/UpdatedDateFilterTest_testFilter_1
+org.apache.camel.component.rss.UpdatedDateFilter		0.64705884
+org.apache.camel.component.rss.RssEndpoint		0.037037037
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/test-JettyTestServer
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/test-JettyTestServer_MyHttpServlet
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/test-RssEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/test-RssEntryPollingConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/test-RssEntryPollingConsumerWithBasicAuthTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/test-RssEntryPollingConsumerWithFilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/test-RssEntryPollingConsumerWithFilterTest_MyBean
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/test-RssEntrySortDefaultsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/test-RssEntrySortTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/test-RssEntrySortTest_MyBean
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/test-RssFilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/test-RssFilterTest_FilterBean
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/test-RssHttpNoCamelParametersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/test-RssMultipleEndpointsIssueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/test-RssPollingConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/test-RssPollingConsumerWithBasicAuthTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/test-RssPollingConsumerWithFeedHeaderDisabledTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/test-RssUriEncodingIssueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/component/rss/test-UpdatedDateFilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/dataformat/rss/RssConverterTest
+RssConverterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/dataformat/rss/RssConverterTest_testMarshalling_d
+org.apache.camel.dataformat.rss.RssConverter		0.85714287
+org.apache.camel.component.rss.RssPollingConsumer		0.5
+org.apache.camel.component.rss.RssUtils		0.41666666
+org.apache.camel.component.rss.RssEndpoint		0.14814815
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/dataformat/rss/RssConverterTest_testUnmarshalling_4
+org.apache.camel.dataformat.rss.RssConverter		0.85714287
+org.apache.camel.component.rss.RssPollingConsumer		0.5
+org.apache.camel.component.rss.RssUtils		0.41666666
+org.apache.camel.component.rss.RssEndpoint		0.14814815
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/dataformat/rss/RssDataFormatTest
+RssDataFormatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/dataformat/rss/RssDataFormatTest_testMarshalling_h
+org.apache.camel.dataformat.rss.RssConverter		0.85714287
+org.apache.camel.dataformat.rss.RssDataFormat		0.6363636
+org.apache.camel.component.rss.RssPollingConsumer		0.5
+org.apache.camel.component.rss.RssUtils		0.41666666
+org.apache.camel.component.rss.RssEndpoint		0.14814815
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/dataformat/rss/RssDataFormatTest_testUnmarshalling_j
+org.apache.camel.dataformat.rss.RssConverter		0.85714287
+org.apache.camel.dataformat.rss.RssDataFormat		0.6363636
+org.apache.camel.component.rss.RssPollingConsumer		0.5
+org.apache.camel.component.rss.RssUtils		0.41666666
+org.apache.camel.component.rss.RssEndpoint		0.14814815
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/dataformat/rss/RssFilterWithXPathTest
+RssFilterWithXPathTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/dataformat/rss/RssFilterWithXPathTest_testFilterOutNonCamelPosts_f
+org.apache.camel.component.rss.UpdatedDateFilter		0.64705884
+org.apache.camel.component.rss.RssEntryPollingConsumer		0.45833334
+org.apache.camel.dataformat.rss.RssConverter		0.42857143
+org.apache.camel.dataformat.rss.RssDataFormat		0.36363637
+org.apache.camel.component.rss.RssUtils		0.33333334
+org.apache.camel.component.rss.RssEndpoint		0.2962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/dataformat/rss/test-RssConverterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/dataformat/rss/test-RssDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rss/target/site/clover/org/apache/camel/dataformat/rss/test-RssFilterWithXPathTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

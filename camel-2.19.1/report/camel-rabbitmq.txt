@@ -1,0 +1,309 @@
+./components/camel-rabbitmq/target/site/clover/org/apache/camel
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/AbstractRabbitMQIntTest
+AbstractRabbitMQIntTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQComponentTest
+RabbitMQComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQComponentTest_testConnectionFactoryRef_q
+org.apache.camel.component.rabbitmq.RabbitMQComponent		0.825
+org.apache.camel.component.rabbitmq.RabbitMQEndpoint		0.08127209
+org.apache.camel.component.rabbitmq.RabbitMQDeclareSupport		0.03125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQComponentTest_testDefaultProperties_p
+org.apache.camel.component.rabbitmq.RabbitMQComponent		0.825
+org.apache.camel.component.rabbitmq.RabbitMQEndpoint		0.14840989
+org.apache.camel.component.rabbitmq.RabbitMQDeclareSupport		0.03125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQComponentTest_testPropertiesSet_4
+org.apache.camel.component.rabbitmq.RabbitMQComponent		0.825
+org.apache.camel.component.rabbitmq.RabbitMQEndpoint		0.25441697
+org.apache.camel.component.rabbitmq.RabbitMQDeclareSupport		0.03125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQConsumerIntTest
+RabbitMQConsumerIntTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQConsumerIntTestReplyTo
+RabbitMQConsumerIntTestReplyTo		0.0
+RabbitMQConsumerIntTestReplyTo.ArrayPopulatingConsumer		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQConsumerTest
+RabbitMQConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQConsumerTest_testStoppingConsumerShutdownConnectionWhenServerHasClosedChannel_15
+org.apache.camel.component.rabbitmq.RabbitMQConsumer		0.65789473
+org.apache.camel.component.rabbitmq.RabbitConsumer		0.18343195
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQConsumerTest_testStoppingConsumerShutdownConnection_a
+org.apache.camel.component.rabbitmq.RabbitMQConsumer		0.65789473
+org.apache.camel.component.rabbitmq.RabbitConsumer		0.18343195
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQConsumerTest_testStoppingConsumerShutdownExecutor_10
+org.apache.camel.component.rabbitmq.RabbitMQConsumer		0.65789473
+org.apache.camel.component.rabbitmq.RabbitConsumer		0.18343195
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQEndpointTest
+RabbitMQEndpointTest		0.99492383
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQEndpointTest_assertSingleton_r
+org.apache.camel.component.rabbitmq.RabbitMQComponent		0.825
+org.apache.camel.component.rabbitmq.RabbitMQEndpoint		0.077738516
+org.apache.camel.component.rabbitmq.RabbitMQDeclareSupport		0.03125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQEndpointTest_brokerEndpointAddressesSettings_n
+org.apache.camel.component.rabbitmq.RabbitMQComponent		0.825
+org.apache.camel.component.rabbitmq.RabbitMQEndpoint		0.1024735
+org.apache.camel.component.rabbitmq.RabbitMQDeclareSupport		0.03125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQEndpointTest_createEndpointWithAutoAckDisabled_s
+org.apache.camel.component.rabbitmq.RabbitMQComponent		0.825
+org.apache.camel.component.rabbitmq.RabbitMQEndpoint		0.09187279
+org.apache.camel.component.rabbitmq.RabbitMQDeclareSupport		0.03125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQEndpointTest_createEndpointWithExclusiveEnabled_v
+org.apache.camel.component.rabbitmq.RabbitMQComponent		0.825
+org.apache.camel.component.rabbitmq.RabbitMQEndpoint		0.09187279
+org.apache.camel.component.rabbitmq.RabbitMQDeclareSupport		0.03125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQEndpointTest_createEndpointWithReplyTimeout_b
+org.apache.camel.component.rabbitmq.RabbitMQComponent		0.825
+org.apache.camel.component.rabbitmq.RabbitMQEndpoint		0.09187279
+org.apache.camel.component.rabbitmq.RabbitMQDeclareSupport		0.03125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQEndpointTest_createEndpointWithRequestTimeoutCheckerInterval_0
+org.apache.camel.component.rabbitmq.RabbitMQComponent		0.825
+org.apache.camel.component.rabbitmq.RabbitMQEndpoint		0.09187279
+org.apache.camel.component.rabbitmq.RabbitMQDeclareSupport		0.03125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQEndpointTest_createEndpointWithSkipExchangeDeclareEnabled_l
+org.apache.camel.component.rabbitmq.RabbitMQComponent		0.825
+org.apache.camel.component.rabbitmq.RabbitMQEndpoint		0.09187279
+org.apache.camel.component.rabbitmq.RabbitMQDeclareSupport		0.03125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQEndpointTest_createEndpointWithSkipQueueBindEndabled_1
+org.apache.camel.component.rabbitmq.RabbitMQComponent		0.825
+org.apache.camel.component.rabbitmq.RabbitMQEndpoint		0.09187279
+org.apache.camel.component.rabbitmq.RabbitMQDeclareSupport		0.03125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQEndpointTest_createEndpointWithSkipQueueDeclareEnabled_16
+org.apache.camel.component.rabbitmq.RabbitMQComponent		0.825
+org.apache.camel.component.rabbitmq.RabbitMQEndpoint		0.09187279
+org.apache.camel.component.rabbitmq.RabbitMQDeclareSupport		0.03125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQEndpointTest_createEndpointWithTransferExceptionEnabled_h
+org.apache.camel.component.rabbitmq.RabbitMQComponent		0.825
+org.apache.camel.component.rabbitmq.RabbitMQEndpoint		0.09187279
+org.apache.camel.component.rabbitmq.RabbitMQDeclareSupport		0.03125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQEndpointTest_creatingExecutorUsesThreadPoolSettings_o
+org.apache.camel.component.rabbitmq.RabbitMQComponent		0.825
+org.apache.camel.component.rabbitmq.RabbitMQEndpoint		0.10600707
+org.apache.camel.component.rabbitmq.RabbitMQDeclareSupport		0.03125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQEndpointTest_testBindingArgs_12
+org.apache.camel.component.rabbitmq.RabbitMQComponent		0.825
+org.apache.camel.component.rabbitmq.RabbitMQEndpoint		0.09893993
+org.apache.camel.component.rabbitmq.RabbitMQDeclareSupport		0.03125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQEndpointTest_testCreateConnectionFactoryCustom_e
+org.apache.camel.component.rabbitmq.RabbitMQComponent		0.825
+org.apache.camel.component.rabbitmq.RabbitMQConnectionFactorySupport		0.6904762
+org.apache.camel.component.rabbitmq.RabbitMQEndpoint		0.2932862
+org.apache.camel.component.rabbitmq.RabbitMQDeclareSupport		0.03125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQEndpointTest_testCreateConnectionFactoryDefault_i
+org.apache.camel.component.rabbitmq.RabbitMQComponent		0.825
+org.apache.camel.component.rabbitmq.RabbitMQConnectionFactorySupport		0.52380955
+org.apache.camel.component.rabbitmq.RabbitMQEndpoint		0.22261484
+org.apache.camel.component.rabbitmq.RabbitMQDeclareSupport		0.03125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQEndpointTest_testCreatingRabbitExchangeSetsCustomHeaders_13
+org.apache.camel.component.rabbitmq.RabbitMQComponent		0.825
+org.apache.camel.component.rabbitmq.RabbitMQMessageConverter		0.17372881
+org.apache.camel.component.rabbitmq.RabbitMQEndpoint		0.09187279
+org.apache.camel.component.rabbitmq.RabbitMQDeclareSupport		0.03125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQEndpointTest_testCreatingRabbitExchangeSetsStandardHeaders_j
+org.apache.camel.component.rabbitmq.RabbitMQComponent		0.825
+org.apache.camel.component.rabbitmq.RabbitMQMessageConverter		0.13983051
+org.apache.camel.component.rabbitmq.RabbitMQEndpoint		0.09187279
+org.apache.camel.component.rabbitmq.RabbitMQDeclareSupport		0.03125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQEndpointTest_testExchangeArgs_k
+org.apache.camel.component.rabbitmq.RabbitMQComponent		0.825
+org.apache.camel.component.rabbitmq.RabbitMQEndpoint		0.09893993
+org.apache.camel.component.rabbitmq.RabbitMQDeclareSupport		0.03125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQEndpointTest_testExchangeNameIsOptional_f
+org.apache.camel.component.rabbitmq.RabbitMQComponent		0.85
+org.apache.camel.component.rabbitmq.RabbitMQEndpoint		0.09187279
+org.apache.camel.component.rabbitmq.RabbitMQDeclareSupport		0.03125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQEndpointTest_testMultiArgsCombinedWithIndividuallySpecified_m
+org.apache.camel.component.rabbitmq.RabbitMQComponent		0.825
+org.apache.camel.component.rabbitmq.RabbitMQEndpoint		0.10600707
+org.apache.camel.component.rabbitmq.RabbitMQDeclareSupport		0.03125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQEndpointTest_testMultiArgsPopulateCorrectEndpointProperties_t
+org.apache.camel.component.rabbitmq.RabbitMQComponent		0.825
+org.apache.camel.component.rabbitmq.RabbitMQEndpoint		0.08480565
+org.apache.camel.component.rabbitmq.RabbitMQDeclareSupport		0.03125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQEndpointTest_testQueueArgsConfigurer_w
+org.apache.camel.component.rabbitmq.RabbitMQComponent		0.825
+org.apache.camel.component.rabbitmq.RabbitMQEndpoint		0.09893993
+org.apache.camel.component.rabbitmq.RabbitMQDeclareSupport		0.03125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQEndpointTest_testQueueArgs_5
+org.apache.camel.component.rabbitmq.RabbitMQComponent		0.825
+org.apache.camel.component.rabbitmq.RabbitMQEndpoint		0.09893993
+org.apache.camel.component.rabbitmq.RabbitMQDeclareSupport		0.03125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQInOutIntTest
+RabbitMQInOutIntTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQLoadIntTest
+RabbitMQLoadIntTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQProducerIntTest
+RabbitMQProducerIntTest		0.0
+RabbitMQProducerIntTest.ArrayPopulatingConsumer		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQProducerTest
+RabbitMQProducerTest		1.0
+RabbitMQProducerTest.Something		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQProducerTest_testPropertiesAppIdHeader_x
+org.apache.camel.component.rabbitmq.RabbitMQMessageConverter		0.21610169
+org.apache.camel.component.rabbitmq.RabbitMQProducer		0.028846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQProducerTest_testPropertiesUsesClusterIdHeader_6
+org.apache.camel.component.rabbitmq.RabbitMQMessageConverter		0.21610169
+org.apache.camel.component.rabbitmq.RabbitMQProducer		0.028846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQProducerTest_testPropertiesUsesContentEncodingHeader_8
+org.apache.camel.component.rabbitmq.RabbitMQMessageConverter		0.21610169
+org.apache.camel.component.rabbitmq.RabbitMQProducer		0.028846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQProducerTest_testPropertiesUsesContentTypeHeader_z
+org.apache.camel.component.rabbitmq.RabbitMQMessageConverter		0.21610169
+org.apache.camel.component.rabbitmq.RabbitMQProducer		0.028846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQProducerTest_testPropertiesUsesCorrelationHeader_u
+org.apache.camel.component.rabbitmq.RabbitMQMessageConverter		0.21610169
+org.apache.camel.component.rabbitmq.RabbitMQProducer		0.028846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQProducerTest_testPropertiesUsesCustomHeaders_14
+org.apache.camel.component.rabbitmq.RabbitMQMessageConverter		0.34322035
+org.apache.camel.component.rabbitmq.RabbitMQProducer		0.028846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQProducerTest_testPropertiesUsesDeliveryModeHeader_2
+org.apache.camel.component.rabbitmq.RabbitMQMessageConverter		0.21610169
+org.apache.camel.component.rabbitmq.RabbitMQProducer		0.028846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQProducerTest_testPropertiesUsesExpirationHeader_g
+org.apache.camel.component.rabbitmq.RabbitMQMessageConverter		0.21610169
+org.apache.camel.component.rabbitmq.RabbitMQProducer		0.028846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQProducerTest_testPropertiesUsesMessageIdHeader_d
+org.apache.camel.component.rabbitmq.RabbitMQMessageConverter		0.21610169
+org.apache.camel.component.rabbitmq.RabbitMQProducer		0.028846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQProducerTest_testPropertiesUsesPriorityHeader_y
+org.apache.camel.component.rabbitmq.RabbitMQMessageConverter		0.21610169
+org.apache.camel.component.rabbitmq.RabbitMQProducer		0.028846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQProducerTest_testPropertiesUsesReplyToHeader_c
+org.apache.camel.component.rabbitmq.RabbitMQMessageConverter		0.21610169
+org.apache.camel.component.rabbitmq.RabbitMQProducer		0.028846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQProducerTest_testPropertiesUsesTimestampHeaderAsDateValue_3
+org.apache.camel.component.rabbitmq.RabbitMQMessageConverter		0.23305085
+org.apache.camel.component.rabbitmq.RabbitMQProducer		0.028846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQProducerTest_testPropertiesUsesTimestampHeaderAsLongValue_9
+org.apache.camel.component.rabbitmq.RabbitMQMessageConverter		0.23305085
+org.apache.camel.component.rabbitmq.RabbitMQProducer		0.028846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQProducerTest_testPropertiesUsesTypeHeader_7
+org.apache.camel.component.rabbitmq.RabbitMQMessageConverter		0.21610169
+org.apache.camel.component.rabbitmq.RabbitMQProducer		0.028846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQProducerTest_testPropertiesUsesUserIdHeader_11
+org.apache.camel.component.rabbitmq.RabbitMQMessageConverter		0.21610169
+org.apache.camel.component.rabbitmq.RabbitMQProducer		0.028846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQReConnectionIntTest
+RabbitMQReConnectionIntTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQRequeueHandledExceptionIntTest
+RabbitMQRequeueHandledExceptionIntTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQRequeueIntTest
+RabbitMQRequeueIntTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQRequeueUnhandledExceptionIntTest
+RabbitMQRequeueUnhandledExceptionIntTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQSpringIntTest
+RabbitMQSpringIntTest		0.0
+RabbitMQSpringIntTest.LastDeliveryConsumer		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/RabbitMQSupendResumeIntTest
+RabbitMQSupendResumeIntTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/test-AbstractRabbitMQIntTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/test-RabbitMQComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/test-RabbitMQConsumerIntTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/test-RabbitMQConsumerIntTestReplyTo
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/test-RabbitMQConsumerIntTestReplyTo_ArrayPopulatingConsumer
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/test-RabbitMQConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/test-RabbitMQEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/test-RabbitMQInOutIntTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/test-RabbitMQLoadIntTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/test-RabbitMQProducerIntTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/test-RabbitMQProducerIntTest_ArrayPopulatingConsumer
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/test-RabbitMQProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/test-RabbitMQProducerTest_Something
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/test-RabbitMQReConnectionIntTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/test-RabbitMQRequeueHandledExceptionIntTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/test-RabbitMQRequeueIntTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/test-RabbitMQRequeueUnhandledExceptionIntTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/test-RabbitMQSpringIntTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/test-RabbitMQSpringIntTest_LastDeliveryConsumer
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/test-RabbitMQSupendResumeIntTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/testbeans/TestNonSerializableObject
+TestNonSerializableObject		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/testbeans/TestPartiallySerializableObject
+TestPartiallySerializableObject		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/testbeans/TestSerializableObject
+TestSerializableObject		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/testbeans/test-TestNonSerializableObject
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/testbeans/test-TestPartiallySerializableObject
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-rabbitmq/target/site/clover/org/apache/camel/component/rabbitmq/testbeans/test-TestSerializableObject
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,939 @@
+./components/camel-quartz2/target/site/clover/org/apache/camel
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/BaseQuartzTest
+BaseQuartzTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/DelegateEndpointQuartzTest
+DelegateEndpointQuartzTest		1.0
+DelegateEndpointQuartzTest.MyComponent		0.8888889
+DelegateEndpointQuartzTest.MyEndpoint		0.6923077
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/DelegateEndpointQuartzTest_testQuartzCronRoute_1g
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.CamelJob		0.42857143
+org.apache.camel.component.quartz2.QuartzEndpoint		0.018867925
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartUnderscoreTimerNameTest
+QuartUnderscoreTimerNameTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartUnderscoreTimerNameTest_testQuartzCronRouteUnderscore_8
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.CamelJob		0.39795917
+org.apache.camel.component.quartz2.QuartzEndpoint		0.018867925
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzAddDynamicRouteTest
+QuartzAddDynamicRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzAddDynamicRouteTest_testAddDynamicRoute_2o
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.QuartzConsumer		0.7
+org.apache.camel.component.quartz2.QuartzHelper		0.68421054
+org.apache.camel.component.quartz2.CamelJob		0.42857143
+org.apache.camel.component.quartz2.QuartzEndpoint		0.3773585
+org.apache.camel.component.quartz2.QuartzComponent		0.21561338
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzAddRoutesAfterCamelContextStartedTest
+QuartzAddRoutesAfterCamelContextStartedTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzAddRoutesAfterCamelContextStartedTest_testAddRoutes_1a
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.QuartzConsumer		0.7
+org.apache.camel.component.quartz2.QuartzHelper		0.68421054
+org.apache.camel.component.quartz2.CamelJob		0.41836736
+org.apache.camel.component.quartz2.QuartzEndpoint		0.3773585
+org.apache.camel.component.quartz2.QuartzComponent		0.21561338
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzAutoStartTest
+QuartzAutoStartTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzAutoStartTest_testQuartzAutoStart_27
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.CamelJob		0.39795917
+org.apache.camel.component.quartz2.QuartzEndpoint		0.018867925
+org.apache.camel.component.quartz2.QuartzComponent		0.007434944
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzComponentCamelContextSchedulerIsolationTest
+QuartzComponentCamelContextSchedulerIsolationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzComponentCamelContextSchedulerIsolationTest_testSchedulerIsolationManaged_e
+org.apache.camel.component.quartz2.QuartzComponent		0.34200743
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzComponentCamelContextSchedulerIsolationTest_testSchedulerIsolationUnmanaged_1d
+org.apache.camel.component.quartz2.QuartzComponent		0.34200743
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzComponentCamelContextSharedSchedulerTest
+QuartzComponentCamelContextSharedSchedulerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzComponentCamelContextSharedSchedulerTest_testTwoCamelContext_k
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.QuartzConsumer		0.5
+org.apache.camel.component.quartz2.CamelJob		0.41836736
+org.apache.camel.component.quartz2.QuartzEndpoint		0.12893082
+org.apache.camel.component.quartz2.QuartzComponent		0.0669145
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzComponentTest
+QuartzComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzComponentTest_testQuartzComponentCustomScheduler_w
+org.apache.camel.component.quartz2.QuartzComponent		0.16356878
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzComponentTest_testQuartzComponent_1k
+org.apache.camel.component.quartz2.QuartzComponent		0.37174723
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzCronRouteDurableJobTest
+QuartzCronRouteDurableJobTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzCronRouteDurableJobTest_testQuartzCronRoute_10
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.CamelJob		0.41836736
+org.apache.camel.component.quartz2.QuartzEndpoint		0.018867925
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzCronRouteTest
+QuartzCronRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzCronRouteTest_testQuartzCronRoute_2p
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.CamelJob		0.41836736
+org.apache.camel.component.quartz2.QuartzEndpoint		0.018867925
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzCronRouteWithSmallCacheTest
+QuartzCronRouteWithSmallCacheTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzCronRouteWithSmallCacheTest_testQuartzCronRouteWithSmallCache_z
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.CamelJob		0.42857143
+org.apache.camel.component.quartz2.QuartzEndpoint		0.018867925
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzCronTriggerRouteTest
+QuartzCronTriggerRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzCronTriggerRouteTest_testQuartzCronRoute_1h
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.CamelJob		0.41836736
+org.apache.camel.component.quartz2.QuartzEndpoint		0.018867925
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzCustomCalendarFireTest
+QuartzCustomCalendarFireTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzCustomCalendarFireTest_testQuartzCustomCronRouteNoFire_p
+org.apache.camel.component.quartz2.QuartzComponent		0.007434944
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzCustomCalendarNoFireTest
+QuartzCustomCalendarNoFireTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzCustomCalendarNoFireTest_testQuartzCustomCronRouteNoFire_22
+org.apache.camel.component.quartz2.QuartzComponent		0.007434944
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzEndpointConfigureTest
+QuartzEndpointConfigureTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzEndpointConfigureTest_testConfigureAnotherCronExpression_7
+org.apache.camel.component.quartz2.QuartzHelper		0.68421054
+org.apache.camel.component.quartz2.QuartzEndpoint		0.2735849
+org.apache.camel.component.quartz2.QuartzComponent		0.15241636
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzEndpointConfigureTest_testConfigureCronExpression_i
+org.apache.camel.component.quartz2.QuartzHelper		0.68421054
+org.apache.camel.component.quartz2.QuartzEndpoint		0.2735849
+org.apache.camel.component.quartz2.QuartzComponent		0.15241636
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzEndpointConfigureTest_testConfigureDeleteJob_1v
+org.apache.camel.component.quartz2.QuartzHelper		0.68421054
+org.apache.camel.component.quartz2.QuartzEndpoint		0.2798742
+org.apache.camel.component.quartz2.QuartzComponent		0.15241636
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzEndpointConfigureTest_testConfigureGroupAndName_1c
+org.apache.camel.component.quartz2.QuartzHelper		0.68421054
+org.apache.camel.component.quartz2.QuartzEndpoint		0.31761006
+org.apache.camel.component.quartz2.QuartzComponent		0.15241636
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzEndpointConfigureTest_testConfigureJobName_y
+org.apache.camel.component.quartz2.QuartzHelper		0.68421054
+org.apache.camel.component.quartz2.QuartzEndpoint		0.2798742
+org.apache.camel.component.quartz2.QuartzComponent		0.15241636
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzEndpointConfigureTest_testConfigureName_1z
+org.apache.camel.component.quartz2.QuartzHelper		0.68421054
+org.apache.camel.component.quartz2.QuartzEndpoint		0.29874215
+org.apache.camel.component.quartz2.QuartzComponent		0.1598513
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzEndpointConfigureTest_testConfigureNoDoubleSlashNoCron_s
+org.apache.camel.component.quartz2.QuartzHelper		0.68421054
+org.apache.camel.component.quartz2.QuartzEndpoint		0.29874215
+org.apache.camel.component.quartz2.QuartzComponent		0.15241636
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzEndpointConfigureTest_testConfigureNoDoubleSlashQuestionCron_28
+org.apache.camel.component.quartz2.QuartzHelper		0.68421054
+org.apache.camel.component.quartz2.QuartzEndpoint		0.2735849
+org.apache.camel.component.quartz2.QuartzComponent		0.15241636
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzInterruptTest
+QuartzInterruptTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzInterruptTest_testShutdown_1y
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.CamelJob		0.41836736
+org.apache.camel.component.quartz2.QuartzComponent		0.040892195
+org.apache.camel.component.quartz2.QuartzEndpoint		0.018867925
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzJobRouteUnderscoreTest
+QuartzJobRouteUnderscoreTest		0.30769232
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzJobRouteUnderscoreTest_testQuartzRoute_2e
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzJobRouteUnderscoreTest_testQuartzRoute_2n
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzJobRouteUnderscoreTest_testQuartzRoute_2r
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzManagementTest
+QuartzManagementTest		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzManagementTest_testQuartzRoute_2a
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzManagementTest_testQuartzRoute_2g
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzManagementTest_testQuartzRoute_x
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzManuallyTriggerJobTest
+QuartzManuallyTriggerJobTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzManuallyTriggerJobTest_testQuartzCronRoute_1i
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.CamelJob		0.5102041
+org.apache.camel.component.quartz2.QuartzEndpoint		0.018867925
+org.apache.camel.component.quartz2.QuartzComponent		0.007434944
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzNameCollisionTest
+QuartzNameCollisionTest		0.9883721
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzNameCollisionTest_testDupeNameMultiContext_1e
+org.apache.camel.component.quartz2.QuartzConsumer		0.7
+org.apache.camel.component.quartz2.QuartzHelper		0.68421054
+org.apache.camel.component.quartz2.QuartzComponent		0.49070632
+org.apache.camel.component.quartz2.CamelJob		0.41836736
+org.apache.camel.component.quartz2.QuartzEndpoint		0.39308175
+org.apache.camel.component.quartz2.QuartzMessage		0.115384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzNameCollisionTest_testDupeName_2f
+org.apache.camel.component.quartz2.QuartzConsumer		0.7
+org.apache.camel.component.quartz2.QuartzHelper		0.68421054
+org.apache.camel.component.quartz2.QuartzComponent		0.49070632
+org.apache.camel.component.quartz2.QuartzEndpoint		0.4245283
+org.apache.camel.component.quartz2.CamelJob		0.41836736
+org.apache.camel.component.quartz2.QuartzMessage		0.115384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzNameCollisionTest_testNoStatefulCollisionError_c
+org.apache.camel.component.quartz2.QuartzConsumer		0.7
+org.apache.camel.component.quartz2.QuartzHelper		0.68421054
+org.apache.camel.component.quartz2.QuartzComponent		0.49070632
+org.apache.camel.component.quartz2.CamelJob		0.41836736
+org.apache.camel.component.quartz2.QuartzEndpoint		0.39937106
+org.apache.camel.component.quartz2.QuartzMessage		0.115384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzNameCollisionTest_testRemoveJob_13
+org.apache.camel.component.quartz2.QuartzConsumer		1.0
+org.apache.camel.component.quartz2.QuartzHelper		0.68421054
+org.apache.camel.component.quartz2.QuartzComponent		0.49070632
+org.apache.camel.component.quartz2.CamelJob		0.42857143
+org.apache.camel.component.quartz2.QuartzEndpoint		0.3773585
+org.apache.camel.component.quartz2.QuartzMessage		0.115384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzNameCollisionTest_testRestart_v
+org.apache.camel.component.quartz2.QuartzConsumer		1.0
+org.apache.camel.component.quartz2.QuartzHelper		0.68421054
+org.apache.camel.component.quartz2.QuartzComponent		0.5576208
+org.apache.camel.component.quartz2.QuartzEndpoint		0.45597485
+org.apache.camel.component.quartz2.CamelJob		0.41836736
+org.apache.camel.component.quartz2.QuartzMessage		0.115384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzOneCamelContextRestartTest
+QuartzOneCamelContextRestartTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzOneCamelContextRestartTest_testOneCamelContextSuspendResume_16
+org.apache.camel.component.quartz2.QuartzConsumer		1.0
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.QuartzHelper		0.68421054
+org.apache.camel.component.quartz2.QuartzComponent		0.5576208
+org.apache.camel.component.quartz2.QuartzEndpoint		0.43396226
+org.apache.camel.component.quartz2.CamelJob		0.41836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzOneCamelContextSuspendResumeTest
+QuartzOneCamelContextSuspendResumeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzOneCamelContextSuspendResumeTest_testOneCamelContextSuspendResume_2k
+org.apache.camel.component.quartz2.QuartzConsumer		1.0
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.CamelJob		0.41836736
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+org.apache.camel.component.quartz2.QuartzEndpoint		0.12893082
+org.apache.camel.component.quartz2.QuartzComponent		0.07063197
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzPropertiesTest
+QuartzPropertiesTest		0.962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzPropertiesTest_testQuartzPropertiesFileNotFound_1w
+org.apache.camel.component.quartz2.QuartzComponent		0.18959108
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzPropertiesTest_testQuartzPropertiesFile_1s
+org.apache.camel.component.quartz2.QuartzComponent		0.3345725
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzPropertiesTest_testQuartzProperties_g
+org.apache.camel.component.quartz2.QuartzComponent		0.30855018
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzRepeatIntervalTest
+QuartzRepeatIntervalTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzRepeatIntervalTest_testRepeatInterval_1n
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.CamelJob		0.41836736
+org.apache.camel.component.quartz2.QuartzEndpoint		0.018867925
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzRouteFireNowTest
+QuartzRouteFireNowTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzRouteFireNowTest_testQuartzRoute_11
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.CamelJob		0.41836736
+org.apache.camel.component.quartz2.QuartzEndpoint		0.018867925
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzRouteRestartTest
+QuartzRouteRestartTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzRouteRestartTest_testQuartzCronRoute_2h
+org.apache.camel.component.quartz2.QuartzConsumer		1.0
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.CamelJob		0.41836736
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+org.apache.camel.component.quartz2.QuartzEndpoint		0.12893082
+org.apache.camel.component.quartz2.QuartzComponent		0.07063197
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzRouteTest
+QuartzRouteTest		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzRouteTest_testQuartzRoute_2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzRouteTest_testQuartzRoute_2i
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzRouteTest_testQuartzRoute_2m
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzSimpleRouteTest
+QuartzSimpleRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzSimpleRouteTest_testQuartzCronRoute_h
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.CamelJob		0.41836736
+org.apache.camel.component.quartz2.QuartzEndpoint		0.018867925
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzStartDelayedOptionTest
+QuartzStartDelayedOptionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzStartDelayedOptionTest_testStartDelayed_j
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.CamelJob		0.41836736
+org.apache.camel.component.quartz2.QuartzEndpoint		0.018867925
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzStartDelayedTest
+QuartzStartDelayedTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzStartDelayedTest_testStartDelayed_18
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.CamelJob		0.39795917
+org.apache.camel.component.quartz2.QuartzEndpoint		0.018867925
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzStartDelayedWithReferenceTest
+QuartzStartDelayedWithReferenceTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzStartDelayedWithReferenceTest_testStartDelayed_t
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.CamelJob		0.39795917
+org.apache.camel.component.quartz2.QuartzEndpoint		0.018867925
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzStatefulJobRouteTest
+QuartzStatefulJobRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzStatefulJobRouteTest_testQuartzCronRoute_0
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.CamelJob		0.41836736
+org.apache.camel.component.quartz2.QuartzEndpoint		0.018867925
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzStopRouteTest
+QuartzStopRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzStopRouteTest_testQuartzSuspend_20
+org.apache.camel.component.quartz2.QuartzConsumer		1.0
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.CamelJob		0.41836736
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+org.apache.camel.component.quartz2.QuartzEndpoint		0.12893082
+org.apache.camel.component.quartz2.QuartzComponent		0.07063197
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzSuspendRouteTest
+QuartzSuspendRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzSuspendRouteTest_testQuartzSuspend_a
+org.apache.camel.component.quartz2.QuartzConsumer		1.0
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.CamelJob		0.41836736
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+org.apache.camel.component.quartz2.QuartzEndpoint		0.12893082
+org.apache.camel.component.quartz2.QuartzComponent		0.07063197
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzTwoCamelContextRestartTest
+QuartzTwoCamelContextRestartTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzTwoCamelContextRestartTest_testTwoCamelContextRestart_1p
+org.apache.camel.component.quartz2.QuartzConsumer		1.0
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.QuartzHelper		0.68421054
+org.apache.camel.component.quartz2.QuartzComponent		0.5576208
+org.apache.camel.component.quartz2.QuartzEndpoint		0.43396226
+org.apache.camel.component.quartz2.CamelJob		0.41836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzTwoCamelContextSameNameClashTest
+QuartzTwoCamelContextSameNameClashTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzTwoCamelContextSameNameClashTest_testTwoCamelContext_1u
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.QuartzConsumer		0.5
+org.apache.camel.component.quartz2.CamelJob		0.41836736
+org.apache.camel.component.quartz2.QuartzEndpoint		0.12893082
+org.apache.camel.component.quartz2.QuartzComponent		0.059479553
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzTwoCamelContextSuspendResumeTest
+QuartzTwoCamelContextSuspendResumeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzTwoCamelContextSuspendResumeTest_testTwoCamelContextRestart_25
+org.apache.camel.component.quartz2.QuartzConsumer		1.0
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.CamelJob		0.41836736
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+org.apache.camel.component.quartz2.QuartzEndpoint		0.12893082
+org.apache.camel.component.quartz2.QuartzComponent		0.07063197
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzTwoCamelContextTest
+QuartzTwoCamelContextTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzTwoCamelContextTest_testThirdCamelContext_f
+org.apache.camel.component.quartz2.QuartzConsumer		1.0
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.QuartzHelper		0.68421054
+org.apache.camel.component.quartz2.QuartzComponent		0.535316
+org.apache.camel.component.quartz2.QuartzEndpoint		0.43396226
+org.apache.camel.component.quartz2.CamelJob		0.41836736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/QuartzTwoCamelContextTest_testTwoCamelContext_15
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.QuartzConsumer		0.5
+org.apache.camel.component.quartz2.CamelJob		0.41836736
+org.apache.camel.component.quartz2.QuartzEndpoint		0.12893082
+org.apache.camel.component.quartz2.QuartzComponent		0.059479553
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/SpringQuartzConsumerTwoAppsClusteredFailoverTest
+SpringQuartzConsumerTwoAppsClusteredFailoverTest		1.0
+SpringQuartzConsumerTwoAppsClusteredFailoverTest.ClusteringPredicate		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/SpringQuartzConsumerTwoAppsClusteredFailoverTest_testQuartzPersistentStoreClusteredApp_1m
+org.apache.camel.component.quartz2.QuartzConsumer		1.0
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.QuartzHelper		0.68421054
+org.apache.camel.component.quartz2.QuartzEndpoint		0.5031447
+org.apache.camel.component.quartz2.CamelJob		0.41836736
+org.apache.camel.component.quartz2.QuartzComponent		0.30111524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/SpringQuartzConsumerTwoAppsClusteredRecoveryTest
+SpringQuartzConsumerTwoAppsClusteredRecoveryTest		1.0
+SpringQuartzConsumerTwoAppsClusteredRecoveryTest.ClusteringPredicate		0.8333333
+SpringQuartzConsumerTwoAppsClusteredRecoveryTest.MyProcessor		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/SpringQuartzConsumerTwoAppsClusteredRecoveryTest_testQuartzPersistentStoreClusteredApp_3
+org.apache.camel.component.quartz2.QuartzConsumer		1.0
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.QuartzHelper		0.68421054
+org.apache.camel.component.quartz2.QuartzEndpoint		0.5157233
+org.apache.camel.component.quartz2.CamelJob		0.41836736
+org.apache.camel.component.quartz2.QuartzComponent		0.30111524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/SpringQuartzCronRouteTest
+SpringQuartzCronRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/SpringQuartzCronRouteTest_testQuartzCronRoute_24
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.CamelJob		0.41836736
+org.apache.camel.component.quartz2.QuartzEndpoint		0.018867925
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/SpringQuartzPersistentStoreRestartAppChangeOptionsTest
+SpringQuartzPersistentStoreRestartAppChangeOptionsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/SpringQuartzPersistentStoreRestartAppChangeOptionsTest_testRestartAppChangeCronExpression_12
+org.apache.camel.component.quartz2.QuartzConsumer		1.0
+org.apache.camel.component.quartz2.QuartzHelper		0.7368421
+org.apache.camel.component.quartz2.QuartzEndpoint		0.4528302
+org.apache.camel.component.quartz2.QuartzComponent		0.30111524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/SpringQuartzPersistentStoreRestartAppChangeOptionsTest_testRestartAppChangeTriggerOptions_2b
+org.apache.camel.component.quartz2.QuartzConsumer		1.0
+org.apache.camel.component.quartz2.QuartzHelper		0.68421054
+org.apache.camel.component.quartz2.QuartzEndpoint		0.5408805
+org.apache.camel.component.quartz2.CamelJob		0.4387755
+org.apache.camel.component.quartz2.QuartzComponent		0.30111524
+org.apache.camel.component.quartz2.QuartzMessage		0.115384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/SpringQuartzPersistentStoreRestartAppChangeOptionsTest_testRestartAppChangeTriggerType_b
+org.apache.camel.component.quartz2.QuartzConsumer		1.0
+org.apache.camel.component.quartz2.QuartzHelper		0.68421054
+org.apache.camel.component.quartz2.QuartzEndpoint		0.5534591
+org.apache.camel.component.quartz2.CamelJob		0.4387755
+org.apache.camel.component.quartz2.QuartzComponent		0.30111524
+org.apache.camel.component.quartz2.QuartzMessage		0.115384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/SpringQuartzPersistentStoreRestartAppTest
+SpringQuartzPersistentStoreRestartAppTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/SpringQuartzPersistentStoreRestartAppTest_testQuartzPersistentStoreRestart_1j
+org.apache.camel.component.quartz2.QuartzConsumer		1.0
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.QuartzHelper		0.68421054
+org.apache.camel.component.quartz2.QuartzEndpoint		0.4779874
+org.apache.camel.component.quartz2.CamelJob		0.41836736
+org.apache.camel.component.quartz2.QuartzComponent		0.30111524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/SpringQuartzPersistentStoreRestartRouteTest
+SpringQuartzPersistentStoreRestartRouteTest		0.8947368
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/SpringQuartzPersistentStoreRestartRouteTest_testQuartzPersistentStore_2l
+org.apache.camel.component.quartz2.QuartzConsumer		1.0
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.CamelJob		0.41836736
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+org.apache.camel.component.quartz2.QuartzEndpoint		0.12893082
+org.apache.camel.component.quartz2.QuartzComponent		0.07063197
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/SpringQuartzPersistentStoreTest
+SpringQuartzPersistentStoreTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/SpringQuartzPersistentStoreTest_testQuartzPersistentStore_u
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.CamelJob		0.41836736
+org.apache.camel.component.quartz2.QuartzEndpoint		0.018867925
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/StatefulQuartzRouteTest
+StatefulQuartzRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/StatefulQuartzRouteTest_testQuartz_1t
+org.apache.camel.component.quartz2.QuartzMessage		0.88461536
+org.apache.camel.component.quartz2.CamelJob		0.41836736
+org.apache.camel.component.quartz2.QuartzEndpoint		0.018867925
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-BaseQuartzTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-DelegateEndpointQuartzTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-DelegateEndpointQuartzTest_MyComponent
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-DelegateEndpointQuartzTest_MyEndpoint
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartUnderscoreTimerNameTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzAddDynamicRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzAddRoutesAfterCamelContextStartedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzAutoStartTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzComponentCamelContextSchedulerIsolationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzComponentCamelContextSharedSchedulerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzCronRouteDurableJobTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzCronRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzCronRouteWithSmallCacheTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzCronTriggerRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzCustomCalendarFireTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzCustomCalendarNoFireTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzEndpointConfigureTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzInterruptTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzJobRouteUnderscoreTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzManagementTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzManuallyTriggerJobTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzNameCollisionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzOneCamelContextRestartTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzOneCamelContextSuspendResumeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzPropertiesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzRepeatIntervalTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzRouteFireNowTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzRouteRestartTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzSimpleRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzStartDelayedOptionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzStartDelayedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzStartDelayedWithReferenceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzStatefulJobRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzStopRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzSuspendRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzTwoCamelContextRestartTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzTwoCamelContextSameNameClashTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzTwoCamelContextSuspendResumeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-QuartzTwoCamelContextTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-SpringQuartzConsumerTwoAppsClusteredFailoverTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-SpringQuartzConsumerTwoAppsClusteredFailoverTest_ClusteringPredicate
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-SpringQuartzConsumerTwoAppsClusteredRecoveryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-SpringQuartzConsumerTwoAppsClusteredRecoveryTest_ClusteringPredicate
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-SpringQuartzConsumerTwoAppsClusteredRecoveryTest_MyProcessor
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-SpringQuartzCronRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-SpringQuartzPersistentStoreRestartAppChangeOptionsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-SpringQuartzPersistentStoreRestartAppTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-SpringQuartzPersistentStoreRestartRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-SpringQuartzPersistentStoreTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/component/quartz2/test-StatefulQuartzRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/pollconsumer/quartz2/FileConsumerQuartzSchedulerTest
+FileConsumerQuartzSchedulerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/pollconsumer/quartz2/FileConsumerQuartzSchedulerTest_testQuartzScheduler_n
+org.apache.camel.pollconsumer.quartz2.QuartzScheduledPollConsumerJob		0.8076923
+org.apache.camel.component.quartz2.QuartzHelper		0.7894737
+org.apache.camel.pollconsumer.quartz2.QuartzScheduledPollConsumerScheduler		0.46728972
+org.apache.camel.component.quartz2.QuartzComponent		0.37546468
+org.apache.camel.component.quartz2.CamelJob		0.10204082
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/pollconsumer/quartz2/test-FileConsumerQuartzSchedulerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/CronScheduledRoutePolicyTest
+CronScheduledRoutePolicyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/CronScheduledRoutePolicyTest_testScheduledResumeRoutePolicy_1f
+org.apache.camel.routepolicy.quartz2.ScheduledJobState		1.0
+org.apache.camel.routepolicy.quartz2.ScheduledJob		0.8333333
+org.apache.camel.routepolicy.quartz2.CronScheduledRoutePolicy		0.6043956
+org.apache.camel.component.quartz2.QuartzComponent		0.39405206
+org.apache.camel.routepolicy.quartz2.ScheduledRoutePolicy		0.3631841
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+org.apache.camel.routepolicy.quartz2.ScheduledRouteDetails		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/CronScheduledRoutePolicyTest_testScheduledStartAndStopRoutePolicy_19
+org.apache.camel.routepolicy.quartz2.ScheduledJobState		1.0
+org.apache.camel.routepolicy.quartz2.ScheduledJob		0.8333333
+org.apache.camel.routepolicy.quartz2.CronScheduledRoutePolicy		0.62637365
+org.apache.camel.component.quartz2.QuartzComponent		0.401487
+org.apache.camel.routepolicy.quartz2.ScheduledRoutePolicy		0.3283582
+org.apache.camel.routepolicy.quartz2.ScheduledRouteDetails		0.25
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/CronScheduledRoutePolicyTest_testScheduledStartRoutePolicyWithTwoRoutes_4
+org.apache.camel.routepolicy.quartz2.ScheduledJobState		1.0
+org.apache.camel.routepolicy.quartz2.ScheduledJob		0.8333333
+org.apache.camel.routepolicy.quartz2.CronScheduledRoutePolicy		0.5604396
+org.apache.camel.component.quartz2.QuartzComponent		0.401487
+org.apache.camel.routepolicy.quartz2.ScheduledRoutePolicy		0.26865673
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+org.apache.camel.routepolicy.quartz2.ScheduledRouteDetails		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/CronScheduledRoutePolicyTest_testScheduledStartRoutePolicy_26
+org.apache.camel.routepolicy.quartz2.ScheduledJobState		1.0
+org.apache.camel.routepolicy.quartz2.ScheduledJob		0.8333333
+org.apache.camel.routepolicy.quartz2.CronScheduledRoutePolicy		0.53846157
+org.apache.camel.component.quartz2.QuartzComponent		0.44609666
+org.apache.camel.routepolicy.quartz2.ScheduledRoutePolicy		0.25373134
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+org.apache.camel.routepolicy.quartz2.ScheduledRouteDetails		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/CronScheduledRoutePolicyTest_testScheduledStopRoutePolicyWithExtraPolicy_23
+org.apache.camel.routepolicy.quartz2.ScheduledJobState		1.0
+org.apache.camel.routepolicy.quartz2.ScheduledJob		0.8888889
+org.apache.camel.routepolicy.quartz2.CronScheduledRoutePolicy		0.5494506
+org.apache.camel.component.quartz2.QuartzComponent		0.39405206
+org.apache.camel.routepolicy.quartz2.ScheduledRoutePolicy		0.29353234
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+org.apache.camel.routepolicy.quartz2.ScheduledRouteDetails		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/CronScheduledRoutePolicyTest_testScheduledStopRoutePolicyWithTwoRoutes_d
+org.apache.camel.routepolicy.quartz2.ScheduledJobState		1.0
+org.apache.camel.routepolicy.quartz2.ScheduledJob		0.8333333
+org.apache.camel.routepolicy.quartz2.CronScheduledRoutePolicy		0.5604396
+org.apache.camel.component.quartz2.QuartzComponent		0.39405206
+org.apache.camel.routepolicy.quartz2.ScheduledRoutePolicy		0.29353234
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+org.apache.camel.routepolicy.quartz2.ScheduledRouteDetails		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/CronScheduledRoutePolicyTest_testScheduledStopRoutePolicy_o
+org.apache.camel.routepolicy.quartz2.ScheduledJobState		1.0
+org.apache.camel.routepolicy.quartz2.ScheduledJob		0.8333333
+org.apache.camel.routepolicy.quartz2.CronScheduledRoutePolicy		0.5494506
+org.apache.camel.component.quartz2.QuartzComponent		0.39405206
+org.apache.camel.routepolicy.quartz2.ScheduledRoutePolicy		0.29353234
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+org.apache.camel.routepolicy.quartz2.ScheduledRouteDetails		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/CronScheduledRoutePolicyTest_testScheduledSuspendRoutePolicy_1l
+org.apache.camel.routepolicy.quartz2.ScheduledJobState		1.0
+org.apache.camel.routepolicy.quartz2.ScheduledJob		0.8333333
+org.apache.camel.routepolicy.quartz2.CronScheduledRoutePolicy		0.5824176
+org.apache.camel.component.quartz2.QuartzComponent		0.39405206
+org.apache.camel.routepolicy.quartz2.ScheduledRoutePolicy		0.31343284
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+org.apache.camel.routepolicy.quartz2.ScheduledRouteDetails		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/MultiplePoliciesOnRouteTest
+MultiplePoliciesOnRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/MultiplePoliciesOnRouteTest_testMultiplePoliciesOnRoute_2j
+org.apache.camel.component.quartz2.QuartzComponent		0.43866172
+org.apache.camel.routepolicy.quartz2.ScheduledJobState		0.42857143
+org.apache.camel.routepolicy.quartz2.SimpleScheduledRoutePolicy		0.3873874
+org.apache.camel.routepolicy.quartz2.ScheduledRoutePolicy		0.21393035
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+org.apache.camel.routepolicy.quartz2.ScheduledRouteDetails		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/RouteAutoStopFalseCronScheduledPolicyTest
+RouteAutoStopFalseCronScheduledPolicyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/RouteAutoStopFalseCronScheduledPolicyTest_testCronPolicy_14
+org.apache.camel.routepolicy.quartz2.ScheduledJobState		1.0
+org.apache.camel.routepolicy.quartz2.ScheduledJob		0.8333333
+org.apache.camel.routepolicy.quartz2.CronScheduledRoutePolicy		0.53846157
+org.apache.camel.component.quartz2.QuartzComponent		0.39405206
+org.apache.camel.routepolicy.quartz2.ScheduledRoutePolicy		0.25373134
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+org.apache.camel.routepolicy.quartz2.ScheduledRouteDetails		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/SimpleScheduledCombinedRoutePolicyTest
+SimpleScheduledCombinedRoutePolicyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/SimpleScheduledCombinedRoutePolicyTest_testScheduledStartAndStopRoutePolicy_2d
+org.apache.camel.routepolicy.quartz2.ScheduledJobState		1.0
+org.apache.camel.routepolicy.quartz2.ScheduledJob		0.8333333
+org.apache.camel.routepolicy.quartz2.SimpleScheduledRoutePolicy		0.5855856
+org.apache.camel.component.quartz2.QuartzComponent		0.43866172
+org.apache.camel.routepolicy.quartz2.ScheduledRoutePolicy		0.33333334
+org.apache.camel.routepolicy.quartz2.ScheduledRouteDetails		0.25
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/SimpleScheduledRoutePolicyTest
+SimpleScheduledRoutePolicyTest		0.97709924
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/SimpleScheduledRoutePolicyTest_testScheduledResumeRoutePolicy_5
+org.apache.camel.routepolicy.quartz2.ScheduledJobState		1.0
+org.apache.camel.routepolicy.quartz2.ScheduledJob		0.8333333
+org.apache.camel.routepolicy.quartz2.SimpleScheduledRoutePolicy		0.4954955
+org.apache.camel.component.quartz2.QuartzComponent		0.43866172
+org.apache.camel.routepolicy.quartz2.ScheduledRoutePolicy		0.35323384
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+org.apache.camel.routepolicy.quartz2.ScheduledRouteDetails		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/SimpleScheduledRoutePolicyTest_testScheduledStartRoutePolicy_2q
+org.apache.camel.routepolicy.quartz2.ScheduledJobState		1.0
+org.apache.camel.routepolicy.quartz2.ScheduledJob		0.8333333
+org.apache.camel.component.quartz2.QuartzComponent		0.44609666
+org.apache.camel.routepolicy.quartz2.SimpleScheduledRoutePolicy		0.44144145
+org.apache.camel.routepolicy.quartz2.ScheduledRoutePolicy		0.25373134
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+org.apache.camel.routepolicy.quartz2.ScheduledRouteDetails		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/SimpleScheduledRoutePolicyTest_testScheduledStopRoutePolicy_q
+org.apache.camel.routepolicy.quartz2.ScheduledJobState		1.0
+org.apache.camel.routepolicy.quartz2.ScheduledJob		0.8333333
+org.apache.camel.routepolicy.quartz2.SimpleScheduledRoutePolicy		0.45945945
+org.apache.camel.component.quartz2.QuartzComponent		0.43866172
+org.apache.camel.routepolicy.quartz2.ScheduledRoutePolicy		0.2835821
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+org.apache.camel.routepolicy.quartz2.ScheduledRouteDetails		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/SimpleScheduledRoutePolicyTest_testScheduledSuspendAndRestartPolicy_l
+org.apache.camel.routepolicy.quartz2.ScheduledJobState		1.0
+org.apache.camel.routepolicy.quartz2.ScheduledJob		0.8333333
+org.apache.camel.routepolicy.quartz2.SimpleScheduledRoutePolicy		0.5855856
+org.apache.camel.component.quartz2.QuartzComponent		0.43866172
+org.apache.camel.routepolicy.quartz2.ScheduledRoutePolicy		0.3681592
+org.apache.camel.routepolicy.quartz2.ScheduledRouteDetails		0.25
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/SimpleScheduledRoutePolicyTest_testScheduledSuspendAndResumeRoutePolicy_m
+org.apache.camel.routepolicy.quartz2.ScheduledJobState		1.0
+org.apache.camel.routepolicy.quartz2.ScheduledJob		0.8333333
+org.apache.camel.routepolicy.quartz2.SimpleScheduledRoutePolicy		0.6216216
+org.apache.camel.component.quartz2.QuartzComponent		0.43866172
+org.apache.camel.routepolicy.quartz2.ScheduledRoutePolicy		0.39800996
+org.apache.camel.routepolicy.quartz2.ScheduledRouteDetails		0.25
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/SimpleScheduledRoutePolicyTest_testScheduledSuspendRoutePolicy_1q
+org.apache.camel.routepolicy.quartz2.ScheduledJobState		1.0
+org.apache.camel.routepolicy.quartz2.ScheduledJob		0.8333333
+org.apache.camel.routepolicy.quartz2.SimpleScheduledRoutePolicy		0.4774775
+org.apache.camel.component.quartz2.QuartzComponent		0.43866172
+org.apache.camel.routepolicy.quartz2.ScheduledRoutePolicy		0.31343284
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+org.apache.camel.routepolicy.quartz2.ScheduledRouteDetails		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/SpringCronScheduledRoutePolicyTest
+SpringCronScheduledRoutePolicyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/SpringCronScheduledRoutePolicyTest_testScheduledResumeRoutePolicy_1x
+org.apache.camel.routepolicy.quartz2.ScheduledJobState		1.0
+org.apache.camel.routepolicy.quartz2.ScheduledJob		0.8333333
+org.apache.camel.routepolicy.quartz2.CronScheduledRoutePolicy		0.5824176
+org.apache.camel.routepolicy.quartz2.ScheduledRoutePolicy		0.5273632
+org.apache.camel.component.quartz2.QuartzComponent		0.3977695
+org.apache.camel.routepolicy.quartz2.ScheduledRouteDetails		0.375
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/SpringCronScheduledRoutePolicyTest_testScheduledStartRoutePolicy_1o
+org.apache.camel.routepolicy.quartz2.ScheduledJobState		1.0
+org.apache.camel.routepolicy.quartz2.ScheduledJob		0.8333333
+org.apache.camel.routepolicy.quartz2.CronScheduledRoutePolicy		0.51648355
+org.apache.camel.component.quartz2.QuartzComponent		0.40520447
+org.apache.camel.routepolicy.quartz2.ScheduledRoutePolicy		0.3880597
+org.apache.camel.routepolicy.quartz2.ScheduledRouteDetails		0.375
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/SpringCronScheduledRoutePolicyTest_testScheduledStopRoutePolicy_29
+org.apache.camel.routepolicy.quartz2.ScheduledJobState		1.0
+org.apache.camel.routepolicy.quartz2.ScheduledJob		0.8333333
+org.apache.camel.routepolicy.quartz2.CronScheduledRoutePolicy		0.53846157
+org.apache.camel.routepolicy.quartz2.ScheduledRoutePolicy		0.4278607
+org.apache.camel.component.quartz2.QuartzComponent		0.3977695
+org.apache.camel.routepolicy.quartz2.ScheduledRouteDetails		0.375
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/SpringCronScheduledRoutePolicyTest_testScheduledSuspendRoutePolicy_1r
+org.apache.camel.routepolicy.quartz2.ScheduledJobState		1.0
+org.apache.camel.routepolicy.quartz2.ScheduledJob		0.8333333
+org.apache.camel.routepolicy.quartz2.CronScheduledRoutePolicy		0.5604396
+org.apache.camel.routepolicy.quartz2.ScheduledRoutePolicy		0.46766168
+org.apache.camel.component.quartz2.QuartzComponent		0.3977695
+org.apache.camel.routepolicy.quartz2.ScheduledRouteDetails		0.375
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/SpringMultiplePoliciesOnRouteTest
+SpringMultiplePoliciesOnRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/SpringMultiplePoliciesOnRouteTest_testMultiplePoliciesOnRoute_r
+org.apache.camel.routepolicy.quartz2.ScheduledJob		0.8888889
+org.apache.camel.routepolicy.quartz2.ScheduledJobState		0.5714286
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+org.apache.camel.component.quartz2.QuartzComponent		0.063197024
+org.apache.camel.routepolicy.quartz2.ScheduledRoutePolicy		0.039800994
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/SpringQuartzTwoAppsClusteredFailoverTest
+SpringQuartzTwoAppsClusteredFailoverTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/SpringQuartzTwoAppsClusteredFailoverTest_testQuartzPersistentStoreClusteredApp_17
+org.apache.camel.routepolicy.quartz2.ScheduledJobState		1.0
+org.apache.camel.routepolicy.quartz2.ScheduledJob		0.8333333
+org.apache.camel.routepolicy.quartz2.CronScheduledRoutePolicy		0.53846157
+org.apache.camel.routepolicy.quartz2.ScheduledRoutePolicy		0.43283582
+org.apache.camel.routepolicy.quartz2.ScheduledRouteDetails		0.375
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+org.apache.camel.component.quartz2.QuartzComponent		0.17100371
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/SpringScheduledRoutePolicyTest
+SpringScheduledRoutePolicyTest		0.9649123
+SpringScheduledRoutePolicyTest.TestType		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/SpringSimpleScheduledRoutePolicyTest
+SpringSimpleScheduledRoutePolicyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/SpringSimpleScheduledRoutePolicyTest_testScheduledResumeRoutePolicy_6
+org.apache.camel.routepolicy.quartz2.ScheduledJobState		1.0
+org.apache.camel.routepolicy.quartz2.ScheduledJob		0.8333333
+org.apache.camel.routepolicy.quartz2.ScheduledRoutePolicy		0.51741296
+org.apache.camel.routepolicy.quartz2.SimpleScheduledRoutePolicy		0.44144145
+org.apache.camel.component.quartz2.QuartzComponent		0.3977695
+org.apache.camel.routepolicy.quartz2.ScheduledRouteDetails		0.375
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/SpringSimpleScheduledRoutePolicyTest_testScheduledStartRoutePolicy_21
+org.apache.camel.routepolicy.quartz2.ScheduledJobState		1.0
+org.apache.camel.routepolicy.quartz2.ScheduledJob		0.8333333
+org.apache.camel.component.quartz2.QuartzComponent		0.40520447
+org.apache.camel.routepolicy.quartz2.ScheduledRoutePolicy		0.3880597
+org.apache.camel.routepolicy.quartz2.SimpleScheduledRoutePolicy		0.3873874
+org.apache.camel.routepolicy.quartz2.ScheduledRouteDetails		0.375
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/SpringSimpleScheduledRoutePolicyTest_testScheduledStopRoutePolicy_2c
+org.apache.camel.routepolicy.quartz2.ScheduledJobState		1.0
+org.apache.camel.routepolicy.quartz2.ScheduledJob		0.8333333
+org.apache.camel.routepolicy.quartz2.ScheduledRoutePolicy		0.4278607
+org.apache.camel.routepolicy.quartz2.SimpleScheduledRoutePolicy		0.4054054
+org.apache.camel.component.quartz2.QuartzComponent		0.3977695
+org.apache.camel.routepolicy.quartz2.ScheduledRouteDetails		0.375
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/SpringSimpleScheduledRoutePolicyTest_testScheduledSuspendRoutePolicy_9
+org.apache.camel.routepolicy.quartz2.ScheduledJobState		1.0
+org.apache.camel.routepolicy.quartz2.ScheduledJob		0.8333333
+org.apache.camel.routepolicy.quartz2.ScheduledRoutePolicy		0.46766168
+org.apache.camel.routepolicy.quartz2.SimpleScheduledRoutePolicy		0.4234234
+org.apache.camel.component.quartz2.QuartzComponent		0.3977695
+org.apache.camel.routepolicy.quartz2.ScheduledRouteDetails		0.375
+org.apache.camel.component.quartz2.QuartzHelper		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/test-CronScheduledRoutePolicyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/test-MultiplePoliciesOnRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/test-RouteAutoStopFalseCronScheduledPolicyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/test-SimpleScheduledCombinedRoutePolicyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/test-SimpleScheduledRoutePolicyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/test-SpringCronScheduledRoutePolicyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/test-SpringMultiplePoliciesOnRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/test-SpringQuartzTwoAppsClusteredFailoverTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/test-SpringScheduledRoutePolicyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/test-SpringScheduledRoutePolicyTest_TestType
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-quartz2/target/site/clover/org/apache/camel/routepolicy/quartz2/test-SpringSimpleScheduledRoutePolicyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

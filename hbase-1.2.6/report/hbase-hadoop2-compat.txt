@@ -1,0 +1,287 @@
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/master/TestMetricsMasterSourceImpl
+TestMetricsMasterSourceImpl		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/master/TestMetricsMasterSourceImpl_testGetInstance_55
+org.apache.hadoop.hbase.master.MetricsMasterSourceFactoryImpl		0.8333333
+org.apache.hadoop.hbase.metrics.Interns		0.8
+org.apache.hadoop.hbase.master.MetricsMasterSourceImpl		0.7647059
+org.apache.hadoop.hbase.metrics.BaseSourceImpl.DefaultMetricsSystemInitializer		0.75
+org.apache.hadoop.metrics2.lib.DefaultMetricsSystemHelper		0.35
+org.apache.hadoop.hbase.metrics.BaseSourceImpl		0.25
+org.apache.hadoop.hbase.metrics.MetricsInfoImpl		0.16666667
+org.apache.hadoop.metrics2.lib.DynamicMetricsRegistry		0.15789473
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/master/TestMetricsMasterSourceImpl_testGetInstance_5i
+org.apache.hadoop.hbase.master.MetricsMasterSourceFactoryImpl		0.8333333
+org.apache.hadoop.hbase.metrics.Interns		0.8
+org.apache.hadoop.hbase.master.MetricsMasterSourceImpl		0.7647059
+org.apache.hadoop.hbase.metrics.BaseSourceImpl.DefaultMetricsSystemInitializer		0.75
+org.apache.hadoop.metrics2.lib.DefaultMetricsSystemHelper		0.35
+org.apache.hadoop.hbase.metrics.BaseSourceImpl		0.25
+org.apache.hadoop.hbase.metrics.MetricsInfoImpl		0.16666667
+org.apache.hadoop.metrics2.lib.DynamicMetricsRegistry		0.15789473
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/master/test-TestMetricsMasterSourceImpl
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/metrics/TestBaseSourceImpl
+TestBaseSourceImpl		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/metrics/TestBaseSourceImpl_testDecGauge_lh
+org.apache.hadoop.metrics2.lib.DynamicMetricsRegistry		0.07177033
+org.apache.hadoop.hbase.metrics.BaseSourceImpl		0.06818182
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/metrics/TestBaseSourceImpl_testDecGauge_mw
+org.apache.hadoop.metrics2.lib.DynamicMetricsRegistry		0.07177033
+org.apache.hadoop.hbase.metrics.BaseSourceImpl		0.06818182
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/metrics/TestBaseSourceImpl_testIncCounters_5w
+org.apache.hadoop.metrics2.lib.DynamicMetricsRegistry		0.07177033
+org.apache.hadoop.hbase.metrics.BaseSourceImpl		0.06818182
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/metrics/TestBaseSourceImpl_testIncCounters_69
+org.apache.hadoop.metrics2.lib.DynamicMetricsRegistry		0.07177033
+org.apache.hadoop.hbase.metrics.BaseSourceImpl		0.06818182
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/metrics/TestBaseSourceImpl_testIncGauge_28
+org.apache.hadoop.metrics2.lib.DynamicMetricsRegistry		0.07177033
+org.apache.hadoop.hbase.metrics.BaseSourceImpl		0.06818182
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/metrics/TestBaseSourceImpl_testIncGauge_2e
+org.apache.hadoop.metrics2.lib.DynamicMetricsRegistry		0.07177033
+org.apache.hadoop.hbase.metrics.BaseSourceImpl		0.06818182
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/metrics/TestBaseSourceImpl_testRemoveMetric_90
+org.apache.hadoop.metrics2.lib.MetricsExecutorImpl.ThreadPoolExecutorThreadFactory		1.0
+org.apache.hadoop.metrics2.impl.JmxCacheBuster		0.6666667
+org.apache.hadoop.metrics2.lib.DefaultMetricsSystemHelper		0.3
+org.apache.hadoop.metrics2.lib.MetricsExecutorImpl		0.2857143
+org.apache.hadoop.hbase.metrics.BaseSourceImpl		0.13636364
+org.apache.hadoop.metrics2.lib.DynamicMetricsRegistry		0.066985644
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/metrics/TestBaseSourceImpl_testRemoveMetric_9n
+org.apache.hadoop.metrics2.lib.MetricsExecutorImpl.ThreadPoolExecutorThreadFactory		1.0
+org.apache.hadoop.metrics2.impl.JmxCacheBuster		0.6666667
+org.apache.hadoop.metrics2.lib.DefaultMetricsSystemHelper		0.3
+org.apache.hadoop.metrics2.lib.MetricsExecutorImpl		0.2857143
+org.apache.hadoop.hbase.metrics.BaseSourceImpl		0.13636364
+org.apache.hadoop.metrics2.lib.DynamicMetricsRegistry		0.066985644
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/metrics/TestBaseSourceImpl_testSetGauge_ga
+org.apache.hadoop.metrics2.lib.DynamicMetricsRegistry		0.07177033
+org.apache.hadoop.hbase.metrics.BaseSourceImpl		0.06818182
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/metrics/TestBaseSourceImpl_testSetGauge_hd
+org.apache.hadoop.metrics2.lib.DynamicMetricsRegistry		0.07177033
+org.apache.hadoop.hbase.metrics.BaseSourceImpl		0.06818182
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/metrics/test-TestBaseSourceImpl
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/regionserver/TestMetricsRegionServerSourceImpl
+TestMetricsRegionServerSourceImpl		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/regionserver/TestMetricsRegionServerSourceImpl_testGetInstance_a
+org.apache.hadoop.hbase.metrics.Interns		0.8
+org.apache.hadoop.hbase.metrics.BaseSourceImpl.DefaultMetricsSystemInitializer		0.75
+org.apache.hadoop.hbase.regionserver.MetricsRegionServerSourceImpl		0.43333334
+org.apache.hadoop.metrics2.lib.DefaultMetricsSystemHelper		0.35
+org.apache.hadoop.hbase.metrics.BaseSourceImpl		0.29545453
+org.apache.hadoop.metrics2.lib.MutableTimeHistogram		0.2
+org.apache.hadoop.hbase.regionserver.MetricsRegionServerSourceFactoryImpl		0.18181819
+org.apache.hadoop.metrics2.lib.DynamicMetricsRegistry		0.18181819
+org.apache.hadoop.hbase.metrics.MetricsInfoImpl		0.16666667
+org.apache.hadoop.metrics2.lib.MutableHistogram		0.1
+org.apache.hadoop.metrics2.lib.MutableRangeHistogram		0.054054055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/regionserver/TestMetricsRegionServerSourceImpl_testGetInstance_c
+org.apache.hadoop.hbase.metrics.Interns		0.8
+org.apache.hadoop.hbase.metrics.BaseSourceImpl.DefaultMetricsSystemInitializer		0.75
+org.apache.hadoop.hbase.regionserver.MetricsRegionServerSourceImpl		0.43333334
+org.apache.hadoop.metrics2.lib.DefaultMetricsSystemHelper		0.35
+org.apache.hadoop.hbase.metrics.BaseSourceImpl		0.29545453
+org.apache.hadoop.metrics2.lib.MutableTimeHistogram		0.2
+org.apache.hadoop.hbase.regionserver.MetricsRegionServerSourceFactoryImpl		0.18181819
+org.apache.hadoop.metrics2.lib.DynamicMetricsRegistry		0.18181819
+org.apache.hadoop.hbase.metrics.MetricsInfoImpl		0.16666667
+org.apache.hadoop.metrics2.lib.MutableHistogram		0.1
+org.apache.hadoop.metrics2.lib.MutableRangeHistogram		0.054054055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/regionserver/TestMetricsRegionServerSourceImpl_testNoGetRegionServerMetricsSourceImpl_cm
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/regionserver/TestMetricsRegionServerSourceImpl_testNoGetRegionServerMetricsSourceImpl_dl
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/regionserver/TestMetricsRegionSourceImpl
+TestMetricsRegionSourceImpl		1.0
+TestMetricsRegionSourceImpl.RegionWrapperStub		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/regionserver/TestMetricsRegionSourceImpl_testCompareToHashCodeEquals_e6
+org.apache.hadoop.metrics2.lib.MetricsExecutorImpl.ThreadPoolExecutorThreadFactory		1.0
+org.apache.hadoop.metrics2.impl.JmxCacheBuster		0.8888889
+org.apache.hadoop.hbase.regionserver.MetricsRegionServerSourceFactoryImpl		0.8181818
+org.apache.hadoop.hbase.metrics.Interns		0.8
+org.apache.hadoop.hbase.metrics.BaseSourceImpl.DefaultMetricsSystemInitializer		0.75
+org.apache.hadoop.hbase.regionserver.MetricsRegionAggregateSourceImpl		0.4827586
+org.apache.hadoop.hbase.regionserver.MetricsRegionSourceImpl		0.35164836
+org.apache.hadoop.metrics2.lib.DefaultMetricsSystemHelper		0.35
+org.apache.hadoop.hbase.metrics.BaseSourceImpl		0.29545453
+org.apache.hadoop.metrics2.lib.MetricsExecutorImpl		0.2857143
+org.apache.hadoop.metrics2.lib.DynamicMetricsRegistry		0.21052632
+org.apache.hadoop.metrics2.lib.MutableTimeHistogram		0.2
+org.apache.hadoop.hbase.metrics.MetricsInfoImpl		0.16666667
+org.apache.hadoop.metrics2.lib.MutableHistogram		0.1
+org.apache.hadoop.metrics2.lib.MutableRangeHistogram		0.054054055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/regionserver/TestMetricsRegionSourceImpl_testCompareToHashCodeEquals_f5
+org.apache.hadoop.metrics2.lib.MetricsExecutorImpl.ThreadPoolExecutorThreadFactory		1.0
+org.apache.hadoop.metrics2.impl.JmxCacheBuster		0.8888889
+org.apache.hadoop.hbase.regionserver.MetricsRegionServerSourceFactoryImpl		0.8181818
+org.apache.hadoop.hbase.metrics.Interns		0.8
+org.apache.hadoop.hbase.metrics.BaseSourceImpl.DefaultMetricsSystemInitializer		0.75
+org.apache.hadoop.hbase.regionserver.MetricsRegionAggregateSourceImpl		0.4827586
+org.apache.hadoop.hbase.regionserver.MetricsRegionSourceImpl		0.35164836
+org.apache.hadoop.metrics2.lib.DefaultMetricsSystemHelper		0.35
+org.apache.hadoop.hbase.metrics.BaseSourceImpl		0.29545453
+org.apache.hadoop.metrics2.lib.MetricsExecutorImpl		0.2857143
+org.apache.hadoop.metrics2.lib.DynamicMetricsRegistry		0.21052632
+org.apache.hadoop.metrics2.lib.MutableTimeHistogram		0.2
+org.apache.hadoop.hbase.metrics.MetricsInfoImpl		0.16666667
+org.apache.hadoop.metrics2.lib.MutableHistogram		0.1
+org.apache.hadoop.metrics2.lib.MutableRangeHistogram		0.054054055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/regionserver/TestMetricsRegionSourceImpl_testNoGetRegionServerMetricsSourceImpl_t1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/regionserver/TestMetricsRegionSourceImpl_testNoGetRegionServerMetricsSourceImpl_v3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/regionserver/test-TestMetricsRegionServerSourceImpl
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/regionserver/test-TestMetricsRegionSourceImpl
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/regionserver/test-TestMetricsRegionSourceImpl_RegionWrapperStub
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/regionserver/wal/TestMetricsWALSourceImpl
+TestMetricsWALSourceImpl		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/regionserver/wal/TestMetricsWALSourceImpl_testGetInstance_bx
+org.apache.hadoop.hbase.metrics.Interns		0.8
+org.apache.hadoop.hbase.metrics.BaseSourceImpl.DefaultMetricsSystemInitializer		0.75
+org.apache.hadoop.hbase.regionserver.wal.MetricsWALSourceImpl		0.44
+org.apache.hadoop.metrics2.lib.MutableSizeHistogram		0.4
+org.apache.hadoop.metrics2.lib.DefaultMetricsSystemHelper		0.35
+org.apache.hadoop.hbase.metrics.BaseSourceImpl		0.3409091
+org.apache.hadoop.metrics2.lib.MutableTimeHistogram		0.2
+org.apache.hadoop.metrics2.lib.DynamicMetricsRegistry		0.19617225
+org.apache.hadoop.hbase.metrics.MetricsInfoImpl		0.16666667
+org.apache.hadoop.metrics2.lib.MutableHistogram		0.1
+org.apache.hadoop.metrics2.lib.MutableRangeHistogram		0.054054055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/regionserver/wal/TestMetricsWALSourceImpl_testGetInstance_cw
+org.apache.hadoop.hbase.metrics.Interns		0.8
+org.apache.hadoop.hbase.metrics.BaseSourceImpl.DefaultMetricsSystemInitializer		0.75
+org.apache.hadoop.hbase.regionserver.wal.MetricsWALSourceImpl		0.44
+org.apache.hadoop.metrics2.lib.MutableSizeHistogram		0.4
+org.apache.hadoop.metrics2.lib.DefaultMetricsSystemHelper		0.35
+org.apache.hadoop.hbase.metrics.BaseSourceImpl		0.3409091
+org.apache.hadoop.metrics2.lib.MutableTimeHistogram		0.2
+org.apache.hadoop.metrics2.lib.DynamicMetricsRegistry		0.19617225
+org.apache.hadoop.hbase.metrics.MetricsInfoImpl		0.16666667
+org.apache.hadoop.metrics2.lib.MutableHistogram		0.1
+org.apache.hadoop.metrics2.lib.MutableRangeHistogram		0.054054055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/regionserver/wal/test-TestMetricsWALSourceImpl
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/replication/regionserver/TestMetricsReplicationSourceFactoryImpl
+TestMetricsReplicationSourceFactoryImpl		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/replication/regionserver/TestMetricsReplicationSourceFactoryImpl_testGetInstance_sd
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/replication/regionserver/TestMetricsReplicationSourceFactoryImpl_testGetInstance_ue
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/replication/regionserver/TestMetricsReplicationSourceImpl
+TestMetricsReplicationSourceImpl		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/replication/regionserver/TestMetricsReplicationSourceImpl_testGetInstance_5j
+org.apache.hadoop.hbase.replication.regionserver.MetricsReplicationSourceImpl		1.0
+org.apache.hadoop.hbase.metrics.Interns		0.8
+org.apache.hadoop.hbase.metrics.BaseSourceImpl.DefaultMetricsSystemInitializer		0.75
+org.apache.hadoop.metrics2.lib.DefaultMetricsSystemHelper		0.35
+org.apache.hadoop.hbase.metrics.BaseSourceImpl		0.29545453
+org.apache.hadoop.hbase.metrics.MetricsInfoImpl		0.16666667
+org.apache.hadoop.metrics2.lib.DynamicMetricsRegistry		0.119617224
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/replication/regionserver/TestMetricsReplicationSourceImpl_testGetInstance_5w
+org.apache.hadoop.hbase.replication.regionserver.MetricsReplicationSourceImpl		1.0
+org.apache.hadoop.hbase.metrics.Interns		0.8
+org.apache.hadoop.hbase.metrics.BaseSourceImpl.DefaultMetricsSystemInitializer		0.75
+org.apache.hadoop.metrics2.lib.DefaultMetricsSystemHelper		0.35
+org.apache.hadoop.hbase.metrics.BaseSourceImpl		0.29545453
+org.apache.hadoop.hbase.metrics.MetricsInfoImpl		0.16666667
+org.apache.hadoop.metrics2.lib.DynamicMetricsRegistry		0.119617224
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/replication/regionserver/test-TestMetricsReplicationSourceFactoryImpl
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/replication/regionserver/test-TestMetricsReplicationSourceImpl
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/rest/TestMetricsRESTSourceImpl
+TestMetricsRESTSourceImpl		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/rest/TestMetricsRESTSourceImpl_ensureCompatRegistered_ex
+org.apache.hadoop.hbase.metrics.Interns		0.8
+org.apache.hadoop.hbase.metrics.BaseSourceImpl.DefaultMetricsSystemInitializer		0.75
+org.apache.hadoop.hbase.rest.MetricsRESTSourceImpl		0.45454547
+org.apache.hadoop.metrics2.lib.DefaultMetricsSystemHelper		0.35
+org.apache.hadoop.hbase.metrics.BaseSourceImpl		0.3409091
+org.apache.hadoop.hbase.metrics.MetricsInfoImpl		0.16666667
+org.apache.hadoop.metrics2.lib.DynamicMetricsRegistry		0.16267942
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/rest/TestMetricsRESTSourceImpl_ensureCompatRegistered_fx
+org.apache.hadoop.hbase.metrics.Interns		0.8
+org.apache.hadoop.hbase.metrics.BaseSourceImpl.DefaultMetricsSystemInitializer		0.75
+org.apache.hadoop.hbase.rest.MetricsRESTSourceImpl		0.45454547
+org.apache.hadoop.metrics2.lib.DefaultMetricsSystemHelper		0.35
+org.apache.hadoop.hbase.metrics.BaseSourceImpl		0.3409091
+org.apache.hadoop.hbase.metrics.MetricsInfoImpl		0.16666667
+org.apache.hadoop.metrics2.lib.DynamicMetricsRegistry		0.16267942
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/rest/test-TestMetricsRESTSourceImpl
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/thrift/TestMetricsThriftServerSourceFactoryImpl
+TestMetricsThriftServerSourceFactoryImpl		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/thrift/TestMetricsThriftServerSourceFactoryImpl_testCompatabilityRegistered_ou
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/thrift/TestMetricsThriftServerSourceFactoryImpl_testCompatabilityRegistered_qi
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/thrift/TestMetricsThriftServerSourceFactoryImpl_testCreateThriftOneSource_ql
+org.apache.hadoop.hbase.metrics.BaseSourceImpl.DefaultMetricsSystemInitializer		1.0
+org.apache.hadoop.hbase.metrics.Interns		0.84
+org.apache.hadoop.hbase.thrift.MetricsThriftServerSourceFactoryImpl		0.5
+org.apache.hadoop.hbase.thrift.MetricsThriftServerSourceImpl		0.4
+org.apache.hadoop.metrics2.lib.DefaultMetricsSystemHelper		0.35
+org.apache.hadoop.hbase.metrics.BaseSourceImpl		0.3409091
+org.apache.hadoop.metrics2.lib.DynamicMetricsRegistry		0.21052632
+org.apache.hadoop.metrics2.lib.MutableTimeHistogram		0.2
+org.apache.hadoop.hbase.metrics.MetricsInfoImpl		0.16666667
+org.apache.hadoop.metrics2.lib.MutableHistogram		0.1
+org.apache.hadoop.metrics2.lib.MutableRangeHistogram		0.054054055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/thrift/TestMetricsThriftServerSourceFactoryImpl_testCreateThriftOneSource_sg
+org.apache.hadoop.hbase.metrics.BaseSourceImpl.DefaultMetricsSystemInitializer		1.0
+org.apache.hadoop.hbase.metrics.Interns		0.84
+org.apache.hadoop.hbase.thrift.MetricsThriftServerSourceFactoryImpl		0.5
+org.apache.hadoop.hbase.thrift.MetricsThriftServerSourceImpl		0.4
+org.apache.hadoop.metrics2.lib.DefaultMetricsSystemHelper		0.35
+org.apache.hadoop.hbase.metrics.BaseSourceImpl		0.3409091
+org.apache.hadoop.metrics2.lib.DynamicMetricsRegistry		0.21052632
+org.apache.hadoop.metrics2.lib.MutableTimeHistogram		0.2
+org.apache.hadoop.hbase.metrics.MetricsInfoImpl		0.16666667
+org.apache.hadoop.metrics2.lib.MutableHistogram		0.1
+org.apache.hadoop.metrics2.lib.MutableRangeHistogram		0.054054055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/thrift/TestMetricsThriftServerSourceFactoryImpl_testCreateThriftTwoSource_u
+org.apache.hadoop.hbase.thrift.MetricsThriftServerSourceFactoryImpl		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/thrift/TestMetricsThriftServerSourceFactoryImpl_testCreateThriftTwoSource_x
+org.apache.hadoop.hbase.thrift.MetricsThriftServerSourceFactoryImpl		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hbase-hadoop2-compat/target/site/clover/org/apache/hadoop/hbase/thrift/test-TestMetricsThriftServerSourceFactoryImpl
+-- -- -- -- -- -- -- -- -- -- -- -- --

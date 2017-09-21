@@ -1,0 +1,60 @@
+./components/camel-nagios/target/site/clover/org/apache/camel
+./components/camel-nagios/target/site/clover/org/apache/camel/component/nagios/NagiosAsyncSendTest
+NagiosAsyncSendTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-nagios/target/site/clover/org/apache/camel/component/nagios/NagiosAsyncSendTest_testSendToNagiosMultiHeaders_a
+org.apache.camel.component.nagios.NagiosProducer		0.3529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-nagios/target/site/clover/org/apache/camel/component/nagios/NagiosAsyncSendTest_testSendToNagiosWarnAsText_2
+org.apache.camel.component.nagios.NagiosProducer		0.3529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-nagios/target/site/clover/org/apache/camel/component/nagios/NagiosAsyncSendTest_testSendToNagiosWarn_4
+org.apache.camel.component.nagios.NagiosProducer		0.3529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-nagios/target/site/clover/org/apache/camel/component/nagios/NagiosAsyncSendTest_testSendToNagios_c
+org.apache.camel.component.nagios.NagiosProducer		0.4117647
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-nagios/target/site/clover/org/apache/camel/component/nagios/NagiosAsyncSendTest_testSendTwoToNagios_1
+org.apache.camel.component.nagios.NagiosProducer		0.4117647
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-nagios/target/site/clover/org/apache/camel/component/nagios/NagiosEventNotifierTest
+NagiosEventNotifierTest		0.8684211
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-nagios/target/site/clover/org/apache/camel/component/nagios/NagiosEventNotifierTest_testNagiosEventNotifierError_7
+org.apache.camel.component.nagios.NagiosEventNotifier		0.4385965
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-nagios/target/site/clover/org/apache/camel/component/nagios/NagiosEventNotifierTest_testNagiosEventNotifierOk_6
+org.apache.camel.component.nagios.NagiosEventNotifier		0.40350878
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-nagios/target/site/clover/org/apache/camel/component/nagios/NagiosTest
+NagiosTest		0.88095236
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-nagios/target/site/clover/org/apache/camel/component/nagios/NagiosTest_testSendToNagiosMultiHeaders_b
+org.apache.camel.component.nagios.NagiosProducer		0.3529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-nagios/target/site/clover/org/apache/camel/component/nagios/NagiosTest_testSendToNagiosWarnAsText_9
+org.apache.camel.component.nagios.NagiosProducer		0.3529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-nagios/target/site/clover/org/apache/camel/component/nagios/NagiosTest_testSendToNagiosWarn_5
+org.apache.camel.component.nagios.NagiosProducer		0.3529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-nagios/target/site/clover/org/apache/camel/component/nagios/NagiosTest_testSendToNagios_3
+org.apache.camel.component.nagios.NagiosProducer		0.4117647
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-nagios/target/site/clover/org/apache/camel/component/nagios/NagiosTest_testSendTwoToNagios_0
+org.apache.camel.component.nagios.NagiosProducer		0.4117647
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-nagios/target/site/clover/org/apache/camel/component/nagios/NagiosXorEncryptionTest
+NagiosXorEncryptionTest		0.92
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-nagios/target/site/clover/org/apache/camel/component/nagios/NagiosXorEncryptionTest_testSendToNagios_8
+org.apache.camel.component.nagios.NagiosProducer		0.4117647
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-nagios/target/site/clover/org/apache/camel/component/nagios/test-NagiosAsyncSendTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-nagios/target/site/clover/org/apache/camel/component/nagios/test-NagiosEventNotifierTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-nagios/target/site/clover/org/apache/camel/component/nagios/test-NagiosTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-nagios/target/site/clover/org/apache/camel/component/nagios/test-NagiosXorEncryptionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

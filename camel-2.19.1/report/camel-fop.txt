@@ -1,0 +1,56 @@
+./components/camel-fop/target/site/clover/org/apache/camel
+./components/camel-fop/target/site/clover/org/apache/camel/component/fop/FopComponentTest
+FopComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-fop/target/site/clover/org/apache/camel/component/fop/FopComponentTest_createPdfUsingXmlDataAndXsltTransformation_0
+org.apache.camel.component.fop.FopProducer		0.6545454
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-fop/target/site/clover/org/apache/camel/component/fop/FopEndpointTest
+FopEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-fop/target/site/clover/org/apache/camel/component/fop/FopEndpointTest_encryptPdfWithUserPassword_4
+org.apache.camel.component.fop.FopComponent		0.90909094
+org.apache.camel.component.fop.FopProducer		0.7818182
+org.apache.camel.component.fop.FopOutputType		0.5217391
+org.apache.camel.component.fop.FopEndpoint		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-fop/target/site/clover/org/apache/camel/component/fop/FopEndpointTest_generatePdfFromXslfoWithSpecificText_6
+org.apache.camel.component.fop.FopComponent		0.90909094
+org.apache.camel.component.fop.FopProducer		0.72727275
+org.apache.camel.component.fop.FopOutputType		0.5217391
+org.apache.camel.component.fop.FopEndpoint		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-fop/target/site/clover/org/apache/camel/component/fop/FopEndpointTest_overridePdfOutputFormatToPlainText_5
+org.apache.camel.component.fop.FopComponent		0.90909094
+org.apache.camel.component.fop.FopProducer		0.7818182
+org.apache.camel.component.fop.FopOutputType		0.5217391
+org.apache.camel.component.fop.FopEndpoint		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-fop/target/site/clover/org/apache/camel/component/fop/FopEndpointTest_setPDFRenderingMetadataPerDocument_1
+org.apache.camel.component.fop.FopComponent		0.90909094
+org.apache.camel.component.fop.FopProducer		0.74545455
+org.apache.camel.component.fop.FopOutputType		0.5217391
+org.apache.camel.component.fop.FopEndpoint		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-fop/target/site/clover/org/apache/camel/component/fop/FopEndpointTest_specifyCustomUserConfigurationFileClasspath_7
+org.apache.camel.component.fop.FopComponent		0.90909094
+org.apache.camel.component.fop.FopEndpoint		0.5277778
+org.apache.camel.component.fop.FopOutputType		0.47826087
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-fop/target/site/clover/org/apache/camel/component/fop/FopEndpointTest_specifyCustomUserConfigurationFile_3
+org.apache.camel.component.fop.FopComponent		0.90909094
+org.apache.camel.component.fop.FopEndpoint		0.5277778
+org.apache.camel.component.fop.FopOutputType		0.47826087
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-fop/target/site/clover/org/apache/camel/component/fop/FopOutputTypeTest
+FopOutputTypeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-fop/target/site/clover/org/apache/camel/component/fop/FopOutputTypeTest_testOutputFormatEnum_2
+org.apache.camel.component.fop.FopOutputType		0.04347826
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-fop/target/site/clover/org/apache/camel/component/fop/test-FopComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-fop/target/site/clover/org/apache/camel/component/fop/test-FopEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-fop/target/site/clover/org/apache/camel/component/fop/test-FopOutputTypeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

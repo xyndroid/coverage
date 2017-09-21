@@ -1,0 +1,118 @@
+./components/camel-syslog/target/site/clover/org/apache/camel
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/AutomatedConversionTest
+AutomatedConversionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/AutomatedConversionTest_testSendingRawUDP_3
+org.apache.camel.component.syslog.Rfc5424SyslogMessage		1.0
+org.apache.camel.component.syslog.SyslogConverter		0.76494026
+org.apache.camel.component.syslog.SyslogMessage		0.73333335
+org.apache.camel.component.syslog.SyslogDataFormat		0.5609756
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/MinaDataFormatTest
+MinaDataFormatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/MinaDataFormatTest_testSendingRawUDP_7
+org.apache.camel.component.syslog.SyslogMessage		0.73333335
+org.apache.camel.component.syslog.SyslogDataFormat		0.5609756
+org.apache.camel.component.syslog.SyslogConverter		0.5179283
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/MinaManyUDPMessagesTest
+MinaManyUDPMessagesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/MinaManyUDPMessagesTest_testSendingManyMessages_1
+org.apache.camel.component.syslog.SyslogMessage		0.73333335
+org.apache.camel.component.syslog.SyslogDataFormat		0.5609756
+org.apache.camel.component.syslog.SyslogConverter		0.5179283
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/NettyDataFormatTest
+NettyDataFormatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/NettyDataFormatTest_testSendingRawUDPFromNetty_0
+org.apache.camel.component.syslog.SyslogMessage		1.0
+org.apache.camel.component.syslog.SyslogDataFormat		0.6585366
+org.apache.camel.component.syslog.SyslogConverter		0.5179283
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/NettyDataFormatTest_testSendingRawUDP_4
+org.apache.camel.component.syslog.SyslogMessage		1.0
+org.apache.camel.component.syslog.SyslogDataFormat		0.6585366
+org.apache.camel.component.syslog.SyslogConverter		0.5179283
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/NettyManyUDPMessagesTest
+NettyManyUDPMessagesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/NettyManyUDPMessagesTest_testSendingManyMessages_2
+org.apache.camel.component.syslog.SyslogMessage		1.0
+org.apache.camel.component.syslog.SyslogDataFormat		0.6585366
+org.apache.camel.component.syslog.SyslogConverter		0.5179283
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/NettyRfc5425LongMessageTest
+NettyRfc5425LongMessageTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/NettyRfc5425LongMessageTest_testSendingCamel_6
+org.apache.camel.component.syslog.Rfc5424SyslogMessage		1.0
+org.apache.camel.component.syslog.SyslogMessage		1.0
+org.apache.camel.component.syslog.netty.Rfc5425Encoder		0.90909094
+org.apache.camel.component.syslog.netty.Rfc5425FrameDecoder		0.8363636
+org.apache.camel.component.syslog.SyslogDataFormat		0.6585366
+org.apache.camel.component.syslog.SyslogConverter		0.45418328
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/NettyRfc5425Test
+NettyRfc5425Test		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/NettyRfc5425Test_testSendingCamel_5
+org.apache.camel.component.syslog.Rfc5424SyslogMessage		1.0
+org.apache.camel.component.syslog.SyslogMessage		1.0
+org.apache.camel.component.syslog.netty.Rfc5425Encoder		0.90909094
+org.apache.camel.component.syslog.netty.Rfc5425FrameDecoder		0.7818182
+org.apache.camel.component.syslog.SyslogConverter		0.7211155
+org.apache.camel.component.syslog.SyslogDataFormat		0.6585366
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/NettyRfc5425Test_testStructuredData_8
+org.apache.camel.component.syslog.Rfc5424SyslogMessage		1.0
+org.apache.camel.component.syslog.SyslogMessage		0.73333335
+org.apache.camel.component.syslog.SyslogDataFormat		0.4878049
+org.apache.camel.component.syslog.SyslogConverter		0.4621514
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/SyslogEnumsTest
+SyslogEnumsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/SyslogEnumsTest_testFacilityConstants_9
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/SyslogEnumsTest_testSeverity_a
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/SyslogSpringMinaTest
+SyslogSpringMinaTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/SyslogSpringMinaTest_testSendingRawUDP_c
+org.apache.camel.component.syslog.SyslogMessage		0.73333335
+org.apache.camel.component.syslog.SyslogDataFormat		0.5609756
+org.apache.camel.component.syslog.SyslogConverter		0.5179283
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/SyslogSpringNettyTest
+SyslogSpringNettyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/SyslogSpringNettyTest_testSendingRawUDP_b
+org.apache.camel.component.syslog.SyslogMessage		1.0
+org.apache.camel.component.syslog.SyslogDataFormat		0.6585366
+org.apache.camel.component.syslog.SyslogConverter		0.5179283
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/test-AutomatedConversionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/test-MinaDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/test-MinaManyUDPMessagesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/test-NettyDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/test-NettyManyUDPMessagesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/test-NettyRfc5425LongMessageTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/test-NettyRfc5425Test
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/test-SyslogEnumsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/test-SyslogSpringMinaTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-syslog/target/site/clover/org/apache/camel/component/syslog/test-SyslogSpringNettyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

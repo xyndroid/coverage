@@ -1,0 +1,208 @@
+./components/camel-cxf-transport/target/site/clover/org/apache/camel
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/common/header/CxfHeaderHelperTest
+CxfHeaderHelperTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/common/header/CxfHeaderHelperTest_testPropagateCamelToCxf_4b
+org.apache.camel.component.cxf.common.header.CxfHeaderHelper		0.175
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/common/header/CxfHeaderHelperTest_testPropagateCxfToCamelWithMerged_31
+org.apache.camel.component.cxf.common.header.CxfHeaderHelper		0.46875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/common/header/CxfHeaderHelperTest_testPropagateCxfToCamel_1x
+org.apache.camel.component.cxf.common.header.CxfHeaderHelper		0.4125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/common/header/test-CxfHeaderHelperTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/common/message/CxfMessageHelperTest
+CxfMessageHelperTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/common/message/CxfMessageHelperTest_testGetCxfInMessage_2r
+org.apache.camel.component.cxf.common.message.CxfMessageHelper		0.7096774
+org.apache.camel.component.cxf.common.header.CxfHeaderFilterStrategy		0.35051546
+org.apache.camel.component.cxf.common.header.CxfHeaderHelper		0.2125
+org.apache.camel.component.cxf.common.header.SoapMessageHeaderFilter		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/common/message/DefaultCxfMessageMapperTest
+DefaultCxfMessageMapperTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/common/message/DefaultCxfMessageMapperTest_testRequestUriAndPath_7
+org.apache.camel.component.cxf.common.message.CxfMessageHelper		0.61290324
+org.apache.camel.component.cxf.common.message.DefaultCxfMessageMapper		0.57425743
+org.apache.camel.component.cxf.common.header.CxfHeaderHelper		0.0375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/common/message/DefaultCxfMessageMapperTest_testSecurityContext_4
+org.apache.camel.component.cxf.common.message.DefaultCxfMessageMapper		0.64356434
+org.apache.camel.component.cxf.common.message.CxfMessageHelper		0.61290324
+org.apache.camel.component.cxf.common.header.CxfHeaderHelper		0.1125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/common/message/test-CxfMessageHelperTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/common/message/test-DefaultCxfMessageMapperTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/transport/CamelConduitTest
+CamelConduitTest		0.974359
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/transport/CamelConduitTest_testCamelConduitConfiguration_2n
+testCamelConduitConfiguration
+org.apache.camel.component.cxf.transport.spring.CamelConduitDefinitionParser		1.0
+org.apache.camel.component.cxf.transport.spring.CamelDestinationDefinitionParser		1.0
+org.apache.camel.component.cxf.transport.spring.NamespaceHandler		1.0
+org.apache.camel.component.cxf.transport.spring.AbstractCamelContextBeanDefinitionParser		0.9166667
+org.apache.camel.component.cxf.transport.CamelConduit		0.59375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/transport/CamelConduitTest_testPrepareSend_2b
+testPrepareSend
+org.apache.camel.component.cxf.transport.CamelConduit		0.53125
+org.apache.camel.component.cxf.transport.CamelOutputStream		0.072289154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/transport/CamelConduitTest_testSendOutRunTrip_2d
+testSendOutRunTrip
+org.apache.camel.component.cxf.common.message.CxfMessageHelper		0.61290324
+org.apache.camel.component.cxf.transport.CamelConduit		0.5625
+org.apache.camel.component.cxf.transport.CamelOutputStream		0.48192772
+org.apache.camel.component.cxf.common.header.CxfHeaderHelper		0.1375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/transport/CamelConduitTest_testSendOut_7u
+testSendOut
+org.apache.camel.component.cxf.transport.CamelConduit		0.5625
+org.apache.camel.component.cxf.transport.CamelOutputStream		0.42168674
+org.apache.camel.component.cxf.common.header.CxfHeaderHelper		0.025
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/transport/CamelDestinationTest
+CamelDestinationTest		0.9507042
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/transport/CamelDestinationTest_testCAMEL4073_a
+testCAMEL4073
+org.apache.camel.component.cxf.transport.CamelDestination		0.46341464
+org.apache.camel.component.cxf.transport.CamelTransportFactory		0.047058824
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/transport/CamelDestinationTest_testCamelDestinationConfiguration_4c
+testCamelDestinationConfiguration
+org.apache.camel.component.cxf.transport.spring.CamelConduitDefinitionParser		1.0
+org.apache.camel.component.cxf.transport.spring.CamelDestinationDefinitionParser		1.0
+org.apache.camel.component.cxf.transport.spring.NamespaceHandler		1.0
+org.apache.camel.component.cxf.transport.spring.AbstractCamelContextBeanDefinitionParser		0.6944444
+org.apache.camel.component.cxf.transport.CamelDestination		0.34146342
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/transport/CamelDestinationTest_testExceptionForwardedToExchange_91
+testExceptionForwardedToExchange
+org.apache.camel.component.cxf.transport.CamelDestination.ConsumerProcessor		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/transport/CamelDestinationTest_testGetTransportFactoryFromBus_9d
+testGetTransportFactoryFromBus
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/transport/CamelDestinationTest_testOneWayDestination_4q
+testOneWayDestination
+org.apache.camel.component.cxf.transport.CamelDestination.ConsumerProcessor		0.75
+org.apache.camel.component.cxf.common.message.CxfMessageHelper		0.67741936
+org.apache.camel.component.cxf.common.message.DefaultCxfMessageMapper		0.5841584
+org.apache.camel.component.cxf.transport.CamelDestination		0.5731707
+org.apache.camel.component.cxf.transport.CamelConduit		0.5625
+org.apache.camel.component.cxf.transport.CamelOutputStream		0.42168674
+org.apache.camel.component.cxf.common.header.CxfHeaderHelper		0.1375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/transport/CamelDestinationTest_testRoundTripDestinationWithFault_1
+testRoundTripDestinationWithFault
+org.apache.camel.component.cxf.transport.CamelDestination.CamelOutputStream		0.9411765
+org.apache.camel.component.cxf.common.message.CxfMessageHelper		0.7741935
+org.apache.camel.component.cxf.transport.CamelDestination.ConsumerProcessor		0.75
+org.apache.camel.component.cxf.transport.CamelDestination.BackChannelConduit		0.7
+org.apache.camel.component.cxf.transport.CamelDestination		0.6585366
+org.apache.camel.component.cxf.common.message.DefaultCxfMessageMapper		0.5841584
+org.apache.camel.component.cxf.transport.CamelConduit		0.5625
+org.apache.camel.component.cxf.transport.CamelOutputStream		0.48192772
+org.apache.camel.component.cxf.common.header.CxfHeaderHelper		0.0625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/transport/CamelDestinationTest_testRoundTripDestination_2s
+testRoundTripDestination
+org.apache.camel.component.cxf.transport.CamelDestination.CamelOutputStream		0.88235295
+org.apache.camel.component.cxf.common.message.CxfMessageHelper		0.7741935
+org.apache.camel.component.cxf.transport.CamelDestination.ConsumerProcessor		0.75
+org.apache.camel.component.cxf.transport.CamelDestination.BackChannelConduit		0.7
+org.apache.camel.component.cxf.transport.CamelDestination		0.63414633
+org.apache.camel.component.cxf.common.message.DefaultCxfMessageMapper		0.5841584
+org.apache.camel.component.cxf.transport.CamelConduit		0.5625
+org.apache.camel.component.cxf.transport.CamelOutputStream		0.48192772
+org.apache.camel.component.cxf.common.header.CxfHeaderHelper		0.0625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/transport/CamelTransportTestSupport
+CamelTransportTestSupport		0.9130435
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/transport/JaxWSCamelConduitTest
+JaxWSCamelConduitTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/transport/JaxWSCamelConduitTest_testAsyncInvocation_6k
+testAsyncInvocation
+org.apache.camel.component.cxf.transport.CamelOutputStream		0.6626506
+org.apache.camel.component.cxf.common.message.CxfMessageHelper		0.61290324
+org.apache.camel.component.cxf.common.header.CxfHeaderHelper		0.6125
+org.apache.camel.component.cxf.transport.CamelConduit		0.53125
+org.apache.camel.component.cxf.transport.CamelTransportFactory		0.047058824
+org.apache.camel.component.cxf.common.header.CxfHeaderFilterStrategy		0.041237112
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/transport/JaxWSCamelConduitTest_testStart1_v
+testStart1
+org.apache.camel.component.cxf.common.message.CxfMessageHelper		0.61290324
+org.apache.camel.component.cxf.common.header.CxfHeaderHelper		0.5375
+org.apache.camel.component.cxf.transport.CamelConduit		0.53125
+org.apache.camel.component.cxf.transport.CamelOutputStream		0.48192772
+org.apache.camel.component.cxf.transport.CamelTransportFactory		0.047058824
+org.apache.camel.component.cxf.common.header.CxfHeaderFilterStrategy		0.041237112
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/transport/JaxWSCamelConduitTest_testStart2_2t
+testStart2
+org.apache.camel.component.cxf.common.message.CxfMessageHelper		0.61290324
+org.apache.camel.component.cxf.common.header.CxfHeaderHelper		0.5375
+org.apache.camel.component.cxf.transport.CamelConduit		0.53125
+org.apache.camel.component.cxf.transport.CamelOutputStream		0.48192772
+org.apache.camel.component.cxf.transport.CamelTransportFactory		0.047058824
+org.apache.camel.component.cxf.common.header.CxfHeaderFilterStrategy		0.041237112
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/transport/JaxWSCamelConduitTest_testStart3_1e
+testStart3
+org.apache.camel.component.cxf.common.message.CxfMessageHelper		0.61290324
+org.apache.camel.component.cxf.transport.CamelConduit		0.53125
+org.apache.camel.component.cxf.transport.CamelOutputStream		0.48192772
+org.apache.camel.component.cxf.common.header.CxfHeaderHelper		0.41875
+org.apache.camel.component.cxf.transport.CamelTransportFactory		0.047058824
+org.apache.camel.component.cxf.common.header.CxfHeaderFilterStrategy		0.041237112
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/transport/JaxWSCamelDestinationTest
+JaxWSCamelDestinationTest		0.9375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/transport/JaxWSCamelDestinationTest_testDestinationContentType_6
+testDestinationContentType
+org.apache.camel.component.cxf.transport.CamelDestination.CamelOutputStream		0.88235295
+org.apache.camel.component.cxf.transport.CamelDestination.ConsumerProcessor		0.75
+org.apache.camel.component.cxf.transport.CamelDestination.BackChannelConduit		0.7
+org.apache.camel.component.cxf.common.message.CxfMessageHelper		0.67741936
+org.apache.camel.component.cxf.common.message.DefaultCxfMessageMapper		0.5841584
+org.apache.camel.component.cxf.common.header.CxfHeaderHelper		0.55
+org.apache.camel.component.cxf.transport.CamelDestination		0.5365854
+org.apache.camel.component.cxf.transport.CamelTransportFactory		0.047058824
+org.apache.camel.component.cxf.common.header.CxfHeaderFilterStrategy		0.041237112
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/transport/JaxWSCamelTestSupport
+JaxWSCamelTestSupport		1.0
+JaxWSCamelTestSupport.SampleWS		1.0
+JaxWSCamelTestSupport.SampleWSAsync		1.0
+JaxWSCamelTestSupport.SampleWSImpl		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/transport/test-CamelConduitTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/transport/test-CamelDestinationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/transport/test-CamelTransportTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/transport/test-JaxWSCamelConduitTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/transport/test-JaxWSCamelDestinationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/transport/test-JaxWSCamelTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/transport/test-JaxWSCamelTestSupport_SampleWS
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/transport/test-JaxWSCamelTestSupport_SampleWSAsync
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-cxf-transport/target/site/clover/org/apache/camel/component/cxf/transport/test-JaxWSCamelTestSupport_SampleWSImpl
+-- -- -- -- -- -- -- -- -- -- -- -- --

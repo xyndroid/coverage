@@ -1,0 +1,2794 @@
+./components/camel-sjms/target/site/clover/org/apache/camel
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/AsyncStartStopListenerTest
+AsyncStartStopListenerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/AsyncStartStopListenerTest_testAsyncStartConsumer_14
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.625
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.5681818
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.5555556
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.SjmsEndpoint		0.48031497
+org.apache.camel.component.sjms.MessageConsumerResources		0.42857143
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.jms.JmsBinding		0.3512748
+org.apache.camel.component.sjms.SjmsConsumer		0.34965035
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.3220339
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.tx.SessionTransactionSynchronization		0.15625
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/AsyncStartStopListenerTest_testAsyncStartProducer_1p
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.625
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.5555556
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.SjmsEndpoint		0.43700787
+org.apache.camel.component.sjms.MessageConsumerResources		0.42857143
+org.apache.camel.component.sjms.SjmsProducer		0.41530055
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsComponent		0.3559322
+org.apache.camel.component.sjms.jms.JmsBinding		0.3512748
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsConsumer		0.30769232
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.27272728
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.tx.SessionTransactionSynchronization		0.15625
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/AsyncStartStopListenerTest_testAsyncStartStopConsumer_1e
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.625
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.5555556
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.SjmsEndpoint		0.46456692
+org.apache.camel.component.sjms.MessageConsumerResources		0.42857143
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.jms.JmsBinding		0.3512748
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.3220339
+org.apache.camel.component.sjms.SjmsConsumer		0.30769232
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.27272728
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.tx.SessionTransactionSynchronization		0.15625
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/AsyncStartStopListenerTest_testAsyncStartStopProducer_2d
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.7058824
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.4814815
+org.apache.camel.component.sjms.SjmsEndpoint		0.42125985
+org.apache.camel.component.sjms.SjmsProducer		0.420765
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.41666666
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsComponent		0.3559322
+org.apache.camel.component.sjms.jms.JmsBinding		0.3512748
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/AsyncStartStopListenerTest_testAsyncStopConsumer_46
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.625
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.5555556
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.SjmsEndpoint		0.46456692
+org.apache.camel.component.sjms.MessageConsumerResources		0.42857143
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.jms.JmsBinding		0.3512748
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.3220339
+org.apache.camel.component.sjms.SjmsConsumer		0.30769232
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.27272728
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.tx.SessionTransactionSynchronization		0.15625
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/AsyncStartStopListenerTest_testAsyncStopProducer_30
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.4814815
+org.apache.camel.component.sjms.SjmsEndpoint		0.4488189
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.41666666
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.jms.JmsBinding		0.3512748
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.3220339
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/CamelJmsTestHelper
+CamelJmsTestHelper		0.41025642
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/JmsSelectorOptionTest
+JmsSelectorOptionTest		0.8648649
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/JmsSelectorOptionTest_testConsumerTemplate_o
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.5681818
+org.apache.camel.component.sjms.SjmsConsumer		0.5314685
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		0.5
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.SjmsEndpoint		0.496063
+org.apache.camel.component.sjms.MessageConsumerResources		0.42857143
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.3220339
+org.apache.camel.component.sjms.jms.JmsBinding		0.23796034
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.20833333
+org.apache.camel.component.sjms.tx.SessionTransactionSynchronization		0.15625
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.11340206
+org.apache.camel.component.sjms.SjmsConsumer.MessageConsumerResourcesFactory		0.10526316
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.074074075
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/JmsSelectorOptionTest_testJmsMessageWithSelector_1z
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.SjmsMessage		0.5405405
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.4814815
+org.apache.camel.component.sjms.SjmsEndpoint		0.44094488
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.41666666
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.JmsBinding		0.37393767
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.3220339
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.22164948
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/JmsSelectorTest
+JmsSelectorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/JmsSelectorTest_testJmsSelector_3m
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.SjmsMessage		0.5405405
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.4814815
+org.apache.camel.component.sjms.jms.JmsBinding		0.45892352
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.41666666
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsEndpoint		0.27559054
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.27319586
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.08988764
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SimpleJmsComponentTest
+SimpleJmsComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SimpleJmsComponentTest_testHelloWorld_3c
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsComponentRestartTest
+SjmsComponentRestartTest		0.6
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsComponentRestartTest_testRestartWithStopStart_4d
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageConsumerResources		0.71428573
+org.apache.camel.component.sjms.SjmsConsumer.MessageConsumerResourcesFactory		0.68421054
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.625
+org.apache.camel.component.sjms.SjmsConsumer		0.62237763
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.60674155
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.5681818
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.5555556
+org.apache.camel.component.sjms.SjmsEndpoint		0.5551181
+org.apache.camel.component.sjms.SjmsComponent		0.5508475
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.54545456
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.jms.JmsBinding		0.3512748
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.tx.SessionTransactionSynchronization		0.15625
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsComponentRestartTest_testRestartWithSuspendResume_1
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageConsumerResources		0.71428573
+org.apache.camel.component.sjms.SjmsConsumer.MessageConsumerResourcesFactory		0.68421054
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.625
+org.apache.camel.component.sjms.SjmsConsumer		0.62237763
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.5681818
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.5555556
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.SjmsEndpoint		0.51968503
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.SjmsComponent		0.4661017
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.jms.JmsBinding		0.3512748
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.tx.SessionTransactionSynchronization		0.15625
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsComponentRestartTest_testRestartWithSuspendResume_2u
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageConsumerResources		0.71428573
+org.apache.camel.component.sjms.SjmsConsumer.MessageConsumerResourcesFactory		0.68421054
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.625
+org.apache.camel.component.sjms.SjmsConsumer		0.62237763
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.5681818
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.5555556
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.SjmsEndpoint		0.51968503
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.SjmsComponent		0.4661017
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.jms.JmsBinding		0.3512748
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.tx.SessionTransactionSynchronization		0.15625
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsComponentRestartTest_testRestartWithSuspendResume_3l
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageConsumerResources		0.71428573
+org.apache.camel.component.sjms.SjmsConsumer.MessageConsumerResourcesFactory		0.68421054
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.625
+org.apache.camel.component.sjms.SjmsConsumer		0.62237763
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.5681818
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.5555556
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.SjmsEndpoint		0.51968503
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.SjmsComponent		0.4661017
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.jms.JmsBinding		0.3512748
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.tx.SessionTransactionSynchronization		0.15625
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsDestinationCreationStrategyTest
+SjmsDestinationCreationStrategyTest		1.0
+SjmsDestinationCreationStrategyTest.TestDestinationCreationStrategyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsDestinationCreationStrategyTest_testSjmsComponentUsesCustomDestinationCreationStrategy_3j
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOutMessageHandler.MessageHandlerAsyncCallback		0.8333333
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.producer.InOutProducer		0.6753247
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.MessageConsumerResources		0.5714286
+org.apache.camel.component.sjms.consumer.InOutMessageHandler		0.55263156
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.54545456
+org.apache.camel.component.sjms.producer.InOutProducer.MessageConsumerResourcesFactory		0.53333336
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.SjmsEndpoint		0.48818898
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.4318182
+org.apache.camel.component.sjms.SjmsProducer		0.420765
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.41666666
+org.apache.camel.component.sjms.SjmsMessage		0.36486486
+org.apache.camel.component.sjms.jms.JmsBinding		0.3371105
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.33050847
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2371134
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsEndpointConnectionSettingsTest
+SjmsEndpointConnectionSettingsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsEndpointConnectionSettingsTest_testConnectionCount_1r
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.SjmsComponent		0.44915253
+org.apache.camel.component.sjms.SjmsEndpoint		0.15354331
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsEndpointConnectionSettingsTest_testConnectionFactory_2f
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.SjmsComponent		0.44915253
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.43820226
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsEndpoint		0.21653543
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsEndpointConnectionSettingsTest_testConnectionResource_y
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.SjmsComponent		0.44915253
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.26966292
+org.apache.camel.component.sjms.SjmsEndpoint		0.11811024
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsEndpointNameOverrideTest
+SjmsEndpointNameOverrideTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsEndpointNameOverrideTest_testDefaults_3k
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.6
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.43820226
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.3220339
+org.apache.camel.component.sjms.SjmsEndpoint		0.20866142
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsEndpointNameOverrideTest_testQueueEndpoint_3n
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.43820226
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.3220339
+org.apache.camel.component.sjms.SjmsEndpoint		0.20866142
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsEndpointNameOverrideTest_testTopicEndpoint_37
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.6
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.43820226
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.3220339
+org.apache.camel.component.sjms.SjmsEndpoint		0.20866142
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsEndpointTest
+SjmsEndpointTest		0.97196263
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsEndpointTest_testAsyncProducer_29
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.43820226
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.3220339
+org.apache.camel.component.sjms.SjmsEndpoint		0.22440945
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsEndpointTest_testDefaultExchangePattern_2v
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.43820226
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.3220339
+org.apache.camel.component.sjms.SjmsEndpoint		0.20866142
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsEndpointTest_testDefaults_c
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.6
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.43820226
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.3220339
+org.apache.camel.component.sjms.SjmsEndpoint		0.20866142
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsEndpointTest_testDestinationName_3q
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.43820226
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.3220339
+org.apache.camel.component.sjms.SjmsEndpoint		0.22440945
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsEndpointTest_testInOnlyExchangePattern_23
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.43820226
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.3220339
+org.apache.camel.component.sjms.SjmsEndpoint		0.20866142
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsEndpointTest_testInOutExchangePattern_3i
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.43820226
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.3220339
+org.apache.camel.component.sjms.SjmsEndpoint		0.20866142
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsEndpointTest_testJndiStyleEndpointName_16
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.6
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.43820226
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.3220339
+org.apache.camel.component.sjms.SjmsEndpoint		0.22440945
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsEndpointTest_testNamedReplyToAndMEPMatch_i
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.43820226
+org.apache.camel.component.sjms.SjmsComponent		0.33898306
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsEndpoint		0.22834645
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsEndpointTest_testNamedReplyToAndMEPMismatch_5
+org.apache.camel.component.sjms.SjmsComponent		0.10169491
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsEndpointTest_testNamedReplyTo_19
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.43820226
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.3220339
+org.apache.camel.component.sjms.SjmsEndpoint		0.22834645
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsEndpointTest_testQueueEndpoint_1a
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.43820226
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.3220339
+org.apache.camel.component.sjms.SjmsEndpoint		0.20866142
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsEndpointTest_testSetTransacted_u
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.43820226
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.33050847
+org.apache.camel.component.sjms.SjmsEndpoint		0.24409449
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsEndpointTest_testTransactedBatchCountDefault_1q
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.43820226
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.33050847
+org.apache.camel.component.sjms.SjmsEndpoint		0.2519685
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsEndpointTest_testTransactedBatchCountModified_3g
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.43820226
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.33050847
+org.apache.camel.component.sjms.SjmsEndpoint		0.25984251
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsEndpointTest_testTransactedBatchTimeoutDefault_21
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.43820226
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.33050847
+org.apache.camel.component.sjms.SjmsEndpoint		0.2519685
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsEndpointTest_testTransactedBatchTimeoutModified_w
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.43820226
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.33050847
+org.apache.camel.component.sjms.SjmsEndpoint		0.26771653
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/SjmsEndpointTest_testUnsupportedMessageExchangePattern_9
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.SjmsComponent		0.18644068
+org.apache.camel.component.sjms.SjmsEndpoint		0.027559055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/batch/SjmsBatchConsumerAsyncStartTest
+SjmsBatchConsumerAsyncStartTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/batch/SjmsBatchConsumerAsyncStartTest_testConsumptionBadSession_40
+testConsumptionBadSession
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.MessageProducerResources		0.8333333
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.7
+org.apache.camel.component.sjms.batch.SjmsBatchEndpoint		0.6967213
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop		0.6097561
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop.BatchConsumptionTask		0.5862069
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.StartConsumerTask		0.55
+org.apache.camel.component.sjms.batch.SjmsBatchComponent		0.53846157
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5263158
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.tx.DefaultTransactionCommitStrategy		0.5
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer		0.47826087
+org.apache.camel.component.sjms.SjmsEndpoint		0.47637796
+org.apache.camel.component.sjms.SjmsProducer		0.44808742
+org.apache.camel.component.sjms.SjmsComponent		0.44067797
+org.apache.camel.component.sjms.tx.SessionTransactionSynchronization		0.40625
+org.apache.camel.component.sjms.jms.JmsBinding		0.40509915
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.batch.SessionCompletion		0.16666667
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/batch/SjmsBatchConsumerAsyncStartTest_testConsumptionCompletionInterval_v
+testConsumptionCompletionInterval
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.MessageProducerResources		0.8333333
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.7
+org.apache.camel.component.sjms.batch.SjmsBatchEndpoint		0.6639344
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.StartConsumerTask		0.65
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop.BatchConsumptionTask		0.5862069
+org.apache.camel.component.sjms.batch.SjmsBatchComponent		0.53846157
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5263158
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.tx.DefaultTransactionCommitStrategy		0.5
+org.apache.camel.component.sjms.batch.SessionCompletion		0.5
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer		0.47826087
+org.apache.camel.component.sjms.SjmsEndpoint		0.47637796
+org.apache.camel.component.sjms.SjmsProducer		0.44808742
+org.apache.camel.component.sjms.SjmsComponent		0.44067797
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop		0.4390244
+org.apache.camel.component.sjms.tx.SessionTransactionSynchronization		0.40625
+org.apache.camel.component.sjms.jms.JmsBinding		0.40509915
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.CompletionIntervalTask		0.2
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/batch/SjmsBatchConsumerAsyncStartTest_testConsumptionCompletionPredicate_2n
+testConsumptionCompletionPredicate
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.MessageProducerResources		0.8333333
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.7
+org.apache.camel.component.sjms.batch.SjmsBatchEndpoint		0.6803279
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop.BatchConsumptionTask		0.59770113
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.StartConsumerTask		0.55
+org.apache.camel.component.sjms.batch.SjmsBatchComponent		0.53846157
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5263158
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.tx.DefaultTransactionCommitStrategy		0.5
+org.apache.camel.component.sjms.batch.SessionCompletion		0.5
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer		0.47826087
+org.apache.camel.component.sjms.SjmsEndpoint		0.47637796
+org.apache.camel.component.sjms.SjmsProducer		0.44808742
+org.apache.camel.component.sjms.SjmsComponent		0.44067797
+org.apache.camel.component.sjms.tx.SessionTransactionSynchronization		0.40625
+org.apache.camel.component.sjms.jms.JmsBinding		0.40509915
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop		0.29268292
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/batch/SjmsBatchConsumerAsyncStartTest_testConsumptionCompletionSize_35
+testConsumptionCompletionSize
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.MessageProducerResources		0.8333333
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.7
+org.apache.camel.component.sjms.batch.SjmsBatchEndpoint		0.6639344
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.StartConsumerTask		0.55
+org.apache.camel.component.sjms.batch.SjmsBatchComponent		0.53846157
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop.BatchConsumptionTask		0.52873564
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5263158
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.tx.DefaultTransactionCommitStrategy		0.5
+org.apache.camel.component.sjms.batch.SessionCompletion		0.5
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer		0.47826087
+org.apache.camel.component.sjms.SjmsEndpoint		0.47637796
+org.apache.camel.component.sjms.SjmsProducer		0.44808742
+org.apache.camel.component.sjms.SjmsComponent		0.44067797
+org.apache.camel.component.sjms.tx.SessionTransactionSynchronization		0.40625
+org.apache.camel.component.sjms.jms.JmsBinding		0.40509915
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop		0.29268292
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/batch/SjmsBatchConsumerAsyncStartTest_testConsumptionCompletionTimeout_m
+testConsumptionCompletionTimeout
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.MessageProducerResources		0.8333333
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.7
+org.apache.camel.component.sjms.batch.SjmsBatchEndpoint		0.6639344
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop.BatchConsumptionTask		0.5862069
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.StartConsumerTask		0.55
+org.apache.camel.component.sjms.batch.SjmsBatchComponent		0.53846157
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5263158
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.tx.DefaultTransactionCommitStrategy		0.5
+org.apache.camel.component.sjms.batch.SessionCompletion		0.5
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer		0.47826087
+org.apache.camel.component.sjms.SjmsEndpoint		0.47637796
+org.apache.camel.component.sjms.SjmsProducer		0.44808742
+org.apache.camel.component.sjms.SjmsComponent		0.44067797
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop		0.4390244
+org.apache.camel.component.sjms.tx.SessionTransactionSynchronization		0.40625
+org.apache.camel.component.sjms.jms.JmsBinding		0.40509915
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/batch/SjmsBatchConsumerAsyncStartTest_testConsumptionMultipleConsumerEndpoints_13
+testConsumptionMultipleConsumerEndpoints
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.batch.SjmsBatchEndpoint		0.6639344
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop.BatchConsumptionTask		0.62068963
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.6
+org.apache.camel.component.sjms.batch.SjmsBatchComponent		0.5641026
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.StartConsumerTask		0.55
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.batch.SessionCompletion		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer		0.47826087
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop		0.4390244
+org.apache.camel.component.sjms.SjmsComponent		0.43220338
+org.apache.camel.component.sjms.SjmsEndpoint		0.42519686
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.jms.JmsBinding		0.3512748
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/batch/SjmsBatchConsumerAsyncStartTest_testConsumptionRollback_24
+testConsumptionRollback
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.MessageProducerResources		0.8333333
+org.apache.camel.component.sjms.batch.SessionCompletion		0.8333333
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.7
+org.apache.camel.component.sjms.batch.SjmsBatchEndpoint		0.6639344
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop.BatchConsumptionTask		0.6091954
+org.apache.camel.component.sjms.SjmsMessage		0.5608108
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.StartConsumerTask		0.55
+org.apache.camel.component.sjms.batch.SjmsBatchComponent		0.53846157
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5263158
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.tx.DefaultTransactionCommitStrategy		0.5
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer		0.47826087
+org.apache.camel.component.sjms.SjmsEndpoint		0.47637796
+org.apache.camel.component.sjms.SjmsProducer		0.44808742
+org.apache.camel.component.sjms.SjmsComponent		0.44067797
+org.apache.camel.component.sjms.tx.SessionTransactionSynchronization		0.40625
+org.apache.camel.component.sjms.jms.JmsBinding		0.40509915
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop		0.29268292
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/batch/SjmsBatchConsumerAsyncStartTest_testConsumptionSendEmptyMessageWhenIdle_4c
+testConsumptionSendEmptyMessageWhenIdle
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.MessageProducerResources		0.8333333
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop.BatchConsumptionTask		0.7011494
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.7
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.CompletionIntervalTask		0.7
+org.apache.camel.component.sjms.batch.SjmsBatchEndpoint		0.6803279
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.StartConsumerTask		0.65
+org.apache.camel.component.sjms.batch.SjmsBatchComponent		0.53846157
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5263158
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop		0.5243902
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.tx.DefaultTransactionCommitStrategy		0.5
+org.apache.camel.component.sjms.batch.SessionCompletion		0.5
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer		0.47826087
+org.apache.camel.component.sjms.SjmsEndpoint		0.47637796
+org.apache.camel.component.sjms.SjmsProducer		0.44808742
+org.apache.camel.component.sjms.SjmsComponent		0.44067797
+org.apache.camel.component.sjms.tx.SessionTransactionSynchronization		0.40625
+org.apache.camel.component.sjms.jms.JmsBinding		0.40509915
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/batch/SjmsBatchConsumerAsyncStartTest_testConsumption_7
+testConsumption
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.MessageProducerResources		0.8333333
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.7
+org.apache.camel.component.sjms.batch.SjmsBatchEndpoint		0.6803279
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop.BatchConsumptionTask		0.62068963
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.StartConsumerTask		0.55
+org.apache.camel.component.sjms.batch.SjmsBatchComponent		0.53846157
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5263158
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.tx.DefaultTransactionCommitStrategy		0.5
+org.apache.camel.component.sjms.batch.SessionCompletion		0.5
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer		0.47826087
+org.apache.camel.component.sjms.SjmsEndpoint		0.47637796
+org.apache.camel.component.sjms.SjmsProducer		0.44808742
+org.apache.camel.component.sjms.SjmsComponent		0.44067797
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop		0.4390244
+org.apache.camel.component.sjms.tx.SessionTransactionSynchronization		0.40625
+org.apache.camel.component.sjms.jms.JmsBinding		0.40509915
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/batch/SjmsBatchConsumerTest
+SjmsBatchConsumerTest		1.0
+SjmsBatchConsumerTest.TransactedSendHarness		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/batch/SjmsBatchConsumerTest_testConsumptionBadSession_3t
+testConsumptionBadSession
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.MessageProducerResources		0.8333333
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.7
+org.apache.camel.component.sjms.batch.SjmsBatchEndpoint		0.6967213
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop.BatchConsumptionTask		0.57471263
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.StartConsumerTask		0.55
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5263158
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.tx.DefaultTransactionCommitStrategy		0.5
+org.apache.camel.component.sjms.batch.SessionCompletion		0.5
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer		0.47826087
+org.apache.camel.component.sjms.SjmsEndpoint		0.47637796
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop		0.4512195
+org.apache.camel.component.sjms.SjmsProducer		0.44808742
+org.apache.camel.component.sjms.SjmsComponent		0.44067797
+org.apache.camel.component.sjms.batch.SjmsBatchComponent		0.41025642
+org.apache.camel.component.sjms.tx.SessionTransactionSynchronization		0.40625
+org.apache.camel.component.sjms.jms.JmsBinding		0.40509915
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/batch/SjmsBatchConsumerTest_testConsumptionCompletionInterval_4g
+testConsumptionCompletionInterval
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.MessageProducerResources		0.8333333
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.7
+org.apache.camel.component.sjms.batch.SjmsBatchEndpoint		0.6639344
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.StartConsumerTask		0.65
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop.BatchConsumptionTask		0.5862069
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5263158
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.tx.DefaultTransactionCommitStrategy		0.5
+org.apache.camel.component.sjms.batch.SessionCompletion		0.5
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer		0.47826087
+org.apache.camel.component.sjms.SjmsEndpoint		0.47637796
+org.apache.camel.component.sjms.SjmsProducer		0.44808742
+org.apache.camel.component.sjms.SjmsComponent		0.44067797
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop		0.4390244
+org.apache.camel.component.sjms.batch.SjmsBatchComponent		0.41025642
+org.apache.camel.component.sjms.tx.SessionTransactionSynchronization		0.40625
+org.apache.camel.component.sjms.jms.JmsBinding		0.40509915
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.CompletionIntervalTask		0.2
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/batch/SjmsBatchConsumerTest_testConsumptionCompletionPredicate_3y
+testConsumptionCompletionPredicate
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.MessageProducerResources		0.8333333
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.7
+org.apache.camel.component.sjms.batch.SjmsBatchEndpoint		0.6803279
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop.BatchConsumptionTask		0.59770113
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.StartConsumerTask		0.55
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5263158
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.tx.DefaultTransactionCommitStrategy		0.5
+org.apache.camel.component.sjms.batch.SessionCompletion		0.5
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer		0.47826087
+org.apache.camel.component.sjms.SjmsEndpoint		0.47637796
+org.apache.camel.component.sjms.SjmsProducer		0.44808742
+org.apache.camel.component.sjms.SjmsComponent		0.44067797
+org.apache.camel.component.sjms.batch.SjmsBatchComponent		0.41025642
+org.apache.camel.component.sjms.tx.SessionTransactionSynchronization		0.40625
+org.apache.camel.component.sjms.jms.JmsBinding		0.40509915
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop		0.29268292
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/batch/SjmsBatchConsumerTest_testConsumptionCompletionSize_12
+testConsumptionCompletionSize
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.MessageProducerResources		0.8333333
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.7
+org.apache.camel.component.sjms.batch.SjmsBatchEndpoint		0.6639344
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.StartConsumerTask		0.55
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop.BatchConsumptionTask		0.52873564
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5263158
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.tx.DefaultTransactionCommitStrategy		0.5
+org.apache.camel.component.sjms.batch.SessionCompletion		0.5
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer		0.47826087
+org.apache.camel.component.sjms.SjmsEndpoint		0.47637796
+org.apache.camel.component.sjms.SjmsProducer		0.44808742
+org.apache.camel.component.sjms.SjmsComponent		0.44067797
+org.apache.camel.component.sjms.batch.SjmsBatchComponent		0.41025642
+org.apache.camel.component.sjms.tx.SessionTransactionSynchronization		0.40625
+org.apache.camel.component.sjms.jms.JmsBinding		0.40509915
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop		0.29268292
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/batch/SjmsBatchConsumerTest_testConsumptionCompletionTimeout_6
+testConsumptionCompletionTimeout
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.MessageProducerResources		0.8333333
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.7
+org.apache.camel.component.sjms.batch.SjmsBatchEndpoint		0.6639344
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop.BatchConsumptionTask		0.5862069
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.StartConsumerTask		0.55
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5263158
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.tx.DefaultTransactionCommitStrategy		0.5
+org.apache.camel.component.sjms.batch.SessionCompletion		0.5
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer		0.47826087
+org.apache.camel.component.sjms.SjmsEndpoint		0.47637796
+org.apache.camel.component.sjms.SjmsProducer		0.44808742
+org.apache.camel.component.sjms.SjmsComponent		0.44067797
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop		0.4390244
+org.apache.camel.component.sjms.batch.SjmsBatchComponent		0.41025642
+org.apache.camel.component.sjms.tx.SessionTransactionSynchronization		0.40625
+org.apache.camel.component.sjms.jms.JmsBinding		0.40509915
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/batch/SjmsBatchConsumerTest_testConsumptionMultipleConsumerEndpoints_1b
+testConsumptionMultipleConsumerEndpoints
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.batch.SjmsBatchEndpoint		0.6639344
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop.BatchConsumptionTask		0.62068963
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.6
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.StartConsumerTask		0.55
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.batch.SessionCompletion		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer		0.47826087
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop		0.4390244
+org.apache.camel.component.sjms.SjmsComponent		0.43220338
+org.apache.camel.component.sjms.SjmsEndpoint		0.42519686
+org.apache.camel.component.sjms.batch.SjmsBatchComponent		0.41025642
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.jms.JmsBinding		0.3512748
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/batch/SjmsBatchConsumerTest_testConsumptionRollback_d
+testConsumptionRollback
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.MessageProducerResources		0.8333333
+org.apache.camel.component.sjms.batch.SessionCompletion		0.8333333
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.7
+org.apache.camel.component.sjms.batch.SjmsBatchEndpoint		0.6639344
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop.BatchConsumptionTask		0.6091954
+org.apache.camel.component.sjms.SjmsMessage		0.5608108
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.StartConsumerTask		0.55
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5263158
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.tx.DefaultTransactionCommitStrategy		0.5
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer		0.47826087
+org.apache.camel.component.sjms.SjmsEndpoint		0.47637796
+org.apache.camel.component.sjms.SjmsProducer		0.44808742
+org.apache.camel.component.sjms.SjmsComponent		0.44067797
+org.apache.camel.component.sjms.batch.SjmsBatchComponent		0.41025642
+org.apache.camel.component.sjms.tx.SessionTransactionSynchronization		0.40625
+org.apache.camel.component.sjms.jms.JmsBinding		0.40509915
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop		0.29268292
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/batch/SjmsBatchConsumerTest_testConsumptionSendEmptyMessageWhenIdle_2o
+testConsumptionSendEmptyMessageWhenIdle
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.MessageProducerResources		0.8333333
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop.BatchConsumptionTask		0.7011494
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.7
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.CompletionIntervalTask		0.7
+org.apache.camel.component.sjms.batch.SjmsBatchEndpoint		0.6803279
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.StartConsumerTask		0.65
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5263158
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop		0.5243902
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.tx.DefaultTransactionCommitStrategy		0.5
+org.apache.camel.component.sjms.batch.SessionCompletion		0.5
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer		0.47826087
+org.apache.camel.component.sjms.SjmsEndpoint		0.47637796
+org.apache.camel.component.sjms.SjmsProducer		0.44808742
+org.apache.camel.component.sjms.SjmsComponent		0.44067797
+org.apache.camel.component.sjms.batch.SjmsBatchComponent		0.41025642
+org.apache.camel.component.sjms.tx.SessionTransactionSynchronization		0.40625
+org.apache.camel.component.sjms.jms.JmsBinding		0.40509915
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/batch/SjmsBatchConsumerTest_testConsumption_27
+testConsumption
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.MessageProducerResources		0.8333333
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.7
+org.apache.camel.component.sjms.batch.SjmsBatchEndpoint		0.6803279
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop.BatchConsumptionTask		0.62068963
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.StartConsumerTask		0.55
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5263158
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.tx.DefaultTransactionCommitStrategy		0.5
+org.apache.camel.component.sjms.batch.SessionCompletion		0.5
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer		0.47826087
+org.apache.camel.component.sjms.SjmsEndpoint		0.47637796
+org.apache.camel.component.sjms.SjmsProducer		0.44808742
+org.apache.camel.component.sjms.SjmsComponent		0.44067797
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer.BatchConsumptionLoop		0.4390244
+org.apache.camel.component.sjms.batch.SjmsBatchComponent		0.41025642
+org.apache.camel.component.sjms.tx.SessionTransactionSynchronization		0.40625
+org.apache.camel.component.sjms.jms.JmsBinding		0.40509915
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/batch/SjmsBatchEndpointTest
+SjmsBatchEndpointTest		0.97619045
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/batch/SjmsBatchEndpointTest_testConsumerNegativeConsumerCount_2a
+testConsumerNegativeConsumerCount
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.6
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.54545456
+org.apache.camel.component.sjms.batch.SjmsBatchComponent		0.51282054
+org.apache.camel.component.sjms.SjmsComponent		0.33050847
+org.apache.camel.component.sjms.batch.SjmsBatchEndpoint		0.3114754
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer		0.3043478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/batch/SjmsBatchEndpointTest_testConsumerNegativePollDuration_2h
+testConsumerNegativePollDuration
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.6
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.54545456
+org.apache.camel.component.sjms.batch.SjmsBatchComponent		0.51282054
+org.apache.camel.component.sjms.SjmsComponent		0.33050847
+org.apache.camel.component.sjms.batch.SjmsBatchEndpoint		0.27868852
+org.apache.camel.component.sjms.batch.SjmsBatchConsumer		0.24637681
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/batch/SjmsBatchEndpointTest_testConsumerTopic_2t
+testConsumerTopic
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.54545456
+org.apache.camel.component.sjms.batch.SjmsBatchComponent		0.41025642
+org.apache.camel.component.sjms.SjmsComponent		0.33050847
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.2
+org.apache.camel.component.sjms.batch.SjmsBatchEndpoint		0.04918033
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/batch/SjmsBatchEndpointTest_testProducerFailure_17
+testProducerFailure
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.6
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.54545456
+org.apache.camel.component.sjms.batch.SjmsBatchComponent		0.4871795
+org.apache.camel.component.sjms.SjmsComponent		0.33050847
+org.apache.camel.component.sjms.batch.SjmsBatchEndpoint		0.08196721
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/batch/test-SjmsBatchConsumerAsyncStartTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/batch/test-SjmsBatchConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/batch/test-SjmsBatchConsumerTest_TransactedSendHarness
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/batch/test-SjmsBatchEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/bugfixes/CAMEL6820Test
+CAMEL6820Test		0.95
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/bugfixes/CAMEL6820Test_testCamelGenericFileConverterMessage_j
+testCamelGenericFileConverterMessage
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.44444445
+org.apache.camel.component.sjms.jms.JmsBinding		0.4362606
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.34210527
+org.apache.camel.component.sjms.MessageProducerResources		0.33333334
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		0.33333334
+org.apache.camel.component.sjms.SjmsMessage		0.31756756
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.30555555
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.23195876
+org.apache.camel.component.sjms.SjmsProducer		0.15846995
+org.apache.camel.component.sjms.SjmsEndpoint		0.13385826
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/bugfixes/test-CAMEL6820Test
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/AsyncConsumerFalseTest
+AsyncConsumerFalseTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/AsyncConsumerFalseTest_testAsyncJmsConsumer_10
+testAsyncJmsConsumer
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.SjmsMessage		0.5945946
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.4814815
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.41666666
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.jms.JmsBinding		0.3512748
+org.apache.camel.component.sjms.SjmsEndpoint		0.27559054
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.08988764
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/AsyncConsumerInOutTest
+AsyncConsumerInOutTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/AsyncConsumerInOutTest_testAsyncJmsConsumer_31
+testAsyncJmsConsumer
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.consumer.InOutMessageHandler.MessageHandlerAsyncCallback		0.8333333
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.SjmsMessage		0.5608108
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.consumer.InOutMessageHandler		0.5
+org.apache.camel.component.sjms.jms.JmsBinding		0.47308782
+org.apache.camel.component.sjms.SjmsProducer		0.46994534
+org.apache.camel.component.sjms.SjmsEndpoint		0.4488189
+org.apache.camel.component.sjms.producer.InOutProducer		0.4025974
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.375
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.37037036
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.3220339
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.3041237
+org.apache.camel.component.sjms.MessageConsumerResources		0.2857143
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.producer.InOutProducer.MessageConsumerResourcesFactory		0.13333334
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/EmptyMessageBodyTest
+EmptyMessageBodyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/EmptyMessageBodyTest_testSynchronous_t
+testSynchronous
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.6
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.57894737
+org.apache.camel.component.sjms.SjmsMessage		0.5540541
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.4814815
+org.apache.camel.component.sjms.SjmsEndpoint		0.44094488
+org.apache.camel.component.sjms.jms.JmsBinding		0.4220963
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.41666666
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.3220339
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/InOnlyConsumerAsyncFalseTest
+InOnlyConsumerAsyncFalseTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/InOnlyConsumerAsyncFalseTest_testInOnlyConsumerAsyncTrue_2p
+testInOnlyConsumerAsyncTrue
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.4814815
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.41666666
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.jms.JmsBinding		0.3512748
+org.apache.camel.component.sjms.SjmsEndpoint		0.27559054
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.08988764
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/InOnlyConsumerAsyncTrueTest
+InOnlyConsumerAsyncTrueTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/InOnlyConsumerAsyncTrueTest_testInOnlyConsumerAsyncTrue_4f
+testInOnlyConsumerAsyncTrue
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.SjmsEndpoint		0.44094488
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.375
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.37037036
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.jms.JmsBinding		0.3512748
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.3220339
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/InOnlyConsumerDefaultTest
+InOnlyConsumerDefaultTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/InOnlyConsumerDefaultTest_testSynchronous_3e
+testSynchronous
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.44444445
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.jms.JmsBinding		0.3512748
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		0.33333334
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.30555555
+org.apache.camel.component.sjms.SjmsEndpoint		0.27559054
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.08988764
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/InOnlyConsumerQueueTest
+InOnlyConsumerQueueTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/InOnlyConsumerQueueTest_testSynchronous_4a
+testSynchronous
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.44444445
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.jms.JmsBinding		0.3512748
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		0.33333334
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.30555555
+org.apache.camel.component.sjms.SjmsEndpoint		0.27559054
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.08988764
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/InOnlyConsumerTempQueueTest
+InOnlyConsumerTempQueueTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/InOnlyConsumerTempQueueTest_testSynchronous_3
+testSynchronous
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.44444445
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.jms.JmsBinding		0.3512748
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		0.33333334
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.30555555
+org.apache.camel.component.sjms.SjmsEndpoint		0.27559054
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.08988764
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/InOnlyConsumerTopicTest
+InOnlyConsumerTopicTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/InOnlyConsumerTopicTest_testSynchronous_1y
+testSynchronous
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.4814815
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.41666666
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.jms.JmsBinding		0.3512748
+org.apache.camel.component.sjms.SjmsEndpoint		0.27559054
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.08988764
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/InOnlyQueueConsumerTest
+InOnlyQueueConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/InOnlyQueueConsumerTest_testInOnlyQueueProducer_f
+testInOnlyQueueProducer
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.44444445
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.jms.JmsBinding		0.3512748
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		0.33333334
+org.apache.camel.component.sjms.SjmsMessage		0.31756756
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.30555555
+org.apache.camel.component.sjms.SjmsEndpoint		0.27559054
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.08988764
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/InOnlyTopicConsumerTest
+InOnlyTopicConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/InOnlyTopicConsumerTest_testSynchronous_2i
+testSynchronous
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.44444445
+org.apache.camel.component.sjms.jms.JmsBinding		0.3512748
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.34210527
+org.apache.camel.component.sjms.MessageProducerResources		0.33333334
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		0.33333334
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.30555555
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer		0.15846995
+org.apache.camel.component.sjms.SjmsEndpoint		0.13385826
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/InOnlyTopicDurableConsumerTest
+InOnlyTopicDurableConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/InOnlyTopicDurableConsumerTest_testDurableTopic_z
+testDurableTopic
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.6
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.4814815
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.41666666
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.jms.JmsBinding		0.3512748
+org.apache.camel.component.sjms.SjmsEndpoint		0.33464566
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsComponent		0.20338982
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.123595506
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/InOutConcurrentConsumerTest
+InOutConcurrentConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/InOutConcurrentConsumerTest_testConcurrent_3b
+testConcurrent
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOutMessageHandler.MessageHandlerAsyncCallback		0.8333333
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.SjmsMessage		0.6486486
+org.apache.camel.component.sjms.consumer.InOutMessageHandler		0.59210527
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.41666666
+org.apache.camel.component.sjms.producer.InOutProducer		0.4025974
+org.apache.camel.component.sjms.jms.JmsBinding		0.3371105
+org.apache.camel.component.sjms.MessageProducerResources		0.33333334
+org.apache.camel.component.sjms.MessageConsumerResources		0.2857143
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2371134
+org.apache.camel.component.sjms.SjmsProducer		0.1693989
+org.apache.camel.component.sjms.SjmsEndpoint		0.14173229
+org.apache.camel.component.sjms.producer.InOutProducer.MessageConsumerResourcesFactory		0.13333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/InOutConsumerQueueAsyncTest
+InOutConsumerQueueAsyncTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/InOutConsumerQueueAsyncTest_testAynchronous_15
+testAynchronous
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.consumer.InOutMessageHandler.MessageHandlerAsyncCallback		0.8333333
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.6
+org.apache.camel.component.sjms.consumer.InOutMessageHandler		0.56578946
+org.apache.camel.component.sjms.SjmsMessage		0.5405405
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.jms.JmsBinding		0.47308782
+org.apache.camel.component.sjms.SjmsProducer		0.46994534
+org.apache.camel.component.sjms.SjmsEndpoint		0.4488189
+org.apache.camel.component.sjms.producer.InOutProducer		0.4025974
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.375
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.37037036
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.3220339
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.3041237
+org.apache.camel.component.sjms.MessageConsumerResources		0.2857143
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.producer.InOutProducer.MessageConsumerResourcesFactory		0.13333334
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/InOutConsumerQueueTest
+InOutConsumerQueueTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/InOutConsumerQueueTest_testSynchronous_3p
+testSynchronous
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.consumer.InOutMessageHandler.MessageHandlerAsyncCallback		0.8333333
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.6
+org.apache.camel.component.sjms.consumer.InOutMessageHandler		0.59210527
+org.apache.camel.component.sjms.SjmsMessage		0.5405405
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.4814815
+org.apache.camel.component.sjms.jms.JmsBinding		0.47308782
+org.apache.camel.component.sjms.SjmsEndpoint		0.4488189
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.41666666
+org.apache.camel.component.sjms.SjmsProducer		0.40983605
+org.apache.camel.component.sjms.producer.InOutProducer		0.4025974
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.3220339
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.3041237
+org.apache.camel.component.sjms.MessageConsumerResources		0.2857143
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.producer.InOutProducer.MessageConsumerResourcesFactory		0.13333334
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/InOutConsumerTempQueueAsyncTest
+InOutConsumerTempQueueAsyncTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/InOutConsumerTempQueueAsyncTest_testAynchronous_r
+testAynchronous
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.consumer.InOutMessageHandler.MessageHandlerAsyncCallback		0.8333333
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.6
+org.apache.camel.component.sjms.consumer.InOutMessageHandler		0.56578946
+org.apache.camel.component.sjms.SjmsMessage		0.5405405
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.jms.JmsBinding		0.47308782
+org.apache.camel.component.sjms.SjmsProducer		0.46994534
+org.apache.camel.component.sjms.SjmsEndpoint		0.4488189
+org.apache.camel.component.sjms.producer.InOutProducer		0.4025974
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.375
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.37037036
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.3220339
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.3041237
+org.apache.camel.component.sjms.MessageConsumerResources		0.2857143
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.producer.InOutProducer.MessageConsumerResourcesFactory		0.13333334
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/InOutConsumerTempQueueTest
+InOutConsumerTempQueueTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/InOutConsumerTempQueueTest_testSynchronous_1d
+testSynchronous
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.consumer.InOutMessageHandler.MessageHandlerAsyncCallback		0.8333333
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.6
+org.apache.camel.component.sjms.consumer.InOutMessageHandler		0.59210527
+org.apache.camel.component.sjms.SjmsMessage		0.5405405
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.4814815
+org.apache.camel.component.sjms.jms.JmsBinding		0.47308782
+org.apache.camel.component.sjms.SjmsEndpoint		0.4488189
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.41666666
+org.apache.camel.component.sjms.SjmsProducer		0.40983605
+org.apache.camel.component.sjms.producer.InOutProducer		0.4025974
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.3220339
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.3041237
+org.apache.camel.component.sjms.MessageConsumerResources		0.2857143
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.producer.InOutProducer.MessageConsumerResourcesFactory		0.13333334
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/InOutConsumerTopicTest
+InOutConsumerTopicTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/InOutConsumerTopicTest_testSynchronous_3s
+testSynchronous
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.consumer.InOutMessageHandler.MessageHandlerAsyncCallback		0.8333333
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.consumer.InOutMessageHandler		0.6184211
+org.apache.camel.component.sjms.SjmsMessage		0.5405405
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.4814815
+org.apache.camel.component.sjms.jms.JmsBinding		0.47308782
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.41666666
+org.apache.camel.component.sjms.SjmsProducer		0.40983605
+org.apache.camel.component.sjms.producer.InOutProducer		0.4025974
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.3041237
+org.apache.camel.component.sjms.MessageConsumerResources		0.2857143
+org.apache.camel.component.sjms.SjmsEndpoint		0.28346458
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.producer.InOutProducer.MessageConsumerResourcesFactory		0.13333334
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.08988764
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/InOutSynchronousConsumerTest
+InOutSynchronousConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/InOutSynchronousConsumerTest_testSynchronous_1f
+testSynchronous
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOutMessageHandler.MessageHandlerAsyncCallback		0.8333333
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.SjmsMessage		0.6283784
+org.apache.camel.component.sjms.consumer.InOutMessageHandler		0.55263156
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.41666666
+org.apache.camel.component.sjms.producer.InOutProducer		0.4025974
+org.apache.camel.component.sjms.jms.JmsBinding		0.3371105
+org.apache.camel.component.sjms.MessageProducerResources		0.33333334
+org.apache.camel.component.sjms.MessageConsumerResources		0.2857143
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2371134
+org.apache.camel.component.sjms.SjmsProducer		0.1693989
+org.apache.camel.component.sjms.SjmsEndpoint		0.14173229
+org.apache.camel.component.sjms.producer.InOutProducer.MessageConsumerResourcesFactory		0.13333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/test-AsyncConsumerFalseTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/test-AsyncConsumerInOutTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/test-EmptyMessageBodyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/test-InOnlyConsumerAsyncFalseTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/test-InOnlyConsumerAsyncTrueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/test-InOnlyConsumerDefaultTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/test-InOnlyConsumerQueueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/test-InOnlyConsumerTempQueueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/test-InOnlyConsumerTopicTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/test-InOnlyQueueConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/test-InOnlyTopicConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/test-InOnlyTopicDurableConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/test-InOutConcurrentConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/test-InOutConsumerQueueAsyncTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/test-InOutConsumerQueueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/test-InOutConsumerTempQueueAsyncTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/test-InOutConsumerTempQueueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/test-InOutConsumerTopicTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/consumer/test-InOutSynchronousConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/jms/ConnectionFactoryResourceTest
+ConnectionFactoryResourceTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/jms/ConnectionFactoryResourceTest_testBorrowObject_4
+testBorrowObject
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.56179774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/jms/ConnectionFactoryResourceTest_testCreateObject_2w
+testCreateObject
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5730337
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/jms/ConnectionFactoryResourceTest_testDestroyObject_2y
+testDestroyObject
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5955056
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/jms/ConnectionFactoryResourceTest_testReturnObject_3r
+testReturnObject
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.60674155
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/jms/ConnectionFactoryResourceTest_testRoundRobbin_3x
+testRoundRobbin
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.66292137
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/jms/DefaultDestinationCreationStrategyTest
+DefaultDestinationCreationStrategyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/jms/DefaultDestinationCreationStrategyTest_testQueueCreation_2g
+testQueueCreation
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.45454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/jms/DefaultDestinationCreationStrategyTest_testTemporaryQueueCreation_1l
+testTemporaryQueueCreation
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.18181819
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/jms/DefaultDestinationCreationStrategyTest_testTemporaryTopicCreation_n
+testTemporaryTopicCreation
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.18181819
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/jms/DefaultDestinationCreationStrategyTest_testTopicCreation_4b
+testTopicCreation
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.45454547
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/jms/DestinationNameParserTest
+DestinationNameParserTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/jms/DestinationNameParserTest_testGetShortNameNullDestinationName_1w
+testGetShortNameNullDestinationName
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/jms/DestinationNameParserTest_testGetShortName_b
+testGetShortName
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.6
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/jms/DestinationNameParserTest_testIsTopicNullDestinationName_a
+testIsTopicNullDestinationName
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/jms/DestinationNameParserTest_testIsTopic_26
+testIsTopic
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/jms/test-ConnectionFactoryResourceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/jms/test-DefaultDestinationCreationStrategyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/jms/test-DestinationNameParserTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/manual/ManualBatchFromQueueTest
+ManualBatchFromQueueTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/manual/ManualFromQueueTest
+ManualFromQueueTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/manual/test-ManualBatchFromQueueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/manual/test-ManualFromQueueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/AsyncQueueProducerTest
+AsyncQueueProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/AsyncQueueProducerTest_testAsyncJmsProducerEndpoint_33
+testAsyncJmsProducerEndpoint
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.375
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.37037036
+org.apache.camel.component.sjms.jms.JmsBinding		0.3512748
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.34210527
+org.apache.camel.component.sjms.MessageProducerResources		0.33333334
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer		0.19672132
+org.apache.camel.component.sjms.SjmsEndpoint		0.13385826
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/AsyncTopicProducerTest
+AsyncTopicProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/AsyncTopicProducerTest_testAsyncTopicProducer_1m
+testAsyncTopicProducer
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.4814815
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.41666666
+org.apache.camel.component.sjms.jms.JmsBinding		0.3512748
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.34210527
+org.apache.camel.component.sjms.MessageProducerResources		0.33333334
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer		0.19672132
+org.apache.camel.component.sjms.SjmsEndpoint		0.12992126
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/InOnlyQueueProducerTest
+InOnlyQueueProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/InOnlyQueueProducerTest_testInOnlyQueueProducer_1c
+testInOnlyQueueProducer
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		0.5
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.34210527
+org.apache.camel.component.sjms.MessageProducerResources		0.33333334
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.22727273
+org.apache.camel.component.sjms.jms.JmsBinding		0.21529745
+org.apache.camel.component.sjms.SjmsProducer		0.15846995
+org.apache.camel.component.sjms.SjmsEndpoint		0.114173226
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.10309278
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/InOnlyTopicProducerTest
+InOnlyTopicProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/InOnlyTopicProducerTest_testInOnlyTopicProducerProducer_49
+testInOnlyTopicProducerProducer
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		0.5
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.34210527
+org.apache.camel.component.sjms.MessageProducerResources		0.33333334
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.27272728
+org.apache.camel.component.sjms.jms.JmsBinding		0.21529745
+org.apache.camel.component.sjms.SjmsProducer		0.15846995
+org.apache.camel.component.sjms.SjmsEndpoint		0.114173226
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.10309278
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/InOutQueueProducerAsyncLoadTest
+InOutQueueProducerAsyncLoadTest		0.9347826
+InOutQueueProducerAsyncLoadTest.MyMessageListener		0.93333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/InOutQueueProducerAsyncLoadTest_testInOutQueueProducer_34
+testInOutQueueProducer
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.SjmsMessage		0.5472973
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		0.5
+org.apache.camel.component.sjms.producer.InOutProducer		0.4025974
+org.apache.camel.component.sjms.MessageProducerResources		0.33333334
+org.apache.camel.component.sjms.jms.JmsBinding		0.31444758
+org.apache.camel.component.sjms.MessageConsumerResources		0.2857143
+org.apache.camel.component.sjms.SjmsProducer		0.20765027
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.19587629
+org.apache.camel.component.sjms.producer.InOutProducer.MessageConsumerResourcesFactory		0.13333334
+org.apache.camel.component.sjms.SjmsEndpoint		0.12992126
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/InOutQueueProducerSyncLoadTest
+InOutQueueProducerSyncLoadTest		0.95454544
+InOutQueueProducerSyncLoadTest.MyMessageListener		0.93333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/InOutQueueProducerSyncLoadTest_testInOutQueueProducer_2q
+testInOutQueueProducer
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.SjmsMessage		0.5472973
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		0.5
+org.apache.camel.component.sjms.producer.InOutProducer		0.4025974
+org.apache.camel.component.sjms.MessageProducerResources		0.33333334
+org.apache.camel.component.sjms.jms.JmsBinding		0.31444758
+org.apache.camel.component.sjms.MessageConsumerResources		0.2857143
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.19587629
+org.apache.camel.component.sjms.SjmsProducer		0.1693989
+org.apache.camel.component.sjms.producer.InOutProducer.MessageConsumerResourcesFactory		0.13333334
+org.apache.camel.component.sjms.SjmsEndpoint		0.12992126
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/InOutQueueProducerTest
+InOutQueueProducerTest		1.0
+InOutQueueProducerTest.MyMessageListener		0.9375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/InOutQueueProducerTest_testInOutQueueProducerWithCorrelationId_3z
+testInOutQueueProducerWithCorrelationId
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.SjmsMessage		0.4864865
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.producer.InOutProducer		0.36363637
+org.apache.camel.component.sjms.MessageProducerResources		0.33333334
+org.apache.camel.component.sjms.jms.JmsBinding		0.31161472
+org.apache.camel.component.sjms.MessageConsumerResources		0.2857143
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.22727273
+org.apache.camel.component.sjms.SjmsProducer		0.1693989
+org.apache.camel.component.sjms.producer.InOutProducer.MessageConsumerResourcesFactory		0.13333334
+org.apache.camel.component.sjms.SjmsEndpoint		0.12598425
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.0927835
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/InOutQueueProducerTest_testInOutQueueProducer_h
+testInOutQueueProducer
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		0.5
+org.apache.camel.component.sjms.SjmsMessage		0.43243244
+org.apache.camel.component.sjms.producer.InOutProducer		0.4025974
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.MessageProducerResources		0.33333334
+org.apache.camel.component.sjms.jms.JmsBinding		0.31444758
+org.apache.camel.component.sjms.MessageConsumerResources		0.2857143
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.22727273
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.19587629
+org.apache.camel.component.sjms.SjmsProducer		0.1693989
+org.apache.camel.component.sjms.producer.InOutProducer.MessageConsumerResourcesFactory		0.13333334
+org.apache.camel.component.sjms.SjmsEndpoint		0.12598425
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/InOutTempQueueProducerTest
+InOutTempQueueProducerTest		1.0
+InOutTempQueueProducerTest.MyMessageListener		0.9375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/InOutTempQueueProducerTest_testInOutQueueProducerWithCorrelationId_1v
+testInOutQueueProducerWithCorrelationId
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.producer.InOutProducer		0.6363636
+org.apache.camel.component.sjms.MessageConsumerResources		0.5714286
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.54545456
+org.apache.camel.component.sjms.producer.InOutProducer.MessageConsumerResourcesFactory		0.53333336
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		0.5
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.47727272
+org.apache.camel.component.sjms.SjmsProducer		0.46448088
+org.apache.camel.component.sjms.SjmsEndpoint		0.4488189
+org.apache.camel.component.sjms.jms.JmsBinding		0.3569405
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.3220339
+org.apache.camel.component.sjms.SjmsMessage		0.2837838
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.19587629
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/InOutTempQueueProducerTest_testInOutQueueProducer_2e
+testInOutQueueProducer
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.producer.InOutProducer		0.6753247
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.MessageConsumerResources		0.5714286
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.54545456
+org.apache.camel.component.sjms.producer.InOutProducer.MessageConsumerResourcesFactory		0.53333336
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		0.5
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.47727272
+org.apache.camel.component.sjms.SjmsProducer		0.46448088
+org.apache.camel.component.sjms.SjmsEndpoint		0.4488189
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.3220339
+org.apache.camel.component.sjms.jms.JmsBinding		0.24645892
+org.apache.camel.component.sjms.SjmsMessage		0.14864865
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.13402061
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/NoConnectionFactoryTest
+NoConnectionFactoryTest		0.9230769
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/NoConnectionFactoryTest_testConsumerInOnly_1x
+testConsumerInOnly
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.54545456
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.SjmsComponent		0.34745762
+org.apache.camel.component.sjms.SjmsConsumer		0.2937063
+org.apache.camel.component.sjms.SjmsEndpoint		0.2007874
+org.apache.camel.component.sjms.SjmsConsumer.MessageConsumerResourcesFactory		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/NoConnectionFactoryTest_testConsumerInOut_41
+testConsumerInOut
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.54545456
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.SjmsComponent		0.34745762
+org.apache.camel.component.sjms.SjmsConsumer		0.2937063
+org.apache.camel.component.sjms.SjmsEndpoint		0.2007874
+org.apache.camel.component.sjms.SjmsConsumer.MessageConsumerResourcesFactory		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/NoConnectionFactoryTest_testProducerInOnly_p
+testProducerInOnly
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.54545456
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.SjmsComponent		0.34745762
+org.apache.camel.component.sjms.SjmsProducer		0.26229507
+org.apache.camel.component.sjms.SjmsEndpoint		0.20866142
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.05263158
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/NoConnectionFactoryTest_testProducerInOut_2
+testProducerInOut
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.54545456
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.SjmsComponent		0.34745762
+org.apache.camel.component.sjms.producer.InOutProducer		0.32467532
+org.apache.camel.component.sjms.SjmsEndpoint		0.2007874
+org.apache.camel.component.sjms.SjmsProducer		0.13661203
+org.apache.camel.component.sjms.producer.InOutProducer.MessageConsumerResourcesFactory		0.06666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/PrefillPoolTest
+PrefillPoolTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/PrefillPoolTest_testProducerWithPrefill_48
+testProducerWithPrefill
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.4814815
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.41666666
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.jms.JmsBinding		0.3512748
+org.apache.camel.component.sjms.SjmsEndpoint		0.27559054
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.08988764
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/PrefillPoolTest_testProducerWithoutPrefill_e
+testProducerWithoutPrefill
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.SjmsMessage		0.5202703
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.4814815
+org.apache.camel.component.sjms.SjmsEndpoint		0.4488189
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.41666666
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsProducer		0.35519126
+org.apache.camel.component.sjms.jms.JmsBinding		0.3512748
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.3220339
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.25
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/QueueProducerQoSTest
+QueueProducerQoSTest		0.9705882
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/QueueProducerQoSTest_testInOnlyQueueProducerTTL_3d
+testInOnlyQueueProducerTTL
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.SjmsMessage		0.5675676
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.4814815
+org.apache.camel.component.sjms.SjmsEndpoint		0.4448819
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.41666666
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.JmsBinding		0.36827195
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.3220339
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.27272728
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/QueueProducerQoSTest_testInOutQueueProducerTTL_3o
+testInOutQueueProducerTTL
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.producer.InOutProducer		0.5974026
+org.apache.camel.component.sjms.SjmsMessage		0.5675676
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.54545456
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.4814815
+org.apache.camel.component.sjms.SjmsEndpoint		0.47637796
+org.apache.camel.component.sjms.SjmsProducer		0.46448088
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.45454547
+org.apache.camel.component.sjms.MessageConsumerResources		0.42857143
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.41666666
+org.apache.camel.component.sjms.producer.InOutProducer.MessageConsumerResourcesFactory		0.4
+org.apache.camel.component.sjms.jms.JmsBinding		0.36827195
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.SjmsComponent		0.3220339
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.24226804
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/QueueProducerTest
+QueueProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/QueueProducerTest_testQueueProducer_3u
+testQueueProducer
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		0.5
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.34210527
+org.apache.camel.component.sjms.MessageProducerResources		0.33333334
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.22727273
+org.apache.camel.component.sjms.jms.JmsBinding		0.21529745
+org.apache.camel.component.sjms.SjmsProducer		0.15846995
+org.apache.camel.component.sjms.SjmsEndpoint		0.114173226
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.10309278
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/test-AsyncQueueProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/test-AsyncTopicProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/test-InOnlyQueueProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/test-InOnlyTopicProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/test-InOutQueueProducerAsyncLoadTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/test-InOutQueueProducerAsyncLoadTest_MyMessageListener
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/test-InOutQueueProducerSyncLoadTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/test-InOutQueueProducerSyncLoadTest_MyMessageListener
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/test-InOutQueueProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/test-InOutQueueProducerTest_MyMessageListener
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/test-InOutTempQueueProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/test-InOutTempQueueProducerTest_MyMessageListener
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/test-NoConnectionFactoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/test-PrefillPoolTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/test-QueueProducerQoSTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/producer/test-QueueProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/support/JmsTestSupport
+JmsTestSupport		0.942029
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/support/MyInOutTestConsumer
+MyInOutTestConsumer		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/support/SjmsConnectionTestSupport
+SjmsConnectionTestSupport		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/support/test-JmsTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/support/test-MyInOutTestConsumer
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/support/test-SjmsConnectionTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/test-AsyncStartStopListenerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/test-CamelJmsTestHelper
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/test-JmsSelectorOptionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/test-JmsSelectorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/test-SimpleJmsComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/test-SjmsComponentRestartTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/test-SjmsDestinationCreationStrategyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/test-SjmsDestinationCreationStrategyTest_TestDestinationCreationStrategyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/test-SjmsEndpointConnectionSettingsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/test-SjmsEndpointNameOverrideTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/test-SjmsEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/threadpool/ThreadPoolTest
+ThreadPoolTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/threadpool/ThreadPoolTest_testConsumerThreadThreadPoolRemoved_q
+testConsumerThreadThreadPoolRemoved
+org.apache.camel.component.sjms.SjmsConsumer.MessageConsumerResourcesFactory		0.57894737
+org.apache.camel.component.sjms.MessageConsumerResources		0.2857143
+org.apache.camel.component.sjms.SjmsConsumer		0.10489511
+org.apache.camel.component.sjms.SjmsEndpoint		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/threadpool/ThreadPoolTest_testContextStart_2s
+testContextStart
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/threadpool/ThreadPoolTest_testProducerThreadThreadPoolRemoved_22
+testProducerThreadThreadPoolRemoved
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.5882353
+org.apache.camel.component.sjms.MessageProducerResources		0.33333334
+org.apache.camel.component.sjms.SjmsProducer		0.10382514
+org.apache.camel.component.sjms.SjmsEndpoint		0.015748031
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/threadpool/test-ThreadPoolTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/BatchTransactedConcurrentMultipleConsumerTest
+BatchTransactedConcurrentMultipleConsumerTest		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/BatchTransactedConcurrentMultipleConsumerTest_testRoute_1u
+testRoute
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.tx.BatchTransactionCommitStrategy		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.tx.SessionBatchTransactionSynchronization.TimeoutTask		0.88235295
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.tx.SessionBatchTransactionSynchronization		0.779661
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.6666667
+org.apache.camel.component.sjms.SjmsEndpoint		0.57086617
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.5681818
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.5555556
+org.apache.camel.component.sjms.SjmsConsumer		0.55244756
+org.apache.camel.component.sjms.SjmsMessage		0.5337838
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.45454547
+org.apache.camel.component.sjms.MessageConsumerResources		0.42857143
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsComponent		0.3559322
+org.apache.camel.component.sjms.jms.JmsBinding		0.3371105
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.SjmsConsumer.MessageConsumerResourcesFactory		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/BatchTransactedConcurrentMultipleConsumerTest_testRoute_3h
+testRoute
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.tx.BatchTransactionCommitStrategy		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.tx.SessionBatchTransactionSynchronization.TimeoutTask		0.88235295
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.tx.SessionBatchTransactionSynchronization		0.779661
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.6666667
+org.apache.camel.component.sjms.SjmsEndpoint		0.57086617
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.5681818
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.5555556
+org.apache.camel.component.sjms.SjmsConsumer		0.55244756
+org.apache.camel.component.sjms.SjmsMessage		0.5337838
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.45454547
+org.apache.camel.component.sjms.MessageConsumerResources		0.42857143
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsComponent		0.3559322
+org.apache.camel.component.sjms.jms.JmsBinding		0.3371105
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.SjmsConsumer.MessageConsumerResourcesFactory		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/BatchTransactedConcurrentMultipleConsumerTest_testRoute_g
+testRoute
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.tx.BatchTransactionCommitStrategy		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.tx.SessionBatchTransactionSynchronization.TimeoutTask		0.88235295
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.tx.SessionBatchTransactionSynchronization		0.779661
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.6666667
+org.apache.camel.component.sjms.SjmsEndpoint		0.57086617
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.5681818
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.5555556
+org.apache.camel.component.sjms.SjmsConsumer		0.55244756
+org.apache.camel.component.sjms.SjmsMessage		0.5337838
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.45454547
+org.apache.camel.component.sjms.MessageConsumerResources		0.42857143
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsComponent		0.3559322
+org.apache.camel.component.sjms.jms.JmsBinding		0.3371105
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.SjmsConsumer.MessageConsumerResourcesFactory		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/BatchTransactedConcurrentMultipleRouteConsumersTest
+BatchTransactedConcurrentMultipleRouteConsumersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/BatchTransactedConcurrentMultipleRouteConsumersTest_testRoute_1o
+testRoute
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.tx.BatchTransactionCommitStrategy		0.875
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.tx.SessionBatchTransactionSynchronization		0.779661
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.6666667
+org.apache.camel.component.sjms.SjmsEndpoint		0.57086617
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.5681818
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.5555556
+org.apache.camel.component.sjms.SjmsConsumer		0.55244756
+org.apache.camel.component.sjms.SjmsMessage		0.5337838
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.45454547
+org.apache.camel.component.sjms.MessageConsumerResources		0.42857143
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsComponent		0.3559322
+org.apache.camel.component.sjms.jms.JmsBinding		0.3371105
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.tx.SessionBatchTransactionSynchronization.TimeoutTask		0.23529412
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.SjmsConsumer.MessageConsumerResourcesFactory		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/BatchTransactedQueueConsumerTest
+BatchTransactedQueueConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/BatchTransactedQueueConsumerTest_testRoute_2c
+testRoute
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.tx.BatchTransactionCommitStrategy		0.875
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.tx.SessionBatchTransactionSynchronization		0.779661
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.6666667
+org.apache.camel.component.sjms.SjmsEndpoint		0.57086617
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.5681818
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.5555556
+org.apache.camel.component.sjms.SjmsConsumer		0.55244756
+org.apache.camel.component.sjms.SjmsMessage		0.5337838
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.45454547
+org.apache.camel.component.sjms.MessageConsumerResources		0.42857143
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsComponent		0.3559322
+org.apache.camel.component.sjms.jms.JmsBinding		0.3371105
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.tx.SessionBatchTransactionSynchronization.TimeoutTask		0.23529412
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.SjmsConsumer.MessageConsumerResourcesFactory		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/BatchTransactedQueueProducerTest
+BatchTransactedQueueProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/BatchTransactedQueueProducerTest_testRoute_2j
+testRoute
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.tx.DefaultTransactionCommitStrategy		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.MessageProducerResources		0.8333333
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.68421054
+org.apache.camel.component.sjms.tx.SessionTransactionSynchronization		0.65625
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.625
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.5681818
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.5555556
+org.apache.camel.component.sjms.SjmsEndpoint		0.5472441
+org.apache.camel.component.sjms.SjmsMessage		0.5405405
+org.apache.camel.component.sjms.SjmsConsumer		0.5314685
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		0.5
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.SjmsProducer		0.44808742
+org.apache.camel.component.sjms.MessageConsumerResources		0.42857143
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsComponent		0.33898306
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.jms.JmsBinding		0.24929178
+org.apache.camel.component.sjms.BatchMessage		0.18333334
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.SjmsConsumer.MessageConsumerResourcesFactory		0.10526316
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.082474224
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/BatchTransactedTopicConsumerMultipleRouteTest
+BatchTransactedTopicConsumerMultipleRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/BatchTransactedTopicConsumerMultipleRouteTest_testRoute_11
+testRoute
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.tx.BatchTransactionCommitStrategy		0.875
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.tx.SessionBatchTransactionSynchronization		0.779661
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.6666667
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.6136364
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.6
+org.apache.camel.component.sjms.SjmsEndpoint		0.57086617
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.5555556
+org.apache.camel.component.sjms.SjmsConsumer		0.55244756
+org.apache.camel.component.sjms.SjmsMessage		0.5337838
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.45454547
+org.apache.camel.component.sjms.MessageConsumerResources		0.42857143
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsComponent		0.3559322
+org.apache.camel.component.sjms.jms.JmsBinding		0.3371105
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.tx.SessionBatchTransactionSynchronization.TimeoutTask		0.23529412
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.SjmsConsumer.MessageConsumerResourcesFactory		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/BatchTransactedTopicConsumerTest
+BatchTransactedTopicConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/BatchTransactedTopicConsumerTest_testRoute_3v
+testRoute
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.tx.BatchTransactionCommitStrategy		0.875
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.tx.SessionBatchTransactionSynchronization		0.779661
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.6666667
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.6136364
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.6
+org.apache.camel.component.sjms.SjmsEndpoint		0.57086617
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.5555556
+org.apache.camel.component.sjms.SjmsConsumer		0.55244756
+org.apache.camel.component.sjms.SjmsMessage		0.5337838
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.45454547
+org.apache.camel.component.sjms.MessageConsumerResources		0.42857143
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsComponent		0.3559322
+org.apache.camel.component.sjms.jms.JmsBinding		0.3371105
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.tx.SessionBatchTransactionSynchronization.TimeoutTask		0.23529412
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.SjmsConsumer.MessageConsumerResourcesFactory		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/BatchTransactedTopicProducerTest
+BatchTransactedTopicProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/BatchTransactedTopicProducerTest_testRoute_1h
+testRoute
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.tx.DefaultTransactionCommitStrategy		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.MessageProducerResources		0.8333333
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.68421054
+org.apache.camel.component.sjms.tx.SessionTransactionSynchronization		0.65625
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.625
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.6136364
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.6
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.5555556
+org.apache.camel.component.sjms.SjmsEndpoint		0.5472441
+org.apache.camel.component.sjms.SjmsMessage		0.5405405
+org.apache.camel.component.sjms.SjmsConsumer		0.5314685
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		0.5
+org.apache.camel.component.sjms.SjmsProducer		0.44808742
+org.apache.camel.component.sjms.MessageConsumerResources		0.42857143
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsComponent		0.33898306
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.jms.JmsBinding		0.24929178
+org.apache.camel.component.sjms.BatchMessage		0.18333334
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.SjmsConsumer.MessageConsumerResourcesFactory		0.10526316
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.082474224
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/TransactedAsyncExceptionTest
+TransactedAsyncExceptionTest		0.73170733
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/TransactedAsyncExceptionTest_testRouteWithThread_25
+testRouteWithThread
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.6388889
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.5681818
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.5555556
+org.apache.camel.component.sjms.SjmsEndpoint		0.5472441
+org.apache.camel.component.sjms.SjmsMessage		0.5337838
+org.apache.camel.component.sjms.SjmsConsumer		0.5314685
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.tx.DefaultTransactionCommitStrategy		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.MessageConsumerResources		0.42857143
+org.apache.camel.component.sjms.tx.SessionTransactionSynchronization		0.40625
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsComponent		0.33898306
+org.apache.camel.component.sjms.jms.JmsBinding		0.3371105
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.SjmsConsumer.MessageConsumerResourcesFactory		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/TransactedConcurrentConsumersTest
+TransactedConcurrentConsumersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/TransactedConcurrentConsumersTest_testRoute_1k
+testRoute
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.tx.BatchTransactionCommitStrategy		0.8125
+org.apache.camel.component.sjms.tx.SessionBatchTransactionSynchronization		0.7627119
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.6666667
+org.apache.camel.component.sjms.SjmsEndpoint		0.57086617
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.5681818
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.5555556
+org.apache.camel.component.sjms.SjmsConsumer		0.55244756
+org.apache.camel.component.sjms.SjmsMessage		0.5337838
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.45454547
+org.apache.camel.component.sjms.MessageConsumerResources		0.42857143
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsComponent		0.3559322
+org.apache.camel.component.sjms.jms.JmsBinding		0.3371105
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.tx.SessionBatchTransactionSynchronization.TimeoutTask		0.23529412
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.SjmsConsumer.MessageConsumerResourcesFactory		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/TransactedConsumersMultipleRouteTest
+TransactedConsumersMultipleRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/TransactedConsumersMultipleRouteTest_testRoute_1i
+testRoute
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.tx.BatchTransactionCommitStrategy		0.8125
+org.apache.camel.component.sjms.tx.SessionBatchTransactionSynchronization		0.7627119
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.6666667
+org.apache.camel.component.sjms.SjmsEndpoint		0.57086617
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.5681818
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.5555556
+org.apache.camel.component.sjms.SjmsConsumer		0.55244756
+org.apache.camel.component.sjms.SjmsMessage		0.5337838
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.45454547
+org.apache.camel.component.sjms.MessageConsumerResources		0.42857143
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsComponent		0.3559322
+org.apache.camel.component.sjms.jms.JmsBinding		0.3371105
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.tx.SessionBatchTransactionSynchronization.TimeoutTask		0.23529412
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.SjmsConsumer.MessageConsumerResourcesFactory		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/TransactedProducerInOutErrorTest
+TransactedProducerInOutErrorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/TransactedProducerInOutErrorTest_test_2z
+test
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.54545456
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5168539
+org.apache.camel.component.sjms.SjmsComponent		0.5084746
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		0.5
+org.apache.camel.component.sjms.SjmsEndpoint		0.34251967
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.producer.InOutProducer		0.12987013
+org.apache.camel.component.sjms.SjmsProducer		0.08743169
+org.apache.camel.component.sjms.SjmsConsumer		0.013986014
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/TransactedQueueConsumerTest
+TransactedQueueConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/TransactedQueueConsumerTest_testRoute_8
+testRoute
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.tx.BatchTransactionCommitStrategy		0.8125
+org.apache.camel.component.sjms.tx.SessionBatchTransactionSynchronization		0.7627119
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.6666667
+org.apache.camel.component.sjms.SjmsEndpoint		0.57086617
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.5681818
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.5555556
+org.apache.camel.component.sjms.SjmsConsumer		0.55244756
+org.apache.camel.component.sjms.SjmsMessage		0.5337838
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.5
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.45454547
+org.apache.camel.component.sjms.MessageConsumerResources		0.42857143
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsComponent		0.3559322
+org.apache.camel.component.sjms.jms.JmsBinding		0.3371105
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.tx.SessionBatchTransactionSynchronization.TimeoutTask		0.23529412
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.SjmsConsumer.MessageConsumerResourcesFactory		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/TransactedQueueProducerTest
+TransactedQueueProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/TransactedQueueProducerTest_testRoute_2r
+testRoute
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.tx.DefaultTransactionCommitStrategy		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.tx.SessionTransactionSynchronization		0.65625
+org.apache.camel.component.sjms.SjmsMessage		0.5337838
+org.apache.camel.component.sjms.MessageProducerResources		0.5
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.44444445
+org.apache.camel.component.sjms.jms.JmsBinding		0.39660057
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.3472222
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.34210527
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		0.33333334
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.22164948
+org.apache.camel.component.sjms.SjmsProducer		0.18579236
+org.apache.camel.component.sjms.SjmsEndpoint		0.14173229
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/TransactedTopicConsumerTest
+TransactedTopicConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/TransactedTopicConsumerTest_testRoute_36
+testRoute
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.jms.SessionAcknowledgementType		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.tx.BatchTransactionCommitStrategy		0.8125
+org.apache.camel.component.sjms.tx.SessionBatchTransactionSynchronization		0.7627119
+org.apache.camel.component.sjms.MessageProducerResources		0.6666667
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.6666667
+org.apache.camel.component.sjms.jms.Jms11ObjectFactory		0.6136364
+org.apache.camel.component.sjms.jms.DestinationNameParser		0.6
+org.apache.camel.component.sjms.SjmsEndpoint		0.57086617
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.5555556
+org.apache.camel.component.sjms.SjmsConsumer		0.55244756
+org.apache.camel.component.sjms.SjmsMessage		0.5337838
+org.apache.camel.component.sjms.jms.ConnectionFactoryResource		0.5280899
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.5
+org.apache.camel.component.sjms.taskmanager.TimedTaskManager		0.45454547
+org.apache.camel.component.sjms.MessageConsumerResources		0.42857143
+org.apache.camel.component.sjms.SjmsProducer		0.3989071
+org.apache.camel.component.sjms.jms.DefaultDestinationCreationStrategy		0.36363637
+org.apache.camel.component.sjms.SjmsComponent		0.3559322
+org.apache.camel.component.sjms.jms.JmsBinding		0.3371105
+org.apache.camel.component.sjms.SjmsLoggingExceptionListener		0.33333334
+org.apache.camel.component.sjms.tx.SessionBatchTransactionSynchronization.TimeoutTask		0.23529412
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.2113402
+org.apache.camel.component.sjms.SjmsProducer.MessageProducerResourcesFactory		0.11764706
+org.apache.camel.component.sjms.SjmsConsumer.MessageConsumerResourcesFactory		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/TransactedTopicProducerTest
+TransactedTopicProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/TransactedTopicProducerTest_testRoute_k
+testRoute
+org.apache.camel.component.sjms.jms.DefaultJmsKeyFormatStrategy		1.0
+org.apache.camel.component.sjms.SjmsProducer.ReturnProducerCallback		1.0
+org.apache.camel.component.sjms.tx.DefaultTransactionCommitStrategy		1.0
+org.apache.camel.component.sjms.SjmsHeaderFilterStrategy		0.8125
+org.apache.camel.component.sjms.tx.SessionTransactionSynchronization		0.65625
+org.apache.camel.component.sjms.SjmsMessage		0.5337838
+org.apache.camel.component.sjms.MessageProducerResources		0.5
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler		0.44444445
+org.apache.camel.component.sjms.jms.JmsBinding		0.39660057
+org.apache.camel.component.sjms.consumer.AbstractMessageHandler		0.3472222
+org.apache.camel.component.sjms.producer.InOnlyProducer		0.34210527
+org.apache.camel.component.sjms.consumer.InOnlyMessageHandler.NoOpAsyncCallback		0.33333334
+org.apache.camel.component.sjms.jms.JmsMessageHelper		0.22164948
+org.apache.camel.component.sjms.SjmsProducer		0.18579236
+org.apache.camel.component.sjms.SjmsEndpoint		0.14173229
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/test-BatchTransactedConcurrentMultipleConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/test-BatchTransactedConcurrentMultipleRouteConsumersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/test-BatchTransactedQueueConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/test-BatchTransactedQueueProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/test-BatchTransactedTopicConsumerMultipleRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/test-BatchTransactedTopicConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/test-BatchTransactedTopicProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/test-TransactedAsyncExceptionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/test-TransactedConcurrentConsumersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/test-TransactedConsumersMultipleRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/test-TransactedProducerInOutErrorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/test-TransactedQueueConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/test-TransactedQueueProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/test-TransactedTopicConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-sjms/target/site/clover/org/apache/camel/component/sjms/tx/test-TransactedTopicProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

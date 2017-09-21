@@ -1,0 +1,169 @@
+./components/camel-openshift/target/site/clover/org/apache/camel
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftAddAliasTest
+OpenShiftAddAliasTest		0.75
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftAddAliasTest_testAddAlias_5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftAddEmbeddedCartridgeTest
+OpenShiftAddEmbeddedCartridgeTest		0.7647059
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftAddEmbeddedCartridgeTest_testAddEmbeddedCartridge_3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftAddEnvironmentVariableTest
+OpenShiftAddEnvironmentVariableTest		0.75
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftAddEnvironmentVariableTest_testAddEnvironmentVariable_i
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftAddMultipleEnvironmentVariablesTest
+OpenShiftAddMultipleEnvironmentVariablesTest		0.75
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftAddMultipleEnvironmentVariablesTest_testAddEnvironmentVariable_n
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftConsumerOnChangeTest
+OpenShiftConsumerOnChangeTest		0.8
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftConsumerOnChangeTest_testConsumer_c
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftConsumerTest
+OpenShiftConsumerTest		0.8
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftConsumerTest_testConsumer_7
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftGetAliasesTest
+OpenShiftGetAliasesTest		0.75
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftGetAliasesTest_testGetAliases_2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftGetAllEnvironmentVariablesTest
+OpenShiftGetAllEnvironmentVariablesTest		0.75
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftGetAllEnvironmentVariablesTest_testGetGitUrl_j
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftGetDeploymentTypeTest
+OpenShiftGetDeploymentTypeTest		0.75
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftGetDeploymentTypeTest_testGetDeploymentType_d
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftGetEmbeddedCartridgesTest
+OpenShiftGetEmbeddedCartridgesTest		0.7647059
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftGetEmbeddedCartridgesTest_testGetEmbeddedCartridges_g
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftGetEnvironmentVariableValueTest
+OpenShiftGetEnvironmentVariableValueTest		0.75
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftGetEnvironmentVariableValueTest_testGetEnvironmentVariable_b
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftGetGearProfileTest
+OpenShiftGetGearProfileTest		0.75
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftGetGearProfileTest_testGetGearProfile_9
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftGetGitUrlTest
+OpenShiftGetGitUrlTest		0.75
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftGetGitUrlTest_testGetGitUrl_e
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftGetStandaloneCartridgeTest
+OpenShiftGetStandaloneCartridgeTest		0.7647059
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftGetStandaloneCartridgeTest_testGetStandaloneCartridge_m
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftListApplicationsModeJsonTest
+OpenShiftListApplicationsModeJsonTest		0.75
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftListApplicationsModeJsonTest_testListApplications_4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftListApplicationsTest
+OpenShiftListApplicationsTest		0.75
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftListApplicationsTest_testListApplications_l
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftRemoveAliasTest
+OpenShiftRemoveAliasTest		0.75
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftRemoveAliasTest_testRemoveAlias_6
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftRemoveEmbeddedCartridgeTest
+OpenShiftRemoveEmbeddedCartridgeTest		0.7647059
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftRemoveEmbeddedCartridgeTest_testRemoveEmbeddedCartridge_a
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftRemoveEnvironmentVariableTest
+OpenShiftRemoveEnvironmentVariableTest		0.75
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftRemoveEnvironmentVariableTest_testRemoveEnvironmentVariable_1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftScaleDownTest
+OpenShiftScaleDownTest		0.75
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftScaleDownTest_testScaleDown_h
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftScaleUpTest
+OpenShiftScaleUpTest		0.75
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftScaleUpTest_testScaleUp_f
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftSetDeploymentTypeTest
+OpenShiftSetDeploymentTypeTest		0.75
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftSetDeploymentTypeTest_testSetDeploymentType_8
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftStateTest
+OpenShiftStateTest		0.7647059
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftStateTest_testState_0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftUpdateEnvironmentVariableTest
+OpenShiftUpdateEnvironmentVariableTest		0.75
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/OpenShiftUpdateEnvironmentVariableTest_testUpdateEnvironmentVariable_k
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/test-OpenShiftAddAliasTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/test-OpenShiftAddEmbeddedCartridgeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/test-OpenShiftAddEnvironmentVariableTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/test-OpenShiftAddMultipleEnvironmentVariablesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/test-OpenShiftConsumerOnChangeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/test-OpenShiftConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/test-OpenShiftGetAliasesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/test-OpenShiftGetAllEnvironmentVariablesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/test-OpenShiftGetDeploymentTypeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/test-OpenShiftGetEmbeddedCartridgesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/test-OpenShiftGetEnvironmentVariableValueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/test-OpenShiftGetGearProfileTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/test-OpenShiftGetGitUrlTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/test-OpenShiftGetStandaloneCartridgeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/test-OpenShiftListApplicationsModeJsonTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/test-OpenShiftListApplicationsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/test-OpenShiftRemoveAliasTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/test-OpenShiftRemoveEmbeddedCartridgeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/test-OpenShiftRemoveEnvironmentVariableTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/test-OpenShiftScaleDownTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/test-OpenShiftScaleUpTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/test-OpenShiftSetDeploymentTypeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/test-OpenShiftStateTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-openshift/target/site/clover/org/apache/camel/component/openshift/test-OpenShiftUpdateEnvironmentVariableTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

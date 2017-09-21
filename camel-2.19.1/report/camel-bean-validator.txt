@@ -1,0 +1,175 @@
+./components/camel-bean-validator/target/site/clover/org/apache/camel
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/BeanValidatorConfigurationTest
+BeanValidatorConfigurationTest		0.85714287
+BeanValidatorConfigurationTest.MyMessageInterpolator		0.0
+BeanValidatorConfigurationTest.MyTraversableResolver		0.0
+BeanValidatorConfigurationTest.MyConstraintValidatorFactory		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/BeanValidatorConfigurationTest_configureBeanValidator_c
+configureBeanValidator
+org.apache.camel.component.bean.validator.BeanValidatorComponent		1.0
+org.apache.camel.component.bean.validator.BeanValidatorEndpoint		0.5365854
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/BeanValidatorConfigurationTest_configureWithDefaults_9
+configureWithDefaults
+org.apache.camel.component.bean.validator.BeanValidatorComponent		1.0
+org.apache.camel.component.bean.validator.BeanValidatorEndpoint		0.19512194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/BeanValidatorRouteTest
+BeanValidatorRouteTest		0.8607595
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/BeanValidatorRouteTest_validateShouldFailWithExpliciteDefaultGroup_4
+validateShouldFailWithExpliciteDefaultGroup
+org.apache.camel.component.bean.validator.BeanValidationException		1.0
+org.apache.camel.component.bean.validator.BeanValidatorComponent		1.0
+org.apache.camel.component.bean.validator.BeanValidatorProducer		0.72727275
+org.apache.camel.component.bean.validator.ValidatorFactories		0.59375
+org.apache.camel.component.bean.validator.BeanValidatorEndpoint		0.4390244
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/BeanValidatorRouteTest_validateShouldFailWithImpliciteDefaultGroup_e
+validateShouldFailWithImpliciteDefaultGroup
+org.apache.camel.component.bean.validator.BeanValidationException		1.0
+org.apache.camel.component.bean.validator.BeanValidatorComponent		1.0
+org.apache.camel.component.bean.validator.BeanValidatorProducer		0.6363636
+org.apache.camel.component.bean.validator.ValidatorFactories		0.59375
+org.apache.camel.component.bean.validator.BeanValidatorEndpoint		0.36585367
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/BeanValidatorRouteTest_validateShouldFailWithOptionalChecksGroup_7
+validateShouldFailWithOptionalChecksGroup
+org.apache.camel.component.bean.validator.BeanValidationException		1.0
+org.apache.camel.component.bean.validator.BeanValidatorComponent		1.0
+org.apache.camel.component.bean.validator.BeanValidatorProducer		0.72727275
+org.apache.camel.component.bean.validator.ValidatorFactories		0.59375
+org.apache.camel.component.bean.validator.BeanValidatorEndpoint		0.4390244
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/BeanValidatorRouteTest_validateShouldFailWithOrderedChecksGroup_j
+validateShouldFailWithOrderedChecksGroup
+org.apache.camel.component.bean.validator.BeanValidationException		1.0
+org.apache.camel.component.bean.validator.BeanValidatorComponent		1.0
+org.apache.camel.component.bean.validator.BeanValidatorProducer		0.72727275
+org.apache.camel.component.bean.validator.ValidatorFactories		0.59375
+org.apache.camel.component.bean.validator.BeanValidatorEndpoint		0.4390244
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/BeanValidatorRouteTest_validateShouldFailWithRedefinedDefaultGroup_3
+validateShouldFailWithRedefinedDefaultGroup
+org.apache.camel.component.bean.validator.BeanValidationException		1.0
+org.apache.camel.component.bean.validator.BeanValidatorComponent		1.0
+org.apache.camel.component.bean.validator.ValidatorFactories		0.59375
+org.apache.camel.component.bean.validator.BeanValidatorProducer		0.59090906
+org.apache.camel.component.bean.validator.BeanValidatorEndpoint		0.36585367
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/BeanValidatorRouteTest_validateShouldSuccessWithExpliciteDefaultGroup_g
+validateShouldSuccessWithExpliciteDefaultGroup
+org.apache.camel.component.bean.validator.BeanValidatorComponent		1.0
+org.apache.camel.component.bean.validator.BeanValidatorProducer		0.6363636
+org.apache.camel.component.bean.validator.ValidatorFactories		0.59375
+org.apache.camel.component.bean.validator.BeanValidatorEndpoint		0.4390244
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/BeanValidatorRouteTest_validateShouldSuccessWithImpliciteDefaultGroup_8
+validateShouldSuccessWithImpliciteDefaultGroup
+org.apache.camel.component.bean.validator.BeanValidatorComponent		1.0
+org.apache.camel.component.bean.validator.ValidatorFactories		0.59375
+org.apache.camel.component.bean.validator.BeanValidatorProducer		0.54545456
+org.apache.camel.component.bean.validator.BeanValidatorEndpoint		0.36585367
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/BeanValidatorRouteTest_validateShouldSuccessWithRedefinedDefaultGroup_2
+validateShouldSuccessWithRedefinedDefaultGroup
+org.apache.camel.component.bean.validator.BeanValidatorComponent		1.0
+org.apache.camel.component.bean.validator.ValidatorFactories		0.59375
+org.apache.camel.component.bean.validator.BeanValidatorProducer		0.54545456
+org.apache.camel.component.bean.validator.BeanValidatorEndpoint		0.36585367
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/BeanValidatorXMLConfigurationRouteTest
+BeanValidatorXMLConfigurationRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/BeanValidatorXMLConfigurationRouteTest_validateShouldFailWithExpliciteDefaultGroup_5
+validateShouldFailWithExpliciteDefaultGroup
+org.apache.camel.component.bean.validator.BeanValidationException		1.0
+org.apache.camel.component.bean.validator.BeanValidatorComponent		1.0
+org.apache.camel.component.bean.validator.BeanValidatorProducer		0.72727275
+org.apache.camel.component.bean.validator.ValidatorFactories		0.59375
+org.apache.camel.component.bean.validator.BeanValidatorEndpoint		0.4390244
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/BeanValidatorXMLConfigurationRouteTest_validateShouldFailWithImpliciteDefaultGroup_b
+validateShouldFailWithImpliciteDefaultGroup
+org.apache.camel.component.bean.validator.BeanValidationException		1.0
+org.apache.camel.component.bean.validator.BeanValidatorComponent		1.0
+org.apache.camel.component.bean.validator.BeanValidatorProducer		0.6363636
+org.apache.camel.component.bean.validator.ValidatorFactories		0.59375
+org.apache.camel.component.bean.validator.BeanValidatorEndpoint		0.36585367
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/BeanValidatorXMLConfigurationRouteTest_validateShouldFailWithOptionalChecksGroup_0
+validateShouldFailWithOptionalChecksGroup
+org.apache.camel.component.bean.validator.BeanValidationException		1.0
+org.apache.camel.component.bean.validator.BeanValidatorComponent		1.0
+org.apache.camel.component.bean.validator.BeanValidatorProducer		0.72727275
+org.apache.camel.component.bean.validator.ValidatorFactories		0.59375
+org.apache.camel.component.bean.validator.BeanValidatorEndpoint		0.4390244
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/BeanValidatorXMLConfigurationRouteTest_validateShouldFailWithOrderedChecksGroup_f
+validateShouldFailWithOrderedChecksGroup
+org.apache.camel.component.bean.validator.BeanValidationException		1.0
+org.apache.camel.component.bean.validator.BeanValidatorComponent		1.0
+org.apache.camel.component.bean.validator.BeanValidatorProducer		0.72727275
+org.apache.camel.component.bean.validator.ValidatorFactories		0.59375
+org.apache.camel.component.bean.validator.BeanValidatorEndpoint		0.4390244
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/BeanValidatorXMLConfigurationRouteTest_validateShouldFailWithRedefinedDefaultGroup_6
+validateShouldFailWithRedefinedDefaultGroup
+org.apache.camel.component.bean.validator.BeanValidationException		1.0
+org.apache.camel.component.bean.validator.BeanValidatorComponent		1.0
+org.apache.camel.component.bean.validator.ValidatorFactories		0.59375
+org.apache.camel.component.bean.validator.BeanValidatorProducer		0.59090906
+org.apache.camel.component.bean.validator.BeanValidatorEndpoint		0.36585367
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/BeanValidatorXMLConfigurationRouteTest_validateShouldSuccessWithExpliciteDefaultGroup_i
+validateShouldSuccessWithExpliciteDefaultGroup
+org.apache.camel.component.bean.validator.BeanValidatorComponent		1.0
+org.apache.camel.component.bean.validator.BeanValidatorProducer		0.6363636
+org.apache.camel.component.bean.validator.ValidatorFactories		0.59375
+org.apache.camel.component.bean.validator.BeanValidatorEndpoint		0.4390244
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/BeanValidatorXMLConfigurationRouteTest_validateShouldSuccessWithImpliciteDefaultGroup_d
+validateShouldSuccessWithImpliciteDefaultGroup
+org.apache.camel.component.bean.validator.BeanValidatorComponent		1.0
+org.apache.camel.component.bean.validator.ValidatorFactories		0.59375
+org.apache.camel.component.bean.validator.BeanValidatorProducer		0.54545456
+org.apache.camel.component.bean.validator.BeanValidatorEndpoint		0.36585367
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/BeanValidatorXMLConfigurationRouteTest_validateShouldSuccessWithRedefinedDefaultGroup_1
+validateShouldSuccessWithRedefinedDefaultGroup
+org.apache.camel.component.bean.validator.BeanValidatorComponent		1.0
+org.apache.camel.component.bean.validator.ValidatorFactories		0.59375
+org.apache.camel.component.bean.validator.BeanValidatorProducer		0.54545456
+org.apache.camel.component.bean.validator.BeanValidatorEndpoint		0.36585367
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/CustomValidationProviderResolverTest
+CustomValidationProviderResolverTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/CustomValidationProviderResolverTest_shouldResolveCustomValidationProviderResolver_h
+shouldResolveCustomValidationProviderResolver
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/HibernateValidationProviderResolverTest
+HibernateValidationProviderResolverTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/HibernateValidationProviderResolverTest_shouldResolveHibernateValidationProviderResolver_a
+shouldResolveHibernateValidationProviderResolver
+org.apache.camel.component.bean.validator.BeanValidationException		0.84615386
+org.apache.camel.component.bean.validator.BeanValidatorProducer		0.4090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/test-BeanValidatorConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/test-BeanValidatorConfigurationTest_MyConstraintValidatorFactory
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/test-BeanValidatorConfigurationTest_MyMessageInterpolator
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/test-BeanValidatorConfigurationTest_MyTraversableResolver
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/test-BeanValidatorRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/test-BeanValidatorXMLConfigurationRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/test-CustomValidationProviderResolverTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bean-validator/target/site/clover/org/apache/camel/component/bean/validator/test-HibernateValidationProviderResolverTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

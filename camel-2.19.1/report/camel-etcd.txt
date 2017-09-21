@@ -1,0 +1,41 @@
+./components/camel-etcd/target/site/clover/org/apache/camel
+./components/camel-etcd/target/site/clover/org/apache/camel/component/etcd/EtcdKeysTest
+EtcdKeysTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-etcd/target/site/clover/org/apache/camel/component/etcd/EtcdStatsTest
+EtcdStatsTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-etcd/target/site/clover/org/apache/camel/component/etcd/EtcdTestSupport
+EtcdTestSupport		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-etcd/target/site/clover/org/apache/camel/component/etcd/EtcdWatchTest
+EtcdWatchTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-etcd/target/site/clover/org/apache/camel/component/etcd/cloud/EtcdServiceCallRouteTest
+EtcdServiceCallRouteTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-etcd/target/site/clover/org/apache/camel/component/etcd/cloud/EtcdServiceDiscoveryTest
+EtcdServiceDiscoveryTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-etcd/target/site/clover/org/apache/camel/component/etcd/cloud/SpringEtcdServiceCallDefaultRouteTest
+SpringEtcdServiceCallDefaultRouteTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-etcd/target/site/clover/org/apache/camel/component/etcd/cloud/SpringEtcdServiceCallRouteTest
+SpringEtcdServiceCallRouteTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-etcd/target/site/clover/org/apache/camel/component/etcd/cloud/test-EtcdServiceCallRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-etcd/target/site/clover/org/apache/camel/component/etcd/cloud/test-EtcdServiceDiscoveryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-etcd/target/site/clover/org/apache/camel/component/etcd/cloud/test-SpringEtcdServiceCallDefaultRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-etcd/target/site/clover/org/apache/camel/component/etcd/cloud/test-SpringEtcdServiceCallRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-etcd/target/site/clover/org/apache/camel/component/etcd/test-EtcdKeysTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-etcd/target/site/clover/org/apache/camel/component/etcd/test-EtcdStatsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-etcd/target/site/clover/org/apache/camel/component/etcd/test-EtcdTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-etcd/target/site/clover/org/apache/camel/component/etcd/test-EtcdWatchTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

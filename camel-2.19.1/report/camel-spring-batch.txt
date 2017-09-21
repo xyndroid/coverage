@@ -1,0 +1,192 @@
+./components/camel-spring-batch/target/site/clover/org/apache/camel
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/SpringBatchEndpointTest
+SpringBatchEndpointTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/SpringBatchEndpointTest_dynamicJobFailsIfHeaderNotPressent_g
+dynamicJobFailsIfHeaderNotPressent
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/SpringBatchEndpointTest_dynamicJobFailsIfHeaderWithInvalidJobName_e
+dynamicJobFailsIfHeaderWithInvalidJobName
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/SpringBatchEndpointTest_dynamicJobWorksIfHeaderPresentWithValidJobLocatedInJobRegistry_j
+dynamicJobWorksIfHeaderPresentWithValidJobLocatedInJobRegistry
+org.apache.camel.component.spring.batch.SpringBatchProducer		0.62
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/SpringBatchEndpointTest_dynamicJobWorksIfHeaderPressentWithValidJob_s
+dynamicJobWorksIfHeaderPressentWithValidJob
+org.apache.camel.component.spring.batch.SpringBatchProducer		0.62
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/SpringBatchEndpointTest_setNullValueToJobParams_5
+setNullValueToJobParams
+org.apache.camel.component.spring.batch.SpringBatchProducer		0.6
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/SpringBatchEndpointTest_shouldConvertDateHeadersToJobParams_1
+shouldConvertDateHeadersToJobParams
+org.apache.camel.component.spring.batch.SpringBatchProducer		0.6
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/SpringBatchEndpointTest_shouldConvertDoubleHeadersToJobParams_t
+shouldConvertDoubleHeadersToJobParams
+org.apache.camel.component.spring.batch.SpringBatchProducer		0.6
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/SpringBatchEndpointTest_shouldConvertHeadersToJobParams_2
+shouldConvertHeadersToJobParams
+org.apache.camel.component.spring.batch.SpringBatchProducer		0.56
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/SpringBatchEndpointTest_shouldConvertLongHeadersToJobParams_0
+shouldConvertLongHeadersToJobParams
+org.apache.camel.component.spring.batch.SpringBatchProducer		0.6
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/SpringBatchEndpointTest_shouldFailWhenThereIsMoreThanOneJobLauncher_h
+shouldFailWhenThereIsMoreThanOneJobLauncher
+org.apache.camel.component.spring.batch.SpringBatchComponent		0.5294118
+org.apache.camel.component.spring.batch.SpringBatchEndpoint		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/SpringBatchEndpointTest_shouldFailWhenThereIsNoJobLauncher_9
+shouldFailWhenThereIsNoJobLauncher
+org.apache.camel.component.spring.batch.SpringBatchComponent		0.5294118
+org.apache.camel.component.spring.batch.SpringBatchEndpoint		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/SpringBatchEndpointTest_shouldGetJobFromJobRegistry_7
+shouldGetJobFromJobRegistry
+org.apache.camel.component.spring.batch.SpringBatchEndpoint		0.4057971
+org.apache.camel.component.spring.batch.SpringBatchComponent		0.23529412
+org.apache.camel.component.spring.batch.SpringBatchProducer		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/SpringBatchEndpointTest_shouldInjectJobLauncherByReferenceName_m
+shouldInjectJobLauncherByReferenceName
+org.apache.camel.component.spring.batch.SpringBatchProducer		0.66
+org.apache.camel.component.spring.batch.SpringBatchEndpoint		0.3043478
+org.apache.camel.component.spring.batch.SpringBatchComponent		0.23529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/SpringBatchEndpointTest_shouldInjectJobRegistryByReferenceName_r
+shouldInjectJobRegistryByReferenceName
+org.apache.camel.component.spring.batch.SpringBatchProducer		0.66
+org.apache.camel.component.spring.batch.SpringBatchEndpoint		0.4057971
+org.apache.camel.component.spring.batch.SpringBatchComponent		0.23529412
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/SpringBatchEndpointTest_shouldInjectJobToEndpoint_o
+shouldInjectJobToEndpoint
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/SpringBatchEndpointTest_shouldResolveAnyJobLauncher_3
+shouldResolveAnyJobLauncher
+org.apache.camel.component.spring.batch.SpringBatchComponent		0.5294118
+org.apache.camel.component.spring.batch.SpringBatchEndpoint		0.4057971
+org.apache.camel.component.spring.batch.SpringBatchProducer		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/SpringBatchEndpointTest_shouldReturnJobExecution_b
+shouldReturnJobExecution
+org.apache.camel.component.spring.batch.SpringBatchProducer		0.56
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/SpringBatchEndpointTest_shouldRunJob_p
+shouldRunJob
+org.apache.camel.component.spring.batch.SpringBatchProducer		0.56
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/SpringBatchEndpointTest_shouldThrowExceptionIfUsedAsConsumer_l
+shouldThrowExceptionIfUsedAsConsumer
+org.apache.camel.component.spring.batch.SpringBatchEndpoint		0.028985508
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/SpringBatchEndpointTest_shouldUseJobLauncherFromComponent_v
+shouldUseJobLauncherFromComponent
+org.apache.camel.component.spring.batch.SpringBatchComponent		0.47058824
+org.apache.camel.component.spring.batch.SpringBatchEndpoint		0.2753623
+org.apache.camel.component.spring.batch.SpringBatchProducer		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/SpringBatchEndpointTest_shouldUseJobRegistryFromComponent_8
+shouldUseJobRegistryFromComponent
+org.apache.camel.component.spring.batch.SpringBatchComponent		0.5882353
+org.apache.camel.component.spring.batch.SpringBatchEndpoint		0.2753623
+org.apache.camel.component.spring.batch.SpringBatchProducer		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/SpringBatchIntegrationTest
+SpringBatchIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/SpringBatchJobLauncherTest
+SpringBatchJobLauncherTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/SpringBatchJobLauncherTest_testJobLauncherRef_d
+testJobLauncherRef
+org.apache.camel.component.spring.batch.support.CamelJobExecutionListener		0.72727275
+org.apache.camel.component.spring.batch.support.CamelItemProcessor		0.625
+org.apache.camel.component.spring.batch.support.CamelItemWriter		0.625
+org.apache.camel.component.spring.batch.SpringBatchProducer		0.56
+org.apache.camel.component.spring.batch.support.CamelItemReader		0.3125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/SpringBatchJobLauncherTest_testJobLauncher_a
+testJobLauncher
+org.apache.camel.component.spring.batch.support.CamelJobExecutionListener		0.72727275
+org.apache.camel.component.spring.batch.support.CamelItemProcessor		0.625
+org.apache.camel.component.spring.batch.support.CamelItemWriter		0.625
+org.apache.camel.component.spring.batch.SpringBatchProducer		0.56
+org.apache.camel.component.spring.batch.support.CamelItemReader		0.3125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/SpringBatchJobRegistryTest
+SpringBatchJobRegistryTest		1.0
+SpringBatchJobRegistryTest.ContextConfig		1.0
+SpringBatchJobRegistryTest.BatchConfig		1.0
+SpringBatchJobRegistryTest.ChildBatchConfig		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/SpringBatchJobRegistryTest_BatchConfig_testJobs_u
+testJobs
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/SpringBatchJobRegistryTest_testJobRegistry_i
+testJobRegistry
+org.apache.camel.component.spring.batch.support.CamelItemProcessor		0.625
+org.apache.camel.component.spring.batch.support.CamelItemWriter		0.625
+org.apache.camel.component.spring.batch.SpringBatchProducer		0.56
+org.apache.camel.component.spring.batch.support.CamelItemReader		0.3125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/support/CamelItemProcessorTest
+CamelItemProcessorTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/support/CamelItemProcessorTest_shouldReturnDoubledMessage_q
+org.apache.camel.component.spring.batch.support.CamelItemProcessor		0.625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/support/CamelItemReaderTest
+CamelItemReaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/support/CamelItemReaderTest_shouldReadMessage_c
+org.apache.camel.component.spring.batch.support.CamelItemReader		0.3125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/support/CamelItemWriterTest
+CamelItemWriterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/support/CamelItemWriterTest_shouldReadMessage_f
+org.apache.camel.component.spring.batch.support.CamelItemWriter		0.625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/support/CamelJobExecutionListenerTest
+CamelJobExecutionListenerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/support/CamelJobExecutionListenerTest_shouldSendAfterJobEvent_6
+org.apache.camel.component.spring.batch.support.CamelJobExecutionListener		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/support/CamelJobExecutionListenerTest_shouldSendBeforeJobEvent_n
+org.apache.camel.component.spring.batch.support.CamelJobExecutionListener		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/support/CamelJobExecutionListenerTest_shouldSetAfterJobEventHeader_4
+org.apache.camel.component.spring.batch.support.CamelJobExecutionListener		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/support/CamelJobExecutionListenerTest_shouldSetBeforeJobEventHeader_k
+org.apache.camel.component.spring.batch.support.CamelJobExecutionListener		0.36363637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/support/test-CamelItemProcessorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/support/test-CamelItemReaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/support/test-CamelItemWriterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/support/test-CamelJobExecutionListenerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/test-SpringBatchEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/test-SpringBatchIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/test-SpringBatchJobLauncherTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/test-SpringBatchJobRegistryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/test-SpringBatchJobRegistryTest_BatchConfig
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/test-SpringBatchJobRegistryTest_ChildBatchConfig
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-spring-batch/target/site/clover/org/apache/camel/component/spring/batch/test-SpringBatchJobRegistryTest_ContextConfig
+-- -- -- -- -- -- -- -- -- -- -- -- --

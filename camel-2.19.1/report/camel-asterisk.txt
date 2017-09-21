@@ -1,0 +1,20 @@
+./components/camel-asterisk/target/site/clover/org/apache/camel
+./components/camel-asterisk/target/site/clover/org/apache/camel/component/asterisk/AsteriskConfigTest
+AsteriskConfigTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-asterisk/target/site/clover/org/apache/camel/component/asterisk/AsteriskConfigTest_asteriskEndpointData_0
+org.apache.camel.component.asterisk.AsteriskEndpoint		0.75
+org.apache.camel.component.asterisk.AsteriskComponent		0.71428573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-asterisk/target/site/clover/org/apache/camel/component/asterisk/AsteriskConsumerTest
+AsteriskConsumerTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-asterisk/target/site/clover/org/apache/camel/component/asterisk/AsteriskProducerTest
+AsteriskProducerTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-asterisk/target/site/clover/org/apache/camel/component/asterisk/test-AsteriskConfigTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-asterisk/target/site/clover/org/apache/camel/component/asterisk/test-AsteriskConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-asterisk/target/site/clover/org/apache/camel/component/asterisk/test-AsteriskProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

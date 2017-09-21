@@ -1,0 +1,237 @@
+./components/camel-hbase/target/site/clover/org/apache/camel
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/CamelHBaseFilterTest
+CamelHBaseFilterTest		0.9583333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/CamelHBaseFilterTest_testPutMultiRowsAndScanWithFilters_1
+org.apache.camel.component.hbase.model.HBaseData		0.71428573
+org.apache.camel.component.hbase.mapping.HeaderMappingStrategy		0.64893615
+org.apache.camel.component.hbase.model.HBaseRow		0.5365854
+org.apache.camel.component.hbase.HBaseProducer		0.49468085
+org.apache.camel.component.hbase.model.HBaseCell		0.39285713
+org.apache.camel.component.hbase.mapping.CellMappingStrategyFactory		0.32142857
+org.apache.camel.component.hbase.HBaseAttribute		0.30769232
+org.apache.camel.component.hbase.HBaseHelper		0.12857144
+org.apache.camel.component.hbase.HBaseEndpoint		0.11764706
+org.apache.camel.component.hbase.converter.HBaseModelConverter		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/CamelHBaseTestSupport
+CamelHBaseTestSupport		0.8717949
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/HBaseConsumerTest
+HBaseConsumerTest		0.95454544
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/HBaseConsumerTest_testPutMultiRowsAndConsume_a
+org.apache.camel.component.hbase.HBaseDeleteHandler		0.8
+org.apache.camel.component.hbase.HBaseConsumer		0.6814159
+org.apache.camel.component.hbase.mapping.HeaderMappingStrategy		0.5106383
+org.apache.camel.component.hbase.model.HBaseRow		0.4878049
+org.apache.camel.component.hbase.mapping.CellMappingStrategyFactory		0.4642857
+org.apache.camel.component.hbase.model.HBaseData		0.42857143
+org.apache.camel.component.hbase.model.HBaseCell		0.33333334
+org.apache.camel.component.hbase.HBaseAttribute		0.30769232
+org.apache.camel.component.hbase.mapping.BodyMappingStrategy		0.2857143
+org.apache.camel.component.hbase.HBaseProducer		0.26595744
+org.apache.camel.component.hbase.HBaseEndpoint		0.15126051
+org.apache.camel.component.hbase.converter.HBaseModelConverter		0.13793103
+org.apache.camel.component.hbase.HBaseHelper		0.12857144
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/HBaseConvertionsTest
+HBaseConvertionsTest		0.97727275
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/HBaseConvertionsTest_testPutMultiRows_8
+org.apache.camel.component.hbase.mapping.HeaderMappingStrategy		0.5106383
+org.apache.camel.component.hbase.model.HBaseRow		0.4390244
+org.apache.camel.component.hbase.model.HBaseData		0.42857143
+org.apache.camel.component.hbase.model.HBaseCell		0.33333334
+org.apache.camel.component.hbase.mapping.CellMappingStrategyFactory		0.32142857
+org.apache.camel.component.hbase.HBaseAttribute		0.30769232
+org.apache.camel.component.hbase.converter.HBaseModelConverter		0.27586207
+org.apache.camel.component.hbase.HBaseProducer		0.26595744
+org.apache.camel.component.hbase.HBaseHelper		0.12857144
+org.apache.camel.component.hbase.HBaseEndpoint		0.10084034
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/HBaseProducerTest
+HBaseProducerTest		0.9512195
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/HBaseProducerTest_testPutAndGetWithModel_i
+org.apache.camel.component.hbase.mapping.HeaderMappingStrategy		0.7446808
+org.apache.camel.component.hbase.model.HBaseData		0.71428573
+org.apache.camel.component.hbase.model.HBaseRow		0.6585366
+org.apache.camel.component.hbase.HBaseProducer		0.5
+org.apache.camel.component.hbase.model.HBaseCell		0.4047619
+org.apache.camel.component.hbase.mapping.CellMappingStrategyFactory		0.32142857
+org.apache.camel.component.hbase.HBaseAttribute		0.30769232
+org.apache.camel.component.hbase.converter.HBaseModelConverter		0.13793103
+org.apache.camel.component.hbase.HBaseHelper		0.12857144
+org.apache.camel.component.hbase.HBaseEndpoint		0.10084034
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/HBaseProducerTest_testPutAndScan_f
+org.apache.camel.component.hbase.model.HBaseData		0.71428573
+org.apache.camel.component.hbase.mapping.HeaderMappingStrategy		0.64893615
+org.apache.camel.component.hbase.HBaseProducer		0.60638297
+org.apache.camel.component.hbase.model.HBaseRow		0.5365854
+org.apache.camel.component.hbase.model.HBaseCell		0.4047619
+org.apache.camel.component.hbase.mapping.CellMappingStrategyFactory		0.32142857
+org.apache.camel.component.hbase.HBaseAttribute		0.30769232
+org.apache.camel.component.hbase.converter.HBaseModelConverter		0.13793103
+org.apache.camel.component.hbase.HBaseEndpoint		0.11764706
+org.apache.camel.component.hbase.HBaseHelper		0.08571429
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/HBaseProducerTest_testPutMultiColumns_b
+org.apache.camel.component.hbase.mapping.HeaderMappingStrategy		0.5319149
+org.apache.camel.component.hbase.model.HBaseRow		0.4390244
+org.apache.camel.component.hbase.model.HBaseData		0.42857143
+org.apache.camel.component.hbase.model.HBaseCell		0.33333334
+org.apache.camel.component.hbase.mapping.CellMappingStrategyFactory		0.32142857
+org.apache.camel.component.hbase.HBaseProducer		0.26595744
+org.apache.camel.component.hbase.HBaseAttribute		0.23076923
+org.apache.camel.component.hbase.HBaseEndpoint		0.10084034
+org.apache.camel.component.hbase.HBaseHelper		0.08571429
+org.apache.camel.component.hbase.converter.HBaseModelConverter		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/HBaseProducerTest_testPutMultiColumns_k
+org.apache.camel.component.hbase.mapping.HeaderMappingStrategy		0.5319149
+org.apache.camel.component.hbase.model.HBaseRow		0.4390244
+org.apache.camel.component.hbase.model.HBaseData		0.42857143
+org.apache.camel.component.hbase.model.HBaseCell		0.33333334
+org.apache.camel.component.hbase.mapping.CellMappingStrategyFactory		0.32142857
+org.apache.camel.component.hbase.HBaseProducer		0.26595744
+org.apache.camel.component.hbase.HBaseAttribute		0.23076923
+org.apache.camel.component.hbase.HBaseEndpoint		0.10084034
+org.apache.camel.component.hbase.HBaseHelper		0.08571429
+org.apache.camel.component.hbase.converter.HBaseModelConverter		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/HBaseProducerTest_testPutMultiRows_0
+org.apache.camel.component.hbase.mapping.HeaderMappingStrategy		0.5106383
+org.apache.camel.component.hbase.model.HBaseRow		0.4390244
+org.apache.camel.component.hbase.model.HBaseData		0.42857143
+org.apache.camel.component.hbase.model.HBaseCell		0.33333334
+org.apache.camel.component.hbase.mapping.CellMappingStrategyFactory		0.32142857
+org.apache.camel.component.hbase.HBaseProducer		0.26595744
+org.apache.camel.component.hbase.HBaseAttribute		0.23076923
+org.apache.camel.component.hbase.HBaseEndpoint		0.10084034
+org.apache.camel.component.hbase.HBaseHelper		0.08571429
+org.apache.camel.component.hbase.converter.HBaseModelConverter		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/HBaseProducerTest_testPutMultiRows_9
+org.apache.camel.component.hbase.mapping.HeaderMappingStrategy		0.5106383
+org.apache.camel.component.hbase.model.HBaseRow		0.4390244
+org.apache.camel.component.hbase.model.HBaseData		0.42857143
+org.apache.camel.component.hbase.model.HBaseCell		0.33333334
+org.apache.camel.component.hbase.mapping.CellMappingStrategyFactory		0.32142857
+org.apache.camel.component.hbase.HBaseProducer		0.26595744
+org.apache.camel.component.hbase.HBaseAttribute		0.23076923
+org.apache.camel.component.hbase.HBaseEndpoint		0.10084034
+org.apache.camel.component.hbase.HBaseHelper		0.08571429
+org.apache.camel.component.hbase.converter.HBaseModelConverter		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/HBaseProducerTest_testPutMultiRows_c
+org.apache.camel.component.hbase.mapping.HeaderMappingStrategy		0.5106383
+org.apache.camel.component.hbase.model.HBaseRow		0.4390244
+org.apache.camel.component.hbase.model.HBaseData		0.42857143
+org.apache.camel.component.hbase.model.HBaseCell		0.33333334
+org.apache.camel.component.hbase.mapping.CellMappingStrategyFactory		0.32142857
+org.apache.camel.component.hbase.HBaseProducer		0.26595744
+org.apache.camel.component.hbase.HBaseAttribute		0.23076923
+org.apache.camel.component.hbase.HBaseHelper		0.12857144
+org.apache.camel.component.hbase.HBaseEndpoint		0.10084034
+org.apache.camel.component.hbase.converter.HBaseModelConverter		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/HBaseProducerTest_testPutMultiRows_d
+org.apache.camel.component.hbase.mapping.HeaderMappingStrategy		0.5106383
+org.apache.camel.component.hbase.model.HBaseRow		0.4390244
+org.apache.camel.component.hbase.model.HBaseData		0.42857143
+org.apache.camel.component.hbase.model.HBaseCell		0.33333334
+org.apache.camel.component.hbase.mapping.CellMappingStrategyFactory		0.32142857
+org.apache.camel.component.hbase.HBaseProducer		0.26595744
+org.apache.camel.component.hbase.HBaseAttribute		0.23076923
+org.apache.camel.component.hbase.HBaseEndpoint		0.10084034
+org.apache.camel.component.hbase.HBaseHelper		0.08571429
+org.apache.camel.component.hbase.converter.HBaseModelConverter		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/HBaseProducerTest_testPutMultiRows_e
+org.apache.camel.component.hbase.mapping.HeaderMappingStrategy		0.5106383
+org.apache.camel.component.hbase.model.HBaseRow		0.4390244
+org.apache.camel.component.hbase.model.HBaseData		0.42857143
+org.apache.camel.component.hbase.model.HBaseCell		0.33333334
+org.apache.camel.component.hbase.mapping.CellMappingStrategyFactory		0.32142857
+org.apache.camel.component.hbase.HBaseProducer		0.26595744
+org.apache.camel.component.hbase.HBaseAttribute		0.23076923
+org.apache.camel.component.hbase.HBaseEndpoint		0.10084034
+org.apache.camel.component.hbase.HBaseHelper		0.08571429
+org.apache.camel.component.hbase.converter.HBaseModelConverter		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/HBaseProducerTest_testPutMultiRows_j
+org.apache.camel.component.hbase.mapping.HeaderMappingStrategy		0.5106383
+org.apache.camel.component.hbase.model.HBaseRow		0.4390244
+org.apache.camel.component.hbase.model.HBaseData		0.42857143
+org.apache.camel.component.hbase.model.HBaseCell		0.33333334
+org.apache.camel.component.hbase.mapping.CellMappingStrategyFactory		0.32142857
+org.apache.camel.component.hbase.HBaseProducer		0.26595744
+org.apache.camel.component.hbase.HBaseAttribute		0.23076923
+org.apache.camel.component.hbase.HBaseEndpoint		0.10084034
+org.apache.camel.component.hbase.HBaseHelper		0.08571429
+org.apache.camel.component.hbase.converter.HBaseModelConverter		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/HBaseProducerTest_testPut_3
+org.apache.camel.component.hbase.mapping.HeaderMappingStrategy		0.5106383
+org.apache.camel.component.hbase.model.HBaseRow		0.4390244
+org.apache.camel.component.hbase.model.HBaseData		0.42857143
+org.apache.camel.component.hbase.model.HBaseCell		0.33333334
+org.apache.camel.component.hbase.mapping.CellMappingStrategyFactory		0.32142857
+org.apache.camel.component.hbase.HBaseAttribute		0.30769232
+org.apache.camel.component.hbase.HBaseProducer		0.26595744
+org.apache.camel.component.hbase.HBaseEndpoint		0.10084034
+org.apache.camel.component.hbase.HBaseHelper		0.08571429
+org.apache.camel.component.hbase.converter.HBaseModelConverter		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/HBaseProducerTest_testPut_7
+org.apache.camel.component.hbase.mapping.HeaderMappingStrategy		0.5106383
+org.apache.camel.component.hbase.model.HBaseRow		0.4390244
+org.apache.camel.component.hbase.model.HBaseData		0.42857143
+org.apache.camel.component.hbase.model.HBaseCell		0.33333334
+org.apache.camel.component.hbase.mapping.CellMappingStrategyFactory		0.32142857
+org.apache.camel.component.hbase.HBaseAttribute		0.30769232
+org.apache.camel.component.hbase.HBaseProducer		0.26595744
+org.apache.camel.component.hbase.HBaseEndpoint		0.10084034
+org.apache.camel.component.hbase.HBaseHelper		0.08571429
+org.apache.camel.component.hbase.converter.HBaseModelConverter		0.06896552
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/processor/idempotent/HBaseIdempotentRepositoryTest
+HBaseIdempotentRepositoryTest		0.8857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/processor/idempotent/HBaseIdempotentRepositoryTest_testAdd_h
+org.apache.camel.component.hbase.HBaseHelper		0.35714287
+org.apache.camel.component.hbase.processor.idempotent.HBaseIdempotentRepository		0.28125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/processor/idempotent/HBaseIdempotentRepositoryTest_testClear_2
+org.apache.camel.component.hbase.processor.idempotent.HBaseIdempotentRepository		0.375
+org.apache.camel.component.hbase.HBaseHelper		0.31428573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/processor/idempotent/HBaseIdempotentRepositoryTest_testConfirm_4
+org.apache.camel.component.hbase.processor.idempotent.HBaseIdempotentRepository		0.03125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/processor/idempotent/HBaseIdempotentRepositoryTest_testContains_6
+org.apache.camel.component.hbase.HBaseHelper		0.31428573
+org.apache.camel.component.hbase.processor.idempotent.HBaseIdempotentRepository		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/processor/idempotent/HBaseIdempotentRepositoryTest_testRemove_5
+org.apache.camel.component.hbase.processor.idempotent.HBaseIdempotentRepository		0.40625
+org.apache.camel.component.hbase.HBaseHelper		0.31428573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/processor/idempotent/HBaseIdempotentRepositoryTest_testRepositoryInRoute_g
+org.apache.camel.component.hbase.HBaseHelper		0.31428573
+org.apache.camel.component.hbase.processor.idempotent.HBaseIdempotentRepository		0.3125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/processor/idempotent/test-HBaseIdempotentRepositoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/test-CamelHBaseFilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/test-CamelHBaseTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/test-HBaseConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/test-HBaseConvertionsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hbase/target/site/clover/org/apache/camel/component/hbase/test-HBaseProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

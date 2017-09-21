@@ -1,0 +1,96 @@
+./components/camel-hipchat/target/site/clover/org/apache/camel
+./components/camel-hipchat/target/site/clover/org/apache/camel/component/hipchat/HipchatComponentConsumerTest
+HipchatComponentConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hipchat/target/site/clover/org/apache/camel/component/hipchat/HipchatComponentConsumerTest_sendInOnlyMultipleUsers_8
+org.apache.camel.component.hipchat.HipchatConsumer		0.6923077
+org.apache.camel.component.hipchat.HipchatConfiguration		0.53571427
+org.apache.camel.component.hipchat.HipchatEndpoint		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hipchat/target/site/clover/org/apache/camel/component/hipchat/HipchatComponentConsumerTest_sendInOnlyNoResponse_1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hipchat/target/site/clover/org/apache/camel/component/hipchat/HipchatComponentConsumerTest_sendInOnly_0
+org.apache.camel.component.hipchat.HipchatConsumer		0.6923077
+org.apache.camel.component.hipchat.HipchatConfiguration		0.53571427
+org.apache.camel.component.hipchat.HipchatEndpoint		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hipchat/target/site/clover/org/apache/camel/component/hipchat/HipchatComponentMultipleUsersTest
+HipchatComponentMultipleUsersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hipchat/target/site/clover/org/apache/camel/component/hipchat/HipchatComponentMultipleUsersTest_sendInOnlyMultipleUsers_3
+org.apache.camel.component.hipchat.HipchatConsumer		0.7307692
+org.apache.camel.component.hipchat.HipchatConfiguration		0.53571427
+org.apache.camel.component.hipchat.HipchatEndpoint		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hipchat/target/site/clover/org/apache/camel/component/hipchat/HipchatComponentProducerTest
+HipchatComponentProducerTest		1.0
+HipchatComponentProducerTest.PostCallback		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hipchat/target/site/clover/org/apache/camel/component/hipchat/HipchatComponentProducerTest_sendInOnly_4
+org.apache.camel.component.hipchat.HipchatProducer		0.6376812
+org.apache.camel.component.hipchat.HipchatConfiguration		0.14285715
+org.apache.camel.component.hipchat.HipchatEndpoint		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hipchat/target/site/clover/org/apache/camel/component/hipchat/HipchatComponentProducerTest_sendInOutRoomOnly_7
+org.apache.camel.component.hipchat.HipchatProducer		0.5797101
+org.apache.camel.component.hipchat.HipchatConfiguration		0.14285715
+org.apache.camel.component.hipchat.HipchatEndpoint		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hipchat/target/site/clover/org/apache/camel/component/hipchat/HipchatComponentProducerTest_sendInOutUserOnly_5
+org.apache.camel.component.hipchat.HipchatProducer		0.5217391
+org.apache.camel.component.hipchat.HipchatConfiguration		0.14285715
+org.apache.camel.component.hipchat.HipchatEndpoint		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hipchat/target/site/clover/org/apache/camel/component/hipchat/HipchatComponentProducerTest_sendInOut_a
+org.apache.camel.component.hipchat.HipchatProducer		0.6956522
+org.apache.camel.component.hipchat.HipchatConfiguration		0.14285715
+org.apache.camel.component.hipchat.HipchatEndpoint		0.14285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hipchat/target/site/clover/org/apache/camel/component/hipchat/HipchatComponentTest
+HipchatComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hipchat/target/site/clover/org/apache/camel/component/hipchat/HipchatComponentTest_testUriParseFull_9
+org.apache.camel.component.hipchat.HipchatConfiguration		0.89285713
+org.apache.camel.component.hipchat.HipchatComponent		0.79310346
+org.apache.camel.component.hipchat.HipchatEndpoint		0.35714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hipchat/target/site/clover/org/apache/camel/component/hipchat/HipchatComponentTest_testUriParseNoSlashAndNoPort_2
+org.apache.camel.component.hipchat.HipchatComponent		0.7586207
+org.apache.camel.component.hipchat.HipchatConfiguration		0.64285713
+org.apache.camel.component.hipchat.HipchatEndpoint		0.35714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hipchat/target/site/clover/org/apache/camel/component/hipchat/HipchatEPSuccessTestSupport
+HipchatEPSuccessTestSupport		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hipchat/target/site/clover/org/apache/camel/component/hipchat/HipchatEndpointTest
+HipchatEndpointTest		0.8333333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hipchat/target/site/clover/org/apache/camel/component/hipchat/HipchatEndpointTest_testCreateConsumer_6
+org.apache.camel.component.hipchat.HipchatEndpoint		0.5714286
+org.apache.camel.component.hipchat.HipchatComponent		0.06896552
+org.apache.camel.component.hipchat.HipchatConsumer		0.03846154
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hipchat/target/site/clover/org/apache/camel/component/hipchat/integration/HipchatConsumerIntegrationTest
+HipchatConsumerIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hipchat/target/site/clover/org/apache/camel/component/hipchat/integration/HipchatProducerIntegrationTest
+HipchatProducerIntegrationTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hipchat/target/site/clover/org/apache/camel/component/hipchat/integration/test-HipchatConsumerIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hipchat/target/site/clover/org/apache/camel/component/hipchat/integration/test-HipchatProducerIntegrationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hipchat/target/site/clover/org/apache/camel/component/hipchat/test-HipchatComponentConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hipchat/target/site/clover/org/apache/camel/component/hipchat/test-HipchatComponentMultipleUsersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hipchat/target/site/clover/org/apache/camel/component/hipchat/test-HipchatComponentProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hipchat/target/site/clover/org/apache/camel/component/hipchat/test-HipchatComponentProducerTest_PostCallback
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hipchat/target/site/clover/org/apache/camel/component/hipchat/test-HipchatComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hipchat/target/site/clover/org/apache/camel/component/hipchat/test-HipchatEPSuccessTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-hipchat/target/site/clover/org/apache/camel/component/hipchat/test-HipchatEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,130 @@
+./components/camel-bonita/target/site/clover/org/apache/camel
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/BonitaConfigurationTest
+BonitaConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/BonitaConfigurationTest_testBonitaConfigurationCustom_4
+org.apache.camel.component.bonita.BonitaComponent		0.71428573
+org.apache.camel.component.bonita.BonitaConfiguration		0.6486486
+org.apache.camel.component.bonita.BonitaEndpoint		0.3888889
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/BonitaConfigurationTest_testBonitaConfigurationDefaults_1
+org.apache.camel.component.bonita.BonitaComponent		0.71428573
+org.apache.camel.component.bonita.BonitaEndpoint		0.3888889
+org.apache.camel.component.bonita.BonitaConfiguration		0.16216215
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/BonitaConfigurationTest_testBonitaConfigurationWrongOperation_h
+org.apache.camel.component.bonita.BonitaComponent		0.64285713
+org.apache.camel.component.bonita.util.BonitaOperation		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/api/BonitaAPIBuilderTest
+BonitaAPIBuilderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/api/BonitaAPIBuilderTest_testNullBuilderInput_e
+testNullBuilderInput
+org.apache.camel.component.bonita.api.BonitaAPIBuilder		0.30769232
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/api/BonitaAPITest
+BonitaAPITest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/api/BonitaAPITest_testGetProcessDefinitionEmptyInput_f
+testGetProcessDefinitionEmptyInput
+org.apache.camel.component.bonita.api.BonitaAPIBuilder		0.7692308
+org.apache.camel.component.bonita.api.util.BonitaAPIConfig		0.30769232
+org.apache.camel.component.bonita.api.BonitaAPI		0.23529412
+org.apache.camel.component.bonita.api.filter.BonitaAuthFilter		0.051282052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/api/BonitaAPITest_testStartCaseEmptyProcessDefinitionId_a
+testStartCaseEmptyProcessDefinitionId
+org.apache.camel.component.bonita.api.BonitaAPIBuilder		0.7692308
+org.apache.camel.component.bonita.api.util.BonitaAPIConfig		0.30769232
+org.apache.camel.component.bonita.api.BonitaAPI		0.23529412
+org.apache.camel.component.bonita.api.filter.BonitaAuthFilter		0.051282052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/api/BonitaAPITest_testStartCaseNUllContractInput_2
+testStartCaseNUllContractInput
+org.apache.camel.component.bonita.api.BonitaAPIBuilder		0.7692308
+org.apache.camel.component.bonita.api.util.BonitaAPIConfig		0.30769232
+org.apache.camel.component.bonita.api.BonitaAPI		0.29411766
+org.apache.camel.component.bonita.api.filter.BonitaAuthFilter		0.051282052
+org.apache.camel.component.bonita.api.model.ProcessDefinitionResponse		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/api/BonitaAuthFilterAlreadyConnectedTest
+BonitaAuthFilterAlreadyConnectedTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/api/BonitaAuthFilterAlreadyConnectedTest_testAlreadyConnected_3
+testAlreadyConnected
+org.apache.camel.component.bonita.api.util.BonitaAPIConfig		0.23076923
+org.apache.camel.component.bonita.api.filter.BonitaAuthFilter		0.12820514
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/api/BonitaAuthFilterConnectionTest
+BonitaAuthFilterConnectionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/api/BonitaAuthFilterConnectionTest_testConnectionSupportCSRF_5
+testConnectionSupportCSRF
+org.apache.camel.component.bonita.api.filter.BonitaAuthFilter		0.7692308
+org.apache.camel.component.bonita.api.util.BonitaAPIConfig		0.46153846
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/api/BonitaAuthFilterConnectionTest_testConnection_g
+testConnection
+org.apache.camel.component.bonita.api.filter.BonitaAuthFilter		0.6923077
+org.apache.camel.component.bonita.api.util.BonitaAPIConfig		0.46153846
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/api/BonitaAuthFilterTest
+BonitaAuthFilterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/api/BonitaAuthFilterTest_testBonitaAuthFilterPasswordEmpty_8
+testBonitaAuthFilterPasswordEmpty
+org.apache.camel.component.bonita.api.util.BonitaAPIConfig		0.3846154
+org.apache.camel.component.bonita.api.filter.BonitaAuthFilter		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/api/BonitaAuthFilterTest_testBonitaAuthFilterUsernameEmpty_c
+testBonitaAuthFilterUsernameEmpty
+org.apache.camel.component.bonita.api.util.BonitaAPIConfig		0.3846154
+org.apache.camel.component.bonita.api.filter.BonitaAuthFilter		0.2820513
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/api/test-BonitaAPIBuilderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/api/test-BonitaAPITest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/api/test-BonitaAuthFilterAlreadyConnectedTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/api/test-BonitaAuthFilterConnectionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/api/test-BonitaAuthFilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/api/util/BonitaAPIConfigTest
+BonitaAPIConfigTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/api/util/BonitaAPIConfigTest_testBaseBonitaURL_7
+org.apache.camel.component.bonita.api.util.BonitaAPIConfig		0.30769232
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/api/util/BonitaAPIUtilPrepareInputsTest
+BonitaAPIUtilPrepareInputsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/api/util/BonitaAPIUtilPrepareInputsTest_testPrepareInputsEmpty_0
+org.apache.camel.component.bonita.api.util.BonitaAPIUtil		0.071428575
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/api/util/BonitaAPIUtilPrepareInputsTest_testPrepareInputsFileType_6
+org.apache.camel.component.bonita.api.model.FileInput		0.5
+org.apache.camel.component.bonita.api.model.UploadFileResponse		0.33333334
+org.apache.camel.component.bonita.api.util.BonitaAPIUtil		0.26190478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/api/util/BonitaAPIUtilPrepareInputsTest_testPrepareInputsNoFiles_9
+org.apache.camel.component.bonita.api.util.BonitaAPIUtil		0.11904762
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/api/util/BonitaAPIUtilPrepareInputsTest_testPrepareInputsOneFile_b
+org.apache.camel.component.bonita.api.model.FileInput		0.5
+org.apache.camel.component.bonita.api.model.UploadFileResponse		0.33333334
+org.apache.camel.component.bonita.api.util.BonitaAPIUtil		0.2857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/api/util/BonitaAPIUtilPrepareInputsTest_testPrepareInputsTempFilePath_d
+org.apache.camel.component.bonita.api.model.FileInput		0.5
+org.apache.camel.component.bonita.api.model.UploadFileResponse		0.33333334
+org.apache.camel.component.bonita.api.util.BonitaAPIUtil		0.26190478
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/api/util/test-BonitaAPIConfigTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/api/util/test-BonitaAPIUtilPrepareInputsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-bonita/target/site/clover/org/apache/camel/component/bonita/test-BonitaConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

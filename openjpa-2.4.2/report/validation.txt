@@ -1,0 +1,49 @@
+./openjpa-integration/validation/target/clover/org/apache/openjpa
+./openjpa-integration/validation/target/clover/org/apache/openjpa/integration/persistence/provider/TestPersistenceProviderResolver
+TestPersistenceProviderResolver		0.0
+TestPersistenceProviderResolver.TempUrlLoader		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-integration/validation/target/clover/org/apache/openjpa/integration/persistence/provider/test-TestPersistenceProviderResolver
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-integration/validation/target/clover/org/apache/openjpa/integration/persistence/provider/test-TestPersistenceProviderResolver_TempUrlLoader
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-integration/validation/target/clover/org/apache/openjpa/integration/validation/TestConstraintViolation
+TestConstraintViolation		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-integration/validation/target/clover/org/apache/openjpa/integration/validation/TestConstraints
+TestConstraints		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-integration/validation/target/clover/org/apache/openjpa/integration/validation/TestEagerInit
+TestEagerInit		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-integration/validation/target/clover/org/apache/openjpa/integration/validation/TestMappedSuper
+TestMappedSuper		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-integration/validation/target/clover/org/apache/openjpa/integration/validation/TestMerge
+TestMerge		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-integration/validation/target/clover/org/apache/openjpa/integration/validation/TestTraversableResolver
+TestTraversableResolver		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-integration/validation/target/clover/org/apache/openjpa/integration/validation/TestValidatingLEM
+TestValidatingLEM		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-integration/validation/target/clover/org/apache/openjpa/integration/validation/TestValidationGroups
+TestValidationGroups		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-integration/validation/target/clover/org/apache/openjpa/integration/validation/test-TestConstraintViolation
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-integration/validation/target/clover/org/apache/openjpa/integration/validation/test-TestConstraints
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-integration/validation/target/clover/org/apache/openjpa/integration/validation/test-TestEagerInit
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-integration/validation/target/clover/org/apache/openjpa/integration/validation/test-TestMappedSuper
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-integration/validation/target/clover/org/apache/openjpa/integration/validation/test-TestMerge
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-integration/validation/target/clover/org/apache/openjpa/integration/validation/test-TestTraversableResolver
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-integration/validation/target/clover/org/apache/openjpa/integration/validation/test-TestValidatingLEM
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./openjpa-integration/validation/target/clover/org/apache/openjpa/integration/validation/test-TestValidationGroups
+-- -- -- -- -- -- -- -- -- -- -- -- --

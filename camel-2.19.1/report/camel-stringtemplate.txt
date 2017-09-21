@@ -1,0 +1,56 @@
+./components/camel-stringtemplate/target/site/clover/org/apache/camel
+./components/camel-stringtemplate/target/site/clover/org/apache/camel/component/stringtemplate/StringTemplateConcurrentTest
+StringTemplateConcurrentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stringtemplate/target/site/clover/org/apache/camel/component/stringtemplate/StringTemplateConcurrentTest_testConcurrentProducers_0
+org.apache.camel.component.stringtemplate.StringTemplateEndpoint		0.5151515
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stringtemplate/target/site/clover/org/apache/camel/component/stringtemplate/StringTemplateConcurrentTest_testNoConcurrentProducers_1
+org.apache.camel.component.stringtemplate.StringTemplateEndpoint		0.5151515
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stringtemplate/target/site/clover/org/apache/camel/component/stringtemplate/StringTemplateContentCacheTest
+StringTemplateContentCacheTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stringtemplate/target/site/clover/org/apache/camel/component/stringtemplate/StringTemplateContentCacheTest_testCached_7
+org.apache.camel.component.stringtemplate.StringTemplateEndpoint		0.5151515
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stringtemplate/target/site/clover/org/apache/camel/component/stringtemplate/StringTemplateContentCacheTest_testClearCacheViaJmx_4
+org.apache.camel.component.stringtemplate.StringTemplateEndpoint		0.5151515
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stringtemplate/target/site/clover/org/apache/camel/component/stringtemplate/StringTemplateContentCacheTest_testNotCached_6
+org.apache.camel.component.stringtemplate.StringTemplateEndpoint		0.5151515
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stringtemplate/target/site/clover/org/apache/camel/component/stringtemplate/StringTemplateCustomDelimiterTest
+StringTemplateCustomDelimiterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stringtemplate/target/site/clover/org/apache/camel/component/stringtemplate/StringTemplateCustomDelimiterTest_testWithBraceDelimiter_2
+org.apache.camel.component.stringtemplate.StringTemplateEndpoint		0.5151515
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stringtemplate/target/site/clover/org/apache/camel/component/stringtemplate/StringTemplateCustomDelimiterTest_testWithDollarDelimiter_3
+org.apache.camel.component.stringtemplate.StringTemplateEndpoint		0.5151515
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stringtemplate/target/site/clover/org/apache/camel/component/stringtemplate/StringTemplateLetterTest
+StringTemplateLetterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stringtemplate/target/site/clover/org/apache/camel/component/stringtemplate/StringTemplateLetterTest_testVelocityLetter_9
+org.apache.camel.component.stringtemplate.StringTemplateEndpoint		0.5151515
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stringtemplate/target/site/clover/org/apache/camel/component/stringtemplate/StringTemplateTest
+StringTemplateTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stringtemplate/target/site/clover/org/apache/camel/component/stringtemplate/StringTemplateTest_testVelocityContext_8
+org.apache.camel.component.stringtemplate.StringTemplateEndpoint		0.4848485
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stringtemplate/target/site/clover/org/apache/camel/component/stringtemplate/StringTemplateTest_test_5
+org.apache.camel.component.stringtemplate.StringTemplateEndpoint		0.5151515
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stringtemplate/target/site/clover/org/apache/camel/component/stringtemplate/test-StringTemplateConcurrentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stringtemplate/target/site/clover/org/apache/camel/component/stringtemplate/test-StringTemplateContentCacheTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stringtemplate/target/site/clover/org/apache/camel/component/stringtemplate/test-StringTemplateCustomDelimiterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stringtemplate/target/site/clover/org/apache/camel/component/stringtemplate/test-StringTemplateLetterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stringtemplate/target/site/clover/org/apache/camel/component/stringtemplate/test-StringTemplateTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

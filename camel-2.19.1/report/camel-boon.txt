@@ -1,0 +1,34 @@
+./components/camel-boon/target/site/clover/org/apache/camel
+./components/camel-boon/target/site/clover/org/apache/camel/component/boon/BoonConcurrentTest
+BoonConcurrentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-boon/target/site/clover/org/apache/camel/component/boon/BoonConcurrentTest_testConcurrentProducers_2
+org.apache.camel.component.boon.BoonDataFormat		0.30952382
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-boon/target/site/clover/org/apache/camel/component/boon/BoonConcurrentTest_testNoConcurrentProducers_3
+org.apache.camel.component.boon.BoonDataFormat		0.30952382
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-boon/target/site/clover/org/apache/camel/component/boon/BoonDataFormatTest
+BoonDataFormatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-boon/target/site/clover/org/apache/camel/component/boon/BoonDataFormatTest_testMarshalAndUnmarshalList_5
+org.apache.camel.component.boon.BoonDataFormat		0.30952382
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-boon/target/site/clover/org/apache/camel/component/boon/BoonDataFormatTest_testMarshalAndUnmarshalMap_1
+org.apache.camel.component.boon.BoonDataFormat		0.30952382
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-boon/target/site/clover/org/apache/camel/component/boon/BoonDataFormatTest_testMarshalAndUnmarshalPojoMap_4
+org.apache.camel.component.boon.BoonDataFormat		0.30952382
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-boon/target/site/clover/org/apache/camel/component/boon/BoonDataFormatTest_testMarshalAndUnmarshalPojo_0
+org.apache.camel.component.boon.BoonDataFormat		0.30952382
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-boon/target/site/clover/org/apache/camel/component/boon/TestPojo
+TestPojo		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-boon/target/site/clover/org/apache/camel/component/boon/test-BoonConcurrentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-boon/target/site/clover/org/apache/camel/component/boon/test-BoonDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-boon/target/site/clover/org/apache/camel/component/boon/test-TestPojo
+-- -- -- -- -- -- -- -- -- -- -- -- --

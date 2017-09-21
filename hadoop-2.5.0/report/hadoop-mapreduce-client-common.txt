@@ -1,0 +1,616 @@
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapred/TestJobClient
+TestJobClient		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapred/TestJobClientGetJob
+TestJobClientGetJob		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapred/TestJobClientGetJob_testGetRunningJobFromJobClient_18
+org.apache.hadoop.mapred.LocalClientProtocolProvider		0.54545456
+org.apache.hadoop.mapred.LocalDistributedCacheManager		0.28455284
+org.apache.hadoop.mapred.LocalJobRunner		0.26271185
+org.apache.hadoop.mapred.LocalJobRunner.Job		0.2413793
+org.apache.hadoop.mapred.LocalJobRunner.Job.MapTaskRunnable		0.20689656
+org.apache.hadoop.mapred.LocalJobRunnerMetrics		0.19444445
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.041825093
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapred/TestJobClientGetJob_testGetRunningJobFromJobClient_p
+org.apache.hadoop.mapred.LocalClientProtocolProvider		0.54545456
+org.apache.hadoop.mapred.LocalDistributedCacheManager		0.28455284
+org.apache.hadoop.mapred.LocalJobRunner		0.26271185
+org.apache.hadoop.mapred.LocalJobRunner.Job		0.2413793
+org.apache.hadoop.mapred.LocalJobRunner.Job.MapTaskRunnable		0.20689656
+org.apache.hadoop.mapred.LocalJobRunnerMetrics		0.19444445
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.041825093
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapred/TestJobClient_testGetClusterStatusWithLocalJobRunner_1
+org.apache.hadoop.mapred.LocalClientProtocolProvider		0.54545456
+org.apache.hadoop.mapred.LocalJobRunnerMetrics		0.19444445
+org.apache.hadoop.mapred.LocalJobRunner		0.15254237
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapred/TestJobClient_testGetClusterStatusWithLocalJobRunner_31
+org.apache.hadoop.mapred.LocalClientProtocolProvider		0.54545456
+org.apache.hadoop.mapred.LocalJobRunnerMetrics		0.19444445
+org.apache.hadoop.mapred.LocalJobRunner		0.15254237
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapred/TestJobClient_testGetStagingAreaDir_5h
+org.apache.hadoop.mapred.LocalClientProtocolProvider		0.54545456
+org.apache.hadoop.mapred.LocalJobRunnerMetrics		0.19444445
+org.apache.hadoop.mapred.LocalJobRunner		0.12711865
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapred/TestJobClient_testGetStagingAreaDir_y
+org.apache.hadoop.mapred.LocalClientProtocolProvider		0.54545456
+org.apache.hadoop.mapred.LocalJobRunnerMetrics		0.19444445
+org.apache.hadoop.mapred.LocalJobRunner		0.12711865
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapred/TestJobClient_testIsJobDirValid_i9
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapred/TestJobClient_testIsJobDirValid_v
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapred/TestLocalDistributedCacheManager
+TestLocalDistributedCacheManager		0.76086956
+TestLocalDistributedCacheManager.MockFileSystem		1.0
+TestLocalDistributedCacheManager.MockInputStream		0.18181819
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapred/TestLocalDistributedCacheManager_testDownload_fq
+org.apache.hadoop.mapred.LocalDistributedCacheManager		0.60162604
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.14828898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapred/TestLocalDistributedCacheManager_testDownload_w
+org.apache.hadoop.mapred.LocalDistributedCacheManager		0.60162604
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.14828898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapred/TestLocalDistributedCacheManager_testDuplicateDownload_5v
+org.apache.hadoop.mapred.LocalDistributedCacheManager		0.60162604
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.14828898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapred/TestLocalDistributedCacheManager_testDuplicateDownload_9
+org.apache.hadoop.mapred.LocalDistributedCacheManager		0.60162604
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.14828898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapred/TestLocalDistributedCacheManager_testEmptyDownload_12
+org.apache.hadoop.mapred.LocalDistributedCacheManager		0.29268292
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.041825093
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapred/TestLocalDistributedCacheManager_testEmptyDownload_74
+org.apache.hadoop.mapred.LocalDistributedCacheManager		0.29268292
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.041825093
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapred/TestLocalModeWithNewApis
+TestLocalModeWithNewApis		0.9591837
+TestLocalModeWithNewApis.TokenizerMapper		1.0
+TestLocalModeWithNewApis.IntSumReducer		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapred/TestLocalModeWithNewApis_testNewApis_5
+org.apache.hadoop.mapred.LocalJobRunner.Job.MapTaskRunnable		0.9655172
+org.apache.hadoop.mapred.LocalJobRunner.Job.ReduceTaskRunnable		0.9
+org.apache.hadoop.mapred.LocalJobRunner.Job		0.7887931
+org.apache.hadoop.mapred.LocalJobRunnerMetrics		0.5833333
+org.apache.hadoop.mapred.LocalClientProtocolProvider		0.54545456
+org.apache.hadoop.mapred.LocalJobRunner		0.44067797
+org.apache.hadoop.mapred.LocalDistributedCacheManager		0.32520324
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.041825093
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapred/TestLocalModeWithNewApis_testNewApis_dz
+org.apache.hadoop.mapred.LocalJobRunner.Job.MapTaskRunnable		0.9655172
+org.apache.hadoop.mapred.LocalJobRunner.Job.ReduceTaskRunnable		0.9
+org.apache.hadoop.mapred.LocalJobRunner.Job		0.7887931
+org.apache.hadoop.mapred.LocalJobRunnerMetrics		0.5833333
+org.apache.hadoop.mapred.LocalClientProtocolProvider		0.54545456
+org.apache.hadoop.mapred.LocalJobRunner		0.44067797
+org.apache.hadoop.mapred.LocalDistributedCacheManager		0.32520324
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.041825093
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapred/TestMRWithDistributedCache
+TestMRWithDistributedCache		0.98913044
+TestMRWithDistributedCache.DistributedCacheChecker		1.0
+TestMRWithDistributedCache.DistributedCacheCheckerMapper		1.0
+TestMRWithDistributedCache.DistributedCacheCheckerReducer		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapred/TestMRWithDistributedCache_testDeprecatedFunctions_fm
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapred/TestMRWithDistributedCache_testDeprecatedFunctions_u
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapred/TestMRWithDistributedCache_testLocalJobRunner_e
+org.apache.hadoop.mapred.LocalJobRunner.Job.MapTaskRunnable		0.9655172
+org.apache.hadoop.mapred.LocalJobRunner.Job.ReduceTaskRunnable		0.9
+org.apache.hadoop.mapred.LocalDistributedCacheManager		0.8292683
+org.apache.hadoop.mapred.LocalJobRunner.Job		0.7284483
+org.apache.hadoop.mapred.LocalJobRunnerMetrics		0.5833333
+org.apache.hadoop.mapred.LocalClientProtocolProvider		0.54545456
+org.apache.hadoop.mapred.LocalJobRunner		0.3983051
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.14068441
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapred/TestMRWithDistributedCache_testLocalJobRunner_f
+org.apache.hadoop.mapred.LocalJobRunner.Job.MapTaskRunnable		0.9655172
+org.apache.hadoop.mapred.LocalJobRunner.Job.ReduceTaskRunnable		0.9
+org.apache.hadoop.mapred.LocalDistributedCacheManager		0.8292683
+org.apache.hadoop.mapred.LocalJobRunner.Job		0.7284483
+org.apache.hadoop.mapred.LocalJobRunnerMetrics		0.5833333
+org.apache.hadoop.mapred.LocalClientProtocolProvider		0.54545456
+org.apache.hadoop.mapred.LocalJobRunner		0.3983051
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.14068441
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/TestTypeConverter
+TestTypeConverter		0.990566
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/TestTypeConverter_testEnums_2o
+org.apache.hadoop.mapreduce.TypeConverter		0.17763157
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/TestTypeConverter_testEnums_s
+org.apache.hadoop.mapreduce.TypeConverter		0.17763157
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/TestTypeConverter_testFromYarnApplicationReport_o
+org.apache.hadoop.mapreduce.TypeConverter		0.09210526
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/TestTypeConverter_testFromYarnApplicationReport_z
+org.apache.hadoop.mapreduce.TypeConverter		0.09210526
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/TestTypeConverter_testFromYarnJobReport_15
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobReportPBImpl		0.3794643
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.375
+org.apache.hadoop.mapreduce.v2.util.MRProtoUtils		0.16666667
+org.apache.hadoop.mapreduce.TypeConverter		0.05263158
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/TestTypeConverter_testFromYarnJobReport_9z
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobReportPBImpl		0.3794643
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.375
+org.apache.hadoop.mapreduce.v2.util.MRProtoUtils		0.16666667
+org.apache.hadoop.mapreduce.TypeConverter		0.05263158
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/TestTypeConverter_testFromYarnQueueInfo_5f
+org.apache.hadoop.mapreduce.TypeConverter		0.04605263
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/TestTypeConverter_testFromYarnQueueInfo_n
+org.apache.hadoop.mapreduce.TypeConverter		0.04605263
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/TestTypeConverter_testFromYarnQueue_17
+org.apache.hadoop.mapreduce.TypeConverter		0.05592105
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/TestTypeConverter_testFromYarnQueue_7o
+org.apache.hadoop.mapreduce.TypeConverter		0.05592105
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/TestTypeConverter_testFromYarn_14
+org.apache.hadoop.mapreduce.TypeConverter		0.088815786
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/TestTypeConverter_testFromYarn_5d
+org.apache.hadoop.mapreduce.TypeConverter		0.088815786
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/TestRPCFactories
+TestRPCFactories		0.8181818
+TestRPCFactories.MRClientProtocolTestImpl		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/TestRPCFactories_test_is
+org.apache.hadoop.mapreduce.v2.api.impl.pb.client.MRClientProtocolPBClientImpl		0.032967035
+org.apache.hadoop.mapreduce.v2.api.impl.pb.service.MRClientProtocolPBServiceImpl		0.023255814
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/TestRPCFactories_test_q
+org.apache.hadoop.mapreduce.v2.api.impl.pb.client.MRClientProtocolPBClientImpl		0.032967035
+org.apache.hadoop.mapreduce.v2.api.impl.pb.service.MRClientProtocolPBServiceImpl		0.023255814
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/TestRecordFactory
+TestRecordFactory		0.6666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/TestRecordFactory_testPbRecordFactory_2j
+org.apache.hadoop.mapreduce.v2.api.protocolrecords.impl.pb.GetCountersRequestPBImpl		0.035714287
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.CounterGroupPBImpl		0.016528925
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/TestRecordFactory_testPbRecordFactory_x
+org.apache.hadoop.mapreduce.v2.api.protocolrecords.impl.pb.GetCountersRequestPBImpl		0.035714287
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.CounterGroupPBImpl		0.016528925
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/api/records/TestIds
+TestIds		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/api/records/TestIds_testJobId_19
+org.apache.hadoop.mapreduce.v2.api.records.JobId		0.8333333
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.375
+org.apache.hadoop.mapreduce.v2.util.MRBuilderUtils		0.10869565
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/api/records/TestIds_testJobId_gq
+org.apache.hadoop.mapreduce.v2.api.records.JobId		0.8333333
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.375
+org.apache.hadoop.mapreduce.v2.util.MRBuilderUtils		0.10869565
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/api/records/TestIds_testTaskAttemptId_16
+org.apache.hadoop.mapreduce.v2.api.records.TaskAttemptId		0.8627451
+org.apache.hadoop.mapreduce.v2.api.records.TaskId		0.6229508
+org.apache.hadoop.mapreduce.v2.api.records.JobId		0.5
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.TaskIdPBImpl		0.45882353
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.375
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.TaskAttemptIdPBImpl		0.375
+org.apache.hadoop.mapreduce.v2.util.MRBuilderUtils		0.3478261
+org.apache.hadoop.mapreduce.v2.util.MRProtoUtils		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/api/records/TestIds_testTaskAttemptId_d5
+org.apache.hadoop.mapreduce.v2.api.records.TaskAttemptId		0.8627451
+org.apache.hadoop.mapreduce.v2.api.records.TaskId		0.6229508
+org.apache.hadoop.mapreduce.v2.api.records.JobId		0.5
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.TaskIdPBImpl		0.45882353
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.375
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.TaskAttemptIdPBImpl		0.375
+org.apache.hadoop.mapreduce.v2.util.MRBuilderUtils		0.3478261
+org.apache.hadoop.mapreduce.v2.util.MRProtoUtils		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/api/records/TestIds_testTaskId_58
+org.apache.hadoop.mapreduce.v2.api.records.TaskId		0.78688526
+org.apache.hadoop.mapreduce.v2.api.records.JobId		0.5416667
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.TaskIdPBImpl		0.45882353
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.375
+org.apache.hadoop.mapreduce.v2.util.MRBuilderUtils		0.23913044
+org.apache.hadoop.mapreduce.v2.util.MRProtoUtils		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/api/records/TestIds_testTaskId_a
+org.apache.hadoop.mapreduce.v2.api.records.TaskId		0.78688526
+org.apache.hadoop.mapreduce.v2.api.records.JobId		0.5416667
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.TaskIdPBImpl		0.45882353
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.375
+org.apache.hadoop.mapreduce.v2.util.MRBuilderUtils		0.23913044
+org.apache.hadoop.mapreduce.v2.util.MRProtoUtils		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/jobhistory/TestFileNameIndexUtils
+TestFileNameIndexUtils		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/jobhistory/TestFileNameIndexUtils_testEncodingDecodingEquivalence_61
+testEncodingDecodingEquivalence
+org.apache.hadoop.mapreduce.v2.jobhistory.JobIndexInfo		0.73214287
+org.apache.hadoop.mapreduce.v2.jobhistory.FileNameIndexUtils		0.70535713
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.375
+org.apache.hadoop.mapreduce.v2.api.records.JobId		0.27083334
+org.apache.hadoop.mapreduce.TypeConverter		0.04276316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/jobhistory/TestFileNameIndexUtils_testEncodingDecodingEquivalence_f
+testEncodingDecodingEquivalence
+org.apache.hadoop.mapreduce.v2.jobhistory.JobIndexInfo		0.73214287
+org.apache.hadoop.mapreduce.v2.jobhistory.FileNameIndexUtils		0.70535713
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.375
+org.apache.hadoop.mapreduce.v2.api.records.JobId		0.27083334
+org.apache.hadoop.mapreduce.TypeConverter		0.04276316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/jobhistory/TestFileNameIndexUtils_testJobHistoryFileNameBackwardsCompatible_0
+testJobHistoryFileNameBackwardsCompatible
+org.apache.hadoop.mapreduce.v2.jobhistory.JobIndexInfo		0.625
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.375
+org.apache.hadoop.mapreduce.v2.api.records.JobId		0.27083334
+org.apache.hadoop.mapreduce.v2.jobhistory.FileNameIndexUtils		0.24107143
+org.apache.hadoop.mapreduce.TypeConverter		0.032894738
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/jobhistory/TestFileNameIndexUtils_testJobHistoryFileNameBackwardsCompatible_12
+testJobHistoryFileNameBackwardsCompatible
+org.apache.hadoop.mapreduce.v2.jobhistory.JobIndexInfo		0.625
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.375
+org.apache.hadoop.mapreduce.v2.api.records.JobId		0.27083334
+org.apache.hadoop.mapreduce.v2.jobhistory.FileNameIndexUtils		0.24107143
+org.apache.hadoop.mapreduce.TypeConverter		0.032894738
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/jobhistory/TestFileNameIndexUtils_testJobNamePercentDecoding_3
+testJobNamePercentDecoding
+org.apache.hadoop.mapreduce.v2.jobhistory.JobIndexInfo		0.4107143
+org.apache.hadoop.mapreduce.v2.jobhistory.FileNameIndexUtils		0.26785713
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.21875
+org.apache.hadoop.mapreduce.TypeConverter		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/jobhistory/TestFileNameIndexUtils_testJobNamePercentDecoding_9c
+testJobNamePercentDecoding
+org.apache.hadoop.mapreduce.v2.jobhistory.JobIndexInfo		0.4107143
+org.apache.hadoop.mapreduce.v2.jobhistory.FileNameIndexUtils		0.26785713
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.21875
+org.apache.hadoop.mapreduce.TypeConverter		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/jobhistory/TestFileNameIndexUtils_testJobNamePercentEncoding_8
+testJobNamePercentEncoding
+org.apache.hadoop.mapreduce.v2.jobhistory.JobIndexInfo		0.73214287
+org.apache.hadoop.mapreduce.v2.jobhistory.FileNameIndexUtils		0.51785713
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.375
+org.apache.hadoop.mapreduce.TypeConverter		0.04276316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/jobhistory/TestFileNameIndexUtils_testJobNamePercentEncoding_a2
+testJobNamePercentEncoding
+org.apache.hadoop.mapreduce.v2.jobhistory.JobIndexInfo		0.73214287
+org.apache.hadoop.mapreduce.v2.jobhistory.FileNameIndexUtils		0.51785713
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.375
+org.apache.hadoop.mapreduce.TypeConverter		0.04276316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/jobhistory/TestFileNameIndexUtils_testJobStartTimeBackwardsCompatible_8a
+testJobStartTimeBackwardsCompatible
+org.apache.hadoop.mapreduce.v2.jobhistory.JobIndexInfo		0.44642857
+org.apache.hadoop.mapreduce.v2.jobhistory.FileNameIndexUtils		0.26785713
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.21875
+org.apache.hadoop.mapreduce.TypeConverter		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/jobhistory/TestFileNameIndexUtils_testJobStartTimeBackwardsCompatible_c
+testJobStartTimeBackwardsCompatible
+org.apache.hadoop.mapreduce.v2.jobhistory.JobIndexInfo		0.44642857
+org.apache.hadoop.mapreduce.v2.jobhistory.FileNameIndexUtils		0.26785713
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.21875
+org.apache.hadoop.mapreduce.TypeConverter		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/jobhistory/TestFileNameIndexUtils_testQueueNamePercentDecoding_8r
+testQueueNamePercentDecoding
+org.apache.hadoop.mapreduce.v2.jobhistory.JobIndexInfo		0.4107143
+org.apache.hadoop.mapreduce.v2.jobhistory.FileNameIndexUtils		0.26785713
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.21875
+org.apache.hadoop.mapreduce.TypeConverter		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/jobhistory/TestFileNameIndexUtils_testQueueNamePercentDecoding_l
+testQueueNamePercentDecoding
+org.apache.hadoop.mapreduce.v2.jobhistory.JobIndexInfo		0.4107143
+org.apache.hadoop.mapreduce.v2.jobhistory.FileNameIndexUtils		0.26785713
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.21875
+org.apache.hadoop.mapreduce.TypeConverter		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/jobhistory/TestFileNameIndexUtils_testQueueNamePercentEncoding_1a
+testQueueNamePercentEncoding
+org.apache.hadoop.mapreduce.v2.jobhistory.JobIndexInfo		0.73214287
+org.apache.hadoop.mapreduce.v2.jobhistory.FileNameIndexUtils		0.51785713
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.375
+org.apache.hadoop.mapreduce.TypeConverter		0.04276316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/jobhistory/TestFileNameIndexUtils_testQueueNamePercentEncoding_7m
+testQueueNamePercentEncoding
+org.apache.hadoop.mapreduce.v2.jobhistory.JobIndexInfo		0.73214287
+org.apache.hadoop.mapreduce.v2.jobhistory.FileNameIndexUtils		0.51785713
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.375
+org.apache.hadoop.mapreduce.TypeConverter		0.04276316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/jobhistory/TestFileNameIndexUtils_testUserNamePercentDecoding_13
+testUserNamePercentDecoding
+org.apache.hadoop.mapreduce.v2.jobhistory.JobIndexInfo		0.4107143
+org.apache.hadoop.mapreduce.v2.jobhistory.FileNameIndexUtils		0.26785713
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.21875
+org.apache.hadoop.mapreduce.TypeConverter		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/jobhistory/TestFileNameIndexUtils_testUserNamePercentDecoding_dj
+testUserNamePercentDecoding
+org.apache.hadoop.mapreduce.v2.jobhistory.JobIndexInfo		0.4107143
+org.apache.hadoop.mapreduce.v2.jobhistory.FileNameIndexUtils		0.26785713
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.21875
+org.apache.hadoop.mapreduce.TypeConverter		0.02631579
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/jobhistory/TestFileNameIndexUtils_testUserNamePercentEncoding_1a
+testUserNamePercentEncoding
+org.apache.hadoop.mapreduce.v2.jobhistory.JobIndexInfo		0.73214287
+org.apache.hadoop.mapreduce.v2.jobhistory.FileNameIndexUtils		0.51785713
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.375
+org.apache.hadoop.mapreduce.TypeConverter		0.04276316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/jobhistory/TestFileNameIndexUtils_testUserNamePercentEncoding_r
+testUserNamePercentEncoding
+org.apache.hadoop.mapreduce.v2.jobhistory.JobIndexInfo		0.73214287
+org.apache.hadoop.mapreduce.v2.jobhistory.FileNameIndexUtils		0.51785713
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.375
+org.apache.hadoop.mapreduce.TypeConverter		0.04276316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/jobhistory/TestJobHistoryUtils
+TestJobHistoryUtils		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/jobhistory/TestJobHistoryUtils_testGetHistoryDirsForCleaning_10
+testGetHistoryDirsForCleaning
+org.apache.hadoop.mapreduce.v2.jobhistory.JobHistoryUtils		0.22325581
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/jobhistory/TestJobHistoryUtils_testGetHistoryDirsForCleaning_5m
+testGetHistoryDirsForCleaning
+org.apache.hadoop.mapreduce.v2.jobhistory.JobHistoryUtils		0.22325581
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps
+TestMRApps		0.7883212
+TestMRApps.MockFileSystem		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testGetJobFileWithUser_8l
+testGetJobFileWithUser
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.019011406
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testGetJobFileWithUser_g
+testGetJobFileWithUser
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.019011406
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testJobIDShort_9o
+testJobIDShort
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.0076045627
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testJobIDShort_z
+testJobIDShort
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.0076045627
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testJobIDtoString_7
+testJobIDtoString
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.328125
+org.apache.hadoop.mapreduce.v2.api.records.JobId		0.25
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.0076045627
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testJobIDtoString_8
+testJobIDtoString
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.328125
+org.apache.hadoop.mapreduce.v2.api.records.JobId		0.25
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.0076045627
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testSetClasspathWithArchives_18
+testSetClasspathWithArchives
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.27756655
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testSetClasspathWithArchives_7h
+testSetClasspathWithArchives
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.27756655
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testSetClasspathWithFramework_1d
+testSetClasspathWithFramework
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.22813688
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testSetClasspathWithFramework_7t
+testSetClasspathWithFramework
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.22813688
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testSetClasspathWithJobClassloader_72
+testSetClasspathWithJobClassloader
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.19391635
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testSetClasspathWithJobClassloader_m
+testSetClasspathWithJobClassloader
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.19391635
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testSetClasspathWithNoUserPrecendence_1c
+testSetClasspathWithNoUserPrecendence
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.19391635
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testSetClasspathWithNoUserPrecendence_5e
+testSetClasspathWithNoUserPrecendence
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.19391635
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testSetClasspathWithUserPrecendence_1e
+testSetClasspathWithUserPrecendence
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.19391635
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testSetClasspathWithUserPrecendence_7u
+testSetClasspathWithUserPrecendence
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.19391635
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testSetClasspath_bp
+testSetClasspath
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.19391635
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testSetClasspath_h
+testSetClasspath
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.19391635
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testSetupDistributedCacheEmpty_4
+testSetupDistributedCacheEmpty
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.041825093
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testSetupDistributedCacheEmpty_9u
+testSetupDistributedCacheEmpty
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.041825093
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testSetupDistributedCache_et
+testSetupDistributedCache
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.14068441
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testSetupDistributedCache_k
+testSetupDistributedCache
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.14068441
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testSystemClasses_22
+testSystemClasses
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.0076045627
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testSystemClasses_t
+testSystemClasses
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.0076045627
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testTaskAttemptIDShort_11
+testTaskAttemptIDShort
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.0076045627
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testTaskAttemptIDShort_4r
+testTaskAttemptIDShort
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.0076045627
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testTaskAttemptIDtoString_1f
+testTaskAttemptIDtoString
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.TaskIdPBImpl		0.42352942
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.TaskAttemptIdPBImpl		0.328125
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.265625
+org.apache.hadoop.mapreduce.v2.api.records.TaskAttemptId		0.23529412
+org.apache.hadoop.mapreduce.v2.util.MRProtoUtils		0.16666667
+org.apache.hadoop.mapreduce.v2.api.records.JobId		0.104166664
+org.apache.hadoop.mapreduce.v2.api.records.TaskId		0.08196721
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.0076045627
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testTaskAttemptIDtoString_7y
+testTaskAttemptIDtoString
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.TaskIdPBImpl		0.42352942
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.TaskAttemptIdPBImpl		0.328125
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.265625
+org.apache.hadoop.mapreduce.v2.api.records.TaskAttemptId		0.23529412
+org.apache.hadoop.mapreduce.v2.util.MRProtoUtils		0.16666667
+org.apache.hadoop.mapreduce.v2.api.records.JobId		0.104166664
+org.apache.hadoop.mapreduce.v2.api.records.TaskId		0.08196721
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.0076045627
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testTaskIDBadType_9r
+testTaskIDBadType
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.0076045627
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testTaskIDBadType_d
+testTaskIDBadType
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.0076045627
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testTaskIDShort_6
+testTaskIDShort
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.0076045627
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testTaskIDShort_be
+testTaskIDShort
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.0076045627
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testTaskIDtoString_2
+testTaskIDtoString
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.TaskIdPBImpl		0.42352942
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.265625
+org.apache.hadoop.mapreduce.v2.api.records.TaskId		0.26229507
+org.apache.hadoop.mapreduce.v2.util.MRProtoUtils		0.16666667
+org.apache.hadoop.mapreduce.v2.api.records.JobId		0.104166664
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.0076045627
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testTaskIDtoString_46
+testTaskIDtoString
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.TaskIdPBImpl		0.42352942
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.265625
+org.apache.hadoop.mapreduce.v2.api.records.TaskId		0.26229507
+org.apache.hadoop.mapreduce.v2.util.MRProtoUtils		0.16666667
+org.apache.hadoop.mapreduce.v2.api.records.JobId		0.104166664
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.0076045627
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testTaskStateUI_i
+testTaskStateUI
+org.apache.hadoop.mapreduce.v2.util.MRApps.TaskStateUI		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testTaskStateUI_k
+testTaskStateUI
+org.apache.hadoop.mapreduce.v2.util.MRApps.TaskStateUI		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testToJobID_bt
+testToJobID
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.375
+org.apache.hadoop.mapreduce.TypeConverter		0.032894738
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.0076045627
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testToJobID_j
+testToJobID
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.375
+org.apache.hadoop.mapreduce.TypeConverter		0.032894738
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.0076045627
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testToTaskAttemptID_1b
+testToTaskAttemptID
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.375
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.TaskAttemptIdPBImpl		0.375
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.TaskIdPBImpl		0.3647059
+org.apache.hadoop.mapreduce.v2.util.MRProtoUtils		0.083333336
+org.apache.hadoop.mapreduce.TypeConverter		0.0756579
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.0076045627
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testToTaskAttemptID_5a
+testToTaskAttemptID
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.375
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.TaskAttemptIdPBImpl		0.375
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.TaskIdPBImpl		0.3647059
+org.apache.hadoop.mapreduce.v2.util.MRProtoUtils		0.083333336
+org.apache.hadoop.mapreduce.TypeConverter		0.0756579
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.0076045627
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testToTaskID_ag
+testToTaskID
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.TaskIdPBImpl		0.45882353
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.375
+org.apache.hadoop.mapreduce.v2.util.MRProtoUtils		0.16666667
+org.apache.hadoop.mapreduce.TypeConverter		0.065789476
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.0076045627
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/clover/org/apache/hadoop/mapreduce/v2/util/TestMRApps_testToTaskID_b
+testToTaskID
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.TaskIdPBImpl		0.45882353
+org.apache.hadoop.mapreduce.v2.api.records.impl.pb.JobIdPBImpl		0.375
+org.apache.hadoop.mapreduce.v2.util.MRProtoUtils		0.16666667
+org.apache.hadoop.mapreduce.TypeConverter		0.065789476
+org.apache.hadoop.mapreduce.v2.util.MRApps		0.0076045627
+-- -- -- -- -- -- -- -- -- -- -- -- --

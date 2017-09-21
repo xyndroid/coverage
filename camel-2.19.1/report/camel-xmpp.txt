@@ -1,0 +1,116 @@
+./components/camel-xmpp/target/site/clover/org/apache/camel
+./components/camel-xmpp/target/site/clover/org/apache/camel/component/xmpp/EmbeddedXmppTestServer
+EmbeddedXmppTestServer		0.93333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmpp/target/site/clover/org/apache/camel/component/xmpp/GoogleTalkEndpointTest
+GoogleTalkEndpointTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmpp/target/site/clover/org/apache/camel/component/xmpp/GoogleTalkTest
+GoogleTalkTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmpp/target/site/clover/org/apache/camel/component/xmpp/UriConfigurationTest
+UriConfigurationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmpp/target/site/clover/org/apache/camel/component/xmpp/UriConfigurationTest_testDefaultResource_5
+org.apache.camel.component.xmpp.XmppComponent		0.6666667
+org.apache.camel.component.xmpp.XmppEndpoint		0.06392694
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmpp/target/site/clover/org/apache/camel/component/xmpp/UriConfigurationTest_testGroupChatConfiguration_0
+org.apache.camel.component.xmpp.XmppComponent		0.6666667
+org.apache.camel.component.xmpp.XmppEndpoint		0.1324201
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmpp/target/site/clover/org/apache/camel/component/xmpp/UriConfigurationTest_testPrivateChatConfiguration_3
+org.apache.camel.component.xmpp.XmppComponent		0.7111111
+org.apache.camel.component.xmpp.XmppEndpoint		0.1324201
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmpp/target/site/clover/org/apache/camel/component/xmpp/UriConfigurationTest_testPubSubConfiguration_8
+org.apache.camel.component.xmpp.XmppComponent		0.6666667
+org.apache.camel.component.xmpp.XmppEndpoint		0.14155251
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmpp/target/site/clover/org/apache/camel/component/xmpp/XmppDeferredConnectionTest
+XmppDeferredConnectionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmpp/target/site/clover/org/apache/camel/component/xmpp/XmppDeferredConnectionTest_testXmppChatWithDelayedConnection_2
+org.apache.camel.component.xmpp.XmppLogger		0.85714287
+org.apache.camel.component.xmpp.XmppMessage		0.53333336
+org.apache.camel.component.xmpp.XmppBinding		0.51428574
+org.apache.camel.component.xmpp.XmppConsumer		0.42335767
+org.apache.camel.component.xmpp.XmppPrivateChatProducer		0.40449437
+org.apache.camel.component.xmpp.XmppEndpoint		0.32876712
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmpp/target/site/clover/org/apache/camel/component/xmpp/XmppMultiUserChatTest
+XmppMultiUserChatTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmpp/target/site/clover/org/apache/camel/component/xmpp/XmppProducerConcurrentTest
+XmppProducerConcurrentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmpp/target/site/clover/org/apache/camel/component/xmpp/XmppProducerConcurrentTest_testConcurrentProducers_6
+org.apache.camel.component.xmpp.XmppLogger		0.5714286
+org.apache.camel.component.xmpp.XmppPrivateChatProducer		0.39325842
+org.apache.camel.component.xmpp.XmppBinding		0.20952381
+org.apache.camel.component.xmpp.XmppEndpoint		0.07762557
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmpp/target/site/clover/org/apache/camel/component/xmpp/XmppProducerConcurrentTest_testNoConcurrentProducers_4
+org.apache.camel.component.xmpp.XmppLogger		0.5714286
+org.apache.camel.component.xmpp.XmppPrivateChatProducer		0.38202247
+org.apache.camel.component.xmpp.XmppBinding		0.20952381
+org.apache.camel.component.xmpp.XmppEndpoint		0.07305936
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmpp/target/site/clover/org/apache/camel/component/xmpp/XmppRobustConnectionTest
+XmppRobustConnectionTest		0.95
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmpp/target/site/clover/org/apache/camel/component/xmpp/XmppRobustConnectionTest_testXmppChatWithRobustConnection_9
+org.apache.camel.component.xmpp.XmppLogger		0.5714286
+org.apache.camel.component.xmpp.XmppMessage		0.53333336
+org.apache.camel.component.xmpp.XmppBinding		0.51428574
+org.apache.camel.component.xmpp.XmppPrivateChatProducer		0.505618
+org.apache.camel.component.xmpp.XmppConsumer		0.21167883
+org.apache.camel.component.xmpp.XmppEndpoint		0.11872146
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmpp/target/site/clover/org/apache/camel/component/xmpp/XmppRouteChatTest
+XmppRouteChatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmpp/target/site/clover/org/apache/camel/component/xmpp/XmppRouteChatTest_testXmppChat_1
+org.apache.camel.component.xmpp.XmppLogger		0.5714286
+org.apache.camel.component.xmpp.XmppMessage		0.53333336
+org.apache.camel.component.xmpp.XmppBinding		0.51428574
+org.apache.camel.component.xmpp.XmppPrivateChatProducer		0.3483146
+org.apache.camel.component.xmpp.XmppConsumer		0.13138686
+org.apache.camel.component.xmpp.XmppEndpoint		0.10958904
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmpp/target/site/clover/org/apache/camel/component/xmpp/XmppRouteMultipleProducersSingleConsumerTest
+XmppRouteMultipleProducersSingleConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmpp/target/site/clover/org/apache/camel/component/xmpp/XmppRouteMultipleProducersSingleConsumerTest_testProducerGetsEverything_7
+org.apache.camel.component.xmpp.XmppLogger		0.5714286
+org.apache.camel.component.xmpp.XmppMessage		0.53333336
+org.apache.camel.component.xmpp.XmppBinding		0.52380955
+org.apache.camel.component.xmpp.XmppPrivateChatProducer		0.3483146
+org.apache.camel.component.xmpp.XmppConsumer		0.13138686
+org.apache.camel.component.xmpp.XmppEndpoint		0.10958904
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmpp/target/site/clover/org/apache/camel/component/xmpp/XmppRouteTest
+XmppRouteTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmpp/target/site/clover/org/apache/camel/component/xmpp/test-EmbeddedXmppTestServer
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmpp/target/site/clover/org/apache/camel/component/xmpp/test-GoogleTalkEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmpp/target/site/clover/org/apache/camel/component/xmpp/test-GoogleTalkTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmpp/target/site/clover/org/apache/camel/component/xmpp/test-UriConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmpp/target/site/clover/org/apache/camel/component/xmpp/test-XmppDeferredConnectionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmpp/target/site/clover/org/apache/camel/component/xmpp/test-XmppMultiUserChatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmpp/target/site/clover/org/apache/camel/component/xmpp/test-XmppProducerConcurrentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmpp/target/site/clover/org/apache/camel/component/xmpp/test-XmppRobustConnectionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmpp/target/site/clover/org/apache/camel/component/xmpp/test-XmppRouteChatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmpp/target/site/clover/org/apache/camel/component/xmpp/test-XmppRouteMultipleProducersSingleConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-xmpp/target/site/clover/org/apache/camel/component/xmpp/test-XmppRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

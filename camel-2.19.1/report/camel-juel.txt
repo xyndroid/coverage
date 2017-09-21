@@ -1,0 +1,67 @@
+./components/camel-juel/target/site/clover/org/apache/camel
+./components/camel-juel/target/site/clover/org/apache/camel/language/juel/JuelLanguageTest
+JuelLanguageTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-juel/target/site/clover/org/apache/camel/language/juel/JuelLanguageTest_testElExpressions_c
+org.apache.camel.language.juel.JuelExpression		0.7288136
+org.apache.camel.language.juel.JuelLanguage		0.5
+org.apache.camel.language.juel.BeanAndMethodELResolver		0.15
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-juel/target/site/clover/org/apache/camel/language/juel/JuelLanguageTest_testElPredicates_4
+org.apache.camel.language.juel.BeanAndMethodELResolver		0.775
+org.apache.camel.language.juel.JuelExpression		0.7457627
+org.apache.camel.language.juel.JuelLanguage		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-juel/target/site/clover/org/apache/camel/language/juel/JuelResourceTest
+JuelResourceTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-juel/target/site/clover/org/apache/camel/language/juel/JuelResourceTest_testJuelResource_8
+org.apache.camel.language.juel.JuelExpression		0.6779661
+org.apache.camel.language.juel.BeanAndMethodELResolver		0.15
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-juel/target/site/clover/org/apache/camel/language/juel/JuelTest
+JuelTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-juel/target/site/clover/org/apache/camel/language/juel/JuelTest_testJuel_a
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-juel/target/site/clover/org/apache/camel/language/juel/NullBodyTest
+NullBodyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-juel/target/site/clover/org/apache/camel/language/juel/NullBodyTest_testNullBody_3
+org.apache.camel.language.juel.JuelExpression		0.6779661
+org.apache.camel.language.juel.BeanAndMethodELResolver		0.15
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-juel/target/site/clover/org/apache/camel/language/juel/issues/XsltLosesHeaderTest
+XsltLosesHeaderTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-juel/target/site/clover/org/apache/camel/language/juel/issues/XsltLosesHeaderTest_testXsltLosesHeader_2
+testXsltLosesHeader
+org.apache.camel.language.juel.JuelExpression		0.6779661
+org.apache.camel.language.juel.BeanAndMethodELResolver		0.15
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-juel/target/site/clover/org/apache/camel/language/juel/issues/test-XsltLosesHeaderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-juel/target/site/clover/org/apache/camel/language/juel/test-JuelLanguageTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-juel/target/site/clover/org/apache/camel/language/juel/test-JuelResourceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-juel/target/site/clover/org/apache/camel/language/juel/test-JuelTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-juel/target/site/clover/org/apache/camel/language/juel/test-NullBodyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-juel/target/site/clover/org/apache/camel/processor/juel/SimulatorTest
+SimulatorTest		1.0
+SimulatorTest.MyBean		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-juel/target/site/clover/org/apache/camel/processor/juel/SimulatorTest_testReceivesBarResponse_1
+org.apache.camel.language.juel.JuelExpression		0.6779661
+org.apache.camel.language.juel.BeanAndMethodELResolver		0.15
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-juel/target/site/clover/org/apache/camel/processor/juel/SimulatorTest_testReceivesFooResponse_7
+org.apache.camel.language.juel.JuelExpression		0.6779661
+org.apache.camel.language.juel.BeanAndMethodELResolver		0.15
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-juel/target/site/clover/org/apache/camel/processor/juel/test-SimulatorTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-juel/target/site/clover/org/apache/camel/processor/juel/test-SimulatorTest_MyBean
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,22 @@
+./components/camel-http-common/target/site/clover/org/apache/camel
+./components/camel-http-common/target/site/clover/org/apache/camel/http/common/DefaultHttpBindingTest
+DefaultHttpBindingTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http-common/target/site/clover/org/apache/camel/http/common/DefaultHttpBindingTest_testConvertDateTypeConverter_3b
+org.apache.camel.http.common.HttpHeaderFilterStrategy		1.0
+org.apache.camel.http.common.DefaultHttpBinding		0.015659954
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http-common/target/site/clover/org/apache/camel/http/common/DefaultHttpBindingTest_testConvertDate_15
+org.apache.camel.http.common.HttpHeaderFilterStrategy		1.0
+org.apache.camel.http.common.DefaultHttpBinding		0.035794184
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http-common/target/site/clover/org/apache/camel/http/common/DefaultHttpBindingTest_testConvertLocaleTypeConverter_fz
+org.apache.camel.http.common.HttpHeaderFilterStrategy		1.0
+org.apache.camel.http.common.DefaultHttpBinding		0.015659954
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http-common/target/site/clover/org/apache/camel/http/common/DefaultHttpBindingTest_testConvertLocale_i0
+org.apache.camel.http.common.HttpHeaderFilterStrategy		1.0
+org.apache.camel.http.common.DefaultHttpBinding		0.035794184
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-http-common/target/site/clover/org/apache/camel/http/common/test-DefaultHttpBindingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

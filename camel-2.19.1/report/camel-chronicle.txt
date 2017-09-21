@@ -1,0 +1,34 @@
+./components/camel-chronicle/target/site/clover/org/apache/camel
+./components/camel-chronicle/target/site/clover/org/apache/camel/component/chronicle/engine/ChronicleEngineConsumerTest
+ChronicleEngineConsumerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chronicle/target/site/clover/org/apache/camel/component/chronicle/engine/ChronicleEngineConsumerTest_testMapEventsFiltering_0
+testMapEventsFiltering
+org.apache.camel.component.chronicle.engine.ChronicleEngineConsumer.EngineTopologicalEventListener		0.90909094
+org.apache.camel.component.chronicle.engine.ChronicleEngineConsumer.EngineMapEventListener		0.6666667
+org.apache.camel.component.chronicle.engine.ChronicleEngineMapEventType		0.6
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chronicle/target/site/clover/org/apache/camel/component/chronicle/engine/ChronicleEngineConsumerTest_testMapEvents_2
+testMapEvents
+org.apache.camel.component.chronicle.engine.ChronicleEngineConsumer.EngineTopicEventListener		0.8888889
+org.apache.camel.component.chronicle.engine.ChronicleEngineConsumer.EngineMapEventListener		0.5185185
+org.apache.camel.component.chronicle.engine.ChronicleEngineMapEventType		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chronicle/target/site/clover/org/apache/camel/component/chronicle/engine/ChronicleEngineConsumerTest_testTopicEvents_3
+testTopicEvents
+org.apache.camel.component.chronicle.engine.ChronicleEngineConsumer.EngineTopologicalEventListener		0.90909094
+org.apache.camel.component.chronicle.engine.ChronicleEngineConsumer.EngineTopicEventListener		0.8888889
+org.apache.camel.component.chronicle.engine.ChronicleEngineConsumer.EngineMapEventListener		0.5185185
+org.apache.camel.component.chronicle.engine.ChronicleEngineMapEventType		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chronicle/target/site/clover/org/apache/camel/component/chronicle/engine/ChronicleEngineConsumerTest_testTopologicalEvents_1
+testTopologicalEvents
+org.apache.camel.component.chronicle.engine.ChronicleEngineConsumer.EngineTopologicalEventListener		0.90909094
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chronicle/target/site/clover/org/apache/camel/component/chronicle/engine/ChronicleEngineTestSupport
+ChronicleEngineTestSupport		0.8
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chronicle/target/site/clover/org/apache/camel/component/chronicle/engine/test-ChronicleEngineConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-chronicle/target/site/clover/org/apache/camel/component/chronicle/engine/test-ChronicleEngineTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --

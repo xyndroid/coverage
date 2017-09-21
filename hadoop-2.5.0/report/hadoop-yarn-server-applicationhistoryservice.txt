@@ -1,0 +1,1464 @@
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestApplicationHistoryClientService
+TestApplicationHistoryClientService		0.6630435
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestApplicationHistoryClientService_testApplicationAttemptReport_s
+testApplicationAttemptReport
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.95348835
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptFinishDataPBImpl		0.45890412
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptStartDataPBImpl		0.33870968
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.21621622
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryClientService.ApplicationHSClientProtocolHandler		0.12903225
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryClientService		0.08695652
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.04597701
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryServer		0.021978023
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestApplicationHistoryClientService_testApplicationAttemptReport_z
+testApplicationAttemptReport
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.95348835
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptFinishDataPBImpl		0.45890412
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptStartDataPBImpl		0.33870968
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.21621622
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryClientService.ApplicationHSClientProtocolHandler		0.12903225
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryClientService		0.08695652
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.04597701
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryServer		0.021978023
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestApplicationHistoryClientService_testApplicationAttempts_14
+testApplicationAttempts
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.95348835
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptFinishDataPBImpl		0.45890412
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptStartDataPBImpl		0.33870968
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.21621622
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryClientService.ApplicationHSClientProtocolHandler		0.09677419
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.09195402
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryClientService		0.08695652
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryServer		0.021978023
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestApplicationHistoryClientService_testApplicationAttempts_36
+testApplicationAttempts
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.95348835
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptFinishDataPBImpl		0.45890412
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptStartDataPBImpl		0.33870968
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.21621622
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryClientService.ApplicationHSClientProtocolHandler		0.09677419
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.09195402
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryClientService		0.08695652
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryServer		0.021978023
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestApplicationHistoryClientService_testApplicationReport_20
+testApplicationReport
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.9655172
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationStartDataPBImpl		0.47402596
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationFinishDataPBImpl		0.459854
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.1891892
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.18390805
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryClientService.ApplicationHSClientProtocolHandler		0.16129032
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryClientService		0.08695652
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryServer		0.021978023
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestApplicationHistoryClientService_testApplicationReport_3w
+testApplicationReport
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.9655172
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationStartDataPBImpl		0.47402596
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationFinishDataPBImpl		0.459854
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.1891892
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.18390805
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryClientService.ApplicationHSClientProtocolHandler		0.16129032
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryClientService		0.08695652
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryServer		0.021978023
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestApplicationHistoryClientService_testApplications_n
+testApplications
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.9655172
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationStartDataPBImpl		0.47402596
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationFinishDataPBImpl		0.459854
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.22988506
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.1891892
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryClientService.ApplicationHSClientProtocolHandler		0.09677419
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryClientService		0.08695652
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryServer		0.021978023
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestApplicationHistoryClientService_testApplications_u
+testApplications
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.9655172
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationStartDataPBImpl		0.47402596
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationFinishDataPBImpl		0.459854
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.22988506
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.1891892
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryClientService.ApplicationHSClientProtocolHandler		0.09677419
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryClientService		0.08695652
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryServer		0.021978023
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestApplicationHistoryClientService_testContainerReport_1r
+testContainerReport
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerHistoryData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.9655172
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationStartDataPBImpl		0.47402596
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationFinishDataPBImpl		0.459854
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerFinishDataPBImpl		0.44354838
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.4054054
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerStartDataPBImpl		0.2969697
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.26436782
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryClientService.ApplicationHSClientProtocolHandler		0.12903225
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryClientService		0.08695652
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryServer		0.021978023
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestApplicationHistoryClientService_testContainerReport_47
+testContainerReport
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerHistoryData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.9655172
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationStartDataPBImpl		0.47402596
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationFinishDataPBImpl		0.459854
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerFinishDataPBImpl		0.44354838
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.4054054
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerStartDataPBImpl		0.2969697
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.26436782
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryClientService.ApplicationHSClientProtocolHandler		0.12903225
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryClientService		0.08695652
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryServer		0.021978023
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestApplicationHistoryClientService_testContainers_1v
+testContainers
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerHistoryData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.9655172
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationStartDataPBImpl		0.47402596
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationFinishDataPBImpl		0.459854
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerFinishDataPBImpl		0.44354838
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.4054054
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.31034482
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerStartDataPBImpl		0.2969697
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryClientService.ApplicationHSClientProtocolHandler		0.09677419
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryClientService		0.08695652
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryServer		0.021978023
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestApplicationHistoryClientService_testContainers_3r
+testContainers
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerHistoryData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.9655172
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationStartDataPBImpl		0.47402596
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationFinishDataPBImpl		0.459854
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerFinishDataPBImpl		0.44354838
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.4054054
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.31034482
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerStartDataPBImpl		0.2969697
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryClientService.ApplicationHSClientProtocolHandler		0.09677419
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryClientService		0.08695652
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryServer		0.021978023
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestApplicationHistoryManagerImpl
+TestApplicationHistoryManagerImpl		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestApplicationHistoryManagerImpl_testApplicationReport_19
+testApplicationReport
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.9655172
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.8604651
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationStartDataPBImpl		0.47402596
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationFinishDataPBImpl		0.459854
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptFinishDataPBImpl		0.45890412
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.36036035
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptStartDataPBImpl		0.33870968
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.26436782
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestApplicationHistoryManagerImpl_testApplicationReport_4d
+testApplicationReport
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.9655172
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.8604651
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationStartDataPBImpl		0.47402596
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationFinishDataPBImpl		0.459854
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptFinishDataPBImpl		0.45890412
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.36036035
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptStartDataPBImpl		0.33870968
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.26436782
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestApplicationHistoryServer
+TestApplicationHistoryServer		0.8518519
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestApplicationHistoryServer_testLaunch_17
+testLaunch
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.EntityDeletionThread		0.7692308
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AHSWebApp		0.725
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryServer		0.64835167
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryClientService		0.5652174
+org.apache.hadoop.yarn.server.timeline.security.TimelineDelegationTokenSecretManagerService.TimelineDelegationTokenSecretManager		0.5
+org.apache.hadoop.yarn.server.timeline.GenericObjectMapper		0.2972973
+org.apache.hadoop.yarn.server.timeline.security.TimelineDelegationTokenSecretManagerService		0.24390244
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.16091955
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.07692308
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore		0.06944445
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore		0.02793296
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestApplicationHistoryServer_testLaunch_v
+testLaunch
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.EntityDeletionThread		0.7692308
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AHSWebApp		0.725
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryServer		0.64835167
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryClientService		0.5652174
+org.apache.hadoop.yarn.server.timeline.security.TimelineDelegationTokenSecretManagerService.TimelineDelegationTokenSecretManager		0.5
+org.apache.hadoop.yarn.server.timeline.GenericObjectMapper		0.2972973
+org.apache.hadoop.yarn.server.timeline.security.TimelineDelegationTokenSecretManagerService		0.24390244
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.16091955
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.07692308
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore		0.06944445
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore		0.02793296
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestApplicationHistoryServer_testStartStopServer_1s
+testStartStopServer
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.EntityDeletionThread		0.9230769
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryClientService		0.7826087
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AHSWebApp		0.725
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryServer		0.61538464
+org.apache.hadoop.yarn.server.timeline.security.TimelineDelegationTokenSecretManagerService.TimelineDelegationTokenSecretManager		0.5
+org.apache.hadoop.yarn.server.timeline.GenericObjectMapper		0.4054054
+org.apache.hadoop.yarn.server.timeline.security.TimelineDelegationTokenSecretManagerService		0.31707317
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.20689656
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore		0.08194444
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.07692308
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore		0.044692736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestApplicationHistoryServer_testStartStopServer_39
+testStartStopServer
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.EntityDeletionThread		0.9230769
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryClientService		0.7826087
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AHSWebApp		0.725
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryServer		0.61538464
+org.apache.hadoop.yarn.server.timeline.security.TimelineDelegationTokenSecretManagerService.TimelineDelegationTokenSecretManager		0.5
+org.apache.hadoop.yarn.server.timeline.GenericObjectMapper		0.4054054
+org.apache.hadoop.yarn.server.timeline.security.TimelineDelegationTokenSecretManagerService		0.31707317
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.20689656
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore		0.08194444
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.07692308
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore		0.044692736
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestFileSystemApplicationHistoryStore
+TestFileSystemApplicationHistoryStore		0.9705882
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestFileSystemApplicationHistoryStore_testMassiveWriteContainerHistoryData_m
+testMassiveWriteContainerHistoryData
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore.HistoryFileWriter		0.9
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore.HistoryDataKey		0.54545456
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerFinishDataPBImpl		0.41129032
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationFinishDataPBImpl		0.40145984
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerStartDataPBImpl		0.4
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationStartDataPBImpl		0.38311687
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore		0.10614525
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestFileSystemApplicationHistoryStore_testMassiveWriteContainerHistoryData_q
+testMassiveWriteContainerHistoryData
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore.HistoryFileWriter		0.9
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore.HistoryDataKey		0.54545456
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerFinishDataPBImpl		0.41129032
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationFinishDataPBImpl		0.40145984
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerStartDataPBImpl		0.4
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationStartDataPBImpl		0.38311687
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore		0.10614525
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestFileSystemApplicationHistoryStore_testMissingApplicationAttemptHistoryData_1a
+testMissingApplicationAttemptHistoryData
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore.HistoryFileReader		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore.HistoryFileReader.Entry		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore.HistoryDataKey		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore.HistoryFileWriter		0.9
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore		0.7765363
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.76744187
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerHistoryData		0.75
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.6896552
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerStartDataPBImpl		0.6424242
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationFinishDataPBImpl		0.6131387
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerFinishDataPBImpl		0.61290324
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationStartDataPBImpl		0.6103896
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptStartDataPBImpl		0.6048387
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptFinishDataPBImpl		0.60273975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestFileSystemApplicationHistoryStore_testMissingApplicationAttemptHistoryData_x
+testMissingApplicationAttemptHistoryData
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore.HistoryFileReader		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore.HistoryFileReader.Entry		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore.HistoryDataKey		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore.HistoryFileWriter		0.9
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore		0.7765363
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.76744187
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerHistoryData		0.75
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.6896552
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerStartDataPBImpl		0.6424242
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationFinishDataPBImpl		0.6131387
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerFinishDataPBImpl		0.61290324
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationStartDataPBImpl		0.6103896
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptStartDataPBImpl		0.6048387
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptFinishDataPBImpl		0.60273975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestFileSystemApplicationHistoryStore_testMissingContainerHistoryData_2
+testMissingContainerHistoryData
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore.HistoryFileReader		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore.HistoryFileReader.Entry		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore.HistoryDataKey		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore.HistoryFileWriter		0.9
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore		0.7765363
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.76744187
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerHistoryData		0.75
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.6896552
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerStartDataPBImpl		0.6424242
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationFinishDataPBImpl		0.6131387
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerFinishDataPBImpl		0.61290324
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationStartDataPBImpl		0.6103896
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptStartDataPBImpl		0.6048387
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptFinishDataPBImpl		0.60273975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestFileSystemApplicationHistoryStore_testMissingContainerHistoryData_3
+testMissingContainerHistoryData
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore.HistoryFileReader		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore.HistoryFileReader.Entry		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore.HistoryDataKey		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore.HistoryFileWriter		0.9
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore		0.7765363
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.76744187
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerHistoryData		0.75
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.6896552
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerStartDataPBImpl		0.6424242
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationFinishDataPBImpl		0.6131387
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerFinishDataPBImpl		0.61290324
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationStartDataPBImpl		0.6103896
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptStartDataPBImpl		0.6048387
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptFinishDataPBImpl		0.60273975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestFileSystemApplicationHistoryStore_testReadWriteHistoryData_1i
+testReadWriteHistoryData
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore.HistoryFileReader		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore.HistoryFileReader.Entry		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore.HistoryDataKey		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore.HistoryFileWriter		0.9
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore		0.7709497
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.76744187
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerHistoryData		0.75
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.6896552
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerStartDataPBImpl		0.6424242
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationFinishDataPBImpl		0.6131387
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerFinishDataPBImpl		0.61290324
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationStartDataPBImpl		0.6103896
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptStartDataPBImpl		0.6048387
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptFinishDataPBImpl		0.60273975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestFileSystemApplicationHistoryStore_testReadWriteHistoryData_27
+testReadWriteHistoryData
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore.HistoryFileReader		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore.HistoryFileReader.Entry		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore.HistoryDataKey		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore.HistoryFileWriter		0.9
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore		0.7709497
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.76744187
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerHistoryData		0.75
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.6896552
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerStartDataPBImpl		0.6424242
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationFinishDataPBImpl		0.6131387
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerFinishDataPBImpl		0.61290324
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationStartDataPBImpl		0.6103896
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptStartDataPBImpl		0.6048387
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptFinishDataPBImpl		0.60273975
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestFileSystemApplicationHistoryStore_testWriteAfterApplicationFinish_18
+testWriteAfterApplicationFinish
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore.HistoryFileWriter		0.9
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore.HistoryDataKey		0.54545456
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationFinishDataPBImpl		0.40145984
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationStartDataPBImpl		0.38311687
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptFinishDataPBImpl		0.26712328
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerFinishDataPBImpl		0.26612905
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptStartDataPBImpl		0.22580644
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerStartDataPBImpl		0.2
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore		0.10055866
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestFileSystemApplicationHistoryStore_testWriteAfterApplicationFinish_49
+testWriteAfterApplicationFinish
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore.HistoryFileWriter		0.9
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore.HistoryDataKey		0.54545456
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationFinishDataPBImpl		0.40145984
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationStartDataPBImpl		0.38311687
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptFinishDataPBImpl		0.26712328
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerFinishDataPBImpl		0.26612905
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptStartDataPBImpl		0.22580644
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerStartDataPBImpl		0.2
+org.apache.hadoop.yarn.server.applicationhistoryservice.FileSystemApplicationHistoryStore		0.10055866
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestMemoryApplicationHistoryStore
+TestMemoryApplicationHistoryStore		0.925
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestMemoryApplicationHistoryStore_testMassiveWriteContainerHistory_12
+testMassiveWriteContainerHistory
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerHistoryData		0.6666667
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerFinishDataPBImpl		0.44354838
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerStartDataPBImpl		0.2969697
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.17117117
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestMemoryApplicationHistoryStore_testMassiveWriteContainerHistory_t
+testMassiveWriteContainerHistory
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerHistoryData		0.6666667
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerFinishDataPBImpl		0.44354838
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerStartDataPBImpl		0.2969697
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.17117117
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestMemoryApplicationHistoryStore_testReadWriteApplicationAttemptHistory_f
+testReadWriteApplicationAttemptHistory
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.76744187
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.6551724
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationStartDataPBImpl		0.47402596
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationFinishDataPBImpl		0.459854
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptFinishDataPBImpl		0.45890412
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.44144145
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptStartDataPBImpl		0.33870968
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestMemoryApplicationHistoryStore_testReadWriteApplicationAttemptHistory_g
+testReadWriteApplicationAttemptHistory
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.76744187
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.6551724
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationStartDataPBImpl		0.47402596
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationFinishDataPBImpl		0.459854
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptFinishDataPBImpl		0.45890412
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.44144145
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptStartDataPBImpl		0.33870968
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestMemoryApplicationHistoryStore_testReadWriteApplicationHistory_4r
+testReadWriteApplicationHistory
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.7241379
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationStartDataPBImpl		0.47402596
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationFinishDataPBImpl		0.459854
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.21621622
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestMemoryApplicationHistoryStore_testReadWriteApplicationHistory_6
+testReadWriteApplicationHistory
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.7241379
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationStartDataPBImpl		0.47402596
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationFinishDataPBImpl		0.459854
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.21621622
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestMemoryApplicationHistoryStore_testReadWriteContainerHistory_10
+testReadWriteContainerHistory
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerHistoryData		0.7916667
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.7209302
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.5765766
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptFinishDataPBImpl		0.45890412
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerFinishDataPBImpl		0.44354838
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptStartDataPBImpl		0.33870968
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerStartDataPBImpl		0.2969697
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/TestMemoryApplicationHistoryStore_testReadWriteContainerHistory_1j
+testReadWriteContainerHistory
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerHistoryData		0.7916667
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.7209302
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.5765766
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptFinishDataPBImpl		0.45890412
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerFinishDataPBImpl		0.44354838
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptStartDataPBImpl		0.33870968
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerStartDataPBImpl		0.2969697
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/webapp/TestAHSWebApp
+TestAHSWebApp		1.0
+TestAHSWebApp.MockApplicationHistoryManagerImpl		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/webapp/TestAHSWebApp_testAppAttemptPage_15
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerHistoryData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AppAttemptPage		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.NavBlock		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.9655172
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.95348835
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.6216216
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.57471263
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationStartDataPBImpl		0.47402596
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationFinishDataPBImpl		0.459854
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptFinishDataPBImpl		0.45890412
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerFinishDataPBImpl		0.44354838
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptStartDataPBImpl		0.33870968
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerStartDataPBImpl		0.2969697
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AHSView		0.22727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/webapp/TestAHSWebApp_testAppAttemptPage_5w
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerHistoryData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AppAttemptPage		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.NavBlock		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.9655172
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.95348835
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.6216216
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.57471263
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationStartDataPBImpl		0.47402596
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationFinishDataPBImpl		0.459854
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptFinishDataPBImpl		0.45890412
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerFinishDataPBImpl		0.44354838
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptStartDataPBImpl		0.33870968
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerStartDataPBImpl		0.2969697
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AHSView		0.22727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/webapp/TestAHSWebApp_testAppControllerIndex_24
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AHSController		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/webapp/TestAHSWebApp_testAppControllerIndex_48
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AHSController		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/webapp/TestAHSWebApp_testAppPage_1y
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerHistoryData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AppPage		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.NavBlock		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.9655172
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.95348835
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.6666667
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.6091954
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationStartDataPBImpl		0.47402596
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationFinishDataPBImpl		0.459854
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptFinishDataPBImpl		0.45890412
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerFinishDataPBImpl		0.44354838
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptStartDataPBImpl		0.33870968
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerStartDataPBImpl		0.2969697
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AHSView		0.22727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/webapp/TestAHSWebApp_testAppPage_3o
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerHistoryData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AppPage		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.NavBlock		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.9655172
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.95348835
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.6666667
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.6091954
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationStartDataPBImpl		0.47402596
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationFinishDataPBImpl		0.459854
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptFinishDataPBImpl		0.45890412
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerFinishDataPBImpl		0.44354838
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptStartDataPBImpl		0.33870968
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerStartDataPBImpl		0.2969697
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AHSView		0.22727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/webapp/TestAHSWebApp_testContainerPage_1e
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerHistoryData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.ContainerPage		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.NavBlock		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.9655172
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.8604651
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.5765766
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.4827586
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationStartDataPBImpl		0.47402596
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationFinishDataPBImpl		0.459854
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptFinishDataPBImpl		0.45890412
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerFinishDataPBImpl		0.44354838
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptStartDataPBImpl		0.33870968
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerStartDataPBImpl		0.2969697
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AHSView		0.22727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/webapp/TestAHSWebApp_testContainerPage_i
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerHistoryData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.ContainerPage		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.NavBlock		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.9655172
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.8604651
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.5765766
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.4827586
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationStartDataPBImpl		0.47402596
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationFinishDataPBImpl		0.459854
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptFinishDataPBImpl		0.45890412
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerFinishDataPBImpl		0.44354838
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptStartDataPBImpl		0.33870968
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerStartDataPBImpl		0.2969697
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AHSView		0.22727273
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/webapp/TestAHSWebApp_testView_4
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AHSView		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.NavBlock		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.9655172
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.8604651
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerHistoryData		0.6666667
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.5315315
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationStartDataPBImpl		0.47402596
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationFinishDataPBImpl		0.459854
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptFinishDataPBImpl		0.45890412
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.44827586
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerFinishDataPBImpl		0.44354838
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptStartDataPBImpl		0.33870968
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerStartDataPBImpl		0.2969697
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/webapp/TestAHSWebApp_testView_4o
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerFinishData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerStartData		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AHSView		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.NavBlock		1.0
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.9655172
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.8604651
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerHistoryData		0.6666667
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.5315315
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationStartDataPBImpl		0.47402596
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationFinishDataPBImpl		0.459854
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptFinishDataPBImpl		0.45890412
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.44827586
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerFinishDataPBImpl		0.44354838
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ApplicationAttemptStartDataPBImpl		0.33870968
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.impl.pb.ContainerStartDataPBImpl		0.2969697
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/webapp/TestAHSWebServices
+TestAHSWebServices		0.96875
+TestAHSWebServices.GuiceServletConfig		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/webapp/TestAHSWebServices_testAppsQuery_l
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AHSWebServices		0.4054054
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.3678161
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.3448276
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.18604651
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.06306306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/webapp/TestAHSWebServices_testAppsQuery_p
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AHSWebServices		0.4054054
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.3678161
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.3448276
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.18604651
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.06306306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/webapp/TestAHSWebServices_testInvalidAccept_15
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.JAXBContextResolver		0.42857143
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AHSWebServices		0.054054055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/webapp/TestAHSWebServices_testInvalidAccept_u
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.JAXBContextResolver		0.42857143
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AHSWebServices		0.054054055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/webapp/TestAHSWebServices_testInvalidUri2_1b
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.JAXBContextResolver		0.42857143
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AHSWebServices		0.054054055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/webapp/TestAHSWebServices_testInvalidUri2_68
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.JAXBContextResolver		0.42857143
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AHSWebServices		0.054054055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/webapp/TestAHSWebServices_testInvalidUri_4y
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.JAXBContextResolver		0.42857143
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AHSWebServices		0.054054055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/webapp/TestAHSWebServices_testInvalidUri_e
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.JAXBContextResolver		0.42857143
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AHSWebServices		0.054054055
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/webapp/TestAHSWebServices_testMultipleAttempts_3l
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.3255814
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AHSWebServices		0.13513513
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.09195402
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.045045044
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/webapp/TestAHSWebServices_testMultipleAttempts_8
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.3255814
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AHSWebServices		0.13513513
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.09195402
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.045045044
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/webapp/TestAHSWebServices_testMultipleContainers_1z
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.42528737
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerHistoryData		0.375
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.3448276
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.18604651
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AHSWebServices		0.13513513
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.10810811
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/webapp/TestAHSWebServices_testMultipleContainers_3q
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.42528737
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerHistoryData		0.375
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.3448276
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.18604651
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AHSWebServices		0.13513513
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.10810811
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/webapp/TestAHSWebServices_testSingleApp_13
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.3448276
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.29885057
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.18604651
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AHSWebServices		0.13513513
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.06306306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/webapp/TestAHSWebServices_testSingleApp_1n
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.3448276
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.29885057
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.18604651
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AHSWebServices		0.13513513
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.06306306
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/webapp/TestAHSWebServices_testSingleAttempt_11
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.3255814
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AHSWebServices		0.13513513
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.04597701
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.045045044
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/webapp/TestAHSWebServices_testSingleAttempt_1s
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.3255814
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AHSWebServices		0.13513513
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.04597701
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.045045044
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/webapp/TestAHSWebServices_testSingleContainer_23
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.37931034
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerHistoryData		0.375
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.3448276
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.18604651
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AHSWebServices		0.13513513
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.10810811
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/applicationhistoryservice/webapp/TestAHSWebServices_testSingleContainer_4c
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.JAXBContextResolver		0.85714287
+org.apache.hadoop.yarn.server.applicationhistoryservice.ApplicationHistoryManagerImpl		0.37931034
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ContainerHistoryData		0.375
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationHistoryData		0.3448276
+org.apache.hadoop.yarn.server.applicationhistoryservice.records.ApplicationAttemptHistoryData		0.18604651
+org.apache.hadoop.yarn.server.applicationhistoryservice.webapp.AHSWebServices		0.13513513
+org.apache.hadoop.yarn.server.applicationhistoryservice.MemoryApplicationHistoryStore		0.10810811
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestGenericObjectMapper
+TestGenericObjectMapper		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestGenericObjectMapper_testEncoding_0
+testEncoding
+org.apache.hadoop.yarn.server.timeline.GenericObjectMapper		0.6216216
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestGenericObjectMapper_testEncoding_4k
+testEncoding
+org.apache.hadoop.yarn.server.timeline.GenericObjectMapper		0.6216216
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestGenericObjectMapper_testValueTypes_k
+testValueTypes
+org.apache.hadoop.yarn.server.timeline.GenericObjectMapper		0.27027026
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestGenericObjectMapper_testValueTypes_o
+testValueTypes
+org.apache.hadoop.yarn.server.timeline.GenericObjectMapper		0.27027026
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestLeveldbTimelineStore
+TestLeveldbTimelineStore		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestLeveldbTimelineStore_testCacheSizes_3c
+testCacheSizes
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore		0.0055555557
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestLeveldbTimelineStore_testCacheSizes_5
+testCacheSizes
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore		0.0055555557
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestLeveldbTimelineStore_testDeleteEntitiesPrimaryFilters_12
+testDeleteEntitiesPrimaryFilters
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.LockMap.CountingReentrantLock		1.0
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyBuilder		1.0
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyParser		0.84615386
+org.apache.hadoop.yarn.server.timeline.GenericObjectMapper		0.8378378
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.LockMap		0.7894737
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.7777778
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore		0.5277778
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.44444445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestLeveldbTimelineStore_testDeleteEntitiesPrimaryFilters_1l
+testDeleteEntitiesPrimaryFilters
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.LockMap.CountingReentrantLock		1.0
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyBuilder		1.0
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyParser		0.84615386
+org.apache.hadoop.yarn.server.timeline.GenericObjectMapper		0.8378378
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.LockMap		0.7894737
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.7777778
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore		0.5277778
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.44444445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestLeveldbTimelineStore_testDeleteEntities_1h
+testDeleteEntities
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyBuilder		1.0
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyParser		0.84615386
+org.apache.hadoop.yarn.server.timeline.GenericObjectMapper		0.8378378
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore		0.44583333
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.44444445
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.44444445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestLeveldbTimelineStore_testDeleteEntities_26
+testDeleteEntities
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyBuilder		1.0
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyParser		0.84615386
+org.apache.hadoop.yarn.server.timeline.GenericObjectMapper		0.8378378
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore		0.44583333
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.44444445
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.44444445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestLeveldbTimelineStore_testFromTsWithDeletion_p
+testFromTsWithDeletion
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.StartAndInsertTime		1.0
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.LockMap.CountingReentrantLock		1.0
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyBuilder		1.0
+org.apache.hadoop.yarn.server.timeline.GenericObjectMapper		0.8918919
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyParser		0.84615386
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.LockMap		0.7894737
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore		0.6652778
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.50793654
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.44444445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestLeveldbTimelineStore_testFromTsWithDeletion_w
+testFromTsWithDeletion
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.StartAndInsertTime		1.0
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.LockMap.CountingReentrantLock		1.0
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyBuilder		1.0
+org.apache.hadoop.yarn.server.timeline.GenericObjectMapper		0.8918919
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyParser		0.84615386
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.LockMap		0.7894737
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore		0.6652778
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.50793654
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.44444445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestLeveldbTimelineStore_testGetEntitiesWithFromId_1q
+testGetEntitiesWithFromId
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyBuilder		1.0
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyParser		0.84615386
+org.apache.hadoop.yarn.server.timeline.GenericObjectMapper		0.8378378
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.50793654
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.44444445
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore		0.24861111
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestLeveldbTimelineStore_testGetEntitiesWithFromId_34
+testGetEntitiesWithFromId
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyBuilder		1.0
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyParser		0.84615386
+org.apache.hadoop.yarn.server.timeline.GenericObjectMapper		0.8378378
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.50793654
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.44444445
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore		0.24861111
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestLeveldbTimelineStore_testGetEntitiesWithFromTs_16
+testGetEntitiesWithFromTs
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.LockMap.CountingReentrantLock		1.0
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyBuilder		1.0
+org.apache.hadoop.yarn.server.timeline.GenericObjectMapper		0.8918919
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyParser		0.84615386
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.LockMap		0.7894737
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.50793654
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.44444445
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore		0.41666666
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestLeveldbTimelineStore_testGetEntitiesWithFromTs_1w
+testGetEntitiesWithFromTs
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.LockMap.CountingReentrantLock		1.0
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyBuilder		1.0
+org.apache.hadoop.yarn.server.timeline.GenericObjectMapper		0.8918919
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyParser		0.84615386
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.LockMap		0.7894737
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.50793654
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.44444445
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore		0.41666666
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestLeveldbTimelineStore_testGetEntitiesWithPrimaryFilters_1j
+testGetEntitiesWithPrimaryFilters
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyParser		0.84615386
+org.apache.hadoop.yarn.server.timeline.GenericObjectMapper		0.8378378
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.7777778
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyBuilder		0.74418604
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore		0.2013889
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestLeveldbTimelineStore_testGetEntitiesWithPrimaryFilters_2b
+testGetEntitiesWithPrimaryFilters
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyParser		0.84615386
+org.apache.hadoop.yarn.server.timeline.GenericObjectMapper		0.8378378
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.7777778
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyBuilder		0.74418604
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore		0.2013889
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestLeveldbTimelineStore_testGetEntitiesWithSecondaryFilters_1d
+testGetEntitiesWithSecondaryFilters
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyParser		0.84615386
+org.apache.hadoop.yarn.server.timeline.GenericObjectMapper		0.8378378
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.7777778
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyBuilder		0.74418604
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore		0.225
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestLeveldbTimelineStore_testGetEntitiesWithSecondaryFilters_6b
+testGetEntitiesWithSecondaryFilters
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyParser		0.84615386
+org.apache.hadoop.yarn.server.timeline.GenericObjectMapper		0.8378378
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.7777778
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyBuilder		0.74418604
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore		0.225
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestLeveldbTimelineStore_testGetEntities_40
+testGetEntities
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyParser		0.84615386
+org.apache.hadoop.yarn.server.timeline.GenericObjectMapper		0.8378378
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyBuilder		0.74418604
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.44444445
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestLeveldbTimelineStore_testGetEntities_d
+testGetEntities
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyParser		0.84615386
+org.apache.hadoop.yarn.server.timeline.GenericObjectMapper		0.8378378
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyBuilder		0.74418604
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.44444445
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore		0.22222222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestLeveldbTimelineStore_testGetEntityTypes_1n
+testGetEntityTypes
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyBuilder		0.74418604
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyParser		0.53846157
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore		0.0375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestLeveldbTimelineStore_testGetEntityTypes_6m
+testGetEntityTypes
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyBuilder		0.74418604
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyParser		0.53846157
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore		0.0375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestLeveldbTimelineStore_testGetEvents_5b
+testGetEvents
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyBuilder		1.0
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyParser		0.7692308
+org.apache.hadoop.yarn.server.timeline.GenericObjectMapper		0.7297297
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.50793654
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore		0.14583333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestLeveldbTimelineStore_testGetEvents_r
+testGetEvents
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyBuilder		1.0
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyParser		0.7692308
+org.apache.hadoop.yarn.server.timeline.GenericObjectMapper		0.7297297
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.50793654
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore		0.14583333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestLeveldbTimelineStore_testGetSingleEntity_1m
+testGetSingleEntity
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyBuilder		1.0
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyParser		0.84615386
+org.apache.hadoop.yarn.server.timeline.GenericObjectMapper		0.7297297
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.50793654
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore		0.19861111
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestLeveldbTimelineStore_testGetSingleEntity_2i
+testGetSingleEntity
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyBuilder		1.0
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyParser		0.84615386
+org.apache.hadoop.yarn.server.timeline.GenericObjectMapper		0.7297297
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.50793654
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore		0.19861111
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestLeveldbTimelineStore_testGetSingleEntity_50
+testGetSingleEntity
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyBuilder		1.0
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyParser		0.84615386
+org.apache.hadoop.yarn.server.timeline.GenericObjectMapper		0.7297297
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.50793654
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore		0.20416667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestLeveldbTimelineStore_testGetSingleEntity_f
+testGetSingleEntity
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyBuilder		1.0
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore.KeyParser		0.84615386
+org.apache.hadoop.yarn.server.timeline.GenericObjectMapper		0.7297297
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.50793654
+org.apache.hadoop.yarn.server.timeline.LeveldbTimelineStore		0.20416667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestLeveldbTimelineStore_testRootDirPermission_1t
+testRootDirPermission
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestLeveldbTimelineStore_testRootDirPermission_78
+testRootDirPermission
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestMemoryTimelineStore
+TestMemoryTimelineStore		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestMemoryTimelineStore_testGetEntitiesWithFromId_1o
+testGetEntitiesWithFromId
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.44444445
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.44444445
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.2847222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestMemoryTimelineStore_testGetEntitiesWithFromId_2r
+testGetEntitiesWithFromId
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.44444445
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.44444445
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.2847222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestMemoryTimelineStore_testGetEntitiesWithFromTs_1f
+testGetEntitiesWithFromTs
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.50793654
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.5069444
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.44444445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestMemoryTimelineStore_testGetEntitiesWithFromTs_6c
+testGetEntitiesWithFromTs
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.50793654
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.5069444
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.44444445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestMemoryTimelineStore_testGetEntitiesWithPrimaryFilters_q
+testGetEntitiesWithPrimaryFilters
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.7777778
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.2847222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestMemoryTimelineStore_testGetEntitiesWithPrimaryFilters_y
+testGetEntitiesWithPrimaryFilters
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.7777778
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.2847222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestMemoryTimelineStore_testGetEntitiesWithSecondaryFilters_a
+testGetEntitiesWithSecondaryFilters
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.7777778
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.3298611
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestMemoryTimelineStore_testGetEntitiesWithSecondaryFilters_b
+testGetEntitiesWithSecondaryFilters
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.7777778
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.3298611
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestMemoryTimelineStore_testGetEntities_4
+testGetEntities
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.25694445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestMemoryTimelineStore_testGetEntities_7
+testGetEntities
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.25694445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestMemoryTimelineStore_testGetEvents_1e
+testGetEvents
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.44444445
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.15972222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestMemoryTimelineStore_testGetEvents_23
+testGetEvents
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.44444445
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.15972222
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestMemoryTimelineStore_testGetSingleEntity_h
+testGetSingleEntity
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.44444445
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.1423611
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/TestMemoryTimelineStore_testGetSingleEntity_j
+testGetSingleEntity
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.44444445
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.1423611
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/security/TestTimelineACLsManager
+TestTimelineACLsManager		0.962963
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/security/TestTimelineACLsManager_testCorruptedOwnerInfo_7
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.42307693
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.07936508
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/security/TestTimelineACLsManager_testCorruptedOwnerInfo_9
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.42307693
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.07936508
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/security/TestTimelineACLsManager_testYarnACLsEnabled_1k
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.61538464
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/security/TestTimelineACLsManager_testYarnACLsEnabled_2d
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.61538464
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/security/TestTimelineACLsManager_testYarnACLsNotEnabled_4w
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.30769232
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/security/TestTimelineACLsManager_testYarnACLsNotEnabled_c
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.30769232
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices
+TestTimelineWebServices		0.99676377
+TestTimelineWebServices.GuiceServletConfig		0.0
+TestTimelineWebServices.TestFilter		0.875
+TestTimelineWebServices.TestHttpServletRequestWrapper		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testAbout_21
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices.AboutInfo		1.0
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.03018868
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testAbout_3x
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices.AboutInfo		1.0
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.03018868
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testFromId_1x
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.44444445
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.23958333
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.23396227
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.23076923
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testFromId_4b
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.44444445
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.23958333
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.23396227
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.23076923
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testFromTs_1c
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.44444445
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.24150944
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.2361111
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.23076923
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testFromTs_3a
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.44444445
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.24150944
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.2361111
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.23076923
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testGetEntitiesWithYarnACLsEnabled_0
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.6923077
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.39583334
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.3773585
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.23809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testGetEntitiesWithYarnACLsEnabled_1
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.6923077
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.39583334
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.3773585
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.23809524
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testGetEntities_1w
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.23773585
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.23076923
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.22916667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testGetEntities_3j
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.23773585
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.23076923
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.22916667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testGetEntityFields1_1g
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.44444445
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.24528302
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.23076923
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.08680555
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testGetEntityFields1_25
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.44444445
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.24528302
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.23076923
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.08680555
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testGetEntityFields2_1a
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.44444445
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.25283018
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.23076923
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.09375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testGetEntityFields2_2y
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.44444445
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.25283018
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.23076923
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.09375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testGetEntityWithYarnACLsEnabled_22
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.6923077
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.53968257
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.41886792
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.27083334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testGetEntityWithYarnACLsEnabled_46
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.6923077
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.53968257
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.41886792
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.27083334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testGetEntity_17
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.44444445
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.23076923
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.16981132
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.090277776
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testGetEntity_61
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.44444445
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.23076923
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.16981132
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.090277776
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testGetEventsWithYarnACLsEnabled_4v
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.6923077
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.50793654
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.3576389
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.31698114
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testGetEventsWithYarnACLsEnabled_b
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.6923077
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.50793654
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.3576389
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.31698114
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testGetEvents_1p
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.44444445
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.23076923
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.20833333
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.1773585
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testGetEvents_35
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.44444445
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.23076923
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.20833333
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.1773585
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testPostEntitiesWithPrimaryFilter_1g
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.26984128
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.18113208
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.038194444
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testPostEntitiesWithPrimaryFilter_z
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.26984128
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.18113208
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.038194444
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testPostEntitiesWithYarnACLsEnabled_1l
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.61538464
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.53968257
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.24305555
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.20754717
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testPostEntitiesWithYarnACLsEnabled_2c
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.61538464
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.53968257
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.24305555
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.20754717
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testPostEntities_1u
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.50793654
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.2981132
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.24305555
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.23076923
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testPostEntities_41
+org.apache.hadoop.yarn.server.timeline.EntityIdentifier		0.50793654
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.2981132
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.24305555
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.23076923
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testPrimaryFilterInteger_1c
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.7777778
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.24652778
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.24528302
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.23076923
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testPrimaryFilterInteger_y
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.7777778
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.24652778
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.24528302
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.23076923
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testPrimaryFilterLong_2
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.7777778
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.24652778
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.24528302
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.23076923
+org.apache.hadoop.yarn.server.timeline.GenericObjectMapper		0.10810811
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testPrimaryFilterLong_4m
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.7777778
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.24652778
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.24528302
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.23076923
+org.apache.hadoop.yarn.server.timeline.GenericObjectMapper		0.10810811
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testPrimaryFilterNumericStringWithQuotes_o
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.7777778
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.24652778
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.24528302
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.23076923
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testPrimaryFilterNumericStringWithQuotes_v
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.7777778
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.24652778
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.24528302
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.23076923
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testPrimaryFilterNumericString_3b
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.7777778
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.2
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.1736111
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testPrimaryFilterNumericString_j
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.7777778
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.2
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.1736111
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testPrimaryFilterString_25
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.7777778
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.24905661
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.24652778
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.23076923
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testPrimaryFilterString_4i
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.7777778
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.24905661
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.24652778
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.23076923
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testSecondaryFilters_18
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.7777778
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.27169812
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.2673611
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.23076923
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/clover/org/apache/hadoop/yarn/server/timeline/webapp/TestTimelineWebServices_testSecondaryFilters_w
+org.apache.hadoop.yarn.server.timeline.NameValuePair		0.7777778
+org.apache.hadoop.yarn.server.timeline.webapp.TimelineWebServices		0.27169812
+org.apache.hadoop.yarn.server.timeline.MemoryTimelineStore		0.2673611
+org.apache.hadoop.yarn.server.timeline.security.TimelineACLsManager		0.23076923
+-- -- -- -- -- -- -- -- -- -- -- -- --

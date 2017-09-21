@@ -1,0 +1,35 @@
+./components/camel-mustache/target/site/clover/org/apache/camel
+./components/camel-mustache/target/site/clover/org/apache/camel/component/mustache/MustacheComponentTest
+MustacheComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mustache/target/site/clover/org/apache/camel/component/mustache/MustacheComponentTest_testMustachePerformance_2
+org.apache.camel.component.mustache.MustacheEndpoint		0.51111114
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mustache/target/site/clover/org/apache/camel/component/mustache/MustacheComponentTest_testMustacheWithInheritance_3
+org.apache.camel.component.mustache.MustacheComponent		0.6363636
+org.apache.camel.component.mustache.MustacheEndpoint		0.6111111
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mustache/target/site/clover/org/apache/camel/component/mustache/MustacheComponentTest_testMustacheWithPartials_5
+org.apache.camel.component.mustache.MustacheComponent		0.6363636
+org.apache.camel.component.mustache.MustacheEndpoint		0.6111111
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mustache/target/site/clover/org/apache/camel/component/mustache/MustacheComponentTest_testMustacheWithResourceUriHeader_4
+org.apache.camel.component.mustache.MustacheComponent		0.6363636
+org.apache.camel.component.mustache.MustacheEndpoint		0.6111111
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mustache/target/site/clover/org/apache/camel/component/mustache/MustacheComponentTest_testMustacheWithTemplateHeader_1
+org.apache.camel.component.mustache.MustacheEndpoint		0.36666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mustache/target/site/clover/org/apache/camel/component/mustache/MustacheComponentTest_testMustache_0
+org.apache.camel.component.mustache.MustacheEndpoint		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mustache/target/site/clover/org/apache/camel/component/mustache/MustacheLetterTest
+MustacheLetterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mustache/target/site/clover/org/apache/camel/component/mustache/MustacheLetterTest_testMustacheLetter_6
+org.apache.camel.component.mustache.MustacheEndpoint		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mustache/target/site/clover/org/apache/camel/component/mustache/test-MustacheComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mustache/target/site/clover/org/apache/camel/component/mustache/test-MustacheLetterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

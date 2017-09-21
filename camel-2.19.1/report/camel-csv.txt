@@ -1,0 +1,458 @@
+./components/camel-csv/target/site/clover/org/apache/camel
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatCustomFactoryTest
+CsvDataFormatCustomFactoryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatCustomFactoryTest_marshalTest_1o
+org.apache.camel.dataformat.csv.CsvMarshaller		0.5
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatCustomRecordConverterTest
+CsvDataFormatCustomRecordConverterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatCustomRecordConverterTest_unmarshalTest_e
+org.apache.camel.dataformat.csv.CsvUnmarshaller.BulkCsvUnmarshaller		0.85714287
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatResourceFactoryTest
+CsvDataFormatResourceFactoryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatResourceFactoryTest_marshalTest_1b
+org.apache.camel.dataformat.csv.CsvMarshaller		0.5
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest
+CsvDataFormatTest		0.9896373
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_shouldAllowMissingColumnNames_t
+org.apache.camel.dataformat.csv.CsvDataFormat		0.21259843
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_shouldDefineFormatByName_r
+org.apache.camel.dataformat.csv.CsvDataFormat		0.2480315
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_shouldDisableCommentMarker_25
+org.apache.camel.dataformat.csv.CsvDataFormat		0.22440945
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_shouldDisableEscape_24
+org.apache.camel.dataformat.csv.CsvDataFormat		0.22440945
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_shouldDisableHeader_y
+org.apache.camel.dataformat.csv.CsvDataFormat		0.22440945
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_shouldDisableNullString_13
+org.apache.camel.dataformat.csv.CsvDataFormat		0.22440945
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_shouldDisableQuote_4
+org.apache.camel.dataformat.csv.CsvDataFormat		0.22440945
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_shouldDisableRecordSeparator_12
+org.apache.camel.dataformat.csv.CsvDataFormat		0.22440945
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_shouldFallbackToDefaultFormat_1a
+org.apache.camel.dataformat.csv.CsvDataFormat		0.21259843
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_shouldHandleLazyLoad_27
+org.apache.camel.dataformat.csv.CsvDataFormat		0.20866142
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_shouldHandleRecordConverter_17
+org.apache.camel.dataformat.csv.CsvDataFormat		0.20866142
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_shouldHandleUseMaps_b
+org.apache.camel.dataformat.csv.CsvDataFormat		0.20866142
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_shouldIgnoreEmptyLines_c
+org.apache.camel.dataformat.csv.CsvDataFormat		0.21259843
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_shouldIgnoreSurroundingSpaces_1x
+org.apache.camel.dataformat.csv.CsvDataFormat		0.21259843
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_shouldNotAllowMissingColumnNames_1k
+org.apache.camel.dataformat.csv.CsvDataFormat		0.21259843
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_shouldNotIgnoreEmptyLines_l
+org.apache.camel.dataformat.csv.CsvDataFormat		0.21259843
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_shouldNotIgnoreSurroundingSpaces_1y
+org.apache.camel.dataformat.csv.CsvDataFormat		0.21259843
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_shouldNotSkipHeaderRecord_1w
+org.apache.camel.dataformat.csv.CsvDataFormat		0.21259843
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_shouldOverrideCommentMarker_1
+org.apache.camel.dataformat.csv.CsvDataFormat		0.21259843
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_shouldOverrideDelimiter_k
+org.apache.camel.dataformat.csv.CsvDataFormat		0.21259843
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_shouldOverrideEscape_20
+org.apache.camel.dataformat.csv.CsvDataFormat		0.21259843
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_shouldOverrideHeader_o
+org.apache.camel.dataformat.csv.CsvDataFormat		0.21259843
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_shouldOverrideNullString_n
+org.apache.camel.dataformat.csv.CsvDataFormat		0.21259843
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_shouldOverrideQuoteMode_18
+org.apache.camel.dataformat.csv.CsvDataFormat		0.21259843
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_shouldOverrideQuote_1v
+org.apache.camel.dataformat.csv.CsvDataFormat		0.21259843
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_shouldOverrideRecordSeparator_1j
+org.apache.camel.dataformat.csv.CsvDataFormat		0.21259843
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_shouldSkipHeaderRecord_8
+org.apache.camel.dataformat.csv.CsvDataFormat		0.21259843
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_shouldUseDefaultFormat_1u
+org.apache.camel.dataformat.csv.CsvDataFormat		0.18897638
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_shouldUseFormatFromConstructor_u
+org.apache.camel.dataformat.csv.CsvDataFormat		0.20866142
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_shouldUseSpecifiedFormat_1e
+org.apache.camel.dataformat.csv.CsvDataFormat		0.20472442
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_testIgnoreHeaderCase_1r
+org.apache.camel.dataformat.csv.CsvDataFormat		0.21653543
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_testTrailingDelimiter_d
+org.apache.camel.dataformat.csv.CsvDataFormat		0.21653543
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvDataFormatTest_testTrim_7
+org.apache.camel.dataformat.csv.CsvDataFormat		0.21653543
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvMarshalAutogenColumnsSpringQuoteModeTest
+CsvMarshalAutogenColumnsSpringQuoteModeTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvMarshalAutogenColumnsSpringQuoteModeTest_retrieveColumnsWithAutogenColumnsFalseAndItemColumnsSet_10
+org.apache.camel.dataformat.csv.CsvMarshaller.FixedColumnsMarshaller		0.625
+org.apache.camel.dataformat.csv.CsvMarshaller		0.5
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvMarshalAutogenColumnsSpringQuoteModeTest_retrieveColumnsWithAutogenColumnsFalseAndOrderIdAmountColumnsSet_1t
+org.apache.camel.dataformat.csv.CsvMarshaller.FixedColumnsMarshaller		0.625
+org.apache.camel.dataformat.csv.CsvMarshaller		0.5
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvMarshalAutogenColumnsSpringTest
+CsvMarshalAutogenColumnsSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvMarshalAutogenColumnsSpringTest_retrieveColumnsWithAutogenColumnsFalseAndItemColumnsSet_1d
+org.apache.camel.dataformat.csv.CsvMarshaller.FixedColumnsMarshaller		0.625
+org.apache.camel.dataformat.csv.CsvMarshaller		0.5
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvMarshalAutogenColumnsSpringTest_retrieveColumnsWithAutogenColumnsFalseAndOrderIdAmountColumnsSet_j
+org.apache.camel.dataformat.csv.CsvMarshaller.FixedColumnsMarshaller		0.625
+org.apache.camel.dataformat.csv.CsvMarshaller		0.5
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvMarshalCharsetTest
+CsvMarshalCharsetTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvMarshalCharsetTest_testMarshal_x
+org.apache.camel.dataformat.csv.CsvMarshaller		0.5
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvMarshalPipeDelimiterSpringTest
+CsvMarshalPipeDelimiterSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvMarshalPipeDelimiterSpringTest_testCsvMarshal_f
+org.apache.camel.dataformat.csv.CsvMarshaller.DynamicColumnsMarshaller		0.71428573
+org.apache.camel.dataformat.csv.CsvMarshaller		0.5
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvMarshalPipeDelimiterTest
+CsvMarshalPipeDelimiterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvMarshalPipeDelimiterTest_testCsvMarshal_p
+org.apache.camel.dataformat.csv.CsvMarshaller.DynamicColumnsMarshaller		0.71428573
+org.apache.camel.dataformat.csv.CsvMarshaller		0.5
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvMarshalTest
+CsvMarshalTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvMarshalTest_shouldHandleColumns_0
+org.apache.camel.dataformat.csv.CsvMarshaller.FixedColumnsMarshaller		0.625
+org.apache.camel.dataformat.csv.CsvMarshaller		0.5
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvMarshalTest_shouldMarshalDifferentDynamicColumns_1c
+org.apache.camel.dataformat.csv.CsvMarshaller.DynamicColumnsMarshaller		0.71428573
+org.apache.camel.dataformat.csv.CsvMarshaller		0.5
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvMarshalTest_shouldMarshalListsOneRow_m
+org.apache.camel.dataformat.csv.CsvMarshaller		0.5
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvMarshalTest_shouldMarshalLists_1s
+org.apache.camel.dataformat.csv.CsvMarshaller		0.5
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvMarshalTest_shouldMarshalMaps_1z
+org.apache.camel.dataformat.csv.CsvMarshaller.DynamicColumnsMarshaller		0.71428573
+org.apache.camel.dataformat.csv.CsvMarshaller		0.5
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvMarshalTest_shouldMarshalSingleMap_1p
+org.apache.camel.dataformat.csv.CsvMarshaller.DynamicColumnsMarshaller		0.71428573
+org.apache.camel.dataformat.csv.CsvMarshaller		0.5
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvRecordConvertersTest
+CsvRecordConvertersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvRecordConvertersTest_shouldConvertAsList_q
+org.apache.camel.dataformat.csv.CsvRecordConverters.ListCsvRecordConverter		1.0
+org.apache.camel.dataformat.csv.CsvRecordConverters		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvRecordConvertersTest_shouldConvertAsMap_23
+org.apache.camel.dataformat.csv.CsvRecordConverters.MapCsvRecordConverter		1.0
+org.apache.camel.dataformat.csv.CsvRecordConverters		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvRouteCharsetTest
+CsvRouteCharsetTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvRouteCharsetTest_testUnMarshal_1l
+org.apache.camel.dataformat.csv.CsvRecordConverters.ListCsvRecordConverter		1.0
+org.apache.camel.dataformat.csv.CsvUnmarshaller.BulkCsvUnmarshaller		0.85714287
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvRouteTest
+CsvRouteTest		0.9746835
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvRouteTest_testMultipleMessages_v
+org.apache.camel.dataformat.csv.CsvMarshaller.DynamicColumnsMarshaller		0.71428573
+org.apache.camel.dataformat.csv.CsvMarshaller		0.5
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvRouteTest_testPresetConfig_g
+org.apache.camel.dataformat.csv.CsvMarshaller.FixedColumnsMarshaller		0.625
+org.apache.camel.dataformat.csv.CsvMarshaller		0.5
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvRouteTest_testSendMessage_1g
+org.apache.camel.dataformat.csv.CsvMarshaller.DynamicColumnsMarshaller		0.71428573
+org.apache.camel.dataformat.csv.CsvMarshaller		0.5
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvRouteTest_testUnMarshal_s
+org.apache.camel.dataformat.csv.CsvRecordConverters.ListCsvRecordConverter		1.0
+org.apache.camel.dataformat.csv.CsvUnmarshaller.BulkCsvUnmarshaller		0.85714287
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalMapLineSpringTest
+CsvUnmarshalMapLineSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalMapLineSpringTest_shouldReplaceHeaderInMap_15
+org.apache.camel.dataformat.csv.CsvRecordConverters.MapCsvRecordConverter		1.0
+org.apache.camel.dataformat.csv.CsvUnmarshaller.BulkCsvUnmarshaller		0.85714287
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalMapLineSpringTest_shouldUseExplicitHeadersInMap_26
+org.apache.camel.dataformat.csv.CsvRecordConverters.MapCsvRecordConverter		1.0
+org.apache.camel.dataformat.csv.CsvUnmarshaller.BulkCsvUnmarshaller		0.85714287
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalMapLineSpringTest_testCsvUnMarshalNoLine_a
+org.apache.camel.dataformat.csv.CsvUnmarshaller.BulkCsvUnmarshaller		0.71428573
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalMapLineSpringTest_testCsvUnMarshal_22
+org.apache.camel.dataformat.csv.CsvRecordConverters.MapCsvRecordConverter		1.0
+org.apache.camel.dataformat.csv.CsvUnmarshaller.BulkCsvUnmarshaller		0.85714287
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalPipeDelimiterSpringTest
+CsvUnmarshalPipeDelimiterSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalPipeDelimiterSpringTest_testCsvUnmarshal_2
+org.apache.camel.dataformat.csv.CsvRecordConverters.ListCsvRecordConverter		1.0
+org.apache.camel.dataformat.csv.CsvUnmarshaller.BulkCsvUnmarshaller		0.85714287
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalPipeDelimiterTest
+CsvUnmarshalPipeDelimiterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalPipeDelimiterTest_testCsvUnMarshalSingleLine_19
+org.apache.camel.dataformat.csv.CsvRecordConverters.ListCsvRecordConverter		1.0
+org.apache.camel.dataformat.csv.CsvUnmarshaller.BulkCsvUnmarshaller		0.85714287
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalPipeDelimiterTest_testCsvUnMarshal_1i
+org.apache.camel.dataformat.csv.CsvRecordConverters.ListCsvRecordConverter		1.0
+org.apache.camel.dataformat.csv.CsvUnmarshaller.BulkCsvUnmarshaller		0.85714287
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalSkipFirstLineSpringTest
+CsvUnmarshalSkipFirstLineSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalSkipFirstLineSpringTest_testCsvUnMarshalNoLine_1h
+org.apache.camel.dataformat.csv.CsvUnmarshaller.BulkCsvUnmarshaller		0.71428573
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalSkipFirstLineSpringTest_testCsvUnMarshalSingleLine_3
+org.apache.camel.dataformat.csv.CsvRecordConverters.ListCsvRecordConverter		1.0
+org.apache.camel.dataformat.csv.CsvUnmarshaller.BulkCsvUnmarshaller		0.85714287
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalSkipFirstLineSpringTest_testCsvUnMarshal_1m
+org.apache.camel.dataformat.csv.CsvRecordConverters.ListCsvRecordConverter		1.0
+org.apache.camel.dataformat.csv.CsvUnmarshaller.BulkCsvUnmarshaller		0.85714287
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalStreamSpringTest
+CsvUnmarshalStreamSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalStreamSpringTest_testCsvUnMarshal_16
+org.apache.camel.dataformat.csv.CsvRecordConverters.ListCsvRecordConverter		1.0
+org.apache.camel.dataformat.csv.CsvUnmarshalOnCompletion		1.0
+org.apache.camel.dataformat.csv.CsvUnmarshaller.CsvIterator		0.8666667
+org.apache.camel.dataformat.csv.CsvUnmarshaller.StreamCsvUnmarshaller		0.6666667
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalStreamTest
+CsvUnmarshalStreamTest		1.0
+CsvUnmarshalStreamTest.MyFileInputStream		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalStreamTest_testCsvUnMarshalWithFile_1q
+org.apache.camel.dataformat.csv.CsvRecordConverters.ListCsvRecordConverter		1.0
+org.apache.camel.dataformat.csv.CsvUnmarshalOnCompletion		1.0
+org.apache.camel.dataformat.csv.CsvUnmarshaller.CsvIterator		0.8666667
+org.apache.camel.dataformat.csv.CsvUnmarshaller.StreamCsvUnmarshaller		0.6666667
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalStreamTest_testCsvUnMarshal_1f
+org.apache.camel.dataformat.csv.CsvRecordConverters.ListCsvRecordConverter		1.0
+org.apache.camel.dataformat.csv.CsvUnmarshalOnCompletion		1.0
+org.apache.camel.dataformat.csv.CsvUnmarshaller.CsvIterator		0.8666667
+org.apache.camel.dataformat.csv.CsvUnmarshaller.StreamCsvUnmarshaller		0.6666667
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalTabDelimiterSpringTest
+CsvUnmarshalTabDelimiterSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalTabDelimiterSpringTest_testCsvUnMarshalSingleLine_w
+org.apache.camel.dataformat.csv.CsvRecordConverters.ListCsvRecordConverter		1.0
+org.apache.camel.dataformat.csv.CsvUnmarshaller.BulkCsvUnmarshaller		0.85714287
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalTabDelimiterSpringTest_testCsvUnMarshal_11
+org.apache.camel.dataformat.csv.CsvRecordConverters.ListCsvRecordConverter		1.0
+org.apache.camel.dataformat.csv.CsvUnmarshaller.BulkCsvUnmarshaller		0.85714287
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalTabDelimiterTest
+CsvUnmarshalTabDelimiterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalTabDelimiterTest_testCsvUnMarshalSingleLine_1n
+org.apache.camel.dataformat.csv.CsvRecordConverters.ListCsvRecordConverter		1.0
+org.apache.camel.dataformat.csv.CsvUnmarshaller.BulkCsvUnmarshaller		0.85714287
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalTabDelimiterTest_testCsvUnMarshal_i
+org.apache.camel.dataformat.csv.CsvRecordConverters.ListCsvRecordConverter		1.0
+org.apache.camel.dataformat.csv.CsvUnmarshaller.BulkCsvUnmarshaller		0.85714287
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalTest
+CsvUnmarshalTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalTest_shouldUseDefaultFormat_z
+org.apache.camel.dataformat.csv.CsvRecordConverters.ListCsvRecordConverter		1.0
+org.apache.camel.dataformat.csv.CsvUnmarshaller.BulkCsvUnmarshaller		0.85714287
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalTest_shouldUseDelimiter_21
+org.apache.camel.dataformat.csv.CsvRecordConverters.ListCsvRecordConverter		1.0
+org.apache.camel.dataformat.csv.CsvUnmarshaller.BulkCsvUnmarshaller		0.85714287
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalTest_shouldUseLazyLoadingAndMaps_6
+org.apache.camel.dataformat.csv.CsvRecordConverters.MapCsvRecordConverter		1.0
+org.apache.camel.dataformat.csv.CsvUnmarshalOnCompletion		1.0
+org.apache.camel.dataformat.csv.CsvUnmarshaller.CsvIterator		0.8666667
+org.apache.camel.dataformat.csv.CsvUnmarshaller.StreamCsvUnmarshaller		0.6666667
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalTest_shouldUseLazyLoading_9
+org.apache.camel.dataformat.csv.CsvRecordConverters.ListCsvRecordConverter		1.0
+org.apache.camel.dataformat.csv.CsvUnmarshalOnCompletion		1.0
+org.apache.camel.dataformat.csv.CsvUnmarshaller.CsvIterator		0.8666667
+org.apache.camel.dataformat.csv.CsvUnmarshaller.StreamCsvUnmarshaller		0.6666667
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalTest_shouldUseMapsAndHeaders_14
+org.apache.camel.dataformat.csv.CsvRecordConverters.MapCsvRecordConverter		1.0
+org.apache.camel.dataformat.csv.CsvUnmarshaller.BulkCsvUnmarshaller		0.85714287
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalTest_shouldUseMaps_h
+org.apache.camel.dataformat.csv.CsvRecordConverters.MapCsvRecordConverter		1.0
+org.apache.camel.dataformat.csv.CsvUnmarshaller.BulkCsvUnmarshaller		0.85714287
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalTwoCsvDataFormatConcurrentTest
+CsvUnmarshalTwoCsvDataFormatConcurrentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/CsvUnmarshalTwoCsvDataFormatConcurrentTest_testCsvUnMarshal_5
+org.apache.camel.dataformat.csv.CsvRecordConverters.ListCsvRecordConverter		1.0
+org.apache.camel.dataformat.csv.CsvUnmarshaller.BulkCsvUnmarshaller		0.85714287
+org.apache.camel.dataformat.csv.CsvDataFormat		0.007874016
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/TestUtils
+TestUtils		0.75
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/test-CsvDataFormatCustomFactoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/test-CsvDataFormatCustomRecordConverterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/test-CsvDataFormatResourceFactoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/test-CsvDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/test-CsvMarshalAutogenColumnsSpringQuoteModeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/test-CsvMarshalAutogenColumnsSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/test-CsvMarshalCharsetTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/test-CsvMarshalPipeDelimiterSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/test-CsvMarshalPipeDelimiterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/test-CsvMarshalTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/test-CsvRecordConvertersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/test-CsvRouteCharsetTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/test-CsvRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/test-CsvUnmarshalMapLineSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/test-CsvUnmarshalPipeDelimiterSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/test-CsvUnmarshalPipeDelimiterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/test-CsvUnmarshalSkipFirstLineSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/test-CsvUnmarshalStreamSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/test-CsvUnmarshalStreamTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/test-CsvUnmarshalStreamTest_MyFileInputStream
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/test-CsvUnmarshalTabDelimiterSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/test-CsvUnmarshalTabDelimiterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/test-CsvUnmarshalTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/test-CsvUnmarshalTwoCsvDataFormatConcurrentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-csv/target/site/clover/org/apache/camel/dataformat/csv/test-TestUtils
+-- -- -- -- -- -- -- -- -- -- -- -- --

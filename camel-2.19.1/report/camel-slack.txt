@@ -1,0 +1,16 @@
+./components/camel-slack/target/site/clover/org/apache/camel
+./components/camel-slack/target/site/clover/org/apache/camel/component/slack/SlackProducerTest
+SlackProducerTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-slack/target/site/clover/org/apache/camel/component/slack/SlackProducerTest_testSlackError_0
+org.apache.camel.component.slack.helper.SlackMessage		0.9166667
+org.apache.camel.component.slack.SlackProducer		0.44594595
+org.apache.camel.component.slack.SlackEndpoint		0.32258064
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-slack/target/site/clover/org/apache/camel/component/slack/SlackProducerTest_testSlackMessage_1
+org.apache.camel.component.slack.helper.SlackMessage		0.9166667
+org.apache.camel.component.slack.SlackProducer		0.43243244
+org.apache.camel.component.slack.SlackEndpoint		0.32258064
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-slack/target/site/clover/org/apache/camel/component/slack/test-SlackProducerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

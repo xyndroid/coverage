@@ -1,0 +1,67 @@
+./components/camel-ognl/target/site/clover/org/apache/camel
+./components/camel-ognl/target/site/clover/org/apache/camel/language/ognl/OgnlInvokeMethodTest
+OgnlInvokeMethodTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ognl/target/site/clover/org/apache/camel/language/ognl/OgnlInvokeMethodTest_testInvokeMethod_7
+org.apache.camel.language.ognl.CamelClassResolver		0.5
+org.apache.camel.language.ognl.OgnlExpression		0.2857143
+org.apache.camel.language.ognl.RootObject		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ognl/target/site/clover/org/apache/camel/language/ognl/OgnlResourceTest
+OgnlResourceTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ognl/target/site/clover/org/apache/camel/language/ognl/OgnlResourceTest_testOgnllResource_2
+org.apache.camel.language.ognl.CamelClassResolver		0.5
+org.apache.camel.language.ognl.OgnlExpression		0.2857143
+org.apache.camel.language.ognl.RootObject		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ognl/target/site/clover/org/apache/camel/language/ognl/OgnlTest
+OgnlTest		0.95652175
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ognl/target/site/clover/org/apache/camel/language/ognl/OgnlTest_testClassMethodExpression_6
+org.apache.camel.language.ognl.CamelClassResolver		1.0
+org.apache.camel.language.ognl.OgnlExpression		0.6666667
+org.apache.camel.language.ognl.OgnlLanguage		0.5
+org.apache.camel.language.ognl.RootObject		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ognl/target/site/clover/org/apache/camel/language/ognl/OgnlTest_testGetOutFalseKeepsNullOutMessage_4
+org.apache.camel.language.ognl.OgnlExpression		0.61904764
+org.apache.camel.language.ognl.CamelClassResolver		0.5
+org.apache.camel.language.ognl.OgnlLanguage		0.5
+org.apache.camel.language.ognl.RootObject		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ognl/target/site/clover/org/apache/camel/language/ognl/OgnlTest_testOgnlExpressions_3
+org.apache.camel.language.ognl.OgnlExpression		0.61904764
+org.apache.camel.language.ognl.CamelClassResolver		0.5
+org.apache.camel.language.ognl.OgnlLanguage		0.5
+org.apache.camel.language.ognl.RootObject		0.3
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ognl/target/site/clover/org/apache/camel/language/ognl/OgnlTest_testResponseCreatesOutMessage_1
+org.apache.camel.language.ognl.OgnlExpression		0.61904764
+org.apache.camel.language.ognl.CamelClassResolver		0.5
+org.apache.camel.language.ognl.OgnlLanguage		0.5
+org.apache.camel.language.ognl.RootObject		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ognl/target/site/clover/org/apache/camel/language/ognl/patterns/FilterTest
+FilterTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ognl/target/site/clover/org/apache/camel/language/ognl/patterns/FilterTest_testSendMatchingMessage_0
+testSendMatchingMessage
+org.apache.camel.language.ognl.CamelClassResolver		0.5
+org.apache.camel.language.ognl.OgnlExpression		0.2857143
+org.apache.camel.language.ognl.RootObject		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ognl/target/site/clover/org/apache/camel/language/ognl/patterns/FilterTest_testSendNotMatchingMessage_5
+testSendNotMatchingMessage
+org.apache.camel.language.ognl.CamelClassResolver		0.5
+org.apache.camel.language.ognl.OgnlExpression		0.2857143
+org.apache.camel.language.ognl.RootObject		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ognl/target/site/clover/org/apache/camel/language/ognl/patterns/test-FilterTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ognl/target/site/clover/org/apache/camel/language/ognl/test-OgnlInvokeMethodTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ognl/target/site/clover/org/apache/camel/language/ognl/test-OgnlResourceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ognl/target/site/clover/org/apache/camel/language/ognl/test-OgnlTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

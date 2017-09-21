@@ -1,0 +1,89 @@
+./components/camel-consul/target/site/clover/org/apache/camel
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/ConsulCatalogTest
+ConsulCatalogTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/ConsulCoordinatesTest
+ConsulCoordinatesTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/ConsulEventTest
+ConsulEventTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/ConsulEventWatchTest
+ConsulEventWatchTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/ConsulHealthTest
+ConsulHealthTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/ConsulKeyValueTest
+ConsulKeyValueTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/ConsulKeyValueWatchTest
+ConsulKeyValueWatchTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/ConsulRegistryTest
+ConsulRegistryTest		0.0
+ConsulRegistryTest.ConsulTestClass		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/ConsulSessionTest
+ConsulSessionTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/ConsulTestSupport
+ConsulTestSupport		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/cloud/ConsulDefaultServiceCallRouteTest
+ConsulDefaultServiceCallRouteTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/cloud/ConsulRibbonServiceCallRouteTest
+ConsulRibbonServiceCallRouteTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/cloud/ConsulServiceDiscoveryTest
+ConsulServiceDiscoveryTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/cloud/SpringConsulDefaultServiceCallRouteTest
+SpringConsulDefaultServiceCallRouteTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/cloud/SpringConsulExpressionServiceCallRouteTest
+SpringConsulExpressionServiceCallRouteTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/cloud/SpringConsulRibbonServiceCallRouteTest
+SpringConsulRibbonServiceCallRouteTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/cloud/SpringConsulServiceCallRouteTest
+SpringConsulServiceCallRouteTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/cloud/test-ConsulDefaultServiceCallRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/cloud/test-ConsulRibbonServiceCallRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/cloud/test-ConsulServiceDiscoveryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/cloud/test-SpringConsulDefaultServiceCallRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/cloud/test-SpringConsulExpressionServiceCallRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/cloud/test-SpringConsulRibbonServiceCallRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/cloud/test-SpringConsulServiceCallRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/test-ConsulCatalogTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/test-ConsulCoordinatesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/test-ConsulEventTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/test-ConsulEventWatchTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/test-ConsulHealthTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/test-ConsulKeyValueTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/test-ConsulKeyValueWatchTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/test-ConsulRegistryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/test-ConsulRegistryTest_ConsulTestClass
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/test-ConsulSessionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-consul/target/site/clover/org/apache/camel/component/consul/test-ConsulTestSupport
+-- -- -- -- -- -- -- -- -- -- -- -- --

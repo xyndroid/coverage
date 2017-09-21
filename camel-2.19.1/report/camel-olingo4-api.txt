@@ -1,0 +1,52 @@
+./components/camel-olingo4/camel-olingo4-api/target/site/clover/org/apache/camel
+./components/camel-olingo4/camel-olingo4-api/target/site/clover/org/apache/camel/component/olingo4/Olingo4AppAPITest
+Olingo4AppAPITest		0.9486166
+Olingo4AppAPITest.TestOlingo4ResponseHandler		0.6388889
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-olingo4/camel-olingo4-api/target/site/clover/org/apache/camel/component/olingo4/Olingo4AppAPITest_testBatchRequest_3
+org.apache.camel.component.olingo4.api.batch.Operation		1.0
+org.apache.camel.component.olingo4.api.batch.Olingo4BatchResponse		0.75
+org.apache.camel.component.olingo4.api.batch.Olingo4BatchQueryRequest.Olingo4BatchQueryRequestBuilder		0.7222222
+org.apache.camel.component.olingo4.api.batch.Olingo4BatchChangeRequest.Olingo4BatchChangeRequestBuilder		0.71875
+org.apache.camel.component.olingo4.api.batch.Olingo4BatchChangeRequest		0.71428573
+org.apache.camel.component.olingo4.api.batch.Olingo4BatchRequest		0.6666667
+org.apache.camel.component.olingo4.api.batch.Olingo4BatchQueryRequest		0.6
+org.apache.camel.component.olingo4.api.impl.Olingo4AppImpl		0.58064514
+org.apache.camel.component.olingo4.api.impl.AbstractFutureCallback		0.44444445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-olingo4/camel-olingo4-api/target/site/clover/org/apache/camel/component/olingo4/Olingo4AppAPITest_testCreateUpdateDeleteEntity_8
+org.apache.camel.component.olingo4.api.impl.AbstractFutureCallback		0.8055556
+org.apache.camel.component.olingo4.api.impl.Olingo4AppImpl		0.2782258
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-olingo4/camel-olingo4-api/target/site/clover/org/apache/camel/component/olingo4/Olingo4AppAPITest_testReadCount_9
+org.apache.camel.component.olingo4.api.impl.AbstractFutureCallback		0.44444445
+org.apache.camel.component.olingo4.api.impl.Olingo4AppImpl		0.15524194
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-olingo4/camel-olingo4-api/target/site/clover/org/apache/camel/component/olingo4/Olingo4AppAPITest_testReadEntitySet_0
+org.apache.camel.component.olingo4.api.impl.AbstractFutureCallback		0.44444445
+org.apache.camel.component.olingo4.api.impl.Olingo4AppImpl		0.15725806
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-olingo4/camel-olingo4-api/target/site/clover/org/apache/camel/component/olingo4/Olingo4AppAPITest_testReadEntity_5
+org.apache.camel.component.olingo4.api.impl.AbstractFutureCallback		0.44444445
+org.apache.camel.component.olingo4.api.impl.Olingo4AppImpl		0.17540322
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-olingo4/camel-olingo4-api/target/site/clover/org/apache/camel/component/olingo4/Olingo4AppAPITest_testReadUnparsedEntitySet_2
+org.apache.camel.component.olingo4.api.impl.AbstractFutureCallback		0.44444445
+org.apache.camel.component.olingo4.api.impl.Olingo4AppImpl		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-olingo4/camel-olingo4-api/target/site/clover/org/apache/camel/component/olingo4/Olingo4AppAPITest_testReadUnparsedEntity_4
+org.apache.camel.component.olingo4.api.impl.AbstractFutureCallback		0.44444445
+org.apache.camel.component.olingo4.api.impl.Olingo4AppImpl		0.14314516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-olingo4/camel-olingo4-api/target/site/clover/org/apache/camel/component/olingo4/Olingo4AppAPITest_testReadUpdateProperties_b
+org.apache.camel.component.olingo4.api.impl.AbstractFutureCallback		0.44444445
+org.apache.camel.component.olingo4.api.impl.Olingo4AppImpl		0.25403225
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-olingo4/camel-olingo4-api/target/site/clover/org/apache/camel/component/olingo4/Olingo4AppAPITest_testServiceDocument_6
+org.apache.camel.component.olingo4.api.impl.AbstractFutureCallback		0.44444445
+org.apache.camel.component.olingo4.api.impl.Olingo4AppImpl		0.13104838
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-olingo4/camel-olingo4-api/target/site/clover/org/apache/camel/component/olingo4/test-Olingo4AppAPITest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-olingo4/camel-olingo4-api/target/site/clover/org/apache/camel/component/olingo4/test-Olingo4AppAPITest_TestOlingo4ResponseHandler
+-- -- -- -- -- -- -- -- -- -- -- -- --

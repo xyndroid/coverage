@@ -1,0 +1,519 @@
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/client/TestAuthenticatedURL
+TestAuthenticatedURL		0.9726027
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/client/TestAuthenticatedURL_testConnectionConfigurator_1e
+testConnectionConfigurator
+org.apache.hadoop.security.authentication.client.AuthenticatedURL		0.33333334
+org.apache.hadoop.security.authentication.client.AuthenticatedURL.Token		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/client/TestAuthenticatedURL_testExtractTokenFail_1n
+testExtractTokenFail
+org.apache.hadoop.security.authentication.client.AuthenticationException		0.33333334
+org.apache.hadoop.security.authentication.client.AuthenticatedURL.Token		0.2
+org.apache.hadoop.security.authentication.client.AuthenticatedURL		0.06944445
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/client/TestAuthenticatedURL_testExtractTokenOK_g
+testExtractTokenOK
+org.apache.hadoop.security.authentication.client.AuthenticatedURL		0.2361111
+org.apache.hadoop.security.authentication.client.AuthenticatedURL.Token		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/client/TestAuthenticatedURL_testInjectToken_f
+testInjectToken
+org.apache.hadoop.security.authentication.client.AuthenticatedURL.Token		0.12
+org.apache.hadoop.security.authentication.client.AuthenticatedURL		0.11111111
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/client/TestAuthenticatedURL_testToken_1u
+testToken
+org.apache.hadoop.security.authentication.client.AuthenticatedURL.Token		0.88
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/client/TestKerberosAuthenticator
+TestKerberosAuthenticator		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/client/TestKerberosAuthenticator_testAuthenticationPost_1o
+testAuthenticationPost
+org.apache.hadoop.security.authentication.server.AuthenticationToken		0.8028169
+org.apache.hadoop.security.authentication.util.Signer		0.74285716
+org.apache.hadoop.security.authentication.client.KerberosAuthenticator		0.725
+org.apache.hadoop.security.authentication.server.KerberosAuthenticationHandler		0.7083333
+org.apache.hadoop.security.authentication.client.AuthenticatedURL		0.7083333
+org.apache.hadoop.security.authentication.server.AuthenticationFilter		0.6453202
+org.apache.hadoop.security.authentication.server.KerberosAuthenticationHandler.KerberosConfiguration		0.5641026
+org.apache.hadoop.security.authentication.util.KerberosName.Rule		0.44347826
+org.apache.hadoop.security.authentication.util.KerberosName		0.36734694
+org.apache.hadoop.security.authentication.client.AuthenticatedURL.Token		0.28
+org.apache.hadoop.security.authentication.util.KerberosUtil		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/client/TestKerberosAuthenticator_testAuthentication_17
+testAuthentication
+org.apache.hadoop.security.authentication.server.AuthenticationToken		0.90140843
+org.apache.hadoop.security.authentication.util.Signer		0.74285716
+org.apache.hadoop.security.authentication.client.KerberosAuthenticator		0.725
+org.apache.hadoop.security.authentication.server.KerberosAuthenticationHandler		0.7083333
+org.apache.hadoop.security.authentication.client.AuthenticatedURL		0.7083333
+org.apache.hadoop.security.authentication.server.AuthenticationFilter		0.6453202
+org.apache.hadoop.security.authentication.server.KerberosAuthenticationHandler.KerberosConfiguration		0.5641026
+org.apache.hadoop.security.authentication.util.KerberosName.Rule		0.44347826
+org.apache.hadoop.security.authentication.util.KerberosName		0.36734694
+org.apache.hadoop.security.authentication.client.AuthenticatedURL.Token		0.28
+org.apache.hadoop.security.authentication.util.KerberosUtil		0.25
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/client/TestKerberosAuthenticator_testFallbacktoPseudoAuthenticatorAnonymous_1i
+testFallbacktoPseudoAuthenticatorAnonymous
+org.apache.hadoop.security.authentication.server.PseudoAuthenticationHandler		0.6666667
+org.apache.hadoop.security.authentication.client.AuthenticatedURL		0.5138889
+org.apache.hadoop.security.authentication.server.AuthenticationFilter		0.36453202
+org.apache.hadoop.security.authentication.client.AuthenticatedURL.Token		0.2
+org.apache.hadoop.security.authentication.client.KerberosAuthenticator		0.15833333
+org.apache.hadoop.security.authentication.util.Signer		0.114285715
+org.apache.hadoop.security.authentication.server.AuthenticationToken		0.056338027
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/client/TestKerberosAuthenticator_testFallbacktoPseudoAuthenticator_22
+testFallbacktoPseudoAuthenticator
+org.apache.hadoop.security.authentication.client.PseudoAuthenticator		0.8947368
+org.apache.hadoop.security.authentication.server.PseudoAuthenticationHandler		0.8787879
+org.apache.hadoop.security.authentication.server.AuthenticationToken		0.8028169
+org.apache.hadoop.security.authentication.util.Signer		0.74285716
+org.apache.hadoop.security.authentication.client.AuthenticatedURL		0.7083333
+org.apache.hadoop.security.authentication.server.AuthenticationFilter		0.6403941
+org.apache.hadoop.security.authentication.client.AuthenticationException		0.33333334
+org.apache.hadoop.security.authentication.client.AuthenticatedURL.Token		0.28
+org.apache.hadoop.security.authentication.client.KerberosAuthenticator		0.275
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/client/TestKerberosAuthenticator_testNotAuthenticated_r
+testNotAuthenticated
+org.apache.hadoop.security.authentication.server.KerberosAuthenticationHandler.KerberosConfiguration		0.5641026
+org.apache.hadoop.security.authentication.server.AuthenticationFilter		0.47783253
+org.apache.hadoop.security.authentication.server.KerberosAuthenticationHandler		0.40833333
+org.apache.hadoop.security.authentication.util.KerberosUtil		0.25
+org.apache.hadoop.security.authentication.util.KerberosName		0.20408164
+org.apache.hadoop.security.authentication.util.Signer		0.114285715
+org.apache.hadoop.security.authentication.util.KerberosName.Rule		0.09565217
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/client/TestPseudoAuthenticator
+TestPseudoAuthenticator		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/client/TestPseudoAuthenticator_testAnonymousAllowed_1j
+testAnonymousAllowed
+org.apache.hadoop.security.authentication.server.PseudoAuthenticationHandler		0.6666667
+org.apache.hadoop.security.authentication.server.AuthenticationFilter		0.36453202
+org.apache.hadoop.security.authentication.util.Signer		0.114285715
+org.apache.hadoop.security.authentication.server.AuthenticationToken		0.056338027
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/client/TestPseudoAuthenticator_testAnonymousDisallowed_16
+testAnonymousDisallowed
+org.apache.hadoop.security.authentication.server.PseudoAuthenticationHandler		0.6363636
+org.apache.hadoop.security.authentication.server.AuthenticationFilter		0.45812806
+org.apache.hadoop.security.authentication.client.AuthenticationException		0.33333334
+org.apache.hadoop.security.authentication.util.Signer		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/client/TestPseudoAuthenticator_testAuthenticationAnonymousAllowedWithPost_18
+testAuthenticationAnonymousAllowedWithPost
+org.apache.hadoop.security.authentication.client.PseudoAuthenticator		0.8947368
+org.apache.hadoop.security.authentication.server.AuthenticationToken		0.8028169
+org.apache.hadoop.security.authentication.util.Signer		0.74285716
+org.apache.hadoop.security.authentication.client.AuthenticatedURL		0.7083333
+org.apache.hadoop.security.authentication.server.PseudoAuthenticationHandler		0.6666667
+org.apache.hadoop.security.authentication.server.AuthenticationFilter		0.5862069
+org.apache.hadoop.security.authentication.client.AuthenticatedURL.Token		0.28
+org.apache.hadoop.security.authentication.client.KerberosAuthenticator		0.041666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/client/TestPseudoAuthenticator_testAuthenticationAnonymousAllowed_n
+testAuthenticationAnonymousAllowed
+org.apache.hadoop.security.authentication.client.PseudoAuthenticator		0.8947368
+org.apache.hadoop.security.authentication.server.AuthenticationToken		0.8028169
+org.apache.hadoop.security.authentication.util.Signer		0.74285716
+org.apache.hadoop.security.authentication.client.AuthenticatedURL		0.7083333
+org.apache.hadoop.security.authentication.server.PseudoAuthenticationHandler		0.6666667
+org.apache.hadoop.security.authentication.server.AuthenticationFilter		0.5862069
+org.apache.hadoop.security.authentication.client.AuthenticatedURL.Token		0.28
+org.apache.hadoop.security.authentication.client.KerberosAuthenticator		0.041666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/client/TestPseudoAuthenticator_testAuthenticationAnonymousDisallowedWithPost_p
+testAuthenticationAnonymousDisallowedWithPost
+org.apache.hadoop.security.authentication.client.PseudoAuthenticator		0.8947368
+org.apache.hadoop.security.authentication.server.AuthenticationToken		0.8028169
+org.apache.hadoop.security.authentication.util.Signer		0.74285716
+org.apache.hadoop.security.authentication.client.AuthenticatedURL		0.7083333
+org.apache.hadoop.security.authentication.server.PseudoAuthenticationHandler		0.6666667
+org.apache.hadoop.security.authentication.server.AuthenticationFilter		0.5862069
+org.apache.hadoop.security.authentication.client.AuthenticatedURL.Token		0.28
+org.apache.hadoop.security.authentication.client.KerberosAuthenticator		0.041666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/client/TestPseudoAuthenticator_testAuthenticationAnonymousDisallowed_1p
+testAuthenticationAnonymousDisallowed
+org.apache.hadoop.security.authentication.server.AuthenticationToken		0.90140843
+org.apache.hadoop.security.authentication.client.PseudoAuthenticator		0.8947368
+org.apache.hadoop.security.authentication.util.Signer		0.74285716
+org.apache.hadoop.security.authentication.client.AuthenticatedURL		0.7083333
+org.apache.hadoop.security.authentication.server.PseudoAuthenticationHandler		0.6666667
+org.apache.hadoop.security.authentication.server.AuthenticationFilter		0.5862069
+org.apache.hadoop.security.authentication.client.AuthenticatedURL.Token		0.28
+org.apache.hadoop.security.authentication.client.KerberosAuthenticator		0.041666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/client/TestPseudoAuthenticator_testGetUserName_1k
+testGetUserName
+org.apache.hadoop.security.authentication.client.PseudoAuthenticator		0.10526316
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAltKerberosAuthenticationHandler
+TestAltKerberosAuthenticationHandler		0.88235295
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAltKerberosAuthenticationHandler_testAlternateAuthenticationAsBrowser_1v
+testAlternateAuthenticationAsBrowser
+org.apache.hadoop.security.authentication.server.AltKerberosAuthenticationHandler		0.5483871
+org.apache.hadoop.security.authentication.server.AuthenticationToken		0.23943663
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAltKerberosAuthenticationHandler_testDynamicPrincipalDiscoveryMissingPrincipals_q
+testDynamicPrincipalDiscoveryMissingPrincipals
+org.apache.hadoop.security.authentication.util.KerberosUtil		0.28333333
+org.apache.hadoop.security.authentication.server.KerberosAuthenticationHandler		0.20833333
+org.apache.hadoop.security.authentication.server.AltKerberosAuthenticationHandler		0.06451613
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAltKerberosAuthenticationHandler_testDynamicPrincipalDiscovery_0
+testDynamicPrincipalDiscovery
+org.apache.hadoop.security.authentication.server.KerberosAuthenticationHandler.KerberosConfiguration		0.5641026
+org.apache.hadoop.security.authentication.util.KerberosUtil		0.36666667
+org.apache.hadoop.security.authentication.server.KerberosAuthenticationHandler		0.34166667
+org.apache.hadoop.security.authentication.server.AltKerberosAuthenticationHandler		0.22580644
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAltKerberosAuthenticationHandler_testInit_w
+testInit
+org.apache.hadoop.security.authentication.server.KerberosAuthenticationHandler		0.033333335
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAltKerberosAuthenticationHandler_testNameRules_1t
+testNameRules
+org.apache.hadoop.security.authentication.util.KerberosName.NoMatchingRule		1.0
+org.apache.hadoop.security.authentication.server.KerberosAuthenticationHandler.KerberosConfiguration		0.5641026
+org.apache.hadoop.security.authentication.util.KerberosName.Rule		0.5565217
+org.apache.hadoop.security.authentication.util.KerberosName		0.53061223
+org.apache.hadoop.security.authentication.server.KerberosAuthenticationHandler		0.3
+org.apache.hadoop.security.authentication.server.AltKerberosAuthenticationHandler		0.22580644
+org.apache.hadoop.security.authentication.util.KerberosUtil		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAltKerberosAuthenticationHandler_testNonDefaultNonBrowserUserAgentAsBrowser_7
+testNonDefaultNonBrowserUserAgentAsBrowser
+org.apache.hadoop.security.authentication.server.AltKerberosAuthenticationHandler		0.7741935
+org.apache.hadoop.security.authentication.server.KerberosAuthenticationHandler.KerberosConfiguration		0.5641026
+org.apache.hadoop.security.authentication.server.AuthenticationToken		0.46478873
+org.apache.hadoop.security.authentication.server.KerberosAuthenticationHandler		0.3
+org.apache.hadoop.security.authentication.util.KerberosName		0.1734694
+org.apache.hadoop.security.authentication.util.KerberosName.Rule		0.09565217
+org.apache.hadoop.security.authentication.util.KerberosUtil		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAltKerberosAuthenticationHandler_testRequestWithAuthorization_a
+testRequestWithAuthorization
+org.apache.hadoop.security.authentication.server.AltKerberosAuthenticationHandler		0.38709676
+org.apache.hadoop.security.authentication.util.KerberosName.Rule		0.3478261
+org.apache.hadoop.security.authentication.server.KerberosAuthenticationHandler		0.325
+org.apache.hadoop.security.authentication.util.KerberosUtil		0.25
+org.apache.hadoop.security.authentication.server.AuthenticationToken		0.23943663
+org.apache.hadoop.security.authentication.util.KerberosName		0.19387755
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAltKerberosAuthenticationHandler_testRequestWithIncompleteAuthorization_b
+testRequestWithIncompleteAuthorization
+org.apache.hadoop.security.authentication.client.AuthenticationException		0.33333334
+org.apache.hadoop.security.authentication.server.AltKerberosAuthenticationHandler		0.29032257
+org.apache.hadoop.security.authentication.util.KerberosUtil		0.25
+org.apache.hadoop.security.authentication.server.KerberosAuthenticationHandler		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAltKerberosAuthenticationHandler_testRequestWithInvalidAuthorization_l
+testRequestWithInvalidAuthorization
+org.apache.hadoop.security.authentication.server.AltKerberosAuthenticationHandler		0.32258064
+org.apache.hadoop.security.authentication.server.KerberosAuthenticationHandler		0.09166667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAltKerberosAuthenticationHandler_testRequestWithInvalidKerberosAuthorization_i
+testRequestWithInvalidKerberosAuthorization
+org.apache.hadoop.security.authentication.client.AuthenticationException		0.33333334
+org.apache.hadoop.security.authentication.server.AltKerberosAuthenticationHandler		0.29032257
+org.apache.hadoop.security.authentication.util.KerberosUtil		0.25
+org.apache.hadoop.security.authentication.server.KerberosAuthenticationHandler		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAltKerberosAuthenticationHandler_testRequestWithoutAuthorization_m
+testRequestWithoutAuthorization
+org.apache.hadoop.security.authentication.server.AltKerberosAuthenticationHandler		0.32258064
+org.apache.hadoop.security.authentication.server.KerberosAuthenticationHandler		0.09166667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAltKerberosAuthenticationHandler_testType_c
+testType
+org.apache.hadoop.security.authentication.server.AltKerberosAuthenticationHandler		0.06451613
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAuthenticationFilter
+TestAuthenticationFilter		0.96277916
+TestAuthenticationFilter.DummyAuthenticationHandler		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAuthenticationFilter_testDoFilterAuthenticatedExpired_9
+testDoFilterAuthenticatedExpired
+org.apache.hadoop.security.authentication.server.AuthenticationToken		0.8028169
+org.apache.hadoop.security.authentication.util.Signer		0.74285716
+org.apache.hadoop.security.authentication.server.AuthenticationFilter		0.5960591
+org.apache.hadoop.security.authentication.client.AuthenticationException		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAuthenticationFilter_testDoFilterAuthenticatedInvalidType_x
+testDoFilterAuthenticatedInvalidType
+org.apache.hadoop.security.authentication.server.AuthenticationToken		0.7746479
+org.apache.hadoop.security.authentication.util.Signer		0.74285716
+org.apache.hadoop.security.authentication.server.AuthenticationFilter		0.5862069
+org.apache.hadoop.security.authentication.client.AuthenticationException		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAuthenticationFilter_testDoFilterAuthenticated_z
+testDoFilterAuthenticated
+org.apache.hadoop.security.authentication.util.SignerException		1.0
+org.apache.hadoop.security.authentication.util.Signer		0.74285716
+org.apache.hadoop.security.authentication.server.AuthenticationFilter		0.5714286
+org.apache.hadoop.security.authentication.server.AuthenticationToken		0.46478873
+org.apache.hadoop.security.authentication.client.AuthenticationException		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAuthenticationFilter_testDoFilterAuthenticationFailure_23
+testDoFilterAuthenticationFailure
+org.apache.hadoop.security.authentication.server.AuthenticationFilter		0.5320197
+org.apache.hadoop.security.authentication.client.AuthenticationException		0.33333334
+org.apache.hadoop.security.authentication.util.Signer		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAuthenticationFilter_testDoFilterAuthenticationImmediateExpiration_d
+testDoFilterAuthenticationImmediateExpiration
+org.apache.hadoop.security.authentication.server.AuthenticationToken		0.46478873
+org.apache.hadoop.security.authentication.server.AuthenticationFilter		0.4187192
+org.apache.hadoop.security.authentication.util.Signer		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAuthenticationFilter_testDoFilterAuthenticationWithDomainPath_1c
+testDoFilterAuthenticationWithDomainPath
+org.apache.hadoop.security.authentication.server.AuthenticationToken		0.8028169
+org.apache.hadoop.security.authentication.util.Signer		0.74285716
+org.apache.hadoop.security.authentication.server.AuthenticationFilter		0.5714286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAuthenticationFilter_testDoFilterAuthenticationWithInvalidToken_12
+testDoFilterAuthenticationWithInvalidToken
+org.apache.hadoop.security.authentication.util.SignerException		1.0
+org.apache.hadoop.security.authentication.server.AuthenticationToken		0.8028169
+org.apache.hadoop.security.authentication.util.Signer		0.8
+org.apache.hadoop.security.authentication.server.AuthenticationFilter		0.5960591
+org.apache.hadoop.security.authentication.client.AuthenticationException		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAuthenticationFilter_testDoFilterAuthentication_h
+testDoFilterAuthentication
+org.apache.hadoop.security.authentication.server.AuthenticationToken		0.8028169
+org.apache.hadoop.security.authentication.util.Signer		0.74285716
+org.apache.hadoop.security.authentication.server.AuthenticationFilter		0.56157637
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAuthenticationFilter_testDoFilterNotAuthenticated_u
+testDoFilterNotAuthenticated
+org.apache.hadoop.security.authentication.server.AuthenticationFilter		0.5369458
+org.apache.hadoop.security.authentication.util.Signer		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAuthenticationFilter_testGetConfiguration_24
+testGetConfiguration
+org.apache.hadoop.security.authentication.server.AuthenticationFilter		0.0591133
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAuthenticationFilter_testGetRequestURL_8
+testGetRequestURL
+org.apache.hadoop.security.authentication.server.AuthenticationFilter		0.25123152
+org.apache.hadoop.security.authentication.util.Signer		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAuthenticationFilter_testGetTokenExpired_1h
+testGetTokenExpired
+org.apache.hadoop.security.authentication.server.AuthenticationToken		0.8028169
+org.apache.hadoop.security.authentication.util.Signer		0.74285716
+org.apache.hadoop.security.authentication.client.AuthenticationException		0.33333334
+org.apache.hadoop.security.authentication.server.AuthenticationFilter		0.31034482
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAuthenticationFilter_testGetTokenInvalidType_1g
+testGetTokenInvalidType
+org.apache.hadoop.security.authentication.server.AuthenticationToken		0.7746479
+org.apache.hadoop.security.authentication.util.Signer		0.74285716
+org.apache.hadoop.security.authentication.client.AuthenticationException		0.33333334
+org.apache.hadoop.security.authentication.server.AuthenticationFilter		0.3004926
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAuthenticationFilter_testGetToken_1d
+testGetToken
+org.apache.hadoop.security.authentication.server.AuthenticationToken		0.90140843
+org.apache.hadoop.security.authentication.util.Signer		0.74285716
+org.apache.hadoop.security.authentication.server.AuthenticationFilter		0.31034482
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAuthenticationFilter_testInitCaseSensitivity_1s
+testInitCaseSensitivity
+org.apache.hadoop.security.authentication.server.AuthenticationFilter		0.22167487
+org.apache.hadoop.security.authentication.util.Signer		0.114285715
+org.apache.hadoop.security.authentication.server.PseudoAuthenticationHandler		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAuthenticationFilter_testInitEmpty_21
+testInitEmpty
+org.apache.hadoop.security.authentication.server.AuthenticationFilter		0.093596056
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAuthenticationFilter_testInit_6
+testInit
+org.apache.hadoop.security.authentication.server.AuthenticationFilter		0.2955665
+org.apache.hadoop.security.authentication.util.Signer		0.114285715
+org.apache.hadoop.security.authentication.server.KerberosAuthenticationHandler		0.1
+org.apache.hadoop.security.authentication.server.PseudoAuthenticationHandler		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAuthenticationFilter_testManagementOperation_4
+testManagementOperation
+org.apache.hadoop.security.authentication.util.SignerException		1.0
+org.apache.hadoop.security.authentication.util.Signer		0.74285716
+org.apache.hadoop.security.authentication.server.AuthenticationToken		0.46478873
+org.apache.hadoop.security.authentication.server.AuthenticationFilter		0.4039409
+org.apache.hadoop.security.authentication.client.AuthenticationException		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAuthenticationToken
+TestAuthenticationToken		0.7878788
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAuthenticationToken_testAnonymous_1b
+testAnonymous
+org.apache.hadoop.security.authentication.server.AuthenticationToken		0.33802816
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAuthenticationToken_testConstructor_3
+testConstructor
+org.apache.hadoop.security.authentication.server.AuthenticationToken		0.18309858
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAuthenticationToken_testGetters_20
+testGetters
+org.apache.hadoop.security.authentication.server.AuthenticationToken		0.46478873
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAuthenticationToken_testParseInvalid_1r
+testParseInvalid
+org.apache.hadoop.security.authentication.server.AuthenticationToken		0.73239434
+org.apache.hadoop.security.authentication.client.AuthenticationException		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestAuthenticationToken_testToStringAndParse_1x
+testToStringAndParse
+org.apache.hadoop.security.authentication.server.AuthenticationToken		0.8028169
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestKerberosAuthenticationHandler
+TestKerberosAuthenticationHandler		0.90604025
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestKerberosAuthenticationHandler_testDynamicPrincipalDiscoveryMissingPrincipals_s
+testDynamicPrincipalDiscoveryMissingPrincipals
+org.apache.hadoop.security.authentication.util.KerberosUtil		0.28333333
+org.apache.hadoop.security.authentication.server.KerberosAuthenticationHandler		0.20833333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestKerberosAuthenticationHandler_testDynamicPrincipalDiscovery_j
+testDynamicPrincipalDiscovery
+org.apache.hadoop.security.authentication.server.KerberosAuthenticationHandler.KerberosConfiguration		0.5641026
+org.apache.hadoop.security.authentication.util.KerberosUtil		0.36666667
+org.apache.hadoop.security.authentication.server.KerberosAuthenticationHandler		0.34166667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestKerberosAuthenticationHandler_testInit_5
+testInit
+org.apache.hadoop.security.authentication.server.KerberosAuthenticationHandler		0.033333335
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestKerberosAuthenticationHandler_testNameRules_25
+testNameRules
+org.apache.hadoop.security.authentication.util.KerberosName.NoMatchingRule		1.0
+org.apache.hadoop.security.authentication.server.KerberosAuthenticationHandler.KerberosConfiguration		0.5641026
+org.apache.hadoop.security.authentication.util.KerberosName.Rule		0.5565217
+org.apache.hadoop.security.authentication.util.KerberosName		0.53061223
+org.apache.hadoop.security.authentication.server.KerberosAuthenticationHandler		0.3
+org.apache.hadoop.security.authentication.util.KerberosUtil		0.05
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestKerberosAuthenticationHandler_testRequestWithIncompleteAuthorization_15
+testRequestWithIncompleteAuthorization
+org.apache.hadoop.security.authentication.client.AuthenticationException		0.33333334
+org.apache.hadoop.security.authentication.util.KerberosUtil		0.25
+org.apache.hadoop.security.authentication.server.KerberosAuthenticationHandler		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestKerberosAuthenticationHandler_testType_k
+testType
+org.apache.hadoop.security.authentication.server.KerberosAuthenticationHandler		0.016666668
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestPseudoAuthenticationHandler
+TestPseudoAuthenticationHandler		0.9622642
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestPseudoAuthenticationHandler_testAnonymousOff_13
+testAnonymousOff
+org.apache.hadoop.security.authentication.server.PseudoAuthenticationHandler		0.57575756
+org.apache.hadoop.security.authentication.client.AuthenticationException		0.33333334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestPseudoAuthenticationHandler_testAnonymousOn_1z
+testAnonymousOn
+org.apache.hadoop.security.authentication.server.PseudoAuthenticationHandler		0.6060606
+org.apache.hadoop.security.authentication.server.AuthenticationToken		0.30985916
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestPseudoAuthenticationHandler_testInit_o
+testInit
+org.apache.hadoop.security.authentication.server.PseudoAuthenticationHandler		0.15151516
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestPseudoAuthenticationHandler_testType_1q
+testType
+org.apache.hadoop.security.authentication.server.PseudoAuthenticationHandler		0.060606062
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestPseudoAuthenticationHandler_testUserNameAnonymousOff_11
+testUserNameAnonymousOff
+org.apache.hadoop.security.authentication.server.PseudoAuthenticationHandler		0.6060606
+org.apache.hadoop.security.authentication.server.AuthenticationToken		0.23943663
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/server/TestPseudoAuthenticationHandler_testUserNameAnonymousOn_1l
+testUserNameAnonymousOn
+org.apache.hadoop.security.authentication.server.PseudoAuthenticationHandler		0.6060606
+org.apache.hadoop.security.authentication.server.AuthenticationToken		0.23943663
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/util/TestKerberosName
+TestKerberosName		0.95652175
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/util/TestKerberosName_testAntiPatterns_19
+testAntiPatterns
+org.apache.hadoop.security.authentication.util.KerberosName.NoMatchingRule		1.0
+org.apache.hadoop.security.authentication.util.KerberosName		0.3877551
+org.apache.hadoop.security.authentication.util.KerberosName.Rule		0.31304348
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/util/TestKerberosName_testRules_e
+testRules
+org.apache.hadoop.security.authentication.util.KerberosName.Rule		0.4173913
+org.apache.hadoop.security.authentication.util.KerberosName		0.2244898
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/util/TestKerberosName_testToLowerCase_10
+testToLowerCase
+org.apache.hadoop.security.authentication.util.KerberosName.Rule		0.8086957
+org.apache.hadoop.security.authentication.util.KerberosName		0.45918366
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/util/TestKerberosUtil
+TestKerberosUtil		0.96666664
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/util/TestKerberosUtil_testGetPrincipalNamesFromKeytabWithPattern_1a
+testGetPrincipalNamesFromKeytabWithPattern
+org.apache.hadoop.security.authentication.util.KerberosUtil		0.31666666
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/util/TestKerberosUtil_testGetPrincipalNamesFromKeytab_1y
+testGetPrincipalNamesFromKeytab
+org.apache.hadoop.security.authentication.util.KerberosUtil		0.11666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/util/TestKerberosUtil_testGetPrincipalNamesMissingKeytab_1w
+testGetPrincipalNamesMissingKeytab
+org.apache.hadoop.security.authentication.util.KerberosUtil		0.033333335
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/util/TestKerberosUtil_testGetPrincipalNamesMissingPattern_t
+testGetPrincipalNamesMissingPattern
+org.apache.hadoop.security.authentication.util.KerberosUtil		0.23333333
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/util/TestKerberosUtil_testGetServerPrincipal_14
+testGetServerPrincipal
+org.apache.hadoop.security.authentication.util.KerberosUtil		0.15
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/util/TestSigner
+TestSigner		0.78571427
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/util/TestSigner_testInvalidSignedText_y
+testInvalidSignedText
+org.apache.hadoop.security.authentication.util.SignerException		1.0
+org.apache.hadoop.security.authentication.util.Signer		0.25714287
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/util/TestSigner_testNoSecret_v
+testNoSecret
+org.apache.hadoop.security.authentication.util.Signer		0.114285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/util/TestSigner_testNullAndEmptyString_1
+testNullAndEmptyString
+org.apache.hadoop.security.authentication.util.Signer		0.22857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/util/TestSigner_testSignature_1f
+testSignature
+org.apache.hadoop.security.authentication.util.Signer		0.45714286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/util/TestSigner_testTampering_1m
+testTampering
+org.apache.hadoop.security.authentication.util.SignerException		1.0
+org.apache.hadoop.security.authentication.util.Signer		0.74285716
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./hadoop-common-project/hadoop-auth/target/clover/org/apache/hadoop/security/authentication/util/TestSigner_testVerify_2
+testVerify
+org.apache.hadoop.security.authentication.util.Signer		0.74285716
+-- -- -- -- -- -- -- -- -- -- -- -- --

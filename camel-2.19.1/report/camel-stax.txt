@@ -1,0 +1,44 @@
+./components/camel-stax/target/site/clover/org/apache/camel
+./components/camel-stax/target/site/clover/org/apache/camel/component/stax/SpringStAXJAXBIteratorExpressionTest
+SpringStAXJAXBIteratorExpressionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stax/target/site/clover/org/apache/camel/component/stax/SpringStAXJAXBIteratorExpressionTest_testStaxExpression_1
+org.apache.camel.component.stax.StAXJAXBIteratorExpression.StAXJAXBIterator		0.85106385
+org.apache.camel.component.stax.StAXUtil		0.42105263
+org.apache.camel.component.stax.StAXJAXBIteratorExpression		0.4117647
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stax/target/site/clover/org/apache/camel/component/stax/StAXComponentRefTest
+StAXComponentRefTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stax/target/site/clover/org/apache/camel/component/stax/StAXComponentRefTest_testStax_2
+org.apache.camel.component.stax.StAXProcessor		0.5416667
+org.apache.camel.component.stax.StaxStreamXMLReader		0.3495702
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stax/target/site/clover/org/apache/camel/component/stax/StAXComponentTest
+StAXComponentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stax/target/site/clover/org/apache/camel/component/stax/StAXComponentTest_testStax_0
+org.apache.camel.component.stax.StAXProcessor		0.5416667
+org.apache.camel.component.stax.StaxStreamXMLReader		0.3495702
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stax/target/site/clover/org/apache/camel/component/stax/StAXJAXBIteratorExpressionTest
+StAXJAXBIteratorExpressionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stax/target/site/clover/org/apache/camel/component/stax/StAXJAXBIteratorExpressionTest_testStaxExpression_3
+org.apache.camel.component.stax.StAXJAXBIteratorExpression.StAXJAXBIterator		0.85106385
+org.apache.camel.component.stax.StAXJAXBIteratorExpression		0.3137255
+org.apache.camel.component.stax.StAXUtil		0.21052632
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stax/target/site/clover/org/apache/camel/component/stax/StAXXPathSplitChoicePerformanceTest
+StAXXPathSplitChoicePerformanceTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stax/target/site/clover/org/apache/camel/component/stax/test-SpringStAXJAXBIteratorExpressionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stax/target/site/clover/org/apache/camel/component/stax/test-StAXComponentRefTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stax/target/site/clover/org/apache/camel/component/stax/test-StAXComponentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stax/target/site/clover/org/apache/camel/component/stax/test-StAXJAXBIteratorExpressionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-stax/target/site/clover/org/apache/camel/component/stax/test-StAXXPathSplitChoicePerformanceTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

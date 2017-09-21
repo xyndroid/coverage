@@ -1,0 +1,80 @@
+./components/camel-johnzon/target/site/clover/org/apache/camel
+./components/camel-johnzon/target/site/clover/org/apache/camel/component/johnzon/JohnzonAttributeOrderTest
+JohnzonAttributeOrderTest		0.9259259
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-johnzon/target/site/clover/org/apache/camel/component/johnzon/JohnzonAttributeOrderTest_testMarshalAndUnmarshalMap_2
+org.apache.camel.component.johnzon.JohnzonDataFormat		0.12195122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-johnzon/target/site/clover/org/apache/camel/component/johnzon/JohnzonDataFormatTest
+JohnzonDataFormatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-johnzon/target/site/clover/org/apache/camel/component/johnzon/JohnzonDataFormatTest_testArray_a
+org.apache.camel.component.johnzon.JohnzonDataFormat		0.3292683
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-johnzon/target/site/clover/org/apache/camel/component/johnzon/JohnzonDataFormatTest_testList_4
+org.apache.camel.component.johnzon.JohnzonDataFormat		0.3292683
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-johnzon/target/site/clover/org/apache/camel/component/johnzon/JohnzonDataFormatTest_testMap_8
+org.apache.camel.component.johnzon.JohnzonDataFormat		0.3292683
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-johnzon/target/site/clover/org/apache/camel/component/johnzon/JohnzonDataFormatTest_testSkipEmptyArray_9
+org.apache.camel.component.johnzon.JohnzonDataFormat		0.3292683
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-johnzon/target/site/clover/org/apache/camel/component/johnzon/JohnzonDataFormatTest_testString_0
+org.apache.camel.component.johnzon.JohnzonDataFormat		0.3292683
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-johnzon/target/site/clover/org/apache/camel/component/johnzon/JohnzonJsonDataFormatTest
+JohnzonJsonDataFormatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-johnzon/target/site/clover/org/apache/camel/component/johnzon/JohnzonJsonDataFormatTest_testMarshalAndUnmarshalMap_1
+org.apache.camel.component.johnzon.JohnzonDataFormat		0.12195122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-johnzon/target/site/clover/org/apache/camel/component/johnzon/JohnzonJsonDataFormatTest_testMarshalAndUnmarshalPojo_b
+org.apache.camel.component.johnzon.JohnzonDataFormat		0.12195122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-johnzon/target/site/clover/org/apache/camel/component/johnzon/JohnzonMarshalTest
+JohnzonMarshalTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-johnzon/target/site/clover/org/apache/camel/component/johnzon/JohnzonMarshalTest_testMarshalAndUnmarshalMap_5
+org.apache.camel.component.johnzon.JohnzonDataFormat		0.12195122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-johnzon/target/site/clover/org/apache/camel/component/johnzon/JohnzonMarshalTest_testMarshalAndUnmarshalPojo_7
+org.apache.camel.component.johnzon.JohnzonDataFormat		0.12195122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-johnzon/target/site/clover/org/apache/camel/component/johnzon/JohnzonSkipNullTest
+JohnzonSkipNullTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-johnzon/target/site/clover/org/apache/camel/component/johnzon/JohnzonSkipNullTest_testMmarshalPojo_c
+org.apache.camel.component.johnzon.JohnzonDataFormat		0.024390243
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-johnzon/target/site/clover/org/apache/camel/component/johnzon/SpringJohnzonJsonDataFormatTest
+SpringJohnzonJsonDataFormatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-johnzon/target/site/clover/org/apache/camel/component/johnzon/SpringJohnzonJsonDataFormatTest_testMarshalAndUnmarshalMap_6
+org.apache.camel.component.johnzon.JohnzonDataFormat		0.12195122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-johnzon/target/site/clover/org/apache/camel/component/johnzon/SpringJohnzonJsonDataFormatTest_testMarshalAndUnmarshalPojo_3
+org.apache.camel.component.johnzon.JohnzonDataFormat		0.12195122
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-johnzon/target/site/clover/org/apache/camel/component/johnzon/TestOtherPojo
+TestOtherPojo		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-johnzon/target/site/clover/org/apache/camel/component/johnzon/TestPojo
+TestPojo		0.5
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-johnzon/target/site/clover/org/apache/camel/component/johnzon/test-JohnzonAttributeOrderTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-johnzon/target/site/clover/org/apache/camel/component/johnzon/test-JohnzonDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-johnzon/target/site/clover/org/apache/camel/component/johnzon/test-JohnzonJsonDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-johnzon/target/site/clover/org/apache/camel/component/johnzon/test-JohnzonMarshalTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-johnzon/target/site/clover/org/apache/camel/component/johnzon/test-JohnzonSkipNullTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-johnzon/target/site/clover/org/apache/camel/component/johnzon/test-SpringJohnzonJsonDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-johnzon/target/site/clover/org/apache/camel/component/johnzon/test-TestOtherPojo
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-johnzon/target/site/clover/org/apache/camel/component/johnzon/test-TestPojo
+-- -- -- -- -- -- -- -- -- -- -- -- --

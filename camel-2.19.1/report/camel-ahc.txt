@@ -1,0 +1,500 @@
+./components/camel-ahc/target/site/clover/org/apache/camel
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcBridgeEndpointPathWithSpacesTest
+AhcBridgeEndpointPathWithSpacesTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcBridgeEndpointPathWithSpacesTest_testBridgeEndpoint_a
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5925926
+org.apache.camel.component.ahc.AhcProducer		0.5714286
+org.apache.camel.component.ahc.DefaultAhcBinding		0.479638
+org.apache.camel.component.ahc.helper.AhcHelper		0.38947368
+org.apache.camel.component.ahc.AhcEndpoint		0.14414415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcBridgeEndpointTest
+AhcBridgeEndpointTest		0.95
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcBridgeEndpointTest_testBridgeEndpoint_4
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5925926
+org.apache.camel.component.ahc.AhcProducer		0.5714286
+org.apache.camel.component.ahc.DefaultAhcBinding		0.479638
+org.apache.camel.component.ahc.helper.AhcHelper		0.34736842
+org.apache.camel.component.ahc.AhcEndpoint		0.14414415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcClientConfigRealmUriTest
+AhcClientConfigRealmUriTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcClientConfigRealmUriTest_testAhcProduce_w
+org.apache.camel.component.ahc.HttpHeaderFilterStrategy		1.0
+org.apache.camel.component.ahc.HttpProtocolHeaderFilterStrategy		1.0
+org.apache.camel.component.ahc.AhcProducer		0.78571427
+org.apache.camel.component.ahc.AhcComponent		0.742268
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5740741
+org.apache.camel.component.ahc.AhcEndpoint		0.5585586
+org.apache.camel.component.ahc.DefaultAhcBinding		0.36199096
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcClientConfigUriTest
+AhcClientConfigUriTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcClientConfigUriTest_testAhcProduce_v
+org.apache.camel.component.ahc.HttpHeaderFilterStrategy		1.0
+org.apache.camel.component.ahc.HttpProtocolHeaderFilterStrategy		1.0
+org.apache.camel.component.ahc.AhcProducer		0.78571427
+org.apache.camel.component.ahc.AhcComponent		0.6185567
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5740741
+org.apache.camel.component.ahc.AhcEndpoint		0.5405405
+org.apache.camel.component.ahc.DefaultAhcBinding		0.36199096
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcComponentClientConfigGlobalSslContextParametersTest
+AhcComponentClientConfigGlobalSslContextParametersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcComponentClientConfigGlobalSslContextParametersTest_testAhcComponentClientConfig_u
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5925926
+org.apache.camel.component.ahc.AhcProducer		0.5714286
+org.apache.camel.component.ahc.DefaultAhcBinding		0.36199096
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+org.apache.camel.component.ahc.AhcEndpoint		0.14414415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcComponentClientConfigSslContextParametersTest
+AhcComponentClientConfigSslContextParametersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcComponentClientConfigSslContextParametersTest_testAhcComponentClientConfig_17
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5740741
+org.apache.camel.component.ahc.AhcProducer		0.5714286
+org.apache.camel.component.ahc.DefaultAhcBinding		0.36199096
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+org.apache.camel.component.ahc.AhcEndpoint		0.14414415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcComponentClientConfigTest
+AhcComponentClientConfigTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcComponentClientConfigTest_testAhcComponentClientConfig_i
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5740741
+org.apache.camel.component.ahc.AhcProducer		0.5714286
+org.apache.camel.component.ahc.DefaultAhcBinding		0.36199096
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+org.apache.camel.component.ahc.AhcEndpoint		0.14414415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcComponentClientConfigWithClientConfigUriParametersTest
+AhcComponentClientConfigWithClientConfigUriParametersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcComponentClientConfigWithClientConfigUriParametersTest_testAhcComponentClientConfig_d
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5925926
+org.apache.camel.component.ahc.AhcProducer		0.5714286
+org.apache.camel.component.ahc.DefaultAhcBinding		0.36199096
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+org.apache.camel.component.ahc.AhcEndpoint		0.14414415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcComponentCustomClientConfigTest
+AhcComponentCustomClientConfigTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcComponentCustomClientConfigTest_testAhcComponentCustomClientConfig_3
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5925926
+org.apache.camel.component.ahc.AhcProducer		0.5714286
+org.apache.camel.component.ahc.DefaultAhcBinding		0.36199096
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+org.apache.camel.component.ahc.AhcEndpoint		0.14414415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcComponentNettyClientConfigTest
+AhcComponentNettyClientConfigTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcComponentNettyClientConfigTest_testAhcComponentCustomClientConfig_1
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5740741
+org.apache.camel.component.ahc.AhcProducer		0.5714286
+org.apache.camel.component.ahc.DefaultAhcBinding		0.36199096
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+org.apache.camel.component.ahc.AhcEndpoint		0.14414415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcGoogleTest
+AhcGoogleTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProduce500Test
+AhcProduce500Test		0.95238096
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProduce500Test_testAhcProduce_p
+org.apache.camel.component.ahc.AhcOperationFailedException		0.7307692
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5925926
+org.apache.camel.component.ahc.AhcProducer		0.5714286
+org.apache.camel.component.ahc.DefaultAhcBinding		0.4479638
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+org.apache.camel.component.ahc.AhcEndpoint		0.16216215
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProduceClientConfigTest
+AhcProduceClientConfigTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProduceClientConfigTest_testAhcProduceClientConfig_1a
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5740741
+org.apache.camel.component.ahc.AhcProducer		0.5714286
+org.apache.camel.component.ahc.DefaultAhcBinding		0.36199096
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+org.apache.camel.component.ahc.AhcEndpoint		0.14414415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProduceClientConfigWithClientConfigUriParametersTest
+AhcProduceClientConfigWithClientConfigUriParametersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProduceClientConfigWithClientConfigUriParametersTest_testAhcProduceClientConfig_13
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5925926
+org.apache.camel.component.ahc.AhcProducer		0.5714286
+org.apache.camel.component.ahc.DefaultAhcBinding		0.36199096
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+org.apache.camel.component.ahc.AhcEndpoint		0.14414415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProduceGetHeadersTest
+AhcProduceGetHeadersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProduceGetHeadersTest_testAhcProduce_z
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5925926
+org.apache.camel.component.ahc.AhcProducer		0.5714286
+org.apache.camel.component.ahc.DefaultAhcBinding		0.36199096
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+org.apache.camel.component.ahc.AhcEndpoint		0.14414415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProduceGetNoSlashInUriTest
+AhcProduceGetNoSlashInUriTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProduceGetNoSlashInUriTest_testAhcProduce_m
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5740741
+org.apache.camel.component.ahc.AhcProducer		0.5714286
+org.apache.camel.component.ahc.DefaultAhcBinding		0.36199096
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+org.apache.camel.component.ahc.AhcEndpoint		0.14414415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProduceGetTest
+AhcProduceGetTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProduceGetTest_testAhcProduceDirectly_10
+org.apache.camel.component.ahc.AhcProducer		0.78571427
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5740741
+org.apache.camel.component.ahc.DefaultAhcBinding		0.36199096
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+org.apache.camel.component.ahc.AhcEndpoint		0.22522523
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProduceGetTest_testAhcProduceGetHeader_15
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5740741
+org.apache.camel.component.ahc.AhcProducer		0.5714286
+org.apache.camel.component.ahc.DefaultAhcBinding		0.35746607
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+org.apache.camel.component.ahc.AhcEndpoint		0.14414415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProduceGetTest_testAhcProduceInOut_h
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5925926
+org.apache.camel.component.ahc.AhcProducer		0.5714286
+org.apache.camel.component.ahc.DefaultAhcBinding		0.36199096
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+org.apache.camel.component.ahc.AhcEndpoint		0.14414415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProduceGetTest_testAhcProduce_2
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5740741
+org.apache.camel.component.ahc.AhcProducer		0.5714286
+org.apache.camel.component.ahc.DefaultAhcBinding		0.36199096
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+org.apache.camel.component.ahc.AhcEndpoint		0.14414415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProduceNoThrowExceptionOnFailureTest
+AhcProduceNoThrowExceptionOnFailureTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProduceNoThrowExceptionOnFailureTest_testAhcProduce_n
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5925926
+org.apache.camel.component.ahc.AhcProducer		0.5714286
+org.apache.camel.component.ahc.DefaultAhcBinding		0.3529412
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+org.apache.camel.component.ahc.AhcEndpoint		0.14414415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProducePostDoWhileTest
+AhcProducePostDoWhileTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProducePostDoWhileTest_testAhcDoWhile_s
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5925926
+org.apache.camel.component.ahc.AhcProducer		0.5714286
+org.apache.camel.component.ahc.DefaultAhcBinding		0.51131225
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+org.apache.camel.component.ahc.AhcEndpoint		0.14414415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProducePostHeadersTest
+AhcProducePostHeadersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProducePostHeadersTest_testAhcProduce_o
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5740741
+org.apache.camel.component.ahc.AhcProducer		0.5714286
+org.apache.camel.component.ahc.DefaultAhcBinding		0.48868778
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+org.apache.camel.component.ahc.AhcEndpoint		0.14414415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProducePostTest
+AhcProducePostTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProducePostTest_testAhcProduceDirectly_g
+org.apache.camel.component.ahc.AhcProducer		0.78571427
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5740741
+org.apache.camel.component.ahc.DefaultAhcBinding		0.48868778
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+org.apache.camel.component.ahc.AhcEndpoint		0.22522523
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProducePostTest_testAhcProduceInOut_1b
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5925926
+org.apache.camel.component.ahc.AhcProducer		0.5714286
+org.apache.camel.component.ahc.DefaultAhcBinding		0.48868778
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+org.apache.camel.component.ahc.AhcEndpoint		0.14414415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProducePostTest_testAhcProducePostHeader_19
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5740741
+org.apache.camel.component.ahc.AhcProducer		0.5714286
+org.apache.camel.component.ahc.DefaultAhcBinding		0.4841629
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+org.apache.camel.component.ahc.AhcEndpoint		0.14414415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProducePostTest_testAhcProduce_t
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5740741
+org.apache.camel.component.ahc.AhcProducer		0.5714286
+org.apache.camel.component.ahc.DefaultAhcBinding		0.48868778
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+org.apache.camel.component.ahc.AhcEndpoint		0.14414415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProduceSSLContextParametersGetTest
+AhcProduceSSLContextParametersGetTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProduceSSLContextParametersGetTest_testAhcProduceDirectly_f
+org.apache.camel.component.ahc.AhcProducer		0.78571427
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5740741
+org.apache.camel.component.ahc.DefaultAhcBinding		0.36199096
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+org.apache.camel.component.ahc.AhcEndpoint		0.22522523
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProduceSSLContextParametersGetTest_testAhcProduceGetHeader_c
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5925926
+org.apache.camel.component.ahc.AhcProducer		0.5714286
+org.apache.camel.component.ahc.DefaultAhcBinding		0.35746607
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+org.apache.camel.component.ahc.AhcEndpoint		0.14414415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProduceSSLContextParametersGetTest_testAhcProduceInOut_8
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5740741
+org.apache.camel.component.ahc.AhcProducer		0.5714286
+org.apache.camel.component.ahc.DefaultAhcBinding		0.36199096
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+org.apache.camel.component.ahc.AhcEndpoint		0.14414415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProduceSSLContextParametersGetTest_testAhcProduce_r
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5740741
+org.apache.camel.component.ahc.AhcProducer		0.5714286
+org.apache.camel.component.ahc.DefaultAhcBinding		0.36199096
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+org.apache.camel.component.ahc.AhcEndpoint		0.14414415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProduceTransferExceptionTest
+AhcProduceTransferExceptionTest		0.9444444
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProduceTransferExceptionTest_testAhcProduce_b
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5925926
+org.apache.camel.component.ahc.AhcProducer		0.5714286
+org.apache.camel.component.ahc.helper.AhcHelper		0.4526316
+org.apache.camel.component.ahc.DefaultAhcBinding		0.38914028
+org.apache.camel.component.ahc.AhcEndpoint		0.18018018
+org.apache.camel.component.ahc.AhcComponent		0.020618556
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProduceWithClientConfigUriParametersTest
+AhcProduceWithClientConfigUriParametersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProduceWithClientConfigUriParametersTest_testAhcProduceClientConfig_11
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5740741
+org.apache.camel.component.ahc.AhcProducer		0.5714286
+org.apache.camel.component.ahc.DefaultAhcBinding		0.36199096
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+org.apache.camel.component.ahc.AhcEndpoint		0.14414415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProducerConnectionCloseHeadersTest
+AhcProducerConnectionCloseHeadersTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProducerConnectionCloseHeadersTest_testAhcProduce_1c
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5740741
+org.apache.camel.component.ahc.AhcProducer		0.5714286
+org.apache.camel.component.ahc.DefaultAhcBinding		0.36651585
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+org.apache.camel.component.ahc.AhcEndpoint		0.14414415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProducerSessionTest
+AhcProducerSessionTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProducerSessionTest_testProducerExchangeSession_x
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5925926
+org.apache.camel.component.ahc.DefaultAhcBinding		0.57466066
+org.apache.camel.component.ahc.AhcProducer		0.5714286
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+org.apache.camel.component.ahc.AhcEndpoint		0.14414415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProducerSessionTest_testProducerInstanceSession_0
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5925926
+org.apache.camel.component.ahc.DefaultAhcBinding		0.57466066
+org.apache.camel.component.ahc.AhcProducer		0.5714286
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+org.apache.camel.component.ahc.AhcEndpoint		0.14414415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProducerSessionTest_testProducerNoSession_5
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5925926
+org.apache.camel.component.ahc.AhcProducer		0.5714286
+org.apache.camel.component.ahc.DefaultAhcBinding		0.51131225
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+org.apache.camel.component.ahc.AhcEndpoint		0.14414415
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProducerTwoParametersWithSameKeyTest
+AhcProducerTwoParametersWithSameKeyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProducerTwoParametersWithSameKeyTest_testTwoHeadersWithSameKeyHeader_6
+org.apache.camel.component.ahc.HttpHeaderFilterStrategy		1.0
+org.apache.camel.component.ahc.HttpProtocolHeaderFilterStrategy		1.0
+org.apache.camel.component.ahc.AhcProducer		0.78571427
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5740741
+org.apache.camel.component.ahc.AhcEndpoint		0.4864865
+org.apache.camel.component.ahc.AhcComponent		0.4226804
+org.apache.camel.component.ahc.DefaultAhcBinding		0.36199096
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/AhcProducerTwoParametersWithSameKeyTest_testTwoParametersWithSameKey_l
+org.apache.camel.component.ahc.HttpHeaderFilterStrategy		1.0
+org.apache.camel.component.ahc.HttpProtocolHeaderFilterStrategy		1.0
+org.apache.camel.component.ahc.AhcProducer		0.78571427
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5740741
+org.apache.camel.component.ahc.AhcEndpoint		0.4864865
+org.apache.camel.component.ahc.AhcComponent		0.4226804
+org.apache.camel.component.ahc.DefaultAhcBinding		0.36199096
+org.apache.camel.component.ahc.helper.AhcHelper		0.3263158
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/BaseAhcTest
+BaseAhcTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/HttpEndpointURLTest
+HttpEndpointURLTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/HttpEndpointURLTest_testHttpEndpointURLWithIPv6_j
+org.apache.camel.component.ahc.HttpHeaderFilterStrategy		1.0
+org.apache.camel.component.ahc.HttpProtocolHeaderFilterStrategy		1.0
+org.apache.camel.component.ahc.AhcComponent		0.4226804
+org.apache.camel.component.ahc.AhcEndpoint		0.2972973
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/HttpHeaderFilterStrategyTest
+HttpHeaderFilterStrategyTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/HttpHeaderFilterStrategyTest_applyFilterToCamelHeaders_y
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/HttpHeaderFilterStrategyTest_applyFilterToExternalHeaders_q
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/javabody/AhcProduceJavaBodyTest
+AhcProduceJavaBodyTest		0.9207921
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/javabody/AhcProduceJavaBodyTest_testHttpSendJavaBodyAndReceiveJavaBody_e
+testHttpSendJavaBodyAndReceiveJavaBody
+org.apache.camel.component.ahc.HttpHeaderFilterStrategy		1.0
+org.apache.camel.component.ahc.HttpProtocolHeaderFilterStrategy		1.0
+org.apache.camel.component.ahc.AhcProducer		0.78571427
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5740741
+org.apache.camel.component.ahc.DefaultAhcBinding		0.520362
+org.apache.camel.component.ahc.helper.AhcHelper		0.50526315
+org.apache.camel.component.ahc.AhcEndpoint		0.5045045
+org.apache.camel.component.ahc.AhcComponent		0.44329897
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/javabody/AhcProduceJavaBodyTest_testHttpSendJavaBodyAndReceiveString_18
+testHttpSendJavaBodyAndReceiveString
+org.apache.camel.component.ahc.HttpHeaderFilterStrategy		1.0
+org.apache.camel.component.ahc.HttpProtocolHeaderFilterStrategy		1.0
+org.apache.camel.component.ahc.AhcProducer		0.78571427
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5740741
+org.apache.camel.component.ahc.DefaultAhcBinding		0.50678736
+org.apache.camel.component.ahc.AhcEndpoint		0.5045045
+org.apache.camel.component.ahc.AhcComponent		0.44329897
+org.apache.camel.component.ahc.helper.AhcHelper		0.4105263
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/javabody/AhcProduceJavaBodyTest_testHttpSendStringAndReceiveJavaBody_7
+testHttpSendStringAndReceiveJavaBody
+org.apache.camel.component.ahc.HttpHeaderFilterStrategy		1.0
+org.apache.camel.component.ahc.HttpProtocolHeaderFilterStrategy		1.0
+org.apache.camel.component.ahc.AhcProducer		0.78571427
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5740741
+org.apache.camel.component.ahc.DefaultAhcBinding		0.50678736
+org.apache.camel.component.ahc.AhcEndpoint		0.5045045
+org.apache.camel.component.ahc.helper.AhcHelper		0.4526316
+org.apache.camel.component.ahc.AhcComponent		0.44329897
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/javabody/AhcProduceJavaBodyTest_testNotAllowedReceive_k
+testNotAllowedReceive
+org.apache.camel.component.ahc.HttpHeaderFilterStrategy		1.0
+org.apache.camel.component.ahc.HttpProtocolHeaderFilterStrategy		1.0
+org.apache.camel.component.ahc.AhcProducer		0.78571427
+org.apache.camel.component.ahc.AhcProducer.AhcAsyncHandler		0.5925926
+org.apache.camel.component.ahc.AhcEndpoint		0.5225225
+org.apache.camel.component.ahc.DefaultAhcBinding		0.5022625
+org.apache.camel.component.ahc.AhcComponent		0.44329897
+org.apache.camel.component.ahc.helper.AhcHelper		0.35789475
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/javabody/AhcProduceJavaBodyTest_testNotAllowed_12
+testNotAllowed
+org.apache.camel.component.ahc.HttpHeaderFilterStrategy		1.0
+org.apache.camel.component.ahc.HttpProtocolHeaderFilterStrategy		1.0
+org.apache.camel.component.ahc.AhcProducer		0.78571427
+org.apache.camel.component.ahc.AhcEndpoint		0.46846846
+org.apache.camel.component.ahc.AhcComponent		0.44329897
+org.apache.camel.component.ahc.helper.AhcHelper		0.31578946
+org.apache.camel.component.ahc.DefaultAhcBinding		0.25791857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/javabody/test-AhcProduceJavaBodyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/test-AhcBridgeEndpointPathWithSpacesTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/test-AhcBridgeEndpointTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/test-AhcClientConfigRealmUriTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/test-AhcClientConfigUriTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/test-AhcComponentClientConfigGlobalSslContextParametersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/test-AhcComponentClientConfigSslContextParametersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/test-AhcComponentClientConfigTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/test-AhcComponentClientConfigWithClientConfigUriParametersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/test-AhcComponentCustomClientConfigTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/test-AhcComponentNettyClientConfigTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/test-AhcGoogleTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/test-AhcProduce500Test
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/test-AhcProduceClientConfigTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/test-AhcProduceClientConfigWithClientConfigUriParametersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/test-AhcProduceGetHeadersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/test-AhcProduceGetNoSlashInUriTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/test-AhcProduceGetTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/test-AhcProduceNoThrowExceptionOnFailureTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/test-AhcProducePostDoWhileTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/test-AhcProducePostHeadersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/test-AhcProducePostTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/test-AhcProduceSSLContextParametersGetTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/test-AhcProduceTransferExceptionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/test-AhcProduceWithClientConfigUriParametersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/test-AhcProducerConnectionCloseHeadersTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/test-AhcProducerSessionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/test-AhcProducerTwoParametersWithSameKeyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/test-BaseAhcTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/test-HttpEndpointURLTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-ahc/target/site/clover/org/apache/camel/component/ahc/test-HttpHeaderFilterStrategyTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

@@ -1,0 +1,218 @@
+./components/camel-azure/target/site/clover/org/apache/camel
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/blob/BlobServiceAppendConsumerTest
+BlobServiceAppendConsumerTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/blob/BlobServiceBlockConsumerTest
+BlobServiceBlockConsumerTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/blob/BlobServiceComponentConfigurationTest
+BlobServiceComponentConfigurationTest		0.95454544
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/blob/BlobServiceComponentConfigurationTest_testClientWithoutAnonymousCredentials_g
+testClientWithoutAnonymousCredentials
+org.apache.camel.component.azure.blob.BlobServiceComponent		0.70454544
+org.apache.camel.component.azure.common.AbstractConfiguration		0.25
+org.apache.camel.component.azure.blob.BlobServiceConfiguration		0.15625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/blob/BlobServiceComponentConfigurationTest_testClientWithoutCredentialsPublicRead_4
+testClientWithoutCredentialsPublicRead
+org.apache.camel.component.azure.blob.BlobServiceComponent		0.75
+org.apache.camel.component.azure.common.AbstractConfiguration		0.25
+org.apache.camel.component.azure.blob.BlobServiceEndpoint		0.2
+org.apache.camel.component.azure.blob.BlobServiceConfiguration		0.1875
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/blob/BlobServiceComponentConfigurationTest_testClientWithoutCredentials_d
+testClientWithoutCredentials
+org.apache.camel.component.azure.blob.BlobServiceComponent		0.70454544
+org.apache.camel.component.azure.common.AbstractConfiguration		0.25
+org.apache.camel.component.azure.blob.BlobServiceConfiguration		0.15625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/blob/BlobServiceComponentConfigurationTest_testCreateEndpointWithMaxConfig_l
+testCreateEndpointWithMaxConfig
+org.apache.camel.component.azure.common.AbstractConfiguration		1.0
+org.apache.camel.component.azure.blob.BlobServiceConfiguration		0.96875
+org.apache.camel.component.azure.blob.BlobServiceComponent		0.75
+org.apache.camel.component.azure.blob.BlobServiceEndpoint		0.2
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/blob/BlobServiceComponentConfigurationTest_testCreateEndpointWithMinConfigForClientOnly_b
+testCreateEndpointWithMinConfigForClientOnly
+org.apache.camel.component.azure.common.AbstractConfiguration		0.75
+org.apache.camel.component.azure.blob.BlobServiceComponent		0.75
+org.apache.camel.component.azure.blob.BlobServiceConfiguration		0.59375
+org.apache.camel.component.azure.blob.BlobServiceEndpoint		0.48
+org.apache.camel.component.azure.blob.BlobServiceConsumer		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/blob/BlobServiceComponentConfigurationTest_testCreateEndpointWithMinConfigForCredsOnly_e
+testCreateEndpointWithMinConfigForCredsOnly
+org.apache.camel.component.azure.common.AbstractConfiguration		1.0
+org.apache.camel.component.azure.blob.BlobServiceComponent		0.75
+org.apache.camel.component.azure.blob.BlobServiceConfiguration		0.5625
+org.apache.camel.component.azure.blob.BlobServiceEndpoint		0.48
+org.apache.camel.component.azure.blob.BlobServiceConsumer		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/blob/BlobServiceComponentConfigurationTest_testHierarchicalBlobName_m
+testHierarchicalBlobName
+org.apache.camel.component.azure.blob.BlobServiceComponent		0.79545456
+org.apache.camel.component.azure.common.AbstractConfiguration		0.75
+org.apache.camel.component.azure.blob.BlobServiceEndpoint		0.2
+org.apache.camel.component.azure.blob.BlobServiceConfiguration		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/blob/BlobServiceComponentConfigurationTest_testNoBlobNameConsumer_h
+testNoBlobNameConsumer
+org.apache.camel.component.azure.common.AbstractConfiguration		0.75
+org.apache.camel.component.azure.blob.BlobServiceComponent		0.5681818
+org.apache.camel.component.azure.blob.BlobServiceEndpoint		0.4
+org.apache.camel.component.azure.blob.BlobServiceConfiguration		0.09375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/blob/BlobServiceComponentConfigurationTest_testNoBlobNameProducerDefaultOp_2
+testNoBlobNameProducerDefaultOp
+org.apache.camel.component.azure.common.AbstractConfiguration		0.75
+org.apache.camel.component.azure.blob.BlobServiceComponent		0.5681818
+org.apache.camel.component.azure.blob.BlobServiceEndpoint		0.4
+org.apache.camel.component.azure.blob.BlobServiceConfiguration		0.125
+org.apache.camel.component.azure.blob.BlobServiceProducer		0.00591716
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/blob/BlobServiceComponentConfigurationTest_testNoBlobNameProducerWithOp_i
+testNoBlobNameProducerWithOp
+org.apache.camel.component.azure.common.AbstractConfiguration		0.75
+org.apache.camel.component.azure.blob.BlobServiceComponent		0.5681818
+org.apache.camel.component.azure.blob.BlobServiceEndpoint		0.4
+org.apache.camel.component.azure.blob.BlobServiceConfiguration		0.15625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/blob/BlobServiceComponentConfigurationTest_testNoClientAndCredentialsPublicForRead_3
+testNoClientAndCredentialsPublicForRead
+org.apache.camel.component.azure.blob.BlobServiceComponent		0.75
+org.apache.camel.component.azure.common.AbstractConfiguration		0.5
+org.apache.camel.component.azure.blob.BlobServiceEndpoint		0.2
+org.apache.camel.component.azure.blob.BlobServiceConfiguration		0.15625
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/blob/BlobServiceComponentConfigurationTest_testNoClientAndCredentials_1
+testNoClientAndCredentials
+org.apache.camel.component.azure.blob.BlobServiceComponent		0.70454544
+org.apache.camel.component.azure.common.AbstractConfiguration		0.5
+org.apache.camel.component.azure.blob.BlobServiceConfiguration		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/blob/BlobServiceComponentConfigurationTest_testTooFewPathSegments_f
+testTooFewPathSegments
+org.apache.camel.component.azure.blob.BlobServiceComponent		0.27272728
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/blob/BlobServiceProducerSpringTest
+BlobServiceProducerSpringTest		0.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/blob/BlobServiceUtilTest
+BlobServiceUtilTest		0.9459459
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/blob/BlobServiceUtilTest_testGetConfiguredClientTypeMismatch_0
+testGetConfiguredClientTypeMismatch
+org.apache.camel.component.azure.blob.BlobServiceComponent		0.75
+org.apache.camel.component.azure.common.AbstractConfiguration		0.25
+org.apache.camel.component.azure.blob.BlobServiceConfiguration		0.25
+org.apache.camel.component.azure.blob.BlobServiceEndpoint		0.2
+org.apache.camel.component.azure.blob.BlobServiceUtil		0.083333336
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/blob/BlobServiceUtilTest_testGetConfiguredClientUriMismatch_6
+testGetConfiguredClientUriMismatch
+org.apache.camel.component.azure.blob.BlobServiceComponent		0.75
+org.apache.camel.component.azure.common.AbstractConfiguration		0.5
+org.apache.camel.component.azure.blob.BlobServiceConfiguration		0.3125
+org.apache.camel.component.azure.blob.BlobServiceEndpoint		0.2
+org.apache.camel.component.azure.blob.BlobServiceUtil		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/blob/BlobServiceUtilTest_testGetConfiguredClient_k
+testGetConfiguredClient
+org.apache.camel.component.azure.blob.BlobServiceComponent		0.75
+org.apache.camel.component.azure.common.AbstractConfiguration		0.5
+org.apache.camel.component.azure.blob.BlobServiceConfiguration		0.28125
+org.apache.camel.component.azure.blob.BlobServiceEndpoint		0.2
+org.apache.camel.component.azure.blob.BlobServiceUtil		0.15384616
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/blob/BlobServiceUtilTest_testPrepareUri_5
+testPrepareUri
+org.apache.camel.component.azure.common.AbstractConfiguration		1.0
+org.apache.camel.component.azure.blob.BlobServiceComponent		0.75
+org.apache.camel.component.azure.blob.BlobServiceEndpoint		0.2
+org.apache.camel.component.azure.blob.BlobServiceConfiguration		0.15625
+org.apache.camel.component.azure.blob.BlobServiceUtil		0.070512824
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/blob/test-BlobServiceAppendConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/blob/test-BlobServiceBlockConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/blob/test-BlobServiceComponentConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/blob/test-BlobServiceProducerSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/blob/test-BlobServiceUtilTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/queue/QueueServiceComponentConfigurationTest
+QueueServiceComponentConfigurationTest		0.9041096
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/queue/QueueServiceComponentConfigurationTest_testCreateEndpointWithMaxConfig_o
+testCreateEndpointWithMaxConfig
+org.apache.camel.component.azure.common.AbstractConfiguration		1.0
+org.apache.camel.component.azure.queue.QueueServiceConfiguration		0.9166667
+org.apache.camel.component.azure.queue.QueueServiceComponent		0.71428573
+org.apache.camel.component.azure.queue.QueueServiceEndpoint		0.5882353
+org.apache.camel.component.azure.queue.QueueServiceConsumer		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/queue/QueueServiceComponentConfigurationTest_testCreateEndpointWithMinConfigForClientOnly_c
+testCreateEndpointWithMinConfigForClientOnly
+org.apache.camel.component.azure.common.AbstractConfiguration		0.75
+org.apache.camel.component.azure.queue.QueueServiceComponent		0.71428573
+org.apache.camel.component.azure.queue.QueueServiceConfiguration		0.6666667
+org.apache.camel.component.azure.queue.QueueServiceEndpoint		0.5882353
+org.apache.camel.component.azure.queue.QueueServiceConsumer		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/queue/QueueServiceComponentConfigurationTest_testCreateEndpointWithMinConfigForCredsOnly_p
+testCreateEndpointWithMinConfigForCredsOnly
+org.apache.camel.component.azure.common.AbstractConfiguration		1.0
+org.apache.camel.component.azure.queue.QueueServiceComponent		0.71428573
+org.apache.camel.component.azure.queue.QueueServiceEndpoint		0.5882353
+org.apache.camel.component.azure.queue.QueueServiceConfiguration		0.5833333
+org.apache.camel.component.azure.queue.QueueServiceConsumer		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/queue/QueueServiceComponentConfigurationTest_testNoCredentials_n
+testNoCredentials
+org.apache.camel.component.azure.queue.QueueServiceComponent		0.6571429
+org.apache.camel.component.azure.common.AbstractConfiguration		0.5
+org.apache.camel.component.azure.queue.QueueServiceConfiguration		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/queue/QueueServiceComponentConfigurationTest_testTooFewPathSegments_7
+testTooFewPathSegments
+org.apache.camel.component.azure.queue.QueueServiceComponent		0.34285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/queue/QueueServiceComponentConfigurationTest_testTooManyPathSegments_9
+testTooManyPathSegments
+org.apache.camel.component.azure.queue.QueueServiceComponent		0.4
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/queue/QueueServiceUtilTest
+QueueServiceUtilTest		0.96428573
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/queue/QueueServiceUtilTest_testGetConfiguredClientUriMismatch_j
+testGetConfiguredClientUriMismatch
+org.apache.camel.component.azure.queue.QueueServiceComponent		0.71428573
+org.apache.camel.component.azure.common.AbstractConfiguration		0.5
+org.apache.camel.component.azure.queue.QueueServiceConfiguration		0.33333334
+org.apache.camel.component.azure.queue.QueueServiceUtil		0.3043478
+org.apache.camel.component.azure.queue.QueueServiceEndpoint		0.29411766
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/queue/QueueServiceUtilTest_testGetConfiguredClient_a
+testGetConfiguredClient
+org.apache.camel.component.azure.queue.QueueServiceComponent		0.71428573
+org.apache.camel.component.azure.common.AbstractConfiguration		0.5
+org.apache.camel.component.azure.queue.QueueServiceConfiguration		0.33333334
+org.apache.camel.component.azure.queue.QueueServiceUtil		0.3043478
+org.apache.camel.component.azure.queue.QueueServiceEndpoint		0.29411766
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/queue/QueueServiceUtilTest_testPrepareUri_8
+testPrepareUri
+org.apache.camel.component.azure.common.AbstractConfiguration		1.0
+org.apache.camel.component.azure.queue.QueueServiceComponent		0.71428573
+org.apache.camel.component.azure.queue.QueueServiceEndpoint		0.29411766
+org.apache.camel.component.azure.queue.QueueServiceConfiguration		0.25
+org.apache.camel.component.azure.queue.QueueServiceUtil		0.19565217
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/queue/test-QueueServiceComponentConfigurationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-azure/target/site/clover/org/apache/camel/component/azure/queue/test-QueueServiceUtilTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

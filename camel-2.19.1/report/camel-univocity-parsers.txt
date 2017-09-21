@@ -1,0 +1,783 @@
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatMarshalSpringTest
+UniVocityCsvDataFormatMarshalSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatMarshalSpringTest_shouldMarshalAndAddNewColumns_3
+org.apache.camel.dataformat.univocity.Marshaller		0.8214286
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.2857143
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.23428571
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatMarshalSpringTest_shouldMarshalSingleLine_18
+org.apache.camel.dataformat.univocity.Marshaller		0.78571427
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.2857143
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.23428571
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatMarshalSpringTest_shouldMarshalUsingAdvancedConfiguration_1x
+org.apache.camel.dataformat.univocity.Marshaller		0.8214286
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.35714287
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.24571429
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatMarshalSpringTest_shouldMarshalWithDefaultConfiguration_39
+org.apache.camel.dataformat.univocity.Marshaller		0.8214286
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.2857143
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.23428571
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatMarshalSpringTest_shouldMarshalWithSpecificHeaders_14
+org.apache.camel.dataformat.univocity.Marshaller		0.78571427
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.2857143
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.24
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatMarshalTest
+UniVocityCsvDataFormatMarshalTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatMarshalTest_shouldMarshalAndAddNewColumns_g
+org.apache.camel.dataformat.univocity.Marshaller		0.8214286
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.2857143
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.23428571
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatMarshalTest_shouldMarshalSingleLine_16
+org.apache.camel.dataformat.univocity.Marshaller		0.78571427
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.2857143
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.23428571
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatMarshalTest_shouldMarshalUsingAdvancedConfiguration_3g
+org.apache.camel.dataformat.univocity.Marshaller		0.8214286
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.35714287
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.24571429
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatMarshalTest_shouldMarshalWithDefaultConfiguration_22
+org.apache.camel.dataformat.univocity.Marshaller		0.8214286
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.2857143
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.23428571
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatMarshalTest_shouldMarshalWithSpecificHeaders_1m
+org.apache.camel.dataformat.univocity.Marshaller		0.78571427
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.2857143
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.24
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatTest
+UniVocityCsvDataFormatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatTest_shouldConfigureAsMap_1n
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatTest_shouldConfigureComment_o
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.35714287
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatTest_shouldConfigureDelimiter_17
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.4642857
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.22857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatTest_shouldConfigureEmptyValue_3a
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.375
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatTest_shouldConfigureHeaderExtractionEnabled_1g
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.25
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.22285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatTest_shouldConfigureHeadersDisabled_2v
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.35714287
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.26285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatTest_shouldConfigureHeaders_1e
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.35714287
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatTest_shouldConfigureIgnoreLeadingWhitespaces_2f
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.35714287
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatTest_shouldConfigureIgnoreTrailingWhitespaces_2u
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.35714287
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatTest_shouldConfigureLazyLoad_f
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatTest_shouldConfigureLineSeparator_19
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.35714287
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatTest_shouldConfigureNormalizedLineSeparator_2c
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.35714287
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatTest_shouldConfigureNullValue_2n
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.35714287
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatTest_shouldConfigureNumberOfRecordsToRead_1f
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.25
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.22285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatTest_shouldConfigureQuoteAllFields_2a
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.35714287
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.16571428
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatTest_shouldConfigureQuoteEscape_x
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.4642857
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.22857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatTest_shouldConfigureQuote_1a
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.4642857
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.22857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatTest_shouldConfigureSkipEmptyLines_2e
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.35714287
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatUnmarshalSpringTest
+UniVocityCsvDataFormatUnmarshalSpringTest		0.6603774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatUnmarshalSpringTest_shouldUnmarshalAsMapWithHeaders_1w
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller.MapRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller		0.8888889
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.73333335
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.2857143
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.28
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatUnmarshalSpringTest_shouldUnmarshalAsMap_2r
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller.MapRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller		0.8888889
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.73333335
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.2857143
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.28
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatUnmarshalSpringTest_shouldUnmarshalUsingAdvancedConfiguration_3f
+org.apache.camel.dataformat.univocity.Unmarshaller.ListRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller		0.8888889
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.73333335
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		0.72727275
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.30357143
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.30285713
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatUnmarshalSpringTest_shouldUnmarshalUsingIterator_1r
+org.apache.camel.dataformat.univocity.Unmarshaller.ListRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.8666667
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		0.72727275
+org.apache.camel.dataformat.univocity.Unmarshaller		0.5
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.2857143
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatUnmarshalSpringTest_shouldUnmarshalUsingIterator_2d
+org.apache.camel.dataformat.univocity.Unmarshaller.ListRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.8666667
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		0.72727275
+org.apache.camel.dataformat.univocity.Unmarshaller		0.5
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.2857143
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatUnmarshalSpringTest_shouldUnmarshalUsingIterator_d
+org.apache.camel.dataformat.univocity.Unmarshaller.ListRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.8666667
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		0.72727275
+org.apache.camel.dataformat.univocity.Unmarshaller		0.5
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.2857143
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatUnmarshalSpringTest_shouldUnmarshalWithDefaultConfiguration_z
+org.apache.camel.dataformat.univocity.Unmarshaller.ListRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller		0.8888889
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.73333335
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		0.72727275
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.2857143
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatUnmarshalTest
+UniVocityCsvDataFormatUnmarshalTest		0.7096774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatUnmarshalTest_shouldUnmarshalAsMapWithHeaders_37
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller.MapRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller		0.8888889
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.73333335
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.2857143
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.28
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatUnmarshalTest_shouldUnmarshalAsMap_3c
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller.MapRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller		0.8888889
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.73333335
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.2857143
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.28
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatUnmarshalTest_shouldUnmarshalUsingAdvancedConfiguration_j
+org.apache.camel.dataformat.univocity.Unmarshaller.ListRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller		0.8888889
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.73333335
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		0.72727275
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.30357143
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.30285713
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatUnmarshalTest_shouldUnmarshalUsingIterator_1c
+org.apache.camel.dataformat.univocity.Unmarshaller.ListRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.8666667
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		0.72727275
+org.apache.camel.dataformat.univocity.Unmarshaller		0.5
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.2857143
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatUnmarshalTest_shouldUnmarshalUsingIterator_3h
+org.apache.camel.dataformat.univocity.Unmarshaller.ListRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.8666667
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		0.72727275
+org.apache.camel.dataformat.univocity.Unmarshaller		0.5
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.2857143
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatUnmarshalTest_shouldUnmarshalUsingIterator_k
+org.apache.camel.dataformat.univocity.Unmarshaller.ListRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.8666667
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		0.72727275
+org.apache.camel.dataformat.univocity.Unmarshaller		0.5
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.2857143
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityCsvDataFormatUnmarshalTest_shouldUnmarshalWithDefaultConfiguration_2m
+org.apache.camel.dataformat.univocity.Unmarshaller.ListRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller		0.8888889
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.73333335
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		0.72727275
+org.apache.camel.dataformat.univocity.UniVocityCsvDataFormat		0.2857143
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatMarshalSpringTest
+UniVocityFixedWidthDataFormatMarshalSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatMarshalSpringTest_shouldMarshalAndAddNewColumns_1v
+org.apache.camel.dataformat.univocity.Marshaller		0.8214286
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.23428571
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.20289855
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatMarshalSpringTest_shouldMarshalSingleLine_26
+org.apache.camel.dataformat.univocity.Marshaller		0.78571427
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.23428571
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.20289855
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatMarshalSpringTest_shouldMarshalUsingAdvancedConfiguration_21
+org.apache.camel.dataformat.univocity.Marshaller		0.8214286
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.24571429
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.2173913
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatMarshalSpringTest_shouldMarshalWithDefaultConfiguration_2x
+org.apache.camel.dataformat.univocity.Marshaller		0.8214286
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.23428571
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.20289855
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatMarshalSpringTest_shouldMarshalWithSpecificHeaders_2w
+org.apache.camel.dataformat.univocity.Marshaller		0.78571427
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.33333334
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.24
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatMarshalTest
+UniVocityFixedWidthDataFormatMarshalTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatMarshalTest_shouldMarshalAndAddNewColumns_31
+org.apache.camel.dataformat.univocity.Marshaller		0.8214286
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.23428571
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.20289855
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatMarshalTest_shouldMarshalSingleLine_1i
+org.apache.camel.dataformat.univocity.Marshaller		0.78571427
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.23428571
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.20289855
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatMarshalTest_shouldMarshalUsingAdvancedConfiguration_28
+org.apache.camel.dataformat.univocity.Marshaller		0.8214286
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.24571429
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.2173913
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatMarshalTest_shouldMarshalWithDefaultConfiguration_2j
+org.apache.camel.dataformat.univocity.Marshaller		0.8214286
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.23428571
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.20289855
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatMarshalTest_shouldMarshalWithSpecificHeaders_24
+org.apache.camel.dataformat.univocity.Marshaller		0.78571427
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.33333334
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.24
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatTest
+UniVocityFixedWidthDataFormatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatTest_shouldConfigureAsMap_1j
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.04347826
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatTest_shouldConfigureComment_10
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.33333334
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatTest_shouldConfigureEmptyValue_1
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.2173913
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.21142857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatTest_shouldConfigureFieldLengthWithHeadersAndLengths_12
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.3768116
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.21142857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatTest_shouldConfigureFieldLengthWithLengthsOnly_1k
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.24637681
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.16571428
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatTest_shouldConfigureHeaderExtractionEnabled_1h
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.3043478
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.22285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatTest_shouldConfigureHeadersDisabled_27
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.33333334
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.26285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatTest_shouldConfigureHeaders_q
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.46376812
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatTest_shouldConfigureIgnoreLeadingWhitespaces_5
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.33333334
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatTest_shouldConfigureIgnoreTrailingWhitespaces_e
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.33333334
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatTest_shouldConfigureLazyLoad_p
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.04347826
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatTest_shouldConfigureLineSeparator_20
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.33333334
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatTest_shouldConfigureNormalizedLineSeparator_l
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.33333334
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatTest_shouldConfigureNullValue_r
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.33333334
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatTest_shouldConfigureNumberOfRecordsToRead_2t
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.3043478
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.22285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatTest_shouldConfigurePadding_2
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.42028984
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.22857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatTest_shouldConfigureRecordEndsOnNewline_b
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.39130434
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.17714286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatTest_shouldConfigureSkipEmptyLines_i
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.33333334
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatTest_shouldConfigureSkipTrailingCharsUntilNewline_1d
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.39130434
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.17714286
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatTest_shouldNotAllowHeadersAndLengthsOfDifferentSize_38
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.2173913
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.05142857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatTest_shouldNotAllowHeadersWithSameName_h
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.3188406
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.05142857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatTest_shouldNotAllowNoFieldLengths_15
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.08695652
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.011428571
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatUnmarshalSpringTest
+UniVocityFixedWidthDataFormatUnmarshalSpringTest		0.6603774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatUnmarshalSpringTest_shouldUnmarshalAsMapWithHeaders_1o
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller.MapRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller		0.8888889
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.73333335
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.42028984
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.28
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatUnmarshalSpringTest_shouldUnmarshalAsMap_7
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller.MapRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller		0.8888889
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.73333335
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.28985506
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.28
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatUnmarshalSpringTest_shouldUnmarshalUsingAdvancedConfiguration_29
+org.apache.camel.dataformat.univocity.Unmarshaller.ListRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller		0.8888889
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.73333335
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		0.72727275
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.3043478
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.29142857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatUnmarshalSpringTest_shouldUnmarshalUsingIterator_2k
+org.apache.camel.dataformat.univocity.Unmarshaller.ListRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.8666667
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		0.72727275
+org.apache.camel.dataformat.univocity.Unmarshaller		0.5
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.28985506
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatUnmarshalSpringTest_shouldUnmarshalUsingIterator_32
+org.apache.camel.dataformat.univocity.Unmarshaller.ListRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.8666667
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		0.72727275
+org.apache.camel.dataformat.univocity.Unmarshaller		0.5
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.28985506
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatUnmarshalSpringTest_shouldUnmarshalUsingIterator_3d
+org.apache.camel.dataformat.univocity.Unmarshaller.ListRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.8666667
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		0.72727275
+org.apache.camel.dataformat.univocity.Unmarshaller		0.5
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.28985506
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatUnmarshalSpringTest_shouldUnmarshalWithDefaultConfiguration_13
+org.apache.camel.dataformat.univocity.Unmarshaller.ListRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller		0.8888889
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.73333335
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		0.72727275
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.28985506
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatUnmarshalTest
+UniVocityFixedWidthDataFormatUnmarshalTest		0.7096774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatUnmarshalTest_shouldUnmarshalAsMapWithHeaders_33
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller.MapRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller		0.8888889
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.73333335
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.42028984
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.28
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatUnmarshalTest_shouldUnmarshalAsMap_1q
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller.MapRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller		0.8888889
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.73333335
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.28985506
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.28
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatUnmarshalTest_shouldUnmarshalUsingAdvancedConfiguration_2i
+org.apache.camel.dataformat.univocity.Unmarshaller.ListRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller		0.8888889
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.73333335
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		0.72727275
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.3043478
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.29142857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatUnmarshalTest_shouldUnmarshalUsingIterator_1t
+org.apache.camel.dataformat.univocity.Unmarshaller.ListRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.8666667
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		0.72727275
+org.apache.camel.dataformat.univocity.Unmarshaller		0.5
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.28985506
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatUnmarshalTest_shouldUnmarshalUsingIterator_2h
+org.apache.camel.dataformat.univocity.Unmarshaller.ListRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.8666667
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		0.72727275
+org.apache.camel.dataformat.univocity.Unmarshaller		0.5
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.28985506
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatUnmarshalTest_shouldUnmarshalUsingIterator_4
+org.apache.camel.dataformat.univocity.Unmarshaller.ListRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.8666667
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		0.72727275
+org.apache.camel.dataformat.univocity.Unmarshaller		0.5
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.28985506
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityFixedWidthDataFormatUnmarshalTest_shouldUnmarshalWithDefaultConfiguration_1u
+org.apache.camel.dataformat.univocity.Unmarshaller.ListRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller		0.8888889
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.73333335
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		0.72727275
+org.apache.camel.dataformat.univocity.UniVocityFixedWidthDataFormat		0.28985506
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTestHelper
+UniVocityTestHelper		0.7619048
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatMarshalSpringTest
+UniVocityTsvDataFormatMarshalSpringTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatMarshalSpringTest_shouldMarshalAndAddNewColumns_1s
+org.apache.camel.dataformat.univocity.Marshaller		0.8214286
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.23428571
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatMarshalSpringTest_shouldMarshalSingleLine_11
+org.apache.camel.dataformat.univocity.Marshaller		0.78571427
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.23428571
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatMarshalSpringTest_shouldMarshalUsingAdvancedConfiguration_a
+org.apache.camel.dataformat.univocity.Marshaller		0.8214286
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.24571429
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatMarshalSpringTest_shouldMarshalWithDefaultConfiguration_34
+org.apache.camel.dataformat.univocity.Marshaller		0.8214286
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.23428571
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatMarshalSpringTest_shouldMarshalWithSpecificHeaders_1z
+org.apache.camel.dataformat.univocity.Marshaller		0.78571427
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.24
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatMarshalTest
+UniVocityTsvDataFormatMarshalTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatMarshalTest_shouldMarshalAndAddNewColumns_30
+org.apache.camel.dataformat.univocity.Marshaller		0.8214286
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.23428571
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatMarshalTest_shouldMarshalSingleLine_35
+org.apache.camel.dataformat.univocity.Marshaller		0.78571427
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.23428571
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatMarshalTest_shouldMarshalUsingAdvancedConfiguration_t
+org.apache.camel.dataformat.univocity.Marshaller		0.8214286
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.24571429
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatMarshalTest_shouldMarshalWithDefaultConfiguration_c
+org.apache.camel.dataformat.univocity.Marshaller		0.8214286
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.23428571
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatMarshalTest_shouldMarshalWithSpecificHeaders_6
+org.apache.camel.dataformat.univocity.Marshaller		0.78571427
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.24
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatTest
+UniVocityTsvDataFormatTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatTest_shouldConfigureAsMap_0
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatTest_shouldConfigureComment_9
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatTest_shouldConfigureEmptyValue_3e
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.2857143
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.21142857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatTest_shouldConfigureEscapeChar_1y
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.6666667
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.22857143
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatTest_shouldConfigureHeaderExtractionEnabled_2z
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.2857143
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.22285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatTest_shouldConfigureHeadersDisabled_2s
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.26285714
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatTest_shouldConfigureHeaders_y
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatTest_shouldConfigureIgnoreLeadingWhitespaces_1p
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatTest_shouldConfigureIgnoreTrailingWhitespaces_25
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatTest_shouldConfigureLazyLoad_s
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatTest_shouldConfigureLineSeparator_2y
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatTest_shouldConfigureNormalizedLineSeparator_1l
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatTest_shouldConfigureNullValue_36
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatTest_shouldConfigureNumberOfRecordsToRead_23
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.2857143
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.22285715
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatTest_shouldConfigureSkipEmptyLines_2p
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatUnmarshalSpringTest
+UniVocityTsvDataFormatUnmarshalSpringTest		0.6603774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatUnmarshalSpringTest_shouldUnmarshalAsMapWithHeaders_m
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller.MapRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller		0.8888889
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.73333335
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.28
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatUnmarshalSpringTest_shouldUnmarshalAsMap_w
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller.MapRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller		0.8888889
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.73333335
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.28
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatUnmarshalSpringTest_shouldUnmarshalUsingAdvancedConfiguration_3b
+org.apache.camel.dataformat.univocity.Unmarshaller.ListRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller		0.8888889
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.73333335
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		0.72727275
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.30285713
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatUnmarshalSpringTest_shouldUnmarshalUsingIterator_1b
+org.apache.camel.dataformat.univocity.Unmarshaller.ListRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.8666667
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		0.72727275
+org.apache.camel.dataformat.univocity.Unmarshaller		0.5
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatUnmarshalSpringTest_shouldUnmarshalUsingIterator_2b
+org.apache.camel.dataformat.univocity.Unmarshaller.ListRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.8666667
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		0.72727275
+org.apache.camel.dataformat.univocity.Unmarshaller		0.5
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatUnmarshalSpringTest_shouldUnmarshalUsingIterator_2q
+org.apache.camel.dataformat.univocity.Unmarshaller.ListRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.8666667
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		0.72727275
+org.apache.camel.dataformat.univocity.Unmarshaller		0.5
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatUnmarshalSpringTest_shouldUnmarshalWithDefaultConfiguration_u
+org.apache.camel.dataformat.univocity.Unmarshaller.ListRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller		0.8888889
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.73333335
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		0.72727275
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatUnmarshalTest
+UniVocityTsvDataFormatUnmarshalTest		0.7096774
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatUnmarshalTest_shouldUnmarshalAsMapWithHeaders_n
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller.MapRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller		0.8888889
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.73333335
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.28
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatUnmarshalTest_shouldUnmarshalAsMap_2o
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller.MapRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller		0.8888889
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.73333335
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.28
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatUnmarshalTest_shouldUnmarshalUsingAdvancedConfiguration_2g
+org.apache.camel.dataformat.univocity.Unmarshaller.ListRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller		0.8888889
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.73333335
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		0.72727275
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.30285713
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatUnmarshalTest_shouldUnmarshalUsingIterator_2l
+org.apache.camel.dataformat.univocity.Unmarshaller.ListRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.8666667
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		0.72727275
+org.apache.camel.dataformat.univocity.Unmarshaller		0.5
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatUnmarshalTest_shouldUnmarshalUsingIterator_3i
+org.apache.camel.dataformat.univocity.Unmarshaller.ListRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.8666667
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		0.72727275
+org.apache.camel.dataformat.univocity.Unmarshaller		0.5
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatUnmarshalTest_shouldUnmarshalUsingIterator_8
+org.apache.camel.dataformat.univocity.Unmarshaller.ListRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.8666667
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		0.72727275
+org.apache.camel.dataformat.univocity.Unmarshaller		0.5
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/UniVocityTsvDataFormatUnmarshalTest_shouldUnmarshalWithDefaultConfiguration_v
+org.apache.camel.dataformat.univocity.Unmarshaller.ListRowIterator		1.0
+org.apache.camel.dataformat.univocity.Unmarshaller		0.8888889
+org.apache.camel.dataformat.univocity.Unmarshaller.RowIterator		0.73333335
+org.apache.camel.dataformat.univocity.HeaderRowProcessor		0.72727275
+org.apache.camel.dataformat.univocity.UniVocityTsvDataFormat		0.3809524
+org.apache.camel.dataformat.univocity.AbstractUniVocityDataFormat		0.2742857
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/test-UniVocityCsvDataFormatMarshalSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/test-UniVocityCsvDataFormatMarshalTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/test-UniVocityCsvDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/test-UniVocityCsvDataFormatUnmarshalSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/test-UniVocityCsvDataFormatUnmarshalTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/test-UniVocityFixedWidthDataFormatMarshalSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/test-UniVocityFixedWidthDataFormatMarshalTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/test-UniVocityFixedWidthDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/test-UniVocityFixedWidthDataFormatUnmarshalSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/test-UniVocityFixedWidthDataFormatUnmarshalTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/test-UniVocityTestHelper
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/test-UniVocityTsvDataFormatMarshalSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/test-UniVocityTsvDataFormatMarshalTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/test-UniVocityTsvDataFormatTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/test-UniVocityTsvDataFormatUnmarshalSpringTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-univocity-parsers/target/site/clover/org/apache/camel/dataformat/univocity/test-UniVocityTsvDataFormatUnmarshalTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

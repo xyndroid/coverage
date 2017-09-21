@@ -1,0 +1,455 @@
+./components/camel-mongodb3/target/site/clover/org/apache/camel
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/AbstractMongoDbTest
+AbstractMongoDbTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbConversionsTest
+MongoDbConversionsTest		1.0
+MongoDbConversionsTest.MyPojoTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbConversionsTest_testInsertBsonInputStream_1h
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.27586207
+org.apache.camel.component.mongodb3.MongoDbProducer		0.115384616
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbConversionsTest_testInsertJsonInputStream_9
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.27586207
+org.apache.camel.component.mongodb3.MongoDbProducer		0.115384616
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbConversionsTest_testInsertJsonString_1s
+org.apache.camel.component.mongodb3.MongoDbProducer		0.115384616
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.0862069
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbConversionsTest_testInsertMap_1b
+org.apache.camel.component.mongodb3.MongoDbProducer		0.115384616
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.03448276
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbConversionsTest_testInsertPojo_1d
+org.apache.camel.component.mongodb3.MongoDbProducer		0.115384616
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.10344828
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbDynamicityTest
+MongoDbDynamicityTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbDynamicityTest_testInsertDynamicityDisabled_e
+org.apache.camel.component.mongodb3.MongoDbProducer		0.115384616
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.0862069
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbDynamicityTest_testInsertDynamicityEnabledCollectionOnly_8
+org.apache.camel.component.mongodb3.MongoDbProducer		0.18681319
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.0862069
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.07359307
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbDynamicityTest_testInsertDynamicityEnabledDBAndCollection_1q
+org.apache.camel.component.mongodb3.MongoDbProducer		0.18681319
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.0862069
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.07359307
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbDynamicityTest_testInsertDynamicityEnabledDBOnly_1t
+org.apache.camel.component.mongodb3.MongoDbProducer		0.17857143
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.0862069
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.043290045
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbExceptionHandlingTest
+MongoDbExceptionHandlingTest		0.9
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbExceptionHandlingTest_testErroneousDynamicOperation_1y
+org.apache.camel.component.mongodb3.CamelMongoDbException		0.33333334
+org.apache.camel.component.mongodb3.MongoDbProducer		0.03021978
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.008658009
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbExceptionHandlingTest_testInduceParseException_y
+org.apache.camel.component.mongodb3.CamelMongoDbException		0.33333334
+org.apache.camel.component.mongodb3.MongoDbComponent		0.26666668
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.10344828
+org.apache.camel.component.mongodb3.MongoDbProducer		0.093406595
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.043290045
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbFindOperationTest
+MongoDbFindOperationTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbFindOperationTest_testFindAllIterationOperation_1o
+org.apache.camel.component.mongodb3.MongoDbProducer		0.20054945
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbFindOperationTest_testFindAllNoCriteriaOperation_b
+org.apache.camel.component.mongodb3.MongoDbProducer		0.19505495
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbFindOperationTest_testFindAllNoCriteriaWithFilterOperation_1z
+org.apache.camel.component.mongodb3.MongoDbProducer		0.20604396
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbFindOperationTest_testFindAllWithQueryAndFilter_1n
+org.apache.camel.component.mongodb3.MongoDbProducer		0.20604396
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbFindOperationTest_testFindAllWithQueryAndNoFIlter_1w
+org.apache.camel.component.mongodb3.MongoDbProducer		0.20054945
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbFindOperationTest_testFindOneByIdWithObjectId_q
+org.apache.camel.component.mongodb3.MongoDbProducer		0.1456044
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.043290045
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbFindOperationTest_testFindOneById_16
+org.apache.camel.component.mongodb3.MongoDbProducer		0.1456044
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.043290045
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbFindOperationTest_testFindOneByQuery_t
+org.apache.camel.component.mongodb3.MongoDbProducer		0.15934066
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.043290045
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbHeaderHandlingTest
+MongoDbHeaderHandlingTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbHeaderHandlingTest_testInHeadersTransferredToOutOnCount_h
+org.apache.camel.component.mongodb3.MongoDbProducer		0.13186814
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.10344828
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.043290045
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbHeaderHandlingTest_testInHeadersTransferredToOutOnInsert_w
+org.apache.camel.component.mongodb3.MongoDbProducer		0.115384616
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.0862069
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbHeaderHandlingTest_testWriteResultAsHeaderWithReadOp_24
+org.apache.camel.component.mongodb3.MongoDbProducer		0.09065934
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.025974026
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbHeaderHandlingTest_testWriteResultAsHeaderWithWriteOp_1r
+org.apache.camel.component.mongodb3.MongoDbProducer		0.19505495
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.18965517
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbIndexTest
+MongoDbIndexTest		0.8181818
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbIndexTest_testInsertDynamicityEnabledCollectionAndIndex_0
+org.apache.camel.component.mongodb3.MongoDbProducer		0.18681319
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.0862069
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.060606062
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbIndexTest_testInsertDynamicityEnabledCollectionOnlyAndURIIndex_15
+org.apache.camel.component.mongodb3.MongoDbProducer		0.18681319
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.10822511
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.0862069
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbIndexTest_testInsertDynamicityEnabledDBAndCollectionAndIndex_18
+org.apache.camel.component.mongodb3.MongoDbProducer		0.18681319
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.0862069
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.060606062
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbOperationsTest
+MongoDbOperationsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbOperationsTest_testAggregate_1k
+org.apache.camel.component.mongodb3.MongoDbProducer		0.115384616
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.043290045
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbOperationsTest_testColStats_1j
+org.apache.camel.component.mongodb3.MongoDbProducer		0.14285715
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.0862069
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.06926407
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbOperationsTest_testCommand_1f
+org.apache.camel.component.mongodb3.MongoDbProducer		0.09615385
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.0862069
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.025974026
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbOperationsTest_testCountOperation_1i
+org.apache.camel.component.mongodb3.MongoDbProducer		0.18406594
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.10344828
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbOperationsTest_testDbStats_v
+org.apache.camel.component.mongodb3.MongoDbProducer		0.09065934
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.025974026
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbOperationsTest_testInsertString_22
+org.apache.camel.component.mongodb3.MongoDbProducer		0.115384616
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.0862069
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbOperationsTest_testOperationHeader_c
+org.apache.camel.component.mongodb3.MongoDbProducer		0.12637363
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.10344828
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.043290045
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbOperationsTest_testRemove_d
+org.apache.camel.component.mongodb3.MongoDbProducer		0.13736264
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.0862069
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbOperationsTest_testSaveWithoutId_28
+org.apache.camel.component.mongodb3.MongoDbProducer		0.14285715
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbOperationsTest_testSave_k
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.18965517
+org.apache.camel.component.mongodb3.MongoDbProducer		0.18406594
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbOperationsTest_testStoreOidOnInsert_1e
+org.apache.camel.component.mongodb3.MongoDbProducer		0.115384616
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbOperationsTest_testStoreOidOnSaveWithoutId_o
+org.apache.camel.component.mongodb3.MongoDbProducer		0.11263736
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbOperationsTest_testStoreOidOnSave_a
+org.apache.camel.component.mongodb3.MongoDbProducer		0.11263736
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbOperationsTest_testStoreOidsOnInsert_1g
+org.apache.camel.component.mongodb3.MongoDbProducer		0.15659341
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.10344828
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbOperationsTest_testUpdateFromString_f
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.2413793
+org.apache.camel.component.mongodb3.MongoDbProducer		0.18406594
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbOperationsTest_testUpdateUsingFieldsFilterHeader_1x
+org.apache.camel.component.mongodb3.MongoDbProducer		0.17307693
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.0862069
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbOperationsTest_testUpdate_19
+org.apache.camel.component.mongodb3.MongoDbProducer		0.18406594
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.0862069
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbOutputTypeTest
+MongoDbOutputTypeTest		0.9433962
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbOutputTypeTest_testFindAllDBCursor_u
+org.apache.camel.component.mongodb3.MongoDbProducer		0.18956044
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbOutputTypeTest_testFindAllDocumentList_6
+org.apache.camel.component.mongodb3.MongoDbProducer		0.17032968
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbOutputTypeTest_testInitFindWithWrongOutputType_1a
+org.apache.camel.component.mongodb3.MongoDbComponent		0.33333334
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.116883114
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbOutputTypeTest_testInitTailWithWrongOutputType_1u
+org.apache.camel.component.mongodb3.MongoDbComponent		0.33333334
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.103896104
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbReadPreferenceOptionTest
+MongoDbReadPreferenceOptionTest		0.969697
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbReadPreferenceOptionTest_testInvalidReadPreferenceOptionValue_s
+org.apache.camel.component.mongodb3.MongoDbComponent		0.46666667
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.025974026
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbReadPreferenceOptionTest_testNearestReadPreferenceOptionValue_4
+org.apache.camel.component.mongodb3.MongoDbComponent		0.46666667
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.060606062
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbReadPreferenceOptionTest_testNoReadPreferenceOptionValue_1v
+org.apache.camel.component.mongodb3.MongoDbComponent		0.46666667
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.060606062
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbReadPreferenceOptionTest_testPrimaryPreferredReadPreferenceOptionValue_2
+org.apache.camel.component.mongodb3.MongoDbComponent		0.46666667
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.060606062
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbReadPreferenceOptionTest_testPrimaryReadPreferenceOptionValue_21
+org.apache.camel.component.mongodb3.MongoDbComponent		0.46666667
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.060606062
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbReadPreferenceOptionTest_testSecondaryPreferredReadPreferenceOptionValue_10
+org.apache.camel.component.mongodb3.MongoDbComponent		0.46666667
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.060606062
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbReadPreferenceOptionTest_testSecondaryReadPreferenceOptionValue_1p
+org.apache.camel.component.mongodb3.MongoDbComponent		0.46666667
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.060606062
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbSpringDslOperationsTest
+MongoDbSpringDslOperationsTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbSpringDslOperationsTest_testAggregate_1m
+org.apache.camel.component.mongodb3.MongoDbProducer		0.115384616
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.043290045
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbSpringDslOperationsTest_testColStats_x
+org.apache.camel.component.mongodb3.MongoDbProducer		0.14285715
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.0862069
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.06926407
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbSpringDslOperationsTest_testCommand_m
+org.apache.camel.component.mongodb3.MongoDbProducer		0.09615385
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.0862069
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.025974026
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbSpringDslOperationsTest_testCountOperation_l
+org.apache.camel.component.mongodb3.MongoDbProducer		0.18406594
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.10344828
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.09090909
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbSpringDslOperationsTest_testDbStats_i
+org.apache.camel.component.mongodb3.MongoDbProducer		0.09065934
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.025974026
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbSpringDslOperationsTest_testInsertString_3
+org.apache.camel.component.mongodb3.MongoDbProducer		0.115384616
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.0862069
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbSpringDslOperationsTest_testOperationHeader_27
+org.apache.camel.component.mongodb3.MongoDbProducer		0.12637363
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.10344828
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.043290045
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbSpringDslOperationsTest_testRemove_5
+org.apache.camel.component.mongodb3.MongoDbProducer		0.13736264
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.0862069
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbSpringDslOperationsTest_testSaveWithoutId_29
+org.apache.camel.component.mongodb3.MongoDbProducer		0.14285715
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbSpringDslOperationsTest_testSave_z
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.18965517
+org.apache.camel.component.mongodb3.MongoDbProducer		0.18406594
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbSpringDslOperationsTest_testStoreOidOnInsert_g
+org.apache.camel.component.mongodb3.MongoDbProducer		0.115384616
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbSpringDslOperationsTest_testStoreOidOnSaveWithoutId_14
+org.apache.camel.component.mongodb3.MongoDbProducer		0.11263736
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbSpringDslOperationsTest_testStoreOidOnSave_26
+org.apache.camel.component.mongodb3.MongoDbProducer		0.11263736
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbSpringDslOperationsTest_testStoreOidsOnInsert_1c
+org.apache.camel.component.mongodb3.MongoDbProducer		0.15659341
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.10344828
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbSpringDslOperationsTest_testUpdateFromString_13
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.2413793
+org.apache.camel.component.mongodb3.MongoDbProducer		0.18406594
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbSpringDslOperationsTest_testUpdateUsingFieldsFilterHeader_23
+org.apache.camel.component.mongodb3.MongoDbProducer		0.17307693
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.0862069
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbSpringDslOperationsTest_testUpdate_2a
+org.apache.camel.component.mongodb3.MongoDbProducer		0.18406594
+org.apache.camel.component.mongodb3.converters.MongoDbBasicConverters		0.0862069
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.051948052
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbTailableCursorConsumerTest
+MongoDbTailableCursorConsumerTest		0.41048035
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbTailableCursorConsumerTest_testHundredThousandRecords_1l
+org.apache.camel.component.mongodb3.MongoDbTailableCursorConsumer		0.92
+org.apache.camel.component.mongodb3.MongoDbTailTrackingConfig		0.8181818
+org.apache.camel.component.mongodb3.MongoDbTailingProcess		0.74757284
+org.apache.camel.component.mongodb3.MongoDbComponent		0.46666667
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.4069264
+org.apache.camel.component.mongodb3.MongoDbTailTrackingManager		0.39583334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbTailableCursorConsumerTest_testMultipleBursts_n
+org.apache.camel.component.mongodb3.MongoDbTailableCursorConsumer		0.92
+org.apache.camel.component.mongodb3.MongoDbTailTrackingConfig		0.8181818
+org.apache.camel.component.mongodb3.MongoDbTailingProcess		0.74757284
+org.apache.camel.component.mongodb3.MongoDbComponent		0.46666667
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.4069264
+org.apache.camel.component.mongodb3.MongoDbTailTrackingManager		0.39583334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbTailableCursorConsumerTest_testNoRecords_17
+org.apache.camel.component.mongodb3.MongoDbTailableCursorConsumer		0.92
+org.apache.camel.component.mongodb3.MongoDbTailTrackingConfig		0.8181818
+org.apache.camel.component.mongodb3.MongoDbTailingProcess		0.6407767
+org.apache.camel.component.mongodb3.MongoDbComponent		0.46666667
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.37229437
+org.apache.camel.component.mongodb3.MongoDbTailTrackingManager		0.3125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbTailableCursorConsumerTest_testThousandRecordsWithReadPreference_25
+org.apache.camel.component.mongodb3.MongoDbTailableCursorConsumer		0.92
+org.apache.camel.component.mongodb3.MongoDbTailTrackingConfig		0.8181818
+org.apache.camel.component.mongodb3.MongoDbTailingProcess		0.65048546
+org.apache.camel.component.mongodb3.MongoDbComponent		0.46666667
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.4069264
+org.apache.camel.component.mongodb3.MongoDbTailTrackingManager		0.39583334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/MongoDbTailableCursorConsumerTest_testThousandRecordsWithoutReadPreference_r
+org.apache.camel.component.mongodb3.MongoDbTailableCursorConsumer		0.92
+org.apache.camel.component.mongodb3.MongoDbTailTrackingConfig		0.8181818
+org.apache.camel.component.mongodb3.MongoDbTailingProcess		0.65048546
+org.apache.camel.component.mongodb3.MongoDbComponent		0.46666667
+org.apache.camel.component.mongodb3.MongoDbEndpoint		0.4069264
+org.apache.camel.component.mongodb3.MongoDbTailTrackingManager		0.39583334
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/processor/idempotent/MongoDbIdempotentRepositoryTest
+MongoDbIdempotentRepositoryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/processor/idempotent/MongoDbIdempotentRepositoryTest_addAndContains_12
+org.apache.camel.component.mongodb3.processor.idempotent.MongoDbIdempotentRepository		0.18
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/processor/idempotent/MongoDbIdempotentRepositoryTest_addAndRemove_j
+org.apache.camel.component.mongodb3.processor.idempotent.MongoDbIdempotentRepository		0.18
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/processor/idempotent/MongoDbIdempotentRepositoryTest_addDuplicatedFails_20
+org.apache.camel.component.mongodb3.processor.idempotent.MongoDbIdempotentRepository		0.16
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/processor/idempotent/MongoDbIdempotentRepositoryTest_add_7
+org.apache.camel.component.mongodb3.processor.idempotent.MongoDbIdempotentRepository		0.1
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/processor/idempotent/MongoDbIdempotentRepositoryTest_confirmAllwaysReturnsTrue_1
+org.apache.camel.component.mongodb3.processor.idempotent.MongoDbIdempotentRepository		0.04
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/processor/idempotent/MongoDbIdempotentRepositoryTest_containsMissingReturnsFalse_p
+org.apache.camel.component.mongodb3.processor.idempotent.MongoDbIdempotentRepository		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/processor/idempotent/MongoDbIdempotentRepositoryTest_deleteMissingiIsFailse_11
+org.apache.camel.component.mongodb3.processor.idempotent.MongoDbIdempotentRepository		0.08
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/processor/idempotent/test-MongoDbIdempotentRepositoryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/test-AbstractMongoDbTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/test-MongoDbConversionsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/test-MongoDbConversionsTest_MyPojoTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/test-MongoDbDynamicityTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/test-MongoDbExceptionHandlingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/test-MongoDbFindOperationTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/test-MongoDbHeaderHandlingTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/test-MongoDbIndexTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/test-MongoDbOperationsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/test-MongoDbOutputTypeTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/test-MongoDbReadPreferenceOptionTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/test-MongoDbSpringDslOperationsTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-mongodb3/target/site/clover/org/apache/camel/component/mongodb3/test-MongoDbTailableCursorConsumerTest
+-- -- -- -- -- -- -- -- -- -- -- -- --

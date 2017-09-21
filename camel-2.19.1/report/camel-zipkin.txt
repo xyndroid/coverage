@@ -1,0 +1,192 @@
+./components/camel-zipkin/target/site/clover/org/apache/camel
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/ManagedZipkinSimpleRouteTest
+ManagedZipkinSimpleRouteTest		0.9375
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/ManagedZipkinSimpleRouteTest_testZipkinRoute_9
+org.apache.camel.zipkin.ZipkinTracer.ZipkinEventNotifier		0.84
+org.apache.camel.zipkin.ZipkinState		0.72727275
+org.apache.camel.zipkin.ZipkinTracer.ZipkinRoutePolicy		0.6818182
+org.apache.camel.zipkin.ZipkinServerRequestAdapter		0.66
+org.apache.camel.zipkin.ZipkinClientRequestAdapter		0.63461536
+org.apache.camel.zipkin.ZipkinClientResponseAdaptor		0.59090906
+org.apache.camel.zipkin.ZipkinServerResponseAdapter		0.5882353
+org.apache.camel.zipkin.ZipkinTracer		0.38196287
+org.apache.camel.zipkin.ZipkinLoggingSpanCollector		0.16666667
+org.apache.camel.zipkin.ZipkinHelper		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/SpringZipkinSimpleRouteTest
+SpringZipkinSimpleRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/SpringZipkinSimpleRouteTest_testZipkinRoute_1
+org.apache.camel.zipkin.ZipkinTracer.ZipkinEventNotifier		0.84
+org.apache.camel.zipkin.ZipkinClientRequestAdapter		0.6730769
+org.apache.camel.zipkin.ZipkinServerRequestAdapter		0.66
+org.apache.camel.zipkin.ZipkinState		0.6363636
+org.apache.camel.zipkin.ZipkinClientResponseAdaptor		0.59090906
+org.apache.camel.zipkin.ZipkinTracer.ZipkinRoutePolicy		0.4090909
+org.apache.camel.zipkin.ZipkinTracer		0.35278514
+org.apache.camel.zipkin.ZipkinHelper		0.1875
+org.apache.camel.zipkin.ZipkinLoggingSpanCollector		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/ZipkinABCRouteTest
+ZipkinABCRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/ZipkinABCRouteTest_testZipkinRoute_4
+org.apache.camel.zipkin.ZipkinTracer.ZipkinEventNotifier		0.92
+org.apache.camel.zipkin.ZipkinState		0.8181818
+org.apache.camel.zipkin.ZipkinTracer.ZipkinRoutePolicy		0.77272725
+org.apache.camel.zipkin.ZipkinClientRequestAdapter		0.6730769
+org.apache.camel.zipkin.ZipkinServerRequestAdapter		0.66
+org.apache.camel.zipkin.ZipkinClientResponseAdaptor		0.59090906
+org.apache.camel.zipkin.ZipkinServerResponseAdapter		0.5882353
+org.apache.camel.zipkin.ZipkinTracer		0.48010612
+org.apache.camel.zipkin.ZipkinHelper		0.1875
+org.apache.camel.zipkin.ZipkinLoggingSpanCollector		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/ZipkinClientRecipientListRouteTest
+ZipkinClientRecipientListRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/ZipkinClientRecipientListRouteTest_testZipkinRoute_b
+org.apache.camel.zipkin.ZipkinTracer.ZipkinEventNotifier		0.92
+org.apache.camel.zipkin.ZipkinTracer.ZipkinRoutePolicy		0.77272725
+org.apache.camel.zipkin.ZipkinState		0.72727275
+org.apache.camel.zipkin.ZipkinServerRequestAdapter		0.66
+org.apache.camel.zipkin.ZipkinClientRequestAdapter		0.63461536
+org.apache.camel.zipkin.ZipkinServerResponseAdapter		0.60784316
+org.apache.camel.zipkin.ZipkinClientResponseAdaptor		0.59090906
+org.apache.camel.zipkin.ZipkinTracer		0.43501326
+org.apache.camel.zipkin.ZipkinLoggingSpanCollector		0.16666667
+org.apache.camel.zipkin.ZipkinHelper		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/ZipkinMulticastRouteTest
+ZipkinMulticastRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/ZipkinMulticastRouteTest_testZipkinRoute_8
+org.apache.camel.zipkin.ZipkinTracer.ZipkinEventNotifier		0.92
+org.apache.camel.zipkin.ZipkinState		0.8181818
+org.apache.camel.zipkin.ZipkinTracer.ZipkinRoutePolicy		0.77272725
+org.apache.camel.zipkin.ZipkinClientRequestAdapter		0.6730769
+org.apache.camel.zipkin.ZipkinServerRequestAdapter		0.66
+org.apache.camel.zipkin.ZipkinClientResponseAdaptor		0.59090906
+org.apache.camel.zipkin.ZipkinServerResponseAdapter		0.5882353
+org.apache.camel.zipkin.ZipkinTracer		0.48010612
+org.apache.camel.zipkin.ZipkinHelper		0.1875
+org.apache.camel.zipkin.ZipkinLoggingSpanCollector		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/ZipkinRecipientListRouteTest
+ZipkinRecipientListRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/ZipkinRecipientListRouteTest_testZipkinRoute_0
+org.apache.camel.zipkin.ZipkinTracer.ZipkinEventNotifier		0.92
+org.apache.camel.zipkin.ZipkinState		0.8181818
+org.apache.camel.zipkin.ZipkinTracer.ZipkinRoutePolicy		0.77272725
+org.apache.camel.zipkin.ZipkinClientRequestAdapter		0.6730769
+org.apache.camel.zipkin.ZipkinServerRequestAdapter		0.66
+org.apache.camel.zipkin.ZipkinClientResponseAdaptor		0.59090906
+org.apache.camel.zipkin.ZipkinServerResponseAdapter		0.5882353
+org.apache.camel.zipkin.ZipkinTracer		0.48010612
+org.apache.camel.zipkin.ZipkinHelper		0.1875
+org.apache.camel.zipkin.ZipkinLoggingSpanCollector		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/ZipkinRouteConcurrentTest
+ZipkinRouteConcurrentTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/ZipkinRouteConcurrentTest_testZipkinRoute_6
+org.apache.camel.zipkin.ZipkinTracer.ZipkinEventNotifier		0.92
+org.apache.camel.zipkin.ZipkinClientRequestAdapter		0.63461536
+org.apache.camel.zipkin.ZipkinClientResponseAdaptor		0.59090906
+org.apache.camel.zipkin.ZipkinTracer.ZipkinRoutePolicy		0.59090906
+org.apache.camel.zipkin.ZipkinState		0.45454547
+org.apache.camel.zipkin.ZipkinTracer		0.3050398
+org.apache.camel.zipkin.ZipkinLoggingSpanCollector		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/ZipkinSimpleFallbackRouteTest
+ZipkinSimpleFallbackRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/ZipkinSimpleFallbackRouteTest_testZipkinRoute_a
+org.apache.camel.zipkin.ZipkinTracer.ZipkinEventNotifier		0.84
+org.apache.camel.zipkin.ZipkinState		0.72727275
+org.apache.camel.zipkin.ZipkinTracer.ZipkinRoutePolicy		0.6818182
+org.apache.camel.zipkin.ZipkinServerRequestAdapter		0.66
+org.apache.camel.zipkin.ZipkinClientRequestAdapter		0.63461536
+org.apache.camel.zipkin.ZipkinClientResponseAdaptor		0.59090906
+org.apache.camel.zipkin.ZipkinServerResponseAdapter		0.5882353
+org.apache.camel.zipkin.ZipkinTracer		0.43236074
+org.apache.camel.zipkin.ZipkinLoggingSpanCollector		0.16666667
+org.apache.camel.zipkin.ZipkinHelper		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/ZipkinSimpleLogStreamsRouteTest
+ZipkinSimpleLogStreamsRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/ZipkinSimpleLogStreamsRouteTest_testZipkinRoute_7
+org.apache.camel.zipkin.ZipkinTracer.ZipkinEventNotifier		0.84
+org.apache.camel.zipkin.ZipkinServerRequestAdapter		0.82
+org.apache.camel.zipkin.ZipkinClientRequestAdapter		0.78846157
+org.apache.camel.zipkin.ZipkinClientResponseAdaptor		0.77272725
+org.apache.camel.zipkin.ZipkinServerResponseAdapter		0.74509805
+org.apache.camel.zipkin.ZipkinState		0.72727275
+org.apache.camel.zipkin.ZipkinTracer.ZipkinRoutePolicy		0.6818182
+org.apache.camel.zipkin.ZipkinHelper		0.5625
+org.apache.camel.zipkin.ZipkinTracer		0.3766578
+org.apache.camel.zipkin.ZipkinLoggingSpanCollector		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/ZipkinSimpleRouteTest
+ZipkinSimpleRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/ZipkinSimpleRouteTest_testZipkinRoute_2
+org.apache.camel.zipkin.ZipkinTracer.ZipkinEventNotifier		0.84
+org.apache.camel.zipkin.ZipkinState		0.72727275
+org.apache.camel.zipkin.ZipkinTracer.ZipkinRoutePolicy		0.6818182
+org.apache.camel.zipkin.ZipkinServerRequestAdapter		0.66
+org.apache.camel.zipkin.ZipkinClientRequestAdapter		0.63461536
+org.apache.camel.zipkin.ZipkinClientResponseAdaptor		0.59090906
+org.apache.camel.zipkin.ZipkinServerResponseAdapter		0.5882353
+org.apache.camel.zipkin.ZipkinTracer		0.3766578
+org.apache.camel.zipkin.ZipkinLoggingSpanCollector		0.16666667
+org.apache.camel.zipkin.ZipkinHelper		0.125
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/ZipkinSpanCollectorInRegistryTest
+ZipkinSpanCollectorInRegistryTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/ZipkinSpanCollectorInRegistryTest_testZipkinConfiguration_5
+org.apache.camel.zipkin.ZipkinTracer		0.0053050397
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/ZipkinTwoRouteTest
+ZipkinTwoRouteTest		1.0
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/ZipkinTwoRouteTest_testZipkinRoute_3
+org.apache.camel.zipkin.ZipkinTracer.ZipkinEventNotifier		0.92
+org.apache.camel.zipkin.ZipkinClientRequestAdapter		0.8269231
+org.apache.camel.zipkin.ZipkinServerRequestAdapter		0.82
+org.apache.camel.zipkin.ZipkinState		0.8181818
+org.apache.camel.zipkin.ZipkinClientResponseAdaptor		0.77272725
+org.apache.camel.zipkin.ZipkinTracer.ZipkinRoutePolicy		0.77272725
+org.apache.camel.zipkin.ZipkinServerResponseAdapter		0.74509805
+org.apache.camel.zipkin.ZipkinTracer		0.48010612
+org.apache.camel.zipkin.ZipkinHelper		0.3125
+org.apache.camel.zipkin.ZipkinLoggingSpanCollector		0.16666667
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/test-ManagedZipkinSimpleRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/test-SpringZipkinSimpleRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/test-ZipkinABCRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/test-ZipkinClientRecipientListRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/test-ZipkinMulticastRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/test-ZipkinRecipientListRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/test-ZipkinRouteConcurrentTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/test-ZipkinSimpleFallbackRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/test-ZipkinSimpleLogStreamsRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/test-ZipkinSimpleRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/test-ZipkinSpanCollectorInRegistryTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
+./components/camel-zipkin/target/site/clover/org/apache/camel/zipkin/test-ZipkinTwoRouteTest
+-- -- -- -- -- -- -- -- -- -- -- -- --
