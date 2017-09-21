@@ -8,7 +8,7 @@ and generate coverage results.
 
 ###### 1.1 Add Clover open souce plugin under &lt;build&gt; &lt;pluginManagement&gt; &lt;plugins&gt; 
 
-`<build>  
+```<build>
     ...  
     <pluginManagement>  
         ...  
@@ -33,7 +33,7 @@ and generate coverage results.
         ...
     </plugins>
     ...
-</build >`
+</build >```
 
 ###### 1.2 Add Clover open souce profile under &lt;project&gt; &lt;profiles&gt; 
 
